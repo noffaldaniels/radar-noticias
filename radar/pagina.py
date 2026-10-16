@@ -5,6 +5,8 @@ from radar.modelo import Noticia
 from radar.reglas import SECCIONES
 
 DIAS_SEMANA = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"]
+# Orden en pantalla (distinto de la prioridad para clasificar, que sigue en reglas.SECCIONES)
+ORDEN_PAGINA = ["mesas", "politica", "alto", "tolima", "otras", "sin"]
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
 
 def nombre_archivo(fecha: str, hoy: str) -> str:
@@ -35,7 +37,11 @@ nav .activo{background:var(--azul);color:#fff;border-color:var(--azul)}main{padd
 .aviso{background:#fff3cd;color:#664d03;padding:8px 12px;border-radius:8px;margin:8px 0}h2{font-size:17px;margin:20px 0 8px}
 article{background:var(--tarjeta);border-radius:10px;padding:12px;margin:8px 0;overflow-wrap:anywhere}article h3{font-size:16px;margin:4px 0}
 .meta,.tambien{font-size:13px;color:var(--suave)}.lead{margin:4px 0;font-size:14px}.ver{font-size:14px;color:var(--azul)}
-.nueva{background:var(--nueva);color:#fff;border-radius:4px;padding:1px 5px;font-size:11px;font-weight:700}summary{cursor:pointer}"""
+.nueva{background:var(--nueva);color:#fff;border-radius:4px;padding:1px 5px;font-size:11px;font-weight:700}
+details{background:var(--tarjeta);border-radius:10px;margin:10px 0;padding:0 12px}details[open]{background:none;padding:0}
+summary{cursor:pointer;padding:12px 0;list-style:none;display:flex;justify-content:space-between;align-items:center}
+summary::-webkit-details-marker{display:none}summary h2{display:inline;margin:0}
+summary::after{content:"▾";color:var(--suave);font-size:18px}details[open]>summary::after{content:"▴"}"""
 
 JS = """document.querySelectorAll('[data-filtro]').forEach(b=>b.onclick=()=>{
 document.querySelectorAll('[data-filtro]').forEach(o=>o.classList.toggle('activo',o===b));
@@ -48,16 +54,13 @@ def render_dia(fecha, noticias, dias, hoy, actualizado, reporte, proximo, avisos
     filtros = '<button data-filtro="todos" class="activo">Todos</button>' + "".join(
         f'<button data-filtro="{escape(m)}">{escape(m)}</button>' for m in medios)
     cuerpo = "".join(f'<div class="aviso">⚠ {escape(a)}</div>' for a in avisos)
-    for sid, nombre, icono in SECCIONES:
+    for sid, nombre, icono in sorted(SECCIONES, key=lambda s: ORDEN_PAGINA.index(s[0])):
         grupo = sorted((x for x in noticias if x.seccion == sid), key=lambda x: x.fecha, reverse=True)
         if not grupo:
             continue
         tarjetas = "".join(_tarjeta(x) for x in grupo)
         titulo = f"{icono} {nombre} ({len(grupo)})"
-        if sid == "otras":
-            cuerpo += f"<details><summary><h2 style='display:inline'>{titulo}</h2></summary>{tarjetas}</details>"
-        else:
-            cuerpo += f"<h2>{titulo}</h2>{tarjetas}"
+        cuerpo += f"<details><summary><h2>{titulo}</h2></summary>{tarjetas}</details>"
     if not noticias:
         cuerpo += "<p>Todavía no hay noticias para este día.</p>"
     estado = f"Actualizado {actualizado} (reporte de las {reporte}) · Próxima: {proximo}" if fecha == hoy else "Archivo"

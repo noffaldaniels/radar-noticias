@@ -29,3 +29,10 @@ def test_aviso_de_medio_caido():
 
 def test_textos_largos_no_desbordan_en_celular():
     assert "overflow-wrap:anywhere" in pagina([])
+
+def test_politica_va_antes_de_alto_impacto_y_todo_plegado():
+    xs = [Noticia("Blu Radio", s, f"https://b.co/{s}", "2026-10-16T07:00:00-05:00", seccion=s)
+          for s in ("alto", "politica", "mesas", "tolima")]
+    h = pagina(xs)
+    assert h.index("Mesas de la mañana") < h.index("Política nacional") < h.index("Alto impacto") < h.index("Ibagué y Tolima")
+    assert h.count("<details>") == 4 and "<details open" not in h
