@@ -26,3 +26,6 @@ def test_secciones_en_orden_y_otras_cerrada():
 
 def test_aviso_de_medio_caido():
     assert "La FM no respondió en esta actualización" in pagina([], ["La FM no respondió en esta actualización"])
+
+def test_textos_largos_no_desbordan_en_celular():
+    assert "overflow-wrap:anywhere" in pagina([])

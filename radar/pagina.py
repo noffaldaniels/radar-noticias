@@ -33,7 +33,7 @@ header{background:var(--azul);color:#fff;padding:14px 16px}header h1{margin:0;fo
 nav{display:flex;gap:6px;overflow-x:auto;padding:10px 16px}nav a,nav button{white-space:nowrap;border:1px solid var(--suave);border-radius:16px;padding:4px 10px;color:var(--texto);background:none;font-size:14px;text-decoration:none}
 nav .activo{background:var(--azul);color:#fff;border-color:var(--azul)}main{padding:0 16px 32px;max-width:760px;margin:auto}
 .aviso{background:#fff3cd;color:#664d03;padding:8px 12px;border-radius:8px;margin:8px 0}h2{font-size:17px;margin:20px 0 8px}
-article{background:var(--tarjeta);border-radius:10px;padding:12px;margin:8px 0}article h3{font-size:16px;margin:4px 0}
+article{background:var(--tarjeta);border-radius:10px;padding:12px;margin:8px 0;overflow-wrap:anywhere}article h3{font-size:16px;margin:4px 0}
 .meta,.tambien{font-size:13px;color:var(--suave)}.lead{margin:4px 0;font-size:14px}.ver{font-size:14px;color:var(--azul)}
 .nueva{background:var(--nueva);color:#fff;border-radius:4px;padding:1px 5px;font-size:11px;font-weight:700}summary{cursor:pointer}"""
 

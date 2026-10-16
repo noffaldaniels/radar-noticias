@@ -67,7 +67,8 @@ def lead_de(html_texto: str) -> str:
     for patron in _META:
         m = re.search(patron, html_texto)
         if m:
-            return html.unescape(m.group(1)).strip()
+            texto = re.sub(r"<[^>]+>", "", html.unescape(m.group(1)))
+            return re.sub(r"\s+", " ", texto).strip()
     return ""
 
 def leer_medio(medio: str) -> list[Noticia]:

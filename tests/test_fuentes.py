@@ -38,3 +38,7 @@ def test_xml_roto_lanza_error():
 def test_a_cot_acepta_iso_y_rfc():
     assert a_cot("2026-10-14T13:06:08-05:00") == "2026-10-14T13:06:08-05:00"
     assert a_cot("Fri, 16 Oct 2026 04:01:34 +0000") == "2026-10-15T23:01:34-05:00"
+
+def test_lead_de_quita_etiquetas_html():
+    html = '<meta property="og:description" content="Mire &lt;a href=&quot;https://caracol.com.co/x&quot;&gt;aquí&lt;/a&gt; la nota">'
+    assert lead_de(html) == "Mire aquí la nota"
