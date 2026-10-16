@@ -46,3 +46,9 @@ def test_clasificar_si_ia_falla_usa_palabras():
 def test_clasificar_sin_ia():
     agregar, modo = clasificar([n("Lotería de hoy")], [], None)
     assert modo == "palabras" and agregar[0].seccion == "otras"
+
+def test_clasificar_anota_por_que_fallo_la_ia(capsys):
+    def rota(mensajes):
+        raise RuntimeError("límite diario")
+    clasificar([n("Atentado en Cali")], [], rota)
+    assert "límite diario" in capsys.readouterr().err

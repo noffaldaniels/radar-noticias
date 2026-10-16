@@ -1,4 +1,5 @@
 import json
+import sys
 import urllib.request
 
 from radar.modelo import Noticia
@@ -60,7 +61,11 @@ def llamar_github_models(mensajes: list[dict], token: str, modelo: str = "openai
     pedido = urllib.request.Request(URL_MODELOS, data=cuerpo, method="POST", headers={
         "Authorization": f"Bearer {token}", "Content-Type": "application/json", "Accept": "application/json"})
     with urllib.request.urlopen(pedido, timeout=60) as r:
-        return json.loads(r.read().decode("utf-8"))["choices"][0]["message"]["content"]
+        crudo = r.read().decode("utf-8", "ignore")
+    try:
+        return json.loads(crudo)["choices"][0]["message"]["content"]
+    except (json.JSONDecodeError, KeyError, IndexError, TypeError):
+        raise ValueError(f"respuesta inesperada de GitHub Models: {crudo[:200]!r}")
 
 def _pegar(base: Noticia, repetida: Noticia) -> None:
     base.tambien.append({"medio": repetida.medio, "enlace": repetida.enlace})
@@ -84,7 +89,9 @@ def clasificar(nuevas: list[Noticia], recientes: list[Noticia], llamar) -> tuple
                     _pegar(lote[int(igual[1:])], x)
                 else:
                     agregar.append(x)
-        except Exception:
+        except Exception as e:
+            if llamar is not None:
+                print(f"IA no disponible, se usan palabras clave: {type(e).__name__}: {e}"[:400], file=sys.stderr)
             modos.add("palabras")
             for x in lote:
                 x.seccion = seccion_por_palabras(x)
