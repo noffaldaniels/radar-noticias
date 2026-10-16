@@ -3318,7 +3318,7 @@
   "palabras": "Nutrición",
   "lead": "Los tratamientos que reducen el apetito plantean nuevos retos nutricionales. La calidad de los alimentos, el aporte de nutrientes y el cuidado muscular son claves durante este proceso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3329,7 +3329,7 @@
   "palabras": "Viral, Video, Tendencias, China",
   "lead": "El hombre rompió en llanto al descubrir el contenido del regalo y, frente a los invitados, levantó la caja por encima de su cabeza en señal de victoria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3340,7 +3340,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 16 de octubre de 2026 en Mañanas Blu.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3351,7 +3351,7 @@
   "palabras": "Noticias de hoy, Ryan Castro",
   "lead": "Entre los asistentes se encuentran personas provenientes de municipios como Palmira, Tuluá y Buenaventura, así como visitantes internacionales de países como México, España y Ecuador.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3362,7 +3362,7 @@
   "palabras": "Noticias de hoy, Fútbol, Uruguay",
   "lead": "El nuevo mecanismo permite registrar automáticamente las sanciones y enviar la información al sistema COMET en tiempo real.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3373,7 +3373,7 @@
   "palabras": "Fiscalía General de la Nación, Medellín",
   "lead": "La indagación busca establecer si hubo intervención indebida de servidores públicos en el proceso de selección y designación del gerente general de Afinia, filial del Grupo EPM encargada de prestar el servicio de energía eléctrica en Córdoba, Sucre, Bolívar y Cesar.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3384,7 +3384,7 @@
   "palabras": "Llaneros FC, Entrevista, Llaneros, entrenador de Llaneros, técnico de Llaneros",
   "lead": "Ya son 11 los técnicos que han salido de la liga colombiana en este segundo semestre del 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3395,7 +3395,7 @@
   "palabras": "Santander, Fiscalía General de la Nación, Noticias de hoy, Blu Radio",
   "lead": "La Fiscalía identificó a cinco presuntos integrantes de ‘Caravanas’, grupo señalado de hurtar maquinaria pesada avaluada en $2.734 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3406,7 +3406,7 @@
   "palabras": "Noticias de hoy, Comisión de Regulación de Energía y Gas",
   "lead": "Según los últimos indicadores, las plantas térmicas produjeron 92 GWh/día, de los 100 GWh/día que exige la medida de la CREG.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3417,7 +3417,7 @@
   "palabras": "Gatos, Antioquia, Noticias de hoy",
   "lead": "La comunidad del Bajo Cauca antioqueño exige investigaciones urgentes a las autoridades para dar con los responsables de la matanza indiscriminada de felinos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3428,7 +3428,7 @@
   "palabras": "Santander, Hospital Universitario de Santander, Blu Radio, Noticias de hoy",
   "lead": "La ocupación del servicio de urgencias para adultos llegó al 187 % en Bucaramanga. El hospital reportó que 18 pacientes completan más de 12 horas a la espera de un traslado a otras instituciones de salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3439,7 +3439,7 @@
   "palabras": "Colegio Médico Colombiano",
   "lead": "El presidente del Colegio Médico Colombiano, Stevenson Marulanda, advierte que el registro de historias clínicas, la formulación de medicamentos y la digitación de exámenes aumentan la carga laboral de los profesionales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3450,7 +3450,7 @@
   "palabras": "",
   "lead": "Durante la jornada se desarrollaron nueve campañas preventivas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3461,7 +3461,7 @@
   "palabras": "",
   "lead": "La Fundación Colombia Luz y Sonrisas, fundada y representada legalmente por la primera dama, Ana Lucía Pineda, presentó un reporte de su gestión en el marco de la emergencia por el terremoto del pasado 10 de agosto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3472,7 +3472,7 @@
   "palabras": "",
   "lead": "Katie Zacharia dejó el cargo luego de que Donald Trump cuestionara si estaba lista para el cargo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3483,7 +3483,7 @@
   "palabras": "",
   "lead": "Luis Carlos Reyes, exdirector de la DIAN, cuestionó en Dos Puntos la lentitud de la Fiscalía General en la investigación contra Armando Benedetti",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3494,7 +3494,7 @@
   "palabras": "",
   "lead": "Ciudadanos denuncian que jóvenes aprovechan los fuertes aguaceros para robar, principalmente, a motociclistas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3505,7 +3505,7 @@
   "palabras": "",
   "lead": "El equipo bogotano se medirá este sábado ante el cuadro de Montería por la fecha 15 del campeonato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3516,7 +3516,7 @@
   "palabras": "",
   "lead": "La entidad pidió reforzar la prevención ante el riesgo de transmisión en 16 departamentos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3527,7 +3527,7 @@
   "palabras": "",
   "lead": "Los líderes de la Unión Europea coincidieron en mantener e impulsar el apoyo a Ucrania y confirmaron que darán un impulso a las “necesidades financieras adicionales de la guerra”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3538,7 +3538,7 @@
   "palabras": "",
   "lead": "Millonarios, la Dimayor y el IDRD realizaron una visita técnica de inspección a la grama, asegurando que se encuentra en condiciones aptas para el partido del sábado 17 de octubre frente a Jaguares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3549,7 +3549,7 @@
   "palabras": "",
   "lead": "El alcalde encargado de Medellín, Manuel Villa, insiste en que es la información que les ha llegado, pero que no han ingresado a centros asistenciales de la ciudad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3560,7 +3560,7 @@
   "palabras": "",
   "lead": "Igualmente, rechazó los señalamientos contra la labor investigativa de la Fiscalía por falta de sustento probatorio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3571,7 +3571,7 @@
   "palabras": "",
   "lead": "Cinco explosivos habrían sido lanzados contra sedes oficiales del municipio, como la alcaldía y el palacio municipal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3582,7 +3582,7 @@
   "palabras": "",
   "lead": "Familiares de Neivi Luz Berrío Barrios, indicaron que no tenían noticias de ella hasta esa publicación que se hizo viral",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3593,7 +3593,7 @@
   "palabras": "",
   "lead": "El balance ambiental de la situación de la Amazonía brasileña se conoce en medio de la campaña presidencial del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3604,7 +3604,7 @@
   "palabras": "",
   "lead": "Líderes gremiales y locales buscan destrabar recursos de peajes para resolver cuellos de botella viales que benefician a más de 786.000 habitantes antes de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3615,7 +3615,7 @@
   "palabras": "",
   "lead": "La Fiscalía señala al docente de aprovechar su posición de autoridad para agredir a una adolescente de 15 años dentro de un colegio. También habría ejercido acoso sexual durante los dos meses previos al hecho.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3626,7 +3626,7 @@
   "palabras": "",
   "lead": "En video quedó registrado el momento cuando el sujeto armado llegó al establecimiento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3637,7 +3637,7 @@
   "palabras": "",
   "lead": "El artista cartagenero explora la pasión y la sensualidad a través del afrobeat en una colaboración que busca impulsar su proyección dentro de la música urbana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3648,7 +3648,7 @@
   "palabras": "",
   "lead": "El ‘Poderoso’ está en busca de clasificarse a los ocho mejores, el Once Caldas quiere seguir en la pelea.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3659,7 +3659,7 @@
   "palabras": "Deportes,FIFA,Elecciones presidenciales,Gianni Infantino,Candidato presidencial,Candidatura presidencial",
   "lead": "La figura de Infantino ha sido puesta en duda, teniendo en cuenta sus últimos anuncios como presidente de la FIFA.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3670,7 +3670,7 @@
   "palabras": "Sociedad,Ministerio del Trabajo,Reforma laboral,Propuestas,decreto,Trámites,Sindicatos,Negociación,Acuerdos internacionales,Abuso laboral,Despido laboral",
   "lead": "El gobierno nacional a través del Ministerio del Trabajo abrió a consulta pública ocho proyectos de decreto relacionados con tercerización laboral, pactos ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3681,7 +3681,7 @@
   "palabras": "Orden Público,Ataque a la fuerza publica,Drones,Huila,Alteración al orden público",
   "lead": "En el mismo lugar funciona la alcaldía municipal, es el segundo ataque con drones en el departamento en menos de 24 horas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3692,7 +3692,7 @@
   "palabras": "Actualidad,renuncia a trabajo,Medio ambiente,Agencia Nacional de Tierras",
   "lead": "Yordy Medina Noriegua presentó su renuncia como asesor de comunicaciones de la Agencia Nacional de Tierras (ANT) tras la polémica por un video en el que ap...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3703,6 +3703,391 @@
   "palabras": "Sociedad,Conservación de especies,Biodiversidad,Coalición,Ministerio de Ambiente,Acuerdos internacionales,Acciones sostenibles,Proyectos sostenibles,Objetivos de Desarrollo Sostenible",
   "lead": "La alianza reúne a 16 gobiernos y busca impulsar medidas específicas para proteger la biodiversidad, con objetivos medibles de recuperación de poblaciones ...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En alerta 485 municipios por deslizamientos: 16 de octubre 2026, Meridiano Blu, programa completo",
+  "enlace": "https://www.bluradio.com/meridiano-blu/en-alerta-485-municipios-por-deslizamientos-16-de-octubre-2026-meridiano-blu-programa-completo-pr30",
+  "fecha": "2026-10-16T16:36:29-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre murió mientras corría en una caminadora del gimnasio: todo quedó en video",
+  "enlace": "https://www.bluradio.com/mundo/hombre-murio-mientras-corria-en-una-caminadora-del-gimnasio-todo-quedo-en-video-rs15",
+  "fecha": "2026-10-16T16:37:29-05:00",
+  "palabras": "Viral, Redes sociales, Video",
+  "lead": "Aunque fue trasladado a un hospital, los médicos confirmaron su muerte.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Vuelos baratos a Bogotá, Medellín y Cali por menos de 50.000 pesos",
+  "enlace": "https://www.bluradio.com/turismo/asi-puede-encontrar-vuelos-por-menos-de-50-000-a-bogota-medellin-y-cali-so35",
+  "fecha": "2026-10-16T16:59:45-05:00",
+  "palabras": "Viajes, Turismo",
+  "lead": "Hay vuelos hasta junio de 2027 en los principales destinos nacionales y, a su vez, algunos internacionales a menos de medio millón de pesos a grandes ciudades de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Uruguay prueba las tarjetas digitales: 16 de octubre 2026 - Blog Deportivo programa completo",
+  "enlace": "https://www.bluradio.com/blog-deportivo/uruguay-prueba-las-tarjetas-digitales-16-de-octubre-2026-blog-deportivo-programa-completo-pr30",
+  "fecha": "2026-10-16T17:01:29-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este viernes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 1.200 colombianos aprendieron cómo actuar ante un paro cardíaco en 2026",
+  "enlace": "https://www.bluradio.com/salud/mas-de-1-200-colombianos-aprendieron-como-actuar-ante-un-paro-cardiaco-en-2026-rg10",
+  "fecha": "2026-10-16T16:27:03-05:00",
+  "palabras": "Corazón",
+  "lead": "La Fundación Colombiana del Corazón reportó 1.258 personas sensibilizadas en seis ciudades del país a través de su programa Manos que Salvan Vidas. La iniciativa busca que más ciudadanos sepan cómo actuar ante un posible paro cardíaco.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Las 4 formas de implementar Inteligencia Artificial: una de ellas no necesita de internet",
+  "enlace": "https://www.bluradio.com/tecnologia/las-4-formas-de-implementar-inteligencia-artificial-una-de-ellas-no-necesita-de-internet-pr30",
+  "fecha": "2026-10-16T16:31:15-05:00",
+  "palabras": "IA, Inteligencia Artificial, Internet, IA, Inteligencia Artificial",
+  "lead": "No todas las herramientas de Inteligencia Artificial necesitan conexión a internet para funcionar con éxito, saber si esta modalidad le funciona dependerá del uso para el que lo vaya a destinar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcalde de Teruel ordenó evacuar la Administración Municipal horas antes de los ataques con drones",
+  "enlace": "https://www.bluradio.com/nacion/alcalde-de-teruel-ordeno-evacuar-la-administracion-municipal-horas-antes-de-los-ataques-con-drones-rg10",
+  "fecha": "2026-10-16T16:30:27-05:00",
+  "palabras": "Noticias de hoy, Huila",
+  "lead": "El mandatario, además, pidió refuerzos luego de los ataques que fueron perpetrados en la tarde de este viernes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Policía elimina la Undmo y reactiva el Esmad: así es la nueva estructura antidisturbios",
+  "enlace": "https://www.bluradio.com/nacion/policia-elimina-la-undmo-y-reactiva-el-esmad-asi-es-la-nueva-estructura-antidisturbios-rg10",
+  "fecha": "2026-10-16T16:36:28-05:00",
+  "palabras": "Esmad, Gobierno nacional",
+  "lead": "La Policía Nacional cambió el nombre de la Unidad de Diálogo y Mantenimiento del Orden, Undmo, que ahora pasa a denominarse Unidad Nacional Antidisturbios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Seis personas sufrieron lesiones por manipular explosivos en durante protestas en la UdeA",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/seis-personas-sufrieron-lesiones-por-manipular-explosivos-en-durante-protestas-en-la-udea-rg10",
+  "fecha": "2026-10-16T16:34:39-05:00",
+  "palabras": "Noticias de hoy, Antioquia",
+  "lead": "El alcalde encargado de la ciudad, Manuel Villa, confirmó el reporte inicialmente entregado por el gobernador Andrés Julián Rendón",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Congresistas alertan a organismos internacionales por posible recorte de presupuesto a JEP en 2027",
+  "enlace": "https://www.bluradio.com/nacion/congresistas-alertan-a-organismos-internacionales-por-posible-recorte-de-presupuesto-a-jep-en-2027-rg10",
+  "fecha": "2026-10-16T16:49:24-05:00",
+  "palabras": "JEP, Corte Penal Internacional",
+  "lead": "Se trata de 3 cartas que fueron dirigidas a la Fiscalía de la Corte Penal Internacional, la CIDH y el Congreso de Estados Unidos. Los legisladores firmantes advierten sobre posibles afectaciones a investigaciones, sanciones y derechos de víctimas del conflicto armado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bogotanos tienen nuevo plan para fines de semana: llega montaña rusa inspirada en ave emblemática",
+  "enlace": "https://www.bluradio.com/turismo/bogotanos-tienen-nuevo-plan-para-fines-de-semana-llega-montana-rusa-inspirada-en-ave-emblematica-so35",
+  "fecha": "2026-10-16T17:04:51-05:00",
+  "palabras": "Salitre Mágico, Bogotá",
+  "lead": "La atracción, que requirió una inversión de US$5 millones, cuenta con un recorrido de 350 metros e incorpora tres tirabuzones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colegio Médico Colombiano pide reforzar la prevención ante más de 83.000 casos de dengue en el país",
+  "enlace": "https://www.bluradio.com/salud/colegio-medico-colombiano-pide-reforzar-la-prevencion-ante-mas-de-83-000-casos-de-dengue-en-el-pais-rg10",
+  "fecha": "2026-10-16T17:00:57-05:00",
+  "palabras": "Dengue, Instituto Nacional de Salud",
+  "lead": "El Colegio Médico Colombiano pidió mantener las medidas de prevención y fortalecer la vigilancia epidemiológica. Según el Instituto Nacional de Salud, hasta el 3 de octubre se habían notificado 83.382 casos de dengue en el país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué localidades atravesará la línea 2 del Metro de Bogotá?: Serán 11 estaciones en 15,5 kilómetros",
+  "enlace": "https://caracol.com.co/2026/10/16/que-localidades-atravesara-la-linea-2-del-metro-de-bogota-seran-11-estaciones-en-155-kilometros/",
+  "fecha": "2026-10-16T16:58:15-05:00",
+  "palabras": "",
+  "lead": "Le contamos cuál va hacer la trayectoria de la segunda línea del metro, las localidades que conectará y cuánto durará el recorrido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Venezuela: tercer ciclo de negociaciones plantea retiro de inhabilidades políticas",
+  "enlace": "https://caracol.com.co/2026/10/16/venezuela-tercer-ciclo-de-negociaciones-plantea-retiro-de-inhabilidades-politicas/",
+  "fecha": "2026-10-16T16:56:23-05:00",
+  "palabras": "",
+  "lead": "La negociación de la mesa de diálogo ocurre mientras el partido de María Corina Machado pide levantar su inhabilidad política.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta Temprana para Jamundí y reclutamiento forzado de niñas, niños y adolescentes",
+  "enlace": "https://caracol.com.co/2026/10/16/alerta-temprana-para-jamundi-y-reclutamiento-forzado-de-ninas-ninos-y-adolescentes/",
+  "fecha": "2026-10-16T16:42:45-05:00",
+  "palabras": "",
+  "lead": "Defensoría del Pueblo formulan 36 recomendaciones a entidades para proteger a la población con acciones de respuesta conjunta rápidas y efectivas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hospital Universitario de Santander declara alerta roja por sobreocupación del 187 % en urgencias",
+  "enlace": "https://caracol.com.co/2026/10/16/hospital-universitario-de-santander-declara-alerta-roja-por-sobreocupacion-del-187-en-urgencias/",
+  "fecha": "2026-10-16T16:37:00-05:00",
+  "palabras": "",
+  "lead": "El HUS atiende a 217 pacientes en 116 camillas habilitadas según el reciente reporte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La influencer Melanie Jovanovic recuerda lo que aprendió de belleza mucho antes de crear contenido",
+  "enlace": "https://caracol.com.co/2026/10/16/la-influencer-melanie-jovanovic-recuerda-lo-que-aprendio-de-belleza-mucho-antes-de-crear-contenido/",
+  "fecha": "2026-10-16T16:43:13-05:00",
+  "palabras": "",
+  "lead": "Antes de grabar su primer video, Melanie Jovanovic ya llevaba años mirando cómo se arreglaban las mujeres de su familia. Esa costumbre de niña, dice la creadora de contenido venezolana, terminó convertida en oficio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Javier Azócar, el artista del azúcar que hizo de París el taller de su doble herencia",
+  "enlace": "https://caracol.com.co/2026/10/16/javier-azocar-el-artista-del-azucar-que-hizo-de-paris-el-taller-de-su-doble-herencia/",
+  "fecha": "2026-10-16T16:40:30-05:00",
+  "palabras": "",
+  "lead": "Nacido en Cabimas, criado en Maracaibo y establecido en París, Javier Azócar, cake artist y empresario, construyó un lenguaje propio con las dos culturas que hoy conviven en cada una de sus piezas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez anuló tramité de cabildo abierto en Quimbaya, Quindío para debatir proyecto Territorio Panaca",
+  "enlace": "https://caracol.com.co/2026/10/16/juez-anulo-tramite-de-cabildo-abierto-en-quimbaya-quindio-para-debatir-proyecto-territorio-panaca/",
+  "fecha": "2026-10-16T16:35:52-05:00",
+  "palabras": "",
+  "lead": "La Veeduría Quimbaya interpuso una acción de tutela buscando garantizar el derecho fundamental al debido proceso administrativo y la participación democrática",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exjugador del Bayern Múnich criticó con dureza a Luis Díaz: “Está fuera de forma”",
+  "enlace": "https://caracol.com.co/2026/10/16/exjugador-del-bayern-munich-critica-con-dureza-a-luis-diaz-esta-fuera-de-forma/",
+  "fecha": "2026-10-16T16:36:07-05:00",
+  "palabras": "",
+  "lead": "El ex-jugador del club criticó al colombiano y destacó la influencia de Michael Olise en el ataque del equipo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ibagué será sede del Encuentro Internacional de Centros Culturales y Museos Panópticos",
+  "enlace": "https://caracol.com.co/2026/10/16/ibague-sera-sede-del-encuentro-internacional-de-centros-culturales-y-museos-panopticos/",
+  "fecha": "2026-10-16T16:33:30-05:00",
+  "palabras": "",
+  "lead": "Del 28 al 30 de octubre, representantes de ocho países participarán en un espacio que reunirá a nueve panópticos de Iberoamérica.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así es “Victoria colombiana”, el nenúfar gigante descubierto en Guainía, que se ve desde el espacio",
+  "enlace": "https://caracol.com.co/2026/10/16/asi-es-victoria-colombiana-el-nenufar-gigante-descubierto-en-guainia-que-se-ve-desde-el-espacio/",
+  "fecha": "2026-10-16T16:31:10-05:00",
+  "palabras": "",
+  "lead": "La planta acuática fue descubierta en una expedición científica, impulsada por una ‘selfie’ publicada en Instagram.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hasta cuándo pagan la prima de Navidad en 2026: ¿Quiénes la reciben y cómo calcularla?",
+  "enlace": "https://caracol.com.co/2026/10/16/hasta-cuando-pueden-pagar-la-prima-de-navidad-en-2026-quienes-la-reciben-y-como-calcularla/",
+  "fecha": "2026-10-16T16:23:14-05:00",
+  "palabras": "",
+  "lead": "La prima de Navidad es uno de los bonos que más esperan los colombianos a fin de año. Siga el paso a paso y no cometa errores al calcularla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En 21 municipios del Valle bajaron los homicidios durante septiembre de 2026",
+  "enlace": "https://caracol.com.co/2026/10/16/en-21-municipios-del-valle-bajaron-los-homicidios-durante-septiembre-de-2026/",
+  "fecha": "2026-10-16T16:20:11-05:00",
+  "palabras": "",
+  "lead": "Quince municipios registraron cero homicidios en el mes de septiembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fue capturado alias ‘Julito’, temido delincuente en Bucaramanga y el área",
+  "enlace": "https://caracol.com.co/2026/10/16/fue-capturado-alias-julito-temido-delincuente-en-bucaramanga-y-el-area/",
+  "fecha": "2026-10-16T16:05:33-05:00",
+  "palabras": "",
+  "lead": "Era señalado de coordinar diferentes homicidios y el tráfico local de drogas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperar confianza en Mercado Mayorista y Minorista de energía: conclusión del Congreso MEM",
+  "enlace": "https://caracol.com.co/2026/10/16/recuperar-confianza-en-mercado-mayorista-y-minorista-de-energia-conclusion-del-congreso-mem/",
+  "fecha": "2026-10-16T16:07:16-05:00",
+  "palabras": "",
+  "lead": "Durante tres días empresas, autoridades y expertos estuvieron reunidos en Cartagena",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Erosión costera y lluvias afectan una docena de viviendas en Puerto Colombia",
+  "enlace": "https://caracol.com.co/2026/10/16/erosion-costera-y-lluvias-afectan-una-docena-de-viviendas-en-puerto-colombia/",
+  "fecha": "2026-10-16T16:07:14-05:00",
+  "palabras": "",
+  "lead": "La emergencia se registra en el sector de Vista Mar, en la zona conocida como El Barranco.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La IUB abre inscripciones para cursos de idiomas: conozca cómo inscribirse",
+  "enlace": "https://caracol.com.co/2026/10/16/la-iub-abre-inscripciones-para-cursos-de-idiomas-conozca-como-inscribirse/",
+  "fecha": "2026-10-16T16:05:35-05:00",
+  "palabras": "",
+  "lead": "La Institución Universitaria de Barranquilla ofrece formación gratuita en idiomas a sus estudiantes y extiende esta oportunidad a toda la ciudadanía. Las inscripciones para personas externas estarán abiertas del 23 al 28 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nelson Javier Alarcón Suárez es elegido presidente de la CUT",
+  "enlace": "https://www.lafm.com.co/sociedad/presidente-cut-nuevo-dirigente-centrales-obreras-oposicion-414219",
+  "fecha": "2026-10-16T16:31:00-05:00",
+  "palabras": "Sociedad,Abelardo de la Espriella,Sindicatos,Oposición,protesta Fecode,Protestas en Colombia,Organizaciones sociales,Líderes sociales,Activistas",
+  "lead": "Nelson Javier Alarcón Suárez se convirtió en el nuevo presidente de la Central Unitaria de Trabajadores de Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Identificaron responsables del ataque a turista australiano",
+  "enlace": "https://www.lafm.com.co/orden-publico/identificaron-responsables-del-ataque-a-turista-australiano-414218",
+  "fecha": "2026-10-16T16:25:00-05:00",
+  "palabras": "Orden Público,Australia,Colombia,Puñalada,Alteración al orden público,Días festivos,Medellín, Colombia",
+  "lead": "Según el relato de su esposa, el turista habría sido secuestrado después del evento y subido a la parte trasera de un carro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Victoria colombiana: descubren un nenúfar de 2,5 metros",
+  "enlace": "https://www.lafm.com.co/sociedad/victoria-colombiana-nueva-especie-nenufar-gigante-hojas-2-5-metros-414217",
+  "fecha": "2026-10-16T16:25:00-05:00",
+  "palabras": "Sociedad,Orinoquía,Biodiversidad,Vegetación,Amazonas",
+  "lead": "El hallazgo se publicó en la revista científica Phytotaxa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Primera dama divulgó recaudo para víctimas del terremoto",
+  "enlace": "https://www.lafm.com.co/politica/primera-dama-cuentas-fundacion-terremoto-reconstruccion-colombia-414216",
+  "fecha": "2026-10-16T16:22:00-05:00",
+  "palabras": "Política,Terremoto en Colombia,Donaciones,Ayudas humanitarias,damnificados,viviendas destruidas,Víctimas,Rendición de cuentas,Quibdó,hogares,Financiamiento",
+  "lead": "La primera dama, Ana Lucía Pineda, publicó la rendición de cuentas de su fundación: 54.589 millones de pesos en donaciones privadas tras el terremoto del 1...",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pronóstico del Ideam para el 17 y 18 de octubre en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/clima-colombia-pronostico-ideam-17-y-18-de-octubre-lluvias-fenomeno-de-el-nino-414214",
+  "fecha": "2026-10-16T16:08:00-05:00",
+  "palabras": "Sociedad,Lluvias,Bogotá,Tormenta eléctrica,Cundinamarca,Catatumbo,Región Caribe,Eje Cafetero",
+  "lead": "El pronóstico contempla tormentas eléctricas en varios departamentos, mientras la capital tendrá temperaturas de hasta 22°C y nubosidad durante las tardes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Obras de ampliación del aeropuerto de Medellin van hasta 2027",
+  "enlace": "https://www.lafm.com.co/sociedad/medellin-aeropuerto-jose-maria-cordova-empieza-obras-ampliacion-nuevas-areas-habilitadas-414210",
+  "fecha": "2026-10-16T15:39:00-05:00",
+  "palabras": "Sociedad,Agencia Nacional de infraestructura,aeropuerto,Rionegro,Antioquia,infraestructura,Operaciones aéreas,Aviones,aviación,Transporte de pasajeros",
+  "lead": "El aeropuerto José María Córdova habilitó nuevos módulos de check-in y un filtro internacional. Las obras buscan ampliar su capacidad a 17,5 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Policía: UNDMO pasa a ser la Unidad Nacional Antidisturbios",
+  "enlace": "https://www.lafm.com.co/orden-publico/policia-cambia-nombre-unidad-antidisturbios-undmo-abelardo-414208",
+  "fecha": "2026-10-16T15:24:00-05:00",
+  "palabras": "Orden Público,Manifestaciones,Manifestantes,Policía Nacional",
+  "lead": "La Policía Nacional expidió la Resolución 03226 del 13 de octubre de 2026, con la que define la estructura de la Unidad Nacional Antidisturbios (UNADI), qu...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
