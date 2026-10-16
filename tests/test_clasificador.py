@@ -9,7 +9,8 @@ def n(titulo, palabras="", medio="Blu Radio", enlace=None):
 def test_palabras_respeta_prioridad():
     assert seccion_por_palabras(n("Ministro de Hacienda en Mañanas Blu")) == "mesas"
     assert seccion_por_palabras(n("Fuerte sismo en Ibagué")) == "alto"
-    assert seccion_por_palabras(n("Gobernador del Tolima y el Congreso")) == "politica"
+    assert seccion_por_palabras(n("Gobernador del Tolima y el Congreso")) == "tolima"
+    assert seccion_por_palabras(n("Ministro y el Congreso")) == "politica"
     assert seccion_por_palabras(n("Feria en Ibagué")) == "tolima"
     assert seccion_por_palabras(n("Resultados de la lotería")) == "otras"
     assert seccion_por_palabras(n("Entrevista", palabras="Política,Juan Lozano")) == "mesas"
@@ -52,3 +53,10 @@ def test_clasificar_anota_por_que_fallo_la_ia(capsys):
         raise RuntimeError("límite diario")
     clasificar([n("Atentado en Cali")], [], rota)
     assert "límite diario" in capsys.readouterr().err
+
+def test_ibague_gana_sobre_politica():
+    assert seccion_por_palabras(n("Alcaldesa de Ibagué anuncia cierre de vías")) == "tolima"
+
+def test_partido_de_futbol_no_es_politica():
+    assert seccion_por_palabras(n("Nacional ganó el partido contra Millonarios")) == "otras"
+    assert seccion_por_palabras(n("El Partido Liberal define candidato")) == "politica"

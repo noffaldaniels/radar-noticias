@@ -12,7 +12,7 @@ def seccion_por_palabras(n: Noticia) -> str:
     texto = texto_plano(f"{n.titulo} {n.palabras} {n.lead}")
     if any(p in texto for p in PROGRAMAS):
         return "mesas"
-    for seccion in ("alto", "politica", "tolima"):
+    for seccion in ("alto", "tolima", "politica"):  # Tolima gana sobre política (pedido de Noffal)
         if any(p in texto for p in PALABRAS[seccion]):
             return seccion
     return "otras"

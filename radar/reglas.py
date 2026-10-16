@@ -21,7 +21,7 @@ PALABRAS = {
     "politica": ["petro", "presidente", "gobierno", "ministro", "ministra", "ministerio", "congreso",
                  "senado", "senador", "camara de representantes", "representante a la camara",
                  "reforma", "procurador", "fiscal general", "contralor", "registraduria", "elecciones",
-                 "candidato", "partido", "corte constitucional", "consejo de estado", "centro democratico",
+                 "candidato", "partido politico", "partido liberal", "partido conservador", "corte constitucional", "consejo de estado", "centro democratico",
                  "pacto historico", "uribe", "gobernador", "alcalde"],
     "tolima": ["ibague", "tolima", "tolimense", "espinal", "melgar", "honda", "mariquita", "chaparral",
                "libano", "flandes", "guamo", "purificacion", "planadas", "rioblanco", "ataco", "fresno",
