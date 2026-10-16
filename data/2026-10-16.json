@@ -3714,7 +3714,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3725,7 +3725,7 @@
   "palabras": "Viral, Redes sociales, Video",
   "lead": "Aunque fue trasladado a un hospital, los médicos confirmaron su muerte.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3736,7 +3736,7 @@
   "palabras": "Viajes, Turismo",
   "lead": "Hay vuelos hasta junio de 2027 en los principales destinos nacionales y, a su vez, algunos internacionales a menos de medio millón de pesos a grandes ciudades de la región.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3747,7 +3747,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este viernes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3758,7 +3758,7 @@
   "palabras": "Corazón",
   "lead": "La Fundación Colombiana del Corazón reportó 1.258 personas sensibilizadas en seis ciudades del país a través de su programa Manos que Salvan Vidas. La iniciativa busca que más ciudadanos sepan cómo actuar ante un posible paro cardíaco.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3769,7 +3769,7 @@
   "palabras": "IA, Inteligencia Artificial, Internet, IA, Inteligencia Artificial",
   "lead": "No todas las herramientas de Inteligencia Artificial necesitan conexión a internet para funcionar con éxito, saber si esta modalidad le funciona dependerá del uso para el que lo vaya a destinar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3780,7 +3780,7 @@
   "palabras": "Noticias de hoy, Huila",
   "lead": "El mandatario, además, pidió refuerzos luego de los ataques que fueron perpetrados en la tarde de este viernes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3791,7 +3791,7 @@
   "palabras": "Esmad, Gobierno nacional",
   "lead": "La Policía Nacional cambió el nombre de la Unidad de Diálogo y Mantenimiento del Orden, Undmo, que ahora pasa a denominarse Unidad Nacional Antidisturbios.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3802,7 +3802,7 @@
   "palabras": "Noticias de hoy, Antioquia",
   "lead": "El alcalde encargado de la ciudad, Manuel Villa, confirmó el reporte inicialmente entregado por el gobernador Andrés Julián Rendón",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3813,7 +3813,7 @@
   "palabras": "JEP, Corte Penal Internacional",
   "lead": "Se trata de 3 cartas que fueron dirigidas a la Fiscalía de la Corte Penal Internacional, la CIDH y el Congreso de Estados Unidos. Los legisladores firmantes advierten sobre posibles afectaciones a investigaciones, sanciones y derechos de víctimas del conflicto armado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3824,7 +3824,7 @@
   "palabras": "Salitre Mágico, Bogotá",
   "lead": "La atracción, que requirió una inversión de US$5 millones, cuenta con un recorrido de 350 metros e incorpora tres tirabuzones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3835,7 +3835,7 @@
   "palabras": "Dengue, Instituto Nacional de Salud",
   "lead": "El Colegio Médico Colombiano pidió mantener las medidas de prevención y fortalecer la vigilancia epidemiológica. Según el Instituto Nacional de Salud, hasta el 3 de octubre se habían notificado 83.382 casos de dengue en el país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3846,7 +3846,7 @@
   "palabras": "",
   "lead": "Le contamos cuál va hacer la trayectoria de la segunda línea del metro, las localidades que conectará y cuánto durará el recorrido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3857,7 +3857,7 @@
   "palabras": "",
   "lead": "La negociación de la mesa de diálogo ocurre mientras el partido de María Corina Machado pide levantar su inhabilidad política.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3868,7 +3868,7 @@
   "palabras": "",
   "lead": "Defensoría del Pueblo formulan 36 recomendaciones a entidades para proteger a la población con acciones de respuesta conjunta rápidas y efectivas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3879,7 +3879,7 @@
   "palabras": "",
   "lead": "El HUS atiende a 217 pacientes en 116 camillas habilitadas según el reciente reporte.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3890,7 +3890,7 @@
   "palabras": "",
   "lead": "Antes de grabar su primer video, Melanie Jovanovic ya llevaba años mirando cómo se arreglaban las mujeres de su familia. Esa costumbre de niña, dice la creadora de contenido venezolana, terminó convertida en oficio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3901,7 +3901,7 @@
   "palabras": "",
   "lead": "Nacido en Cabimas, criado en Maracaibo y establecido en París, Javier Azócar, cake artist y empresario, construyó un lenguaje propio con las dos culturas que hoy conviven en cada una de sus piezas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3912,7 +3912,7 @@
   "palabras": "",
   "lead": "La Veeduría Quimbaya interpuso una acción de tutela buscando garantizar el derecho fundamental al debido proceso administrativo y la participación democrática",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3923,7 +3923,7 @@
   "palabras": "",
   "lead": "El ex-jugador del club criticó al colombiano y destacó la influencia de Michael Olise en el ataque del equipo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3934,7 +3934,7 @@
   "palabras": "",
   "lead": "Del 28 al 30 de octubre, representantes de ocho países participarán en un espacio que reunirá a nueve panópticos de Iberoamérica.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3945,7 +3945,7 @@
   "palabras": "",
   "lead": "La planta acuática fue descubierta en una expedición científica, impulsada por una ‘selfie’ publicada en Instagram.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3956,7 +3956,7 @@
   "palabras": "",
   "lead": "La prima de Navidad es uno de los bonos que más esperan los colombianos a fin de año. Siga el paso a paso y no cometa errores al calcularla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3967,7 +3967,7 @@
   "palabras": "",
   "lead": "Quince municipios registraron cero homicidios en el mes de septiembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3978,7 +3978,7 @@
   "palabras": "",
   "lead": "Era señalado de coordinar diferentes homicidios y el tráfico local de drogas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3989,7 +3989,7 @@
   "palabras": "",
   "lead": "Durante tres días empresas, autoridades y expertos estuvieron reunidos en Cartagena",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4000,7 +4000,7 @@
   "palabras": "",
   "lead": "La emergencia se registra en el sector de Vista Mar, en la zona conocida como El Barranco.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4011,7 +4011,7 @@
   "palabras": "",
   "lead": "La Institución Universitaria de Barranquilla ofrece formación gratuita en idiomas a sus estudiantes y extiende esta oportunidad a toda la ciudadanía. Las inscripciones para personas externas estarán abiertas del 23 al 28 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4022,7 +4022,7 @@
   "palabras": "Sociedad,Abelardo de la Espriella,Sindicatos,Oposición,protesta Fecode,Protestas en Colombia,Organizaciones sociales,Líderes sociales,Activistas",
   "lead": "Nelson Javier Alarcón Suárez se convirtió en el nuevo presidente de la Central Unitaria de Trabajadores de Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4033,7 +4033,7 @@
   "palabras": "Orden Público,Australia,Colombia,Puñalada,Alteración al orden público,Días festivos,Medellín, Colombia",
   "lead": "Según el relato de su esposa, el turista habría sido secuestrado después del evento y subido a la parte trasera de un carro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4044,7 +4044,7 @@
   "palabras": "Sociedad,Orinoquía,Biodiversidad,Vegetación,Amazonas",
   "lead": "El hallazgo se publicó en la revista científica Phytotaxa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4055,7 +4055,7 @@
   "palabras": "Política,Terremoto en Colombia,Donaciones,Ayudas humanitarias,damnificados,viviendas destruidas,Víctimas,Rendición de cuentas,Quibdó,hogares,Financiamiento",
   "lead": "La primera dama, Ana Lucía Pineda, publicó la rendición de cuentas de su fundación: 54.589 millones de pesos en donaciones privadas tras el terremoto del 1...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4066,7 +4066,7 @@
   "palabras": "Sociedad,Lluvias,Bogotá,Tormenta eléctrica,Cundinamarca,Catatumbo,Región Caribe,Eje Cafetero",
   "lead": "El pronóstico contempla tormentas eléctricas en varios departamentos, mientras la capital tendrá temperaturas de hasta 22°C y nubosidad durante las tardes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4077,7 +4077,7 @@
   "palabras": "Sociedad,Agencia Nacional de infraestructura,aeropuerto,Rionegro,Antioquia,infraestructura,Operaciones aéreas,Aviones,aviación,Transporte de pasajeros",
   "lead": "El aeropuerto José María Córdova habilitó nuevos módulos de check-in y un filtro internacional. Las obras buscan ampliar su capacidad a 17,5 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4087,6 +4087,226 @@
   "fecha": "2026-10-16T15:24:00-05:00",
   "palabras": "Orden Público,Manifestaciones,Manifestantes,Policía Nacional",
   "lead": "La Policía Nacional expidió la Resolución 03226 del 13 de octubre de 2026, con la que define la estructura de la Unidad Nacional Antidisturbios (UNADI), qu...",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T17:10:51-05:00",
+  "palabras": "Paisita Noche, Resultados del chance",
+  "lead": "El chance Paisita Noche es uno de los juegos de azar más conocidos en Antioquia y cuenta con miles de apostadores en Colombia. Consulte el número ganador, los horarios de los sorteos y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T17:11:04-05:00",
+  "palabras": "Chontico Noche , Resultados del chance",
+  "lead": "Conozca el número ganador de este 16 de octubre de 2026, los horarios oficiales, las modalidades de apuesta y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tesla Roadster en Colombia: los mejores memes del carro volador de Elon Musk",
+  "enlace": "https://www.bluradio.com/motor/adios-a-los-trancones-estos-son-los-mejores-memes-del-tesla-roadster-en-colombia-so35",
+  "fecha": "2026-10-16T17:44:11-05:00",
+  "palabras": "Tesla, Viral",
+  "lead": "La presentación del nuevo deportivo eléctrico de Elon Musk desató la creatividad de los internautas, que ya se imaginan cómo sería utilizarlo en situaciones muy colombianas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Autocuidado y detección temprana, el llamado durante el mes del cáncer de mama",
+  "enlace": "https://www.bluradio.com/salud/autocuidado-y-deteccion-temprana-el-llamado-durante-el-mes-del-cancer-de-mama-rg10",
+  "fecha": "2026-10-16T17:11:09-05:00",
+  "palabras": "Salud, Cáncer de mama",
+  "lead": "Durante octubre se intensifican las campañas de sensibilización para promover el reconocimiento de cambios en las mamas y la consulta oportuna.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fondo Milagro entrega su primer balance: más de $54.500 millones recibidos para atender emergencia",
+  "enlace": "https://www.bluradio.com/economia/fondo-milagro-entrega-su-primer-balance-mas-de-54-500-millones-recibidos-para-atender-emergencia-rg10",
+  "fecha": "2026-10-16T17:59:44-05:00",
+  "palabras": "Gobierno nacional, Grupo Argos",
+  "lead": "La Fundación Colombia Luz y Sonrisas reportó la movilización de 5.652,2 toneladas de ayuda humanitaria para más de 48.000 personas en 80 municipios. En la fase de reconstrucción, seis instituciones educativas y de salud de Cali fueron priorizadas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Supersalud interviene Hospital de San Andrés: 13 servicios sin prestar y hay problemas financieros",
+  "enlace": "https://caracol.com.co/2026/10/16/supersalud-interviene-hospital-de-san-andres-13-servicios-sin-prestar-y-hay-problemas-financieros/",
+  "fecha": "2026-10-16T17:58:23-05:00",
+  "palabras": "",
+  "lead": "Se encontraron fallas en la atención médica, problemas de bioseguridad y deficiencias financieras en el hospital que atiende a más de 60.000 pacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "David González, durísimo contra el formato de la Liga: “Premia un poco la mediocridad”",
+  "enlace": "https://caracol.com.co/2026/10/16/david-gonzalez-durisimo-contra-el-formato-de-la-liga-premia-un-poco-la-mediocridad/",
+  "fecha": "2026-10-16T17:56:54-05:00",
+  "palabras": "",
+  "lead": "El técnico del América de Cali aseguró que el campeonato colombiano debería premiar la regularidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Familia ofrece $10 millones por encontrar a hombre desaparecido en Caño Dulce",
+  "enlace": "https://caracol.com.co/2026/10/16/familia-ofrece-10-millones-por-encontrar-a-hombre-desaparecido-en-cano-dulce/",
+  "fecha": "2026-10-16T17:53:12-05:00",
+  "palabras": "",
+  "lead": "Tras una semana de búsqueda sin resultados, los familiares de Juan Carlos López ofrecen una recompensa de $10 millones a quien ayude a localizar su cuerpo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "‘Me encanta’, el nuevo lanzamiento musical de Boris García",
+  "enlace": "https://caracol.com.co/2026/10/16/me-encanta-el-nuevo-lanzamiento-musical-de-boris-garcia/",
+  "fecha": "2026-10-16T17:40:56-05:00",
+  "palabras": "",
+  "lead": "Desde el barrio San Diego y la popular tres esquinas de la calle Cochera del Hobo, el artista cartagenero convierte su historia y sus vivencias en una propuesta musical",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué dijo el gobernador del Quindío sobre el presupuesto para las universidades públicas?",
+  "enlace": "https://caracol.com.co/2026/10/16/que-dijo-el-gobernador-del-quindio-sobre-el-presupuesto-de-universidades-publicas/",
+  "fecha": "2026-10-16T17:40:23-05:00",
+  "palabras": "",
+  "lead": "El gobernador del Quindío dijo que es clave el diálogo con el ministerio de Educación ante la advertencia de disminución de recursos a las universidades públicas",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Greenpeace alerta por desforestación  en Amazonía: 77.000 hectáreas de bosque se perdieron en un año",
+  "enlace": "https://caracol.com.co/2026/10/16/greenpeace-alerta-por-desforestacion-en-amazonia-77000-hectareas-de-bosque-se-perdieron-en-un-ano/",
+  "fecha": "2026-10-16T17:39:33-05:00",
+  "palabras": "",
+  "lead": "Greenpeace alerta por deforestación en la Amazonía: jaguar, nutria gigante y águila harpía, en riesgo de extinción:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio del café HOY 16 de octubre: el fruto reporta un buen incremento al finalizar la semana",
+  "enlace": "https://caracol.com.co/2026/10/16/precio-del-cafe-hoy-16-de-octubre-el-fruto-reporta-un-buen-incremento-al-finalizar-la-semana/",
+  "fecha": "2026-10-16T17:19:56-05:00",
+  "palabras": "",
+  "lead": "El grano obtuvo un incremento en su valor, tras una semana con varios aumentos y una baja registrada. ¿Cómo quedó el reporte de hoy, 16 de octubre? Se lo contamos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conexión entre la Carrera 68 y la Av. Américas llegó al 99%: en noviembre inician pruebas técnicas",
+  "enlace": "https://caracol.com.co/2026/10/16/conexion-entre-la-carrera-68-y-la-av-americas-llego-al-99-en-noviembre-inician-pruebas-tecnicas/",
+  "fecha": "2026-10-16T17:04:31-05:00",
+  "palabras": "",
+  "lead": "El nuevo deprimido exclusivo para TransMilenio permitirá conectar las troncales Américas y Calle 26. En diciembre iniciará la operación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja recibirá quejas y consultas sobre servicios públicos este martes",
+  "enlace": "https://caracol.com.co/2026/10/16/tunja-recibira-quejas-y-consultas-sobre-servicios-publicos-este-martes/",
+  "fecha": "2026-10-16T17:08:10-05:00",
+  "palabras": "",
+  "lead": "Las superintendencias de Servicios Públicos Domiciliarios y de Industria y Comercio atenderán directamente a los ciudadanos en el CREM de la Alcaldía, desde las 10:30 de la mañana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Promueven “firmatón” para exigir soluciones a la crisis de agua en Santa Marta",
+  "enlace": "https://www.lafm.com.co/actualidad/promueven-firmaton-para-exigir-soluciones-a-la-crisis-de-agua-en-santa-marta-414226",
+  "fecha": "2026-10-16T17:30:00-05:00",
+  "palabras": "Actualidad,Santa Marta,Cortes de agua,Acueducto,Veeduría ciudadana,Propuestas,Derechos humanos,Gustavo Petro,Gobernación de Magdalena,Alcalde de Santa Marta",
+  "lead": "La idea es defender los más de 700.000 millones de pesos destinados a atender la crisis y promover un comité cívico que vigile los recursos públicos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "A rendir cuentas por permitir fiesta en cárcel de Itagüí",
+  "enlace": "https://www.lafm.com.co/orden-publico/por-permitir-ingreso-de-musicos-a-carcel-funcionarios-tendran-que-rendir-cuentas-414224",
+  "fecha": "2026-10-16T17:24:00-05:00",
+  "palabras": "Orden Público,Inpec,Fiesta,Rendición de cuentas,funcionarios,Itagüí,Cárcel",
+  "lead": "La Procuraduría formuló pliego de cargos contra seis funcionarios del Inpec por lo que pasó el 8 de abril de 2026 en la cárcel de Itagüí en donde una agrup...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Menopausia: ¿Por qué es importante el apoyo de la pareja?",
+  "enlace": "https://www.lafm.com.co/sociedad/menopausia-por-que-el-acompanamiento-de-la-pareja-es-importante-414223",
+  "fecha": "2026-10-16T17:18:00-05:00",
+  "palabras": "Sociedad,Menopausia,Sexualidad,Relaciones interpersonales,salud mental,Médicos especialistas,Ginecólogo,Psicólogos,Envejecimiento,Menstruación,Salud",
+  "lead": "Ana María Giraldo y Claudia Carmona explican cómo el apoyo de la pareja y la información ayudan a afrontar los cambios de la menopausia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario mínimo en Colombia: lo que podría cambiar el aumento",
+  "enlace": "https://www.lafm.com.co/economia/salario-minimo-colombia-2027-calculo-inflacion-productividad-laboral-414211",
+  "fecha": "2026-10-16T17:07:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Aumento salarial,Negociación,Mercado laboral,productividad",
+  "lead": "La inflación y la productividad laboral serán claves para fijar el aumento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Accidente antes de entrar al trabajo puede ser laboral",
+  "enlace": "https://www.lafm.com.co/sociedad/accidente-antes-entrar-trabajo-puede-ser-laboral-corte-suprema-414220",
+  "fecha": "2026-10-16T17:03:00-05:00",
+  "palabras": "Sociedad,Corte Suprema de Justicia,Accidente,Fallo judicial",
+  "lead": "Fallo Corte Suprema: accidente en las inmediaciones antes de entrar a la obra puede ser laboral y dar pensión de sobrevivientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "IATA plantea tres cambios clave para mejorar El Dorado",
+  "enlace": "https://www.lafm.com.co/sociedad/aeropuerto-el-dorado-iata-propone-medidas-mejorar-operacion-antes-de-expansion-414166",
+  "fecha": "2026-10-16T09:14:00-05:00",
+  "palabras": "Sociedad,IATA,Aeropuerto El Dorado,Transporte aéreo,Operaciones aéreas,Aerocivil",
+  "lead": "La propuesta incluye ajustes en el tráfico aéreo, inversiones por etapas y coordinación entre autoridades para mantener la competitividad y evitar mayores ...",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
