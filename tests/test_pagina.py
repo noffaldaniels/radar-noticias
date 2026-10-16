@@ -36,3 +36,10 @@ def test_politica_va_antes_de_alto_impacto_y_todo_plegado():
     h = pagina(xs)
     assert h.index("Mesas de la mañana") < h.index("Política nacional") < h.index("Alto impacto") < h.index("Ibagué y Tolima")
     assert h.count("<details>") == 4 and "<details open" not in h
+
+def test_numero_de_cada_seccion_se_recalcula_al_filtrar_por_medio():
+    xs = [Noticia("Blu Radio", "A", "https://b.co/a", "2026-10-16T07:00:00-05:00", seccion="politica"),
+          Noticia("La FM", "B", "https://f.co/b", "2026-10-16T06:00:00-05:00", seccion="politica")]
+    h = pagina(xs)
+    assert 'Política nacional (<span class="n">2</span>)' in h
+    assert "querySelectorAll('details')" in h and ".n" in h  # el filtro recuenta cada sección

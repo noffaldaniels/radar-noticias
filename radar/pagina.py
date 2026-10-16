@@ -45,7 +45,9 @@ summary::after{content:"▾";color:var(--suave);font-size:18px}details[open]>sum
 
 JS = """document.querySelectorAll('[data-filtro]').forEach(b=>b.onclick=()=>{
 document.querySelectorAll('[data-filtro]').forEach(o=>o.classList.toggle('activo',o===b));
-const m=b.dataset.filtro;document.querySelectorAll('article').forEach(a=>a.hidden=m!=='todos'&&a.dataset.medio!==m);});"""
+const m=b.dataset.filtro;document.querySelectorAll('article').forEach(a=>a.hidden=m!=='todos'&&a.dataset.medio!==m);
+document.querySelectorAll('details').forEach(d=>{const n=d.querySelectorAll('article:not([hidden])').length;
+d.querySelector('.n').textContent=n;d.hidden=n===0;});});"""
 
 def render_dia(fecha, noticias, dias, hoy, actualizado, reporte, proximo, avisos) -> str:
     pestanas = "".join(
@@ -59,7 +61,7 @@ def render_dia(fecha, noticias, dias, hoy, actualizado, reporte, proximo, avisos
         if not grupo:
             continue
         tarjetas = "".join(_tarjeta(x) for x in grupo)
-        titulo = f"{icono} {nombre} ({len(grupo)})"
+        titulo = f'{icono} {nombre} (<span class="n">{len(grupo)}</span>)'
         cuerpo += f"<details><summary><h2>{titulo}</h2></summary>{tarjetas}</details>"
     if not noticias:
         cuerpo += "<p>Todavía no hay noticias para este día.</p>"
