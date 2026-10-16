@@ -1,0 +1,37 @@
+name: Radar Noticias
+on:
+  schedule:
+    # Hora de Colombia = UTC-5. Corre 15 minutos antes de cada reporte.
+    - cron: "45 10,11,12 * * *"  # 5:45, 6:45, 7:45
+    - cron: "15 11,12 * * *"     # 6:15, 7:15
+    - cron: "45 13-23 * * *"     # 8:45 a 18:45
+    - cron: "45 0-2 * * *"       # 19:45 a 21:45
+  workflow_dispatch:
+permissions:
+  contents: write
+  models: read
+concurrency:
+  group: radar
+  cancel-in-progress: false
+jobs:
+  reporte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pruebas
+        run: python -m pip install pytest && python -m pytest -q
+      - name: Armar reporte
+        run: python -m radar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publicar
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Reporte $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
+          git pull --rebase && git push
