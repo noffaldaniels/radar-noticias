@@ -43,3 +43,8 @@ def test_numero_de_cada_seccion_se_recalcula_al_filtrar_por_medio():
     h = pagina(xs)
     assert 'Política nacional (<span class="n">2</span>)' in h
     assert "querySelectorAll('details')" in h and ".n" in h  # el filtro recuenta cada sección
+
+def test_mesas_siempre_tiene_el_bloque_al_aire():
+    h = pagina([Noticia("Blu Radio", "A", "https://b.co/a", "2026-10-16T07:00:00-05:00", seccion="otras")])
+    assert 'id="al-aire" data-fecha="2026-10-16"' in h and "Mesas de la mañana" in h
+    assert "mesas-'+aire.dataset.fecha+'.json" in h

@@ -41,13 +41,28 @@ article{background:var(--tarjeta);border-radius:10px;padding:12px;margin:8px 0;o
 details{background:var(--tarjeta);border-radius:10px;margin:10px 0;padding:0 12px}details[open]{background:none;padding:0}
 summary{cursor:pointer;padding:12px 0;list-style:none;display:flex;justify-content:space-between;align-items:center}
 summary::-webkit-details-marker{display:none}summary h2{display:inline;margin:0}
-summary::after{content:"▾";color:var(--suave);font-size:18px}details[open]>summary::after{content:"▴"}"""
+summary::after{content:"▾";color:var(--suave);font-size:18px}details[open]>summary::after{content:"▴"}
+.aire{border-left:4px solid var(--azul)}.aire .quien{font-weight:700}.aire.clave{border-left-color:var(--nueva);background:#fff1ef}
+@media (prefers-color-scheme:dark){.aire.clave{background:#3a2220}}
+.aire-titulo{font-size:14px;color:var(--suave);margin:10px 0 4px}"""
 
 JS = """document.querySelectorAll('[data-filtro]').forEach(b=>b.onclick=()=>{
 document.querySelectorAll('[data-filtro]').forEach(o=>o.classList.toggle('activo',o===b));
 const m=b.dataset.filtro;document.querySelectorAll('article').forEach(a=>a.hidden=m!=='todos'&&a.dataset.medio!==m);
 document.querySelectorAll('details').forEach(d=>{const n=d.querySelectorAll('article:not([hidden])').length;
-d.querySelector('.n').textContent=n;d.hidden=n===0;});});"""
+d.querySelector('.n').textContent=n;d.hidden=n===0&&!d.querySelector('#al-aire');});});
+// Mesas al aire: lo clave dicho en las radios de 5:30 a 9:00 (lo escribe el robot de las mesas)
+const aire=document.getElementById('al-aire');
+function esc(t){const d=document.createElement('div');d.textContent=t;return d.innerHTML;}
+function cargarAire(){fetch('mesas-'+aire.dataset.fecha+'.json?'+Date.now()).then(r=>r.ok?r.json():null).then(d=>{
+if(!d)return;const p=d.puntos.slice().sort((a,b)=>b.hora.localeCompare(a.hora));
+const filtro=(document.querySelector('[data-filtro].activo')||{}).dataset?.filtro||'todos';
+aire.innerHTML=(p.length?'<div class="aire-titulo">🔴 Dicho al aire (5:30 a 9:00)</div>':'')+p.map(x=>
+`<article class="aire${x.resaltar?' clave':''}" data-medio="${esc(x.medio)}"${filtro!=='todos'&&filtro!==x.medio?' hidden':''}>`+
+`<div class="meta">${esc(x.medio)} · ${esc(x.hora)} · al aire</div><p><span class="quien">${esc(x.quien)}:</span> ${esc(x.que)}</p></article>`).join('')+
+d.avisos.map(a=>`<div class="aviso">⚠ ${esc(a)}</div>`).join('');
+const det=aire.closest('details');det.querySelector('.n').textContent=det.querySelectorAll('article:not([hidden])').length;});}
+if(aire){cargarAire();setInterval(cargarAire,120000);}"""
 
 def render_dia(fecha, noticias, dias, hoy, actualizado, reporte, proximo, avisos) -> str:
     pestanas = "".join(
@@ -58,9 +73,12 @@ def render_dia(fecha, noticias, dias, hoy, actualizado, reporte, proximo, avisos
     cuerpo = "".join(f'<div class="aviso">⚠ {escape(a)}</div>' for a in avisos)
     for sid, nombre, icono in sorted(SECCIONES, key=lambda s: ORDEN_PAGINA.index(s[0])):
         grupo = sorted((x for x in noticias if x.seccion == sid), key=lambda x: x.fecha, reverse=True)
-        if not grupo:
+        if not grupo and sid != "mesas":
             continue
         tarjetas = "".join(_tarjeta(x) for x in grupo)
+        if sid == "mesas":  # arriba, lo dicho al aire (lo llena el navegador con mesas-AAAA-MM-DD.json)
+            tarjetas = f'<div id="al-aire" data-fecha="{fecha}"></div>' + (
+                '<div class="aire-titulo">🌐 Notas en la web</div>' + tarjetas if tarjetas else "")
         titulo = f'{icono} {nombre} (<span class="n">{len(grupo)}</span>)'
         cuerpo += f"<details><summary><h2>{titulo}</h2></summary>{tarjetas}</details>"
     if not noticias:
