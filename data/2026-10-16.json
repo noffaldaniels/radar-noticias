@@ -4869,7 +4869,7 @@
   "palabras": "sicariato, Policía Nacional, Piedecuesta",
   "lead": "La pareja atacada a tiros se movilizaba en un carro rojo que terminó estrellado contra un muro e incinerado. Ambos resultaron heridos y fueron trasladados al Hospital Internacional de Colombia (HIC).",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4880,7 +4880,7 @@
   "palabras": "Libros",
   "lead": "Se trata de 'Cosechar amor', una obra en la que Nubia e Hijos abren las puertas de su finca para compartir los saberes campesinos que han pasado de generación en generación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "ICBF, Suba",
   "lead": "Uno de los principales hallazgos estuvo relacionado con las condiciones en las que permanecían los menores de edad. \"Un riesgo para la salud y la integridad\".",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4902,7 +4902,7 @@
   "palabras": "Música",
   "lead": "Mientras artistas como Olivia Rodrigo, Chappell Roan, Tate McRae, Zara Larsson y Fontaines D.C. también presentan novedades para sus seguidores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4913,7 +4913,7 @@
   "palabras": "",
   "lead": "Conozca aquí cuáles son las fechas importantes del concurso de la DIAN 2676 y los puntos fundamentales que debe tener en cuenta de la prueba:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "",
   "lead": "La Guía Michelin reconoce con “llaves” la excelencia del servicio de los mejores hoteles alrededor del mundo; estos son los más distinguidos del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "",
   "lead": "El suceso se presentó frente al hotel Four Seasons",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4946,7 +4946,7 @@
   "palabras": "",
   "lead": "Lucero Ramírez Molina fue asesinada en el barrio Villa Sandra de la comuna 4 de Soacha. La mujer fue presidente de la Junta de Acción Comunal de su barrio durante varios años.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4957,7 +4957,7 @@
   "palabras": "Deportes,Clásico RCN,Ciclismo,Fedeciclismo,Eventos deportivos,deportistas colombianos",
   "lead": "Este sábado en Mosquera inicia la principal prueba ciclística del calendario nacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4968,6 +4968,226 @@
   "palabras": "Política,Salud,inversión,aeropuerto,Presidencia de la República",
   "lead": "El presidente Abelardo De la Espriella anunció una ofensiva contra el narcotráfico, el contrabando y la extorsión en San Andrés, y ordenó trasladar a la cá...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T21:50:05-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche es uno de los sorteos más populares entre los apostadores de la región Caribe colombiana. Consulte el número ganador del sorteo de este 16 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T21:50:26-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna y se mantiene entre los juegos de azar más consultados por los apostadores de la región Caribe colombiana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T21:50:41-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna es uno de los juegos de suerte y azar que miles de colombianos consultan diariamente. A diferencia de los chances tradicionales, los participantes deben elegir un número de cuatro cifras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Medellín, resultados del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-medellin-resultados-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T21:50:49-05:00",
+  "palabras": "Lotería de Medellín, Resultado de loterías de hoy",
+  "lead": "Conozca el número ganador del Premio Mayor de 16.000 millones de pesos y la lista completa de los secos millonarios correspondientes al sorteo 4857 de la Lotería de Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Santander, resultados del sorteo hoy viernes 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-santander-resultados-del-sorteo-hoy-viernes-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T21:50:59-05:00",
+  "palabras": "Lotería de Santander, Resultado de loterías de hoy",
+  "lead": "El sorteo 5092 de la Lotería de Santander jugó un premio mayor de $6.500 millones y otros premios. Conozca los resultados completos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Risaralda, resultados del sorteo hoy vierne 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-risaralda-resultados-del-sorteo-hoy-vierne-16-de-octubre-de-2026-so35",
+  "fecha": "2026-10-16T21:51:14-05:00",
+  "palabras": "Lotería de Risaralda, Resultado de loterías de hoy",
+  "lead": "Consulte los resultados completos y el premio mayor del sorteo 2971 de la Lotería de Risaralda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La Nube, programa completo 16 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/ciberestafas-videojuegos-y-tesla-roadster-la-nube-programa-completo-16-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-16T21:25:53-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 16 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"¿Puedo seguir en Colombia o me van a asesinar como a mi padre?\": María José Pizarro",
+  "enlace": "https://www.bluradio.com/politica/puedo-seguir-en-colombia-o-me-van-a-asesinar-como-a-mi-padre-maria-jose-pizarro-pr30",
+  "fecha": "2026-10-16T21:54:17-05:00",
+  "palabras": "María José Pizarro, Carlos Pizarro, M-19, Abelardo De La Espriella, Ministerio de Cultura",
+  "lead": "La exsenadora cuestionó a Abelardo de la Espriella por sus declaraciones sobre Carlos Pizarro y rechazó el retiro de la imagen de su padre del Museo Nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No se puede seguir tolerando que victimarios posen de víctimas”: concejal sobre Museo Nacional",
+  "enlace": "https://www.bluradio.com/nacion/no-se-puede-seguir-tolerando-que-victimarios-posen-de-victimas-concejal-sobre-museo-nacional-pr30",
+  "fecha": "2026-10-16T21:55:59-05:00",
+  "palabras": "Centro Democrático, FARC, M-19, Comunidad LGBTI, Miguel Uribe Turbay",
+  "lead": "El concejal de Bogotá por el Centro Democrático, Andrés Barrios, insistió en que su cuestionamiento no busca desconocer los procesos de paz, sino ampliar la representación de hechos violentos y sus consecuencias en exposiciones del Museo Nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Atentan contra Andrés Felipe Ramírez, exalcalde de Jamundí; murió escolta defendiéndolo",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/atentan-contra-andres-felipe-ramirez-exalcalde-de-jamundi-murio-escolta-defendiendolo-so35",
+  "fecha": "2026-10-16T22:04:35-05:00",
+  "palabras": "Jamundí, sicariato",
+  "lead": "La víctima fue identificada como Felipe López, recibió varios impactos de bala y falleció posteriormente. Era oriundo de Santander de Quilichao",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados Lotería de Medellín, Santander, Risaralda y MiLoto HOY 16 de octubre de 2026",
+  "enlace": "https://caracol.com.co/2026/10/17/resultados-loteria-de-medellin-santander-risaralda-y-miloto-hoy-16-de-octubre-de-2026/",
+  "fecha": "2026-10-16T21:49:09-05:00",
+  "palabras": "",
+  "lead": "Vea la transmisión de la Lotería de Medellín y conozca todos los premios que trae este 16 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Victoria’s Secret Fashion Show 2026: hora en Colombia, dónde verlo gratis y modelos confirmadas",
+  "enlace": "https://caracol.com.co/2026/10/17/victorias-secret-fashion-show-2026-hora-en-colombia-donde-verlo-gratis-y-modelos-confirmadas/",
+  "fecha": "2026-10-16T21:43:17-05:00",
+  "palabras": "",
+  "lead": "Conozca aquí dónde ver el Victoria’s Secret Fashion Show 2026 y cuáles son las modelos confirmadas hasta el momento:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Corte Constitucional prohibió la inyección de la eutanasia en animales con vejez extrema",
+  "enlace": "https://caracol.com.co/2026/10/17/la-corte-constitucional-prohibio-la-inyeccion-de-la-eutanasia-en-animales-con-vejez-extrema/",
+  "fecha": "2026-10-16T21:35:05-05:00",
+  "palabras": "",
+  "lead": "La decisión unánime de la Sala Plena declaró inconstitucional el literal C del artículo 17 del Estatuto Nacional de Protección de los Animales, vigencia que permitía el sacrificio por edad avanzada desde 1989.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carrera Allianz 15K 2026: Consulte cierres y desvíos programados para el 18 de octubre en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/17/carrera-allianz-15k-2026-consulte-cierres-y-desvios-programados-para-el-18-de-octubre-en-bogota/",
+  "fecha": "2026-10-16T21:30:37-05:00",
+  "palabras": "",
+  "lead": "Este domingo 18 de octubre en Bogotá habrá varios cierres viales y desvíos; tome nota si debe salir.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo evitar fraude a la hora de obtener su SOAT digitalmente?: siga estas recomendaciones",
+  "enlace": "https://caracol.com.co/2026/10/17/como-evitar-fraude-a-la-hora-de-obtener-su-soat-digitalmente-siga-estas-recomendaciones/",
+  "fecha": "2026-10-16T21:14:50-05:00",
+  "palabras": "",
+  "lead": "Obtener esta póliza de manera digital resulta ser más versátil y rápido; sin embargo, hay reportes de fraudes y suplantación al momento de efectuar el pago.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos fallecidos y un lesionado dejó accidente de motocicletas: todos son de Achí- Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/17/dos-fallecidos-y-un-lesionado-dejo-accidente-de-motocicletas-todos-son-de-achi-bolivar/",
+  "fecha": "2026-10-16T21:12:18-05:00",
+  "palabras": "",
+  "lead": "La tragedia tuvo lugar entre las poblaciones de Guaranda y Majagual- Sucre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pautips reveló qué pasa con la comida que sobra en 'MasterChef Celebrity'",
+  "enlace": "https://www.lafm.com.co/entretenimiento/pautips-revelo-que-pasa-con-la-comida-que-sobra-en-masterchef-celebrity-414239",
+  "fecha": "2026-10-16T21:56:00-05:00",
+  "palabras": "Entretenimiento,MasterChef Celebrity",
+  "lead": "Paula Galindo respondió las dudas de sus seguidores sobre el manejo de los ingredientes y los platos preparados durante los retos del programa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo de la Lotería de Santander: resultado premio mayor hoy 16 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-de-la-loteria-de-santander-resultado-premio-mayor-hoy-16-de-octubre-414238",
+  "fecha": "2026-10-16T21:54:00-05:00",
+  "palabras": "Sociedad,Departamento de Santander,resultados de lotería,Juegos de azar,Coljuegos",
+  "lead": "Ya hay número ganador del premio mayor este viernes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo de la Lotería de Medellín: resultado premio mayor hoy 16 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-de-la-loteria-de-medellin-resultado-premio-mayor-hoy-16-de-octubre-414237",
+  "fecha": "2026-10-16T21:13:00-05:00",
+  "palabras": "Sociedad,Medellín, Colombia,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
+  "lead": "Este viernes hay un nuevo número ganador del premio mayor de la Lotería de Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Laura Bozzo reapareció en redes tras ser operada de emergencia",
+  "enlace": "https://www.lafm.com.co/entretenimiento/laura-bozzo-reaparecio-en-redes-sociales-operada-de-emergencia-que-se-sabe-414236",
+  "fecha": "2026-10-16T21:05:00-05:00",
+  "palabras": "Entretenimiento,Laura Bozzo,presentadora,Salud,México",
+  "lead": "Laura Bozzo reapareció en redes sociales tras una cirugía de emergencia en Acapulco. Su chofer explicó por qué fue atendida allí.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
