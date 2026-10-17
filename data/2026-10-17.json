@@ -282,7 +282,7 @@
   "palabras": "Temblor hoy, Valle del Cauca, Cali",
   "lead": "El movimiento telúrico ocurrió durante la madrugada, con una profundidad de 130 kilómetros, según el Servicio Geológico Colombiano.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Las señales que se encuentran en las vías del país son clasificadas en reglamentarias, preventivas, informativas y transitorias y en caso de incumplirlas, deberá pagar una multa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "La Alcaldía de Manizales tomará acciones legales por señalamientos del directivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Caracol Radio conoció las cifras de la Inspección General: 1.751 uniformados destituidos desde 2022, entre ellos 79 oficiales",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "El tenista malagueño se llevó la victoria frente a Alexander Zverev, en un partido que duró 2 horas y 2 minutos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Siete de los 12 municipios del Quindío se encuentran en alerta por amenaza de deslizamientos de tierra debido a las lluvias, pese a esto los organismos de socorro están alerta para lo que se espera del Fenómeno de El Niño",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "El departamento registra ocho ataques en dos meses, un explosivo cayó en una vivienda sin dejar civiles heridos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "Los hechos investigados por la Fiscalía ocurrieron en el municipio de Honda, Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "Las vallecaucanas comparten grupo, también, con Nacional de Uruguay y la Universidad de Chile.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Internacional,Francia,Manifestaciones,Manifestantes,Emmanuel Macron,Costo de viviendas,costos",
   "lead": "Las manifestaciones en el país europeo se han intensificado en el último mes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,6 +392,94 @@
   "palabras": "Orden Público,Hostigamiento,Huila,Policía Nacional,Alteración al orden público,armas",
   "lead": "En medio de la situación, habitantes reportaron detonaciones de varios disparos y el presunto sobrevuelo de drones.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comisión de Paz exige respuestas al Gobierno tras ataques en Huila: \"El Estado debe ser contundente\"",
+  "enlace": "https://www.bluradio.com/nacion/comision-de-paz-exige-respuestas-al-gobierno-tras-ataques-en-huila-el-estado-debe-ser-contundente-so35",
+  "fecha": "2026-10-17T07:53:26-05:00",
+  "palabras": "Huila, atentado terrorista, Gobierno nacional",
+  "lead": "Comisión de Paz de la Cámara de Representantes pidió cumplir los compromisos de seguridad y entregar sistemas antidrones para proteger a la población.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Irán informa de una explosión en un petrolero tras chocar con una mina en Ormuz",
+  "enlace": "https://caracol.com.co/2026/10/17/iran-informa-de-una-explosion-en-un-petrolero-tras-chocar-con-una-mina-en-ormuz/",
+  "fecha": "2026-10-17T08:07:33-05:00",
+  "palabras": "",
+  "lead": "Teherán afirmó que la embarcación intentaba cruzar por una ruta no autorizada, pero no identificó su bandera.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena entregó parte médico tras lesión de Carlos de las Salas",
+  "enlace": "https://caracol.com.co/2026/10/17/real-cartagena-entrego-parte-medico-tras-lesion-de-carlos-de-las-salas/",
+  "fecha": "2026-10-17T08:06:10-05:00",
+  "palabras": "",
+  "lead": "El jugador salió en ambulancia durante el compromiso ante Deportes Quindío",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Podía parir por la boca: así era la rana incubadora, extinta en 1983, que científicos buscan revivir",
+  "enlace": "https://caracol.com.co/2026/10/17/podia-parir-por-la-boca-asi-era-la-rana-incubadora-extinta-en-1983-que-cientificos-buscan-revivir/",
+  "fecha": "2026-10-17T08:02:47-05:00",
+  "palabras": "",
+  "lead": "Científicos de la Universidad de Newcastle, en Australia, revelaron que adelantan “procedimientos experimentales” para, genéticamente, poder recrear la especia. Hasta el momento, lograron crear embriones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Hospital de Puerto Berrío será cedido a la gobernación, que ahora lo administrará",
+  "enlace": "https://caracol.com.co/2026/10/17/el-hospital-de-puerto-berrio-sera-cedido-a-la-gobernacion-que-ahora-lo-administrara/",
+  "fecha": "2026-10-17T07:55:42-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Salud manifestó que será el Hospital La María el encargado de manejar esa institución que afronta problemas económicos y operativos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque sicarial en Caribe Verde deja un hombre muerto y una menor herida",
+  "enlace": "https://caracol.com.co/2026/10/17/ataque-sicarial-en-caribe-verde-deja-un-hombre-muerto-y-una-menor-herida/",
+  "fecha": "2026-10-17T07:52:20-05:00",
+  "palabras": "",
+  "lead": "El hecho ocurrió en la entrada del conjunto residencial Palmeras, en Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Opitatón 2026 llegará a tres municipios del Huila para recolectar residuos y proteger el medioambien",
+  "enlace": "https://caracol.com.co/2026/10/17/opitaton-2026-llegara-a-tres-municipios-del-huila-para-recolectar-residuos-y-proteger-el-medioambien/",
+  "fecha": "2026-10-17T07:51:10-05:00",
+  "palabras": "",
+  "lead": "Garzón, Pitalito y Neiva recibirán la jornada ambiental del 20 al 22 de octubre para disponer residuos posconsumo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia prepara una reforma al Código Nacional de Tránsito",
+  "enlace": "https://www.lafm.com.co/sociedad/codigo-transito-reforma-nacional-colombia-reforma-cambios-mintransporte-acciodentes-muertes-414245",
+  "fecha": "2026-10-17T07:49:00-05:00",
+  "palabras": "Sociedad,Código de Tránsito,Ministerio de Transporte,seguridad vial,Convocatoria,Propuestas,Motociclistas,Licencias de conducción,Trámites,vías",
+  "lead": "El Ministerio de Transporte realizará encuentros regionales en Bogotá, Barranquilla, Cali y Medellín para recoger propuestas ciudadanas que permitan actual...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
