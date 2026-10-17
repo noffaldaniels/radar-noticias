@@ -909,7 +909,7 @@
   "palabras": "Tosferina, Antioquia, Gobernación de Antioquia, Noticias de hoy",
   "lead": "La Gobernación le pidió a las autoridades indígenas del municipio que los dejen entrar hasta el territorio afectado para realizar la atención de salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "Noticias de hoy, Blu Radio, sicariato, Accidente de tránsito, Policía Nacional",
   "lead": "Seis personas, entre ellas dos menores de edad, resultaron lesionadas. El Hospital Internacional de Colombia confirmó la atención de los afectados, mientras las autoridades investigan el ataque armado contra los ocupantes de un vehículo rojo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "atentado terrorista, Cali, Policía Nacional",
   "lead": "De acuerdo con la información conocida hasta el momento, los policías heridos se encontraban realizando labores de patrullaje en la zona cuando fueron atacados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "Medellín, Fiscalía General de la Nación, Noticias de hoy",
   "lead": "La Fiscalía reveló que hubo ganancias ilícitas por más de 14.000 millones de pesos. Algunas de las víctimas fueron escoltadas hasta sus viviendas para recolectar sus documentos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "Feminismo, Machismo, Autoestima, Redes sociales",
   "lead": "Ricardo Forero analizó por qué cada vez más hombres encuentran en comunidades digitales respuestas sobre identidad, relaciones y masculinidad, y dónde comienzan los riesgos de estos discursos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Lluvias en Colombia, Magdalena, Costa Caribe",
   "lead": "El instituto señaló que hay alerta roja en los departamentos de Bolívar, Córdoba y Magdalena por posibles deslizamientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
   "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 17 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "Noticias de hoy, Santander, ELN, Blu Radio, Noticias de hoy",
   "lead": "El vehículo de servicio público fue quemado en el kilómetro 87 de la Troncal del Norte, en el sector del páramo del Almorzadero, jurisdicción de Cerrito. El hecho ocurrió en la vía que comunica a Santander con Norte de Santander, dónde hay tránsito del ELN.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "Protestas en Francia, Francia, Educación",
   "lead": "Miles de jóvenes se movilizaron en París para reclamar más recursos, profesores y mejores condiciones en la educación pública, en una jornada marcada por enfrentamientos con la Policía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Abelardo De La Espriella, Jamundí",
   "lead": "El presidente pidió identificar y capturar a los responsables del ataque contra Andrés Felipe Ramírez, en el que murió uno de sus escoltas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "Dos hombres armados interceptaron el vehículo de servicio público, obligaron a descender al conductor y a los pasajeros y luego le prendieron fuego. No se reportan heridos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "Los dirigidos por Vincent Kompany buscan reencontrarse con la victoria tras dos empates al hilo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "El concejal Juan David Quintero pidió explicaciones sobre el uso de ese dinero por parte de Sencia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "El representante a la Cámara por el Magdalena, Felipe Hernández, dijo que desconoce un proyecto concreto que reemplace las plantas desalinizadoras contempladas para la ciudad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "Los disturbios comenzaron después del mediodía y volvieron a concentrarse ante el Ministerio de Educación, en el centro de la capital, ya dañado en jornadas anteriores.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "La jornada busca completar los esquemas de vacunación de niños, adolescentes, mujeres gestantes y adultos mayores, con puntos fijos y móviles habilitados en el Distrito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "La mujer fue atacada con un arma cortopunzante por el agresor que se trata de identificar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "El artista cartagenero, a través del afrobeat, se lanzó con una colaboración con la que busca impulsar su proyección en la industria musical.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Mediante varias sentencias la Corte Constitucional fijo la posición frente a estos insumos de salud.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "El alcalde Alejandro Eder reveló que las menores eran obligadas a cometer actos indebidos y que las mujeres estaban secuestradas por un hombre que abusaba de ellas. También encontraron a dos niños de 8 y 10 años consumiendo bazuco.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "La niña de cuatro años requiere traslado a un centro médico de tercer nivel.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "El mandatario cuestionó la decisión de Washington y sostuvo que flexibilizar las restricciones no ayudará a frenar al mandatario ruso, Vladímir Putin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "El presidente de Fenoco, Jorge Soto, aseguró que el transporte ferroviario registra un crecimiento en carga de carbón y mercancías diversas. También resaltó los aportes económicos de la operación y las expectativas frente al nuevo Gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "El presidente Abdelfatah al Sisi pidió autorización legislativa y aseguró que su país tomará las medidas necesarias para defender al reino saudí.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "Ambos han intercambiado varios mensajes luego de que la senadora Alejandra Omaña lo cuestionara sobre su posición en contra del aborto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "El portero del Chelsea tuvo un fuerte choque con un defensor del Everton, en el triunfo de los londinenses 0-2.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "La red fraudulenta estafó a las víctimas en la ciudad de Medellín con falsas membrecías de viajes, pero con los datos adquirían productos bancarios a nombre de las víctimas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Actualidad,Lideres comunitarios,Líderes sociales,Líder Social,Sicarios,Asesinato,Homicidios,Asesinado,Víctimas,actos violentos,atentado",
   "lead": "El ataque ocurrió hacia las 5:30 p.m. del viernes 16 de octubre cuando sicarios abordaron a la lideresa.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Internacional,Papa León XIV,Vaticano,Cáncer,Iglesia Católica",
   "lead": "El papa León XIV salió del centro médico; mientras que su recuperación avanzaba con normalidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Actualidad,Pereira,aeropuerto,Vuelos,Transporte de pasajeros,Terremoto en Colombia,Risaralda",
   "lead": "El aeropuerto actualmente moviliza cerca de 6.000 pasajeros al día y opera con 40 vuelos diarios, mientras continúa la rehabilitación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Política,Abelardo de la Espriella,San Andrés,Providencia",
   "lead": "Vivienda para el pueblo raizal, agua y saneamiento, salud, vías, conectividad aérea y apoyos para el turismo, el emprendimiento y la pesca artesanal hacen ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "Orden Público,Estafa,Audiencia judicial,Red delincuencial,Turismo,Medellín, Colombia",
   "lead": "Una vez en sus oficinas, a las víctimas les pedían cédulas, tarjetas bancarias y teléfonos celulares con el pretexto de validar los beneficios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "Sociedad,Importaciones,Proyecto de ley,Beneficios tributarios,Aranceles,comercio electrónico,Comercio internacional,Régimen aduanero,contrabando,Control en fronteras,Piratería",
   "lead": "El empresario pidió al Congreso y al Gobierno acelerar medidas para aplicar IVA y aranceles a productos que ingresan a Colombia mediante tráfico postal y e...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,6 +1272,226 @@
   "palabras": "Economía,Gas natural,Servicio de gas,Desabastecimiento de gas natural,Importaciones,desabastecimiento,Región Caribe",
   "lead": "Ramón Dávila aseguró que el incremento anunciado por el senador Miguel Ángel Barreto no se reflejaría en esa magnitud en las facturas.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué significa ser hombre hoy? El debate detrás de la machosfera: En Blu Jeans 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/que-significa-ser-hombre-hoy-el-debate-detras-de-la-machosfera-en-blu-jeans-17-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-17T11:58:30-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Blu Jeans del sábado, 17 de octubre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nequi advierte importante cambio en sus servicios: tendrá más puntos para retirar plata",
+  "enlace": "https://www.bluradio.com/economia/nequi-advierte-importante-cambio-en-sus-servicios-tendra-mas-puntos-para-retirar-plata-so35",
+  "fecha": "2026-10-17T11:23:50-05:00",
+  "palabras": "Nequi",
+  "lead": "La incorporación de OXXO permitirá hacer depósitos y retiros mediante Puntored y ampliará la cobertura física de la plataforma.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno y Fedepapa preparan plan para reducir costos de producción en Colombia",
+  "enlace": "https://www.bluradio.com/nacion/gobierno-y-fedepapa-preparan-plan-para-reducir-costos-de-produccion-en-colombia-rg10",
+  "fecha": "2026-10-17T11:35:27-05:00",
+  "palabras": "Gobierno nacional, Fedepapa, Ministerio de Agricultura",
+  "lead": "La hoja de ruta contempla riego eficiente, semillas certificadas, mecanización y nuevas alternativas de comercialización para los productores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Accidente de bus de Alexis Escobar en Cundinamarca deja varios integrantes de su equipo heridos",
+  "enlace": "https://www.bluradio.com/entretenimiento/accidente-de-bus-de-alexis-escobar-en-cundinamarca-deja-varios-integrantes-de-su-equipo-heridos-rg10",
+  "fecha": "2026-10-17T11:54:33-05:00",
+  "palabras": "Viral, Música de despecho, Concierto",
+  "lead": "El equipo de trabajo del cantante de música popular sufrió un accidente de tránsito durante la madrugada de este sábado 17 de octubre, cuando el autobús en el que se movilizaba se volcó en la Ruta del Sol, a la altura de Guaduas, Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá abre una ventana a los proyectos de vivienda e inversión de todo el país",
+  "enlace": "https://caracol.com.co/2026/10/17/bogota-abre-una-ventana-a-los-proyectos-de-vivienda-e-inversion-de-todo-el-pais/",
+  "fecha": "2026-10-17T11:51:32-05:00",
+  "palabras": "",
+  "lead": "VIVE EXPO 2026, el gran evento inmobiliario y de inversión de Caracol Radio, reunirá el 23, 24 y 25 de octubre a algunas de las constructoras más importantes del país en un solo lugar",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades alertan por fuertes lluvias y riesgo de inundaciones en Montería",
+  "enlace": "https://caracol.com.co/2026/10/17/autoridades-alertan-por-fuertes-lluvias-y-riesgo-de-inundaciones-en-monteria/",
+  "fecha": "2026-10-17T11:41:35-05:00",
+  "palabras": "",
+  "lead": "Según la administración municipal, a partir del 19 de octubre se tienen previstas lluvias que alcancen acumulados entre 140 y 180 milímetros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cabaret Bogotá anuncia su programación para cerrar el 2026 con salsa, teatro y humor",
+  "enlace": "https://caracol.com.co/2026/10/17/cabaret-bogota-anuncia-su-programacion-para-cerrar-el-2026-con-salsa-teatro-y-humor/",
+  "fecha": "2026-10-17T11:37:13-05:00",
+  "palabras": "",
+  "lead": "Aguanilé, Tributo a Willie Colón, Amores de Cabaret y El Show de las Divorciadas hacen parte de la cartelera que tendrá el escenario durante octubre y noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía de Cali ofrece $20 millones de recompensa por ataques con explosivos contra Policías",
+  "enlace": "https://caracol.com.co/2026/10/17/alcaldia-de-cali-ofrece-20-millones-de-recompensa-por-ataques-con-explosivos-contra-policias/",
+  "fecha": "2026-10-17T11:36:05-05:00",
+  "palabras": "",
+  "lead": "Tres uniformados resultaron lesionados tras dos explosiones en el sector de Montebello.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mercado campesino ‘Cosechas de mi tierra’ en Unitecnar",
+  "enlace": "https://caracol.com.co/2026/10/17/mercado-campesino-cosechas-de-mi-tierra-en-unitecnar/",
+  "fecha": "2026-10-17T11:32:59-05:00",
+  "palabras": "",
+  "lead": "Hubo ventas superiores a los seis millones de pesos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Oferta de servicios y trámites del distrito llegó a Olaya, sector El Progreso",
+  "enlace": "https://caracol.com.co/2026/10/17/oferta-de-servicios-y-tramites-del-distrito-llego-a-olaya-sector-el-progreso/",
+  "fecha": "2026-10-17T11:28:49-05:00",
+  "palabras": "",
+  "lead": "Esta jornada fue bajo el liderazgo del PES Pedro Romero",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Joven cartagenera desaparecida en Medellín se reencontró con su familia",
+  "enlace": "https://caracol.com.co/2026/10/17/joven-cartagenera-desaparecida-en-medellin-se-reencontro-con-su-familia/",
+  "fecha": "2026-10-17T11:25:03-05:00",
+  "palabras": "",
+  "lead": "Neivi Berrío tendrá la oportunidad de iniciar un proceso de recuperación y reconstrucción de su vida",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena vibró con último preludio de 2026 realizado en el barrio Blas de Lezo",
+  "enlace": "https://caracol.com.co/2026/10/17/cartagena-vibro-con-ultimo-preludio-de-2026-realizado-en-el-barrio-blas-de-lezo/",
+  "fecha": "2026-10-17T11:19:33-05:00",
+  "palabras": "",
+  "lead": "Artistas como GiBlack, Jader Tremendo, Charlie Cardona y Rafa Pérez, pusieron la nota musical",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Yuri Buenaventura llevará la salsa sinfónica al Teatro Colsubsidio en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/17/yuri-buenaventura-llevara-la-salsa-sinfonica-al-teatro-colsubsidio-en-bogota/",
+  "fecha": "2026-10-17T11:18:31-05:00",
+  "palabras": "",
+  "lead": "El cantante colombiano presentará ‘Yuri Buenaventura Sinfónico’ el 23 y 24 de octubre en el Teatro Colsubsidio. El espectáculo combinará los ritmos de la salsa con los sonidos de una orquesta sinfónica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tractomula se volcó en la glorieta del barrio El Pozón",
+  "enlace": "https://caracol.com.co/2026/10/17/tractomula-se-volco-en-la-glorieta-del-barrio-el-pozon/",
+  "fecha": "2026-10-17T11:10:17-05:00",
+  "palabras": "",
+  "lead": "Las autoridades no reportaron heridos de gravedad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "100 niños de Sitionuevo, Magdalena reciben bicicletas para poder ir a su colegio",
+  "enlace": "https://caracol.com.co/2026/10/17/100-ninos-de-sitionuevo-magdalena-reciben-bicicletas-para-poder-ir-a-su-colegio/",
+  "fecha": "2026-10-17T11:04:48-05:00",
+  "palabras": "",
+  "lead": "La entrega se realizó en la Institución Educativa Departamental (IED) San José, como parte de la gestión del gobierno departamental contra la deserción escolar y en favor de la educación integral.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen complejo para procesar cocaína del ELN en zona rural de Sardinata",
+  "enlace": "https://caracol.com.co/2026/10/17/destruyen-complejo-para-procesar-cocaina-del-eln-en-zona-rural-de-sardinata/",
+  "fecha": "2026-10-17T10:53:50-05:00",
+  "palabras": "",
+  "lead": "El operativo dejó una afectación económica estimada en 8.600 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liga internacional modifica sus reglas para eliminar los empates",
+  "enlace": "https://www.lafm.com.co/deportes/liga-internacional-elimina-los-empates-en-el-futbol-como-funciona-sistema-de-penales-liga-japonesa-414272",
+  "fecha": "2026-10-17T11:36:00-05:00",
+  "palabras": "Deportes,Penaltis,tabla de posiciones,Fútbol",
+  "lead": "Esta medida fue instaurada para resolver el problema de calendario generado por el cambio del calendario hacia el modelo europeo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así puede obtener una de las becas que Google ofrece en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/becas-google-en-ia-asi-puede-acceder-al-beneficio-414273",
+  "fecha": "2026-10-17T11:07:00-05:00",
+  "palabras": "Sociedad,becas,Google,Gobierno,Presidencia de la República,Estudio,Estudio gratis,Internet,Inteligencia artificial,fórmula vicepresidencial",
+  "lead": "La información compartida por el vicepresidente responde a una inquietud que le han presentado sus seguidores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Imágenes| ¿Qué tan avanzado está el Metro de Bogotá?",
+  "enlace": "https://www.lafm.com.co/sociedad/metro-de-bogota-galeria-imagenes-avances-asi-luce-la-megaobra-414265",
+  "fecha": "2026-10-17T11:05:00-05:00",
+  "palabras": "Sociedad,Metro de Bogotá,Alcaldía de Bogotá,infraestructura,megaproyecto,obras en vías",
+  "lead": "Se hace cada vez más tangible el Metro de Bogotá que, según la Alcaldía Mayor de Bogotá, \"transformará la manera en que nos movemos y nos permitirá ahorrar...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Incineran bus intermunicipal en el páramo del Almorzadero",
+  "enlace": "https://www.lafm.com.co/orden-publico/incineran-bus-intermunicipal-en-el-paramo-del-almorzadero-en-limites-entre-santander-y-norte-de-santander-414271",
+  "fecha": "2026-10-17T10:55:00-05:00",
+  "palabras": "Orden Público,Cúcuta,Quemados,conflicto armado,Transporte de pasajeros,Servicio de transporte,Norte de Santander,Gobernación de Santander,Autopista Norte,Actos terroristas",
+  "lead": "Cinco hombres encapuchados habrían interceptado el bus y obligado a los pasajeros a descender antes de incinerarlo en la Troncal del Norte. Autoridades inv...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
