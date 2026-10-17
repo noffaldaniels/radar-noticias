@@ -12,10 +12,10 @@ def mesas() -> None:
     clave = os.environ["GEMINI_API_KEY"]
     raiz = Path(__file__).resolve().parent.parent
     prueba = int(os.environ.get("PRUEBA_MINUTOS") or 0)
-    if prueba:  # modo prueba: graba ya, en tramos de 2 minutos, durante `prueba` minutos
+    if prueba:  # modo prueba: graba ya, en tramos de 5 minutos, durante `prueba` minutos
         ahora = ahora_cot()
         fin = ahora + timedelta(minutes=prueba)
-        m.INICIO, m.FIN, m.TRAMO = (ahora.hour, ahora.minute), (fin.hour, fin.minute), 120
+        m.INICIO, m.FIN, m.TRAMO = (ahora.hour, ahora.minute), (fin.hour, fin.minute), 300
     m.correr(raiz / "docs", ahora_cot, m.grabar, lambda audio, prompt: m.gemini(audio, prompt, clave))
     print("Mesas al aire: listo")
 

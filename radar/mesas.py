@@ -19,16 +19,20 @@ EMISORAS = {
 }
 INICIO, FIN = (5, 30), (9, 0)
 TRAMO = 600  # segundos
+MAX_PUNTOS = 3  # por tramo y radio: solo lo más relevante (pedido de Noffal)
 API = "https://generativelanguage.googleapis.com"
 UA = "Mozilla/5.0 (RadarNoticias; Oficina del Diputado Felipe Ferro)"
 RESALTAR = PALABRAS["tolima"] + ["ferro", "felipe ferro", "centro democratico"]
 
 PROMPT = """Fragmento de {minutos} minutos de "{programa}" ({medio}, Colombia), en vivo desde las {hora}.
 Eres el monitor de medios de la Oficina del Diputado Felipe Ferro (Tolima, Centro Democrático).
-Saca SOLO lo clave dicho al aire: entrevistas, declaraciones, anuncios, cifras, denuncias, primicias.
+Saca SOLO lo más relevante para un asesor político: anuncios del Gobierno, declaraciones de políticos
+y funcionarios, cifras nuevas, denuncias, primicias, y todo lo que toque a Ibagué o al Tolima.
+Deja por fuera opiniones sueltas de los periodistas, chistes, comentarios de relleno, deportes y farándula.
 Ignora música, publicidad, saludos, tráfico y clima (salvo emergencias).
 Por cada punto: minuto (desde el inicio del fragmento), quien (nombre y cargo; si no lo dicen, "Periodista de {programa}")
-y que (una o dos frases, con las cifras exactas que dijeron). Máximo 6 puntos. Si no hay nada clave, lista vacía.
+y que (una o dos frases, con las cifras exactas que dijeron). Máximo 3 puntos, los más importantes.
+Si en el fragmento no pasó nada de peso, responde la lista vacía: es mejor nada que relleno.
 No inventes: si no entiendes un nombre, no lo pongas."""
 
 ESQUEMA = {"type": "OBJECT", "properties": {"puntos": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
@@ -41,7 +45,7 @@ def resaltar(texto: str) -> bool:
 
 def puntos_de_respuesta(texto: str, medio: str, inicio: datetime) -> list[dict]:
     salida = []
-    for p in json.loads(texto).get("puntos", []):
+    for p in json.loads(texto).get("puntos", [])[:MAX_PUNTOS]:
         quien, que = str(p.get("quien", "")).strip(), str(p.get("que", "")).strip()
         if not que:
             continue

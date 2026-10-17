@@ -63,3 +63,7 @@ def test_correr_graba_las_3_radios_y_avisa_fallas(tmp_path):
     assert min(p["hora"] for p in d["puntos"]) == "05:31"
     assert any(a.startswith("La FM: sin audio de ") for a in d["avisos"])
     assert publicadas  # se publica después de cada tramo
+
+def test_maximo_3_puntos_por_tramo():
+    texto = json.dumps({"puntos": [{"minuto": i, "quien": "X", "que": f"Dato {i}"} for i in range(6)]})
+    assert len(puntos_de_respuesta(texto, "Blu Radio", INICIO)) == 3
