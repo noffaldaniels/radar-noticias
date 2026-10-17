@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from radar.almacen import cargar_dia, dias_guardados, guardar_dia, podar, separar_nuevas
@@ -8,6 +9,10 @@ from radar.pagina import nombre_archivo, render_dia
 
 RECIENTES = 40
 
+def dia_radar(fecha: str) -> str:
+    # El día del Radar va de 10 pm a 10 pm (pedido de Noffal, 16-oct): lo de la noche entra al reporte de las 6:00
+    return (datetime.fromisoformat(fecha) + timedelta(hours=2)).date().isoformat()
+
 def ejecutar(ahora, datos: Path, web: Path, leer, traer_lead, llamar) -> dict:
     datos, web = Path(datos), Path(web)
     hoy = ahora.date().isoformat()
@@ -17,7 +22,7 @@ def ejecutar(ahora, datos: Path, web: Path, leer, traer_lead, llamar) -> dict:
     avisos, leidas = [], []
     for medio in FUENTES:
         try:
-            leidas += [x for x in leer(medio) if x.fecha[:10] == hoy]
+            leidas += [x for x in leer(medio) if dia_radar(x.fecha) == hoy]
         except Exception:
             avisos.append(f"{medio} no respondió en esta actualización")
     nuevas = separar_nuevas(leidas, existentes)

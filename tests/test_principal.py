@@ -9,7 +9,7 @@ def leer_falso(medio):
     if medio == "La FM":
         raise OSError("timeout")
     return [Noticia(medio, f"Ministro en {medio}", f"https://{medio[:3]}.co/hoy", "2026-10-16T05:30:00-05:00"),
-            Noticia(medio, "Nota de ayer", f"https://{medio[:3]}.co/ayer", "2026-10-15T22:00:00-05:00")]
+            Noticia(medio, "Nota de ayer", f"https://{medio[:3]}.co/ayer", "2026-10-15T21:00:00-05:00")]
 
 def test_primera_corrida_del_dia(tmp_path):
     datos, web = tmp_path / "data", tmp_path / "docs"
@@ -34,3 +34,15 @@ def test_lead_que_falla_no_rompe(tmp_path):
         raise OSError("404")
     r = ejecutar(datetime(2026, 10, 16, 5, 47, tzinfo=COT), tmp_path / "d", tmp_path / "w", leer_falso, lead_roto, None)
     assert r["nuevas"] == 2
+
+def test_el_dia_del_radar_va_de_10pm_a_10pm(tmp_path):
+    # Lo publicado entre las 10 pm y la medianoche no se pierde: entra al reporte del día siguiente
+    def leer(medio):
+        return [Noticia(medio, "Noche de ayer", f"https://{medio[:3]}.co/n1", "2026-10-15T22:30:00-05:00"),
+                Noticia(medio, "Tarde de hoy", f"https://{medio[:3]}.co/n2", "2026-10-16T21:50:00-05:00"),
+                Noticia(medio, "Noche de hoy", f"https://{medio[:3]}.co/n3", "2026-10-16T22:05:00-05:00")]
+    datos, web = tmp_path / "data", tmp_path / "docs"
+    ejecutar(datetime(2026, 10, 16, 22, 8, tzinfo=COT), datos, web, leer, lambda url: "", None)
+    assert {x.titulo for x in cargar_dia(datos, "2026-10-16")} == {"Noche de ayer", "Tarde de hoy"}
+    ejecutar(datetime(2026, 10, 17, 5, 47, tzinfo=COT), datos, web, leer, lambda url: "", None)
+    assert {x.titulo for x in cargar_dia(datos, "2026-10-17")} == {"Noche de hoy"}
