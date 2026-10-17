@@ -2273,7 +2273,7 @@
   "palabras": "Paisita Noche, Chances y Loterías, Resultados del chance, Paisita Noche, Resultados del chance, Resultados del chance hoy, Resultados hoy, Resultados hoy Paisita Noche",
   "lead": "El chance Paisita Noche juega todos los días después de las 6:00 de la tarde. Consulte aquí el número ganador del sorteo de hoy sábado 17 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "Los hechos que son noticia en Colombia y el mundo en El Radar del 17 de octubre de 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "Papa León XIV, Salud del Papa León , ¿De qué operaron a El Papa León XIV?, ¿Qué pasará con el Vaticano?",
   "lead": "El vaticanólogo Néstor Pongutá contó detalles de la intervención en Roma y explicó los retos que enfrenta el Vaticano mientras se define el futuro de la agenda del pontífice.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,7 +2306,7 @@
   "palabras": "Policía Nacional, Seguridad ciudadana, Soacha",
   "lead": "Con 21 años de trayectoria, Michel González, integrante de la Policía de Soacha, lleva aproximadamente 15 años vinculado a iniciativas de prevención antidrogas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "Nutrición",
   "lead": "La malnutrición relacionada con enfermedades puede afectar hasta al 50 % de los pacientes y aumentar el riesgo de complicaciones. Detectarla a tiempo es clave para mejorar su calidad de vida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "Viral, Indonesia",
   "lead": "La joven de 25 años se encontraba sobre unas rocas cuando la corriente de agua la arrastró hacia el vacío, mientras sus tres acompañantes intentaban auxiliarla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "",
   "lead": "Cuerpo Oficial de Bomberos de Cundinamarca, Defensa Civil y Comunidad trabajan para extinguir las llamas en las cercanías de varias fincas de la vereda Chápala y evitar la expansión en la vereda Pueblo Viejo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "",
   "lead": "Los recursos están dirigidos a las familias inscritas en el Registro Único de Damnificados y verificadas por el UNGRD.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "",
   "lead": "Durante cuatro días, los asistentes participaron en espacios de intercambio científico y apropiación social del conocimiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "",
   "lead": "El anuncio lo hizo el presidente Abelardo De La Espriella durante su visita al archipiélago. Van a construir vivienda nueva, a llevar el programa Casa Milagro y a destinar recursos para la la planta de residuos sólidos de San Andrés.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "",
   "lead": "Según la CAR, 22 municipios se mantienen en algún tipo de alerta por disminución en sus caudales hidrícos. Hay calamidad pública en Puerto Salgar y Viotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,7 +2394,7 @@
   "palabras": "",
   "lead": "La leyenda del conjunto Tiburón criticó fuertemente el manejo que se le ha dado al club. Asimismo, dio dos nombres de técnicos para que asuman el equipo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2405,7 +2405,7 @@
   "palabras": "",
   "lead": "Según la Policía, la lluvia provocó aglomeraciones y empujones entre la multitud.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "Sociedad,Ministerio de Educación,Sexualidad,Equidad de género,Derechos humanos,Consejería Presidencial",
   "lead": "El Ministerio de Educación solicitó al secretario jurídico de la Presidencia adoptar medidas urgentes frente a la Resolución Conjunta 1350 de 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,6 +2427,204 @@
   "palabras": "Internacional,Emmanuel Macron,Francia,protesta",
   "lead": "Protestas en Francia por el encarecimiento de la vida: choques con la policía y caos en París, mientras Macron afronta un fin de mandato convulso.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Destituyen a exfuncionario de la Dian en Barrancabermeja por exigir dinero a contribuyente",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/destituyen-a-exfuncionario-de-la-dian-en-barrancabermeja-por-exigir-dinero-a-contribuyente-rg10",
+  "fecha": "2026-10-17T17:15:08-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Procuraduría General de la Nación",
+  "lead": "La Procuraduría confirmó la sanción disciplinaria de 16 años contra Pablo Andrés Porras Pérez, quien habría exigido dinero a cambio de archivar un proceso tributario que contemplaba una posible sanción de 500 millones de pesos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Cómo los olores nos hacen recordar un destino?: Travesía Blu del 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/travesia-blu/como-los-olores-nos-hacen-recordar-un-destino-travesia-blu-del-17-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-17T17:13:41-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Escuche las mejores recomendaciones para planear viajes seguros y conscientes, conectando la tradición, el descanso y la aventura con todos los sentidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ayuntamiento de Limoges de 1876 en Francia fue incendiado: era monumento histórico",
+  "enlace": "https://www.bluradio.com/mundo/ayuntamiento-de-limoges-de-1876-en-francia-fue-incendiado-era-monumento-historico-cb20",
+  "fecha": "2026-10-17T17:08:36-05:00",
+  "palabras": "Francia, Incendio",
+  "lead": "El edificio del Ayuntamiento se había construido entre 1876 y 1883 sobre la base del antiguo Ayuntamiento de París con una mezcla de estilos de finales del Renacimiento y de la época de Luis XIII.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "JEP exige a senadora del Centro Democrático rectificarse: $56.000 millones no fueron por turismo",
+  "enlace": "https://www.bluradio.com/nacion/jep-exige-a-senadora-del-centro-democratico-rectificarse-56-000-millones-no-fueron-por-turismo-rg10",
+  "fecha": "2026-10-17T17:14:07-05:00",
+  "palabras": "JEP, Centro Democrático",
+  "lead": "Entre 2018 y 2026, la entidad financió solo 61 comisiones al exterior que costaron $286,4 millones y en 2026 no hubo ninguna por austeridad, según el tribunal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Protestas masivas en Francia terminan en destrozos y saqueos en jornada de gran violencia",
+  "enlace": "https://www.bluradio.com/mundo/protestas-masivas-en-francia-terminan-en-destrozos-y-saqueos-en-jornada-de-gran-violencia-cb20",
+  "fecha": "2026-10-17T17:47:09-05:00",
+  "palabras": "París, Francia",
+  "lead": "Hay \"calles enteras\" que han sido \"sistemáticamente devastadas\", denunció el alcalde de París, Emmanuel Grégoire, que estimó que el saldo de la violencia y los saqueos cometidos en la capital será \"grave\".",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Director deportivo del Bayern, sobre Luis Díaz: “Es bonito que se haya premiado con sus tres goles”",
+  "enlace": "https://caracol.com.co/2026/10/17/director-deportivo-del-bayern-sobre-luis-diaz-es-bonito-que-se-haya-premiado-con-sus-tres-goles/",
+  "fecha": "2026-10-17T17:54:45-05:00",
+  "palabras": "",
+  "lead": "Max Eberl destacó la importancia del descanso que tuvo el guajiro y el hecho de no haber viajado con la Selección Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "HIC entrega reporte de seis heridos tras presunto ataque sicarial y accidente en Santander",
+  "enlace": "https://caracol.com.co/2026/10/17/hic-entrega-reporte-de-seis-heridos-tras-presunto-ataque-sicarial-y-accidente-en-santander/",
+  "fecha": "2026-10-17T17:53:24-05:00",
+  "palabras": "",
+  "lead": "Cuatro adultos y dos menores de edad fueron atendidos en el Hospital Internacional de Colombia. Algunos presentaban heridas de bala y otros, traumatismos por el accidente ocurrido durante una caravana fúnebre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente Abelardo de la Espriella destaca operativo en Santa Marta contra “Los Pachenca”",
+  "enlace": "https://caracol.com.co/2026/10/17/presidente-abelardo-de-la-espriella-destaca-operativo-en-santa-marta-contra-los-pachenca/",
+  "fecha": "2026-10-17T17:50:22-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella destacó este sábado la incautación de una caleta de armas en Santa Marta, que pertenecería al Frente Libardo Vergel de las Autodefensas Conquistadoras de la Sierra Nevada o “Los Pachenca”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Italia vive una jornada de protestas que deja heridos y cerca de 50 detenidos",
+  "enlace": "https://caracol.com.co/2026/10/17/italia-vive-una-jornada-de-protestas-que-deja-heridos-y-cerca-de-50-detenidos/",
+  "fecha": "2026-10-17T17:31:00-05:00",
+  "palabras": "",
+  "lead": "Las movilizaciones se registraron en varias ciudades del país por el alto costo de vida y los bajos salarios. Los sindicatos anunciaron una huelga general para el 20 de noviembre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO | Millonarios vs Jaguares por Liga Colombiana: Siga la transmisión y el minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/17/en-vivo-millonarios-vs-jaguares-por-liga-colombiana-siga-la-transmision-y-el-minuto-a-minuto/",
+  "fecha": "2026-10-17T17:43:51-05:00",
+  "palabras": "",
+  "lead": "El Embajador busca regresar al triunfo, luego de tres empates consecutivos en Liga y la eliminación de Copa ante Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expertos en seguridad piden reforzar el control interno de la Policía Nacional",
+  "enlace": "https://caracol.com.co/2026/10/17/expertos-en-seguridad-piden-reforzar-el-control-interno-de-la-policia-nacional/",
+  "fecha": "2026-10-17T17:33:05-05:00",
+  "palabras": "",
+  "lead": "Un informe especial de Caracol Radio dio a conocer que entre el año 2022 y el 2026 , un uniformado al día ha sido destituido por hechos de corrupción en la Policía Nacional. Los expertos compartieron sus recomendaciones y opiniones al respecto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jornada de protestas frente al Museo Nacional tras modificaciones en su guión museográfico",
+  "enlace": "https://caracol.com.co/2026/10/17/jornada-de-protestas-frente-al-museo-nacional-tras-modificaciones-en-su-guion-museografico/",
+  "fecha": "2026-10-17T17:34:58-05:00",
+  "palabras": "",
+  "lead": "30 piezas históricas fueron retiradas de tres salas del Museo lo que desató el rechazo de diversos sectores sociales y de la oposición.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salario mínimo 2027: “contemplamos propuesta de aumento de 38,5%”, Fabio Arias, expresidente de CUT",
+  "enlace": "https://caracol.com.co/2026/10/17/salario-minimo-2027-contemplamos-propuesta-de-aumento-de-385-fabio-arias-expresidente-de-cut/",
+  "fecha": "2026-10-17T17:20:54-05:00",
+  "palabras": "",
+  "lead": "El expresidente de la Central Unitaria de Trabajadores aseguró a Caracol Radio que los trabajadores han contemplado llevar a la mesa de concertación laboral esa cifra para cerrar la brecha con el salario mínimo vital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ópera al Parque en Bogotá: gala gratuita por los 50 años de la Ópera de Colombia",
+  "enlace": "https://caracol.com.co/2026/10/17/opera-al-parque-en-bogota-gala-gratuita-por-los-50-anos-de-la-opera-de-colombia/",
+  "fecha": "2026-10-17T17:10:02-05:00",
+  "palabras": "",
+  "lead": "El festival contará con más de 200 artistas, presentaciones de la Ópera de Shanghái y una programación especial por los 50 años de la Ópera de Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Char anuncia transformación de salas del Cortissoz antes de la final de la Copa Sudamericana",
+  "enlace": "https://caracol.com.co/2026/10/17/char-anuncia-transformacion-de-las-salas-del-cortissoz-antes-de-la-final-de-la-copa-sudamericana/",
+  "fecha": "2026-10-17T17:03:48-05:00",
+  "palabras": "",
+  "lead": "El proyecto contempla 10 puestos de Migración, ocho módulos de Biomig, espacios más amplios, mejoras en la climatización y nuevos comercios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "JEP desmiente a senadora María Clara Posada y le exige rectificar acusaciones de “turismo judicial”",
+  "enlace": "https://caracol.com.co/2026/10/17/jep-desmiente-a-senadora-maria-clara-posada-y-le-exige-rectificar-acusaciones-de-turismo-judicial/",
+  "fecha": "2026-10-17T16:58:45-05:00",
+  "palabras": "",
+  "lead": "El tribunal de paz aclaró que no se ha gastado 56.000 millones en viáticos como lo afirmó Posada y detalló que sus viajes al exterior representan apenas el 1%",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Graban a presunto ‘pinchallantas’ en plena avenida Boyacá",
+  "enlace": "https://www.lafm.com.co/actualidad/pinchallantas-bogota-avenida-boyaca-captado-en-video-414291",
+  "fecha": "2026-10-17T17:25:00-05:00",
+  "palabras": "Actualidad,Estafa,Inseguridad,seguridad vial,Bogotá,Secretaría de Movilidad,Alcaldía de Bogotá,Secretaría de Tránsito",
+  "lead": "Un video muestra un presunto caso de ‘pinchallantas’ en la avenida Boyacá con calle 63.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Trump exime a Rusia de nuevas sanciones: ¿de qué se trata?",
+  "enlace": "https://www.lafm.com.co/internacional/donald-trump-exime-a-rusia-de-nuevas-sanciones-414290",
+  "fecha": "2026-10-17T16:58:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Vladimir Putin,Rusia,Ucrania,sanciones,Leyes sancionadas,Conflicto diplomático,críticas,Oposición,Donald Trump",
+  "lead": "Trump bloquea la Ley Lindsey Graham contra el petróleo ruso: Moscú celebra, Zelenski protesta y en EEUU recriminan la medida antes de elecciones.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
