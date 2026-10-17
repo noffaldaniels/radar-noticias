@@ -7,7 +7,7 @@
   "palabras": "Lotería de Santander, Resultado de loterías de hoy",
   "lead": "El sorteo 5092 de la Lotería de Santander jugó un premio mayor de $6.500 millones y otros premios. Conozca los resultados completos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería de Risaralda, Resultado de loterías de hoy",
   "lead": "Consulte los resultados completos y el premio mayor del sorteo 2971 de la Lotería de Risaralda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Jamundí, sicariato",
   "lead": "La víctima fue identificada como Felipe López, recibió varios impactos de bala y falleció posteriormente. Era oriundo de Santander de Quilichao",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "",
   "lead": "El resultado fue Del amor y otras adicciones, un trabajo que aborda desde el enamoramiento y la ilusión de encontrar a la persona indicada hasta el despecho, la nostalgia y las rupturas sentimentales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Huila",
   "lead": "Entretanto, tropas se desplegaron en la zona para apoyar a los uniformados y atender esta situación de alteración del orden público.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Paraguay",
   "lead": "En un comunicado, la Policía Nacional de Paraguay dijo que recibió \"una alerta de seguridad generada por un correo electrónico amenazante remitido de forma masiva\".",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "MiLoto, Resultado MiLoto",
   "lead": "Ningún apostador acertó los cinco números y el acumulado subió a $200 millones. En total hubo 9.407 ganadores y se repartieron $89.499.100 en premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Chía, Chía , Halloween",
   "lead": "La carrera busca reunir a corredores de diferentes edades en torno a la actividad física.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Medicamentos, Invima, homeopáticos, medicamentos",
   "lead": "Recomiendan abstenerse de comprar, dispensar, recomendar o utilizar estos productos mientras no se comprueben plenamente su autenticidad y procedencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "Andrés Felipe Ramírez calificó lo sucedido como la noche más dura y dolorosa de su vida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "",
   "lead": "El rápido crecimiento del uso de inteligencia artificial está dejando al descubierto un problema en muchas empresas: la falta de conexión entre los asistentes virtuales y los empleados genera trabas en la atención y aumenta los costos por tareas mal hechas o duplicadas. Hoy, las plataformas de memoria compartida buscan evitar esos reprocesos y garantizar un flujo continuo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "",
   "lead": "El reconocimiento otorgado por ACES América destaca el compromiso de Tenjo con el deporte, la inclusión y el bienestar, y exalta el trabajo liderado por INDERTEN y la Alcaldía Municipal para proyectar el desarrollo deportivo del territorio a nivel internacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "",
   "lead": "Se advierte sobre la posible detención de investigaciones en curso, audiencias territoriales y revisión de sentencias.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "El atentado fue informado por el senador Duvalier Sánchez, quien se había reunido con el exalcalde horas antes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,6 +172,28 @@
   "palabras": "Actualidad,Valle del Cauca,Jamundí,atentado,Homicidios,recompensa,Gobernación del Valle",
   "lead": "En medio del ataque sicarial contra el exalcalde de Jamundí, Andrés Ramírez, fue asesinado su escolta, Andrés Felipe López, integrante de la UNP.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "León XIV recibe el alta hospitalaria y regresará al Vaticano esta tarde",
+  "enlace": "https://caracol.com.co/2026/10/17/leon-xiv-recibe-el-alta-hospitalaria-y-regresara-al-vaticano-esta-tarde/",
+  "fecha": "2026-10-17T05:54:10-05:00",
+  "palabras": "",
+  "lead": "Los médicos han dado de alta a León XIV basándose en los análisis de sangre, la radiografía de tórax realizada esta mañana y una evaluación de su estado clínico. Mañana, domingo 18 de octubre, rezará el Ángelus desde la ventana de su estudio en el Vaticano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un menor falleció por un brote de tosferina identificado en una comunidad indígena de Necoclí",
+  "enlace": "https://caracol.com.co/2026/10/17/un-menor-fallecio-por-un-brote-de-tosferina-identificado-en-una-comunidad-indigena-de-necocli/",
+  "fecha": "2026-10-17T05:53:53-05:00",
+  "palabras": "",
+  "lead": "Según las autoridades de salud, tres menores están enfermos en esa comunidad del Urabá antioqueño.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
