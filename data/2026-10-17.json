@@ -403,7 +403,7 @@
   "palabras": "Huila, atentado terrorista, Gobierno nacional",
   "lead": "Comisión de Paz de la Cámara de Representantes pidió cumplir los compromisos de seguridad y entregar sistemas antidrones para proteger a la población.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "Teherán afirmó que la embarcación intentaba cruzar por una ruta no autorizada, pero no identificó su bandera.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "El jugador salió en ambulancia durante el compromiso ante Deportes Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "Científicos de la Universidad de Newcastle, en Australia, revelaron que adelantan “procedimientos experimentales” para, genéticamente, poder recrear la especia. Hasta el momento, lograron crear embriones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "La Secretaría de Salud manifestó que será el Hospital La María el encargado de manejar esa institución que afronta problemas económicos y operativos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El hecho ocurrió en la entrada del conjunto residencial Palmeras, en Barranquilla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "Garzón, Pitalito y Neiva recibirán la jornada ambiental del 20 al 22 de octubre para disponer residuos posconsumo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,6 +480,248 @@
   "palabras": "Sociedad,Código de Tránsito,Ministerio de Transporte,seguridad vial,Convocatoria,Propuestas,Motociclistas,Licencias de conducción,Trámites,vías",
   "lead": "El Ministerio de Transporte realizará encuentros regionales en Bogotá, Barranquilla, Cali y Medellín para recoger propuestas ciudadanas que permitan actual...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a cinco hombres y aprehenden a un adolescente junto con alias “Julito” en Floridablanca",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/capturan-a-cinco-hombres-y-aprehenden-a-un-adolescente-junto-con-alias-julito-en-floridablanca-rg10",
+  "fecha": "2026-10-17T08:38:32-05:00",
+  "palabras": "Bucaramanga, Policía Nacional, Noticias de hoy, Blu Radio",
+  "lead": "En la vereda Rosa Blanca, zona rural de Floridablanca fue recapturado alias “Julito”, investigado por su presunta relación con 19 casos de homicidio en Bucaramanga y su área metropolitana además de pertenecer a las banda 'Los del Sur'.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Temu y Shein pagarían IVA del 19 % en Colombia: así es el proyecto de ley",
+  "enlace": "https://www.bluradio.com/economia/necesitamos-nivelar-la-cancha-proyecto-busca-cobrar-iva-a-compras-en-plataformas-asiaticas-pr30",
+  "fecha": "2026-10-17T08:47:44-05:00",
+  "palabras": "IVA, Aranceles, Temu",
+  "lead": "El representante por el Centro Democrático Jhon Jairo Berrío aseguró que la iniciativa busca reducir las ventajas tributarias de ciertos envíos internacionales y proteger el empleo nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras denuncias de fallas en el servicio del hospital de Puerto Berrío, Gobernación lo operará 4 años",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/tras-denuncias-de-fallas-en-el-servicio-del-hospital-de-puerto-berrio-gobernacion-lo-operara-4-anos-rg10",
+  "fecha": "2026-10-17T08:56:46-05:00",
+  "palabras": "Ministerio de Salud, Antioquia, Noticias de hoy, Superintendencia de Salud",
+  "lead": "Como se había solicitado hace un par de días, la Gobernación asumirá el control del centro asistencial. La E.S.E. Hospital Departamental La María, operará el centro asistencial por los próximos cuatro años.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MinTransporte abre convocatoria ciudadana para reformar el Código Nacional de Tránsito",
+  "enlace": "https://www.bluradio.com/motor/mintransporte-abre-convocatoria-ciudadana-para-reformar-el-codigo-nacional-de-transito-rg10",
+  "fecha": "2026-10-17T08:52:29-05:00",
+  "palabras": "Ministerio de Transporte, Código Nacional de Tránsito",
+  "lead": "Con esta iniciativa buscan modernizar las normas para que respondan a las realidades económicas y sociales del país, aclaran que este proyecto no contempla modificaciones al régimen de transporte establecido en la Ley 336 de 1996.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tres ataques en 24 horas en el Huila: Noticias de la Mañana, 17 de octubre 2026",
+  "enlace": "https://www.bluradio.com/noticias-de-la-manana/tres-ataques-en-24-horas-en-el-huila-noticias-de-la-manana-17-de-octubre-2026-pr30",
+  "fecha": "2026-10-17T09:00:19-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Noticias de la Mañana del sábado, 17 de octubre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La dignidad menstrual, una causa que se toma la cancha en Boyacá",
+  "enlace": "https://caracol.com.co/2026/10/17/la-dignidad-menstrual-una-causa-que-se-toma-la-cancha-en-boyaca/",
+  "fecha": "2026-10-17T08:59:19-05:00",
+  "palabras": "",
+  "lead": "La iniciativa busca involucrar a los hombres y reducir las barreras de acceso a productos de gestión menstrual en el departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente De la Espriella rechazó atentado contra exalcalde de Jamundí : “No quedará impune”",
+  "enlace": "https://caracol.com.co/2026/10/17/presidente-de-la-espriella-rechazo-atentado-contra-exalcalde-de-jamundi-no-quedara-impune/",
+  "fecha": "2026-10-17T08:46:02-05:00",
+  "palabras": "",
+  "lead": "El mandatario de los colombianos también lamentó el asesinato de Felipe López, integrante del esquema de protección del exalcalde.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Premier League 2026/2027: Así va la tabla de posiciones tras victoria del Chelsea ante el Everton",
+  "enlace": "https://caracol.com.co/2026/10/17/premier-league-20262027-asi-va-la-tabla-de-posiciones-tras-victoria-del-chelsea-ante-el-everton/",
+  "fecha": "2026-10-17T08:43:47-05:00",
+  "palabras": "",
+  "lead": "El equipo londinense sumó su segundo triunfo consecutivo en la Premier.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El papa León XIV abandonó el hospital Gemelli de Roma",
+  "enlace": "https://caracol.com.co/2026/10/17/el-papa-leon-xiv-abandono-el-hospital-gemelli-de-roma/",
+  "fecha": "2026-10-17T08:43:39-05:00",
+  "palabras": "",
+  "lead": "El pontífice recibió el alta médica luego de que los exámenes y la valoración de los especialistas confirmaran una evolución favorable.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Spotify estrenará RADAR Fest en Colombia: fechas, artistas y cómo asistir al evento en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/17/spotify-estrenara-radar-fest-en-colombia-fechas-artistas-y-como-asistir-al-evento-en-bogota/",
+  "fecha": "2026-10-17T08:30:32-05:00",
+  "palabras": "",
+  "lead": "El encuentro se realizará el 19 y 20 de octubre con presentaciones en vivo, conversaciones sobre música y actividades de formación. La entrada será gratuita, pero estará limitada a usuarios invitados por la plataforma.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumentan a $150 millones recompensa por atentado contra exalcalde de Jamundí y crimen de su escolta",
+  "enlace": "https://caracol.com.co/2026/10/17/aumentan-a-150-millones-recompensa-por-atentado-contra-exalcalde-de-jamundi-y-crimen-de-su-escolta/",
+  "fecha": "2026-10-17T08:42:38-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de Jamundí ofreció $50 millones adicionales a los $100 millones anunciados por la Gobernación del Valle para identificar y capturar a los responsables del ataque.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Extorsionaban a comerciantes e incluso a sus vecinos”: Fiscalía revela cómo operaba alias ‘Keko’",
+  "enlace": "https://caracol.com.co/2026/10/17/extorsionaban-a-comerciantes-e-incluso-a-sus-vecinos-fiscalia-revela-como-operaba-alias-keko/",
+  "fecha": "2026-10-17T08:34:39-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía le imputó cargos al presunto delincuente, capturado en medio de la operación Blindaje 360, liderado por Abelardo De la Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autor del tiroteo con 4 muertos en una escuela de Oregón usó una escopeta de su madre",
+  "enlace": "https://caracol.com.co/2026/10/17/autor-del-tiroteo-con-4-muertos-en-una-escuela-de-oregon-uso-una-escopeta-de-su-madre/",
+  "fecha": "2026-10-17T08:31:51-05:00",
+  "palabras": "",
+  "lead": "El joven fue abatido por el padre de dos niñas que estudian en el colegio",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno entrega compensaciones por cerca de $473 millones a tres familias víctimas en Huila",
+  "enlace": "https://caracol.com.co/2026/10/17/gobierno-entrega-compensaciones-por-cerca-de-473-millones-a-tres-familias-victimas-en-huila/",
+  "fecha": "2026-10-17T08:31:40-05:00",
+  "palabras": "",
+  "lead": "Con esta decisión la Unidad avanza en el cumplimiento de las decisiones judiciales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rusia califica de “momento histórico” decisión de Trump de frenar sanciones del Congreso",
+  "enlace": "https://caracol.com.co/2026/10/17/rusia-califica-de-momento-historico-decision-de-trump-de-frenar-sanciones-del-congreso/",
+  "fecha": "2026-10-17T08:27:29-05:00",
+  "palabras": "",
+  "lead": "Dmítriev aseguró que “los enemigos de la seguridad global, la cooperación y la prosperidad estarán descontentos”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía india confirma arresto preventivo del líder de las “Cucarachas” tras las protestas",
+  "enlace": "https://caracol.com.co/2026/10/17/policia-india-confirma-arresto-preventivo-del-lider-de-las-cucarachas-tras-las-protestas/",
+  "fecha": "2026-10-17T08:17:45-05:00",
+  "palabras": "",
+  "lead": "El dirigente comparecerá ante un magistrado, mientras su movimiento había denunciado que perdió contacto con él tras su detención.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comerciantes reportan baja en precios de productos como plátano y ñame en Córdoba",
+  "enlace": "https://caracol.com.co/2026/10/17/comerciantes-reportan-baja-en-precios-de-productos-como-platano-y-name-en-cordoba/",
+  "fecha": "2026-10-17T08:17:04-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con lo informado, durante la mañana del 16 de octubre ingresaron más de 20 camiones con plátano a la principal central de abastos de la ciudad de Montería",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caos en toda Francia: Protesta de estudiantes y sindicatos reporta enfrentamientos, incendios, saqueos y vandalismo",
+  "enlace": "https://www.lafm.com.co/internacional/protestas-estudiantiles-francia-paris-bourdeaux-marsella-414256",
+  "fecha": "2026-10-17T08:55:00-05:00",
+  "palabras": "Internacional,París,Manifestantes,enfrentamiento,Vandalismo,actos violentos,Alteración al orden público,Denuncias por abuso,Detenidos,Jóvenes,Problemas económicos",
+  "lead": "A las manifestaciones se unieron personas descontentas con el alto nivel de vida francés.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Operación Orión en la comuna 13 de Medellín: 24 años después",
+  "enlace": "https://www.lafm.com.co/sociedad/operacion-orion-comuna-13-medellin-24-anios-despues-414251",
+  "fecha": "2026-10-17T08:29:00-05:00",
+  "palabras": "Sociedad,Operación,Medellín, Colombia,conflicto armado,Víctimas,Reparación de víctimas",
+  "lead": "El reclamo se da a diez años de la firma del Acuerdo de Paz y en medio de recortes presupuestales que, según las víctimas, afectarían a la JEP.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cali: Investigan ataque contra patrulla de la Policía",
+  "enlace": "https://www.lafm.com.co/orden-publico/ataque-contra-patrulla-policia-zona-rural-cali-414250",
+  "fecha": "2026-10-17T08:26:00-05:00",
+  "palabras": "Orden Público,Ataque a la fuerza publica,Cali, Colombia",
+  "lead": "En las últimas horas se registró un ataque contra la Fuerza Pública en la ciudad de Cali. El hecho fue en la zona rural.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente ordena la captura de los responsables del atentado contra el exalcalde de Jamundí",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-ordena-captura-de-responsables-atentado-exalcalde-de-jamundi-414249",
+  "fecha": "2026-10-17T08:26:00-05:00",
+  "palabras": "Política,atentado,Abelardo de la Espriella,Rodrigo Lara,Gobierno,Jamundí",
+  "lead": "El mandatario ordenó a la Policía desplegar todas sus capacidades, en coordinación con la Fiscalía, para dar con los autores del ataque sicarial",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Francia busca músicos colombianos: esta es la razón",
+  "enlace": "https://www.lafm.com.co/sociedad/francia-busca-musicos-colombianos-ensenar-europa-414242",
+  "fecha": "2026-10-17T07:14:00-05:00",
+  "palabras": "Sociedad,oferta laboral,Ofertas laborales,Ofertas de empleo,música,Francia,Colombia",
+  "lead": "Los interesados pueden participar consultando todos los datos y adjuntando los documentos solicitados.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
