@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "Los médicos han dado de alta a León XIV basándose en los análisis de sangre, la radiografía de tórax realizada esta mañana y una evaluación de su estado clínico. Mañana, domingo 18 de octubre, rezará el Ángelus desde la ventana de su estudio en el Vaticano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,6 +194,39 @@
   "palabras": "",
   "lead": "Según las autoridades de salud, tres menores están enfermos en esa comunidad del Urabá antioqueño.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El municipio donde puede dormir dentro de un antiguo cráter volcánico: tiene laguna y termales",
+  "enlace": "https://www.bluradio.com/turismo/el-municipio-donde-puede-dormir-dentro-de-un-antiguo-crater-volcanico-tiene-laguna-y-termales-so35",
+  "fecha": "2026-10-17T06:24:52-05:00",
+  "palabras": "Noticias de hoy, Caldas, Volcán, Viajes",
+  "lead": "La posibilidad de alojarse en el entorno de la laguna permite conocer un paisaje cuyo origen se remonta a miles de años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aunque volvieron las lluvias y ahorro de agua mejoró, EPM insiste que sigue reto en Piedras Blancas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/aunque-volvieron-las-lluvias-y-ahorro-de-agua-mejoro-epm-insiste-que-sigue-reto-en-piedras-blancas-rg10",
+  "fecha": "2026-10-17T06:34:39-05:00",
+  "palabras": "EPM, Medellín, Fenómeno de El Niño, Noticias de hoy",
+  "lead": "Las cifras siguen por debajo de las metas de EPM. En Piedras Blancas, la fuente de abastecimiento más preocupante, el ahorro sigue a la baja.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Papa León XIV regresa al Vaticano tras cirugía por cáncer de pulmón",
+  "enlace": "https://www.bluradio.com/mundo/papa-leon-xiv-recibe-alta-medica-tras-cirugia-de-pulmon-y-regresara-al-vaticano-cb20",
+  "fecha": "2026-10-17T06:36:36-05:00",
+  "palabras": "Papa León XIV, Vaticano, Roma",
+  "lead": "Tras cinco días hospitalizado en Roma, el pontífice recibió el alta médica luego de una evolución favorable. Este domingo retomará sus apariciones públicas con el rezo del Ángelus.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
