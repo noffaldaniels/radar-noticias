@@ -2,6 +2,7 @@ name: Radar Noticias
 on:
   schedule:
     # Hora de Colombia = UTC-5. Corre 15 minutos antes de cada reporte.
+    - cron: "30 10 * * *"        # 5:30: corrida extra para que a las 6:00 ya esté la página del día
     - cron: "45 10,11,12 * * *"  # 5:45, 6:45, 7:45
     - cron: "15 11,12 * * *"     # 6:15, 7:15
     - cron: "45 13-23 * * *"     # 8:45 a 18:45
