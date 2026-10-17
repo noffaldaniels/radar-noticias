@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Este es el segundo ataque con explosivos contra la fuerza pública registrado en menos de una semana en la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "Según cálculos de la institución, en ese punto en particular explotaban oro que les dejaba más de 100 millones mensuales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "La restricción regirá desde este sábado hasta el miércoles 21 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "Habitantes del sector expusieron sus preocupaciones ante el gobernador del Atlántico, Eduardo Verano.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "La Policía realizó 589 controles preventivos y dispersó concentraciones sindicales y estudiantiles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "Los ‘Leopardos’ buscan prolongar su invicto y acercarse a la cima; mientras que los ‘Escarlatas’ quieren consolidarse en el primer lugar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "El Gobierno creó la primera prima para militares y policías que realizan desminado y destrucción de explosivos. Conozca los detalles y requerimientos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "Tras más de dos meses del terremoto, damnificados en Armenia en una de las zonas más afectadas donde estuvo el vicepresidente, sostienen que no hay soluciones concretas",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "El adulto de 71 años fue enviado a la cárcel por el presunto delito de actos sexuales con menor de 14 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "La División Profesional del Béisbol Colombiano solicitó a las directivas de Vaqueros de Montería buscar una sede alterna para los encuentros correspondientes a la temporada 2026 - 2027",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Internacional,Estados Unidos,Fuerzas Militares,Fuerzas Armadas,Narcotráfico,Operación antidrogas,base militar",
   "lead": "Sebastián Bitar, analista internacional, explicó las diferencias entre la asistencia militar que existe desde hace décadas y un eventual despliegue de trop...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "Actualidad,Bogotá,Emberá,indígenas",
   "lead": "Un nuevo hecho enluta a la comunidad indígena Emberá en la capital del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "Sociedad,Cauca,Exportaciones,Comercio exterior,Federación Nacional de Cafeteros,Caficultores,conflicto armado,Mipymes,sectores productores,Actividad económica",
   "lead": "Ana Fernanda Muñoz Otoya, presidenta de la Cámara de Comercio del Cauca, destacó la importancia de reconocer el potencial productivo del departamento y adv...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "Internacional,Inteligencia artificial,Nasa,Astronomía",
   "lead": "La orden emitida por Trump establece cambios en todas las entidades gubernamentales, incluyendo la agencia espacial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Actualidad,Ataque a uniformados,Ataque a la fuerza publica,Cali, Colombia",
   "lead": "En las últimas horas se registró un ataque contra la Fuerza Pública en la ciudad de Cali. El hecho fue en la zona rural.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,6 +898,380 @@
   "palabras": "Sociedad,Icfes,Examen,Pruebas de Estado,pruebas,horarios,resultados",
   "lead": "El gremio de las empresas de servicios temporales considera que la regulación sobre tercerización e intermediación laboral requiere mayor claridad para evi...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Brote de tosferina deja un menor indígena muerto y otros cuatro contagiados en Necoclí, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/brote-de-tosferina-deja-un-menor-indigena-muerto-y-otros-cuatro-contagiados-en-necocli-antioquia-rg10",
+  "fecha": "2026-10-17T09:18:05-05:00",
+  "palabras": "Tosferina, Antioquia, Gobernación de Antioquia, Noticias de hoy",
+  "lead": "La Gobernación le pidió a las autoridades indígenas del municipio que los dejen entrar hasta el territorio afectado para realizar la atención de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Disparos, choque múltiple e incendio: así fue la emergencia en la vía Piedecuesta",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/disparos-choque-multiple-e-incendio-asi-fue-la-emergencia-en-la-via-piedecuesta-rg10",
+  "fecha": "2026-10-17T09:08:54-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, sicariato, Accidente de tránsito, Policía Nacional",
+  "lead": "Seis personas, entre ellas dos menores de edad, resultaron lesionadas. El Hospital Internacional de Colombia confirmó la atención de los afectados, mientras las autoridades investigan el ataque armado contra los ocupantes de un vehículo rojo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tres heridos dejan dos atentados terroristas en Cali: esto se sabe",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/dos-policias-fueron-victimas-de-un-atentado-terrorista-en-el-sector-de-montebello-en-cali-rg10",
+  "fecha": "2026-10-17T09:11:53-05:00",
+  "palabras": "atentado terrorista, Cali, Policía Nacional",
+  "lead": "De acuerdo con la información conocida hasta el momento, los policías heridos se encontraban realizando labores de patrullaje en la zona cuando fueron atacados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 1.000 víctimas: así operaba una red que habría estafado a ciudadanos en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/mas-de-1-000-victimas-asi-operaba-una-red-que-habria-estafado-a-ciudadanos-en-medellin-rg10",
+  "fecha": "2026-10-17T09:21:31-05:00",
+  "palabras": "Medellín, Fiscalía General de la Nación, Noticias de hoy",
+  "lead": "La Fiscalía reveló que hubo ganancias ilícitas por más de 14.000 millones de pesos. Algunas de las víctimas fueron escoltadas hasta sus viviendas para recolectar sus documentos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Machosfera: qué es, por qué atrae a hombres jóvenes y qué riesgos tiene",
+  "enlace": "https://www.bluradio.com/sociedad/machosfera-y-nuevas-masculinidades-como-las-redes-estan-cambiando-la-forma-de-ser-hombre-pr30",
+  "fecha": "2026-10-17T10:26:28-05:00",
+  "palabras": "Feminismo, Machismo, Autoestima, Redes sociales",
+  "lead": "Ricardo Forero analizó por qué cada vez más hombres encuentran en comunidades digitales respuestas sobre identidad, relaciones y masculinidad, y dónde comienzan los riesgos de estos discursos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ideam pronostica lluvias y fuertes vientos en el Caribe este fin de semana",
+  "enlace": "https://www.bluradio.com/regiones/caribe/ideam-pronostica-lluvias-y-fuertes-vientos-en-el-caribe-este-fin-de-semana-rg10",
+  "fecha": "2026-10-17T09:44:30-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Lluvias en Colombia, Magdalena, Costa Caribe",
+  "lead": "El instituto señaló que hay alerta roja en los departamentos de Bolívar, Córdoba y Magdalena por posibles deslizamientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana, resultado del último sorteo hoy sábado 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-hoy-sabado-17-de-octubre-de-2026-so35",
+  "fecha": "2026-10-17T10:05:49-05:00",
+  "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 17 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "ELN incinera bus en la vía Cerrito, Santander: pasajeros fueron obligados a bajar",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/eln-incinera-bus-en-la-via-cerrito-santander-pasajeros-fueron-obligados-a-bajar-rg10",
+  "fecha": "2026-10-17T10:43:44-05:00",
+  "palabras": "Noticias de hoy, Santander, ELN, Blu Radio, Noticias de hoy",
+  "lead": "El vehículo de servicio público fue quemado en el kilómetro 87 de la Troncal del Norte, en el sector del páramo del Almorzadero, jurisdicción de Cerrito. El hecho ocurrió en la vía que comunica a Santander con Norte de Santander, dónde hay tránsito del ELN.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Protestas en París: jóvenes exigen más recursos para la educación pública",
+  "enlace": "https://www.bluradio.com/nacion/jovenes-encapuchados-se-enfrentaron-a-la-policia-en-paris-exigen-mas-recursos-para-educacion-cb20",
+  "fecha": "2026-10-17T10:25:31-05:00",
+  "palabras": "Protestas en Francia, Francia, Educación",
+  "lead": "Miles de jóvenes se movilizaron en París para reclamar más recursos, profesores y mejores condiciones en la educación pública, en una jornada marcada por enfrentamientos con la Policía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella ordena desplegar capacidades de la Policía tras atentado contra exalcalde de Jamundí",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/de-la-espriella-ordena-desplegar-capacidades-de-la-policia-tras-atentado-contra-exalcalde-de-jamundi-rg10",
+  "fecha": "2026-10-17T10:38:54-05:00",
+  "palabras": "Abelardo De La Espriella, Jamundí",
+  "lead": "El presidente pidió identificar y capturar a los responsables del ataque contra Andrés Felipe Ramírez, en el que murió uno de sus escoltas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presuntos integrantes del ELN habrían incendiado un bus en la vía Málaga–Cerrito en Santander",
+  "enlace": "https://caracol.com.co/2026/10/17/presuntos-integrantes-del-eln-habrian-incendiado-un-bus-en-la-via-malagacerrito-en-santander/",
+  "fecha": "2026-10-17T10:49:45-05:00",
+  "palabras": "",
+  "lead": "Dos hombres armados interceptaron el vehículo de servicio público, obligaron a descender al conductor y a los pasajeros y luego le prendieron fuego. No se reportan heridos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Bayern Múnich vs RB Leipzig con Luis Díaz titular: Siga el minuto a minuto del partido",
+  "enlace": "https://caracol.com.co/2026/10/17/en-vivo-bayern-munich-vs-rb-leipzig-con-luis-diaz-titular-siga-el-minuto-a-minuto-del-partido/",
+  "fecha": "2026-10-17T10:50:25-05:00",
+  "palabras": "",
+  "lead": "Los dirigidos por Vincent Kompany buscan reencontrarse con la victoria tras dos empates al hilo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "BTS habría pagado 900 mil dólares para el mantenimiento de la grama en el estadio El Campín",
+  "enlace": "https://caracol.com.co/2026/10/17/bts-habria-pagado-900-mil-dolares-para-el-mantenimiento-de-la-grama-en-el-estadio-el-campin/",
+  "fecha": "2026-10-17T10:47:12-05:00",
+  "palabras": "",
+  "lead": "El concejal Juan David Quintero pidió explicaciones sobre el uso de ese dinero por parte de Sencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿En qué va la solución al problema del agua en Santa Marta?",
+  "enlace": "https://caracol.com.co/2026/10/17/en-que-va-la-solucion-al-problema-del-agua-en-santa-marta/",
+  "fecha": "2026-10-17T10:46:24-05:00",
+  "palabras": "",
+  "lead": "El representante a la Cámara por el Magdalena, Felipe Hernández, dijo que desconoce un proyecto concreto que reemplace las plantas desalinizadoras contempladas para la ciudad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevos disturbios en Tirana en las protestas que exigen la dimisión del primer ministro",
+  "enlace": "https://caracol.com.co/2026/10/17/nuevos-disturbios-en-tirana-en-las-protestas-que-exigen-la-dimision-del-primer-ministro/",
+  "fecha": "2026-10-17T10:43:32-05:00",
+  "palabras": "",
+  "lead": "Los disturbios comenzaron después del mediodía y volvieron a concentrarse ante el Ministerio de Educación, en el centro de la capital, ya dañado en jornadas anteriores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla inicia la tercera Jornada Nacional de Vacunación con más de 60 puntos gratuitos",
+  "enlace": "https://caracol.com.co/2026/10/17/barranquilla-inicia-la-tercera-jornada-nacional-de-vacunacion-con-mas-de-60-puntos-gratuitos/",
+  "fecha": "2026-10-17T10:40:45-05:00",
+  "palabras": "",
+  "lead": "La jornada busca completar los esquemas de vacunación de niños, adolescentes, mujeres gestantes y adultos mayores, con puntos fijos y móviles habilitados en el Distrito.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Una mujer fue asesinada dentro de su casa en zona rural de San Pedro de Los Milagros",
+  "enlace": "https://caracol.com.co/2026/10/17/una-mujer-fue-asesinada-dentro-de-su-casa-en-zona-rural-de-san-pedro-de-los-milagros/",
+  "fecha": "2026-10-17T10:37:19-05:00",
+  "palabras": "",
+  "lead": "La mujer fue atacada con un arma cortopunzante por el agresor que se trata de identificar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "YELEX se unió a Hamilton y The Prodigiez y presentaron ‘Úsame’, su nuevo sencillo",
+  "enlace": "https://caracol.com.co/2026/10/17/yelex-se-unio-a-hamilton-y-the-prodigiez-y-presentaron-usame-su-nuevo-sencillo/",
+  "fecha": "2026-10-17T10:35:53-05:00",
+  "palabras": "",
+  "lead": "El artista cartagenero, a través del afrobeat, se lanzó con una colaboración con la que busca impulsar su proyección en la industria musical.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Únicos casos en los que la EPS cubriría los pañales de un bebé, según la Corte Constitucional",
+  "enlace": "https://caracol.com.co/2026/10/17/unicos-casos-en-los-que-la-eps-cubre-los-panales-de-un-bebe-segun-la-corte-constitucional/",
+  "fecha": "2026-10-17T10:34:04-05:00",
+  "palabras": "",
+  "lead": "Mediante varias sentencias la Corte Constitucional fijo la posición frente a estos insumos de salud.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rescatan a 11 niñas indígenas y cuatro mujeres en medio de intervención en el centro de Cali",
+  "enlace": "https://caracol.com.co/2026/10/17/rescatan-a-11-ninas-indigenas-y-cuatro-mujeres-en-medio-de-intervencion-en-el-centro-de-cali/",
+  "fecha": "2026-10-17T10:26:40-05:00",
+  "palabras": "",
+  "lead": "El alcalde Alejandro Eder reveló que las menores eran obligadas a cometer actos indebidos y que las mujeres estaban secuestradas por un hombre que abusaba de ellas. También encontraron a dos niños de 8 y 10 años consumiendo bazuco.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Madre ocañera pide a Sanitas remisión urgente de su hija con meningitis aguda",
+  "enlace": "https://caracol.com.co/2026/10/17/madre-ocanera-pide-a-sanitas-remision-urgente-de-su-hija-con-meningitis-aguda/",
+  "fecha": "2026-10-17T10:26:26-05:00",
+  "palabras": "",
+  "lead": "La niña de cuatro años requiere traslado a un centro médico de tercer nivel.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Zelenski teme que Trump siga levantando más sanciones contra Rusia",
+  "enlace": "https://caracol.com.co/2026/10/17/zelenski-teme-que-trump-siga-levantando-mas-sanciones-contra-rusia/",
+  "fecha": "2026-10-17T10:23:28-05:00",
+  "palabras": "",
+  "lead": "El mandatario cuestionó la decisión de Washington y sostuvo que flexibilizar las restricciones no ayudará a frenar al mandatario ruso, Vladímir Putin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El transporte ferroviario en el Magdalena y César registra  un crecimiento en producción",
+  "enlace": "https://caracol.com.co/2026/10/17/el-transporte-ferroviario-en-el-magdalena-y-cesar-registra-un-crecimiento-en-produccion/",
+  "fecha": "2026-10-17T10:23:08-05:00",
+  "palabras": "",
+  "lead": "El presidente de Fenoco, Jorge Soto, aseguró que el transporte ferroviario registra un crecimiento en carga de carbón y mercancías diversas. También resaltó los aportes económicos de la operación y las expectativas frente al nuevo Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Parlamento egipcio convoca sesión urgente para una eventual intervención en apoyo de Riad",
+  "enlace": "https://caracol.com.co/2026/10/17/parlamento-egipcio-convoca-sesion-urgente-para-una-eventual-intervencion-en-apoyo-de-riad/",
+  "fecha": "2026-10-17T10:17:21-05:00",
+  "palabras": "",
+  "lead": "El presidente Abdelfatah al Sisi pidió autorización legislativa y aseguró que su país tomará las medidas necesarias para defender al reino saudí.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Choque entre senadores Germán Rodríguez y Alejandra Omaña por una demanda de alimentos: ¿qué pasó?",
+  "enlace": "https://caracol.com.co/2026/10/17/choque-entre-senadores-german-rodriguez-y-alejandra-omana-por-una-demanda-de-alimentos/",
+  "fecha": "2026-10-17T10:13:11-05:00",
+  "palabras": "",
+  "lead": "Ambos han intercambiado varios mensajes luego de que la senadora Alejandra Omaña lo cuestionara sobre su posición en contra del aborto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Dibu Martínez enciende alarmas en Argentina al ser hospitalizado por fuerte golpe en la cara",
+  "enlace": "https://caracol.com.co/2026/10/17/video-dibu-martinez-enciende-alarmas-en-argentina-al-ser-hospitalizado-por-fuerte-golpe-en-la-cara/",
+  "fecha": "2026-10-17T10:07:24-05:00",
+  "palabras": "",
+  "lead": "El portero del Chelsea tuvo un fuerte choque con un defensor del Everton, en el triunfo de los londinenses 0-2.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Judicializan a seis personas por la presunta estafa de mil personas y ganancias de $14 mil millones",
+  "enlace": "https://caracol.com.co/2026/10/17/judicializan-a-seis-personas-por-la-presunta-estafa-de-mil-personas-y-ganancias-de-14-mil-millones/",
+  "fecha": "2026-10-17T10:06:09-05:00",
+  "palabras": "",
+  "lead": "La red fraudulenta estafó a las víctimas en la ciudad de Medellín con falsas membrecías de viajes, pero con los datos adquirían productos bancarios a nombre de las víctimas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Conmoción en Soacha por el asesinato de la lideresa social Lucero Ramírez: ofrecen $50 millones de recompensa",
+  "enlace": "https://www.lafm.com.co/actualidad/conmocion-en-soacha-por-el-asesinato-de-la-lideresa-social-lucero-ramirez-ofrecen-50-millones-de-recompensa-414269",
+  "fecha": "2026-10-17T10:48:00-05:00",
+  "palabras": "Actualidad,Lideres comunitarios,Líderes sociales,Líder Social,Sicarios,Asesinato,Homicidios,Asesinado,Víctimas,actos violentos,atentado",
+  "lead": "El ataque ocurrió hacia las 5:30 p.m. del viernes 16 de octubre cuando sicarios abordaron a la lideresa.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Papa León XIV vuelve al Vaticano tras ser operado de cáncer",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-xiv-vuelve-al-vaticano-operado-cancer-pulmon-414264",
+  "fecha": "2026-10-17T10:23:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Vaticano,Cáncer,Iglesia Católica",
+  "lead": "El papa León XIV salió del centro médico; mientras que su recuperación avanzaba con normalidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aeropuerto de Pereira ha recuperado el 73% de operaciones",
+  "enlace": "https://www.lafm.com.co/actualidad/aeropuerto-matecana-pereira-operaciones-terremoto-arreglos-reactivacion-414263",
+  "fecha": "2026-10-17T10:04:00-05:00",
+  "palabras": "Actualidad,Pereira,aeropuerto,Vuelos,Transporte de pasajeros,Terremoto en Colombia,Risaralda",
+  "lead": "El aeropuerto actualmente moviliza cerca de 6.000 pasajeros al día y opera con 40 vuelos diarios, mientras continúa la rehabilitación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Estos fueron los anuncios del presidente Abelardo de la Espriella en su primer día en San Andrés",
+  "enlace": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262",
+  "fecha": "2026-10-17T09:57:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,San Andrés,Providencia",
+  "lead": "Vivienda para el pueblo raizal, agua y saneamiento, salud, vías, conectividad aérea y apoyos para el turismo, el emprendimiento y la pesca artesanal hacen ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medellín: Estafadas 1.000 personas con membresías turísticas",
+  "enlace": "https://www.lafm.com.co/orden-publico/estafadas-mas-de-1000-personas-en-medellin-con-membresias-turisticas-414260",
+  "fecha": "2026-10-17T09:38:00-05:00",
+  "palabras": "Orden Público,Estafa,Audiencia judicial,Red delincuencial,Turismo,Medellín, Colombia",
+  "lead": "Una vez en sus oficinas, a las víctimas les pedían cédulas, tarjetas bancarias y teléfonos celulares con el pretexto de validar los beneficios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Arturo Calle alerta por impacto de las importaciones de bajo valor",
+  "enlace": "https://www.lafm.com.co/sociedad/arturo-calle-critica-mercado-envios-paquetes-importaciones-shein-empleo-colombiano-414253",
+  "fecha": "2026-10-17T08:36:00-05:00",
+  "palabras": "Sociedad,Importaciones,Proyecto de ley,Beneficios tributarios,Aranceles,comercio electrónico,Comercio internacional,Régimen aduanero,contrabando,Control en fronteras,Piratería",
+  "lead": "El empresario pidió al Congreso y al Gobierno acelerar medidas para aplicar IVA y aranceles a productos que ingresan a Colombia mediante tráfico postal y e...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Descartan alza del gas en un 400% en la tarifa de gas",
+  "enlace": "https://www.lafm.com.co/economia/gases-del-caribe-descarta-alza-400-tarifas-gas-natural-414247",
+  "fecha": "2026-10-17T08:16:00-05:00",
+  "palabras": "Economía,Gas natural,Servicio de gas,Desabastecimiento de gas natural,Importaciones,desabastecimiento,Región Caribe",
+  "lead": "Ramón Dávila aseguró que el incremento anunciado por el senador Miguel Ángel Barreto no se reflejaría en esa magnitud en las facturas.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
