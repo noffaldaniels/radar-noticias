@@ -3,12 +3,12 @@ from radar.clasificador import seccion_por_palabras, interpretar_respuesta, clas
 from radar.modelo import Noticia
 import pytest
 
-def n(titulo, palabras="", medio="Blu Radio", enlace=None):
-    return Noticia(medio, titulo, enlace or f"https://x.co/{abs(hash(titulo))}", "2026-10-16T06:00:00-05:00", palabras=palabras)
+def n(titulo, palabras="", medio="Blu Radio", enlace=None, lead=""):
+    return Noticia(medio, titulo, enlace or f"https://x.co/{abs(hash(titulo))}", "2026-10-16T06:00:00-05:00", palabras=palabras, lead=lead)
 
 def test_palabras_respeta_prioridad():
     assert seccion_por_palabras(n("Ministro de Hacienda en Mañanas Blu")) == "mesas"
-    assert seccion_por_palabras(n("Fuerte sismo en Ibagué")) == "alto"
+    assert seccion_por_palabras(n("Fuerte sismo en Cali")) == "alto"
     assert seccion_por_palabras(n("Gobernador del Tolima y el Congreso")) == "tolima"
     assert seccion_por_palabras(n("Ministro y el Congreso")) == "politica"
     assert seccion_por_palabras(n("Feria en Ibagué")) == "tolima"
@@ -60,3 +60,29 @@ def test_ibague_gana_sobre_politica():
 def test_partido_de_futbol_no_es_politica():
     assert seccion_por_palabras(n("Nacional ganó el partido contra Millonarios")) == "otras"
     assert seccion_por_palabras(n("El Partido Liberal define candidato")) == "politica"
+
+# Casos reales del 16-oct-2026 (semana de prueba)
+def test_tolima_gana_sobre_alto_impacto():
+    assert seccion_por_palabras(n("Tragedia en Líbano, Tolima: hombre asesinó a su esposa")) == "tolima"
+
+def test_palabra_completa_no_pedazo():
+    # "ministra" está dentro de "administración"
+    assert seccion_por_palabras(n("Por qué visitar Panamá", lead="la administración reconoce")) == "otras"
+
+def test_alto_impacto_solo_por_el_titulo():
+    assert seccion_por_palabras(n("BogotáEats 2026: precios y restaurantes",
+                                  lead="regiones afectadas por el terremoto del 10 de agosto")) == "otras"
+    assert seccion_por_palabras(n("Laura Bozzo reapareció tras ser operada de emergencia")) == "otras"
+
+def test_tolima_no_por_el_resumen():
+    assert seccion_por_palabras(n("Hombre estuvo 19 meses preso por error",
+                                  lead="en la cárcel de Picaleña, en Ibagué")) == "otras"
+    assert seccion_por_palabras(n("Plan de ajuste", palabras="Actualidad,Ibagué")) == "tolima"
+
+def test_alto_impacto_nuevas_palabras():
+    assert seccion_por_palabras(n("Con drones atacan estación de policía de Teruel, Huila")) == "alto"
+    assert seccion_por_palabras(n("Tres niños y una maestra mueren en tiroteo de Oregón")) == "alto"
+
+def test_politica_nuevas_palabras():
+    assert seccion_por_palabras(n("Caso UNGRD: Iván Name y Andrés Calle salieron de La Picota")) == "politica"
+    assert seccion_por_palabras(n("FMI advierte que la situación fiscal de Colombia no es sostenible")) == "politica"

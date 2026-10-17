@@ -1,4 +1,5 @@
 import json
+import re
 import sys
 import urllib.request
 
@@ -8,21 +9,31 @@ from radar.reglas import IDS_SECCION, PALABRAS, PROGRAMAS, texto_plano
 URL_MODELOS = "https://models.github.ai/inference/chat/completions"
 TAMANO_LOTE = 30
 
+def _tiene(texto: str, palabras: list[str]) -> bool:
+    # Palabra completa: "ministra" no cuenta dentro de "administración"
+    return any(re.search(rf"\b{re.escape(p)}\b", texto) for p in palabras)
+
 def seccion_por_palabras(n: Noticia) -> str:
-    texto = texto_plano(f"{n.titulo} {n.palabras} {n.lead}")
-    if any(p in texto for p in PROGRAMAS):
+    titulo, etiquetas = texto_plano(n.titulo), texto_plano(n.palabras)
+    todo = f"{titulo} {etiquetas} {texto_plano(n.lead)}"
+    if _tiene(todo, PROGRAMAS):
         return "mesas"
-    for seccion in ("alto", "tolima", "politica"):  # Tolima gana sobre política (pedido de Noffal)
-        if any(p in texto for p in PALABRAS[seccion]):
-            return seccion
+    # Tolima gana sobre todo lo demás (pedido de Noffal, 16-oct). Tolima mira título y etiquetas;
+    # alto impacto, solo el título (el resumen menciona tragedias de pasada); política, todo.
+    if _tiene(f"{titulo} {etiquetas}", PALABRAS["tolima"]):
+        return "tolima"
+    if _tiene(titulo, PALABRAS["alto"]):
+        return "alto"
+    if _tiene(todo, PALABRAS["politica"]):
+        return "politica"
     return "otras"
 
 INSTRUCCIONES = """Eres el clasificador de noticias de la Oficina del Diputado Felipe Ferro (Tolima, Colombia).
 Pon cada noticia NUEVA en UNA sección, con esta prioridad (gana la primera que aplique):
 - mesas: viene de un programa de la mañana: Mañanas Blu (Néstor Morales, Blu Radio), Julio Sánchez Cristo (Caracol Radio) o Juan Lozano (La FM); entrevistas a ministros, al presidente o a políticos.
+- tolima: Ibagué o municipios del Tolima (gana sobre todo lo demás).
 - alto: alto impacto nacional: sismos, atentados, catástrofes, muerte de figuras públicas, orden público grave, decisiones que afectan a todo el país.
 - politica: política nacional (Gobierno, Congreso, partidos, cortes, organismos de control, elecciones).
-- tolima: Ibagué o municipios del Tolima.
 - otras: todo lo demás.
 Si una noticia nueva cuenta el MISMO hecho que una RECIENTE (rK) o que otra NUEVA anterior (nK), pon igual_a con ese código; si no, null.
 Responde SOLO JSON: {"noticias": [{"i": <índice de la nueva>, "seccion": "<mesas|alto|politica|tolima|otras>", "igual_a": "<rK|nK|null>"}]} con una entrada por cada noticia nueva."""
