@@ -205,7 +205,7 @@
   "palabras": "Noticias de hoy, Caldas, Volcán, Viajes",
   "lead": "La posibilidad de alojarse en el entorno de la laguna permite conocer un paisaje cuyo origen se remonta a miles de años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "EPM, Medellín, Fenómeno de El Niño, Noticias de hoy",
   "lead": "Las cifras siguen por debajo de las metas de EPM. En Piedras Blancas, la fuente de abastecimiento más preocupante, el ahorro sigue a la baja.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -226,6 +226,50 @@
   "fecha": "2026-10-17T06:36:36-05:00",
   "palabras": "Papa León XIV, Vaticano, Roma",
   "lead": "Tras cinco días hospitalizado en Roma, el pontífice recibió el alta médica luego de una evolución favorable. Este domingo retomará sus apariciones públicas con el rezo del Ángelus.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Estoy vivo de milagro”: exalcalde de Jamundí, Valle, habló tras el atentado",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/estoy-vivo-de-milagro-exalcalde-de-jamundi-valle-hablo-tras-el-atentado-rg10",
+  "fecha": "2026-10-17T06:43:42-05:00",
+  "palabras": "Jamundí, Valle del Cauca, atentado terrorista",
+  "lead": "Tras lo ocurrido, Ramírez se pronunció mediante un video en el que confirmó que sobrevivió al atentado. En su mensaje, recordó a López Gutiérrez y destacó la labor que desempeñaba como parte de su seguridad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Tolima recuperó $321 mil millones para el presupuesto regionalizado 2027 ¿Cómo se logró?",
+  "enlace": "https://caracol.com.co/2026/10/17/el-tolima-recupero-321-mil-millones-para-el-presupuesto-regionalizado-2027-como-se-logro/",
+  "fecha": "2026-10-17T06:48:05-05:00",
+  "palabras": "",
+  "lead": "El representante a la Cámara, Guillermo Alvira, se refirió al trabajo que se hizo en bancada para evitar que el departamento sufriera este recorte presupuestal.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno y Fedepapa acuerdan agenda para reducir costos y mejorar la rentabilidad de los paperos",
+  "enlace": "https://caracol.com.co/2026/10/17/gobierno-y-fedepapa-acuerdan-agenda-para-reducir-costos-y-mejorar-la-rentabilidad-de-los-paperos/",
+  "fecha": "2026-10-17T06:47:15-05:00",
+  "palabras": "",
+  "lead": "Se estableció una hoja de ruta para el sector",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Copa Libertadores Femenina: Así quedó el grupo de Santa Fe tras agónico triunfo ante Caracas",
+  "enlace": "https://caracol.com.co/2026/10/17/copa-libertadores-femenina-asi-quedo-el-grupo-de-santa-fe-tras-agonico-triunfo-ante-caracas/",
+  "fecha": "2026-10-17T06:43:27-05:00",
+  "palabras": "",
+  "lead": "En un auténtico partidazo, las Leonas se impusieron 3-2 a las venezolanas.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
