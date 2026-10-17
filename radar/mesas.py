@@ -6,6 +6,7 @@ import subprocess
 import sys
 import threading
 import time
+import urllib.error
 import urllib.request
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -91,9 +92,15 @@ def gemini(audio: bytes, prompt: str, clave: str, modelo: str = "gemini-flash-la
     cuerpo = {"contents": [{"parts": [{"text": prompt}, {"file_data": {"mime_type": "audio/aac", "file_uri": archivo["uri"]}}]}],
               "generationConfig": {"temperature": 0, "responseMimeType": "application/json", "responseSchema": ESQUEMA}}
     try:
-        with _pedir(f"{API}/v1beta/models/{modelo}:generateContent", clave, json.dumps(cuerpo).encode(),
-                    {"Content-Type": "application/json"}) as r:
-            return json.load(r)["candidates"][0]["content"]["parts"][0]["text"]
+        for intento in range(4):  # Gemini a veces responde "ocupado" (503) o "límite" (429): reintentar
+            try:
+                with _pedir(f"{API}/v1beta/models/{modelo}:generateContent", clave, json.dumps(cuerpo).encode(),
+                            {"Content-Type": "application/json"}) as r:
+                    return json.load(r)["candidates"][0]["content"]["parts"][0]["text"]
+            except urllib.error.HTTPError as e:
+                if e.code not in (429, 500, 503) or intento == 3:
+                    raise
+                time.sleep(20 * (intento + 1))
     finally:
         try:
             _pedir(f"{API}/v1beta/{archivo['name']}", clave, metodo="DELETE").close()
