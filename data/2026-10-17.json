@@ -1899,7 +1899,7 @@
   "palabras": "Sinuano día, Resultados del chance, Chances y Loterías, Resultados Sinuano Día, Resultados del chance , Resultados hoy, Resultados hoy Sinuano Día, Sinuano Día",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, sábado 17 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "Caribeña día, Resultados del chance, Chances y Loterías, Resultados Caribeña Día, Resultados del chance , Resultados hoy , Resultados hoy Caribeña Día",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy 17 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Abelardo De La Espriella, Policía Nacional, Bandas criminales",
   "lead": "Aldair Enrique Contreras Echeverría, también conocido con el alias de ‘Menor 08’, es señalado por las autoridades de ser segundo cabecilla de ‘Los del Freseo’.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,7 +1932,7 @@
   "palabras": "Fiscalía General de la Nación, Antioquia, Disidencias Farc, Noticias de hoy",
   "lead": "La Fiscalía relaciona a ‘Lobo’ con homicidios, extorsiones, instalación de explosivos y el desplazamiento de unas 2.300 personas de 23 veredas de Briceño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1943,7 +1943,7 @@
   "palabras": "Antioquia, Policía Nacional, Noticias de hoy",
   "lead": "Una inspección de Cornare a una planta procesadora de aguacate en la vereda El Salado detectó descargas de aguas industriales hacia la quebrada La Mosca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,7 +1954,7 @@
   "palabras": "Alcaldía de Medellín, Medellín, Noticias de hoy",
   "lead": "En San Cristóbal aún se hacen labores de limpieza, no obstante, los trabajos podrían tardar hasta 6 meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Pensiones, Colpensiones",
   "lead": "Los retiros anticipados pueden hacer perder beneficios tributarios y el ahorro voluntario no suma semanas en Colpensiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "Protestas en Colombia",
   "lead": "El analista político cuestionó la falta de argumentos de las marchas y señaló que Gustavo Petro busca consolidarse como jefe de la oposición.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "Bogotá",
   "lead": "Los restaurantes invitados no pagarán el stand ni el hospedaje y conservarán el 100 % de lo recaudado durante los tres días del evento.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "",
   "lead": "Sin James Rodríguez, el ‘Verdolaga’ visita Boyacá para ponerse al día en la Liga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "",
   "lead": "Junto a Gastón Mattarucco, el colombiano alcanzó el podio en la categoría Classics H4 del Rally du Maroc, pese a los problemas mecánicos que enfrentaron durante la competencia. La carrera también les sirvió como preparación para el Dakar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "",
   "lead": "El deportista cruzó siete países en una travesía que comenzó como una forma de afrontar la muerte de su padre. Ahora participa en una competencia de patinaje extremo en Paraguay y prepara un nuevo recorrido hacia México.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "Orden Público,atracos,Heridos,actos violentos,actividad criminal,Investigaciones,Víctimas,Comerciantes,Delitos graves",
   "lead": "Tres personas, entre ellas una mujer, habrían participado en dos robos ocurridos durante la madrugada del 15 de octubre en el mismo sector de Bogotá. El se...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "Deportes,Fichajes,Pérdidas económicas,Fútbol,Problemas económicos,situación financiera",
   "lead": "Algunas inversiones terminan representando pérdidas millonarias cuando los jugadores no cumplen las expectativas y son vendidos por debajo de su precio de ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2052,6 +2052,215 @@
   "fecha": "2026-10-17T13:04:00-05:00",
   "palabras": "Sociedad,Trabajadores,Corte Suprema de Justicia,Trabajador,ARL,Salud",
   "lead": "La Corte resolvió que la empresa está encargada de la salud de sus empleados en los entornos laborales.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Tarde, resultado del último sorteo hoy sábado 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-tarde-resultado-del-ultimo-sorteo-hoy-sabado-17-de-octubre-de-2026-so35",
+  "fecha": "2026-10-17T15:29:20-05:00",
+  "palabras": "Dorado Tarde, Resultados del chance, Chances y Loterías, Dorado Tarde, Resultados Dorado Tarde, Resultados del chance , Resultados hoy , Resultados hoy Dorado Tarde",
+  "lead": "El chance Dorado Tarde juega de lunes a sábado a las 3:30 p.m. Revise aquí el número ganador hoy sábado 17 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Sol, resultado del último sorteo hoy sábado 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-sol-resultado-del-ultimo-sorteo-hoy-sabado-17-de-octubre-de-2026-so35",
+  "fecha": "2026-10-17T15:30:04-05:00",
+  "palabras": "Super Astro Sol, Resultados del chance, Chances y Loterías, Resultados Super Astro Sol , Resultados del chance, Resultados hoy , Super Astro Sol",
+  "lead": "El chance Super Astro Sol juega de lunes a sábado a las 4 p. m.. Revise aquí el número ganador hoy 17 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Antioquia financiará nuevos proyectos por valorización? Gobernador anuncia iniciativas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/antioquia-financiara-nuevos-proyectos-por-valorizacion-gobernador-anuncia-iniciativas-rg10",
+  "fecha": "2026-10-17T15:06:28-05:00",
+  "palabras": "Andrés Julián Rendón, Gobernación de Antioquia, Noticias de hoy",
+  "lead": "El gobernador Andrés Julián Rendón indicó que en los próximos días serán radicadas nuevas iniciativas ante la Asamblea. Ya un primer paquete de cuatro vías fue aprobado, aunque siguen las críticas de varios sectores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cirugía robótica en Colombia: el HIC busca realizar hasta 4.000 procedimientos al año",
+  "enlace": "https://www.bluradio.com/salud/cirugia-robotica-en-colombia-el-hic-busca-realizar-hasta-4-000-procedimientos-al-ano-so35",
+  "fecha": "2026-10-17T15:25:27-05:00",
+  "palabras": "Medicina",
+  "lead": "El HIC alcanzó las primeras 100 cirugías robóticas con el sistema Mantra 3 y proyecta realizar hasta 4.000 procedimientos al año. Su director médico explicó en El Radar de Blu Radio los beneficios de esta tecnología y cómo buscan facilitar el acceso de los pacientes a estos tratamientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "México detiene a exfiscal implicado en investigación de las muertes de agentes de la CIA",
+  "enlace": "https://caracol.com.co/2026/10/17/mexico-detiene-a-exfiscal-implicado-en-investigacion-de-las-muertes-de-agentes-de-la-cia/",
+  "fecha": "2026-10-17T15:54:12-05:00",
+  "palabras": "",
+  "lead": "La captura se produjo por orden judicial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Macron promete castigos para saqueadores y pide frente unido contra “sembradores de caos”",
+  "enlace": "https://caracol.com.co/2026/10/17/macron-promete-castigos-para-saqueadores-y-pide-frente-unido-contra-sembradores-de-caos/",
+  "fecha": "2026-10-17T15:51:34-05:00",
+  "palabras": "",
+  "lead": "El mandatario rechazó la violencia y pidió un frente unido contra quienes, según dijo, buscan sembrar el caos y debilitar las instituciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Arena en la boca, la obra de teatro que aborda la migración y sus riesgos",
+  "enlace": "https://caracol.com.co/2026/10/17/arena-en-la-boca-la-obra-de-teatro-que-aborda-la-migracion-y-sus-riesgos/",
+  "fecha": "2026-10-17T15:41:53-05:00",
+  "palabras": "",
+  "lead": "La historia de una madre colombiana que cruza el desierto con sus dos hijos para llegar a Estados Unidos lleva a escena las dificultades de quienes deben abandonar su hogar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fine Dining Week 2026 en El Salvador, chefs internacionales y reconocimientos gastronómicos",
+  "enlace": "https://caracol.com.co/2026/10/17/fine-dining-week-2026-en-el-salvador-chefs-internacionales-y-reconocimientos-gastronomicos/",
+  "fecha": "2026-10-17T15:36:42-05:00",
+  "palabras": "",
+  "lead": "Del 12 al 18 de octubre, el país centroamericano recibe a cocineros y periodistas gastronómicos de más de 15 países. La programación incluye cenas especiales y una gala que reconoce a restaurantes por sus propuestas culinarias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "David Bisbal llegará a Bogotá con su ‘Tour Eternos 2026’: fecha y canciones del concierto",
+  "enlace": "https://caracol.com.co/2026/10/17/david-bisbal-llegara-a-bogota-con-su-tour-eternos-2026-fecha-y-canciones-del-concierto/",
+  "fecha": "2026-10-17T15:32:25-05:00",
+  "palabras": "",
+  "lead": "El cantante español se presentará el 21 de octubre en el Movistar Arena de Bogotá con un espectáculo que combina clásicos del pop iberoamericano y los grandes éxitos de sus 25 años de carrera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ecuador reanuda el transporte de crudo colombiano por sus oleoductos",
+  "enlace": "https://caracol.com.co/2026/10/17/ecuador-reanuda-el-transporte-de-crudo-colombiano-por-sus-oleoductos/",
+  "fecha": "2026-10-17T15:30:14-05:00",
+  "palabras": "",
+  "lead": "Petroecuador retomó el servicio para Ecopetrol y Amerisur, con el transporte de cerca de 11.900 barriles diarios a través del SOTE y el OSLA.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinan al exfiscal anticorrupción de Guatemala en un campo de fútbol",
+  "enlace": "https://caracol.com.co/2026/10/17/asesinan-al-exfiscal-anticorrupcion-de-guatemala-en-un-campo-de-futbol/",
+  "fecha": "2026-10-17T15:16:55-05:00",
+  "palabras": "",
+  "lead": "En el ataque, ocurrido en el Campo Marte, también murió otra persona.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Dónde se irá la luz este domingo 18 de octubre en el Atlántico?: entérese aquí",
+  "enlace": "https://caracol.com.co/2026/10/17/donde-se-ira-la-luz-este-domingo-18-de-octubre-en-el-atlantico-enterese-aqui/",
+  "fecha": "2026-10-17T15:13:06-05:00",
+  "palabras": "",
+  "lead": "La empresa Air-e Intervenida realizará trabajos eléctricos entre las 7:00 de la mañana y las 5:30 de la tarde.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "800 Participantes se dieron cita en III Festival Deportivo de Bicentenario",
+  "enlace": "https://caracol.com.co/2026/10/17/800-participantes-se-dieron-cita-en-iii-festival-deportivo-de-bicentenario/",
+  "fecha": "2026-10-17T15:06:19-05:00",
+  "palabras": "",
+  "lead": "La programación también incluyó una zona de inflables, actividades lúdicas y entrega de dulces con temática de Halloween",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía lidera patrullajes en tres localidades de Cartagena con más de 250 hombres y mujeres",
+  "enlace": "https://caracol.com.co/2026/10/17/policia-lidera-patrullajes-en-tres-localidades-de-cartagena-con-mas-de-250-hombres-y-mujeres/",
+  "fecha": "2026-10-17T15:02:11-05:00",
+  "palabras": "",
+  "lead": "Este importante dispositivo contempla la presencia de funcionarios de distintas especialidades",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Cúcuta a alias El Señor, señalado de enviar cocaína a Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/10/17/capturan-en-cucuta-a-alias-el-senor-senalado-de-enviar-cocaina-a-estados-unidos/",
+  "fecha": "2026-10-17T15:01:51-05:00",
+  "palabras": "",
+  "lead": "Daneiro Correa Vega es requerido en extradición y, según las autoridades, mantenía alianzas con el ELN para operar laboratorios en el Catatumbo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caen tres presuntos implicados en el atentado con un bus bomba contra el batallón Pichincha",
+  "enlace": "https://caracol.com.co/2026/10/17/caen-tres-presuntos-implicados-en-el-atentado-con-un-bus-bomba-contra-el-batallon-pichincha/",
+  "fecha": "2026-10-17T14:59:48-05:00",
+  "palabras": "",
+  "lead": "Entre los señalados están alias “Barbas”, alias “Ashley” y un adolescente de 17 años conocido como alias “Sevillano”",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Veolia y Marion Ve unen arte y educación ambiental en Tierrabomba",
+  "enlace": "https://caracol.com.co/2026/10/17/veolia-y-marion-ve-unen-arte-y-educacion-ambiental-en-tierrabomba/",
+  "fecha": "2026-10-17T14:57:38-05:00",
+  "palabras": "",
+  "lead": "La empresa impulsó esta iniciativa para promover el empoderamiento comunitario",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué cambiará para empleados con los decretos de MinTrabajo?",
+  "enlace": "https://www.lafm.com.co/politica/ministerio-del-trabajo-propone-oho-decretos-ajustar-reforma-laboral-gustavo-petro-414284",
+  "fecha": "2026-10-17T15:07:00-05:00",
+  "palabras": "Política,Ministerio del Trabajo,Reforma laboral,Gustavo Petro,Colombia",
+  "lead": "MinTrabajo publicó ocho proyectos de decreto para ajustar la reglamentación laboral y abrió un plazo de 15 días hábiles para recibir comentarios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Marco Rubio viaja a Asia Central y del Sur para impulsar lazos comerciales de EEUU",
+  "enlace": "https://www.lafm.com.co/internacional/eeuu-marco-rubio-lazos-comerciales-asia-central-414285",
+  "fecha": "2026-10-17T14:36:00-05:00",
+  "palabras": "Internacional,Marco Rubio,Estados Unidos,Donald Trump,Comercio exterior",
+  "lead": "Estará en Uzbekistán e India para reforzar comercio y energía, liderar el C5+1 y aumentar la influencia de EE. UU. frente a Rusia y China.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
