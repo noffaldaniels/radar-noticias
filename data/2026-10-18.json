@@ -2185,7 +2185,7 @@
   "palabras": "Francia, Emmanuel Macron",
   "lead": "El presidente anunció medidas para proteger comercios y edificios públicos, mientras prometió atender las preocupaciones económicas y sociales de los jóvenes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "Donald Trump, Estados Unidos, Congreso",
   "lead": "El internacionalista Javier Garay analizó el impacto de la inflación, la política migratoria y la guerra con Irán en el respaldo ciudadano al mandatario y las posibilidades de los demócratas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "Cauca",
   "lead": "El Ministerio de Vivienda y las entidades involucradas revisaron los pendientes y definieron acciones para avanzar en la operación de una obra que beneficiará a 50.797 habitantes del municipio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "Orquesta Filarmónica de Bogotá",
   "lead": "La Orquesta Filarmónica de Bogotá y reconocidas voces líricas interpretaron grandes clásicos y sorprendieron al público con una propuesta musical que también celebró los sonidos latinoamericanos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "Estadio El Campín, Santa Fe, Millonarios",
   "lead": "El deterioro de la gramilla de El Campín y las dificultades que enfrentan Millonarios y Santa Fe por el estado del estadio generan fuertes cuestionamientos de Carlos González Puche, exdirigente de Acolfutpro, quien criticó la gestión de Sencia y advirtió sobre los riesgos para el fútbol…",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "Fenómeno de El Niño",
   "lead": "Asointermedias trabaja con alcaldías, la UNGRD y el IDEAM en las respuestas, el monitoreo y las campañas de ahorro de agua y energía para enfrentar la situación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "Nutrición",
   "lead": "Desde el voluntariado hasta las donaciones y las campañas comunitarias, hay iniciativas que permiten contribuir al bienestar de la niñez y fortalecer el apoyo a familias vulnerables.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "Riohacha, Ministerio de Vivienda, Ciénaga, Buenaventura",
   "lead": "Los tres proyectos, que corresponderían al gobierno Petro, superan los $9.000 millones. Uno registra 0 % de avance físico, pese a giros por más de $3.600 millones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "",
   "lead": "El sujeto quedó grabado en varias cámaras de seguridad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "",
   "lead": "El Bombardero pidió una nueva oportunidad para el delantero del Benfica en la Selección Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,7 +2306,7 @@
   "palabras": "",
   "lead": "La cantante colombiana vendió más de dos millones de entradas en cuatro días y sumó 24 presentaciones a Viajando Por El Mundo Tropitour, que recorrerá estadios de América y Europa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "",
   "lead": "Conozca aquí quién es la segunda modelo colombiana que estará en la pasarela del Victoria’s Secret Fashion Show 2026",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "",
   "lead": "Con esta alianza buscan reducir las barreras de intermediación y facilitar la vinculación de los productores agropecuarios con las grandes plataformas comerciales del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "",
   "lead": "Los santandereanos defienden su invicto y los vallecaucanos, la primera posición del campeonato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "",
   "lead": "La cantante de música popular se presentó el sábado 17 de octubre en el Movistar Arena, en una celebración que conmemoró tres décadas de trayectoria musical.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "",
   "lead": "Operativo en el barrio Restrepo en la localidad de Antonio Nariño terminó con el cierre de tres establecimientos que en su interior tenían estupefacientes, armas blancas y no contaban con la documentación necesaria para su funcionamiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "Sociedad,Ofertas de empleo,Convocatoria,Vacante laboral,Ofertas laborales,ofertas,Entrevista de trabajo,reclutamiento,Chapinero",
   "lead": "La jornada se extenderá desde las 8:00 a. m. hasta las 4:00 p. m. en la calle 65 #11-70.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "Sociedad,Astronomía,exoplanetas,Planeta,espacio",
   "lead": "El universo sigue sorprendiendo a los científicos. Nuevos estudios deberán realizarse para determinar más características de este cuerpo rocoso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,6 +2394,94 @@
   "palabras": "Sociedad,Terremoto en Colombia,Ayudas humanitarias,Víctimas,Desastres naturales,Álvaro Uribe,Florentino Pérez",
   "lead": "La Fundación Revel publicó en sus redes sociales imágenes en dónde se podía ver al exmandatario junto con Florentino y varios de sus miembros directivos.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“La crisis fiscal es espantosa”: congresista plantea reducir gasto público en Colombia",
+  "enlace": "https://www.bluradio.com/economia/la-crisis-fiscal-es-espantosa-congresista-plantea-reducir-gasto-publico-en-colombia-pr30",
+  "fecha": "2026-10-18T16:05:12-05:00",
+  "palabras": "Centro Democrático, Gobierno nacional",
+  "lead": "El representante a la Cámara del Centro Democrático, Óscar Darío Pérez, se refirió a la crisis fiscal de Colombia, el crecimiento de la deuda pública y las alternativas que podría considerar el Gobierno para mejorar las finanzas del Estado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Siente corrientazos o ardor en el cuerpo? Estas son las señales que no debería ignorar",
+  "enlace": "https://www.bluradio.com/salud/siente-corrientazos-o-ardor-en-el-cuerpo-estas-son-las-senales-que-no-deberia-ignorar-rs15",
+  "fecha": "2026-10-18T16:01:07-05:00",
+  "palabras": "",
+  "lead": "Reconocer cuándo estas molestias requieren atención médica es clave para evitar que afecten el sueño, el estado de ánimo y las actividades diarias. Expertos explican cómo actuar a tiempo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De vender ropa en la calle a tener su propio negocio en una de las zonas más comerciales de Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/de-vender-ropa-en-la-calle-a-tener-su-propio-negocio-en-una-de-las-zonas-mas-comerciales-de-bogota-so35",
+  "fecha": "2026-10-18T16:31:49-05:00",
+  "palabras": "San Victorino, Ropa",
+  "lead": "Un joven que vendía camisas a $5.000 en la calle y una mujer desplazada por la violencia lograron abrir sus propios negocios en San Victorino, Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por llamar la atención, hombre cayó a un río desde el puente de un templo en India: quedó en video",
+  "enlace": "https://www.bluradio.com/mundo/por-llamar-la-atencion-hombre-cayo-a-un-rio-desde-el-puente-de-un-templo-en-india-quedo-en-video-so35",
+  "fecha": "2026-10-18T16:43:08-05:00",
+  "palabras": "India, Viral",
+  "lead": "Al parecer, el sujeto habría cruzado el vallado de seguridad del puente y posteriormente comenzó a hacer acciones peligrosas mientras intentaba llamar la atención de los turistas en el lugar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué proyectos llevarán Sogamoso, Duitama y Tunja al encuentro con el Gobierno Nacional?",
+  "enlace": "https://caracol.com.co/2026/10/18/que-proyectos-llevaran-sogamoso-duitama-y-tunja-al-encuentro-con-el-gobierno-nacional/",
+  "fecha": "2026-10-18T16:44:39-05:00",
+  "palabras": "",
+  "lead": "El alcalde de Sogamoso pidió recursos para terminar la variante del Cusiana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Dónde se va la luz este lunes 19 de octubre en el Atlántico?: entérese aquí",
+  "enlace": "https://caracol.com.co/2026/10/18/donde-se-va-la-luz-este-lunes-19-de-octubre-en-el-atlantico-enterese-aqui/",
+  "fecha": "2026-10-18T16:29:06-05:00",
+  "palabras": "",
+  "lead": "Air-e Intervenida entre las 8:20 de la mañana y las 2:50 de la tarde.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad Antidisturbios interviene en la carrera Séptima tras protestas frente al Museo Nacional",
+  "enlace": "https://caracol.com.co/2026/10/18/unidad-antidisturbios-interviene-en-la-carrera-septima-tras-protestas-frente-al-museo-nacional/",
+  "fecha": "2026-10-18T16:04:51-05:00",
+  "palabras": "",
+  "lead": "Se presentan bloqueos este domingo 18 de octubre en la carrera Séptima tras el retiro de 30 obras en el Museo Nacional",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Zelenski \"no quiere poner fin\" a guerra con Rusia: Trump",
+  "enlace": "https://www.lafm.com.co/internacional/donald-trump-zelenski-fin-guerra-ucrania-rusia-economia-mundial-414350",
+  "fecha": "2026-10-18T16:31:00-05:00",
+  "palabras": "Internacional,Donald Trump,Volodimir Zelenski,Europa,Rusia,Vladimir Putin",
+  "lead": "Trump acusa a Zelenski de no querer acabar la guerra con Rusia; mientras Kiev busca bajar tensiones con EE. UU. por Patriot, Starlink y sanciones.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
