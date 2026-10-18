@@ -1624,7 +1624,7 @@
   "palabras": "Gobernación de Antioquia, Animales, Mascotas, Noticias de hoy",
   "lead": "El conductor se negó a transportarlos hasta El Santuario. Transoriente reconoció el error, anunció posibles sanciones y busca al hombre para ofrecerle disculpas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Emergencias por lluvias, Antioquia, Noticias de hoy",
   "lead": "Con el incremento de lluvias y aumento de caudales, en Urrao la comunidad clama por la construcción urgente de un puente seguro sobre el río, donde campesinos y animales arriesgan sus vidas a diario para cruzar ante el aumento de las precipitaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Santander, Noticias de hoy, Blu Radio, Gobernación de Santander",
   "lead": "La circulación de un comunicado con amenazas de muerte contra líderes sociales y organizaciones defensoras de derechos humanos aumenta la preocupación de las autoridades. La Gobernación anunció el fortalecimiento de las capacidades operativas de la fuerza pública.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "Abelardo De La Espriella",
   "lead": "Luis Guillermo Vélez cuestionó los extremos del wokismo, mientras el profesor Bastián defendió el reconocimiento de las minorías y la diversidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "Santander, sicariato, Noticias de hoy, Blu Radio, Policía Nacional",
   "lead": "El ataque sicarial ocurrió el viernes 16 de octubre y dejó seis personas heridas, entre ellas dos menores de edad. La víctima, identificada como Wilber Hernández Colmenares, de 42 años, falleció este domingo en el Hospital Internacional de Colombia (HIC).",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "Abelardo De La Espriella, San Andrés y Providencia",
   "lead": "El presidente cuestionó a Girley Ordóñez y Elizabeth Jay-Pang durante su visita al archipiélago y advirtió que vigilará los recursos que lleguen a las islas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "La exdirectora de ARTBO e hija del expresidente César Gaviria pasó por Caracol Radio. Su lectura a llamado la atención desde varias orillas políticas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Repase la clasificación en la fecha 7 del campeonato inglés.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "El mandatario también hizo un llamado al diálogo y pidió a partidos políticos, sindicatos y organizaciones territoriales sentarse a buscar soluciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "En Caracol Radio le contamos cuál es el próximo día festivo tendrá para aprovechar y salir de la rutina.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "El encuentro empresarial se realizará el 28 y 29 de octubre en el Teatro Mayor Julio Mario Santo Domingo. La agenda reunirá a referentes del cine, el deporte y los negocios para abordar la creatividad, el alto rendimiento y el liderazgo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "La edición número 38 de este reconocimiento destaca a mujeres que lideran proyectos sociales en Colombia. Las postulaciones estarán abiertas hasta el 6 de noviembre en Bogotá, mientras que las fechas pueden variar en otras regiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "El Tribunal Administrativo del Valle admitió una demanda de nulidad electoral contra Juan David Piedrahíta López y ordenó suspender provisionalmente los efectos de su elección",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "",
   "lead": "Según la Organización Mundial de la Salud (OMS), durante 2024 se registraron cerca de 2,4 millones de nuevos casos de cáncer de mama",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "",
   "lead": "Las intervenciones contarán con señalización y orientadores de tránsito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "",
   "lead": "Con apenas cuatro puntos de diferencia entre ambos equipos, es uno de los duelos directos para entrar en los ocho mejores.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "",
   "lead": "Carolina Restrepo Cañavera afirmó que “los niños no son escudos, no son instrumentos de protesta, no son herramientas para desafiar a las autoridades ni para despertar simpatías”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "",
   "lead": "El Servicio Geológico Colombiano describió esta especie extinta “tan larga como un bus, tan pesada como un carro y tan ancha que no cabría por una puerta promedio”. En Bogotá están sus fósiles y por eso le contamos en qué parte de Colombia habitó.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "",
   "lead": "El proyecto tiene por objetivo facilitar que más ganaderos se conviertan en propietarios de sus tierras",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "",
   "lead": "Los migrantes fueron llevados a un centro de atención temporal para su identificación y posterior reubicación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "",
   "lead": "Durante el desarrollo de este encuentro, la gobernadora del Tolima, Adriana Magali Matiz, pidió la inclusión de estas iniciativas estratégicas en el Plan de Desarrollo Nacional 2026 – 20230.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "Sociedad,SENA,Abelardo de la Espriella,Senado de la República,Funcionarios denunciados,Acusaciones,Servidores públicos,Conflicto de intereses,debate político,Protestas en Colombia",
   "lead": "El fraile Ricardo Torres Castro denunció el uso de los espacios de formación con fines políticos y pidió proteger a los aprendices.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "Orden Público,Defensoría del Pueblo,Alerta,Jamundí,Valle del Cauca,ELN",
   "lead": "Una alerta temprana de la Defensoría evidenció la crítica situación de orden público en el municipio de Jamundí, Valle del Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "Internacional,Donald Trump,Reelección de Netanyahu,israel,Estados Unidos",
   "lead": "Trump expresó apoyo total a Netanyahu antes de las elecciones del 27-O, advirtió a Israel que no elija a rivales y vinculó el futuro de Irán.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "Internacional,María Corina Machado,Venezuela,Democracia,Nicolás Maduro,Delcy Rodríguez,Oposición,Elecciones presidenciales,Proceso de Paz,Grupos Armados Organizados",
   "lead": "María Corina Machado afirmó que una Venezuela democrática sería el principal legado de Donald Trump.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "Sociedad,Maltrato infantil,Denuncias por abuso,Protección,Derechos humanos,Protocolo sobre protesta social,Protestas en Colombia,Manifestantes,violaciones,conflicto armado,victimas del conflicto armado",
   "lead": "Carolina Restrepo Cañavera cuestionó a quienes, según afirmó, habrían utilizado a menores de edad para protegerse durante los acontecimientos registrados f...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1909,6 +1909,270 @@
   "fecha": "2026-10-18T13:00:00-05:00",
   "palabras": "Sociedad,becas,Bogotá,Estudio,Estudio gratis,Estudiar maestrías,Doctorado,Universidades de Colombia,universidades,Colombia",
   "lead": "La Alcaldía de Bogotá ofrecerá 81 créditos educativos para estudiar doctorados en siete universidades.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ofrecen $50 millones de recompensa por ataque a bus a manos del ELN en Cerrito, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ofrecen-50-millones-de-recompensa-por-ataque-a-bus-a-manos-del-eln-en-cerrito-santander-rg10",
+  "fecha": "2026-10-18T14:07:38-05:00",
+  "palabras": "Santander, Gobernación de Santander, ELN, Policía Nacional, Ejército Nacional",
+  "lead": "La incineración de un bus de Concorde en el corredor vial del páramo del Almorzadero encendió las alarmas en la provincia de García Rovira. Luego de un consejo de seguridad, se confirmó la presencia permanente de la fuerza pública en la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Embajada de Canadá abre convocatoria para formar líderes ambientales en el Eje Cafetero",
+  "enlace": "https://www.bluradio.com/sociedad/educacion/embajada-de-canada-abre-convocatoria-para-formar-lideres-ambientales-en-el-eje-cafetero-so35",
+  "fecha": "2026-10-18T14:04:31-05:00",
+  "palabras": "Canadá",
+  "lead": "Las inscripciones estarán abiertas hasta el 16 de noviembre y están dirigidas a personas con experiencia en trabajo comunitario.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desapareció en Cali tras viajar por trabajo: buscan a María Alejandra Molina Solano",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/desaparecio-en-cali-tras-viajar-por-trabajo-buscan-a-maria-alejandra-molina-solano-rg10",
+  "fecha": "2026-10-18T14:19:57-05:00",
+  "palabras": "Cali",
+  "lead": "La joven llegó a la capital del Valle del Cauca el jueves 8 de octubre para cumplir compromisos laborales. Su hermana, Natalia, aseguró que la última comunicación ocurrió el domingo y que desde el día siguiente los mensajes dejaron de llegar a su celular.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día, resultado del último sorteo hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T14:18:46-05:00",
+  "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy domingo 18 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día, resultado del último sorteo hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-resultado-del-ultimo-sorteo-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T14:25:34-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:34 p. m.. Revise aquí el número ganador hoy 18 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Prográmese: cierres viales este 18 de octubre en Bogotá por la Allianz 15K",
+  "enlace": "https://www.bluradio.com/regiones/bogota/programese-cierres-viales-este-18-de-octubre-en-bogota-por-la-allianz-15k-so35",
+  "fecha": "2026-10-18T14:34:17-05:00",
+  "palabras": "Movilidad",
+  "lead": "Los principales cierres en Bogotá serán hasta el Simón Bolívar, la NQS y parte de El Campín, en horas de la mañana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella y su guerra contra el wokismo: Sala de Prensa Blu, 4 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/sala-de-prensa-blu/de-la-espriella-y-su-guerra-contra-el-wokismo-sala-de-prensa-blu-4-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T14:50:26-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 18 de octubre de 2026",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Sinfonía de los Bichos Raros, de Puerto Candelaria, llega al cine de Colombia el 22 de octubre",
+  "enlace": "https://caracol.com.co/2026/10/18/la-sinfonia-de-los-bichos-raros-de-puerto-candelaria-llega-al-cine-de-colombia-el-22-de-octubre/",
+  "fecha": "2026-10-18T14:43:01-05:00",
+  "palabras": "",
+  "lead": "La película, realizada en Medellín, tuvo su estreno mundial en el Festival de Sitges, en España. El proyecto nació en 2021 como una propuesta musical y posteriormente llegó al teatro y la literatura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La comunidad de La Unión marchó para exigir justicia para la adulta mayor abusada sexualmente",
+  "enlace": "https://caracol.com.co/2026/10/18/la-comunidad-de-la-union-marcho-para-exigir-justicia-para-la-adulta-mayor-abusada-sexualmente/",
+  "fecha": "2026-10-18T14:40:25-05:00",
+  "palabras": "",
+  "lead": "El grupo de personas realizó una marcha por varios sectores de la población para enviar un mensaje a aquellas mujeres que están siendo violentadas y les ha dado temor denunciar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan José Velásquez ganó medalla de plata en la Copa Mundo de BMX Racing en China",
+  "enlace": "https://caracol.com.co/2026/10/18/juan-jose-velasquez-gano-medalla-de-plata-en-la-copa-mundo-de-bmx-racing-en-china/",
+  "fecha": "2026-10-18T14:34:01-05:00",
+  "palabras": "",
+  "lead": "El bicicrosista colombiano alcanzó el segundo lugar en su primera participación en la categoría élite y comenzó su preparación hacia los Juegos Olímpicos de Los Ángeles 2028.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Adolescente se fue de Cartagena y murió ultimado por sicarios en Sabana de Torres, Santander",
+  "enlace": "https://caracol.com.co/2026/10/18/adolescente-se-fue-de-cartagena-y-murio-ultimado-por-sicarios-en-sabana-de-torres-santander/",
+  "fecha": "2026-10-18T14:31:51-05:00",
+  "palabras": "",
+  "lead": "Otro menor que lo acompañaba resultó herido con arma de fuego",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "De la Espriella confrontó a la Gobernadora de San Andrés y a representante a la Cámara: así fue",
+  "enlace": "https://caracol.com.co/2026/10/18/de-la-espriella-confronto-a-la-gobernadora-de-san-andres-y-a-representante-a-la-camara-asi-fue/",
+  "fecha": "2026-10-18T14:29:57-05:00",
+  "palabras": "",
+  "lead": "El encontronazo fue en el marco de la primera visita del presidente Abelardo de la Espriella a la isla.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Milán vuelve a vivir una tarde de disturbios y choques entre grupos de jóvenes y policía",
+  "enlace": "https://caracol.com.co/2026/10/18/milan-vuelve-a-vivir-una-tarde-de-disturbios-y-choques-entre-grupos-de-jovenes-y-policia/",
+  "fecha": "2026-10-18T14:29:15-05:00",
+  "palabras": "",
+  "lead": "Las fuerzas de seguridad respondieron con gases lacrimógenos, cañones de agua y cargas policiales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "200 detenidos en Bélgica en protestas contra recortes educativos y la ultraderecha",
+  "enlace": "https://caracol.com.co/2026/10/18/200-detenidos-en-belgica-en-protestas-contra-recortes-educativos-y-la-ultraderecha/",
+  "fecha": "2026-10-18T14:22:00-05:00",
+  "palabras": "",
+  "lead": "En Bruselas, 150 manifestantes fueron arrestados tras enfrentamientos con la policía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Miles marchan en Chile para conmemorar el estallido y protestar contra recortes de Kast",
+  "enlace": "https://caracol.com.co/2026/10/18/miles-marchan-en-chile-para-conmemorar-el-estallido-y-protestar-contra-recortes-de-kast/",
+  "fecha": "2026-10-18T14:16:40-05:00",
+  "palabras": "",
+  "lead": "La jornada transcurrió mayoritariamente en calma, aunque se registraron enfrentamientos aislados con las fuerzas de seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detenidos dos presuntos asaltantes en el barrio San Fernando: uno de ellos es menor de edad",
+  "enlace": "https://caracol.com.co/2026/10/18/detenidos-dos-presuntos-asaltantes-en-el-barrio-san-fernando-uno-de-ellos-es-menor-de-edad/",
+  "fecha": "2026-10-18T14:10:56-05:00",
+  "palabras": "",
+  "lead": "Al parecer, estos sujetos habían hurtado una cadena de oro",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seba Seba, la panadería de colombianos en New York que recibió la visita del alcalde Zohran Mamdani",
+  "enlace": "https://caracol.com.co/2026/10/18/seba-seba-la-panaderia-de-colombianos-en-new-york-que-recibio-la-visita-del-alcalde-zohran-mamdani/",
+  "fecha": "2026-10-18T14:10:06-05:00",
+  "palabras": "",
+  "lead": "Fundado hace casi cuatro décadas por los hermanos Luis y Rubén Velásquez, el negocio familiar está ubicado en Queens y ofrece productos tradicionales colombianos como pandebonos, buñuelos y almojábanas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía Nacional lidera en vías de Bolívar seis campañas preventivas",
+  "enlace": "https://caracol.com.co/2026/10/18/policia-nacional-lidera-en-vias-de-bolivar-seis-campanas-preventivas/",
+  "fecha": "2026-10-18T14:05:45-05:00",
+  "palabras": "",
+  "lead": "Los viajeros recibieron información sobre la línea #767",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué está pasando en Francia y por qué los ciudadanos están protestando?",
+  "enlace": "https://caracol.com.co/2026/10/18/que-esta-pasando-en-francia-y-por-que-los-ciudadanos-estan-protestando/",
+  "fecha": "2026-10-18T14:03:14-05:00",
+  "palabras": "",
+  "lead": "Recientemente, el presidente francés, Emmanuel Macron, responsabilizó a la extrema izquierda de la violencia en las protestas en Francia y, además, expresó su apoyo a la Policía y comerciantes que se han visto afectados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Honey Ordoñez debutará en Victoria’s Secret Fashion Show 2026",
+  "enlace": "https://www.lafm.com.co/entretenimiento/honey-ordonez-modelo-colombiana-debut-victorias-secret-fashion-show-2026-414346",
+  "fecha": "2026-10-18T14:36:00-05:00",
+  "palabras": "Entretenimiento,Victoria's Secret,Colombia,desfile,Semana de la moda,Revista Vogue",
+  "lead": "Honey Ordoñez, modelo colombo-nicaragüense de 20 años, debutará en el Victoria’s Secret Fashion Show 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hallan cilindro con insignias del ELN en El Carmen",
+  "enlace": "https://www.lafm.com.co/orden-publico/cilindro-con-insignias-alusivas-al-eln-hallado-en-la-entrada-de-el-carmen-norte-de-santander-414345",
+  "fecha": "2026-10-18T14:21:00-05:00",
+  "palabras": "Orden Público,ELN,Incautación de explosivos,Antiexplosivos,Norte de Santander,Alerta de seguridad,Inseguridad,conflicto armado,Vigilancia",
+  "lead": "Un nuevo cilindro con insignias alusivas al ELN fue encontrado en la entrada de El Carmen, Norte de Santander. Las autoridades deberán establecer si conten...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"Nada justifica\" ni \"excusa\" la violencia durante las protestas en Francia, asegura Macron",
+  "enlace": "https://www.lafm.com.co/internacional/presidente-francia-emmanuel-macron-condena-violencia-durante-protestas-414344",
+  "fecha": "2026-10-18T14:00:00-05:00",
+  "palabras": "Internacional,Francia,Emmanuel Macron,protesta",
+  "lead": "Macron condenó la violencia en protestas en Francia: “nada lo justifica”, prometió ayudas y pidió lecciones para evitar que se repita.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Declaración de renta en Colombia: 19 al 20 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/declaracion-renta-colombia-cedula-19-23-octubre-2026-414342",
+  "fecha": "2026-10-18T13:52:00-05:00",
+  "palabras": "Sociedad,Declaración de renta,cédula,Colombia,Dian",
+  "lead": "La época de la declaración de renta para personas naturales está llegando a su fin para el año gravable 2025.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "rescatan menores indigenas en condiciones precarias en cali",
+  "enlace": "https://www.lafm.com.co/actualidad/rescatan-menores-indigenas-en-centro-de-cali-414339",
+  "fecha": "2026-10-18T13:31:00-05:00",
+  "palabras": "Actualidad,Alcaldía de Cali,Cali, Colombia,Delitos graves,Comunidades vulnerables,Policía Nacional,Menores",
+  "lead": "Autoridades hallaron a 12 indígenas en condiciones precarias en El Calvario en el Centro de Cali. ICBF se encargará de restablecer sus derechos",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
