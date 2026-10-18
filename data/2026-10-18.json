@@ -2405,7 +2405,7 @@
   "palabras": "Centro Democrático, Gobierno nacional",
   "lead": "El representante a la Cámara del Centro Democrático, Óscar Darío Pérez, se refirió a la crisis fiscal de Colombia, el crecimiento de la deuda pública y las alternativas que podría considerar el Gobierno para mejorar las finanzas del Estado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "",
   "lead": "Reconocer cuándo estas molestias requieren atención médica es clave para evitar que afecten el sueño, el estado de ánimo y las actividades diarias. Expertos explican cómo actuar a tiempo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "San Victorino, Ropa",
   "lead": "Un joven que vendía camisas a $5.000 en la calle y una mujer desplazada por la violencia lograron abrir sus propios negocios en San Victorino, Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,7 +2438,7 @@
   "palabras": "India, Viral",
   "lead": "Al parecer, el sujeto habría cruzado el vallado de seguridad del puente y posteriormente comenzó a hacer acciones peligrosas mientras intentaba llamar la atención de los turistas en el lugar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2449,7 +2449,7 @@
   "palabras": "",
   "lead": "El alcalde de Sogamoso pidió recursos para terminar la variante del Cusiana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2460,7 +2460,7 @@
   "palabras": "",
   "lead": "Air-e Intervenida entre las 8:20 de la mañana y las 2:50 de la tarde.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2471,7 +2471,7 @@
   "palabras": "",
   "lead": "Se presentan bloqueos este domingo 18 de octubre en la carrera Séptima tras el retiro de 30 obras en el Museo Nacional",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2481,6 +2481,138 @@
   "fecha": "2026-10-18T16:31:00-05:00",
   "palabras": "Internacional,Donald Trump,Volodimir Zelenski,Europa,Rusia,Vladimir Putin",
   "lead": "Trump acusa a Zelenski de no querer acabar la guerra con Rusia; mientras Kiev busca bajar tensiones con EE. UU. por Patriot, Starlink y sanciones.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo de hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T17:22:03-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías",
+  "lead": "El Paisita Noche realiza sorteos diarios y cuenta con diferentes modalidades de apuesta para quienes buscan acertar las cifras ganadoras. Consulte el resultado de este domingo 18 de octubre de 2026 y verifique su tiquete.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Manifestaciones en Bogotá ocasionan cierre total de carrera 7 y afectan servicios de TransMilenio",
+  "enlace": "https://www.bluradio.com/regiones/bogota/manifestaciones-en-bogota-ocasionan-cierre-total-de-carrera-7-y-afectan-servicios-de-transmilenio-so35",
+  "fecha": "2026-10-18T17:27:12-05:00",
+  "palabras": "Esmad, Transmilenio, Manifestación en carrera septima",
+  "lead": "Los manifestantes se ubican en inmediaciones del Museo Nacional. Unidad Nacional Antidisturbios intervino.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ni Messi se salvó de las protestas en Francia: saqueadores se llevaron valiosa camiseta autografiada",
+  "enlace": "https://caracol.com.co/2026/10/18/ni-messi-se-salvo-de-las-protestas-en-francia-saqueadores-se-llevaron-valiosa-camiseta-autografiada/",
+  "fecha": "2026-10-18T17:30:46-05:00",
+  "palabras": "",
+  "lead": "Las protestas en Francia han generado saqueos, incendios y constantes enfrentamientos entre manifestantes y fuerzas del orden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pese a las lluvias de los últimos días, las interrupciones de agua continuarán en Medellín",
+  "enlace": "https://caracol.com.co/2026/10/18/pese-a-las-lluvias-de-los-ultimos-dias-las-interrupciones-de-agua-continuaran-en-medellin/",
+  "fecha": "2026-10-18T17:13:47-05:00",
+  "palabras": "",
+  "lead": "EPM asegura que las reservas recolectadas por las precipitaciones y el ahorro de las comunidades siguen siendo insuficientes para afrontar los meses más críticos del fenómeno de El Niño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aseguradoras deben responder por billonarios daños tras terremoto, ¿tienen los recursos para pagar?",
+  "enlace": "https://caracol.com.co/2026/10/18/aseguradoras-deben-responder-por-billonarios-danos-tras-terremoto-tienen-los-recursos-para-pagar/",
+  "fecha": "2026-10-18T17:01:31-05:00",
+  "palabras": "",
+  "lead": "Por ley, las aseguradoras deben tener unas reservas catastróficas para hacer frente a estos casos, pero además, las compañías tienen como respaldo a reaseguradoras.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Los sueños no envejecen”: 40 adultos mayores cumplirán el sueño de conocer el mar",
+  "enlace": "https://caracol.com.co/2026/10/18/los-suenos-no-envejecen-40-adultos-mayores-cumpliran-el-sueno-de-conocer-el-mar/",
+  "fecha": "2026-10-18T17:24:24-05:00",
+  "palabras": "",
+  "lead": "”Del Café al Mar” es el proyecto social impulsado por la alcaldía de Neira, Caldas que llevará a 40 abuelos entre los 75 y 95 años a conocer el mar. Más que un viaje, será una experiencia cultural que recuerda la importancia de dignificar la vejez en el país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habitantes de Teusaquillo piden soluciones por eventos masivos durante fines de semana",
+  "enlace": "https://caracol.com.co/2026/10/18/habitantes-de-teusaquillo-piden-soluciones-por-eventos-masivos-durante-fines-de-semana/",
+  "fecha": "2026-10-18T17:24:47-05:00",
+  "palabras": "",
+  "lead": "Al menos 60 personas de los barrios Pablo Sexto, La Esmeralda y El Quirinal bloquearon la Carrera 50 con Calle 53 durante el paso de una carrera atlética, lo que obligó al desvío del evento deportivo. La comunidad solicita soluciones para garantizar su movilidad durante los fines de semana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Llaneros Vs. Santa Fe: Siga la transmisión y el minuto a minuto del partido",
+  "enlace": "https://caracol.com.co/2026/10/18/en-vivo-llaneros-vs-santa-fe-siga-la-transmision-y-el-minuto-a-minuto-del-partido/",
+  "fecha": "2026-10-18T17:18:20-05:00",
+  "palabras": "",
+  "lead": "El conjunto del meta busca ganar en el debut de Wilmer Sandoval como DT; los bogotanos quieren acercarse a la clasificación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinan con arma de fuego a una mujer de 50 años en el centro de Montería",
+  "enlace": "https://caracol.com.co/2026/10/18/asesinan-con-arma-de-fuego-a-una-mujer-de-50-anos-en-el-centro-de-monteria/",
+  "fecha": "2026-10-18T17:01:12-05:00",
+  "palabras": "",
+  "lead": "Las autoridades investigan el caso para esclarecer lo ocurrido en horas de la mañana de este 18 de octubre",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "CAR advierte por riesgo de desabastecimiento en 22 municipios",
+  "enlace": "https://www.lafm.com.co/actualidad/car-advierte-municipios-de-cundinamarca-riesgo-desabastecimiento-414356",
+  "fecha": "2026-10-18T17:36:00-05:00",
+  "palabras": "Actualidad,Lluvias,Cundinamarca,Octubre,Agua,escasez,Fenómeno de El Niño,Niños",
+  "lead": "Pese a la lluvia registradas en octubre en el centro del país, la contingencia por falta de agua en Cundinamarca está lejos de superarse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Transmilenio activa rutas alternas por afectaciones en la Carrera Séptima",
+  "enlace": "https://www.lafm.com.co/orden-publico/afectaciones-carrera-septima-protestas-museo-nacional-transmilenio-rutas-alternas-414354",
+  "fecha": "2026-10-18T17:17:00-05:00",
+  "palabras": "Orden Público,protesta,Protestas en Colombia,Museos,Colombia,TransMilenio",
+  "lead": "Por segundo día consecutivo, el tráfico en el centro de Bogotá registra fuertes complicaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Icfes Saber Pro y TYT: ¿cuándo salen los resultados?",
+  "enlace": "https://www.lafm.com.co/sociedad/icfes-saber-pro-y-tyt-cuando-seran-publicados-los-resultados-de-la-prueba-414353",
+  "fecha": "2026-10-18T17:00:00-05:00",
+  "palabras": "Sociedad,Icfes,pruebas,Pruebas de Estado,Colombia,Universidades de Colombia,universidades,Colegios",
+  "lead": "Así como con todas las pruebas de Estado, quienes la realizaron deberán esperar meses para conocer los resultados.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
