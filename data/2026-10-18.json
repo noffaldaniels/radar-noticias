@@ -185,5 +185,27 @@
   "seccion": "otras",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos detenidos aprovecharon el aguacero para fugarse de la estación de policía de El Bagre, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/18/dos-detenidos-aprovecharon-el-aguacero-para-fugarse-de-la-estacion-de-policia-de-el-bagre-antioquia/",
+  "fecha": "2026-10-18T06:25:42-05:00",
+  "palabras": "",
+  "lead": "Los dos hombres que habían sido capturados por el delito de concierto para delinquir habrían dañado los barrotes metálicos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "León XIV reaparece en el rezo del ángelus en el Vaticano tras su operación de pulmón",
+  "enlace": "https://caracol.com.co/2026/10/18/leon-xiv-reaparece-en-el-rezo-del-angelus-en-el-vaticano-tras-su-operacion-de-pulmon/",
+  "fecha": "2026-10-18T05:59:30-05:00",
+  "palabras": "",
+  "lead": "El papa comenzó el rezo del ángelus tras ser recibido por una ovación por parte de los miles de fieles que abarrotan este domingo la Plaza de San Pedro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
  }
 ]
