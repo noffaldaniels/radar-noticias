@@ -381,7 +381,7 @@
   "palabras": "Gobernación de Antioquia, Ministerio de Salud, Yarumal, Noticias de hoy",
   "lead": "La administración municipal aclaró que el servicio de alimentación fue contratado con un emprendedor local y se adelantan las verificaciones para determinar las causas de la intoxicación masiva.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Cali, atentado terrorista",
   "lead": "El atentado se registró el pasado 24 de abril y dejó dos personas lesionadas y graves daños materiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "En Caracol Radio le explicamos en dónde queda este lugar y por qué hace tanto frío allí. El pueblo sí está habitado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "La reactivación de los trabajos se prevé para principios de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "Según el abogado, Johan Granados, se está pidiendo a la entidades encargadas de vigilar este tipo de procedimientos que se revise porqué la Policía usó la fuerza antes que el diálogo con los manifestantes en la Plaza Murillo Toro.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "La medida afecta el tránsito de mercancías, pero permite el paso de personas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "Orden Público,Intento de fuga,Cárcel,Policía Nacional,Antioquia,Agua,Lluvias",
   "lead": "Los fugados fueron identificados como Juan David Pineda Guarnes y Johan Sebastián Agudelo Florián, quienes permanecían bajo custodia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "Orden Público,atentado,Actos terroristas,ataque explosivo,Cali, Colombia",
   "lead": "En las últimas horas fue capturado alias Barbas, uno de los responsables del atentado contra el Batallón Pichincha en Cali.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,6 +469,182 @@
   "palabras": "Orden Público,Huila,Defensoría del Pueblo,Alteración al orden público,Alerta de seguridad",
   "lead": "La zona occidente del departamento en riesgo por ataques con drones, hostigamientos, daños en viviendas y colegios.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel alias ‘Julito’ y otras cuatro personas tras 12 horas de audiencia en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/a-la-carcel-alias-julito-y-otras-cuatro-personas-tras-12-horas-de-audiencia-en-bucaramanga-rg10",
+  "fecha": "2026-10-18T08:31:46-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Bucaramanga, Fiscalía General de la Nación, Policía Nacional",
+  "lead": "Un juez impuso medida de aseguramiento en centro carcelario contra los cinco procesados. Alias ‘Julito’ es investigado por un homicidio que habría cometido cuando era mayor de edad y es señalado de estar relacionado con otros 19 asesinatos ocurridos cuando era menor.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Entregaron nueve ambulancias a municipios del Chocó tras inversión de $2.700 millones de MinSalud",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/entregaron-nueve-ambulancias-a-municipios-del-choco-tras-inversion-de-2-700-millones-de-minsalud-rg10",
+  "fecha": "2026-10-18T08:22:33-05:00",
+  "palabras": "Chocó, Gobernación de Chocó, Ministerio de Salud, Noticias de hoy",
+  "lead": "La baja disponibilidad y el deterioro de las ambulancias existentes han incrementado hasta en un 80 % las remisiones y los traslados por falta de vehículos en condiciones adecuadas, dice la Gobernación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Incineran vehículo de empresa de aseo en Popayán, Cauca: crece la preocupación por los ataques",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/incineran-vehiculo-de-empresa-de-aseo-en-popayan-cauca-crece-la-preocupacion-por-los-ataques-rg10",
+  "fecha": "2026-10-18T08:15:38-05:00",
+  "palabras": "Popayán, Cauca",
+  "lead": "De acuerdo con la empresa, durante los últimos seis meses se han presentado amenazas e intimidaciones que serían atribuidas a grupos armados ilegales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inundaciones en Galapa: seis barrios afectados tras aguacero de más de 2 horas",
+  "enlace": "https://www.bluradio.com/regiones/caribe/inundaciones-en-galapa-6-barrios-afectados-tras-aguacero-de-mas-de-2-horas-rg10",
+  "fecha": "2026-10-18T08:28:24-05:00",
+  "palabras": "Noticias de hoy, Emergencias por lluvias, Atlántico, Barranquilla, Costa Caribe",
+  "lead": "Asegura la Alcaldía que construcciones ilegales taponaron y desviaron los cauces de varios arroyos, agravando la emergencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desgarrador relato de periodista que sufrió intento de robo: \"Amenazaron con meterme un tiro\"",
+  "enlace": "https://www.bluradio.com/regiones/bogota/desgarrador-relato-de-periodista-que-sufrio-intento-de-robo-amenazaron-con-meterme-un-tiro-so35",
+  "fecha": "2026-10-18T08:56:08-05:00",
+  "palabras": "Robos, Periodismo",
+  "lead": "La periodista denunció que hombres armados la amenazaron durante un intento de robo mientras esperaba un semáforo en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos personas murieron y dos más quedaron heridas por un choque en Santa Rosa de Osos, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/18/dos-personas-murieron-y-dos-mas-quedaron-heridas-por-un-choque-en-santa-rosa-de-osos-antioquia/",
+  "fecha": "2026-10-18T08:48:12-05:00",
+  "palabras": "",
+  "lead": "El siniestro vial se reportó entre la vereda La Piedra y Llanos de Cuivá, entre un bus y una motocicleta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sin sueldo y sin condiciones laborales dignas están miles de trabajadores de la salud en el Tolima",
+  "enlace": "https://caracol.com.co/2026/10/18/sin-sueldo-y-sin-condiciones-laborales-dignas-estan-miles-de-trabajadores-de-la-salud-en-el-tolima/",
+  "fecha": "2026-10-18T08:48:27-05:00",
+  "palabras": "",
+  "lead": "Según Andrés Ramírez, magistrado del Tribunal Ético de Enfermería, más de 100 mil familias en el departamento dependen de los ingresos del trabajo en el sector salud que enfrenta una compleja crisis por la falta de pago.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Familias rurales de Los Patios, Norte de Santander, reciben estufas ecoeficientes",
+  "enlace": "https://caracol.com.co/2026/10/18/familias-rurales-de-los-patios-norte-de-santander-reciben-estufas-ecoeficientes/",
+  "fecha": "2026-10-18T08:41:41-05:00",
+  "palabras": "",
+  "lead": "Ejército y Fundación Arturo Calle construyeron cuatro estufas para mejorar las condiciones de vida de hogares rurales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump dice que Francia “está en llamas” y “destrozado” por la inmigración",
+  "enlace": "https://caracol.com.co/2026/10/18/trump-dice-que-francia-esta-en-llamas-y-destrozado-por-la-inmigracion/",
+  "fecha": "2026-10-18T08:32:54-05:00",
+  "palabras": "",
+  "lead": "El mandatario estadounidense pidió reforzar los controles fronterizos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La UE “condena enérgicamente” ataque de colonos contra comitiva diplomática en Cisjordania",
+  "enlace": "https://caracol.com.co/2026/10/18/la-ue-condena-energicamente-ataque-de-colonos-contra-comitiva-diplomatica-en-cisjordania/",
+  "fecha": "2026-10-18T08:28:04-05:00",
+  "palabras": "",
+  "lead": "Durante el incidente, ocurrido el sábado en Taybeh, también fue golpeado un alcalde francés cuando los diplomáticos visitaban la zona.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Amaranto Perea y su futuro en el DIM: “Tendré que pensar si le estoy haciendo daño al club”",
+  "enlace": "https://caracol.com.co/2026/10/18/amaranto-perea-y-su-futuro-en-el-dim-tendre-que-pensar-si-le-estoy-haciendo-dano-al-club/",
+  "fecha": "2026-10-18T08:26:07-05:00",
+  "palabras": "",
+  "lead": "El técnico del Medellín habló tras la derrota ante Once Caldas y aseguró que sigue con fuerzas al frente del equipo, esperando cumplir el objetivo de clasificar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a 10 presuntos integrantes del Clan del Golfo por extorsiones en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/10/18/capturan-a-10-presuntos-integrantes-del-clan-del-golfo-por-extorsiones-en-barranquilla/",
+  "fecha": "2026-10-18T08:14:05-05:00",
+  "palabras": "",
+  "lead": "Según la Policía, la estructura intimidaba a comerciantes y transportadores de La Playa y Puerto Colombia para exigir pagos de hasta $5 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alberto Gamero tras el triunfo de Millonarios: “Desde que regresé, ha sido el mejor partido”",
+  "enlace": "https://caracol.com.co/2026/10/18/alberto-gamero-tras-el-triunfo-de-millonarios-desde-que-regrese-ha-sido-el-mejor-partido/",
+  "fecha": "2026-10-18T08:13:40-05:00",
+  "palabras": "",
+  "lead": "El técnico samario se refirió a la victoria ante Jaguares, dejando claro que si bien fue un buen partido, estuvo distante de ser un juego “redondo”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Más de 4.100 personas esperan un órgano en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/transplantes-en-colombia-por-que-faltan-organos-lista-de-espera-414311",
+  "fecha": "2026-10-18T08:31:00-05:00",
+  "palabras": "Sociedad,Trasplante,Donaciones,Riñón,Cardiopatías,Cuidados intensivos,Cirugía,Operación Quirófano,Médicos especialistas,pacientes,cuidados especiales",
+  "lead": "El doctor Gilberto Andrés Mejía Hernández, médico cirujano general y de trasplantes, explicó cuáles son los principales obstáculos para aumentar la donació...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Francia está ante un nuevo Mayo del 68? Esto dice una experta",
+  "enlace": "https://www.lafm.com.co/internacional/protestas-en-francia-contra-emmanuel-macron-crisis-educativa-costo-de-vida-nuevo-mayo-de-68-414276",
+  "fecha": "2026-10-18T08:23:00-05:00",
+  "palabras": "Internacional,París,Manifestantes,Emmanuel Macron,Educación,Jóvenes,profesores,Problemas económicos,Economistas,enfrentamiento,actos violentos",
+  "lead": "La socióloga Juana Afanador, formada en la Escuela de Altos Estudios en Ciencias Sociales de París, explicó que las movilizaciones responden a inconformida...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "avanza la transformación del aeropuerto Ernesto Cortissoz",
+  "enlace": "https://www.lafm.com.co/actualidad/inicia-ampliacion-capacidad-aeropuerto-internacional-ernesto-cortissoz-nuevas-obras-modernizacion-414305",
+  "fecha": "2026-10-18T07:37:00-05:00",
+  "palabras": "Actualidad,Alcaldía de Barranquilla,aeropuerto,infraestructura,Transporte aéreo,Aerocivil,Ministerio de Transporte,Migración Colombia,Mantenimiento,Acuerdo",
+  "lead": "El alcalde Char destacó la instalación de nuevos puestos de Migración, el sistema Biomig y una sala de espera para 680 pasajeros en el Cortissoz.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
