@@ -2493,7 +2493,7 @@
   "palabras": "Resultados del chance, Chances y Loterías",
   "lead": "El Paisita Noche realiza sorteos diarios y cuenta con diferentes modalidades de apuesta para quienes buscan acertar las cifras ganadoras. Consulte el resultado de este domingo 18 de octubre de 2026 y verifique su tiquete.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2504,7 +2504,7 @@
   "palabras": "Esmad, Transmilenio, Manifestación en carrera septima",
   "lead": "Los manifestantes se ubican en inmediaciones del Museo Nacional. Unidad Nacional Antidisturbios intervino.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2515,7 +2515,7 @@
   "palabras": "",
   "lead": "Las protestas en Francia han generado saqueos, incendios y constantes enfrentamientos entre manifestantes y fuerzas del orden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "",
   "lead": "EPM asegura que las reservas recolectadas por las precipitaciones y el ahorro de las comunidades siguen siendo insuficientes para afrontar los meses más críticos del fenómeno de El Niño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "",
   "lead": "Por ley, las aseguradoras deben tener unas reservas catastróficas para hacer frente a estos casos, pero además, las compañías tienen como respaldo a reaseguradoras.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,7 +2548,7 @@
   "palabras": "",
   "lead": "”Del Café al Mar” es el proyecto social impulsado por la alcaldía de Neira, Caldas que llevará a 40 abuelos entre los 75 y 95 años a conocer el mar. Más que un viaje, será una experiencia cultural que recuerda la importancia de dignificar la vejez en el país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2559,7 +2559,7 @@
   "palabras": "",
   "lead": "Al menos 60 personas de los barrios Pablo Sexto, La Esmeralda y El Quirinal bloquearon la Carrera 50 con Calle 53 durante el paso de una carrera atlética, lo que obligó al desvío del evento deportivo. La comunidad solicita soluciones para garantizar su movilidad durante los fines de semana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2570,7 +2570,7 @@
   "palabras": "",
   "lead": "El conjunto del meta busca ganar en el debut de Wilmer Sandoval como DT; los bogotanos quieren acercarse a la clasificación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2581,7 +2581,7 @@
   "palabras": "",
   "lead": "Las autoridades investigan el caso para esclarecer lo ocurrido en horas de la mañana de este 18 de octubre",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2592,7 +2592,7 @@
   "palabras": "Actualidad,Lluvias,Cundinamarca,Octubre,Agua,escasez,Fenómeno de El Niño,Niños",
   "lead": "Pese a la lluvia registradas en octubre en el centro del país, la contingencia por falta de agua en Cundinamarca está lejos de superarse.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2603,7 +2603,7 @@
   "palabras": "Orden Público,protesta,Protestas en Colombia,Museos,Colombia,TransMilenio",
   "lead": "Por segundo día consecutivo, el tráfico en el centro de Bogotá registra fuertes complicaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2614,6 +2614,83 @@
   "palabras": "Sociedad,Icfes,pruebas,Pruebas de Estado,Colombia,Universidades de Colombia,universidades,Colegios",
   "lead": "Así como con todas las pruebas de Estado, quienes la realizaron deberán esperar meses para conocer los resultados.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo del Dorado Noche hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-del-dorado-noche-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T18:25:11-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Noche",
+  "lead": "El sorteo del Dorado Noche se realiza los domingos y festivos a las 7:25 p. m. Consulte las cifras ganadoras de este domingo 18 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Motociclista choca de frente contra una camioneta y sale expulsado por los aires",
+  "enlace": "https://www.bluradio.com/mundo/motociclista-choca-de-frente-contra-una-camioneta-y-sale-expulsado-por-los-aires-so35",
+  "fecha": "2026-10-18T18:49:20-05:00",
+  "palabras": "Viral, Accidente de tránsito",
+  "lead": "Las imágenes muestran el momento en que el conductor de la moto impacta contra una camioneta y sale proyectado por encima del vehículo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Turista cubano extravió dispositivo electrónico y la Policía de Cartagena logró recuperarlo",
+  "enlace": "https://caracol.com.co/2026/10/18/turista-cubano-extravio-dispositivo-electronico-y-la-policia-de-cartagena-logro-recuperarlo/",
+  "fecha": "2026-10-18T18:39:05-05:00",
+  "palabras": "",
+  "lead": "Se trata de un iPad de última generación avaluado en más de ocho millones de pesos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "VIDEO Victoria’s Secret Fashion Show 2026 EN VIVO 🔴: LINK para ver el desfile y ÚLTIMAS NOTICIAS",
+  "enlace": "https://caracol.com.co/2026/10/18/video-victorias-secret-fashion-show-2026-en-vivo-link-para-ver-el-desfile-y-ultimas-noticias/",
+  "fecha": "2026-10-18T17:30:00-05:00",
+  "palabras": "",
+  "lead": "Reviva el minuto a minuto de la pasarela más popular aquí",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Movilidad Bogotá tras protestas HOY 18 de octubre Museo Nacional EN VIVO 🔴: cierres viales y más",
+  "enlace": "https://caracol.com.co/2026/10/18/movilidad-bogota-tras-protestas-hoy-18-de-octubre-museo-nacional-en-vivo-cierres-viales-y-mas/",
+  "fecha": "2026-10-18T18:36:26-05:00",
+  "palabras": "",
+  "lead": "Siga aquí el minuto a minuto de la movilidad en Bogotá. Cierres de estaciones de TransMilenio, bloqueos y más:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan Fernando Quintero tras malos resultados del Medellín: “Es momento de estar unidos todos”",
+  "enlace": "https://caracol.com.co/2026/10/18/juan-fernando-quintero-tras-malos-resultados-del-medellin-es-momento-de-estar-unidos-todos/",
+  "fecha": "2026-10-18T17:47:06-05:00",
+  "palabras": "",
+  "lead": "El volante antioqueño envió un mensaje a los hinchas y aseguró que asumen la responsabilidad de los malos resultados recientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno anuncia recuperación del Aeropuerto de San Andrés",
+  "enlace": "https://www.lafm.com.co/actualidad/aeropuerto-san-andres-abandonado-abelardo-espriella-anuncia-obras-414355",
+  "fecha": "2026-10-18T17:23:00-05:00",
+  "palabras": "Actualidad,San Andrés,Aerocivil,ANI,Ministerio de Transporte,Abelardo de la Espriella,aeropuerto,Colombia",
+  "lead": "Las autoridades gubernamentales se refirieron a cómo actuarán para la recuperación de las instalaciones.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
