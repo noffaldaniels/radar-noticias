@@ -2636,7 +2636,7 @@
   "palabras": "Abelardo De La Espriella, Paola Holguín",
   "lead": "Los jóvenes reprodujeron en la calle algunas de las 30 obras retiradas esta semana —y que el Ministerio de Cultura reconoció haber sacado de la exposición alegando \"adoctrinamiento cultural\"— y pegaron las impresiones en los ladrillos de la obra de exterior LATEREM, El Bloque Nos Une, del artista…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2647,7 +2647,7 @@
   "palabras": "Estadio El Campín, Bogotá, estado de El Campín",
   "lead": "La empresa encargada de El Campín indicó que el reporte fue elaborado tomando como referencia el Sistema de Calificación de la FIFA para campos de césped natural.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "Autodefensas de la Sierra Nevada",
   "lead": "El material fue encontrado en una caleta en zona rural de Santa Marta durante un operativo de la Policía Nacional en coordinación con la DEA de Estados Unidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "",
   "lead": "El agricultor del municipio de Purificación resaltó que no pueden ser competitivos con el ingreso de arroz de países donde existe subsidio a la producción de hasta el 30% mientras que en Colombia no sucede esto.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "",
   "lead": "Conozca cuánto dinero podría recibir un trabajador que devenga el salario mínimo en Colombia por 30 días laborados y cuáles son los conceptos que se tienen en cuenta para calcular la liquidación en 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2691,7 +2691,7 @@
   "palabras": "",
   "lead": "La alerta la están emitiendo ADIDA y ASDEM, quienes exigen que se solucione el problema generado por la falta de pago y contratación del FOMAG. Se declaran en alerta máxima y analizan un posible paro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2702,7 +2702,7 @@
   "palabras": "",
   "lead": "La alcaldía manifestó que el servicio de alimentación fue contratado con un emprendedor local, además de que se están adelantando las verificaciones para determinar con certeza las causas de la intoxicación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2713,7 +2713,7 @@
   "palabras": "",
   "lead": "El evento deportivo se realizará a finales del mes de noviembre, y contará con diferentes actividades físicas de running que se desarrollarán en dos días.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "",
   "lead": "Conozca cómo acceder a certificados oficiales de carrera de Google para potenciar su hoja de vida con habilidades digitales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "",
   "lead": "La mujer fue atacada con un arma blanca en la traquea; se encuentra en una Unidad de Cuidados Intensivos luchando por su vida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "",
   "lead": "El alcalde Cristian Portilla anunció una recompensa para localizar a los demás hombres del cartel.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,7 +2757,7 @@
   "palabras": "",
   "lead": "Los certificados de depósito a término tienen rendimientos de hasta 12,8 % efectivo anual en octubre. Conozca las entidades que ofrecen las mejores tasas para invertir a 3, 6, 9 y 12 meses, y el dinero mínimo que necesita para abrirlos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2767,6 +2767,171 @@
   "fecha": "2026-10-17T13:06:00-05:00",
   "palabras": "Orden Público,Calarcá,Disidentes de las Farc,Meta,Vichada",
   "lead": "Una presunta guerrillera muerta y un capturado dejan combates del Ejército contras Calarcá en el Meta",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Este es el municipio en Colombia que cosecha las \"calabazas\" más impactantes para Halloween",
+  "enlace": "https://www.bluradio.com/turismo/este-es-el-municipio-en-colombia-que-cosecha-las-calabazas-mas-impactantes-para-halloween-so35",
+  "fecha": "2026-10-17T19:32:59-05:00",
+  "palabras": "Halloween, Turismo, Viral",
+  "lead": "En Colombia, las ahuyamas se convierten en protagonistas del Halloween gracias al trabajo campesino y una tradición ligada a la leyenda de Jack, el hombre del farolillo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Música y neurociencia se encontraron en Bogotá en el lanzamiento del Cartagena Festival de Música",
+  "enlace": "https://www.bluradio.com/entretenimiento/musica-y-neurociencia-se-encontraron-en-bogota-en-el-lanzamiento-del-cartagena-festival-de-musica-rg10",
+  "fecha": "2026-10-17T19:11:22-05:00",
+  "palabras": "Música, Orquesta Filarmónica de Bogotá",
+  "lead": "El evento se realizará del 9 al 17 de enero de 2027. En el acto inaugural, la pianista y neurocientífica Rui Mei interpretó una obra de Johannes Brahms en un concierto que incorporó tecnología para visualizar en tiempo real indicadores de la actividad cerebral y cardíaca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Impactante avalancha arrastró a excursionistas a laguna helada en Chile; dejó tres muertos",
+  "enlace": "https://www.bluradio.com/mundo/impactante-avalancha-arrastro-a-excursionistas-a-laguna-helada-en-chile-dejo-tres-muertos-cb20",
+  "fecha": "2026-10-17T19:53:40-05:00",
+  "palabras": "Chile, Viral, Andes chilenos, Avalancha de Nieve, Chile, Lagunas del Inca, Video",
+  "lead": "La avalancha ocurrió en un centro de esquí de los Andes chilenos y sorprendió a varios excursionistas, causando la muerte de algunos y dejando a otros heridos en medio de la emergencia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO | Medellín vs Once Caldas: Siga la transmisión y minuto a minuto del partido por Liga",
+  "enlace": "https://caracol.com.co/2026/10/18/en-vivo-medellin-vs-once-caldas-siga-la-transmision-y-minuto-a-minuto-del-partido-por-liga/",
+  "fecha": "2026-10-17T20:03:10-05:00",
+  "palabras": "",
+  "lead": "Ambos equipos luchan por entrar a los cuadrangulares finales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de posiciones de Liga colombiana 2026-II: Así quedó tras goleadas de Nacional y Millonarios",
+  "enlace": "https://caracol.com.co/2026/10/18/tabla-de-posiciones-de-liga-colombiana-2026-ii-asi-quedo-tras-goleadas-de-nacional-y-millonarios/",
+  "fecha": "2026-10-17T19:58:13-05:00",
+  "palabras": "",
+  "lead": "Repase las clasificaciones del campeonato en la fecha 15.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 17 de octubre: resultados y números ganadores",
+  "enlace": "https://caracol.com.co/2026/10/18/loteria-de-boyaca-cauca-y-baloto-hoy-sabado-17-de-octubre-resultados-y-numeros-ganadores/",
+  "fecha": "2026-10-17T19:43:12-05:00",
+  "palabras": "",
+  "lead": "Vea los resultados del último sorteo de las loterías de Boyacá y Cauca y conozca los números ganadores del Baloto y Baloto Revancha de este 17 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados Lotería de Boyacá HOY 17 de octubre 2026: consulte los premios",
+  "enlace": "https://caracol.com.co/2026/10/18/resultados-loteria-de-boyaca-hoy-17-de-octubre-2026-consulte-los-premios/",
+  "fecha": "2026-10-17T19:43:08-05:00",
+  "palabras": "",
+  "lead": "Conozca los resultados del sorteo de este sábado 17 de octubre y descubra si es uno de los ganadores",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colonos israelíes atacan a comitiva de diplomáticos europeos en Cisjordania",
+  "enlace": "https://caracol.com.co/2026/10/18/colonos-israelies-atacan-a-comitiva-de-diplomaticos-europeos-en-cisjordania/",
+  "fecha": "2026-10-17T19:36:40-05:00",
+  "palabras": "",
+  "lead": "La oficina del primer ministro israelí, Benjamin Netanyahu, denunció posteriormente una campaña de “difamación” contra Israel y los colonos en Cisjordania.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden crear el Instituto de Bienestar y Protección Animal de Ibagué",
+  "enlace": "https://caracol.com.co/2026/10/18/piden-crear-el-instituto-de-bienestar-y-proteccion-animal-de-ibague/",
+  "fecha": "2026-10-17T19:17:55-05:00",
+  "palabras": "",
+  "lead": "Según el concejal, Javier Mora, este instituto contaría con autonomía administrativa y financiera lo que permitiría seguir fortaleciendo la atención en de los animales en la capital del Tolima.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atentado con explosivos averió puente y dejó bloqueado el paso hacia Suárez, Cauca",
+  "enlace": "https://caracol.com.co/2026/10/18/atentado-con-explosivos-averio-puente-y-dejo-bloqueado-el-paso-hacia-suarez-cauca/",
+  "fecha": "2026-10-17T19:12:57-05:00",
+  "palabras": "",
+  "lead": "El Ejército atribuye preliminarmente el ataque a la estructura Jaime Martínez. Más de 200 familias enfrentan restricciones de movilidad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detenidas 1.200 personas en las protestas en Francia, que dejan 150 policías heridos",
+  "enlace": "https://caracol.com.co/2026/10/17/detenidas-1200-personas-en-las-protestas-en-francia-que-dejan-150-policias-heridos/",
+  "fecha": "2026-10-17T18:57:39-05:00",
+  "palabras": "",
+  "lead": "El ministro de Justicia pidió a los fiscales solicitar prisión preventiva para los detenidos, a quienes calificó de personas con perfiles “particularmente violentos y peligrosos”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La construcción del pabellón para sindicados en el Quindío tiene un avance del 75%",
+  "enlace": "https://caracol.com.co/2026/10/17/la-construccion-del-pabellon-para-sindicados-en-el-quindio-tiene-un-avance-del-75/",
+  "fecha": "2026-10-17T18:51:36-05:00",
+  "palabras": "",
+  "lead": "El Quindío supera los 200 sindicados",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colpensiones sorteará bonos de vivienda por $217 millones",
+  "enlace": "https://www.lafm.com.co/economia/colpensiones-ahorrar-es-ganar-bonos-217-millones-requisitos-para-participar-414295",
+  "fecha": "2026-10-17T19:07:00-05:00",
+  "palabras": "Economía,Colpensiones,sorteos,Coljuegos,incentivo económico,Apoyo económico,vivienda,retiro,Seguro de vida,jubilación",
+  "lead": "El programa Ahorrar es Ganar 2026 de Colpensiones incluye dos bonos de $217 millones para adquirir vivienda, equiparla o remodelarla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Un soldado herido con explosivo del ELN en Arauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/soldado-herido-ataque-explosivo-guerrilla-eln-arauca-colombia-414294",
+  "fecha": "2026-10-17T18:45:00-05:00",
+  "palabras": "Orden Público,Arauca,ELN,Alteración al orden público,ataque explosivo",
+  "lead": "Un soldado resultó gravemente herido en un ataque con explosivos del ELN en Arauca dijo el Ejército Nacional",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atacan camión de basura en el municipio de Popayán, Cauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/atacan-camion-recolector-basuras-popayan-cauca-eln-414293",
+  "fecha": "2026-10-17T18:44:00-05:00",
+  "palabras": "Orden Público,Basuras,Cauca,Alteración al orden público",
+  "lead": "Un nuevo ataque contra un camión de basura se produjo durante la tarde de este sábado 17 de octubre en Popayán, Cauca.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
