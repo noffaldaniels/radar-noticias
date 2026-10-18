@@ -207,5 +207,170 @@
   "seccion": "otras",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Consejo de seguridad extraordinario en Cerrito tras quema de bus en Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/consejo-de-seguridad-extraordinario-en-cerrito-tras-quema-de-bus-en-santander-rg10",
+  "fecha": "2026-10-18T07:28:05-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Gobernación de Santander",
+  "lead": "El gobernador Juvenal Díaz llegó a la zona con los comandantes de la Policía y el Ejército para coordinar acciones tras el ataque atribuido al ELN. Anunció una recompensa para obtener información que permita capturar a los responsables.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcaldía de Limoges, en Francia, terminó en llamas durante las protestas del sábado",
+  "enlace": "https://www.bluradio.com/mundo/alcaldia-de-limoges-en-francia-termino-en-llamas-durante-las-protestas-del-sabado-cb20",
+  "fecha": "2026-10-18T07:46:37-05:00",
+  "palabras": "Protestas en Francia, Francia",
+  "lead": "El incendio que destrozó la alcaldía de Limoges, en el oeste de Francia, durante la violencia que estalló el sábado al margen de una jornada de manifestaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piloto de Flydubai confía en que el ataque en cabina impulse cambios en la seguridad aérea",
+  "enlace": "https://caracol.com.co/2026/10/18/piloto-de-flydubai-confia-en-que-el-ataque-en-cabina-impulse-cambios-en-la-seguridad-aerea/",
+  "fecha": "2026-10-18T07:44:46-05:00",
+  "palabras": "",
+  "lead": "Machchhar, atacado con un hacha por su copiloto el pasado 30 de septiembre pidió revisar las condiciones aéreas para evitar que un hecho similar vuelva a ocurrir.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Embajador de EEUU pide a Israel “años de prisión” para colonos que atacaron fotoperiodista",
+  "enlace": "https://caracol.com.co/2026/10/18/embajador-de-eeuu-pide-a-israel-anos-de-prision-para-colonos-que-atacaron-fotoperiodista/",
+  "fecha": "2026-10-18T07:40:43-05:00",
+  "palabras": "",
+  "lead": "Huckabee Aseguró que los responsables deberían enfrentar “años de prisión”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Panelo Valencia, contundente: “Once Caldas nunca iba a pedir los puntos contra Millonarios”",
+  "enlace": "https://caracol.com.co/2026/10/18/panelo-valencia-contundente-once-caldas-nunca-iba-a-pedir-los-puntos-contra-millonarios/",
+  "fecha": "2026-10-18T07:38:22-05:00",
+  "palabras": "",
+  "lead": "El técnico del equipo de Manizales se refirió a la polémica tras el aplazamiento del partido. También analizó la victoria sobre Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Muere un hombre de 71 años tras ser atacado por un caimán de 3,6 metros en Florida",
+  "enlace": "https://caracol.com.co/2026/10/18/muere-un-hombre-de-71-anos-tras-ser-atacado-por-un-caiman-de-36-metros-en-florida/",
+  "fecha": "2026-10-18T07:36:31-05:00",
+  "palabras": "",
+  "lead": "El jefe de policía de Winter Garden indicó que el animal fue localizado, capturado y sacrificado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría alerta posible pérdida de $2.130 millones en un pago por los aviones Gripen",
+  "enlace": "https://caracol.com.co/2026/10/18/contraloria-alerta-posible-perdida-de-2130-millones-en-un-pago-por-los-aviones-gripen/",
+  "fecha": "2026-10-18T07:00:00-05:00",
+  "palabras": "",
+  "lead": "Surgen dudas sobre la compra de los 17 aviones Gripen: el Gobierno revisa el contrato, pero nadie ha calculado cuánto le costaría al país romperlo o modificarlo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ocupación en alojamientos del 60% durante la semana de receso escolar en el Quindío",
+  "enlace": "https://caracol.com.co/2026/10/18/ocupacion-en-alojamientos-del-60-durante-la-semana-de-receso-escolar-en-el-quindio/",
+  "fecha": "2026-10-18T07:33:40-05:00",
+  "palabras": "",
+  "lead": "Las autoridades de turismo del Quindío sostienen que hubo una ocupación en alojamientos del 60% y los parques temáticos del 70% durante la semana de receso escolar",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan grafitis alusivos al ELN en Socha y ofrecen recompensa de hasta $400 millones en Boyacá",
+  "enlace": "https://caracol.com.co/2026/10/18/investigan-grafitis-alusivos-al-eln-en-socha-y-ofrecen-recompensa-de-hasta-400-millones-en-boyaca/",
+  "fecha": "2026-10-18T07:30:20-05:00",
+  "palabras": "",
+  "lead": "La revisión de cámaras de seguridad permitió identificar a un hombre que habría realizado las pintadas durante la madrugada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Dónde se pagan las cuotas del FNA? Canales virtuales y presenciales: Lista de bancos autorizados",
+  "enlace": "https://caracol.com.co/2026/10/18/donde-se-pagan-las-cuotas-del-fna-canales-virtuales-y-presenciales-lista-de-bancos-autorizados/",
+  "fecha": "2026-10-18T07:25:32-05:00",
+  "palabras": "",
+  "lead": "Conozca las opciones de pago del FNA para los colombianos en el exterior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Parque Nacional Natural Tayrona tendrá su último cierre del año en octubre",
+  "enlace": "https://caracol.com.co/2026/10/18/el-parque-nacional-natural-tayrona-tendra-su-ultimo-cierre-del-ano-en-octubre/",
+  "fecha": "2026-10-18T07:18:00-05:00",
+  "palabras": "",
+  "lead": "Las actividades ecoturísticas se retomarán el 3 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensora critica “excesiva” presencia de ESMAD en plantón contra retiro de obras del Museo Nacional",
+  "enlace": "https://caracol.com.co/2026/10/18/defensora-critica-excesiva-presencia-de-esmad-en-planton-contra-retiro-de-obras-en-museo-nacional/",
+  "fecha": "2026-10-18T07:06:27-05:00",
+  "palabras": "",
+  "lead": "La funcionaria recordó que la sola obstrucción de vías no justifica la intervención de la Fuerza Pública",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla del descenso 2026: Así quedó tras derrotas de Jaguares y Boyacá Chicó",
+  "enlace": "https://caracol.com.co/2026/10/18/tabla-del-descenso-2026-asi-quedo-tras-derrotas-de-jaguares-y-boyaca-chico/",
+  "fecha": "2026-10-18T06:55:23-05:00",
+  "palabras": "",
+  "lead": "Repase cómo va la lucha por mantener la categoría en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Texas desafía dominio republicano de Trump por la economía",
+  "enlace": "https://www.lafm.com.co/internacional/texas-desafia-dominio-republicano-trump-redadas-migratorias-economia-414306",
+  "fecha": "2026-10-18T07:37:00-05:00",
+  "palabras": "Internacional,riesgo electoral,Latinoamericanos,polémica,Elecciones presidenciales,participación política,Partidos políticos,Candidatos,Políticos",
+  "lead": "Las redadas migratorias y el malestar económico impulsan a los demócratas en Texas, donde James Talarico busca arrebatarle un escaño al Partido Republicano...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Papa León XIV reapareció tras cirugía por cáncer de pulmón",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-xiv-reaparecio-tras-cirugia-cancer-tumor-414303",
+  "fecha": "2026-10-18T07:27:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Cáncer,Vaticano,Operación Quirófano,Parte médico,Tratamiento médico,pacientes,médicos,Mijaíl Gorbachov,Moscú",
+  "lead": "El papa León XIV recibió el alta médica tras una operación de pulmón y prevé retomar sus actividades mientras espera resultados de pruebas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
  }
 ]
