@@ -216,7 +216,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Gobernación de Santander",
   "lead": "El gobernador Juvenal Díaz llegó a la zona con los comandantes de la Policía y el Ejército para coordinar acciones tras el ataque atribuido al ELN. Anunció una recompensa para obtener información que permita capturar a los responsables.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Protestas en Francia, Francia",
   "lead": "El incendio que destrozó la alcaldía de Limoges, en el oeste de Francia, durante la violencia que estalló el sábado al margen de una jornada de manifestaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Machchhar, atacado con un hacha por su copiloto el pasado 30 de septiembre pidió revisar las condiciones aéreas para evitar que un hecho similar vuelva a ocurrir.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Huckabee Aseguró que los responsables deberían enfrentar “años de prisión”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "El técnico del equipo de Manizales se refirió a la polémica tras el aplazamiento del partido. También analizó la victoria sobre Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "El jefe de policía de Winter Garden indicó que el animal fue localizado, capturado y sacrificado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "Surgen dudas sobre la compra de los 17 aviones Gripen: el Gobierno revisa el contrato, pero nadie ha calculado cuánto le costaría al país romperlo o modificarlo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Las autoridades de turismo del Quindío sostienen que hubo una ocupación en alojamientos del 60% y los parques temáticos del 70% durante la semana de receso escolar",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "La revisión de cámaras de seguridad permitió identificar a un hombre que habría realizado las pintadas durante la madrugada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Conozca las opciones de pago del FNA para los colombianos en el exterior.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Las actividades ecoturísticas se retomarán el 3 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "La funcionaria recordó que la sola obstrucción de vías no justifica la intervención de la Fuerza Pública",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Repase cómo va la lucha por mantener la categoría en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "Internacional,riesgo electoral,Latinoamericanos,polémica,Elecciones presidenciales,participación política,Partidos políticos,Candidatos,Políticos",
   "lead": "Las redadas migratorias y el malestar económico impulsan a los demócratas en Texas, donde James Talarico busca arrebatarle un escaño al Partido Republicano...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -369,6 +369,105 @@
   "fecha": "2026-10-18T07:27:00-05:00",
   "palabras": "Internacional,Papa León XIV,Cáncer,Vaticano,Operación Quirófano,Parte médico,Tratamiento médico,pacientes,médicos,Mijaíl Gorbachov,Moscú",
   "lead": "El papa León XIV recibió el alta médica tras una operación de pulmón y prevé retomar sus actividades mientras espera resultados de pruebas.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Al menos 12 personas terminaron intoxicadas tras comida típica en día de la familia en Yarumal",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/al-menos-12-personas-terminaron-intoxicadas-tras-comida-tipica-en-dia-de-la-familia-en-yarumal-rg10",
+  "fecha": "2026-10-18T07:56:24-05:00",
+  "palabras": "Gobernación de Antioquia, Ministerio de Salud, Yarumal, Noticias de hoy",
+  "lead": "La administración municipal aclaró que el servicio de alimentación fue contratado con un emprendedor local y se adelantan las verificaciones para determinar las causas de la intoxicación masiva.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Autoridades capturan a tres presuntos responsables de bus bomba frente al Batallón Pichincha en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/autoridades-capturan-a-tres-presuntos-responsables-de-bus-bomba-frente-al-batallon-pichincha-en-cali-rg10",
+  "fecha": "2026-10-18T08:04:36-05:00",
+  "palabras": "Cali, atentado terrorista",
+  "lead": "El atentado se registró el pasado 24 de abril y dejó dos personas lesionadas y graves daños materiales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así es el pueblo más frío del mundo: su récord de temperatura ha sido de -71°C, ¿en dónde queda?",
+  "enlace": "https://caracol.com.co/2026/10/18/asi-es-el-pueblo-mas-frio-del-mundo-su-record-de-temperatura-ha-sido-de-71c-en-donde-queda/",
+  "fecha": "2026-10-18T08:01:08-05:00",
+  "palabras": "",
+  "lead": "En Caracol Radio le explicamos en dónde queda este lugar y por qué hace tanto frío allí. El pueblo sí está habitado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comisión de seguimiento vigilará inversión de $3,25 billones en obras del Canal del Dique",
+  "enlace": "https://caracol.com.co/2026/10/18/comision-de-seguimiento-vigilara-inversion-de-325-billones-en-obras-del-canal-del-dique/",
+  "fecha": "2026-10-18T07:57:56-05:00",
+  "palabras": "",
+  "lead": "La reactivación de los trabajos se prevé para principios de 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Solicitan investigar si hubo extralimitación de la UNDMO de la Policía en protesta social en Ibagué",
+  "enlace": "https://caracol.com.co/2026/10/18/solicitan-investigar-si-hubo-extralimitacion-de-la-undmo-de-la-policia-en-protesta-social-en-ibague/",
+  "fecha": "2026-10-18T07:49:09-05:00",
+  "palabras": "",
+  "lead": "Según el abogado, Johan Granados, se está pidiendo a la entidades encargadas de vigilar este tipo de procedimientos que se revise porqué la Policía usó la fuerza antes que el diálogo con los manifestantes en la Plaza Murillo Toro.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pakistán suspende temporalmente el comercio fronterizo con Irán por motivos de seguridad",
+  "enlace": "https://caracol.com.co/2026/10/18/pakistan-suspende-temporalmente-el-comercio-fronterizo-con-iran-por-motivos-de-seguridad/",
+  "fecha": "2026-10-18T07:49:57-05:00",
+  "palabras": "",
+  "lead": "La medida afecta el tránsito de mercancías, pero permite el paso de personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dos presos aprovecharon un aguacero para escapar en El Bagre",
+  "enlace": "https://www.lafm.com.co/orden-publico/dos-presos-aprovecharon-un-aguacero-para-escapar-414307",
+  "fecha": "2026-10-18T07:39:00-05:00",
+  "palabras": "Orden Público,Intento de fuga,Cárcel,Policía Nacional,Antioquia,Agua,Lluvias",
+  "lead": "Los fugados fueron identificados como Juan David Pineda Guarnes y Johan Sebastián Agudelo Florián, quienes permanecían bajo custodia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caen responsables de atentado contra el Batallón Pichincha",
+  "enlace": "https://www.lafm.com.co/orden-publico/capturado-alias-barbas-senalado-autor-atentado-batallon-pichincha-cali-414302",
+  "fecha": "2026-10-18T07:10:00-05:00",
+  "palabras": "Orden Público,atentado,Actos terroristas,ataque explosivo,Cali, Colombia",
+  "lead": "En las últimas horas fue capturado alias Barbas, uno de los responsables del atentado contra el Batallón Pichincha en Cali.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Defensoría advierte por riesgo ante escalada de violencia",
+  "enlace": "https://www.lafm.com.co/orden-publico/alerta-defensoria-del-puebo-riesgos-huila-conflicto-armado-414301",
+  "fecha": "2026-10-18T07:01:00-05:00",
+  "palabras": "Orden Público,Huila,Defensoría del Pueblo,Alteración al orden público,Alerta de seguridad",
+  "lead": "La zona occidente del departamento en riesgo por ataques con drones, hostigamientos, daños en viviendas y colegios.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
