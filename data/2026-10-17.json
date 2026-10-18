@@ -2779,7 +2779,7 @@
   "palabras": "Halloween, Turismo, Viral",
   "lead": "En Colombia, las ahuyamas se convierten en protagonistas del Halloween gracias al trabajo campesino y una tradición ligada a la leyenda de Jack, el hombre del farolillo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "Música, Orquesta Filarmónica de Bogotá",
   "lead": "El evento se realizará del 9 al 17 de enero de 2027. En el acto inaugural, la pianista y neurocientífica Rui Mei interpretó una obra de Johannes Brahms en un concierto que incorporó tecnología para visualizar en tiempo real indicadores de la actividad cerebral y cardíaca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "Chile, Viral, Andes chilenos, Avalancha de Nieve, Chile, Lagunas del Inca, Video",
   "lead": "La avalancha ocurrió en un centro de esquí de los Andes chilenos y sorprendió a varios excursionistas, causando la muerte de algunos y dejando a otros heridos en medio de la emergencia.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "",
   "lead": "Ambos equipos luchan por entrar a los cuadrangulares finales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "",
   "lead": "Repase las clasificaciones del campeonato en la fecha 15.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "",
   "lead": "Vea los resultados del último sorteo de las loterías de Boyacá y Cauca y conozca los números ganadores del Baloto y Baloto Revancha de este 17 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "",
   "lead": "Conozca los resultados del sorteo de este sábado 17 de octubre y descubra si es uno de los ganadores",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "",
   "lead": "La oficina del primer ministro israelí, Benjamin Netanyahu, denunció posteriormente una campaña de “difamación” contra Israel y los colonos en Cisjordania.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "",
   "lead": "Según el concejal, Javier Mora, este instituto contaría con autonomía administrativa y financiera lo que permitiría seguir fortaleciendo la atención en de los animales en la capital del Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "",
   "lead": "El Ejército atribuye preliminarmente el ataque a la estructura Jaime Martínez. Más de 200 familias enfrentan restricciones de movilidad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "",
   "lead": "El ministro de Justicia pidió a los fiscales solicitar prisión preventiva para los detenidos, a quienes calificó de personas con perfiles “particularmente violentos y peligrosos”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "",
   "lead": "El Quindío supera los 200 sindicados",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "Economía,Colpensiones,sorteos,Coljuegos,incentivo económico,Apoyo económico,vivienda,retiro,Seguro de vida,jubilación",
   "lead": "El programa Ahorrar es Ganar 2026 de Colpensiones incluye dos bonos de $217 millones para adquirir vivienda, equiparla o remodelarla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "Orden Público,Arauca,ELN,Alteración al orden público,ataque explosivo",
   "lead": "Un soldado resultó gravemente herido en un ataque con explosivos del ELN en Arauca dijo el Ejército Nacional",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2932,6 +2932,171 @@
   "fecha": "2026-10-17T18:44:00-05:00",
   "palabras": "Orden Público,Basuras,Cauca,Alteración al orden público",
   "lead": "Un nuevo ataque contra un camión de basura se produjo durante la tarde de este sábado 17 de octubre en Popayán, Cauca.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del sorteo hoy viernes 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-sorteo-hoy-viernes-17-de-octubre-de-2026-so35",
+  "fecha": "2026-10-17T21:02:24-05:00",
+  "palabras": "Chontico Día, Resultados del chance, Chances y Loterías, Chontico Noche, Resultados Chontico Noche, Resultados del chance , Resultados hoy",
+  "lead": "Conozca el número ganador de este 17 de octubre de 2026, los horarios oficiales, las modalidades de apuesta y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Noche: resultado del último sorteo de hoy, sábado 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-noche-resultado-del-ultimo-sorteo-de-hoy-sabado-17-de-octubre-de-2026-so35",
+  "fecha": "2026-10-17T21:06:06-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche, Dorado Noche, Resultados del chance , Resultados hoy , Resultados hoy Dorado Noche",
+  "lead": "El chance Dorado Noche juega los sábados, domingos y lunes festivos después de las 10:00 p. m. Revise aquí el número ganador de hoy sábado 17 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del sorteo hoy sábado 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-sorteo-hoy-sabado-17-de-octubre-de-2026-so35",
+  "fecha": "2026-10-17T21:07:29-05:00",
+  "palabras": "Sinuano noche, Chances y Loterías, Resultados del chance, Resultados del chance , Resultados hoy , Resultados hoy Sinuano Noche, Sinuano Noche",
+  "lead": "El chance Sinuano Noche es uno de los sorteos más populares entre los apostadores de la región Caribe colombiana. Consulte el número ganador del sorteo de este 17 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Último resultado Lotería de Boyacá: premio mayor y secos del sábado 17 de octubre",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/ultimo-resultado-loteria-de-boyaca-premio-mayor-y-secos-del-sabado-17-de-octubre-so35",
+  "fecha": "2026-10-17T21:07:36-05:00",
+  "palabras": "Lotería de Boyacá, Chances y Loterías, Resultado de loterías de hoy",
+  "lead": "Revise los números ganadores de los secos de $1.000, $400, $300, $100, $50, $20 y $10 millones de este sábado 17 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tragedia en una cancha de fútbol en EE. UU.: conductor irrumpe en el campo y mata a dos personas",
+  "enlace": "https://www.bluradio.com/mundo/tragedia-en-una-cancha-de-futbol-en-ee-uu-conductor-irrumpe-en-el-campo-y-mata-a-dos-personas-cb20",
+  "fecha": "2026-10-17T20:23:23-05:00",
+  "palabras": "Estados Unidos",
+  "lead": "Una jornada de un partido juvenil terminó en una tragedia en el complejo deportivo Scheels Stryker, en Wichita, Kansas, luego de que una camioneta negra ingresara a un campo de fútbol y embistiera a varias personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Videos de las manifestaciones en París, Francia: disturbios y batalla campal",
+  "enlace": "https://www.bluradio.com/mundo/videos-de-las-manifestaciones-en-paris-francia-disturbios-y-batalla-campal-so35",
+  "fecha": "2026-10-17T20:50:23-05:00",
+  "palabras": "Francia, París, Viral, protestas en parís",
+  "lead": "La jornada, que en buena parte transcurrió de manera pacífica, terminó con enfrentamientos entre manifestantes y policías, además de actos de vandalismo y saqueos en diferentes partes de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Protestas frente al Museo Nacional terminaron con intervención de unidad nacional antidisturbios",
+  "enlace": "https://caracol.com.co/2026/10/18/protestas-frente-al-museo-nacional-terminaron-con-intervencion-de-unidad-nacional-antidisturbios/",
+  "fecha": "2026-10-17T21:00:19-05:00",
+  "palabras": "",
+  "lead": "En desarrollo..",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía Nacional capturó a ‘Sergio’ en Cartagena por el delito de hurto",
+  "enlace": "https://caracol.com.co/2026/10/18/policia-nacional-capturo-a-sergio-en-cartagena-por-el-delito-de-hurto/",
+  "fecha": "2026-10-17T20:39:27-05:00",
+  "palabras": "",
+  "lead": "El sujeto, presuntamente había despojado a una persona de su teléfono celular",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Guardacostas de Cartagena incautaron cargamento con más 3.5 toneladas de cocaína",
+  "enlace": "https://caracol.com.co/2026/10/18/guardacostas-de-cartagena-incautaron-cargamento-con-mas-35-toneladas-de-cocaina/",
+  "fecha": "2026-10-17T20:34:07-05:00",
+  "palabras": "",
+  "lead": "Cinco sujetos de nacionalidad colombiana fueron capturados durante la operación",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expo Empleo SENA 2026: Talleres de orientación y ferias presenciales",
+  "enlace": "https://caracol.com.co/2026/10/18/expo-empleo-sena-2026-talleres-de-orientacion-y-ferias-presenciales/",
+  "fecha": "2026-10-17T20:31:17-05:00",
+  "palabras": "",
+  "lead": "Conozca como se llevara a cabo este espacio para encontrar una nueva oferta laboral.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Museos de arte moderno rechazan retiro de obras de Museo Nacional y exigen garantizar autonomía",
+  "enlace": "https://caracol.com.co/2026/10/18/museos-de-arte-moderno-rechazan-retiro-de-obras-de-museo-nacional-y-exigen-garantizar-autonomia/",
+  "fecha": "2026-10-17T20:18:43-05:00",
+  "palabras": "",
+  "lead": "noticia en desarrollo...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desplazamiento masivo por combates y ataques con drones en Sardinata, Norte de Santander",
+  "enlace": "https://caracol.com.co/2026/10/18/desplazamiento-masivo-por-combates-y-ataques-con-drones-en-sardinata-norte-de-santander/",
+  "fecha": "2026-10-17T20:12:19-05:00",
+  "palabras": "",
+  "lead": "La violencia también se reportó en Tibú, donde hubo enfrentamientos en la vereda Campo Tres.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Astrónomos detectan una característica inusual en una estrella",
+  "enlace": "https://www.lafm.com.co/sociedad/estrella-enana-verde-astronomos-explican-descubrimiento-universidad-de-warwick-414298",
+  "fecha": "2026-10-17T21:07:00-05:00",
+  "palabras": "Sociedad,Astronomía,Colores,estrellas,exoplanetas,sistema planetario",
+  "lead": "El análisis de una enana blanca permitió identificar cómo la composición química de su atmósfera puede alterar el color de la luz que emite.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lotería de Boyacá: resultado premio mayor hoy 17 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/loteria-de-boyaca-resultado-premio-mayor-hoy-17-de-octubre-2026-414286",
+  "fecha": "2026-10-17T20:30:00-05:00",
+  "palabras": "Sociedad,Lotería de Boyacá,resultados de lotería,Coljuegos,Juegos de azar,sorteos",
+  "lead": "Ya hay número ganador del premio mayor de la Lotería de Boyacá este sábado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Simulacro en Bogotá 2026: ¿Cuándo es y cómo participar?",
+  "enlace": "https://www.lafm.com.co/sociedad/simulacro-bogota-2026-octubre-fecha-como-prepararse-para-participar-414296",
+  "fecha": "2026-10-17T20:16:00-05:00",
+  "palabras": "Sociedad,Simulacro,Desastres naturales,Temblor,terremoto,Bogotá,Alcaldía de Bogotá,Idiger",
+  "lead": "El ejercicio busca evaluar la respuesta ante sismos, incendios e inundaciones. Los participantes tendrán que preparar sus kits y planes de emergencia.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
