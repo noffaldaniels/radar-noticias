@@ -480,7 +480,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Bucaramanga, Fiscalía General de la Nación, Policía Nacional",
   "lead": "Un juez impuso medida de aseguramiento en centro carcelario contra los cinco procesados. Alias ‘Julito’ es investigado por un homicidio que habría cometido cuando era mayor de edad y es señalado de estar relacionado con otros 19 asesinatos ocurridos cuando era menor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Chocó, Gobernación de Chocó, Ministerio de Salud, Noticias de hoy",
   "lead": "La baja disponibilidad y el deterioro de las ambulancias existentes han incrementado hasta en un 80 % las remisiones y los traslados por falta de vehículos en condiciones adecuadas, dice la Gobernación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Popayán, Cauca",
   "lead": "De acuerdo con la empresa, durante los últimos seis meses se han presentado amenazas e intimidaciones que serían atribuidas a grupos armados ilegales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Noticias de hoy, Emergencias por lluvias, Atlántico, Barranquilla, Costa Caribe",
   "lead": "Asegura la Alcaldía que construcciones ilegales taponaron y desviaron los cauces de varios arroyos, agravando la emergencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Robos, Periodismo",
   "lead": "La periodista denunció que hombres armados la amenazaron durante un intento de robo mientras esperaba un semáforo en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "El siniestro vial se reportó entre la vereda La Piedra y Llanos de Cuivá, entre un bus y una motocicleta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "Según Andrés Ramírez, magistrado del Tribunal Ético de Enfermería, más de 100 mil familias en el departamento dependen de los ingresos del trabajo en el sector salud que enfrenta una compleja crisis por la falta de pago.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Ejército y Fundación Arturo Calle construyeron cuatro estufas para mejorar las condiciones de vida de hogares rurales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "El mandatario estadounidense pidió reforzar los controles fronterizos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "Durante el incidente, ocurrido el sábado en Taybeh, también fue golpeado un alcalde francés cuando los diplomáticos visitaban la zona.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "El técnico del Medellín habló tras la derrota ante Once Caldas y aseguró que sigue con fuerzas al frente del equipo, esperando cumplir el objetivo de clasificar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Según la Policía, la estructura intimidaba a comerciantes y transportadores de La Playa y Puerto Colombia para exigir pagos de hasta $5 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "El técnico samario se refirió a la victoria ante Jaguares, dejando claro que si bien fue un buen partido, estuvo distante de ser un juego “redondo”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "Sociedad,Trasplante,Donaciones,Riñón,Cardiopatías,Cuidados intensivos,Cirugía,Operación Quirófano,Médicos especialistas,pacientes,cuidados especiales",
   "lead": "El doctor Gilberto Andrés Mejía Hernández, médico cirujano general y de trasplantes, explicó cuáles son los principales obstáculos para aumentar la donació...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "Internacional,París,Manifestantes,Emmanuel Macron,Educación,Jóvenes,profesores,Problemas económicos,Economistas,enfrentamiento,actos violentos",
   "lead": "La socióloga Juana Afanador, formada en la Escuela de Altos Estudios en Ciencias Sociales de París, explicó que las movilizaciones responden a inconformida...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,6 +645,215 @@
   "palabras": "Actualidad,Alcaldía de Barranquilla,aeropuerto,infraestructura,Transporte aéreo,Aerocivil,Ministerio de Transporte,Migración Colombia,Mantenimiento,Acuerdo",
   "lead": "El alcalde Char destacó la instalación de nuevos puestos de Migración, el sistema Biomig y una sala de espera para 680 pasajeros en el Cortissoz.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Casi la mitad de vehículos evade el SOAT: Autos y Motos, 17 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/autos-y-motos/casi-la-mitad-de-vehiculos-evade-el-soat-autos-y-motos-17-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-18T09:30:19-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "La pasión por el mundo de los vehículos en Autos y Motos del 17 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cura murió luego de que le cayera encima una cruz mientras daba una misa: quedó en video",
+  "enlace": "https://www.bluradio.com/sociedad/cura-murio-luego-de-que-le-cayera-encima-una-cruz-mientras-daba-una-misa-quedo-en-video-rs15",
+  "fecha": "2026-10-18T09:19:25-05:00",
+  "palabras": "Viral, Video, Misa",
+  "lead": "El hecho quedó registrado durante una transmisión por Facebook y generó gritos de angustia entre los feligreses. La Arquidiócesis de Guayaquil confirmó la muerte y lamentó lo ocurrido.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Se fugaron tres detenidos en El Bagre: recapturaron a uno y capturaron a presunto cómplice",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/se-fugaron-tres-detenidos-en-el-bagre-recapturaron-a-uno-y-capturaron-a-presunto-complice-rg10",
+  "fecha": "2026-10-18T09:40:19-05:00",
+  "palabras": "Policía Nacional, El Bagre, Antioquia, Noticias de hoy",
+  "lead": "Dos hombres continúan prófugos tras escapar de la estación de Policía. Las autoridades investigan cómo se habría coordinado la evasión y la presunta ayuda que recibieron desde el exterior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Empresa Concorde, a la que el ELN le quemó un bus en Santander: \"Tememos por nuestras vidas\"",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/empresa-concorde-a-la-que-el-eln-le-quemo-un-bus-en-santander-tememos-por-nuestras-vidas-rg10",
+  "fecha": "2026-10-18T09:52:21-05:00",
+  "palabras": "Santander, Gobernación de Santander, Noticias de hoy, Policía Nacional, Ejército Nacional",
+  "lead": "Líneas Concorde denunció amenazas y extorsiones contra sus directivos y trabajadores y pidió protección urgente a las autoridades. La compañía reporta cuatro vehículos incinerados y otro baleado en el corredor que conecta a Bogotá con Cúcuta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Invías anuncia recursos por $220.000 millones para la variante de Sogamoso",
+  "enlace": "https://caracol.com.co/2026/10/18/invias-anuncia-recursos-por-220000-millones-para-la-variante-de-sogamoso/",
+  "fecha": "2026-10-18T09:50:16-05:00",
+  "palabras": "",
+  "lead": "Un equipo técnico adelanta el levantamiento topográfico mientras Invías recoge las inquietudes ciudadanas sobre los aspectos técnicos y prediales de la obra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En el Quindío alertan por las lluvias que pueden agravar afectaciones en colegios por terremoto",
+  "enlace": "https://caracol.com.co/2026/10/18/en-el-quindio-alertan-por-las-lluvias-que-pueden-agravar-afectaciones-en-colegios-por-terremoto/",
+  "fecha": "2026-10-18T09:35:29-05:00",
+  "palabras": "",
+  "lead": "Desde el sindicato de educadores del Quindío evidencian la preocupación por las lluvias que podrían agravar las afectaciones de los colegios tras el terremoto",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rebajan sanción a Real Cartagena: jugará ante Patriotas con público en tribunas Norte y Oriental",
+  "enlace": "https://caracol.com.co/2026/10/18/rebajan-sancion-a-real-cartagena-jugara-ante-patriotas-con-publico-en-tribunas-norte-y-oriental/",
+  "fecha": "2026-10-18T09:26:58-05:00",
+  "palabras": "",
+  "lead": "La gestión de boletería será a través del mismo operador Fanki",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caramanta decretó toque de queda nocturno para menores por el consumo de alucinógenos, licor y riñas",
+  "enlace": "https://caracol.com.co/2026/10/18/caramanta-decreto-toque-de-queda-nocturno-para-menores-por-el-consumo-de-alucinogenos-licor-y-rinas/",
+  "fecha": "2026-10-18T09:26:05-05:00",
+  "palabras": "",
+  "lead": "La medida tomada por las autoridades locales se decidió luego de varios comités de seguridad en los que analizaron varias situaciones evidenciadas como riñas frecuentes.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nos vamos a paro del transporte, el 27 de octubre Ibagué estará bloqueada: líder del gremio de taxis",
+  "enlace": "https://caracol.com.co/2026/10/18/nos-vamos-a-paro-del-transporte-el-27-de-octubre-ibague-estara-bloqueada-lider-del-gremio-de-taxis/",
+  "fecha": "2026-10-18T09:22:52-05:00",
+  "palabras": "",
+  "lead": "Según Álvaro Tapias, vocero de los taxistas de Ibagué, se ven obligados a esta protesta por la falta de control al transporte ilegal que los tiene al borde de la quiebra.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque a bus en Santander: anuncian recompensa y habrá consejo de seguridad en Cerrito",
+  "enlace": "https://caracol.com.co/2026/10/18/ataque-a-bus-en-santander-anuncian-recompensa-y-habra-consejo-de-seguridad-en-cerrito/",
+  "fecha": "2026-10-18T09:18:22-05:00",
+  "palabras": "",
+  "lead": "Este domingo se realizará un consejo de seguridad en Cerrito, Santander, tras el ataque al bus de servicio público en el páramo del Almorzadero. Las autoridades investigan la posible participación del ELN y coordinan operativos militares y policiales en la zona.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría abre investigación a Luis Alfonso Martínez Chimenty y otros exdirectivos de Aerocivil",
+  "enlace": "https://caracol.com.co/2026/10/18/procuraduria-abre-investigacion-a-luis-alfonso-martinez-chimenty-y-otros-exdirectivos-de-aerocivil/",
+  "fecha": "2026-10-18T09:15:04-05:00",
+  "palabras": "",
+  "lead": "El ente de control indaga presuntas irregularidades en la adquisición y puesta en servicio de comunicaciones",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Madres del Catatumbo pide respetar la vida de joven retenido por actores armados",
+  "enlace": "https://caracol.com.co/2026/10/18/madres-del-catatumbo-pide-respetar-la-vida-de-joven-retenido-por-actores-armados/",
+  "fecha": "2026-10-18T09:08:08-05:00",
+  "palabras": "",
+  "lead": "La organización hizo un llamado humanitario para que John Martin Guerrero Barbosa regrese sano y salvo con su familia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Claridad y rigurosidad técnica: así gestiona Sencia la operación del Estadio El Campín",
+  "enlace": "https://www.lafm.com.co/deportes/sencia-gestion-recuperacion-grama-el-campin-bogota-414321",
+  "fecha": "2026-10-18T09:45:00-05:00",
+  "palabras": "Deportes,El Campín,Estadio El Campín,Bogotá,Fútbol",
+  "lead": "Se llevan procesos de descompactación, inyección de aire, aireación de la capa vegetal y monitoreo permanente de la humedad del césped.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella continúa ofensiva contra el narcotráfico",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-ofensiva-narcoterrorismo-disidencias-farc-414316",
+  "fecha": "2026-10-18T09:33:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Narcotráfico,Estupefacientes,Operación antidrogas,Antinarcóticos,Disidentes de las Farc,Grupos Armados Residuales,Cabecilla de grupo armado,Operativos militares,Incautación de explosivos,Colombia",
+  "lead": "En el Meta cayó alias “Junior Rojas”, señalado como segundo cabecilla y jefe financiero de una estructura de alias Calarcá.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Victoria's Secret Fashion Show 2026: Hora y dónde ver",
+  "enlace": "https://www.lafm.com.co/entretenimiento/victorias-secret-fashion-show-2026-hora-canal-para-ver-colombia-414319",
+  "fecha": "2026-10-18T09:24:00-05:00",
+  "palabras": "Entretenimiento,Victoria's Secret,Modelo,Los Ángeles,Karol G",
+  "lead": "El Victoria’s Secret Fashion Show 2026 será este 18 de octubre en Los Ángeles, con modelos icónicas, nuevas figuras y cuatro artistas invitadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cafeteros de Risaralda enfrentan pérdidas en la cosecha",
+  "enlace": "https://www.lafm.com.co/economia/cafeteros-risaralda-perdidas-clima-broca-costos-recoleccion-414313",
+  "fecha": "2026-10-18T08:40:00-05:00",
+  "palabras": "Economía,Eje Cafetero,Federación Nacional de Cafeteros,Risaralda,Caficultores,Pérdidas económicas,mal clima,Tasa Representativa del Mercado,Terremoto en Colombia",
+  "lead": "Las afectaciones en la calidad del grano, el encarecimiento de la recolección y la caída de los ingresos tienen en alerta a los productores",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ministerio de Salud propone nuevas reglas para hospitales y clínicas",
+  "enlace": "https://www.lafm.com.co/sociedad/minsalud-emergencias-salud-hospitales-clinicas-reglas-terremotos-atencion-pacientes-medicamentos-414310",
+  "fecha": "2026-10-18T08:27:00-05:00",
+  "palabras": "Sociedad,Ministerio de Salud,Emergencia,medidas sanitarias,Desastres naturales,proceso de reorganización,pacientes,Superintendencia Nacional de Salud,Vigilancia,médicos,Cuidados intensivos",
+  "lead": "El proyecto de resolución busca unificar las condiciones para reorganizar servicios, ampliar la capacidad hospitalaria, convertir áreas asistenciales, habi...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hacinamiento y problemas de salud en carceletas en Atlántico",
+  "enlace": "https://www.lafm.com.co/actualidad/diputada-atlantico-alerta-hacinamiento-estaciones-policia-carceletas-414309",
+  "fecha": "2026-10-18T08:19:00-05:00",
+  "palabras": "Actualidad,Hacinamiento,Barranquilla,Detenidos,Salubridad,Derechos humanos,violaciones,Sistema carcelario,reclusos,Cárcel,medidas sanitarias",
+  "lead": "Denuncian las precarias condiciones de reclusión en la Estación de Policía de San José y alertó sobre los problemas sanitarios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Preocupan ataques contra camiones de basura en Popayán",
+  "enlace": "https://www.lafm.com.co/actualidad/empresa-aseo-popayan-cauca-ante-quema-de-camion-recolector-eln-414304",
+  "fecha": "2026-10-18T07:27:00-05:00",
+  "palabras": "Actualidad,Popayán,Cauca,ataque explosivo,ELN",
+  "lead": "Hay preocupación por la quema de camiones de basura en la ciudad de Popayán, Cauca, durante el último año.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
