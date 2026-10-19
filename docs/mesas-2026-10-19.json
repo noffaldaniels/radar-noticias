@@ -188,6 +188,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Informó que el Congreso tiene hasta el 20 de octubre para aprobar el Presupuesto General, donde el servicio de la deuda absorbe 155 billones y se evalúa trasladar 2 billones a salud; de no aprobarse, saldrá por decreto presidencial.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:11",
+   "quien": "Paula Quintero, periodista de Noticias La FM con Juan Lozano",
+   "que": "El presidente Abelardo de la Espriella anunció que el 30 de noviembre firmará un decreto de soberanía marítima para delimitar oficialmente las aguas del archipiélago de San Andrés, un trazado pendiente desde hace 48 años.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:13",
+   "quien": "Paula Quintero, periodista de Noticias La FM con Juan Lozano",
+   "que": "El presidente Abelardo de la Espriella confrontó en la base naval de San Andrés a la gobernadora Girley Ordóñez y a la representante Elizabeth Jay-Pang Díaz, señalando presuntas trabas y corrupción frente a la intervención del hospital departamental.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:17",
+   "quien": "Santiago Ángel, periodista de Noticias La FM con Juan Lozano",
+   "que": "Esta semana continuarán en la Corte Suprema de Justicia las indagaciones y versiones de los congresistas Andrés Calle, Iván Name y Wadith Manzur por el caso de corrupción en la UNGRD.",
+   "resaltar": false
   }
  ],
  "avisos": []
