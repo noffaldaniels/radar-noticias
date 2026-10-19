@@ -2625,7 +2625,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Dorado Noche",
   "lead": "El sorteo del Dorado Noche se realiza los domingos y festivos a las 7:25 p. m. Consulte las cifras ganadoras de este domingo 18 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2636,7 +2636,7 @@
   "palabras": "Viral, Accidente de tránsito",
   "lead": "Las imágenes muestran el momento en que el conductor de la moto impacta contra una camioneta y sale proyectado por encima del vehículo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2647,7 +2647,7 @@
   "palabras": "",
   "lead": "Se trata de un iPad de última generación avaluado en más de ocho millones de pesos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "",
   "lead": "Reviva el minuto a minuto de la pasarela más popular aquí",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "",
   "lead": "Siga aquí el minuto a minuto de la movilidad en Bogotá. Cierres de estaciones de TransMilenio, bloqueos y más:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "",
   "lead": "El volante antioqueño envió un mensaje a los hinchas y aseguró que asumen la responsabilidad de los malos resultados recientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2690,6 +2690,215 @@
   "fecha": "2026-10-18T17:23:00-05:00",
   "palabras": "Actualidad,San Andrés,Aerocivil,ANI,Ministerio de Transporte,Abelardo de la Espriella,aeropuerto,Colombia",
   "lead": "Las autoridades gubernamentales se refirieron a cómo actuarán para la recuperación de las instalaciones.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bus sin frenos rodó a un abismo en Tona, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/bus-sin-frenos-rodo-a-un-abismo-en-tona-santander-rg10",
+  "fecha": "2026-10-18T19:20:09-05:00",
+  "palabras": "Santander, Gobernación de Santander, Noticias de hoy, Blu Radio",
+  "lead": "Entre los lesionados hay menores de edad y personas con heridas de gravedad. El vehículo de servicio especial rodó cerca de 50 metros por la vía que conduce a la vereda Vegas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T19:12:19-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Noche",
+  "lead": "El sorteo del Chontico Noche se realiza todos los días, con horarios que varían según la jornada. Consulte los resultados de este domingo 18 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno pide intervenir San Andrés desde Bogotá para frenar un “entramado de corrupción”",
+  "enlace": "https://www.bluradio.com/nacion/gobierno-pide-intervenir-san-andres-desde-bogota-para-frenar-un-entramado-de-corrupcion-rg10",
+  "fecha": "2026-10-18T19:21:45-05:00",
+  "palabras": "Abelardo De La Espriella, San Andrés y Providencia",
+  "lead": "Una comisión conformada por la Procuraduría, Contraloría y Fiscalía llevaría desde Bogotá las investigaciones que hoy avanzan en la isla, según el pedido del presidente De La Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T19:50:21-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Caribeña noche",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este domingo 18 de octubre de 2026 y conozca las modalidades de apuesta disponibles para verificar si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T19:57:21-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano noche",
+  "lead": "El chance Sinuano Noche cuenta con diferentes modalidades de apuesta y una quinta balota que complementa el resultado principal. Consulte los números ganadores de este domingo 18 de octubre de 2026 y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Luna, resultado del último sorteo hoy domingo 18 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-luna-resultado-del-ultimo-sorteo-hoy-domingo-18-de-octubre-de-2026-so35",
+  "fecha": "2026-10-18T20:08:10-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Super Astro Sol",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este domingo 18 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta coinciden con la combinación ganadora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Secretaría de Transparencia pidió grupo conjunto para investigar presunta corrupción en San Andrés",
+  "enlace": "https://caracol.com.co/2026/10/19/secretaria-de-transparencia-pidio-grupo-conjunto-para-investigar-presunta-corrupcion-en-san-andres/",
+  "fecha": "2026-10-18T19:04:29-05:00",
+  "palabras": "",
+  "lead": "Pidió que el grupo conjunto esté conformado por la Procuraduría, Contraloría y Fiscalía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Veronica Alcocer negó haber transportado US$2,5 millones desde Venezuela y respondió a señalamientos",
+  "enlace": "https://caracol.com.co/2026/10/19/veronica-alcocer-nego-haber-transportado-us25-millones-desde-venezuela-y-respondio-a-senalamientos/",
+  "fecha": "2026-10-18T20:00:16-05:00",
+  "palabras": "",
+  "lead": "Según la exprimera dama, ella viajó con su cartera de mano y no transportó maletas, como lo señaló su exasesora Eva Ferrer.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO | Alocución del presidente Abelardo De la Espriella HOY 18 de octubre",
+  "enlace": "https://caracol.com.co/2026/10/19/en-vivo-alocucion-del-presidente-abelardo-de-la-espriella-hoy-18-de-octubre/",
+  "fecha": "2026-10-18T20:01:38-05:00",
+  "palabras": "",
+  "lead": "Este domingo 18 de octubre, el presidente Abelardo de la Espriella se dirigió a los colombianos en medio de una alocución presidencial",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Cali Vs. Junior de Barranquilla: Siga la transmisión y el minuto a minuto del partido",
+  "enlace": "https://caracol.com.co/2026/10/19/en-vivo-cali-vs-junior-de-barranquilla-siga-la-transmision-y-el-minuto-a-minuto-del-partido/",
+  "fecha": "2026-10-18T20:15:07-05:00",
+  "palabras": "",
+  "lead": "El conjunto barranquillero enfrentará a los azucareros con el fin de mantener las esperanzas de entrar a los ocho.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Primer ministro de Albania se niega a dimitir y las protestas entran en su sexto día",
+  "enlace": "https://caracol.com.co/2026/10/19/primer-ministro-de-albania-se-niega-a-dimitir-y-las-protestas-entran-en-su-sexto-dia/",
+  "fecha": "2026-10-18T19:14:06-05:00",
+  "palabras": "",
+  "lead": "272 personas han resultado heridas en los enfrentamientos, incluidos 169 agentes de policía, según el ministerio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Equipos de vigilancia: la apuesta de Santander para recuperar la tranquilidad en el Magdalena Medio",
+  "enlace": "https://caracol.com.co/2026/10/19/equipos-de-vigilancia-la-apuesta-de-santander-para-recuperar-la-tranquilidad-en-el-magdalena-medio/",
+  "fecha": "2026-10-18T19:04:02-05:00",
+  "palabras": "",
+  "lead": "Los nuevos equipos permitirán realizar reconocimientos aéreos, ampliar la vigilancia y mejorar la comunicación entre las unidades de la Fuerza Pública que trabajan en el territorio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Avión de Austrian Airlines con ruta Tel Aviv a Viena aterriza en Sofía tras una amenaza",
+  "enlace": "https://caracol.com.co/2026/10/18/avion-de-austrian-airlines-con-ruta-tel-aviv-a-viena-aterriza-en-sofia-tras-una-amenaza/",
+  "fecha": "2026-10-18T18:58:51-05:00",
+  "palabras": "",
+  "lead": "Los 51 pasajeros y seis tripulantes fueron evacuados mientras las autoridades inspeccionaban el avión, sin que hasta el momento se haya confirmado la existencia de explosivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente de Cámara de Representantes de EEUU expresa preocupación por exenciones a Rusia",
+  "enlace": "https://caracol.com.co/2026/10/18/presidente-de-camara-de-representantes-de-eeuu-expresa-preocupacion-por-exenciones-a-rusia/",
+  "fecha": "2026-10-18T18:56:28-05:00",
+  "palabras": "",
+  "lead": "El líder republicano advirtió sobre las posibles “consecuencias no deseadas” de la medida y señaló que es necesario hablar con el mandatario sobre sus implicaciones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así es como alimentos ultraprocesados pueden dañar el cerebro",
+  "enlace": "https://www.lafm.com.co/sociedad/estudio-advierte-por-consumo-excesivo-de-ultraprocesados-danos-cerebrales-414360",
+  "fecha": "2026-10-18T19:21:00-05:00",
+  "palabras": "Sociedad,Salud,Comida,Investigaciones,Ciencia",
+  "lead": "La alimentación excesiva de alimentos ultra procesados tiene efecto directos en el aumento de la grasa corporal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Verónica Alcocer responde acusaciones de Eva Ferrer: niega haber traído de Venezuela 2.5 millones de dólares",
+  "enlace": "https://www.lafm.com.co/politica/veronica-alcocer-responde-acudaciones-eva-ferrer-niega-haber-traido-25-millones-de-dolares-venezuela-414359",
+  "fecha": "2026-10-18T19:13:00-05:00",
+  "palabras": "Política,Verónica Alcocer,Acusaciones,Mentiras,Falsa denuncia,Falsos rumores,Falso testimonio",
+  "lead": "Aseguró que cuando viajó al vecino país lo hizo con una cartera de mano y regresó con la misma cartera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"Los Caminos del Tigre\", la nueva estrategia vial del Gobierno: ¿En qué consiste?",
+  "enlace": "https://www.lafm.com.co/actualidad/los-caminos-del-tigre-estrategia-vial-del-gobierno-414358",
+  "fecha": "2026-10-18T18:46:00-05:00",
+  "palabras": "Actualidad,obras en vías,vías,intervención,Rendición de cuentas,Veeduría ciudadana,Secretario de Transparencia de Presidencia,Plan Nacional de Desarrollo,Reforma Rural Integral,Proceso de Paz,Ministerio de Transporte",
+  "lead": "La iniciativa ya tiene el respaldo de algunos líderes políticos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Erling Haaland es Argentino: así lo demostró en redes sociales",
+  "enlace": "https://www.lafm.com.co/entretenimiento/arling-haaland-manchester-city-es-argentino-asi-lo-demostro-en-redes-sociales-414357",
+  "fecha": "2026-10-18T18:11:00-05:00",
+  "palabras": "Entretenimiento,Fútbol,Erling Haaland,Argentina,Selección Argentina,Noruega,Manchester City",
+  "lead": "El delantero que milita para e Manchester City hizo un guiño a sus excompañeros de equipo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Abelardo pide investigar presuntas irregularidades en San Andrés",
+  "enlace": "https://www.lafm.com.co/politica/corrupcion-san-andres-contratacion-publica-secretaria-procuraduria-414349",
+  "fecha": "2026-10-18T16:12:00-05:00",
+  "palabras": "Política,Corrupción,Abelardo de la Espriella,San Andrés,Providencia,Irregularidades en contratos",
+  "lead": "Transparencia solicitó investigar en San Andrés: Procuraduría, Contraloría y Fiscalía coordinarán desde Bogotá por presuntas irregularidades en contratació...",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
