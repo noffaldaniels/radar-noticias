@@ -90,6 +90,27 @@
    "quien": "Nicolás Rodríguez, periodista de Mañanas Blu",
    "que": "Reportó la captura de alias 'Mueco', presunto integrante de la red criminal 'Los Puyicas' con injerencia en Flandes (Tolima) y Girardot. El detenido tenía cuatro anotaciones por homicidio y era requerido por el asesinato del líder Harold Yoel Jiménez.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:51",
+   "quien": "Javier Bustos, vocero de Observadores Colombia",
+   "que": "Reportó que en el país se han registrado 100 masacres en lo corrido del año, destacando que en la región Caribe han ocurrido 20 casos con 70 víctimas mortales, de las cuales 9 sucedieron en el departamento del Atlántico.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:53",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que las autoridades anunciaron una recompensa de hasta 50 millones de pesos para dar con los responsables de la incineración de un bus con 44 pasajeros en el páramo del Almorzadero, hecho atribuido preliminarmente al ELN.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:55",
+   "quien": "Diego Armando Rivera, director de la Unidad de Gestión del Riesgo de Manizales",
+   "que": "Confirmó la entrega de la primera partida de recursos del Gobierno Nacional consistente en subsidios de 1.050.000 pesos a cerca de 2.200 familias damnificadas por el terremoto del pasado 10 de agosto.",
+   "resaltar": false
   }
  ],
  "avisos": []
