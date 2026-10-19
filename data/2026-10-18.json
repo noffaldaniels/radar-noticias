@@ -2911,7 +2911,7 @@
   "palabras": "Barbie, Viral",
   "lead": "Durante años, las fotografías de Valeria Lukyanova han llamado la atención por su parecido con la imagen de la muñeca Barbie.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "Abelardo De La Espriella, San Andrés y Providencia",
   "lead": "El mandatario anunció que el próximo 30 de noviembre expedirá el decreto de líneas de base del archipiélago y presentó medidas para fortalecer la soberanía marítima, la seguridad y la actividad económica en la región.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2933,7 +2933,7 @@
   "palabras": "",
   "lead": "El jefe de Estado agregó que las nuevas coordenadas quedarán oficializadas en las cartas náuticas de Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2944,7 +2944,7 @@
   "palabras": "",
   "lead": "El Ministro del Interior, Rodrigo Lara, respondió por la polémica de la puesta en marcha del nuevo decreto para intervenir la protesta social en el país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2955,7 +2955,7 @@
   "palabras": "",
   "lead": "Un estudio realizado en adultos mayores sugiere la existencia de un vínculo entre las siestas frecuentes en el día y el riesgo de padecer demencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2966,7 +2966,7 @@
   "palabras": "Política,Verónica Alcocer,Gustavo Petro,Divorcio",
   "lead": "Asegura que Petro es un buen padre y que tiene una buena relación personal con él.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2977,6 +2977,39 @@
   "palabras": "Política,Abelardo de la Espriella,San Andrés,Colombia,Presidencia de la República,Región Caribe",
   "lead": "El mandatario emitió su más reciente alocución desde la isla y dijo que combatiría la ilegalidad.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La grave situación de orden público en Linares, Nariño, tiene confinadas a 400 personas",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/la-grave-situacion-de-orden-publico-en-linares-narino-tiene-confinadas-a-400-personas-rg10",
+  "fecha": "2026-10-18T21:23:11-05:00",
+  "palabras": "Nariño",
+  "lead": "De acuerdo con la información oficial de la Alcaldía Municipal de Linares, desde el viernes 16 de octubre se intensificaron los combates entre los grupos armados ilegales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lula y Flávio Bolsonaro chocan en debate por las sospechas de corrupción de sus entornos",
+  "enlace": "https://www.bluradio.com/mundo/lula-y-flavio-bolsonaro-chocan-en-debate-por-las-sospechas-de-corrupcion-de-sus-entornos-cb20",
+  "fecha": "2026-10-18T21:19:56-05:00",
+  "palabras": "Lula Da Silva, Luiz Inacio Lula da Silva, Flávio Bolsonaro",
+  "lead": "Los dos candidatos se atacaron mutuamente y se interrumpieron durante el primer debate en esta campaña electoral, retransmitido en la cadena Band, con las sospechas que pesan sobre algunos de sus allegados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Fe clasificó a los cuartos de final de la Libertadores Femenina: Así están las posiciones",
+  "enlace": "https://caracol.com.co/2026/10/19/santa-fe-clasifico-a-los-cuartos-de-final-de-la-libertadores-femenina-asi-estan-las-posiciones/",
+  "fecha": "2026-10-18T21:15:06-05:00",
+  "palabras": "",
+  "lead": "Las Leonas lograron su segunda victoria en el torneo tras remontar ante Colo Colo de Chile.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
