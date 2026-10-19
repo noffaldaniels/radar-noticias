@@ -271,7 +271,7 @@
   "palabras": "Ministerio de Educación, Educación, Universidad Industrial de Santander, Bucaramanga, Málaga, Santander, Gobernación de Santander,  UIS",
   "lead": "La sesión también incluyó la posesión de Edna Mireya Uribe Salamanca como representante de los profesores ante el Consejo Superior de la UIS.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "Papa León XIV, Roma, Vaticano",
   "lead": "El pontífice permanecerá en el Vaticano, según las citadas fuentes, y no se desplazará esta semana a la localidad de Castelgandolfo -a unos 30 kilómetros de Roma- como solía hacer antes de su operación para descansar la tarde del lunes y el martes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "Francia, Emmanuel Macron, París",
   "lead": "\"Pedí a los prefectos decretar varios toques de queda esta noche, toques de queda parciales\", anunció el jefe de gobierno centroderechista tras una reunión de crisis, sin precisar en qué lugares se aplicará esta medida.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "Volkswagen, Industria automotriz",
   "lead": "Según el medio que reveló la información, la decisión supondría una pérdida real de ingresos de alrededor del 10 %.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "Protestas en Colombia, Transmilenio",
   "lead": "Bogotá tendrá marchas, plantones y eventos culturales del 19 al 25 de octubre; consulte los horarios y puntos de encuentro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "Elon Musk, SpaceX, Tecnología, Estados Unidos",
   "lead": "La propuesta plantea un esquema de distribución masiva de capital privado que, según estimaciones preliminares basadas en la valoración actual de la firma, representaría un valor económico superior a los 9.000 millones de dólares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "La administración municipal respondió y aseguró que la atención de las emergencias no se ha suspendido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "La situación se registra en un tramo estratégico de la vía Panamericana, que conecta diferentes municipios del Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "El técnico del Tolima dejó un mensaje a sus dirigidos tras caer en el cierre del partido frente a Águilas Doradas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "La carretera central registra brotes de inseguridad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "Entre los capturados está alias ‘Majiño’, señalado como segundo cabecilla del frente 57 ‘Yair Bermúdez’",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "La estrategia tiene actividades previstas durante los próximos 10 años y revisiones periódicas bianuales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "El ciudadano colombiano, al parecer, residía desde hace unos años en la capital de Risaralda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,6 +425,105 @@
   "palabras": "",
   "lead": "La operación fue liderada por tropas del Gaula Militar, donde fue rescatado el empresario Sergio Pablo Gutiérrez Mejía.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Campaña de la Policía de Santander en Topocoro para evitar extorsiones y secuestros",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/campana-de-la-policia-de-santander-en-topocoro-para-evitar-extorsiones-y-secuestros-rg10",
+  "fecha": "2026-10-19T07:11:21-05:00",
+  "palabras": "Bucaramanga, Santander, Embalses, Secuestro, Blu Radio",
+  "lead": "Turistas y comerciantes recibieron recomendaciones para prevenir delitos como la extorsión carcelaria, la falsa encomienda y el falso servicio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lucas cumplió sueño de ver al Atlético Bucaramanga tras alta médica: “Aplausos de pie”",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/lucas-cumplio-sueno-de-ver-al-atletico-bucaramanga-tras-alta-medica-aplausos-de-pie-rg10",
+  "fecha": "2026-10-19T06:52:39-05:00",
+  "palabras": "Bucaramanga, Salud, Atlético Bucaramanga, Blu Radio, Noticias de hoy",
+  "lead": "La visita del pequeño al estadio se convirtió en una experiencia para una familia que durante semanas concentró sus esfuerzos en conseguir atención médica y superar una de las etapas más difíciles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Emotiva despedida a Diego Acevedo, dragoneante del Inpec asesinado en Girón",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/emotiva-despedida-a-diego-acevedo-dragoneante-del-inpec-asesinado-en-giron-rg10",
+  "fecha": "2026-10-19T07:08:28-05:00",
+  "palabras": "Girón, Cárceles, Inpec, Blu Radio, Noticias de hoy",
+  "lead": "Su sepelio estuvo marcado por el dolor de quienes compartieron con él en el ámbito familiar, en su trabajo en el sistema penitenciario y en el emprendimiento gastronómico que logró consolidar.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Secretaría de Educación de Bucaramanga interviene en la situación del Salesiano Eloy Valenzuela",
+  "enlace": "https://caracol.com.co/2026/10/19/secretaria-de-educacion-de-bucaramanga-interviene-en-la-situacion-del-salesiano-eloy-valenzuela/",
+  "fecha": "2026-10-19T07:02:55-05:00",
+  "palabras": "",
+  "lead": "El pronunciamiento se conoce en medio de las críticas al rector del plantel y las solicitudes de algunos integrantes de la comunidad educativa para que deje el cargo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación de Santander anuncia “ofensiva de seguridad” en la provincia de García Rovira",
+  "enlace": "https://caracol.com.co/2026/10/19/gobernacion-de-santander-anuncia-ofensiva-de-seguridad-en-la-provincia-de-garcia-rovira/",
+  "fecha": "2026-10-19T07:02:26-05:00",
+  "palabras": "",
+  "lead": "Las autoridades tomaron decisiones luego de la incineración de un bus de la empresa Concorde en el páramo del Almorzadero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ingreso Mínimo Garantizado en Bogotá: más de 190.000 hogares recibirán pagos en octubre",
+  "enlace": "https://caracol.com.co/2026/10/19/ingreso-minimo-garantizado-en-bogota-mas-de-190000-hogares-recibiran-pagos-en-octubre/",
+  "fecha": "2026-10-19T06:56:38-05:00",
+  "palabras": "",
+  "lead": "El Distrito destinará más de $45.000 millones para este ciclo de transferencias económicas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias ‘Paciencia’ habría huido con $10.000 millones de disidencias FARC de ‘Mordisco’",
+  "enlace": "https://caracol.com.co/2026/10/19/alias-paciencia-habria-huido-con-10000-millones-de-disidencias-farc-de-mordisco/",
+  "fecha": "2026-10-19T06:54:15-05:00",
+  "palabras": "",
+  "lead": "Así lo advierte un informe de inteligencia militar en poder de las autoridades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a 22 personas e incautó más de 280 kilos de marihuana en el Huila durante fin de semana",
+  "enlace": "https://caracol.com.co/2026/10/19/capturaron-a-22-personas-e-incauto-mas-de-280-kilos-de-marihuana-en-el-huila-durante-fin-de-semana/",
+  "fecha": "2026-10-19T06:49:05-05:00",
+  "palabras": "",
+  "lead": "Los controles dejaron cuatro armas incautadas, seis motos recuperadas y 128 comparendos por convivencia en el Huila.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hospital de San Andrés: equipos nuevos y contratos externos",
+  "enlace": "https://www.lafm.com.co/politica/hospital-san-andres-equipos-nuevos-contratos-externos-presunta-corrupcion-414365",
+  "fecha": "2026-10-19T06:48:00-05:00",
+  "palabras": "Política,intervención,Irregularidades en contratos,Conflicto de intereses,Investigaciones,Irregularidades en manejo de recursos,Detrimento patrimonial,investigados,Acusaciones,Funcionarios denunciados,Rendición de cuentas",
+  "lead": "El caso se conoció tras el episodio en el que el presidente de la República increpó públicamente a la gobernadora y a una representante a la Cámara.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
