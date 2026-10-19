@@ -920,7 +920,7 @@
   "palabras": "Lotería de Boyacá, Chances y Loterías, Resultado de loterías de hoy",
   "lead": "El sorteo 4646 entregó el premio mayor de $15.000 millones al número 5480 de la serie 426. También se conocieron los demás premios y el lanzamiento adicional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "Accidente de tránsito, Santander, Blu Radio, Hospital Universitario de Santander, Noticias de hoy",
   "lead": "El accidente dejó 10 personas heridas en una vía terciaria que comunica al sector de Carrizal con la vereda Vegas. Los lesionados fueron trasladados al Hospital Universitario de Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "ELN, Drones, Ejército Nacional, Policía Nacional",
   "lead": "El Ejército Nacional incautó explosivos, granadas, armas y estupefacientes durante el operativo en el que también fueron detenidos otros dos presuntos integrantes del ELN en el municipio de Pailitas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Especialistas del grupo MARTE del Ejército Nacional realizan las labores de verificación e inspección para realizar la destrucción controlada de la carga detonante ubicada entre Piedra sentada y el peaje de El Bordo, Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "La iniciativa reconocerá el talento científico de la ciudad con 26 distinciones. Las postulaciones estarán abiertas hasta el 2 de noviembre y la ceremonia de premiación se realizará el 3 de diciembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "La ministra cuestionó a quienes convocaron las protestas del fin de semana y reiteró que el Gobierno revisará la curaduría de sus museos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "La obra cuenta con una inversión superior a los $700 millones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "Orden Público,Denuncias por abuso,Policía Nacional,Capturados,Homicidios,Asesinado,Víctimas,actos violentos,Detenidos",
   "lead": "Los familiares del joven aseguran que hubo un uso desproporcionado de la fuerza y que le propinaron varias descargas eléctricas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Sociedad,Corte Suprema de Justicia,Rama Judicial,JurisdicciónEspecialParalaPaz,Fiscalía General de la Nación,Preclusión de investigación",
   "lead": "El magistrado Iván Mauricio Lenis, también planteó que las instituciones deben contribuir al ajuste de las finanzas públicas, sin que las reducciones compr...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,6 +1019,347 @@
   "palabras": "Internacional,Francia,protesta,Manifestaciones,París,Emmanuel Macron",
   "lead": "El estado de emergencia sigue siendo una posibilidad, sugirió el primer ministro, Sebastién Lecornu.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Calles inundadas y deslizamientos dejan fuertes lluvias en diferentes sectores de Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/calles-inundadas-y-deslizamientos-dejan-fuertes-lluvias-en-diferentes-sectores-de-cali-rg10",
+  "fecha": "2026-10-19T09:11:34-05:00",
+  "palabras": "",
+  "lead": "Hasta el momento no se reportan afectaciones a personas durante estas emergencias. Tampoco vehículos o viviendas averiadas por las fuertes precipitaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Habla la gobernadora de San Andrés tras regaño de De La Espriella: “Es lamentable”",
+  "enlace": "https://www.bluradio.com/nacion/habla-la-gobernadora-de-san-andres-tras-regano-de-de-la-espriella-debe-escuchar-todas-las-partes-pr30",
+  "fecha": "2026-10-19T08:48:23-05:00",
+  "palabras": "San Andrés y Providencia, Corrupción, Abelardo De La Espriella",
+  "lead": "Tras los cuestionamientos del primer mandatario por presuntas irregularidades en la gestión pública e institucional de la isla, la mandataria departamental entregó su versión en entrevista con Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aterriza nueva marca en Colombia con SUV diseñada por la firma de Ferrari y autonomía de 1.115 km",
+  "enlace": "https://www.bluradio.com/motor/aterriza-nueva-marca-en-colombia-con-suv-disenada-por-la-firma-de-ferrari-y-autonomia-de-1-115-km-so35",
+  "fecha": "2026-10-19T09:08:23-05:00",
+  "palabras": "Carros híbridos, Industria automotriz",
+  "lead": "La ROX 01 llega como un vehículo de rango extendido y con seis o siete puestos, según la versión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Elizabeth Jay-Pang niega que su esposo maneje la contratación en San Andrés: “No es justo”",
+  "enlace": "https://www.bluradio.com/nacion/elizabeth-jay-pang-niega-que-su-esposo-maneje-la-contratacion-en-san-andres-no-es-justo-pr30",
+  "fecha": "2026-10-19T08:45:57-05:00",
+  "palabras": "San Andrés y Providencia, Abelardo De La Espriella, Viral",
+  "lead": "La representante liberal rechazó señalamientos del presidente sobre contratos con la Gobernación y Coralina, negó haber bloqueado el hospital y dijo que seguirá votando proyectos del Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alias ‘Jorge 40’ acepta responsabilidad en crímenes que dejaron 145 víctimas en el Cesar",
+  "enlace": "https://www.bluradio.com/judicial/alias-jorge-40-acepta-responsabilidad-en-crimenes-que-dejaron-145-victimas-en-el-cesar-rg10",
+  "fecha": "2026-10-19T08:43:20-05:00",
+  "palabras": "'Jorge 40', AUC, Paramilitarismo",
+  "lead": "Rodrigo Tovar, exjefe del Bloque Norte de las AUC, se acogió a sentencia anticipada por cinco delitos, entre ellos homicidio en persona protegida y desaparición forzada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Quién era Patricio Sánchez?  el sacerdote que murió tras caerle una cruz durante una misa",
+  "enlace": "https://www.bluradio.com/mundo/quien-era-patricio-sanchez-el-sacerdote-que-murio-tras-caerle-una-cruz-durante-una-misa-so35",
+  "fecha": "2026-10-19T08:53:42-05:00",
+  "palabras": "Ecuador, Sacerdotes, Viral",
+  "lead": "El religioso tenía 53 años y era párroco de la iglesia Nuestra Señora del Perpetuo Socorro, en el sur de Guayaquil.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Buscan en Medellín a segundo sospechoso del crimen de jefe de Coca-Cola de Armenia: \"Va a caer\"",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/buscan-en-medellin-a-segundo-sospechoso-del-crimen-de-jefe-de-coca-cola-de-armenia-va-a-caer-rg10",
+  "fecha": "2026-10-19T09:15:22-05:00",
+  "palabras": "Medellín, Antioquia, Noticias de hoy",
+  "lead": "Tras la captura del primer señalado del crimen, las autoridades se han enfocado en la búsqueda de la segunda persona involucrada en el homicidio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La violencia las separó, pero 33 años después madre e hija se reencontraron en Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/la-violencia-las-separo-pero-33-anos-despues-madre-e-hija-volvieron-a-encontrarse-rg10",
+  "fecha": "2026-10-19T09:07:57-05:00",
+  "palabras": "Barrancabermeja, Desaparecidos, Santander, Conflicto armado en Colombia, Blu Radio",
+  "lead": "Más de tres décadas después, y con el acompañamiento de la Unidad de Búsqueda de Personas dadas por Desaparecidas (UBPD), madre e hija volvieron a abrazarse en Barrancabermeja.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En Medellín han atendido a 372 personas en salud por la emergencia en La Iguaná; 7 por salud mental",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-medellin-han-atendido-a-372-personas-en-salud-por-la-emergencia-en-la-iguana-7-por-salud-mental-rg10",
+  "fecha": "2026-10-19T09:13:14-05:00",
+  "palabras": "Medellín, Emergencias por lluvias",
+  "lead": "En el sitio también se recuperó medicamentos para pacientes con enfermedades crónicas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El estadio Atanasio debe servir para fútbol y conciertos: Alcaldía de Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/el-estadio-atanasio-debe-servir-para-futbol-y-conciertos-alcaldia-de-medellin-rg10",
+  "fecha": "2026-10-19T09:18:23-05:00",
+  "palabras": "Medellín, Noticias de hoy",
+  "lead": "La Alcaldía aseguró que están dadas las capacidades técnicas para hacer los dos eventos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mancuso sobre gestoría de paz: “pidieron acusar a Uribe, Vargas Lleras y De La Espriella para ganar”",
+  "enlace": "https://www.bluradio.com/nacion/mancuso-sobre-gestoria-de-paz-pidieron-acusar-a-uribe-vargas-lleras-y-de-la-espriella-para-ganar-rg10",
+  "fecha": "2026-10-19T09:17:03-05:00",
+  "palabras": "Salvatore Mancuso, Gustavo Petro, Abelardo De La Espriella, Álvaro Uribe Vélez",
+  "lead": "El exjefe paramilitar Salvatore Mancuso reafirmó las versiones entregadas por la exdirectora del DAPRE, Angie Rodríguez, sobre una reunión en Valledupar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ryan Castro agota las entradas para su concierto en el Pascual Guerrero",
+  "enlace": "https://caracol.com.co/2026/10/19/ryan-castro-agota-las-entradas-para-su-concierto-en-el-pascual-guerrero/",
+  "fecha": "2026-10-19T09:19:21-05:00",
+  "palabras": "",
+  "lead": "El artista colombiano agotó la boletería de su presentación en Cali, donde se proyectó un impacto económico cercano a los $13.000 millones, impulsado por el turismo, la hotelería, el transporte y el comercio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Radiografía de la crisis en San Andrés: ¿qué está pasando en la isla?",
+  "enlace": "https://caracol.com.co/2026/10/19/radiografia-de-la-crisis-en-san-andres-que-esta-pasando-en-la-isla/",
+  "fecha": "2026-10-19T09:18:25-05:00",
+  "palabras": "",
+  "lead": "La periodista Michelle Arévalo hizo un análisis de crisis de salud y la precariedad hospitalaria que se vive en el archipiélago de San Andrés.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensoría del Pueblo emite alerta por riesgo de violencia en Magangué, Bolíva",
+  "enlace": "https://caracol.com.co/2026/10/19/defensoria-del-pueblo-emite-alerta-por-riesgo-de-violencia-en-magangue-boliva/",
+  "fecha": "2026-10-19T09:11:35-05:00",
+  "palabras": "",
+  "lead": "La entidad advierte sobre amenazas, extorsiones y riesgo de reclutamiento de menores por el control territorial del autodenominado Ejército Gaitanista de Colombia (EGC). El documento incluye 32 recomendaciones para proteger a la población.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trancones y lluvias: el dolor de cabeza los padres y alumnos que estudian a las afueras de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/19/trancones-y-lluvias-el-dolor-de-cabeza-los-padres-y-alumnos-que-estudian-a-las-afueras-de-bogota/",
+  "fecha": "2026-10-19T09:10:56-05:00",
+  "palabras": "",
+  "lead": "Varios niños han tenido que estar hasta más de tres horas dentro de un carro para poder llegar a sus casas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DT de Flamengo elogia a Jorge Carrascal: “El mejor jugando de interior de espaldas a la portería”",
+  "enlace": "https://caracol.com.co/2026/10/19/dt-de-flamengo-elogia-a-jorge-carrascal-el-mejor-jugando-de-interior-de-espaldas-a-la-porteria/",
+  "fecha": "2026-10-19T08:47:55-05:00",
+  "palabras": "",
+  "lead": "El colombiano recibió la calificación más alta en la goleada de su equipo 0-3 sobre Bahía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Macron niega la realidad de las necesidades sociales”: diputado de partido de izquierda francés LFI",
+  "enlace": "https://caracol.com.co/2026/10/19/macron-niega-la-realidad-de-las-necesidades-sociales-diputado-de-partido-de-izquierda-frances-lfi/",
+  "fecha": "2026-10-19T08:25:46-05:00",
+  "palabras": "",
+  "lead": "Caracol Radio habló con Pierre-Yves Cadalen de La Francia Insumisa, quien responsabilizó al Gobierno de la inconformidad que se vive en el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Clan del Golfo estaría exigiendo parte de la cosecha cafetera en el norte de Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/19/clan-del-golfo-estaria-exigiendo-parte-de-la-cosecha-cafetera-en-el-norte-de-antioquia/",
+  "fecha": "2026-10-19T09:02:38-05:00",
+  "palabras": "",
+  "lead": "Campesinos denunciaron el anuncio de cobros extorsivos por parte del grupo armado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exigieron declarar sobre Uribe, De la Espriella y Vargas Lleras: testigo sobre ‘Pacto de Valledupar’",
+  "enlace": "https://caracol.com.co/2026/10/19/exigieron-declarar-sobre-uribe-de-la-espriella-y-vargas-lleras-testigo-sobre-pacto-de-valledupar/",
+  "fecha": "2026-10-19T08:26:29-05:00",
+  "palabras": "",
+  "lead": "El abogado Juan Carlos Villamizar, testigo presencial de las reuniones que ha mencionado Angie Rodríguez, confirmó que el Gobierno Petro quiso instrumentalizar a los exjefes paramilitares y estos se negaron",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Partido Liberal defiende a representante y gobernadora de San Andrés: “respaldamos su honorabilidad”",
+  "enlace": "https://caracol.com.co/2026/10/19/partido-liberal-defiende-a-representante-y-gobernadora-de-san-andres-respaldamos-su-honorabilidad/",
+  "fecha": "2026-10-19T08:55:11-05:00",
+  "palabras": "",
+  "lead": "También le pidieron al presidente Abelardo de la Espriella tramitar las diferencias políticas por los “mecanismos establecidos”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a alias ‘Tomás’, señalado de coordinar cobros extorsivos contra comerciantes en Córdoba",
+  "enlace": "https://caracol.com.co/2026/10/19/capturan-a-alias-tomas-senalado-de-coordinar-cobros-extorsivos-contra-comerciantes-en-cordoba/",
+  "fecha": "2026-10-19T08:51:09-05:00",
+  "palabras": "",
+  "lead": "Según las investigaciones, el sujeto tendría injerencia criminal en los municipios indígenas de Chinú y Tuchín",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La ganadería se perfila como motor clave de la Misión Crecer, según FEDEGAN",
+  "enlace": "https://caracol.com.co/2026/10/19/la-ganaderia-se-perfila-como-motor-clave-de-la-mision-crecer-segun-fedegan/",
+  "fecha": "2026-10-19T08:49:11-05:00",
+  "palabras": "",
+  "lead": "El presidente del gremio también resaltó las perspectivas favorables del mercado internacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuarto gran cargamento de cocaína incautada este año 2026 en las vías del Quindío",
+  "enlace": "https://caracol.com.co/2026/10/19/cuarto-gran-cargamento-de-cocaina-incautada-este-ano-2026-en-las-vias-del-quindio/",
+  "fecha": "2026-10-19T08:46:40-05:00",
+  "palabras": "",
+  "lead": "620 Kilos de cocaína incautados en La Tebaida, Quindío",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La producción de cacao en Tarazá es favorecida por el SENA con asistencia técnica a 50 productores",
+  "enlace": "https://caracol.com.co/2026/10/19/la-produccion-de-cacao-en-taraza-es-favorecida-por-el-sena-con-asistencia-tecnica-a-50-productores/",
+  "fecha": "2026-10-19T08:42:50-05:00",
+  "palabras": "",
+  "lead": "Esta iniciativa impulsa a la Asociación de Cacaocultores de Tarazá, para mejorar su capacidad productiva, la calidad del grano y el fortalecimiento organizacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia tiene una cobertura de mamografías del 38,4%, lejos de la meta del 70%",
+  "enlace": "https://caracol.com.co/2026/10/19/colombia-tiene-una-cobertura-de-mamografias-del-384-lejos-de-la-meta-del-70/",
+  "fecha": "2026-10-19T08:41:49-05:00",
+  "palabras": "",
+  "lead": "Las barreras geográficas, la falta de equipos y la escasez de especialistas dificultan el diagnóstico oportuno, especialmente en las regiones más apartadas del país, según las Clínicas de La Colina y el Country.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La intolerancia y el uso de armas cortopunzantes acabaron con la vida de dos personas en Ibagué",
+  "enlace": "https://caracol.com.co/2026/10/19/la-intolerancia-y-el-uso-de-armas-cortopunzantes-acabaron-con-la-vida-de-dos-personas-en-ibague/",
+  "fecha": "2026-10-19T08:36:01-05:00",
+  "palabras": "",
+  "lead": "Los hechos sucedieron en el conjunto residencial Multifamiliares El Tejar y en el centro de Ibagué.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lupa a la política social: Medellín somete a control el 100 % de sus políticas sociales",
+  "enlace": "https://caracol.com.co/2026/10/19/lupa-a-la-politica-social-medellin-somete-a-control-el-100-de-sus-politicas-sociales/",
+  "fecha": "2026-10-19T08:28:54-05:00",
+  "palabras": "",
+  "lead": "Niños, jóvenes, organizaciones sociales y veedurías ciudadanas pasaron al tablero los programas de equidad en las comunas, supervisando la efectividad del gasto público y la convivencia escolar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De la Espriella rebaja tensiones con el Partido Demócrata tras llamada con el congresista Gregory Meeks",
+  "enlace": "https://www.lafm.com.co/internacional/abelardo-de-la-espriella-llamada-gregory-meeks-partido-democrata-414383",
+  "fecha": "2026-10-19T09:03:00-05:00",
+  "palabras": "Internacional,Abelardo de la Espriella,Estados Unidos,Washington",
+  "lead": "Durante la conversación se habló sobre la importancia de mantener el apoyo bipartidista a la relación entre Colombia y Estados Unidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Kylie Jenner luce el Fantasy Bra de Victoria’s Secret: valor",
+  "enlace": "https://www.lafm.com.co/entretenimiento/kylie-jenner-fantasy-bra-cuanto-cuesta-polemica-victorias-secret-fashion-show-2026-414380",
+  "fecha": "2026-10-19T08:27:00-05:00",
+  "palabras": "Entretenimiento,Victoria's Secret,Kylie Jenner,Lencería,desfile,pasarela,Revista Vogue,Modelo,celebridades",
+  "lead": "Kylie Jenner debutó en el Victoria’s Secret Fashion Show 2026 con el Fantasy Bra, una pieza con más de 4.400 diamantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿América Latina podría tener protestas como la de Francia?",
+  "enlace": "https://www.lafm.com.co/internacional/protestas-francia-puede-llegar-america-latina-crisis-politica-414378",
+  "fecha": "2026-10-19T08:11:00-05:00",
+  "palabras": "Internacional,Francia,Democracia,Alteración al orden público,Represión,Problemas económicos",
+  "lead": "El sociólogo francés Michel Wieviorka analizó las causas de la crisis francesa y advirtió sobre los riesgos de que el deterioro institucional abra paso a s...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pronóstico del clima en Colombia hoy 19 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/clima-lluvias-fenomeno-de-el-nino-octubre-19-ideam-414368",
+  "fecha": "2026-10-19T07:09:00-05:00",
+  "palabras": "Sociedad,Lluvias,Servicio Meteorológico Nacional,Inundaciones,Sistema de Alertas Tempranas,Incendios forestales en Colombia,Alerta roja,mal clima,Cundinamarca,Bogotá,Tormenta eléctrica",
+  "lead": "Santander y Bolívar encabezan las advertencias por terrenos inestables, mientras 203 subzonas hidrográficas registran riesgos de inundación o crecientes sú...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
