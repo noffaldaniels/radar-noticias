@@ -244,6 +244,27 @@
    "quien": "David Cote, representante a la Cámara por el Centro Democrático",
    "que": "Denunció que en el Museo Nacional se hacía apología del delito al exaltar a las guerrillas y recordó cifras de la Comisión de la Verdad: las FARC reclutaron 18.000 niños, las FARC y el ELN asesinaron a más de 35.000 personas, y el M-19 secuestró a 680 personas.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:21",
+   "quien": "Verónica Alcocer, primera dama de la Nación",
+   "que": "Negó los señalamientos en su contra sobre el transporte de 2,5 millones de dólares, el tráfico de armas o drogas en aviones oficiales y la injerencia en nombramientos y contratos en Ecopetrol, ICBF y ProColombia.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:24",
+   "quien": "Valeska Alvarado, periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que disidencias de las FARC al mando de alias 'Iván Mordisco' dinamitaron un puente en Santander de Quilichao dejando 200 personas incomunicadas, y alertó sobre nuevos ataques con drones cargados de explosivos en Norte de Santander.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:25",
+   "quien": "Valeska Alvarado, periodista de Noticias La FM con Juan Lozano",
+   "que": "Explicó que la nueva resolución para la Unidad Nacional Antidisturbios (antiguo ESMAD y UNDEMO) ordena actuar de inmediato ante actos delictivos o violentos, dejando el diálogo entre las últimas instancias en casos de alteración del orden público.",
+   "resaltar": false
   }
  ],
  "avisos": []
