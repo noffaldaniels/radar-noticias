@@ -20,6 +20,27 @@
    "quien": "Julio Sánchez Cristo, director de 6AM con Julio Sánchez Cristo",
    "que": "El Ministerio de Agricultura concretó una alianza comercial con el Grupo Éxito por 1,2 billones de pesos para adquirir cosechas directamente a productores locales.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:30",
+   "quien": "Cristina Lombana, Secretaria de Transparencia de la Presidencia",
+   "que": "Solicitó que las investigaciones sobre presunta corrupción en San Andrés sean dirigidas desde Bogotá, instando a la Procuraduría a ejercer poder preferente y a la Contraloría control excepcional.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:32",
+   "quien": "Dilian Francisca Toro, Gobernadora del Valle",
+   "que": "Anunció una recompensa de hasta 100 millones de pesos por información que permita dar con los responsables del atentado contra el exalcalde de Jamundí, Andrés Felipe Ramírez, en el que fue asesinado su escolta.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:33",
+   "quien": "Juan Espinal, Senador",
+   "que": "Pidió a los alcaldes y a las empresas de energía evaluar si es conveniente instalar alumbrados navideños este año ante el riesgo de un apagón en el país.",
+   "resaltar": true
   }
  ],
  "avisos": []
