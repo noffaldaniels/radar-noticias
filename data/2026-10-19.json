@@ -436,7 +436,7 @@
   "palabras": "Bucaramanga, Santander, Embalses, Secuestro, Blu Radio",
   "lead": "Turistas y comerciantes recibieron recomendaciones para prevenir delitos como la extorsión carcelaria, la falsa encomienda y el falso servicio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "Bucaramanga, Salud, Atlético Bucaramanga, Blu Radio, Noticias de hoy",
   "lead": "La visita del pequeño al estadio se convirtió en una experiencia para una familia que durante semanas concentró sus esfuerzos en conseguir atención médica y superar una de las etapas más difíciles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "Girón, Cárceles, Inpec, Blu Radio, Noticias de hoy",
   "lead": "Su sepelio estuvo marcado por el dolor de quienes compartieron con él en el ámbito familiar, en su trabajo en el sistema penitenciario y en el emprendimiento gastronómico que logró consolidar.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "El pronunciamiento se conoce en medio de las críticas al rector del plantel y las solicitudes de algunos integrantes de la comunidad educativa para que deje el cargo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "Las autoridades tomaron decisiones luego de la incineración de un bus de la empresa Concorde en el páramo del Almorzadero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "El Distrito destinará más de $45.000 millones para este ciclo de transferencias económicas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "Así lo advierte un informe de inteligencia militar en poder de las autoridades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "Los controles dejaron cuatro armas incautadas, seis motos recuperadas y 128 comparendos por convivencia en el Huila.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -523,6 +523,391 @@
   "fecha": "2026-10-19T06:48:00-05:00",
   "palabras": "Política,intervención,Irregularidades en contratos,Conflicto de intereses,Investigaciones,Irregularidades en manejo de recursos,Detrimento patrimonial,investigados,Acusaciones,Funcionarios denunciados,Rendición de cuentas",
   "lead": "El caso se conoció tras el episodio en el que el presidente de la República increpó públicamente a la gobernadora y a una representante a la Cámara.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Vía Panamericana permanece cerrada mientras desactivan explosivos en una alcantarilla",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/via-panamericana-permanece-cerrada-mientras-desactivan-explosivos-en-una-alcantarilla-rg10",
+  "fecha": "2026-10-19T07:49:19-05:00",
+  "palabras": "Conflicto armado en Colombia, Disidencias Farc, Ejército Nacional",
+  "lead": "A través de un comunicado, la Tercera División del Ejército confirmó que los artefactos fueron instalados por integrantes del frente Carlos Patiño, disidencia de las Farc.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Museos piden respetar procesos para retirar obras: \"Triste ver imágenes que no son pacíficas\"",
+  "enlace": "https://www.bluradio.com/nacion/museos-piden-respetar-procesos-para-retirar-obras-triste-ver-imagenes-que-no-son-pacificas-pr30",
+  "fecha": "2026-10-19T07:39:15-05:00",
+  "palabras": "Abelardo De La Espriella",
+  "lead": "El director del MAMM advierte que el precedente es lo que más inquieta al sector y propone una mesa de diálogo con curadores y colectivos para revisar los guiones del Museo Nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gmail se quedó sin espacio: así puede recuperar capacidad sin pagar un peso",
+  "enlace": "https://www.bluradio.com/tecnologia/gmail-se-quedo-sin-espacio-asi-puede-recuperar-capacidad-sin-pagar-un-peso-so35",
+  "fecha": "2026-10-19T07:41:02-05:00",
+  "palabras": "Gmail, Google Drive, Google Photos",
+  "lead": "Los 15 GB gratuitos se comparten entre Gmail, Google Drive y Google Fotos. Esto debe hacer para recuperar espacio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Policía de Bogotá captura a 64 personas por homicidio y publica cartel de los más buscados",
+  "enlace": "https://www.bluradio.com/regiones/bogota/policia-de-bogota-captura-a-64-personas-por-homicidio-y-publica-cartel-de-los-mas-buscados-rg10",
+  "fecha": "2026-10-19T07:38:12-05:00",
+  "palabras": "Inseguridad en Bogotá, Policía Nacional",
+  "lead": "Entre los detenidos hay tres presuntos feminicidas, sicarios y personas señaladas de cometer asesinatos en medio de riñas e intolerancia. Además, se publicó el cartel de Isaac Daniel Rodríguez García, requerido por su presunta participación en el asesinato de un empresario y su escolta en…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno definirá por decreto en noviembre sus aguas territoriales en el Caribe",
+  "enlace": "https://www.bluradio.com/regiones/caribe/gobierno-definira-por-decreto-en-noviembre-sus-aguas-territoriales-en-el-caribe-cb20",
+  "fecha": "2026-10-19T07:32:07-05:00",
+  "palabras": "",
+  "lead": "Esta determinación, que quiere recoger las doce millas náuticas de aguas territoriales en torno a estas tres islas y el resto de islotes y arrecifes que componen ese archipiélago frente a las costas de Nicaragua, tiene el potencial para reactivar la disputa legal que sobre esta cuestión que Bogotá…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría impulsa conciliación gratuita para personas de estratos 1 y 2 y reporta 1161 acuerdos",
+  "enlace": "https://www.bluradio.com/nacion/procuraduria-impulsa-conciliacion-gratuita-para-personas-de-estratos-1-y-2-y-reporta-1161-acuerdos-rg10",
+  "fecha": "2026-10-19T07:47:28-05:00",
+  "palabras": "Procuraduría General de la Nación",
+  "lead": "La Procuraduría logró 1.161 acuerdos de conciliación en 2026 y ofrece servicios gratuitos para resolver conflictos sin acudir a la justicia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ecopetrol cancela compra de gas importado por alto costo: buscará alternativas",
+  "enlace": "https://www.bluradio.com/nacion/ecopetrol-cancela-compra-de-gas-importado-por-alto-costo-buscara-alternativas-rg10",
+  "fecha": "2026-10-19T07:52:12-05:00",
+  "palabras": "Ecopetrol, Gas natural",
+  "lead": "La petrolera tendrá que buscar ese gas con rapidez en un contexto en el que El Niño está aumentando la demanda de gas en el país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturado alias ‘El Compita’, presunto operador de drones del ELN en el sur del Cesar",
+  "enlace": "https://caracol.com.co/2026/10/19/capturado-alias-el-compita-presunto-operador-de-drones-del-eln-en-el-sur-del-cesar/",
+  "fecha": "2026-10-19T07:55:36-05:00",
+  "palabras": "",
+  "lead": "Las autoridades indicaron que entre 2022 y 2024 habría pertenecido a una red de apoyo al terrorismo y que, durante 2025 y 2026, presuntamente habría asumido funciones como operador de drones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "640 viviendas serán intervenidas en Armenia tras las afectaciones que dejó el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/19/640-viviendas-seran-intervenidas-en-armenia-tras-las-afectaciones-que-dejo-el-terremoto/",
+  "fecha": "2026-10-19T07:24:18-05:00",
+  "palabras": "",
+  "lead": "desde Fomvivienda sostienen que están en el trámite para incorporar 32 mil millones de pesos para el proceso",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Meeks y De la Espriella hablan por teléfono tras la polémica por las elecciones en EE. UU.",
+  "enlace": "https://caracol.com.co/2026/10/19/meeks-y-de-la-espriella-hablan-por-telefono-tras-la-polemica-por-las-elecciones-en-ee-uu/",
+  "fecha": "2026-10-19T07:52:09-05:00",
+  "palabras": "",
+  "lead": "El congresista demócrata Gregory Meeks y el presidente de Colombia, Abelardo de la Espriella, sostuvieron una conversación telefónica que busca bajar la tensión de los últimos días entre el mandatario y un sector del Capitolio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Muros rayados y fachadas dañadas: la denuncia de los ciudadanos en la comuna 12 de Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/10/19/muros-rayados-y-fachadas-danadas-la-denuncia-de-los-ciudadanos-en-la-comuna-12-de-bucaramanga/",
+  "fecha": "2026-10-19T07:45:11-05:00",
+  "palabras": "",
+  "lead": "La comunidad adelanta jornadas de limpieza y pintura para eliminar los grafitis en locales comerciales y espacios públicos. Piden sanciones más severas contra quienes deterioran las fachadas de estos bienes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Japón probará misiles de largo alcance en un ejercicio militar en conjunto con Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/10/19/japon-probara-misiles-de-largo-alcance-en-un-ejercicio-militar-en-conjunto-con-estados-unidos/",
+  "fecha": "2026-10-19T07:51:08-05:00",
+  "palabras": "",
+  "lead": "Debido a la fuerte tensión que existe entre Japón y Pekín, Japón desplegará misiles de largo alcance junto a EE.UU por primera vez",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con proyecto buscan que colegios de Bogotá no lleven nombres de miembros de grupos armados",
+  "enlace": "https://caracol.com.co/2026/10/19/con-proyecto-buscan-que-colegios-de-bogota-no-lleven-nombres-de-miembros-de-grupos-armados/",
+  "fecha": "2026-10-19T07:49:09-05:00",
+  "palabras": "",
+  "lead": "Bogotá tiene un caso concreto en el colegio distrital Carlos Pizarro, ubicado en la localidad de Bosa",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ordenan cierre parcial del relleno sanitario que recoge basuras de 15 municipios del Tolima",
+  "enlace": "https://caracol.com.co/2026/10/19/ordenan-cierre-parcial-del-relleno-sanitario-que-recoge-basuras-de-15-municipios-del-tolima/",
+  "fecha": "2026-10-19T07:44:31-05:00",
+  "palabras": "",
+  "lead": "La orden de Cortolima obligó a suspender la disposición de residuos sólidos, lo que afectó la recolección de basuras en municipios como Purificación.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Es igual a la Alemania nazi”: Aída Avella compara retiro de obras y desata polémica con David Cote",
+  "enlace": "https://caracol.com.co/2026/10/19/es-igual-a-la-alemania-nazi-aida-avella-compara-retiro-de-obras-y-desata-polemica-con-david-cote/",
+  "fecha": "2026-10-19T07:17:43-05:00",
+  "palabras": "",
+  "lead": "Aida Avella, senadora del Pacto Histórico y David Cote, representante del Centro Democrático debatieron en 6AM W sobre las protestas frente al Museo Nacional que ya completan dos días tras retiro de las obras sociales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumentan desplazados en la región del Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/19/aumentan-desplazados-en-la-region-del-catatumbo/",
+  "fecha": "2026-10-19T07:45:51-05:00",
+  "palabras": "",
+  "lead": "Víctimas del conflicto reclaman atención del gobierno nacional",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hablan la gobernadora de San Andrés y la representante a la Cámara señaladas por el presidente",
+  "enlace": "https://caracol.com.co/2026/10/19/hablan-la-gobernadora-de-san-andres-y-la-representante-a-la-camara-senaladas-por-el-presidente/",
+  "fecha": "2026-10-19T07:19:34-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella no esperó a oír sus explicaciones. Entró, las sindicó frente a la cámara y se fue.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan Ríos: “Les recuerdo que solo habrá un campeón y los demás van a seguir sufriendo”",
+  "enlace": "https://caracol.com.co/2026/10/19/juan-rios-les-recuerdo-que-solo-habra-un-campeon-y-los-demas-van-a-seguir-sufriendo/",
+  "fecha": "2026-10-19T07:32:28-05:00",
+  "palabras": "",
+  "lead": "El volante ofreció disculpas a la afición y aseguró que los estadios del país “se llenan” para ver jugar al Junior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bello celebra los 75 años de la Biblioteca Pública Marco Fidel Suárez",
+  "enlace": "https://caracol.com.co/2026/10/19/bello-celebra-los-75-anos-de-la-biblioteca-publica-marco-fidel-suarez/",
+  "fecha": "2026-10-19T07:39:56-05:00",
+  "palabras": "",
+  "lead": "Las actividades conmemorativas se extenderán hasta el próximo jueves, 22 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel alias “Mueco”: señalado de cometer más de cuatro homicidios en Cundinamarca",
+  "enlace": "https://caracol.com.co/2026/10/19/a-la-carcel-alias-mueco-senalado-de-cometer-mas-de-cuatro-homicidios-en-cundinamarca/",
+  "fecha": "2026-10-19T07:34:25-05:00",
+  "palabras": "",
+  "lead": "El hombre había actuado en los municipios de Girardot y Flandes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Paseo familiar terminó en un grave accidente de tránsito en Tona, Santander: hay 10 heridos",
+  "enlace": "https://caracol.com.co/2026/10/19/paseo-familiar-termino-en-un-grave-accidente-de-transito-en-tona-santander-hay-10-heridos/",
+  "fecha": "2026-10-19T07:28:10-05:00",
+  "palabras": "",
+  "lead": "Según información entregada por el Cuerpo de Bomberos de Tona, un bus familiar se quedó sin frenos y cayó por un abismo de aproximadamente 50 metros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "IDU culminó el desmonte del puente de la carrera Séptima con calle 100: así será la nueva estructura",
+  "enlace": "https://caracol.com.co/2026/10/19/idu-culmino-el-desmonte-del-puente-de-la-carrera-septima-con-calle-100-asi-sera-la-nueva-estructura/",
+  "fecha": "2026-10-19T07:35:12-05:00",
+  "palabras": "",
+  "lead": "La nueva estructura tendrá cuatro carriles y estará acompañada de tres pasos deprimidos para mejorar la movilidad en el norte de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Primer ministro Lecornu anunció toques de queda parciales en varias ciudades de Francia",
+  "enlace": "https://caracol.com.co/2026/10/19/primer-ministro-lecornu-anuncio-toques-de-queda-parciales-en-varias-ciudades-de-francia/",
+  "fecha": "2026-10-19T07:18:24-05:00",
+  "palabras": "",
+  "lead": "Lecornu no descartó la necesidad del estado de emergencia si fuese necesario y advirtió de que “bajo ningún concepto se tolerará que (los saqueos) se instalen”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Triple homicidio en el municipio de Chaparral, Tolima: tendría relación con la minería ilegal",
+  "enlace": "https://caracol.com.co/2026/10/19/triple-homicidio-en-el-municipio-de-chaparral-tolima-tendria-relacion-con-la-mineria-ilegal/",
+  "fecha": "2026-10-19T07:26:39-05:00",
+  "palabras": "",
+  "lead": "Según Elver González, alcalde del municipio de Chaparral, las personas asesinadas no serían originarias del departamento del Tolima.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Revelan la identidad de uno de los presuntos involucrados en el asesinato de Gustavo Andrés Aponte",
+  "enlace": "https://caracol.com.co/2026/10/19/revelan-la-identidad-de-uno-de-los-presuntos-involucrados-en-el-asesinato-de-gustavo-andres-aponte/",
+  "fecha": "2026-10-19T07:25:12-05:00",
+  "palabras": "",
+  "lead": "Las autoridades capturaron a Leonel Enrique Llanos Paternina, quien al parecer participó de la planeación y ejecución del doble homicidio.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Primer ministro francés advirtió de desestabilización de la ultraizquierda para las presidenciales",
+  "enlace": "https://caracol.com.co/2026/10/19/primer-ministro-frances-advirtio-de-desestabilizacion-de-la-ultraizquierda-para-las-presidenciales/",
+  "fecha": "2026-10-19T07:24:06-05:00",
+  "palabras": "",
+  "lead": "Los disturbios registrados durante el fin de semana en París y otras ciudades dejaron saqueos, ataques contra edificios públicos y enfrentamientos con las fuerzas de seguridad, lo que llevó al Gobierno a plantear toques de queda parciales y no descartar un estado de emergencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Marta fortalece alianzas con el gobierno nacional para impulsar el sector cultural",
+  "enlace": "https://caracol.com.co/2026/10/19/santa-marta-fortalece-alianzas-con-el-gobierno-nacional-para-impulsar-el-sector-cultural/",
+  "fecha": "2026-10-19T07:21:52-05:00",
+  "palabras": "",
+  "lead": "La apuesta es posicionar a la ciudad, en el marco de sus 501 años de historia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 60 presuntos homicidas han sido capturados en los dos últimos meses en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/19/mas-de-60-presuntos-homicidas-han-sido-capturados-en-los-dos-ultimos-meses-en-bogota/",
+  "fecha": "2026-10-19T07:15:23-05:00",
+  "palabras": "",
+  "lead": "De los adultos capturados 27 fueron en flagrancia y 37 mediante orden judicial; entre ellos se encuentran tres presuntos feminicidas, sicarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incautan 10.000 galones de combustible que serían destinados al Clan del Golfo en el Chocó",
+  "enlace": "https://caracol.com.co/2026/10/19/incautan-10000-galones-de-combustible-que-serian-destinados-al-clan-del-golfo-en-el-choco/",
+  "fecha": "2026-10-19T07:07:24-05:00",
+  "palabras": "",
+  "lead": "La incautación representa una afectación económica cercana a los $160 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lula vs. Bolsonaro: ¿Quién ganó el debate de este domingo?",
+  "enlace": "https://www.lafm.com.co/internacional/lula-da-silva-flavio-bolsonaro-quien-gano-debate-el-domingo-414376",
+  "fecha": "2026-10-19T07:51:00-05:00",
+  "palabras": "Internacional,Debate presidencial,Reelección de Netanyahu,Jair Bolsonaro,Elecciones presidenciales,Candidatos presidenciales,Javier Milei,ultraderecha,Manifestantes,Oposición,Política internacional",
+  "lead": "Lula y Flávio Bolsonaro se enfrentaron en un debate marcado por acusaciones personales y un empate técnico en las encuestas de Brasil.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aseo en Bogotá: Urbaser advierte riesgos para sostenibilidad",
+  "enlace": "https://www.lafm.com.co/sociedad/urbaser-bogota-nuevo-marco-tarifario-riesgo-sostenibilidad-financiera-414366",
+  "fecha": "2026-10-19T07:35:00-05:00",
+  "palabras": "Sociedad,Manejo de residuos,actos violentos,Amenazas,Residuos,conflicto armado,Vigilancia",
+  "lead": "Pablo Arango, vocero y representante directivo de Urbaser, explicó las dificultades que enfrenta la compañía, los compromisos de acompañamiento asumidos po...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cauca: Explosivos ocultos bajo una alcantarilla en la vía",
+  "enlace": "https://www.lafm.com.co/orden-publico/cauca-via-panamericana-explosivos-ocultos-alcantarilla-cilindro-sospechoso-414371",
+  "fecha": "2026-10-19T07:25:00-05:00",
+  "palabras": "Orden Público,Antiexplosivos,Actos terroristas,Disidentes de las Farc,Paso restringido,Alerta de seguridad,seguridad vial",
+  "lead": "Tensión en vías del Cauca por presencia de dos artefactos que fueron instalados por grupos armados ilegales en carreteras del departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Revelan identidad de sicario implicado en homicidio de Gustavo Aponte",
+  "enlace": "https://www.lafm.com.co/orden-publico/homicidio-gustavo-aponte-revelan-rostro-identidad-presunto-sicario-implicado-capturas-homicidios-bogota-414369",
+  "fecha": "2026-10-19T07:14:00-05:00",
+  "palabras": "Orden Público,Homicidios,sicario,Delincuentes capturados,Fiscalía General de la Nación,Órdenes de captura,estructuras criminales,Grupo Delincuencial Organizado,actos violentos,atentado,Asesinado",
+  "lead": "La Policía reveló que han sido capturadas 64 personas requeridas por homicidio, desde el pasado mes de agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Suspenden clases para 300 estudiantes en Íquira, Huila",
+  "enlace": "https://www.lafm.com.co/orden-publico/suspenden-clases-presencias-iquira-huila-farc-cilindro-bomba-414364",
+  "fecha": "2026-10-19T06:39:00-05:00",
+  "palabras": "Orden Público,Estudio,educación virtual,Alteración al orden público,Huila,disidencias",
+  "lead": "Los estudiantes verán clases virtuales debido a que el cilindro se encuentra a 500 metro de la institución.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Exfuncionaria de Daniel Quintero reveltó presunta corrupción",
+  "enlace": "https://www.lafm.com.co/actualidad/testimonio-investigacion-fbi-exalcalde-daniel-quintero-414363",
+  "fecha": "2026-10-19T06:28:00-05:00",
+  "palabras": "Actualidad,Daniel Quintero,Medellín, Colombia,Fiscalía General de la Nación",
+  "lead": "Testimonio de exfuncionaria de Daniel Quintero sería clave en investigación por presunta corrupción en Medellín",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
