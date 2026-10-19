@@ -4,7 +4,7 @@ import sys
 import urllib.request
 
 from radar.modelo import Noticia
-from radar.reglas import IDS_SECCION, PALABRAS, PROGRAMAS, texto_plano
+from radar.reglas import COLOMBIA, EXTRANJERO, IDS_SECCION, PALABRAS, PROGRAMAS, RUTAS_INTERNACIONAL, texto_plano
 
 URL_MODELOS = "https://models.github.ai/inference/chat/completions"
 TAMANO_LOTE = 30
@@ -12,6 +12,12 @@ TAMANO_LOTE = 30
 def _tiene(texto: str, palabras: list[str]) -> bool:
     # Palabra completa: "ministra" no cuenta dentro de "administración"
     return any(re.search(rf"\b{re.escape(p)}\b", texto) for p in palabras)
+
+def es_internacional(n: Noticia) -> bool:
+    titulo = texto_plano(n.titulo)
+    if _tiene(titulo, COLOMBIA):
+        return False
+    return any(r in n.enlace for r in RUTAS_INTERNACIONAL) or _tiene(titulo, EXTRANJERO)
 
 def seccion_por_palabras(n: Noticia) -> str:
     titulo, etiquetas = texto_plano(n.titulo), texto_plano(n.palabras)
@@ -22,6 +28,8 @@ def seccion_por_palabras(n: Noticia) -> str:
     # alto impacto, solo el título (el resumen menciona tragedias de pasada); política, todo.
     if _tiene(f"{titulo} {etiquetas}", PALABRAS["tolima"]):
         return "tolima"
+    if es_internacional(n):
+        return "internacional"
     if _tiene(titulo, PALABRAS["alto"]):
         return "alto"
     if _tiene(todo, PALABRAS["politica"]):
@@ -32,11 +40,12 @@ INSTRUCCIONES = """Eres el clasificador de noticias de la Oficina del Diputado F
 Pon cada noticia NUEVA en UNA sección, con esta prioridad (gana la primera que aplique):
 - mesas: viene de un programa de la mañana: Mañanas Blu (Néstor Morales, Blu Radio), Julio Sánchez Cristo (Caracol Radio) o Juan Lozano (La FM); entrevistas a ministros, al presidente o a políticos.
 - tolima: Ibagué o municipios del Tolima (gana sobre todo lo demás).
+- internacional: pasa en otro país y no toca a Colombia.
 - alto: alto impacto nacional: sismos, atentados, catástrofes, muerte de figuras públicas, orden público grave, decisiones que afectan a todo el país.
 - politica: política nacional (Gobierno, Congreso, partidos, cortes, organismos de control, elecciones).
 - otras: todo lo demás.
 Si una noticia nueva cuenta el MISMO hecho que una RECIENTE (rK) o que otra NUEVA anterior (nK), pon igual_a con ese código; si no, null.
-Responde SOLO JSON: {"noticias": [{"i": <índice de la nueva>, "seccion": "<mesas|alto|politica|tolima|otras>", "igual_a": "<rK|nK|null>"}]} con una entrada por cada noticia nueva."""
+Responde SOLO JSON: {"noticias": [{"i": <índice de la nueva>, "seccion": "<mesas|tolima|internacional|alto|politica|otras>", "igual_a": "<rK|nK|null>"}]} con una entrada por cada noticia nueva."""
 
 def armar_mensajes(nuevas: list[Noticia], recientes: list[Noticia]) -> list[dict]:
     lineas = ["RECIENTES:"] + [f"r{k}: [{r.medio}] {r.titulo}" for k, r in enumerate(recientes)]
@@ -53,7 +62,7 @@ def interpretar_respuesta(texto: str, n_nuevas: int, n_recientes: int) -> list[d
         i, seccion, igual = f.get("i"), f.get("seccion"), f.get("igual_a")
         if not isinstance(i, int) or not 0 <= i < n_nuevas or i in vistos:
             raise ValueError(f"índice inválido: {i}")
-        if seccion not in IDS_SECCION[:5]:
+        if seccion not in IDS_SECCION or seccion == "sin":
             raise ValueError(f"sección inválida: {seccion}")
         if igual is not None:
             tipo, num = str(igual)[:1], str(igual)[1:]

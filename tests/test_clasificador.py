@@ -86,3 +86,15 @@ def test_alto_impacto_nuevas_palabras():
 def test_politica_nuevas_palabras():
     assert seccion_por_palabras(n("Caso UNGRD: Iván Name y Andrés Calle salieron de La Picota")) == "politica"
     assert seccion_por_palabras(n("FMI advierte que la situación fiscal de Colombia no es sostenible")) == "politica"
+
+def test_internacional_por_enlace_o_por_pais_pero_no_si_toca_a_colombia():
+    assert seccion_por_palabras(n("Gobierno francés pide toques de queda", enlace="https://www.lafm.com.co/internacional/x-1")) == "internacional"
+    assert seccion_por_palabras(n("Macron rechaza dimisión del ministro del Interior")) == "internacional"
+    assert seccion_por_palabras(n("Lula y Flávio Bolsonaro chocan en un debate")) == "internacional"
+    assert seccion_por_palabras(n("Acero de China y Rusia vuelve a entrar al país sin arancel")) != "internacional"
+    assert seccion_por_palabras(n("Valid, empresa de Brasil, quiere entrar a Colombia")) != "internacional"
+    assert seccion_por_palabras(n("Colombianos atrapados en Francia", enlace="https://www.bluradio.com/mundo/x")) != "internacional"
+    assert seccion_por_palabras(n("Ministro y el Congreso")) == "politica"
+
+def test_internacional_no_se_lleva_noticias_de_ciudades_colombianas():
+    assert seccion_por_palabras(n("En Pereira, capturan a cabecilla de red que operaba en Brasil")) != "internacional"
