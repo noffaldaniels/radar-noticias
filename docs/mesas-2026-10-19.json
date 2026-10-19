@@ -321,6 +321,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Reportó que el grupo Marte del Ejército Nacional desactivó varios artefactos explosivos instalados por disidencias de las FARC en alcantarillas de la vía Panamericana, entre Piedra Sentada y el peaje de El Bordo.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Javier Segura, periodista de Mañanas Blu",
+   "que": "Informó que el Gobierno expedirá un decreto el 30 de noviembre para delimitar por coordenadas el mar territorial de San Andrés y buscará un diálogo bilateral con Nicaragua sobre el fallo de La Haya de 2012.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:44",
+   "quien": "Camila Carvajal, periodista de Mañanas Blu",
+   "que": "Reportó que la Superintendencia de Salud intervino por un año el Hospital Departamental de San Andrés tras hallar que 13 de 59 servicios no se prestan y evidenciar un rezago en facturación de 3.605 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:47",
+   "quien": "Paola Ochoa, periodista de Mañanas Blu",
+   "que": "Señaló que el Congreso tiene 41 horas para aprobar en último debate el Presupuesto General de la Nación por 634,9 billones de pesos o el Gobierno podrá expedirlo vía decreto.",
+   "resaltar": false
   }
  ],
  "avisos": []
