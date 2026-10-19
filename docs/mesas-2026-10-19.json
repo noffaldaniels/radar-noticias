@@ -230,6 +230,20 @@
    "quien": "Julio Sánchez Cristo, director de 6AM con Julio Sánchez Cristo",
    "que": "El Gobierno dio por terminada la etapa de diálogo y ordenó la intervención de la Unidad Nacional Antidisturbios ante las protestas frente al Museo Nacional, mientras la directora del Instituto Colombiano de Bienestar Familiar denunció que los manifestantes utilizaron a niños como escudos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:23",
+   "quien": "Aída Avella, senadora",
+   "que": "Anunció que citará a debate de control político a la ministra de Cultura por presunta censura y retiro de obras alusivas a la historia política y la Asamblea Nacional Constituyente en el Museo Nacional.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:26",
+   "quien": "David Cote, representante a la Cámara por el Centro Democrático",
+   "que": "Denunció que en el Museo Nacional se hacía apología del delito al exaltar a las guerrillas y recordó cifras de la Comisión de la Verdad: las FARC reclutaron 18.000 niños, las FARC y el ELN asesinaron a más de 35.000 personas, y el M-19 secuestró a 680 personas.",
+   "resaltar": true
   }
  ],
  "avisos": []
