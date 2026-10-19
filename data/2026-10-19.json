@@ -2185,7 +2185,7 @@
   "palabras": "Coca-Cola, KFC, Estados Unidos",
   "lead": "La cadena de restaurantes anunció que modificaría su oferta de bebidas para Estados Unidos con una decisión que pone fin a una relación comercial con un pasado bastante particular.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "Fenómeno de El Niño, Energía eléctrica",
   "lead": "El congresista aclaró que su propuesta no consiste en eliminar las luces de Navidad, sino en buscar alternativas para disminuir la demanda de energía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "San Andrés y Providencia, Ministerio de Salud",
   "lead": "La revisión abarcará contratos, facturas y el manejo de los recursos públicos de la institución, intervenida por la Superintendencia Nacional de Salud. También se conformará un equipo técnico para apoyar la recuperación de los servicios hospitalarios.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "Noticias de hoy, Cali, Racionamiento de agua",
   "lead": "Las fuertes lluvias de los últimos días permitió la estabilización del nivel del río Meléndez, que abastece la planta de tratamiento La Reforma.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "Francia, Protestas en Francia, París",
   "lead": "El conflicto comenzó semanas atrás como una marcha del sector educativo motivada por el mal estado de las infraestructuras en los liceos, la escasez de cupos universitarios y el déficit de docentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "Santander, Energía eléctrica, Electrificadora de Santander, Blu Radio, Noticias de hoy",
   "lead": "La medida hace parte de un programa de ahorro de energía ante las condiciones asociadas al fenómeno de El Niño. Quienes consuman menos del 90 % de su meta podrían recibir un saldo a favor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "Noticias de hoy, Ministerio de Minas y Energía",
   "lead": "Las víctimas pertenecerían a una misma familia. Campesinos, organismos de socorro y habitantes de la comunidad adelantan labores de búsqueda.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "Santander, Menores de edad, Educación, Robots, Minería, Blu Radio, Noticias de hoy",
   "lead": "Niñas de Santander crean robot para detectar gases tóxicos en minas y representarán a Colombia en Austria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "Prosperidad Social, Renta Joven, Pagos electrónicos",
   "lead": "Prosperidad Social pagará el quinto ciclo de Renta Joven a finales de octubre: este es el calendario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "Universidad Nacional de Colombia",
   "lead": "Uno de los presuntos implicados en el ataque contra Kevin Arriguí, representante estudiantil de la Universidad Nacional, sería integrante de las disidencias de las Farc, según los avances de la investigación de la Fiscalía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "",
   "lead": "El alto tribunal concluyó que Tarquino incurrió en el delito de concusión en calidad de interviniente",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,7 +2306,7 @@
   "palabras": "",
   "lead": "Herci Macariz, presidenta de SITRAHOSAPS, negó rumores de que el sindicato se habría puesto en oposición al proceso de intervención del centro hospitalario.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "",
   "lead": "Recientemente, el presidente De la Espriella anunció que el próximo 30 de noviembre firmará y expedirá el decreto de líneas de base del archipiélago de San Andrés, Providencia y Santa Catalina.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "",
   "lead": "La Alcaldía verifica cuántas familias necesitan atención tras los nuevos enfrentamientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "",
   "lead": "Critican la falta de aplicación de la tarifa diferencial y el desmonte de peajes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "",
   "lead": "Indica el Ministerio de Salud que a la fecha al menos 4.900 pacientes del archipiélago ya han sido atendidos en el marco del Plan de Choque en Salud.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "",
   "lead": "Presley Gerber, hijo de la supermodelo Cindy Crawford y del empresario Rande Gerber, falleció en un centro de rehabilitación, según los registros de la oficina del médico forense del condado de Los Ángeles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "",
   "lead": "El colombiano estará varias semanas fuera de los terrenos de juego.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "",
   "lead": "También se estudia la posibilidad de instalar estructuras que impidan la circulación de motocicletas por el espacio destinado a la cicloruta",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,7 +2394,7 @@
   "palabras": "",
   "lead": "El maestro herrero Elías Alquerque Rada propone una mesa de trabajo para investigar, documentar y conservar las antiguas forjas del monumento, cuyo deterioro, advierte, requiere una intervención especializada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2405,7 +2405,7 @@
   "palabras": "",
   "lead": "Germán Calderón España, director de la ANDJE y Mauricio Jaramillo, exvicecanciller, se refirieron en 6AM W a la norma, anunciada por el presidente Abelardo de la Espriella, que incorporará coordenadas a las cartas náuticas nacionales y establecerá referencias para distintas mediciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "",
   "lead": "Fueron capturados en los barrios Centro, La Avanzada y Eucaliptos de la capital caldense",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "",
   "lead": "La presencia de la enfermedad fue confirmada en zonas productoras entre Villavicencio y Puerto Gaitán",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,7 +2438,7 @@
   "palabras": "",
   "lead": "Los delitos por los que se pidió formulación de imputación son: homicidio agravado y homicidio agravado en grado de tentativa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2449,7 +2449,7 @@
   "palabras": "",
   "lead": "Piedras Blancas registra el mayor avance, con el 87 % de la meta de ahorro por hogar, mientras que La Fe y Riogrande II presentan importantes brechas frente a los objetivos establecidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2460,7 +2460,7 @@
   "palabras": "",
   "lead": "Prosperidad Social anunció la entrega del quinto ciclo de Renta Joven de 2026 para 5.796 estudiantes de Santander, entre el 21 y el 28 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2471,7 +2471,7 @@
   "palabras": "",
   "lead": "A septiembre de 2026, la capital registra 38.853 viviendas de interés social vendidas en los últimos 12 meses, un crecimiento del 18 %.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2482,7 +2482,7 @@
   "palabras": "",
   "lead": "Olguín Mayorga, presidente de la Asociación Nacional de Víctimas, denunció que al menos 19 personas permanecerían retenidas en un campamento guerrillero desde hace más de siete meses.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2493,7 +2493,7 @@
   "palabras": "Sociedad,Biografía,Artistas,Actuación,Memoria,Cultura,Homenaje,Producciones,Días de luto,Eventos presenciales",
   "lead": "Martínez estudió en el Real Conservatorio Profesional de Danza Mariemma y en el Conservatorio Superior de Danza de Madrid.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2504,7 +2504,7 @@
   "palabras": "Internacional,Premier League,Manchester City,Fútbol,Inglaterra,Erling Haaland",
   "lead": "El diario británico señala que el equipo inglés podría permanecer incluso una temporada adicional en el Championship por drástica deducción de puntos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2515,7 +2515,7 @@
   "palabras": "Orden Público,Arauca,ELN,Abelardo de la Espriella,Fuerzas Militares,Control en fronteras,Ejército Nacional,FAC,Armada Nacional,Policía Nacional",
   "lead": "El encuentro se lleva a cabo en las instalaciones de la Brigada 18, de la Octava División del Ejército Nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "Internacional,CNN,Estados Unidos",
   "lead": "La presentadora dejará CNN en junio de 2027 y se dedicará a proyectos personales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "Deportes,Contenido patrocinado,Partidos hoy,Fútbol,Eventos deportivos,Semifinales,Copa Libertadores,Champions League,cuartos de final,Grandes Ligas,Boxeo,artes marciales",
   "lead": "Contenido patrocinado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,7 +2548,7 @@
   "palabras": "Economía,Ecopetrol,Desabastecimiento de gas natural,Gas natural,Importaciones,Reservas de gas,Mercados internacionales,costos,consumidores,contratos",
   "lead": "La compañía buscará nuevas alternativas de suministro mientras acelera el desarrollo de Sirius y otros proyectos de producción nacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2559,7 +2559,7 @@
   "palabras": "Actualidad,puente,TransMilenio,obras en vías,infraestructura,megaproyecto",
   "lead": "La nueva estructura estará lista en un año y contará con dos carriles por sentido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2570,7 +2570,7 @@
   "palabras": "Entretenimiento,Victoria's Secret,Modelo,Los Ángeles,famosos",
   "lead": "La modelo colombiana contó cómo superó dos intentos fallidos, se preparó por su cuenta y cumplió su sueño de desfilar en Pink.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2581,7 +2581,7 @@
   "palabras": "Sociedad,Ministerio de Cultura,Museos,Protestas en Colombia,Manifestantes,Vandalismo,Alteración al orden público,Protocolo sobre protesta social,Centro de Memoria Histórica,Justicia transicional,victimas del conflicto armado",
   "lead": "Paola Holguín defendió la revisión del Museo Nacional tras protestas: garantizan protesta pacífica y se retirarían más de 30 obras.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2592,7 +2592,7 @@
   "palabras": "Actualidad,Rescate,Minería,Emergencia,Agencia Nacional de Minería,Bomberos,Defensa Civil,Incendios forestales en Colombia",
   "lead": "Los rescatistas necesitan reducir cerca de cuatro metros el nivel del agua para avanzar hacia el punto donde se encontraría el trabajador.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2602,6 +2602,358 @@
   "fecha": "2026-10-19T10:50:00-05:00",
   "palabras": "Sociedad,VIH,Tuberculosis,Investigaciones,Tratamiento médico,preventa,Vigilancia,Ministerio de Salud,pacientes,Expertos,Población vulnerable",
   "lead": "Una investigación basada en un modelo matemático proyectó que suministrar tratamiento preventivo a todas las personas con VIH podría evitar más de 66.000 c...",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "EEUU amenaza a Europa con represalias devastadoras si se restringe a empresa de Elon Musk",
+  "enlace": "https://www.bluradio.com/mundo/eeuu-amenaza-a-europa-con-represalias-devastadoras-si-se-restringe-a-empresa-de-elon-musk-rs15",
+  "fecha": "2026-10-19T12:49:04-05:00",
+  "palabras": "Tecnología, Donald Trump, Elon Musk, Europa, Unión Europea",
+  "lead": "Estados Unidos advirtió a la Unión Europea sobre represalias económicas contra sus empresas si Bruselas avanza en medidas que limitan el acceso de SpaceX o Starlink al mercado comunitario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Crisis en el sector gastronómico de Medellín? Altos precios tienen en jaque a los restaurantes",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/crisis-en-el-sector-gastronomico-de-medellin-altos-precios-tienen-en-jaque-a-los-restaurantes-rg10",
+  "fecha": "2026-10-19T12:11:19-05:00",
+  "palabras": "Antioquia, Valle de Aburrá, Medellín, Economía, Gastronomía",
+  "lead": "Mientras los comensales aseguran que los costos son muy altos, los restauranteros manifiestan que los insumos han aumentado, haciendo su operación más costosa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Juez ordena al Museo Nacional que conserve la totalidad de las piezas retiradas por MinCultura",
+  "enlace": "https://www.bluradio.com/judicial/juez-ordena-al-museo-nacional-que-conserve-la-totalidad-de-las-piezas-retiradas-por-mincultura-ex40",
+  "fecha": "2026-10-19T12:20:57-05:00",
+  "palabras": "Ministerio de Cultura, Abelardo De La Espriella, Union Patriótica, Conflicto armado en Colombia",
+  "lead": "La decisión también prohíbe destruir, alterar, trasladar fuera de las instalaciones o devolver a terceros las piezas retiradas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del sorteo de Chontico Día hoy, lunes 19 de octubre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-sorteo-de-chontico-dia-hoy-lunes-19-de-octubre-de-2026-numero-ganador-so35",
+  "fecha": "2026-10-19T12:17:28-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Día",
+  "lead": "Consulte el resultado del sorteo de Chontico Día de este lunes 19 de octubre de 2026. Conozca el número ganador, las dos y tres últimas cifras, la quinta balota, los horarios y las modalidades de apuesta de este popular chance colombiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a cuatro policías por presunta responsabilidad en la muerte de Donovan Balanta en Soacha",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/capturan-a-cuatro-policias-por-presunta-responsabilidad-en-la-muerte-de-donovan-balanta-en-soacha-rg10",
+  "fecha": "2026-10-19T12:26:20-05:00",
+  "palabras": "Soacha",
+  "lead": "Cuatro integrantes de la Policía Nacional, un mayor, un subintendente y dos patrulleros, fueron capturados por su presunta participación en las agresiones y posibles omisiones de asistencia médica que habrían precedido la muerte de Donovan Balanta Paz, de 34 años, quien falleció el 20 de septiembre…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado sorteo de Paisita Día hoy, lunes 19 de octubre de 2026: consulte el número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-sorteo-de-paisita-dia-hoy-lunes-19-de-octubre-de-2026-consulte-el-numero-ganador-so35",
+  "fecha": "2026-10-19T12:35:47-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita día",
+  "lead": "Consulte el resultado del sorteo de Paisita Día de este lunes 19 de octubre de 2026. Conozca el número ganador, las dos y tres últimas cifras, la quinta balota, los horarios del sorteo y los requisitos para reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía imputará a Zulma Guzmán por caso de envenenamiento por talio",
+  "enlace": "https://www.bluradio.com/regiones/bogota/fiscalia-imputara-a-zulma-guzman-por-caso-de-envenenamiento-por-talio-rg10",
+  "fecha": "2026-10-19T12:39:13-05:00",
+  "palabras": "Zulma Guzman Castro",
+  "lead": "Guzmán permanece detenida en Londres. Las autoridades colombianas continúan a la espera de que Reino Unido resuelva la solicitud de extradición para que pueda comparecer ante la justicia en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre cayó de un edificio tras intentar escapar del esposo de su amante: todo quedó en video",
+  "enlace": "https://www.bluradio.com/mundo/hombre-cayo-de-un-edificio-tras-intentar-escapar-del-esposo-de-su-amante-todo-quedo-en-video-so35",
+  "fecha": "2026-10-19T13:04:07-05:00",
+  "palabras": "Sociedad, Viral, México",
+  "lead": "En el video se puede ver el instante en el que cayó al vacío ante la mirada de los presentes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno ya no se 'lavará las manos' con los efectos del aumento del mínimo en las pensiones",
+  "enlace": "https://www.bluradio.com/economia/gobierno-ya-no-se-lavara-las-manos-con-los-efectos-del-aumento-del-minimo-en-las-pensiones-rg10",
+  "fecha": "2026-10-19T13:02:10-05:00",
+  "palabras": "Pensiones, Salario mínimo",
+  "lead": "Está publicado para comentarios un proyecto de decreto que restablece la operación del mecanismo de compensación a las aseguradoras que ofrecen rentas vitalicias a quienes buscan pensionarse en el esquema privado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sector arrocero tendrá nuevo modelo de ordenamiento productivo para estabilizar el mercado",
+  "enlace": "https://caracol.com.co/2026/10/19/sector-arrocero-tendra-nuevo-modelo-de-ordenamiento-productivo-para-estabilizar-el-mercado/",
+  "fecha": "2026-10-19T12:58:48-05:00",
+  "palabras": "",
+  "lead": "La nueva estrategía busca mejorar la competitividad y sostenibilidad del cultivo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Al menos nueve muertos dejó un accidente minero en Iscuandé, Nariño",
+  "enlace": "https://caracol.com.co/2026/10/19/al-menos-nueve-muertos-dejo-un-accidente-minero-en-iscuande-narino/",
+  "fecha": "2026-10-19T12:55:39-05:00",
+  "palabras": "",
+  "lead": "A través de un comunicado, la Defensoría del Pueblo advirtió que la prioridad en este momento es “salvar vidas y garantizar una atención inmediata y coordinada de la emergencia”.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Por qué se necesita un decreto limítrofe para San Andrés? Exagente de Colombia ante la CIJ explicó",
+  "enlace": "https://caracol.com.co/2026/10/19/por-que-se-necesita-un-decreto-limitrofe-para-san-andres-exagente-de-colombia-ante-la-cij-explica/",
+  "fecha": "2026-10-19T12:08:22-05:00",
+  "palabras": "",
+  "lead": "Carlos Gustavo Arrieta, quien fue agente del Estado colombiano ante la Corte Internacional de Justicia en La Haya, habló en Caracol Radio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habitantes de las comunas 18 y 20 de Cali denuncian problemas de suministro de agua",
+  "enlace": "https://caracol.com.co/2026/10/19/habitantes-de-las-comunas-18-y-20-de-cali-denuncian-problemas-de-suministro-de-agua/",
+  "fecha": "2026-10-19T12:44:28-05:00",
+  "palabras": "",
+  "lead": "Comunidades de sectores como Los Chorros y Las Parcelas aseguran que deben recurrir a cañadas y recoger agua durante la madrugada para abastecer sus hogares. Emcali afirma que las lluvias recientes mejoraron los niveles de los ríos y anunció que revisará cada caso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensoría del Pueblo pide atención urgente por emergencia en mina de oro en Nariño",
+  "enlace": "https://caracol.com.co/2026/10/19/defensoria-del-pueblo-pide-atencion-urgente-por-emergencia-en-mina-de-oro-en-narino/",
+  "fecha": "2026-10-19T12:43:24-05:00",
+  "palabras": "",
+  "lead": "La entidad alertó sobre un deslizamiento de tierra ocurrido en una mina de oro en Santa Bárbara de Iscuandé, que habría dejado varias víctimas. Solicitó apoyo aéreo, atención hospitalaria y garantías de seguridad para los equipos de rescate.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Sí es posible”: el mensaje de Honey Ordoñez, la colombiana que desfiló en Victoria’s Secret 2026",
+  "enlace": "https://caracol.com.co/2026/10/19/si-es-posible-el-mensaje-de-honey-ordonez-la-colombiana-que-desfilo-en-victorias-secret-2026/",
+  "fecha": "2026-10-19T12:40:17-05:00",
+  "palabras": "",
+  "lead": "Honey Ordoñez, modelo nacida en San Andrés, represento a Colombia y Nicaragua en el Victoria’s Secret Fashion Show 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cúcuta se mantiene en alerta roja por incendios forestales",
+  "enlace": "https://caracol.com.co/2026/10/19/cucuta-se-mantiene-en-alerta-roja-por-incendios-forestales/",
+  "fecha": "2026-10-19T12:38:51-05:00",
+  "palabras": "",
+  "lead": "Las autoridades han atendido entre 15 y 20 emergencias en la zona rural.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos meses después del terremoto, el Concejo de Florida sigue sin recinto para sesionar",
+  "enlace": "https://caracol.com.co/2026/10/19/dos-meses-despues-del-terremoto-el-concejo-de-florida-sigue-sin-recinto-para-sesionar/",
+  "fecha": "2026-10-19T12:37:36-05:00",
+  "palabras": "",
+  "lead": "Los daños en el techo del recinto municipal aún no han sido reparados. Los concejales advierten dificultades para ejercer el control político.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cucuteños dieron respaldo a la fuerza rosa",
+  "enlace": "https://caracol.com.co/2026/10/19/cucutenos-dieron-respaldo-a-la-fuerza-rosa/",
+  "fecha": "2026-10-19T12:37:11-05:00",
+  "palabras": "",
+  "lead": "Con una actividad deportiva se desarrollo campaña para la prevención del cáncer de mama",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Champions League 2026-2027: prográmese con los mejores partidos y los colombianos en la fecha 3",
+  "enlace": "https://caracol.com.co/2026/10/19/champions-league-2026-2027-programese-con-los-mejores-partidos-y-los-colombianos-en-la-fecha-3/",
+  "fecha": "2026-10-19T12:32:55-05:00",
+  "palabras": "",
+  "lead": "PSG-Barcelona y Bayern Múnich-Arsenal sobresalen como los partidos más llamativos de la jornada europea.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué es el SIGEP II y para qué sirve? Así es el formato para la Declaración de bienes y rentas y más",
+  "enlace": "https://caracol.com.co/2026/10/19/que-es-el-sigep-ii-y-para-que-sirve-asi-es-el-formato-para-la-declaracion-de-bienes-y-rentas-y-mas/",
+  "fecha": "2026-10-19T12:31:06-05:00",
+  "palabras": "",
+  "lead": "Conozca que es el SIGEP II y para quién o quiénes aplica esta normativa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Secretario de Tránsito de Ocaña, Norte de Santander, denuncia agresión durante procedimiento vial",
+  "enlace": "https://caracol.com.co/2026/10/19/secretario-de-transito-de-ocana-norte-de-santander-denuncia-agresion-durante-procedimiento-vial/",
+  "fecha": "2026-10-19T12:27:50-05:00",
+  "palabras": "",
+  "lead": "Enrique Noguera aseguró que fue atacado por dos hombres y ofreció disculpas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cancillería abrió convocatoria para prácticas 2027-I con plazas en el exterior, ¿son pagas? Pilas",
+  "enlace": "https://caracol.com.co/2026/10/19/cancilleria-abrio-convocatoria-para-practicas-2027-i-con-plazas-en-el-exterior-son-pagas-pilas/",
+  "fecha": "2026-10-19T12:20:17-05:00",
+  "palabras": "",
+  "lead": "Así es el proceso para inscribirse en las prácticas laborales en la Cancillería y todos los documentos que deben tener los interesados a la mano.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hay opacidad de información”: Humberto Tobón, sobre plata para reconstrucción tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/19/hay-opacidad-de-informacion-humberto-tobon-sobre-plata-para-reconstruccion-tras-el-terremoto/",
+  "fecha": "2026-10-19T12:17:36-05:00",
+  "palabras": "",
+  "lead": "El Gobierno Nacional, se alista para tomar una decisión sobre el Presupuesto General de la Nación para el otro año.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan denuncias de robos con gas pimienta en concierto de Ryan Castro en Cali",
+  "enlace": "https://caracol.com.co/2026/10/19/investigan-denuncias-de-robos-con-gas-pimienta-en-concierto-de-ryan-castro-en-cali/",
+  "fecha": "2026-10-19T12:12:37-05:00",
+  "palabras": "",
+  "lead": "La Sijín recopila pruebas para identificar a los responsables de los hurtos reportados en el estadio Pascual Guerrero. El presunto uso de gas pimienta está bajo verificación",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía de Cartagena reporta 54 capturados por diferentes delitos",
+  "enlace": "https://caracol.com.co/2026/10/19/policia-de-cartagena-reporta-54-capturados-por-diferentes-delitos/",
+  "fecha": "2026-10-19T12:04:39-05:00",
+  "palabras": "",
+  "lead": "Durante las intervenciones se incautaron 10 armas de fuego, entre ellas, seis de fabricación artesanal",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quién manda en el arbitraje colombiano? Renuncia reavivó dudas",
+  "enlace": "https://www.lafm.com.co/deportes/quien-manda-en-el-arbitraje-colombiano-renuncia-genera-dudas-414412",
+  "fecha": "2026-10-19T13:03:00-05:00",
+  "palabras": "Deportes,Árbitros,Renuncia de funcinarios,Conflicto de intereses,Vigilancia,Federación Colombiana de Fútbol",
+  "lead": "El arbitraje es una pieza fundamental para la credibilidad de las competiciones, y conocer quién designa a los jueces y qué instancias supervisan el proces...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Wilmar Paredes gana la tercera etapa del Clásico RCN 2026",
+  "enlace": "https://www.lafm.com.co/deportes/clasico-rcn-2026-wilmar-paredes-gana-tercera-etapa-resultados-414384",
+  "fecha": "2026-10-19T12:57:00-05:00",
+  "palabras": "Deportes,Clásico RCN,Deportes Tolima,Ibagué,Eventos deportivos",
+  "lead": "La fracción también dejó protagonismo para la clasificación de montaña, en la que Óscar Sevilla, compañero de Paredes en el Team Medellín, encabezó el podi...",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tras revelaciones de Mancuso, Gustavo Petro niega haber ordenado perseguir a Álvaro Uribe",
+  "enlace": "https://www.lafm.com.co/politica/revelaciones-de-salvatore-mancuso-gustavo-petro-niega-haber-ordenado-perseguir-alvaro-uribe-414421",
+  "fecha": "2026-10-19T12:42:00-05:00",
+  "palabras": "Política,Gustavo Petro,Salvatore Mancuso,Acusaciones,Álvaro Uribe,Paramilitares,Proceso de Paz,Justicia transicional,Abelardo de la Espriella,Germán Vargas Lleras,Falsos rumores",
+  "lead": "Asegura que no permitirá que se hagan acusaciones en su contra sin pruebas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fiscalía imputará a Zulma Guzmán por envenenamiento de dos menores",
+  "enlace": "https://www.lafm.com.co/orden-publico/zulma-guzman-fiscalia-envenenamiento-dos-menores-hoy-imputacion-414420",
+  "fecha": "2026-10-19T12:32:00-05:00",
+  "palabras": "Orden Público,Intoxicación,Homicidios,Fiscalía General de la Nación,Medicina Legal,Órdenes de captura,Tóxico,Detenidos,presos,Víctimas,Procesos judiciales",
+  "lead": "De acuerdo con la Fiscalía, Guzmán estaría detrás de la muerte de Inés de Bedout y Emilia Forero, quienes fallecieron en abril de 2025",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Justicia de Kenia declara culpable a líder de secta del \"fin del mundo\" por el asesinato de 191 niños",
+  "enlace": "https://www.lafm.com.co/internacional/culpable-asesinato-191-ninos-lider-secta-religiosa-kenia-414418",
+  "fecha": "2026-10-19T12:10:00-05:00",
+  "palabras": "Internacional,Sectas,Líderes religiosos,Kenia,Culto religioso,Apocalipsis,Homicidios",
+  "lead": "Paul Mackenzie convenció a sus seguidores de dejar morir de hambre a sus hijos pequeños para \"poder ir al cielo\".",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De la Espriella exige respuestas a Benedetti por pacto con exparamilitares",
+  "enlace": "https://www.lafm.com.co/politica/presidente-abelardo-de-la-espriella-llama-criminal-a-armando-benedetti-tras-version-de-salvatore-mancuso-414410",
+  "fecha": "2026-10-19T11:48:00-05:00",
+  "palabras": "Política,Grupos delincuenciales,Armando Benedetti,Salvatore Mancuso,Gustavo Petro,Paramilitares,Álvaro Uribe,Germán Vargas Lleras,Proceso de Paz,Justicia transicional,Negociadores de paz,Abelardo de la Espriella",
+  "lead": "“Esto es lo menos grave de todas las ilegalidades que ha cometido Benedetti”, escribió el Presidente De La Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "San Andrés: Gobierno investigará contratos, equipos médicos y posibles nóminas paralelas",
+  "enlace": "https://www.lafm.com.co/sociedad/hospital-san-adres-corrupcion-supersalud-investigacion-equipos-medicos-medicamentos-414388",
+  "fecha": "2026-10-19T09:58:00-05:00",
+  "palabras": "Sociedad,Superintendencia Nacional de Salud,intervención,Irregularidades en contratos,Irregularidades en manejo de recursos,recursos públicos,Investigaciones,Indagación preliminar,auditoria,Atención a pacientes,médicos",
+  "lead": "El Ministerio de Salud anunció la conformación de un equipo forense para examinar contratos, facturas y posibles irregularidades administrativas en el Hosp...",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
