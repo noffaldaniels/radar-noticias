@@ -6,6 +6,7 @@ SECCIONES = [
     ("politica", "Política nacional", "🏛"),
     ("tolima", "Ibagué y Tolima", "📍"),
     ("otras", "Otras noticias", "📰"),
+    ("deportes", "Deportes", "⚽"),
     ("internacional", "Internacional", "🌎"),
     ("sin", "Sin clasificar", "❔"),
 ]
@@ -38,6 +39,15 @@ PALABRAS = {
 
 # Internacional (pedido de Noffal, 19-oct): Blu y La FM lo marcan en el enlace; Caracol no, por eso la lista
 # de países y líderes (solo en el título). Si el título también habla de Colombia, no es internacional.
+# Deportes (pedido de Noffal, 19-oct): igual que Internacional, enlace en Blu y La FM y palabras (solo el título) en Caracol.
+RUTAS_DEPORTES = ["/deportes/", "/blog-deportivo/"]
+DEPORTES = ["futbol", "gol", "goles", "liga betplay", "liga colombiana", "liga el dorado", "dimayor", "champions",
+            "sudamericana", "libertadores", "conmebol", "seleccion colombia", "millonarios fc", "a millonarios", "con millonarios", "contra millonarios",
+            "millonarios vs", "junior", "america de cali",
+            "atletico nacional", "deportivo cali", "once caldas", "tabla de posiciones", "empate", "empatar", "invicto",
+            "clasico rcn", "tour de francia", "ciclismo", "ciclista", "tenis", "formula 1", "nba", "voleibol",
+            "baloncesto", "medallas", "cucho hernandez", "james rodriguez", "luis diaz", "cristiano ronaldo", "messi"]
+
 RUTAS_INTERNACIONAL = ["/mundo/", "/internacional/"]
 EXTRANJERO = ["francia", "frances", "francesa", "macron", "lecornu", "brasil", "lula", "bolsonaro", "rusia", "ruso", "rusa",
               "putin", "ucrania", "zelenski", "china", "estados unidos", "trump", "casa blanca", "venezuela", "maduro",

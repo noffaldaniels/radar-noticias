@@ -58,7 +58,7 @@ def test_ibague_gana_sobre_politica():
     assert seccion_por_palabras(n("Alcaldesa de Ibagué anuncia cierre de vías")) == "tolima"
 
 def test_partido_de_futbol_no_es_politica():
-    assert seccion_por_palabras(n("Nacional ganó el partido contra Millonarios")) == "otras"
+    assert seccion_por_palabras(n("Nacional ganó el partido contra Millonarios")) == "deportes"
     assert seccion_por_palabras(n("El Partido Liberal define candidato")) == "politica"
 
 # Casos reales del 16-oct-2026 (semana de prueba)
@@ -98,3 +98,13 @@ def test_internacional_por_enlace_o_por_pais_pero_no_si_toca_a_colombia():
 
 def test_internacional_no_se_lleva_noticias_de_ciudades_colombianas():
     assert seccion_por_palabras(n("En Pereira, capturan a cabecilla de red que operaba en Brasil")) != "internacional"
+
+def test_deportes_por_enlace_o_palabras_y_tolima_sigue_ganando():
+    assert seccion_por_palabras(n("Portugal sanciona a Cristiano Ronaldo", enlace="https://www.bluradio.com/deportes/futbol/x")) == "deportes"
+    assert seccion_por_palabras(n("Junior, al borde de la eliminación tras empate con Cali")) == "deportes"
+    assert seccion_por_palabras(n("El Manchester City podría descender por infracciones", enlace="https://www.lafm.com.co/deportes/x")) == "deportes"
+    assert seccion_por_palabras(n("Deportes Tolima ganó en Ibagué", enlace="https://www.lafm.com.co/deportes/x")) == "tolima"
+    assert seccion_por_palabras(n("A golpes terminó procedimiento de tránsito")) != "deportes"
+
+def test_millonarios_daños_no_es_deporte():
+    assert seccion_por_palabras(n("Protestas en Medellín: van 2.000 detenidos y millonarios daños")) != "deportes"

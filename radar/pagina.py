@@ -6,7 +6,7 @@ from radar.reglas import SECCIONES
 
 DIAS_SEMANA = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"]
 # Orden en pantalla (distinto de la prioridad para clasificar, que sigue en reglas.SECCIONES)
-ORDEN_PAGINA = ["mesas", "politica", "alto", "tolima", "otras", "internacional", "sin"]
+ORDEN_PAGINA = ["mesas", "politica", "alto", "tolima", "otras", "deportes", "internacional", "sin"]
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
 
 def nombre_archivo(fecha: str, hoy: str) -> str:

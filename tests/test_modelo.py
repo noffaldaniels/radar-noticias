@@ -13,4 +13,4 @@ def test_texto_plano_quita_tildes_y_mayusculas():
     assert texto_plano("Ibagué, TOLIMA: Néstor") == "ibague, tolima: nestor"
 
 def test_orden_de_secciones():
-    assert IDS_SECCION == ["mesas", "alto", "politica", "tolima", "otras", "internacional", "sin"]
+    assert IDS_SECCION == ["mesas", "alto", "politica", "tolima", "otras", "deportes", "internacional", "sin"]
