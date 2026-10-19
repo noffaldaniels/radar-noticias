@@ -2966,7 +2966,7 @@
   "palabras": "Noticias de hoy, Atlántico",
   "lead": "Minutos antes, el mismo líder había manifestado que llevaba una semana reportando a Air-e el daño de un transformador y que, pese al insistente llamado, aún no recibía respuesta de la compañía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2977,7 +2977,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Son al menos 12 casas las que están en riesgo y, según el Ideam, persisten los pronósticos de lluvia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2988,7 +2988,7 @@
   "palabras": "Antioquia, Toque de Queda, Policía Nacional, Menores de edad",
   "lead": "La medida regirá de lunes a domingo por ocho horas en zona urbana y rural del municipio.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2999,7 +2999,7 @@
   "palabras": "Noticias de hoy, Antioquia, Salud, Contaminación",
   "lead": "Los habitantes salieron a las calles a exigir soluciones inmediatas ante la contaminación ambiental generada por una empresa de carne de la zona.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3010,7 +3010,7 @@
   "palabras": "Noticias de hoy, Jamundí, Entrevista",
   "lead": "El exmandatario, en diálogo con Blu Radio, indicó que recibió una llamada del ministro del Interior pocos minutos después del ataque.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3021,7 +3021,7 @@
   "palabras": "Noticias de hoy",
   "lead": "La Gobernación del Atlántico entregó las obras de estabilización que permitieron recuperar 2,1 kilómetros de litoral y más de 80.000 metros cuadrados de playa en este corregimiento de Juan de Acosta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3032,7 +3032,7 @@
   "palabras": "Salud",
   "lead": "Huevos, frutas, verduras y otros alimentos básicos hacen parte de una cuenta que puede llevarse más de la mitad de los ingresos de un hogar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3043,7 +3043,7 @@
   "palabras": "Colpensiones, Procuraduría General de la Nación",
   "lead": "El convenio buscaba modernizar la infraestructura tecnológica de la entidad, pero sus modificaciones no tendrían suficiente sustento técnico.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3054,7 +3054,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Sinuano día",
   "lead": "Consulte el resultado del sorteo de Sinuano Día de este lunes 19 de octubre de 2026. Conozca el número ganador, las dos y tres últimas cifras, la quinta balota, el horario del chance y los requisitos para reclamar los premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3065,7 +3065,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Caribeña día",
   "lead": "Consulte el resultado del sorteo de Caribeña Día de este lunes 19 de octubre de 2026. Conozca el número ganador, las dos y tres últimas cifras, la quinta balota, los horarios y las condiciones para reclamar premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3076,7 +3076,7 @@
   "palabras": "Ministerio de Transporte, Código Nacional de Tránsito",
   "lead": "Bogotá es la primera parada de una agenda que llegará a Barranquilla, Cali y Medellín. La cartera propone cambios en multas, licencias, fotomultas y trámites.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3087,7 +3087,7 @@
   "palabras": "Cristiano Ronaldo, Portugal, CR7, Cristiano, Cristiano Ronaldo, sanción CR7, sanción Cristiano Ronaldo",
   "lead": "Cristiano, de 41 años, abandonó la selección por conflictos con Jorge Jesus, tras no haber sido alineado en el partido contra Noruega en Oslo el 27 de ese mismo mes (1-2).",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3098,7 +3098,7 @@
   "palabras": "",
   "lead": "La Agencia Distrital de Infraestructura reportó el retiro de aproximadamente 4.400 toneladas de residuos de la Trampa del Arroyo León.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3109,7 +3109,7 @@
   "palabras": "",
   "lead": "Las lluvias agravaron las afectaciones en el sector de La Cruz.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3120,7 +3120,7 @@
   "palabras": "",
   "lead": "La obra deberá estar lista antes de Navidad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3131,7 +3131,7 @@
   "palabras": "",
   "lead": "Un juez impuso una medida cautelar que prohíbe destruir, alterar, trasladar las piezas de arte fuera de las instalaciones del Museo Nacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3142,7 +3142,7 @@
   "palabras": "",
   "lead": "Este será su regreso a la capital colombiana en menos de un año, tras su presentación en el Festival Cordillera 2026, como la voz de Jarabe de Palo en un homenaje a Pau Donés.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3153,7 +3153,7 @@
   "palabras": "",
   "lead": "El astro portugués fue castigado por abandonar la concentración de la selección en la pasada fecha FIFA.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3164,7 +3164,7 @@
   "palabras": "",
   "lead": "Las estructuras eran señaladas por las autoridades con el consumo y la comercialización de estupefacientes, riñas y lesiones. Con esta intervención, el departamento llegó a 84 inmuebles demolidos de una meta de 100 durante el cuatrienio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3175,7 +3175,7 @@
   "palabras": "",
   "lead": "La Defensoría del Pueblo hace un llamado para que se atienda de manera urgente la emergencia .",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3186,7 +3186,7 @@
   "palabras": "Política,Salvatore Mancuso,Centro Democrático,Fiscalía General de la Nación,Investigaciones,Acusaciones,Álvaro Uribe,Abelardo de la Espriella,Germán Vargas Lleras",
   "lead": "El exjefe paramilitar Salvatore Mancuso confirmó que delegados del Gobierno Petro pidieron a excomandantes de las AUC, hacer acusaciones contra Álvaro Urib...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3197,7 +3197,7 @@
   "palabras": "Economía,Salario Mínimo,Aumento salarial,Negociación,Sindicatos,Líderes sindicales,productividad,Situación económica",
   "lead": "Las centrales obreras alistan su propuesta para el salario mínimo de 2027, mientras la nueva dirección de la CUT define su postura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3208,7 +3208,7 @@
   "palabras": "Orden Público,Homicidios,Asesinato,Víctimas,actos violentos,Funcionarios denunciados,imputan cargos,Capturados,Detenidos,Órdenes de captura,Fiscalía General de la Nación",
   "lead": "Medicina Legal concluyó que la causa de muerte del joven fue una arritmia cardíaca por descargas eléctricas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3219,7 +3219,7 @@
   "palabras": "Actualidad,Valle del Cauca,Cali, Colombia,Concierto,hurto,Ryan Castro,música,Investigaciones,Policía Nacional",
   "lead": "Víctimas de hurto denunciaron que delincuentes habrían rociado gas pimienta para facilitar el robo de sus pertenencias a las afueras del estadio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3230,7 +3230,7 @@
   "palabras": "Economía,Actividad económica,contracción económica,Crecimiento económico,Sectores económicos,Agricultura,Terremoto en Colombia,Desastres naturales,Problemas económicos,Medidas económicas",
   "lead": "La economía colombiana cayó 0,04% anual en agosto, mientras la agricultura, la minería, la industria y la construcción registraron retrocesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3241,7 +3241,7 @@
   "palabras": "Sociedad,Inteligencia artificial,Tecnología,Investigaciones,Ciencia",
   "lead": "La brecha de uso entre los diferentes motores de inteligencia artificial se ha reducido desde 2018.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3252,7 +3252,7 @@
   "palabras": "Orden Público,Ministerio de Justicia,Fiscalía General de la Nación,Gustavo Petro",
   "lead": "El MinJusticia pidió a la Fiscalía investigar el “pacto de Valledupar”: reuniones para obtener declaraciones contra Uribe y otros, con presuntos beneficios...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3262,6 +3262,391 @@
   "fecha": "2026-10-19T11:30:00-05:00",
   "palabras": "Actualidad,Valle del Cauca,Medio ambiente,polémica,inversión,Cali, Colombia,Jamundí",
   "lead": "La CVC alerta que el AMSO podría afectar la inversión ambiental en 40 municipios del Valle por cambios en $158.000 millones de la sobretasa.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué hay detrás de las protestas en Francia?: Mañanas Blu, 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/que-hay-detras-de-las-protestas-en-francia-mananas-blu-19-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-19T15:02:24-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 19 de octubre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Influencer suiza dio sorpresiva declaración sobre acento de los bogotanos: \"Va a generar polémica\"",
+  "enlace": "https://www.bluradio.com/sociedad/influencer-suiza-dio-sorpresiva-declaracion-sobre-acento-de-los-bogotanos-va-a-generar-polemica-so35",
+  "fecha": "2026-10-19T14:50:38-05:00",
+  "palabras": "Bogotá, Suiza, Viral",
+  "lead": "La joven reveló cómo aprendió el español, así como su experiencia desde que llegó a Colombia con el interés de estudiar una maestría.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sector camionero pide mesa de trabajo urgente al Gobierno por inseguridad en la vía Panamericana",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/sector-camionero-pide-mesa-de-trabajo-urgente-al-gobierno-por-inseguridad-en-la-via-panamericana-rg10",
+  "fecha": "2026-10-19T14:15:50-05:00",
+  "palabras": "Vía panamericana, Asociación Colombiana Camioneros",
+  "lead": "Los conductores están denunciando asaltos, secuestros y explosivos en la carretera, y exigen medidas de seguridad y reparación de los tramos deteriorados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía acusa al empresario de espectáculos Ricardo Leyva Páez por presunta violencia intrafamiliar",
+  "enlace": "https://www.bluradio.com/judicial/fiscalia-acusa-al-empresario-de-espectaculos-ricardo-leyva-paez-por-presunta-violencia-intrafamiliar-rg10",
+  "fecha": "2026-10-19T14:26:37-05:00",
+  "palabras": "Fiscalía General de la Nación",
+  "lead": "La abogada de víctimas sostuvo que, hasta el momento, la defensa de Leyva no ha presentado una solicitud de preacuerdo ni de principio de oportunidad relacionada con Santos. Sobre esta última posibilidad, precisó que requeriría la participación de la víctima en los términos correspondientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un helicóptero Black Hawk del Ejército se accidentó en el departamento del Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/un-helicoptero-black-hawk-del-ejercito-se-accidento-en-el-departamento-del-cauca-so35",
+  "fecha": "2026-10-19T14:27:20-05:00",
+  "palabras": "Ejército Nacional, Cauca, Ejército nacional, accidente helicóptero, cauca, helicóptero",
+  "lead": "Según información preliminar, en la aeronave se encontraban 19 ocupantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Liga El Dorado: confirman hora, fecha y estadio para el partido de León OP 10",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/confirman-hora-fecha-y-estadio-para-el-primer-partido-de-la-liga-el-dorado-so35",
+  "fecha": "2026-10-19T14:59:07-05:00",
+  "palabras": "Zipaquirá, Liga El Dorado, Omar Pérez, Zipaquira, estadio Zipaquira",
+  "lead": "Se espera conocer al primer campeón de este torneo a finales de este segundo semestre del 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"No voy a aceptar alianzas entre políticos con Farc y ELN\": De La Espriella en Arauca",
+  "enlace": "https://www.bluradio.com/nacion/no-voy-a-aceptar-alianzas-entre-politicos-con-farc-y-eln-de-la-espriella-en-arauca-rg10",
+  "fecha": "2026-10-19T14:44:27-05:00",
+  "palabras": "Abelardo De La Espriella, Arauca",
+  "lead": "El mandatario dijo que va a recuperar la seguridad de los territorios afectados por la violencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Habitante de calle se durmió al lado de cilindro con siglas del ELN abandonado en vía del Catatumbo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/habitante-de-calle-se-durmio-al-lado-de-cilindro-con-siglas-del-eln-abandonado-en-via-del-catatumbo-rs15",
+  "fecha": "2026-10-19T14:48:07-05:00",
+  "palabras": "Noticias de hoy, ELN",
+  "lead": "Videos aficionados captaron al hombre arrastrando el cilindro por diferentes calles del municipio de El Carmen.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Dorado Tarde hoy lunes 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-dorado-tarde-hoy-lunes-19-de-octubre-de-2026-rg10",
+  "fecha": "2026-10-19T14:56:25-05:00",
+  "palabras": "Dorado Tarde, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte el resultado del sorteo de Dorado Tarde de este lunes 19 de octubre de 2026. Conozca el número ganador, las dos y tres últimas cifras, la quinta balota, el horario del chance y el plan de premios para los apostadores en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No tenía conocimiento”: Gob. San Andrés sobre denuncias de nómina paralela y contratos en hospital",
+  "enlace": "https://caracol.com.co/2026/10/19/no-tenia-conocimiento-gob-san-andres-sobre-denuncias-de-nomina-paralela-y-contratos-en-hospital/",
+  "fecha": "2026-10-19T15:02:25-05:00",
+  "palabras": "",
+  "lead": "La gobernadora de San Andrés, Girley Ordóñez Bowie, defendió su gestión de tres meses y detalló los compromisos de la visita presidencial",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla abre cursos nocturnos de tecnología para quienes trabajan durante el día",
+  "enlace": "https://caracol.com.co/2026/10/19/barranquilla-abre-cursos-nocturnos-de-tecnologia-para-quienes-trabajan-durante-el-dia/",
+  "fecha": "2026-10-19T15:00:54-05:00",
+  "palabras": "",
+  "lead": "Desde el 21 de octubre, los CATIN ofrecerán cursos nocturnos de tecnología e innovación, comenzando con una formación en Power BI para quienes trabajan o tienen otras ocupaciones durante el día.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cortes de agua en Bogotá y Gachancipá del 19 al 22 de octubre de 2026: ¿Está su barrio?",
+  "enlace": "https://caracol.com.co/2026/10/19/cortes-de-agua-en-bogota-y-gachancipa-del-19-al-22-de-octubre-de-2026-esta-su-barrio/",
+  "fecha": "2026-10-19T14:58:33-05:00",
+  "palabras": "",
+  "lead": "Conozca los barrios en que se cerrará el servicio de agua durante la semana del 19 al 22 de octubre por parte del Acueducto de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EM Hotels triunfa con sus hoteles en los World Travel Awards 2026",
+  "enlace": "https://caracol.com.co/2026/10/19/em-hotels-triunfa-con-sus-hoteles-en-los-world-travel-awards-2026/",
+  "fecha": "2026-10-19T14:54:11-05:00",
+  "palabras": "",
+  "lead": "Bertha’s Collection y Hotel Cartagena Plaza fueron galardonados",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Accidente de helicóptero Black Hawk en Cauca: los 15 militares que iban a bordo están con vida",
+  "enlace": "https://caracol.com.co/2026/10/19/helicoptero-black-hawk-uh-60-sufrio-un-accidente-en-el-cauca-cuando-transportaba-a-15-pasajeros/",
+  "fecha": "2026-10-19T14:18:21-05:00",
+  "palabras": "",
+  "lead": "Por ahora, se desconocen las causas del accidente y no hay información confirmada sobre el estado de los ocupantes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fuerza Élite Cartagena ganó 44 medallas y dos subcampeonatos nacionales",
+  "enlace": "https://caracol.com.co/2026/10/19/fuerza-elite-cartagena-gano-44-medallas-y-dos-subcampeonatos-nacionales/",
+  "fecha": "2026-10-19T14:51:44-05:00",
+  "palabras": "",
+  "lead": "El club cartagenero consiguió 17 oros, 17 platas y 10 bronces en el campeonato disputado en Valledupar",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los Pinches Tacos conquistaron paladares en el Torneo Nacional de Voleibol Alto Nivel Cup",
+  "enlace": "https://caracol.com.co/2026/10/19/los-pinches-tacos-conquistaron-paladares-en-el-torneo-nacional-de-voleibol-alto-nivel-cup/",
+  "fecha": "2026-10-19T14:50:51-05:00",
+  "palabras": "",
+  "lead": "Los Pinches Tacos unen gastronomía mexicana, deporte y nuevas oportunidades",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Megacárcel Metropolitana de Medellín alcanza el 47 % de avance y operará en 2027",
+  "enlace": "https://caracol.com.co/2026/10/19/la-megacarcel-metropolitana-de-medellin-alcanza-el-47-de-avance-y-operara-en-2027/",
+  "fecha": "2026-10-19T14:44:34-05:00",
+  "palabras": "",
+  "lead": "Con seis pabellones y áreas especializadas de salud y educación, la nueva infraestructura busca descongestionar los espacios de reclusión temporal en la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Surtigas habilitó pagos de facturas a través de Bre-B",
+  "enlace": "https://caracol.com.co/2026/10/19/surtigas-habilito-pagos-de-facturas-a-traves-de-bre-b/",
+  "fecha": "2026-10-19T14:39:42-05:00",
+  "palabras": "",
+  "lead": "Los usuarios podrán escanear un código QR para pagar desde aplicaciones bancarias y billeteras digitales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Evite multas! Así opera el pico y placa en Bogotá para la semana del 19 al 25 de octubre",
+  "enlace": "https://caracol.com.co/2026/10/19/evite-multas-asi-opera-el-pico-y-placa-en-bogota-para-la-semana-del-19-al-25-de-octubre/",
+  "fecha": "2026-10-19T14:33:51-05:00",
+  "palabras": "",
+  "lead": "Le contamos de cuánto es la multa por sacar su vehículo en horario de pico y placa en caso de tener la restricción.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "VIVE EXPO 2026:  proyectos inmobiliarios de diferentes regiones de Colombia llegan a Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/19/vive-expo-2026-proyectos-inmobiliarios-de-diferentes-regiones-de-colombia-llegan-a-bogota/",
+  "fecha": "2026-10-19T14:29:13-05:00",
+  "palabras": "",
+  "lead": "Segunda vivienda, inversión y patrimonio: VIVE EXPO 2026 reunirá el 23, 24 y 25 de octubre proyectos de todo el país para quienes piensan en su futuro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fredy Montero advirtió que Real Cartagena aprovechará los espacios ante Patriotas",
+  "enlace": "https://caracol.com.co/2026/10/19/fredy-montero-advirtio-que-real-cartagena-aprovechara-los-espacios-ante-patriotas/",
+  "fecha": "2026-10-19T14:28:15-05:00",
+  "palabras": "",
+  "lead": "El delantero destacó la necesidad de ganar para acercarse a los cuadrangulares",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ricardo Leyva fue acusado por violencia intrafamiliar agravada",
+  "enlace": "https://caracol.com.co/2026/10/19/ricardo-leyva-fue-acusado-por-violencia-intrafamiliar-agravada/",
+  "fecha": "2026-10-19T14:22:24-05:00",
+  "palabras": "",
+  "lead": "La abogada de Karen Santos, presunta víctima en este caso, señaló que su representada continúa en riesgo extremo y, por lo mismo, cuenta con medidas de protección.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín será escenario del II Encuentro Internacional de Memorias y Víctimas",
+  "enlace": "https://caracol.com.co/2026/10/19/medellin-sera-escenario-del-ii-encuentro-internacional-de-memorias-y-victimas/",
+  "fecha": "2026-10-19T14:20:33-05:00",
+  "palabras": "",
+  "lead": "Expertos de seis países se reunirán el 21 de octubre para compartir experiencias sobre memoria, verdad y reparación. El evento, organizado por el Museo Casa de la Memoria, será gratuito y contará con participación presencial y virtual.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Condenaron a cuatro integrantes de ‘Las Máquinas’ por estafar con maquinaria pesada en Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/19/condenaron-a-cuatro-integrantes-de-las-maquinas-por-estafar-con-maquinaria-pesada-en-bolivar/",
+  "fecha": "2026-10-19T14:17:23-05:00",
+  "palabras": "",
+  "lead": "Las víctimas pagaron más de $361 millones por maquinaria pesada que nunca estuvo a la venta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Pulso del Fútbol, 19 de octubre de 2026",
+  "enlace": "https://caracol.com.co/2026/10/19/el-pulso-del-futbol-19-de-octubre-de-2026/",
+  "fecha": "2026-10-19T14:15:00-05:00",
+  "palabras": "",
+  "lead": "El Pulso del Fútbol analiza una nueva fecha de la liga en Colombia y la actualidad de nuestros jugadores en el exterior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno compensaría a aseguradoras por alza del mínimo",
+  "enlace": "https://www.lafm.com.co/economia/colombia-gobierno-compensacion-aseguradoras-aumento-salario-minimo-pensiones-privadas-414443",
+  "fecha": "2026-10-19T14:34:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Pensión en Colombia,Aseguradoras,Ministerio de Hacienda y Crédito Público,medidas fiscales,Negociación,Aumento salarial,Proyecto de ley,Reforma pensional",
+  "lead": "Hacienda propone restablecer la cobertura estatal por el impacto del salario mínimo en las rentas vitalicias privadas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Precio del euro en Colombia hoy 19 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/economia/euro-precio-cotizacion-colombia-hoy-lunes-19-octubre-2026-414435",
+  "fecha": "2026-10-19T14:26:00-05:00",
+  "palabras": "Economía,Euros,Casas de cambio,Aeropuerto El Dorado,Remesas,Transacciones en efectivo,sector financiero,Mercados internacionales",
+  "lead": "Frente a la cotización de hace 30 días, el euro registra una caída de $41,51, equivalente al 1,16 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinJusticia pide investigar el magnicidio de Miguel Uribe",
+  "enlace": "https://www.lafm.com.co/orden-publico/minjusticia-pide-investigar-magnicidio-miguel-uribe-nuevas-pistas-414440",
+  "fecha": "2026-10-19T14:22:00-05:00",
+  "palabras": "Orden Público,Miguel Uribe,Ministerio de Justicia,Fiscalía General de la Nación",
+  "lead": "Se solicitó verificar mensajes que apuntan a autores intelectuales, cadena de mando y fuero.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Champions League: PSG vs. Barcelona hora partido en Colombia",
+  "enlace": "https://www.lafm.com.co/deportes/paris-saint-germain-fc-barcelona-hora-partido-colombia-414438",
+  "fecha": "2026-10-19T14:18:00-05:00",
+  "palabras": "Deportes,Champions League,Partidos hoy,UEFA,Paris Saint-Germain,FC Barcelona,enfrentamiento",
+  "lead": "Ambos equipos han mostrado argumentos para competir por el título europeo, aunque las bajas defensivas y la exigencia del calendario podrían influir en el ...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ATENCIÓN | Helicóptero Black Hawk se accidentó en Cauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/accidente-helicoptero-black-hawk-ejercito-inza-cauca-414437",
+  "fecha": "2026-10-19T14:13:00-05:00",
+  "palabras": "Orden Público,Incidente aéreo,Helicóptero,Ejército Nacional,Cauca,Accidente",
+  "lead": "En el punto en el cual se accidentó el helicóptero hay presencia de la estructura Dagoberto Ramos, de las disidencias de alias Iván Mordisco.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Exfuncionarios investigados por irregularidades en contrato",
+  "enlace": "https://www.lafm.com.co/orden-publico/procuraduria-invesiga-a-exvicepresidentes-de-colpensiones-por-un-contrato-tecnologico-414436",
+  "fecha": "2026-10-19T14:10:00-05:00",
+  "palabras": "Orden Público,Investigaciones,Procuraduría General de la Nación,contratos,Colpensiones",
+  "lead": "La Procuraduría General abrió una investigación disciplinaria contra María Elisa Morón Baute y Wilson Fernando Melo Velandia, exvicepresidentes de Gestión ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá sede de MUBI Fest, 12 películas y funciones gratuitas",
+  "enlace": "https://www.lafm.com.co/entretenimiento/bogota-sede-mubi-fest-peliculas-funciones-gratuitas-aire-libre-414433",
+  "fecha": "2026-10-19T14:00:00-05:00",
+  "palabras": "Entretenimiento,Bogotá,Octubre,Eventos presenciales,Cine,Estrenos,planes gratis,Conferencias,precios,Taquilla",
+  "lead": "MUBI Fest llega a Bogotá el 24 y 25 de octubre: 12 películas, estrenos y clásicos, funciones gratis al aire libre, conversatorios y música.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Clásico RCN Sistecrédito 2026: recorrido oficial cuarta etapa",
+  "enlace": "https://www.lafm.com.co/deportes/clasico-rcn-sistecredito-2026-recorrido-oficial-cuarta-etapa-martes-20-de-octubre-414432",
+  "fecha": "2026-10-19T13:58:00-05:00",
+  "palabras": "Deportes,Ciclismo,Clásico RCN,Deporte,equipos,Cajamarca,Tolima,Quindío,Barcelona,Valle del Cauca",
+  "lead": "Una de las carreras más importantes de Colombia continúa su recorrido por zonas afectadas por el terremoto.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno destraba bonos de lectura a libreros independientes",
+  "enlace": "https://www.lafm.com.co/sociedad/colombia-libreros-independientes-fondos-gobierno-414408",
+  "fecha": "2026-10-19T11:32:00-05:00",
+  "palabras": "Sociedad,Libros,Bibliotecas,Apoyo económico,Financiamiento,recursos públicos,administración de recursos,Venta de libros",
+  "lead": "Gobierno destrabó $217.920.000 para pagar 3.632 bonos de lectura a libreros independientes; Fundalectura informará fecha de desembolso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aumentan las víctimas por estos artefactos en el Catatumbo",
+  "enlace": "https://www.lafm.com.co/orden-publico/catatumbo-minas-antipersona-civiles-afectados-cucuta-orden-publico-414374",
+  "fecha": "2026-10-19T07:43:00-05:00",
+  "palabras": "Orden Público,Catatumbo,Tibú,El Tarra,ELN,Disidentes de las Farc,ataque explosivo",
+  "lead": "En los últimos treinta años, por lo menos 950 personas han sido afectadas por la instalación de minas antipersona en la región.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
