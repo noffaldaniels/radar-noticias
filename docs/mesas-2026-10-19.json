@@ -41,6 +41,27 @@
    "quien": "Juan Espinal, Senador",
    "que": "Pidió a los alcaldes y a las empresas de energía evaluar si es conveniente instalar alumbrados navideños este año ante el riesgo de un apagón en el país.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:47",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Reportó que el presidente Gustavo Petro anunció que el 30 de noviembre emitirá un decreto para delimitar las coordenadas de los arrecifes en San Andrés.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:48",
+   "quien": "Rubén Darío, periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que la Defensoría del Pueblo emitió la Alerta Temprana 023 por amenazas y homicidios de disidencias de las FARC en Jamundí, tras el atentado contra el exalcalde Andrés Felipe Ramírez donde murió su escolta.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:49",
+   "quien": "Federico Gutiérrez, alcalde de Medellín",
+   "que": "Afirmó que el FBI y la Fiscalía investigan presunta corrupción en el Inder durante la gestión de Daniel Quintero, involucrando a un comerciante de oro que habría aportado más de 1.000 millones de pesos a su campaña e incidido en contratación.",
+   "resaltar": false
   }
  ],
  "avisos": []
