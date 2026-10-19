@@ -67,3 +67,21 @@ def test_correr_graba_las_3_radios_y_avisa_fallas(tmp_path):
 def test_maximo_3_puntos_por_tramo():
     texto = json.dumps({"puntos": [{"minuto": i, "quien": "X", "que": f"Dato {i}"} for i in range(6)]})
     assert len(puntos_de_respuesta(texto, "Blu Radio", INICIO)) == 3
+
+def test_si_gemini_esta_ocupado_pasa_al_modelo_liviano():
+    import io, urllib.error
+    usados = []
+    def pedir(url, clave, datos=None, cabeceras=None, metodo="POST"):
+        usados.append(url)
+        if "flash-lite" not in url:
+            raise urllib.error.HTTPError(url, 503, "ocupado", {}, None)
+        return io.BytesIO(json.dumps({"candidates": [{"content": {"parts": [{"text": "ok"}]}}]}).encode())
+    assert mesas.generar({}, "k", pedir=pedir, dormir=lambda s: None) == "ok"
+    assert len(usados) == 5 and "flash-lite" in usados[-1]  # 4 intentos con el normal y 1 con el liviano
+
+def test_si_la_ia_falla_el_aviso_no_dice_sin_audio(tmp_path):
+    import threading
+    def resumir(audio, prompt): raise RuntimeError("503")
+    mesas.procesar_tramo("Blu Radio", b"a" * 60_000, INICIO, tmp_path, resumir, threading.Lock(), lambda w: None)
+    d = json.loads(ruta_dia(tmp_path, "2026-10-19").read_text(encoding="utf-8"))
+    assert d["avisos"] == ["Blu Radio: la IA no respondió de 06:40 a 06:50 (sí hubo audio)"]

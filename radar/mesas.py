@@ -74,7 +74,23 @@ def _pedir(url, clave, datos=None, cabeceras=None, metodo="POST"):
     h = {"x-goog-api-key": clave, **(cabeceras or {})}
     return urllib.request.urlopen(urllib.request.Request(url, data=datos, headers=h, method=metodo), timeout=300)
 
-def gemini(audio: bytes, prompt: str, clave: str, modelo: str = "gemini-flash-latest") -> str:
+MODELOS = ("gemini-flash-latest", "gemini-flash-lite-latest")  # si el primero está ocupado, pasa al liviano
+
+def generar(cuerpo: dict, clave: str, modelos=MODELOS, pedir=_pedir, dormir=time.sleep) -> str:
+    for modelo in modelos:
+        for intento in range(4):  # Gemini a veces responde "ocupado" (503) o "límite" (429): reintentar
+            try:
+                with pedir(f"{API}/v1beta/models/{modelo}:generateContent", clave, json.dumps(cuerpo).encode(),
+                           {"Content-Type": "application/json"}) as r:
+                    return json.load(r)["candidates"][0]["content"]["parts"][0]["text"]
+            except urllib.error.HTTPError as e:
+                if e.code not in (429, 500, 503) or (intento == 3 and modelo == modelos[-1]):
+                    raise
+                if intento == 3:
+                    break  # este modelo sigue ocupado: probar el siguiente
+                dormir(20 * (intento + 1))
+
+def gemini(audio: bytes, prompt: str, clave: str) -> str:
     # Subir el audio (Files API) y pedir los puntos en JSON
     with _pedir(f"{API}/upload/v1beta/files", clave, json.dumps({"file": {"display_name": "tramo"}}).encode(), {
             "X-Goog-Upload-Protocol": "resumable", "X-Goog-Upload-Command": "start",
@@ -92,15 +108,7 @@ def gemini(audio: bytes, prompt: str, clave: str, modelo: str = "gemini-flash-la
     cuerpo = {"contents": [{"parts": [{"text": prompt}, {"file_data": {"mime_type": "audio/aac", "file_uri": archivo["uri"]}}]}],
               "generationConfig": {"temperature": 0, "responseMimeType": "application/json", "responseSchema": ESQUEMA}}
     try:
-        for intento in range(4):  # Gemini a veces responde "ocupado" (503) o "límite" (429): reintentar
-            try:
-                with _pedir(f"{API}/v1beta/models/{modelo}:generateContent", clave, json.dumps(cuerpo).encode(),
-                            {"Content-Type": "application/json"}) as r:
-                    return json.load(r)["candidates"][0]["content"]["parts"][0]["text"]
-            except urllib.error.HTTPError as e:
-                if e.code not in (429, 500, 503) or intento == 3:
-                    raise
-                time.sleep(20 * (intento + 1))
+        return generar(cuerpo, clave)
     finally:
         try:
             _pedir(f"{API}/v1beta/{archivo['name']}", clave, metodo="DELETE").close()
@@ -133,14 +141,15 @@ def publicar(web: Path) -> None:
 def procesar_tramo(medio, audio, inicio, web, resumir, cerrojo, publicar_fn) -> None:
     programa = EMISORAS[medio][0]
     dia, de, a = inicio.date().isoformat(), inicio.strftime("%H:%M"), (inicio + timedelta(seconds=TRAMO)).strftime("%H:%M")
-    try:
-        if len(audio) < 50_000:
-            raise ValueError("casi sin audio")
-        texto = resumir(audio, PROMPT.format(minutos=TRAMO // 60, programa=programa, medio=medio, hora=de))
-        puntos, aviso = puntos_de_respuesta(texto, medio, inicio), None
-    except Exception as e:
-        print(f"{medio} {de}: {type(e).__name__}: {e}"[:300], file=sys.stderr)
+    if len(audio) < 50_000:
         puntos, aviso = [], f"{medio}: sin audio de {de} a {a}"
+    else:
+        try:
+            texto = resumir(audio, PROMPT.format(minutos=TRAMO // 60, programa=programa, medio=medio, hora=de))
+            puntos, aviso = puntos_de_respuesta(texto, medio, inicio), None
+        except Exception as e:
+            print(f"{medio} {de}: {type(e).__name__}: {e}"[:300], file=sys.stderr)
+            puntos, aviso = [], f"{medio}: la IA no respondió de {de} a {a} (sí hubo audio)"
     with cerrojo:
         anotar(web, dia, puntos, aviso)
         publicar_fn(web)
