@@ -216,7 +216,7 @@
   "palabras": "Antioquia, Homicidios, Gobernación de Antioquia, Policía Nacional, Fiscalía General de la Nación",
   "lead": "Familiares del menor de edad aseguraron que la mochila con la que fue encontrado el menor de edad no era de él.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "Estos son los diez momentos que marcaron el encuentro entre el líder del Partido de los Trabajadores (PT) y el hijo primogénito del exmandatario ultraderechista Jair Bolsonaro:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Alertan por la presencia del ELN y el Clan del Golfo en tres municipios del occidente del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "La firma del convenio entre la Secretaría de Salud Departamental y ambos hospitales se firmará en la jornada de hoy lunes, 19 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,6 +260,171 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Después de 11 años, un ministro de Educación participa en Consejo Superior de la UIS",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/despues-de-11-anos-un-ministro-de-educacion-participa-en-consejo-superior-de-la-uis-rg10",
+  "fecha": "2026-10-19T06:18:15-05:00",
+  "palabras": "Ministerio de Educación, Educación, Universidad Industrial de Santander, Bucaramanga, Málaga, Santander, Gobernación de Santander,  UIS",
+  "lead": "La sesión también incluyó la posesión de Edna Mireya Uribe Salamanca como representante de los profesores ante el Consejo Superior de la UIS.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El papa sigue su recuperación en el Vaticano y presidirá el miércoles la audiencia general",
+  "enlace": "https://www.bluradio.com/mundo/el-papa-sigue-su-recuperacion-en-el-vaticano-y-presidira-el-miercoles-la-audiencia-general-cb20",
+  "fecha": "2026-10-19T06:18:09-05:00",
+  "palabras": "Papa León XIV, Roma, Vaticano",
+  "lead": "El pontífice permanecerá en el Vaticano, según las citadas fuentes, y no se desplazará esta semana a la localidad de Castelgandolfo -a unos 30 kilómetros de Roma- como solía hacer antes de su operación para descansar la tarde del lunes y el martes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El primer ministro anuncia \"toques de queda\" en Francia tras disturbios",
+  "enlace": "https://www.bluradio.com/mundo/el-primer-ministro-anuncia-toques-de-queda-en-francia-tras-disturbios-cb20",
+  "fecha": "2026-10-19T06:24:40-05:00",
+  "palabras": "Francia, Emmanuel Macron, París",
+  "lead": "\"Pedí a los prefectos decretar varios toques de queda esta noche, toques de queda parciales\", anunció el jefe de gobierno centroderechista tras una reunión de crisis, sin precisar en qué lugares se aplicará esta medida.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Volkswagen busca ahorrar miles de millones: congelaría salarios y reducirá su oferta de carros",
+  "enlace": "https://www.bluradio.com/motor/volkswagen-busca-ahorrar-miles-de-millones-congelaria-salarios-y-reducira-su-oferta-de-carros-so35",
+  "fecha": "2026-10-19T06:39:31-05:00",
+  "palabras": "Volkswagen, Industria automotriz",
+  "lead": "Según el medio que reveló la información, la decisión supondría una pérdida real de ingresos de alrededor del 10 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bogotá tendrá nuevas marchas del 19 al 25 de octubre: estos son los puntos de concentración",
+  "enlace": "https://www.bluradio.com/regiones/bogota/bogota-tendra-nuevas-marchas-del-19-al-25-de-octubre-estos-son-los-puntos-de-concentracion-so35",
+  "fecha": "2026-10-19T06:49:22-05:00",
+  "palabras": "Protestas en Colombia, Transmilenio",
+  "lead": "Bogotá tendrá marchas, plantones y eventos culturales del 19 al 25 de octubre; consulte los horarios y puntos de encuentro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Elon Musk anuncia que entregará acciones de SpaceX a todos los niños en Estados Unidos",
+  "enlace": "https://www.bluradio.com/tecnologia/elon-musk-anuncia-que-entregara-acciones-de-spacex-a-todos-los-ninos-en-estados-unidos-cb20",
+  "fecha": "2026-10-19T06:21:34-05:00",
+  "palabras": "Elon Musk, SpaceX, Tecnología, Estados Unidos",
+  "lead": "La propuesta plantea un esquema de distribución masiva de capital privado que, según estimaciones preliminares basadas en la valoración actual de la firma, representaría un valor económico superior a los 9.000 millones de dólares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Integrantes del Cuerpo de Bomberos De Pereira están protestando por pagos pendientes",
+  "enlace": "https://caracol.com.co/2026/10/19/algunos-integrantes-del-cuerpo-de-bomberos-de-pereira-estan-protestando-por-algunos-pagos-pendientes/",
+  "fecha": "2026-10-19T06:37:01-05:00",
+  "palabras": "",
+  "lead": "La administración municipal respondió y aseguró que la atención de las emergencias no se ha suspendido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército desactivó explosivos instalados en alcantarillas de la vía Panamericana, en Cauca",
+  "enlace": "https://caracol.com.co/2026/10/19/ejercito-desactivo-explosivos-instalados-en-alcantarillas-de-la-via-panamericana-en-cauca/",
+  "fecha": "2026-10-19T06:42:35-05:00",
+  "palabras": "",
+  "lead": "La situación se registra en un tramo estratégico de la vía Panamericana, que conecta diferentes municipios del Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Fernando Suárez estalla: “No se puede cometer tanta pendejada, no se puede ser tan pendejo”",
+  "enlace": "https://caracol.com.co/2026/10/19/luis-fernando-suarez-estalla-no-se-puede-cometer-tanta-pendejada-no-se-puede-ser-tan-pendejo/",
+  "fecha": "2026-10-19T06:38:23-05:00",
+  "palabras": "",
+  "lead": "El técnico del Tolima dejó un mensaje a sus dirigidos tras caer en el cierre del partido frente a Águilas Doradas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Transportadores de ruta interdepartamental afectados por extorsiones",
+  "enlace": "https://caracol.com.co/2026/10/19/transportadores-de-transporte-interdepartamental-afectados-por-extorsiones/",
+  "fecha": "2026-10-19T06:11:23-05:00",
+  "palabras": "",
+  "lead": "La carretera central registra brotes de inseguridad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayeron nueve disidentes FARC señalados de matar a un soldado y un policía en el Valle",
+  "enlace": "https://caracol.com.co/2026/10/19/cayeron-nueve-disidentes-farc-senalados-de-matar-a-un-soldado-y-un-policia-en-el-valle/",
+  "fecha": "2026-10-19T06:35:35-05:00",
+  "palabras": "",
+  "lead": "Entre los capturados está alias ‘Majiño’, señalado como segundo cabecilla del frente 57 ‘Yair Bermúdez’",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se firmó en Medellín el Gran Pacto por la Seguridad Hídrica para Medellín y Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/19/se-firmo-en-medellin-el-gran-pacto-por-la-seguridad-hidrica-para-medellin-y-antioquia/",
+  "fecha": "2026-10-19T06:36:42-05:00",
+  "palabras": "",
+  "lead": "La estrategia tiene actividades previstas durante los próximos 10 años y revisiones periódicas bianuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lunes 19 de octubre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/10/19/lunes-19-de-octubre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-10-19T06:19:48-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Pereira, capturan a presunto cabecilla de red de préstamos ‘gota a gota’ que operaba en Brasil",
+  "enlace": "https://caracol.com.co/2026/10/19/en-pereira-capturan-a-presunto-cabecilla-de-red-de-prestamos-gota-a-gota-que-operaba-en-brasil/",
+  "fecha": "2026-10-19T06:21:31-05:00",
+  "palabras": "",
+  "lead": "El ciudadano colombiano, al parecer, residía desde hace unos años en la capital de Risaralda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturadas siete personas en Santa Marta por secuestro de empresario",
+  "enlace": "https://caracol.com.co/2026/10/19/capturadas-siete-personas-en-santa-marta-por-secuestro-de-empresario/",
+  "fecha": "2026-10-19T06:08:00-05:00",
+  "palabras": "",
+  "lead": "La operación fue liderada por tropas del Gaula Militar, donde fue rescatado el empresario Sergio Pablo Gutiérrez Mejía.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
