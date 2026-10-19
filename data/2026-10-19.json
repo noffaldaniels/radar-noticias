@@ -7,7 +7,7 @@
   "palabras": "México",
   "lead": "Los detenidos formaban parte del círculo de seguridad de Óscar Luciano, alias 'Casco' o '81', también identificado como jefe regional de Los Chapitos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Liga BetPlay, Fútbol",
   "lead": "La fecha 15 de la Liga BetPlay II dejó movimientos importantes en la lucha por los primeros puestos y la clasificación, tras varias sorpresas en la jornada que aprietan la clasificación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Norte de Santander, Cocaína, Tráfico de cocaína, Catatumbo, Ejército Nacional, ELN, Narcotráfico, Conflicto armado en Colombia, ELN",
   "lead": "La infraestructura clandestina, ubicada en zona rural de Sardinata, Norte de Santander, tendría capacidad para producir tres toneladas de clorhidrato de cocaína al mes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "",
   "lead": "\"Esta noche todos sentimos ira y vergüenza\", afirmó Macron en una declaración solemne televisada de diez minutos de duración, un día después de los graves incidentes ocurridos durante las movilizaciones contra el encarecimiento del coste de la vida, y que continuaron este domingo especialmente en…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "",
   "lead": "La decisión reconoció a Nicaragua derechos sobre espacios marítimos que Colombia consideraba propios, cuya extensión se ha estimado en cerca de 75.000 kilómetros cuadrados. El ministro del Interior, Rodrigo Lara, afirmó en X que “el fallo de 2012 es inaplicable en su literalidad”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Valle de Aburrá, Medellín, EPM, Ahorro de agua",
   "lead": "EPM advirtió que el embalse Piedras Blancas necesita recuperar 11,5 % para garantizar reservas de agua ante el Fenómeno de El Niño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "",
   "lead": "Bomberos, Defensa Civil y Gestión del Riesgo intentan controlar las llamas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "",
   "lead": "Videos muestran el enfrentamiento entre Enrique Noguera, funcionarios y varios particulares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "",
   "lead": "Con esta decisión, el proceso judicial en contra del político independentista se acerca a su fin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "El ministro había presentado su dimisión después de las críticas a la gestión policial de las protestas del 17 de octubre, que derivaron en actos vandálicos y enfrentamientos en distintas ciudades francesas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "",
   "lead": "Pedro Sánchez aseguró que los señalamientos son falsos y que, por el contrario, se optimizaron los recursos públicos durante la transacción.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "",
   "lead": "El gobierno busca que los caficultores reduzcan sus costos, mejoren sus ingresos y encuentren nuevas oportunidades para llevar el café colombiano, con mayor valor agregado, a los mercados internacionales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "",
   "lead": "El presidente de Brasil, Luiz Inácio Lula da Silva y el senador Flávio Bolsonaro protagonizaron un tenso debate televisado, marcado por acusaciones de corrupción y cuestionamientos a sus respectivos entornos familiares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "Los Azucareros no pudieron revalidar su favoritimos, a pesar de haber contado con un hombre más durante 30 minutos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "",
   "lead": "Repase la clasificación del campeonato en la fecha 15.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "Nacional es líder absoluto de esta clasificación y tiene casi asegurada su presencia internacional en 2027. Repase cómo va la lucha.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "Ordoñez es la segunda colombiana que marca historia en uno de los desfiles más importantes de moda del mundo:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,6 +205,61 @@
   "palabras": "",
   "lead": "La exprimera dama también respondió a los señalamientos de su exasesora Eva Ferrer",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Es totalmente falso que estuviera reclutado”: madre de joven asesinado en El Carmen de Viboral",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/es-totalmente-falso-que-estuviera-reclutado-madre-de-joven-asesinado-en-el-carmen-de-viboral-rg10",
+  "fecha": "2026-10-19T06:01:19-05:00",
+  "palabras": "Antioquia, Homicidios, Gobernación de Antioquia, Policía Nacional, Fiscalía General de la Nación",
+  "lead": "Familiares del menor de edad aseguraron que la mochila con la que fue encontrado el menor de edad no era de él.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Los diez momentos que marcaron el primer debate entre Lula y Flávio Bolsonaro",
+  "enlace": "https://www.bluradio.com/mundo/los-diez-momentos-que-marcaron-el-primer-debate-entre-lula-y-flavio-bolsonaro-cb20",
+  "fecha": "2026-10-19T06:08:36-05:00",
+  "palabras": "",
+  "lead": "Estos son los diez momentos que marcaron el encuentro entre el líder del Partido de los Trabajadores (PT) y el hijo primogénito del exmandatario ultraderechista Jair Bolsonaro:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensores de derechos humanos advierten sobre riesgos de reclutamiento de menores en Risaralda",
+  "enlace": "https://caracol.com.co/2026/10/19/defensores-de-derechos-humanos-advierten-sobre-riesgos-de-reclutamiento-de-menores-en-risaralda/",
+  "fecha": "2026-10-19T06:00:16-05:00",
+  "palabras": "",
+  "lead": "Alertan por la presencia del ELN y el Clan del Golfo en tres municipios del occidente del departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Hospital La María de Medellín comienza mañana a operar el hospital de Puerto Berrío, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/19/el-hospital-la-maria-de-medellin-comienza-manana-a-operar-el-hospital-de-puerto-berrio-antioquia/",
+  "fecha": "2026-10-19T05:49:40-05:00",
+  "palabras": "",
+  "lead": "La firma del convenio entre la Secretaría de Salud Departamental y ambos hospitales se firmará en la jornada de hoy lunes, 19 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "EN VIVO | Noticiero La FM con Juan Lozano 19 de octubre 2026",
+  "enlace": "https://www.lafm.com.co/emisiones/en-vivo-noticiero-la-fm-con-juan-lozano-19-de-octubre-2026-414351",
+  "fecha": "2026-10-19T06:06:00-05:00",
+  "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
+  "seccion": "mesas",
   "nueva": true,
   "tambien": []
  }
