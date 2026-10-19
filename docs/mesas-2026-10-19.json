@@ -118,6 +118,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Reportó que 400 familias están confinadas en el corregimiento de Huisitó, municipio de El Tambo (Cauca), por amenazas de la estructura Carlos Patiño de las disidencias de las FARC, que buscan a alias 'Paciencia', quien habría escapado con cerca de 10.000 millones de pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Abelardo de la Espriella, Presidente de la República",
+   "que": "Afirmó desde San Andrés que Colombia no cederá una sola milla náutica ni un arrecife y defenderá a los pescadores, priorizando acuerdos bilaterales entre Estados soberanos bajo el derecho del mar.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:03",
+   "quien": "Presidente de la República",
+   "que": "Encaró a dirigentes políticas sobre manejos contractuales en San Andrés y advirtió que no permitirá irregularidades en la intervención del hospital ni en Coralina con los recursos que enviará el Gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:09",
+   "quien": "Arturo Calle, empresario",
+   "que": "Advirtió que las ventajas arancelarias para la importación en plataformas como Temu y Shein destruyen la industria nacional y están provocando despidos de trabajadores en el país.",
+   "resaltar": false
   }
  ],
  "avisos": []
