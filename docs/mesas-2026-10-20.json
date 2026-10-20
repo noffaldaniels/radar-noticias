@@ -923,6 +923,20 @@
    "quien": "Doña Darsy (Sección Los Secretos)",
    "que": "La Fiscalía asumirá de oficio la investigación por las denuncias contra el expresidente Uribe y otros involucrados en el pacto de Valledupar.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Un depósito ilegal de material de guerra y elementos de intendencia de autodefensas de la Sierra fue localizado en zona rural de Santa Marta.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Amaneció suspendido el servicio de recolección de basuras en 15 municipios del Tolima por el cierre parcial del relleno sanitario Pacandé en Natagaima.",
+   "resaltar": true
   }
  ],
  "avisos": []
