@@ -762,6 +762,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Se presentó un fuerte trancón en la vía Manizales-Pereira en el descenso del Alto del Boquerón por un accidente de tránsito entre un tractocamión y varios vehículos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:20",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Al cierre del 2025, la deuda pública del Estado colombiano alcanzó los 1.273 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:20",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El déficit de Colombia alcanza un 9.4%.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:20",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Lo que se aprobó en el presupuesto fueron 635 billones de pesos, 60 billones más que lo presentado por Gustavo Petro.",
+   "resaltar": false
   }
  ],
  "avisos": []
