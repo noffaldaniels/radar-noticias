@@ -475,6 +475,27 @@
    "quien": "Ricardo Orozco, Gobernador del Tolima",
    "que": "En Santa Bárbara, Iscuandé, de los 14 fallecidos, 12 son mujeres, jefes de hogar que salieron a trabajar en labores de barequeo en una zona pendiente de legalización.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:04",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Hay minas que funcionan irregular e ilegalmente en el territorio, con muchas personas viviendo de esto y las autoridades y la sociedad conviven con esto porque es la manera de muchos de sobrevivir.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:04",
+   "quien": "Don Waimar",
+   "que": "La maquinaria utilizada son dragas y existen dragas y maquinaria pesada, lo cual es de conocimiento de orden nacional.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:04",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se reportan cinco personas heridas en medio de un enfrentamiento entre grupos armados ilegales en zona rural de Sardinata, en la región del Catatumbo, en Norte de Santander.",
+   "resaltar": false
   }
  ],
  "avisos": []
