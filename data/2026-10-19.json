@@ -5518,7 +5518,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 19 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5529,7 +5529,7 @@
   "palabras": "Rama Judicial, Palacio de Justicia",
   "lead": "La obra busca reconocer la labor de jueces y servidores judiciales en los territorios, así como recordar a quienes fueron asesinados por cumplir con su trabajo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5540,7 +5540,7 @@
   "palabras": "Morat",
   "lead": "La banda colombiana reunió a cerca de 40.000 espectadores en el Palau Sant Jordi y continúa su “Ya Es Mañana World Tour”, que ya supera los 290.000 boletos vendidos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5551,7 +5551,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 19 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5562,7 +5562,7 @@
   "palabras": "",
   "lead": "El Hospital La María ya firmó el convenio y la operación comenzará a partir de este martes 20 de octubre con urgencias y consulta externa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5573,7 +5573,7 @@
   "palabras": "",
   "lead": "El material fue localizado en la vereda Quebrada del Sol, zona rural de Santa Marta. El inventario incluye cinco morteros artesanales, 12 granadas, radios de comunicación, brazaletes y 46 uniformes camuflados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5584,7 +5584,7 @@
   "palabras": "",
   "lead": "La Secretaría de Salud del departamento hizo un llamado a la comunidad para que reconozca las señales de esta enfermedad y consulte a tiempo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5595,7 +5595,7 @@
   "palabras": "",
   "lead": "El evento se realizará del 21 al 23 de octubre en sede Zaragocilla",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5606,7 +5606,7 @@
   "palabras": "",
   "lead": "Después de dos días en una Unidad de Cuidados Intensivos, la mujer de 46 años perdió la vida a causa de la gravedad de sus heridas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5617,7 +5617,7 @@
   "palabras": "",
   "lead": "Desde el barrio Canapote, los artistas presentan “PalosTiemposD”, un EP de cinco canciones inéditas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5628,7 +5628,7 @@
   "palabras": "",
   "lead": "Cristian Graciano, Edison López y Janeth Alemán marcaron los tantos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5639,7 +5639,7 @@
   "palabras": "Actualidad,Incendios forestales en Colombia,incendios forestales,Villa de Leyva",
   "lead": "Tras conocer la nueva emergencia, gobernador de Boyacá anunció que enviará helicóptero para facilitar labores de control y extinción.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5650,7 +5650,7 @@
   "palabras": "Política,Electricidad apagón,Racionamiento de energía,Alumbrado público,Cambio climático,Catastrofes climáticas,Ministerio de Minas y Energía,Alerta",
   "lead": "El congresista hizo un llamado a las alcaldías, las empresas de servicios públicos y los hogares, con el propósito de promover el ahorro de electricidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5661,7 +5661,7 @@
   "palabras": "Política,Abelardo de la Espriella,Congreso de la República,Ministerio de Hacienda y Crédito Público,Gobierno,Fondo Monetario Internacional",
   "lead": "Con 59 votos a favor y 17 en contra, la plenaria del Senado aprobó el primer bloque del Presupuesto General de la Nación de 2027.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5672,7 +5672,7 @@
   "palabras": "Orden Público,Congreso de la República,Cámara de Representantes,Fuerza política",
   "lead": "La investigación tiene que ver con la supuesta inducción de una niña de 7 años a ofender al presidente en Bogotá.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5683,7 +5683,7 @@
   "palabras": "Deportes,Ciclismo,Clásico RCN,Colombia,Deporte,Carreras,resultados",
   "lead": "Monroy, de 19 años, vive su primera experiencia en el Clásico RCN Sistecrédito 2026 con el equipo Sudespensa SHC.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5694,6 +5694,182 @@
   "palabras": "Política,Daniel Quintero,Medellín, Colombia,Corrupción,Federico Gutiérrez",
   "lead": "Federico Gutiérrez se pronunció sobre nuevo caso de presunta corrupción en Medellín por irregularidades en el INDER",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del sorteo hoy lunes 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-sorteo-hoy-lunes-19-de-octubre-de-2026-so35",
+  "fecha": "2026-10-19T21:44:59-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche cuenta con diferentes modalidades de apuesta y una quinta balota que complementa el resultado principal. Consulte los números ganadores de este lunes 19 de octubre de 2026 y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del sorteo hoy lunes 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-sorteo-hoy-lunes-19-de-octubre-de-2026-so35",
+  "fecha": "2026-10-19T21:45:16-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este lunes 19 de octubre de 2026 y conozca las modalidades de apuesta disponibles para verificar si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del sorteo hoy lunes 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-sorteo-hoy-lunes-19-de-octubre-de-2026-so35",
+  "fecha": "2026-10-19T21:45:26-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este lunes 19 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta coinciden con la combinación ganadora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tutela contra serie “Palacio”: piden incluir información sobre absolución de coronel (R) Plazas Vega",
+  "enlace": "https://www.bluradio.com/judicial/tutela-contra-serie-palacio-piden-incluir-informacion-sobre-absolucion-de-coronel-r-plazas-vega-rg10",
+  "fecha": "2026-10-19T21:20:29-05:00",
+  "palabras": "Alfonso Plazas Vega",
+  "lead": "Con la acción, los familiares buscan que se incorpore información sobre la absolución y el carácter ficticio basado en hechos reales de la serie, sin pedir que se impida su difusión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Cundinamarca, resultados del sorteo hoy lunes 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-cundinamarca-resultados-del-sorteo-hoy-lunes-19-de-octubre-de-2026-so35",
+  "fecha": "2026-10-19T21:45:34-05:00",
+  "palabras": "Lotería de Cundinamarca",
+  "lead": "La Lotería de Cundinamarca realizó este lunes 19 de octubre de 2026 el sorteo 4825. Consulte aquí el número ganador del premio mayor, las series y los premios secos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "María Paz Gaviria rechaza retiro de obras del Museo Nacional en Bogotá",
+  "enlace": "https://www.bluradio.com/nacion/es-una-extralimitacion-del-presidente-maria-paz-gaviria-sobre-retiro-de-obras-del-museo-nacional-pr30",
+  "fecha": "2026-10-19T21:50:03-05:00",
+  "palabras": "Museo Nacional, Bogotá, Entrevista, Museo Nacional",
+  "lead": "Manifestó que la revisión de las exposiciones no debe convertirse en una exclusión arbitraria de las memorias que hacen parte de la historia colombiana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Tolima, resultados del sorteo hoy lunes 19 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-tolima-resultados-del-sorteo-hoy-lunes-19-de-octubre-de-2026-so35",
+  "fecha": "2026-10-19T21:45:44-05:00",
+  "palabras": "Lotería del Tolima, Resultado de loterías de hoy",
+  "lead": "Resultados completos del sorteo 4192 de la Lotería del Tolima, que juega este lunes 19 de octubre un premio mayor de $3.500 millones.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incendio forestal en Villa de Leyva moviliza a bomberos y activa apoyo aéreo",
+  "enlace": "https://caracol.com.co/2026/10/20/incendio-forestal-en-villa-de-leyva-moviliza-a-bomberos-y-activa-apoyo-aereo/",
+  "fecha": "2026-10-19T21:39:56-05:00",
+  "palabras": "",
+  "lead": "El gobernador Carlos Amaya anunció el envío de un helicóptero especializado para apoyar las labores de control.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Entra en operación nueva estación Calle 53 Universidad Manuela Beltrán: rutas y más",
+  "enlace": "https://caracol.com.co/2026/10/20/entra-en-operacion-nueva-estacion-calle-53-universidad-manuela-beltran-rutas-y-mas/",
+  "fecha": "2026-10-19T21:35:27-05:00",
+  "palabras": "",
+  "lead": "Otra estación temporal dentro de la troncal de la Av. Caracas dejará de operar para darle paso a otra adecuada con la Línea 1 del Metro de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presunta corrupción: Fiscalía investiga a cinco exgobernadores de San Andrés",
+  "enlace": "https://caracol.com.co/2026/10/20/presunta-corrupcion-fiscalia-investiga-a-cinco-exgobernadores-de-san-andres/",
+  "fecha": "2026-10-19T21:08:13-05:00",
+  "palabras": "",
+  "lead": "Hoy fue capturado el exgobernador Everth Julio Hawkins Sjorgreen por su presunta participación en hechos de extorsión y secuestro que se habrían presentado contra contratistas de la isla.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asmet Salud en cuidados intensivos, plantón de trabajadores en el ministerio del trabajo en Armenia",
+  "enlace": "https://caracol.com.co/2026/10/20/asmet-salud-en-cuidados-intensivos-planton-de-trabajadores-en-el-ministerio-del-trabajo-en-armenia/",
+  "fecha": "2026-10-19T21:19:20-05:00",
+  "palabras": "",
+  "lead": "Enviaron además una carta al presidente de la República donde describen en detalle la situación financiera, laboral y de atención a los usuarios",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "James Rodríguez, convocado en Nacional para visitar su ciudad natal: novedades del equipo vs. Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/20/james-rodriguez-convocado-en-nacional-para-visitar-su-ciudad-natal-novedades-del-equipo-vs-cucuta/",
+  "fecha": "2026-10-19T21:07:40-05:00",
+  "palabras": "",
+  "lead": "Franco Armani es una de las principales ausencias para esta visita al General Santander.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Retiro de obras del Museo Nacional y señalamientos de corrupción en San Andrés",
+  "enlace": "https://caracol.com.co/2026/10/20/retiro-de-obras-del-museo-nacional-y-senalamientos-de-corrupcion-en-san-andres/",
+  "fecha": "2026-10-19T21:07:34-05:00",
+  "palabras": "",
+  "lead": "En Hora 20, los panelistas debatieron sobre las políticas culturales del Gobierno de Abelardo de la Espriella y los señalamientos contra la gobernadora de San Andrés, Girley Natacha Ordóñez Bowie.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pensión Alemania: Habrá plan de cotización para niños",
+  "enlace": "https://www.lafm.com.co/internacional/pension-alemania-plan-ninos-desde-seis-anos-asi-funcionaria-414486",
+  "fecha": "2026-10-19T21:48:00-05:00",
+  "palabras": "Internacional,Alemania,Niños,Primera Infancia,Inversión social,jubilación,inversión,Inversiones,rentabilidad,Cuentas bancarias,Fondo de inversión,Pensión",
+  "lead": "Para acceder al aporte, los padres deberán abrir una cuenta individual de inversión privada.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Japón lanza primera misión mundial a una luna de Marte",
+  "enlace": "https://www.lafm.com.co/internacional/japon-lanza-mision-a-la-luna-de-marte-414489",
+  "fecha": "2026-10-19T21:28:00-05:00",
+  "palabras": "Internacional,japón,Astronomía,Agencia Espacial,Marte",
+  "lead": "La misión pretende obtener muestras de las lunas marcianas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Meta, bajo presión en Brasil para demostrar trato igualitario a Lula y Bolsonaro",
+  "enlace": "https://www.lafm.com.co/internacional/meta-presionado-en-brasil-demostrar-trato-igualitario-lula-y-bolsonaro-414485",
+  "fecha": "2026-10-19T20:54:00-05:00",
+  "palabras": "Internacional,Meta,Brasil,Elecciones en el exterior,Elecciones presidenciales,Lula da Silva,Jair Bolsonaro",
+  "lead": "Se conocerá el presidente en Brasil, tras las elecciones del domingo 25 de octubre.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
