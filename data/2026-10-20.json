@@ -678,7 +678,7 @@
   "palabras": "Santander, Maltrato animal, Blu Radio, Noticias de hoy",
   "lead": "La Alcaldía de San Benito rechazó el presunto caso de maltrato animal y anunció que puso los hechos en conocimiento de la Fiscalía y la Policía. El video del ataque generó indignación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Abelardo De La Espriella, Ministerio de Trabajo, Trabajadoras domésticas",
   "lead": "Los borradores estarán abiertos a comentarios hasta el 9 de noviembre y contemplan cambios en contratación, sanciones e inspecciones en viviendas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "Yeison Guzmán se mantiene como el máximo anotador del presente campeonato con el América de Cali.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "En 6AM W, el periodista Hollman Morris se pronunció acerca de las declaraciones de varios exjefes de las AUC en las que reconocieron que varios funcionarios del gobierno de Gustavo Petro les pidieron declarar contra la derecha en Valledupar.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "Las autoridades lo vinculan con al menos siete víctimas, incluidas menores de edad, por presuntos delitos sexuales y hurtos en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Mientras se realizan las reparaciones, los pacientes serán orientados y remitidos a otras instituciones de salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "Las modificaciones buscan que el servicio de transporte de vehículos tipo buseta llegue a sectores donde no se prestaba el servicio.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "La empresa de transporte ofreció disculpas por el hecho que generó rechazo en redes sociales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "La disminución de la natalidad y el envejecimiento de la población plantean nuevos desafíos para la planificación de la capital del Atlántico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "Como lo reveló Caracol Radio, una de las hipótesis que se analiza es un posible hundimiento de la aeronave, es decir, una pérdida de altura durante el vuelo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,6 +788,358 @@
   "palabras": "",
   "lead": "Se presentan de formas pulmonares, extrapulmonares y farmacorresistentes.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Recursos por $100.000 para variante de San Gil fueron incluidos en el presupuesto nacional",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/recursos-para-terminar-variante-de-san-gil-quedaron-incluidos-en-el-presupuesto-nacional-rg10",
+  "fecha": "2026-10-20T07:17:43-05:00",
+  "palabras": "Bucaramanga, Santander",
+  "lead": "La proposición del representante a la Cámara Miguel Ángel Pinto fue incluida en el presupuesto nacional. La variante de San Gil permanece inconclusa desde enero de 2025.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Delincuentes entraron a capilla en Belmira, Antioquia, y robaron elementos religiosos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/delincuentes-entraron-a-capilla-en-belmira-antioquia-y-robaron-elementos-religiosos-rg10",
+  "fecha": "2026-10-20T07:48:33-05:00",
+  "palabras": "Antioquia, Policía Nacional, Iglesia católica",
+  "lead": "La misma comunidad ha ofrecido recompensas para recuperar los objetos hurtados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murieron 3 personas en accidentes en vía Medellín - Bogotá; una víctima era consejero de juventud",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/murieron-3-personas-en-accidentes-en-via-medellin-bogota-una-victima-era-consejero-de-juventud-rg10",
+  "fecha": "2026-10-20T07:41:23-05:00",
+  "palabras": "Antioquia, Autopista Medellín - Bogotá, Accidente de tránsito, Policía de Tránsito",
+  "lead": "Autoridades investigan posibles responsabilidades en estos siniestros viales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De los 14 fallecidos en mina de oro de Iscuandé, 12 son mujeres: la mayoría cabeza de familia",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/de-los-14-fallecidos-en-mina-de-oro-de-iscuande-12-son-mujeres-la-mayoria-cabeza-de-familia-so35",
+  "fecha": "2026-10-20T07:10:39-05:00",
+  "palabras": "Oro, Minería, Nariño",
+  "lead": "El gobernador Luis Alfonso Escobar vincula la tragedia en una mina artesanal de Santa Bárbara de Iscuandé con la informalidad minera y pide acelerar la formalización.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría les pone la lupa a entidades públicas y exige reforzar ahorro de agua y energía",
+  "enlace": "https://www.bluradio.com/nacion/procuraduria-les-pone-la-lupa-a-entidades-publicas-y-exige-reforzar-el-ahorro-de-agua-y-energia-rg10",
+  "fecha": "2026-10-20T07:31:48-05:00",
+  "palabras": "Procuraduría General de la Nación, Agua potable, Energía eléctrica",
+  "lead": "La entidad anuncia auditorías, revisión de consumos y posibles requerimientos a los organismos que incumplan las disposiciones, en medio de las alertas por el fenómeno de El Niño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El homenaje de Bomberos Floridablanca a Lucas tras alta médica: “Bomberito honorario”",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/el-homenaje-de-bomberos-floridablanca-a-lucas-tras-alta-medica-bomberito-honorario-rg10",
+  "fecha": "2026-10-20T07:46:37-05:00",
+  "palabras": "Santander, Menores de edad, Bomberos de Bucaramanga, Floridablanca",
+  "lead": "Lucas Murillo fue nombrado ‘bomberito honorario’ en Floridablanca tras superar cirugía de corazón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Si no ahorramos agua, la situación será crítica en 15 días para Piedras Blancas: Federico Gutiérrez",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/si-no-ahorramos-agua-la-situacion-sera-critica-en-15-dias-para-piedras-blancas-federico-gutierrez-rg10",
+  "fecha": "2026-10-20T07:57:09-05:00",
+  "palabras": "Medellín, EPM, Racionamiento de agua",
+  "lead": "Durante la quinta semana de racionamiento de agua en el nororiente de Medellín, metas de ahorro del líquido por vivienda siguen sin cumplirse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Unidad móvil funcionó en cuatro oportunidades”: Hollman Morris niega presuntos sobrecostos en RTVC",
+  "enlace": "https://caracol.com.co/2026/10/20/unidad-movil-funciono-en-cuatro-oportunidades-hollman-morris-niega-presuntos-sobrecostos-en-rtvc/",
+  "fecha": "2026-10-20T07:26:36-05:00",
+  "palabras": "",
+  "lead": "En 6AM W, Hollman Morris se pronunció sobre los presuntos sobrecostos superiores a los $2.000 millones y las fallas técnicas en una unidad móvil comprada en 2025 que estaría parqueada y sin poder usarse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinaron al padre de Isabella Prado, joven de 19 años baleada hace una semana en Florida, Valle",
+  "enlace": "https://caracol.com.co/2026/10/20/asesinaron-al-padre-de-isabella-prado-joven-de-19-anos-baleada-hace-una-semana-en-florida-valle/",
+  "fecha": "2026-10-20T07:50:14-05:00",
+  "palabras": "",
+  "lead": "Diego Fernando Prado Delgado fue atacado a disparos después de una misa en honor a su hija, quien murió en otro ataque armado en el mismo municipio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Transmilenio estrenará puertas inteligentes en 49 estaciones de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/20/transmilenio-estrenara-puertas-inteligentes-en-49-estaciones-de-bogota/",
+  "fecha": "2026-10-20T07:46:01-05:00",
+  "palabras": "",
+  "lead": "Esta arquitectura tecnológica, desarrollada a la medida de las necesidades operacionales de las estaciones de TransMilenio en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Justicia no tiene precio; la deshonraron: Mauricio Lenis por caso de exmagistrados Bustos y Tarquino",
+  "enlace": "https://caracol.com.co/2026/10/20/justicia-no-tiene-precio-la-deshonraron-mauricio-lenis-por-caso-de-exmagistrados-bustos-y-tarquino/",
+  "fecha": "2026-10-20T07:43:00-05:00",
+  "palabras": "",
+  "lead": "Mauricio Lenis, presidente de la Corte Suprema de Justicia, se refirió a los procesos judiciales de los exmagistrados Leonidas Bustos y Camilo Tarquino.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tragedia minera en Iscuandé deja 14 muertos y múltiples heridos",
+  "enlace": "https://caracol.com.co/2026/10/20/tragedia-minera-en-iscuande-deja-14-muertos-y-multiples-heridos/",
+  "fecha": "2026-10-20T07:47:52-05:00",
+  "palabras": "",
+  "lead": "A 27 se elevan las víctimas de dos colapsos mineros en Nariño en menos de dos meses",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incendio amenaza el cerro El Chiflón mientras Neiva reporta 578 hectáreas afectadas por las quemas",
+  "enlace": "https://caracol.com.co/2026/10/20/incendio-amenaza-el-cerro-el-chiflon-mientras-neiva-reporta-578-hectareas-afectadas-por-las-quemas/",
+  "fecha": "2026-10-20T07:46:48-05:00",
+  "palabras": "",
+  "lead": "Bomberos monitorean el fuego con drones y piden evitar quemas de basura y participar en el simulacro nacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concejal de Ibagué denuncia amenazas de muerte: pide protección del Gobierno Nacional",
+  "enlace": "https://caracol.com.co/2026/10/20/concejal-de-ibague-denuncia-amenazas-de-muerte-pide-proteccion-del-gobierno-nacional/",
+  "fecha": "2026-10-20T07:37:04-05:00",
+  "palabras": "",
+  "lead": "Según el concejal del Partido Cambio Radical, Cesar Franco, hace un llamado al presidente, Abelardo de la Espriella, para que no permita que la delincuencia que se tomó una invasión gane la batalla en Ibagué.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Díaz, en el equipo ideal de la temporada 2025-2026 para prestigiosa revista francesa",
+  "enlace": "https://caracol.com.co/2026/10/20/luis-diaz-en-el-equipo-ideal-de-la-temporada-2025-2026-para-prestigiosa-revista-francesa/",
+  "fecha": "2026-10-20T07:36:47-05:00",
+  "palabras": "",
+  "lead": "El colombiano fue el único de los tres atacantes del Bayern Múnich que fue escogido en el once ideal.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Íquira suspende clases para 300 estudiantes de Valencia de la Paz por cilindro explosivo en la vía",
+  "enlace": "https://caracol.com.co/2026/10/20/iquira-suspende-clases-para-300-estudiantes-de-valencia-de-la-paz-por-cilindro-explosivo-en-la-via/",
+  "fecha": "2026-10-20T07:35:07-05:00",
+  "palabras": "",
+  "lead": "La falta de conectividad impide las clases virtuales y obliga a mantener a los alumnos en casa por seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Residentes del edificio Venezolano de Cali alertan por la inclinación de una torre",
+  "enlace": "https://caracol.com.co/2026/10/20/residentes-del-edificio-venezolano-de-cali-alertan-por-la-inclinacion-de-una-torre/",
+  "fecha": "2026-10-20T07:16:34-05:00",
+  "palabras": "",
+  "lead": "El inmueble ubicado en la ciudad de Cali tiene cerca de 70 años de antigüedad y fue declarado patrimonio histórico de la ciudad. Aunque fue clasificado como habitable con restricciones, los residentes buscan establecer si la inclinación de una de sus tres torres no representa peligro para la v",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ESSA confirma niveles históricos de demanda de energía: hay cobros adicionales según el consumo",
+  "enlace": "https://caracol.com.co/2026/10/20/essa-confirma-niveles-historicos-de-demanda-de-energia-hay-cobros-adicionales-segun-el-consumo/",
+  "fecha": "2026-10-20T07:12:51-05:00",
+  "palabras": "",
+  "lead": "La demanda de electricidad alcanzó picos históricos en julio, agosto y septiembre. La empresa pidió a los usuarios ahorrar energía, agua y gas ante las altas temperaturas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expulsan a ciudadano francés señalado de presuntos vínculos con Los Costeños",
+  "enlace": "https://caracol.com.co/2026/10/20/expulsan-de-colombia-a-ciudadano-frances-senalado-de-presuntos-vinculos-con-los-costenos/",
+  "fecha": "2026-10-20T07:22:36-05:00",
+  "palabras": "",
+  "lead": "El extranjero es acusado de convencer a personas vulnerables para llevar drogas a Europa",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detenidos en Cataluña dos yihadistas seguidores del Dáesh",
+  "enlace": "https://caracol.com.co/2026/10/20/detenidos-en-cataluna-dos-yihadistas-seguidores-del-daesh/",
+  "fecha": "2026-10-20T07:18:54-05:00",
+  "palabras": "",
+  "lead": "La Policía Nacional ha detenido en las provincias de Barcelona y Tarragona a dos presuntos yihadistas simpatizantes de los postulados radicales y violentos de la organización Dáesh.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría pidió fallo absolutorio para exsenadora Piedad Zuccardi por caso de ‘parapolítica’",
+  "enlace": "https://caracol.com.co/2026/10/20/procuraduria-pidio-fallo-absolutorio-para-exsenadora-piedad-zuccardi-por-caso-de-parapolitica/",
+  "fecha": "2026-10-20T07:18:02-05:00",
+  "palabras": "",
+  "lead": "Ahora corresponde a la Corte Suprema de Justicia analizar los argumentos expuestos por las partes",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperan más de 30 espacios de parqueadero público en Centro Histórico de Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/20/recuperan-mas-de-30-espacios-de-parqueadero-publico-en-centro-historico-de-santa-marta/",
+  "fecha": "2026-10-20T07:16:11-05:00",
+  "palabras": "",
+  "lead": "La actividad fue liderada por la Secretaría de Movilidad, luego de la denuncia que algunos cuidadores de vehículos presuntamente reservaban estos espacios para personas que pagaban una mensualidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "María Fernanda Silva Valencia asume la Gerencia General de Capital Salud EPS",
+  "enlace": "https://caracol.com.co/2026/10/20/maria-fernanda-silva-valencia-asume-la-gerencia-general-de-capital-salud-eps/",
+  "fecha": "2026-10-20T07:13:30-05:00",
+  "palabras": "",
+  "lead": "Con más de 20 años de experiencia en el sector salud, la nueva gerente tendrá el reto de fortalecer la atención a los afiliados, la articulación institucional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comisión 1 del Concejo de Medellín aprueba actualización del POT: plenaria votará el 4 de noviembre",
+  "enlace": "https://caracol.com.co/2026/10/20/comision-1-del-concejo-de-medellin-aprueba-actualizacion-del-pot-plenaria-votara-el-4-de-noviembre/",
+  "fecha": "2026-10-20T07:12:24-05:00",
+  "palabras": "",
+  "lead": "El proyecto pasó por más de 119 modificaciones y ahora tendrá su segundo debate ante los 21 concejales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lora murió tras vivir más de 15 años en cautiverio en Medellín: tenía fracturas y desnutrición",
+  "enlace": "https://caracol.com.co/2026/10/20/lora-murio-tras-vivir-mas-de-15-anos-en-cautiverio-en-medellin-tenia-fracturas-y-desnutricion/",
+  "fecha": "2026-10-20T07:12:34-05:00",
+  "palabras": "",
+  "lead": "Entre 2024 y octubre de 2026, un total de 460 loras frentiamarillas han ingresado al CAVR, procedentes de incautaciones y entregas voluntarias.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Marco Rubio admitió posible demora en entrega de interceptores a Kiev, pero negó motivo político",
+  "enlace": "https://caracol.com.co/2026/10/20/marco-rubio-admitio-posible-demora-en-entrega-de-interceptores-a-kiev-pero-nego-motivo-politico/",
+  "fecha": "2026-10-20T07:11:06-05:00",
+  "palabras": "",
+  "lead": "Ucrania ha denunciado retrasos en la entrega de misiles interceptores para los sistemas Patriot, claves para defender sus ciudades e infraestructura frente a ataques balísticos rusos, en medio de nuevas tensiones con Washington por el apoyo militar y de inteligencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La visita del papa a España generó un impacto económico de casi 140 millones de euros",
+  "enlace": "https://caracol.com.co/2026/10/20/la-visita-del-papa-a-espana-genero-un-impacto-economico-de-casi-140-millones-de-euros/",
+  "fecha": "2026-10-20T07:06:39-05:00",
+  "palabras": "",
+  "lead": "La visita del papa León XIV a España, que tuvo lugar del 6 al 9 de junio, ha generado un beneficio de 139,48 millones de euros, según el informe elaborado por la consultora EY España sobre el impacto económico que supuso organizar la visita del pontífice.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Me sorprendió verlo”: Saúl Kattan sobre presencia de Manel Grau en proyecto de BioNube",
+  "enlace": "https://caracol.com.co/2026/10/20/me-sorprendio-verlo-saul-kattan-sobre-presencia-de-manel-grau-en-proyecto-de-bionube/",
+  "fecha": "2026-10-20T07:07:44-05:00",
+  "palabras": "",
+  "lead": "Saúl Kattan Cohen, exgerente encargado y miembro de la junta directiva de Internexa, habló sobre las denuncias hechas por ISA a raíz de un contrato en el que aparece Manel Grau.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Derrumbe en mina ilegal en Nariño deja 17 personas muertas",
+  "enlace": "https://www.lafm.com.co/actualidad/derrumbre-mina-ilegal-narino-17-muertos-414506",
+  "fecha": "2026-10-20T07:49:00-05:00",
+  "palabras": "Actualidad,Nariño,Derrumbe,Colombia",
+  "lead": "Un derrumbe en una mina de oro en Santa Bárbara de Iscuandé, Nariño, dejó al menos nueve personas muertas y varios desaparecidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "“No es el presupuesto que quisiéramos”: Senador ponente",
+  "enlace": "https://www.lafm.com.co/economia/presupuesto-general-de-la-nacion-2027-cambios-aprobados-lo-que-falta-ajustes-fiscales-414501",
+  "fecha": "2026-10-20T07:23:00-05:00",
+  "palabras": "Economía,recursos públicos,medidas fiscales,Regla fiscal,Deuda externa,Impuestos,situación financiera",
+  "lead": "El senador vallecaucano, Cristian Garcés, explicó que el presupuesto contempla los ingresos provenientes de los impuestos vigentes y el endeudamiento, sin ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano martes 20 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-martes-20-de-octubre-2026-414352",
+  "fecha": "2026-10-20T07:13:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este martes en La FM.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Uribe y familiares de Vargas Lleras alistan denuncias por caso Mancuso",
+  "enlace": "https://www.lafm.com.co/politica/salvatore-mancuso-denuncias-penales-alvaro-uribe-german-vargas-lleras-414498",
+  "fecha": "2026-10-20T07:10:00-05:00",
+  "palabras": "Política,Álvaro Uribe,Germán Vargas Lleras,Salvatore Mancuso,Gustavo Petro,Armando Benedetti,Valledupar",
+  "lead": "El caso, conocido como el ‘pacto de Valledupar’ o la ‘Mancusopolítica’, apenas comienza su recorrido en los estrados judiciales.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
