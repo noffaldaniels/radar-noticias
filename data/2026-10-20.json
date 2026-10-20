@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "A pesar de que actualmente los niveles de los embalses se encuentran en un 76.17% de su capacidad útil, la previsión meteorológica mantiene preocupados a los expertos del sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "Presupuesto Nacional, Congreso de la República",
   "lead": "El coordinador ponente del presupuesto de 634,9 billones advierte que lo aprobado no es lo que se ejecutará y reclama claridad sobre el recorte de 45 billones y la agenda fiscal del Ejecutivo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "RTVC, Gustavo Petro",
   "lead": "La entidad encontró soportes de contratistas de aportes a salud y pensión que presuntamente no se habrían realizado. Los hallazgos serán trasladados a la Fiscalía, la Procuraduría y la Contraloría.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Bucaramanga, Santander, Páramo de Santurbán, Ministerio de Ambiente, Blu Radio",
   "lead": "La solicitud fue presentada por la Procuraduría ante el Tribunal Administrativo de Santander tras la revocatoria de la prórroga que extendía la reserva temporal hasta 2029.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "Prosperidad Social entregará los recursos entre el 21 y el 28 de octubre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "Marshall, pescador san andresano, se refirió a la actualidad de esa profesión en la isla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "Cabe recordar que la concesión vence en febrero de 2027, pero el ministerio de transporte anunció que extiende hasta septiembre la concesión",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "El Distrito también reporta 177 derivaciones a entidades competentes, 161 seguimientos a víctimas y 29 articulaciones institucionales para fortalecer la atención y prevenir la revictimización.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "Este reconocimiento podrá representar 26 millones de pesos en apoyos no reembolsables.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Los congresistas Marco Emilio Hincapié y Óscar Darío Pérez estuvieron en Caracol Radio debatiendo sobre el Presupuesto General de la Nación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "La institución abrió la segunda de sus dos nuevas sedes, que cuenta con 48 consultorios y un piso exclusivo para pacientes de ortopedia y traumatología. En total, los dos espacios reúnen 92 consultorios y ofrecen atención en más de 25 especialidades médicas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Un video que circula en redes sociales señala a un agente de tránsito de haber agredido a un conductor. La Secretaría de Tránsito de Girón entregó una versión diferente y aseguró que el funcionario fue quien recibió el golpe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "Orden Público,Ejército Nacional,Heridos,Militares,Fuerzas Militares,Ataque a uniformados,enfrentamiento,investigados,Colombia,Boyacá",
   "lead": "Según se conoció, un soldado habría accionado su arma de dotación contra un superior. En el hecho, un perro también resultó herido.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,6 +1294,281 @@
   "palabras": "Actualidad,Impuesto predial,Reforma tributaria,Beneficios tributarios,Arrendamientos,Incentivos tributarios,Concejo de Bogotá,Alcaldía de Bogotá,Fallo judicial,Actividad judicial,Recaudo fiscal",
   "lead": "La acción fue interpuesta ante el Tribunal Administrativo de Cundinamarca.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Con los servicios de urgencias y consulta externa se reactiva atención en Hospital de Puerto Berrío",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/con-los-servicios-de-urgencias-y-consulta-externa-se-reactiva-atencion-en-hospital-de-puerto-berrio-rg10",
+  "fecha": "2026-10-20T08:22:49-05:00",
+  "palabras": "Salud, Noticias de hoy",
+  "lead": "La habilitación de las demás áreas será gradual y la Gobernación de Antioquia espera que la institución opere plenamente en noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Expulsan a francés señalado de traficar droga desde Atlántico: tenía nexos con banda 'Los Costeños'",
+  "enlace": "https://www.bluradio.com/regiones/caribe/expulsan-a-frances-senalado-de-traficar-droga-desde-atlantico-tenia-nexos-con-banda-los-costenos-rg10",
+  "fecha": "2026-10-20T08:39:27-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Deportados de Estados Unidos",
+  "lead": "Traore Mamoudu, al parecer, “contactaba a personas de escasos recursos para convencerlas de viajar a Europa transportando estupefacientes, que eran adheridos a sus cuerpos u ocultados en equipajes”.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sindicato del Inpec denuncia cuatro dragoneantes asesinados y más de 500 amenazas en el país",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/sindicato-del-inpec-denuncia-cuatro-dragoneantes-asesinados-y-mas-de-500-amenazas-en-el-pais-rg10",
+  "fecha": "2026-10-20T08:27:48-05:00",
+  "palabras": "Antioquia, Colombia, Inpec, Cárceles",
+  "lead": "Estos hechos se habrían incrementado por los traslados de cabecillas. En Antioquia en los últimos dos años se han registrado ocho actos violentos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Barranquilla intensifica fumigación y revisión casa a casa para combatir proliferación de mosquitos",
+  "enlace": "https://www.bluradio.com/regiones/caribe/barranquilla-intensifica-fumigacion-y-revision-casa-a-casa-para-combatir-proliferacion-de-mosquitos-rg10",
+  "fecha": "2026-10-20T08:32:59-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Dengue",
+  "lead": "La campaña busca frenar, entre otras, los contagios de dengue que se han incrementado este año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría formula cargos contra soldado en Bucaramanga por presunto abuso sexual",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/procuraduria-formula-cargos-contra-soldado-en-bucaramanga-por-presunto-abuso-sexual-rg10",
+  "fecha": "2026-10-20T08:21:36-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Procuraduría General de la Nación, Ejército Nacional, Abuso sexual, Mujeres, Violencia Contra la mujer, Santander, Bucaramanga, Bucaramanga",
+  "lead": "El uniformado es investigado por presuntamente desviar una ambulancia militar hacia su residencia y abusar sexualmente de un auxiliar de enfermería, a quien habría intimidado con un arma blanca.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Como el Tesla Cybertruck en Rionegro, una camioneta se llevó un poste La Estrella, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/como-el-tesla-cybertruck-en-rionegro-una-camioneta-se-llevo-un-poste-la-estrella-antioquia-rg10",
+  "fecha": "2026-10-20T08:30:36-05:00",
+  "palabras": "Valle de Aburrá, Accidente de tránsito, Movilidad, Noticias de hoy",
+  "lead": "El siniestro vial tuvo lugar en la calle 80 Sur con carrera 56, punto hasta el cual se desplazó el Cuerpo de Bomberos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Carros chinos usados por militares en Noruega grabaron en secreto bases y códigos de acceso",
+  "enlace": "https://www.bluradio.com/motor/carros-chinos-usados-por-militares-en-noruega-grababan-en-secreto-bases-y-codigos-de-acceso-so35",
+  "fecha": "2026-10-20T08:27:51-05:00",
+  "palabras": "Geely, Deepal, China, Noruega",
+  "lead": "Los soldados eliminaron las grabaciones de los sistemas a los que pudieron acceder, aunque desconocen si había copias adicionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel alias ‘El Depredador del Humedal Juan Amarillo’, señalado de atacar a siete víctimas",
+  "enlace": "https://www.bluradio.com/regiones/bogota/a-la-carcel-alias-el-depredador-del-humedal-juan-amarillo-senalado-de-atacar-a-siete-victimas-rg10",
+  "fecha": "2026-10-20T08:32:58-05:00",
+  "palabras": "Abuso sexual",
+  "lead": "El hombre fue capturado en Turbaco, Bolívar, luego de huir de la capital hace dos meses. Según las autoridades, intimidaba a sus víctimas con armas de fuego para llevarlos a zonas boscosas del humedal, donde presuntamente las agredía sexualmente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colegios públicos tendrían drástico cambio si aprueban proyecto: de esto se trata",
+  "enlace": "https://www.bluradio.com/regiones/bogota/colegios-publicos-tendrian-drastico-cambio-si-aprueban-proyecto-de-esto-se-trata-so35",
+  "fecha": "2026-10-20T08:42:35-05:00",
+  "palabras": "Colegios distritales, Secretaría de Educación",
+  "lead": "Un proyecto en el Concejo de Bogotá busca cambiar los nombres de colegios públicos: dejarían de lado a personajes de la historia nacional",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mintransporte instalará mesa de trabajo para reforzar la seguridad en la vía Panamericana",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/mintransporte-instalara-mesa-de-trabajo-para-reforzar-la-seguridad-en-la-via-panamericana-rg10",
+  "fecha": "2026-10-20T09:03:56-05:00",
+  "palabras": "Vía panamericana",
+  "lead": "El Invías iniciará la compra de 600 motocicletas y 124 camionetas blindadas, mientras se gestionará la adquisición de 20 tanquetas para fortalecer la capacidad operativa de la Fuerza Pública.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo ataque con explosivos en Huila afectó a droguería cerca de la sede de la alcaldía en Algeciras",
+  "enlace": "https://www.bluradio.com/nacion/nuevo-ataque-con-explosivos-en-huila-afecto-a-drogueria-cerca-de-la-sede-de-la-alcaldia-en-algeciras-so35",
+  "fecha": "2026-10-20T09:09:49-05:00",
+  "palabras": "Noticias de hoy, Huila, Orden público",
+  "lead": "Este nuevo episodio de violencia se suma a una serie de ataques contra la fuerza pública registrados durante los últimos días en el departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ponen en duda propiedad de lote donde alcaldía de Girón construyó complejo deportivo",
+  "enlace": "https://caracol.com.co/2026/10/20/acusado-de-supuesta-estafa-con-venta-de-predios-en-giron-santander-cuenta-su-version/",
+  "fecha": "2026-10-20T09:04:29-05:00",
+  "palabras": "",
+  "lead": "Edward Mauricio Barrera asegura que compró derechos posesorios de un predio en Hacienda La Meseta; el caso está en manos de la justicia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército Nacional capturó presunta cabecilla de la Estructura 37 Martín Caballero en Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/20/ejercito-nacional-capturo-presunta-cabecilla-de-la-estructura-37-martin-caballero-en-bolivar/",
+  "fecha": "2026-10-20T09:03:01-05:00",
+  "palabras": "",
+  "lead": "La operación se desarrolló en la vereda San Isidro, del municipio de Santa Rosa del Sur",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bayern Múnich Vs. Arsenal, partidazo en Champions: Día y hora del próximo juego de Luis Díaz",
+  "enlace": "https://caracol.com.co/2026/10/20/bayern-munich-vs-arsenal-partidazo-en-champions-dia-y-hora-del-proximo-juego-de-luis-diaz/",
+  "fecha": "2026-10-20T09:01:45-05:00",
+  "palabras": "",
+  "lead": "Lucho busca mantener su buena racha de cuatro goles marcados en los últimos dos encuentros.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Congresista Juliana Aray lanza alerta sobre efectos del fenómeno de El Niño",
+  "enlace": "https://caracol.com.co/2026/10/20/congresista-juliana-aray-lanza-alerta-sobre-efectos-del-fenomeno-de-el-nino/",
+  "fecha": "2026-10-20T08:53:58-05:00",
+  "palabras": "",
+  "lead": "La bolivarense expresó su preocupación por las consecuencias que tendría para el departamento",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Laura Bozzo fue hospitalizada de urgencia en México por complicaciones de salud: ¿Qué le pasó?",
+  "enlace": "https://caracol.com.co/2026/10/20/laura-bozzo-fue-hospitalizada-de-urgencia-en-mexico-por-complicaciones-de-salud-que-le-paso/",
+  "fecha": "2026-10-20T08:51:25-05:00",
+  "palabras": "",
+  "lead": "Bozzo es conocida principalmente por su programa de entrevistas en español, “Laura”.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Variante de San Gil recibirá $100 mil millones tras aprobación del presupuesto nacional para 2027",
+  "enlace": "https://caracol.com.co/2026/10/20/variante-de-san-gil-recibira-100-mil-millones-tras-aprobacion-del-presupuesto-nacional-para-2027/",
+  "fecha": "2026-10-20T08:33:39-05:00",
+  "palabras": "",
+  "lead": "Los recursos permitirán impulsar la obra, que permanece inconclusa pese a haber comenzado su ejecución en 2018.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Emiten alerta rosa por desaparición de mujer de 39 años en Cali",
+  "enlace": "https://caracol.com.co/2026/10/20/emiten-alerta-rosa-por-desaparicion-de-mujer-de-39-anos-en-cali/",
+  "fecha": "2026-10-20T08:30:25-05:00",
+  "palabras": "",
+  "lead": "Leydi Johanna Sánchez Miranda fue vista por última vez el 15 de septiembre en el barrio San Judas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan a exgobernador de San Andrés por presunta extorsión",
+  "enlace": "https://www.lafm.com.co/politica/everth-hawkins-captura-barranquilla-extorsion-agravada-secuestro-extorsivo-414507",
+  "fecha": "2026-10-20T08:57:00-05:00",
+  "palabras": "Política,San Andrés,Abelardo de la Espriella,Exgobernadores,Barranquilla,Capturas,Fiscalía General de la Nación",
+  "lead": "La Fiscalía pone la lupa sobre exgobernador de San Andrés: investigan extorsiones por $3.000 millones",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Exdirector del Pentágono rompe el silencio sobre ovnis",
+  "enlace": "https://www.lafm.com.co/sociedad/ovnis-exdirector-pentagono-habla-extraterrestres-estados-unidos-414517",
+  "fecha": "2026-10-20T08:44:00-05:00",
+  "palabras": "Sociedad,Actividad extraterrestre,Pentágono,Objeto Volador No Identificado,OVNI,Investigaciones,Desinformación,Documentales,plan de seguridad nacional,Estados Unidos",
+  "lead": "Jay Stratton, exdirector de un grupo de trabajo del Pentágono, relató sus investigaciones sobre ovnis y posibles programas secretos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pacto de Valledupar: documento ofrece revisar extradiciones a paramilitares",
+  "enlace": "https://www.lafm.com.co/politica/pacto-paramilitares-documento-firmado-beneficios-carcelarios-extradicion-benedetti-angie-rodriguez-414514",
+  "fecha": "2026-10-20T08:39:00-05:00",
+  "palabras": "Política,Paramilitares,Justicia transicional,Justicia y Paz,Acuerdo de paz,Proceso de Paz,Salvatore Mancuso,Álvaro Uribe,Gustavo Petro,Elecciones en Colombia,Germán Vargas Lleras",
+  "lead": "La FM investiga obtuvo en exclusiva el documento que surgió de la reunión del pacto de Valledupar. En el texto oficial del Gobierno se firmó un acuerdo par...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Minería irregular en Nariño: la alerta tras la tragedia",
+  "enlace": "https://www.lafm.com.co/sociedad/tragedia-minera-narino-falta-regularizacion-ilegalidad-414500",
+  "fecha": "2026-10-20T08:24:00-05:00",
+  "palabras": "Sociedad,Minería,Accidente,Riesgos laborales,Víctimas,Agencia Nacional de Minería",
+  "lead": "Weimar Cundumí, secretario de Planeación y coordinador para la Gestión del Riesgo de Desastres del municipio, explicó la limitada capacidad de intervención...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Dónde está María Alejandra Solano? sigue búsqueda de modelo",
+  "enlace": "https://www.lafm.com.co/orden-publico/desaparicion-maria-alejandra-solano-autoridades-buscan-joven-se-perdio-rastro-cali-414513",
+  "fecha": "2026-10-20T08:13:00-05:00",
+  "palabras": "Orden Público,Joven desaparecido,desaparición de personas,desaparecido,Unidad de Búsqueda de Personas Desaparecidas,Cali, Colombia,Colombia",
+  "lead": "Su familia perdió contacto con la joven, luego de que llegara a la capital del Valle para cumplir compromisos laborales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mamá de Jaime Esteban Moreno: ‘No puedo perdonar a los asesinos de mi hijo´",
+  "enlace": "https://www.lafm.com.co/orden-publico/mama-de-jaime-esteban-moreno-no-puedo-perdonar-a-asesinos-de-mi-hijo-a-quien-le-dejaron-su-craneo-destrozado-414512",
+  "fecha": "2026-10-20T08:13:00-05:00",
+  "palabras": "Orden Público,Asesinato,Condena,asesino,actos violentos,Víctimas,Forenses,Medicina Legal,Disfraces para Halloween,Bogotá",
+  "lead": "David Moreno, hermano de Jaime Esteban, le hizo un llamado a las autoridades para capturar a Kleydimar Fernández señalada como la determinadora del crimen....",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alberta, un estado petrolero, vota en contra de separarse de Canadá",
+  "enlace": "https://www.lafm.com.co/internacional/alberta-canada-vota-en-contra-referendum-separatisa-414509",
+  "fecha": "2026-10-20T08:09:00-05:00",
+  "palabras": "Internacional,Canadá,Referendum,Quebec",
+  "lead": "El 76 % apoyaba permanecer en Canadá, frente al 23 %, según proyecciones de la cadena pública CBC News.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
