@@ -279,6 +279,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Informó que la actividad económica en Colombia cayó un 0,04%, de acuerdo con cifras oficiales entregadas por el DANE.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:27",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se reporta una tragedia en el municipio de Iscuandé, Nariño, donde la caída de un alud en una mina artesanal dejó 14 personas muertas y 7 heridas en un campamento de barequeo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:28",
+   "quien": "Doctor Ricardo",
+   "que": "Sobre los heridos de la mina en Iscuandé, hay tres dedicados con problemas, golpes internos y fracturas, atendidos en el casco urbano y en proceso de traslado a Pasto o Tumaco.",
+   "resaltar": false
   }
  ],
  "avisos": []
