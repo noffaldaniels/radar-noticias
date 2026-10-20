@@ -685,6 +685,20 @@
    "quien": "Andrés Carmona, Periodista de Mañanas Blu",
    "que": "Informó que el presupuesto general de la nación aprobado esta madrugada en el Congreso de la República es de 634.9 billones de pesos, tras acuerdos entre el gobierno y los congresistas.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:52",
+   "quien": "Marco Emilio Hincapié, Congresista",
+   "que": "Afirmó que el proyecto de presupuesto presentado por el Gobierno no priorizó temas importantes como la inversión social y la reconstrucción de regiones afectadas por tragedias, criticando un aumento en el servicio de la deuda de 118 billones a casi 55 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:54",
+   "quien": "Óscar Darío Pérez, Congresista del Centro Democrático",
+   "que": "Señaló que el Centro Democrático no contribuyó a desfinanciar la inversión social y cuestionó la viabilidad del aumento de la deuda pública y el manejo presupuestal del Gobierno.",
+   "resaltar": true
   }
  ],
  "avisos": []
