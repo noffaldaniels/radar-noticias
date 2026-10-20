@@ -160,6 +160,27 @@
    "quien": "Juan Lozano, periodista de Noticias La FM con Juan Lozano",
    "que": "Reportó que según cifras del DANE la economía colombiana se contrajo un 0,04% en el mes de agosto en comparación con el mismo periodo del año anterior.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:01",
+   "quien": "Julio Sánchez Cristo, director de 6AM con Julio Sánchez Cristo",
+   "que": "Informó sobre la captura en Barranquilla del exgobernador de San Andrés, Ever Julio Hawkins, señalado de extorsión agravada y secuestro extorsivo por presuntamente exigir 3.000 millones de pesos a dos congresistas mediante una banda delincuencial.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:03",
+   "quien": "Julio Sánchez Cristo, director de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó que Salvatore Mancuso y su abogado Juan Carlos Villamizar confirmaron que delegados del Gobierno de Gustavo Petro, entre ellos Angie Rodríguez y Armando Benedetti, pidieron a jefes paramilitares declarar contra Álvaro Uribe, Germán Vargas Lleras y Abelardo De La Espriella.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:06",
+   "quien": "Julio Sánchez Cristo, director de 6AM con Julio Sánchez Cristo",
+   "que": "Indicó que en el marco de la ofensiva contra el ELN en Arauca, el Gobierno confirmó que trasladará a los cabecillas detenidos en ese departamento hacia cárceles de máxima seguridad de todo el país.",
+   "resaltar": false
   }
  ],
  "avisos": []
