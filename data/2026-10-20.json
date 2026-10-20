@@ -436,7 +436,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Abuso sexual Menores de Edad, Abuso sexual, Policía Nacional, Interpol, Fiscalía General de la Nación, Bucaramanga, Floridablanca, Santander",
   "lead": "El hombre, de 30 años, era requerido mediante notificación azul de Interpol por presuntos delitos de proxenetismo con menor de edad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "El ministro explicó que esos 123 encarcelamientos incluyen los que han ingresado en prisión provisional en espera de juicio y los que lo han hecho porque ya han sido condenados en las primeras comparecencias inmediatas que se organizaron el lunes en varios tribunales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "Se trata de una nueva intervención forense en el Campo Santo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "Se abre una nueva polémica en la región por cuenta de la escogencia de la persona que estará al frente de la institución a partir de 2027. El actual rector dice que el departamento está “despelotado”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "La jornada gratuita está prevista para hoy martes, 20 de octubre, entre las 8 de la mañana y las 12 del mediodía en la Universidad Pontificia Bolivariana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "La fase 27 de intervención forense va del 19 al 30 de octubre y la fase 28, última de 2026, del 9 al 20 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "Los hechos ocurrieron el pasado 17 de octubre en una bodega de la empresa.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -512,6 +512,160 @@
   "fecha": "2026-10-20T05:54:27-05:00",
   "palabras": "",
   "lead": "Bomberos de Tunja que se entrenaron en Chile hará presencia en Villa de Leyva para atender incendio forestal.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caen alias ‘Yhan’ y ‘Morrocoy’, presuntos asesinos de un patrullero de la Policía en Ocaña",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/caen-alias-yhan-y-morrocoy-presuntos-asesinos-de-un-patrullero-de-la-policia-en-ocana-so35",
+  "fecha": "2026-10-20T06:12:22-05:00",
+  "palabras": "Ocaña, Policía Nacional, Norte de Santander, Inseguridad",
+  "lead": "Los capturados son investigados por su presunta participación en el asesinato del patrullero Janer Mena Mosquera, ocurrido el pasado 21 de septiembre. También son investigados por el homicidio del líder Oliver Sánchez.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aterrador hallazgo en Bucaramanga: encuentran cuerpo de un hombre dentro de un locker",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/aterrador-hallazgo-en-bucaramanga-encuentran-cuerpo-de-un-hombre-dentro-de-un-locker-rg10",
+  "fecha": "2026-10-20T06:32:24-05:00",
+  "palabras": "Santander, Bucaramanga, Homicidios, Policía Nacional, Blu Radio, Noticias de hoy, Bucaramanga",
+  "lead": "El cadáver fue encontrado en el sótano de un conjunto residencial del barrio Ricaurte. La víctima, que permanece sin identificar, presentaba heridas causadas con un arma cortopunzante.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Coocentral cumple 50 años impulsando la productividad y rentabilidad de los caficultores del Huila",
+  "enlace": "https://www.bluradio.com/economia/coocentral-cumple-50-anos-impulsando-la-productividad-y-rentabilidad-de-los-caficultores-del-huila-so35",
+  "fecha": "2026-10-20T06:34:48-05:00",
+  "palabras": "",
+  "lead": "La cooperativa cafetera del Huila reportó exportaciones directas de 53.491 sacos y créditos por $15.107 millones a sus asociados en 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Altos costos y sargazo ponen en alerta a Tulum, joya turística del Caribe mexicano",
+  "enlace": "https://www.bluradio.com/turismo/altos-costos-y-sargazo-ponen-en-alerta-a-tulum-joya-turistica-del-caribe-mexicano-cb20",
+  "fecha": "2026-10-20T06:48:16-05:00",
+  "palabras": "",
+  "lead": "La falta de mantenimiento es evidente, las calles llenas de baches que los propios trabajadores tienen que rellenar, hoteles y restaurantes cerrados con todo el mobiliario a la vista y restaurantes vacíos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Montería busca recursos con la UNGRD para mitigar la emergencia que dejó el frente frío",
+  "enlace": "https://caracol.com.co/2026/10/20/alcalde-de-monteria-busca-recursos-con-la-ungrd-para-mitigar-la-emergencia-que-dejo-el-frente-frio/",
+  "fecha": "2026-10-20T06:43:56-05:00",
+  "palabras": "",
+  "lead": "El mandatario Hugo Kerguelén sustentará en noviembre los proyectos para atender daños causados por el frente frío",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mataron a hombre mientras departía en una tienda de Arjona, Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/20/mataron-a-hombre-mientras-departia-en-una-tienda-de-arjona-bolivar/",
+  "fecha": "2026-10-20T06:39:06-05:00",
+  "palabras": "",
+  "lead": "Según las autoridades, el fallecido registra tres anotaciones judiciales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades endurecen medidas de seguridad para el partido Cúcuta vs Nacional",
+  "enlace": "https://caracol.com.co/2026/10/20/autoridades-endurecen-medidas-de-seguridad-para-el-partido-cucuta-vs-nacional/",
+  "fecha": "2026-10-20T06:34:16-05:00",
+  "palabras": "",
+  "lead": "Cinco días de restricción para hinchas del equipo contrario",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ayuso estudia el traslado temporal de su despacho por acampada en Puerta del Sol",
+  "enlace": "https://caracol.com.co/2026/10/20/ayuso-estudia-el-traslado-temporal-de-su-despacho-por-la-acampada-en-sol/",
+  "fecha": "2026-10-20T06:36:14-05:00",
+  "palabras": "",
+  "lead": "Están “viendo opciones” de mudanza, en un momento en que la acampada por el derecho a la vivienda está a punto de cumplir su cuarta semana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Golpe a ‘Los Costeños’ en Soledad: cuatro capturados y dos armas incautadas",
+  "enlace": "https://caracol.com.co/2026/10/20/golpe-a-los-costenos-en-soledad-cuatro-capturados-y-dos-armas-incautadas/",
+  "fecha": "2026-10-20T06:36:38-05:00",
+  "palabras": "",
+  "lead": "La Policía incautó armas de fuego, municiones y celulares durante un allanamiento en el barrio Normandía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Martes 20 de octubre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/10/20/martes-20-de-octubre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-10-20T06:32:07-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Confirman responsabilidad fiscal de $36 mil millones por obra inconclusa de la alcaldía Teusaquillo",
+  "enlace": "https://caracol.com.co/2026/10/20/confirman-responsabilidad-fiscal-de-36-mil-millones-por-obra-inconclusa-de-la-alcaldia-teusaquillo/",
+  "fecha": "2026-10-20T06:32:09-05:00",
+  "palabras": "",
+  "lead": "Desde el 2016 se adjudicó el contrato 088 para construir la nueva sede de la Alcaldía Local.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Coronel Jimmy Arley Belalcázar Oñate nuevo comandante de la Policía Metropolitana de Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/20/coronel-jimmy-arley-belalcazar-onate-nuevo-comandante-de-la-policia-metropolitana-de-santa-marta/",
+  "fecha": "2026-10-20T06:31:51-05:00",
+  "palabras": "",
+  "lead": "Antes de llegar a la ciudad, se desempeñaba como comandante encargado de la Policía Metropolitana de Cúcuta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Risaralda pide más tecnología y vehículos para reforzar la seguridad al occidente del departamento",
+  "enlace": "https://caracol.com.co/2026/10/20/risaralda-pide-mas-tecnologia-y-vehiculos-para-reforzar-la-seguridad-al-occidente-del-departamento/",
+  "fecha": "2026-10-20T06:27:13-05:00",
+  "palabras": "",
+  "lead": "Las autoridades le expresaron al Gobierno Nacional la necesidad de fortalecer las capacidades de la Fuerza Pública en límites con el Chocó.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué pasa con la pintura del puente de la calle 153 en Bogotá?: IDU responde",
+  "enlace": "https://caracol.com.co/2026/10/20/que-pasa-con-la-pintura-del-puente-de-la-calle-153-en-bogota-idu-responde/",
+  "fecha": "2026-10-20T06:10:19-05:00",
+  "palabras": "",
+  "lead": "Se espera que esta semana queden listas las reparaciones del puente.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
