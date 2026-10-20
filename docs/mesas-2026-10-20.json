@@ -783,6 +783,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Lo que se aprobó en el presupuesto fueron 635 billones de pesos, 60 billones más que lo presentado por Gustavo Petro.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:20",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Museo de Justicia fue violentado y obras que retrataban la violencia en Colombia fueron removidas de las paredes.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:20",
+   "quien": "Dra. María Paz",
+   "que": "Un juez concedió tutela ordenando conservar las piezas retiradas del museo sin destruirlas ni trasladarlas y reconoció el derecho de las víctimas a la verdad y reparación.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:20",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Fueron arrancadas obras de las paredes de un museo en la luz del día sin ningún tipo de planeación.",
+   "resaltar": false
   }
  ],
  "avisos": []
