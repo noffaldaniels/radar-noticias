@@ -524,7 +524,7 @@
   "palabras": "Ocaña, Policía Nacional, Norte de Santander, Inseguridad",
   "lead": "Los capturados son investigados por su presunta participación en el asesinato del patrullero Janer Mena Mosquera, ocurrido el pasado 21 de septiembre. También son investigados por el homicidio del líder Oliver Sánchez.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Santander, Bucaramanga, Homicidios, Policía Nacional, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "El cadáver fue encontrado en el sótano de un conjunto residencial del barrio Ricaurte. La víctima, que permanece sin identificar, presentaba heridas causadas con un arma cortopunzante.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "La cooperativa cafetera del Huila reportó exportaciones directas de 53.491 sacos y créditos por $15.107 millones a sus asociados en 2025.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "La falta de mantenimiento es evidente, las calles llenas de baches que los propios trabajadores tienen que rellenar, hoteles y restaurantes cerrados con todo el mobiliario a la vista y restaurantes vacíos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "El mandatario Hugo Kerguelén sustentará en noviembre los proyectos para atender daños causados por el frente frío",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "Según las autoridades, el fallecido registra tres anotaciones judiciales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "Cinco días de restricción para hinchas del equipo contrario",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Están “viendo opciones” de mudanza, en un momento en que la acampada por el derecho a la vivienda está a punto de cumplir su cuarta semana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "La Policía incautó armas de fuego, municiones y celulares durante un allanamiento en el barrio Normandía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Desde el 2016 se adjudicó el contrato 088 para construir la nueva sede de la Alcaldía Local.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "Antes de llegar a la ciudad, se desempeñaba como comandante encargado de la Policía Metropolitana de Cúcuta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Las autoridades le expresaron al Gobierno Nacional la necesidad de fortalecer las capacidades de la Fuerza Pública en límites con el Chocó.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -666,6 +666,127 @@
   "fecha": "2026-10-20T06:10:19-05:00",
   "palabras": "",
   "lead": "Se espera que esta semana queden listas las reparaciones del puente.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Rechazo por hombre que habría matado a tiros al perro de un vecino en Santander: “animal”",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/rechazo-por-hombre-que-habria-matado-a-tiros-al-perro-de-un-vecino-en-santander-animal-rg10",
+  "fecha": "2026-10-20T06:57:47-05:00",
+  "palabras": "Santander, Maltrato animal, Blu Radio, Noticias de hoy",
+  "lead": "La Alcaldía de San Benito rechazó el presunto caso de maltrato animal y anunció que puso los hechos en conocimiento de la Fiscalía y la Policía. El video del ataque generó indignación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno De La Espriella eliminaría normativa sobre empleadas domésticas: cambio sería drástico",
+  "enlace": "https://www.bluradio.com/economia/gobierno-de-la-espriella-eliminaria-normativa-sobre-empleadas-domesticas-cambio-seria-drastico-so35",
+  "fecha": "2026-10-20T07:06:23-05:00",
+  "palabras": "Abelardo De La Espriella, Ministerio de Trabajo, Trabajadoras domésticas",
+  "lead": "Los borradores estarán abiertos a comentarios hasta el 9 de noviembre y contemplan cambios en contratación, sanciones e inspecciones en viviendas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de goleadores de la Liga colombiana 2026-II: Así está la apretada lucha por el Botín de Oro",
+  "enlace": "https://caracol.com.co/2026/10/20/tabla-de-goleadores-de-la-liga-colombiana-2026-ii-asi-esta-la-apretada-lucha-por-el-botin-de-oro/",
+  "fecha": "2026-10-20T07:04:44-05:00",
+  "palabras": "",
+  "lead": "Yeison Guzmán se mantiene como el máximo anotador del presente campeonato con el América de Cali.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No tengo el poder para que paramilitares hablaran”: Hollman Morris sobre ‘Pacto de Villavicencio’",
+  "enlace": "https://caracol.com.co/2026/10/20/no-tengo-el-poder-para-que-paramilitares-hablaran-hollman-morris-sobre-pacto-de-villavicencio/",
+  "fecha": "2026-10-20T07:01:23-05:00",
+  "palabras": "",
+  "lead": "En 6AM W, el periodista Hollman Morris se pronunció acerca de las declaraciones de varios exjefes de las AUC en las que reconocieron que varios funcionarios del gobierno de Gustavo Petro les pidieron declarar contra la derecha en Valledupar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Bolívar a señalado agresor sexual del humedal Juan Amarillo: identifican siete víctimas",
+  "enlace": "https://caracol.com.co/2026/10/20/capturan-en-bolivar-a-senalado-agresor-sexual-del-humedal-juan-amarillo-identifican-siete-victimas/",
+  "fecha": "2026-10-20T06:59:41-05:00",
+  "palabras": "",
+  "lead": "Las autoridades lo vinculan con al menos siete víctimas, incluidas menores de edad, por presuntos delitos sexuales y hurtos en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cierran servicio de urgencias del Hospital de Kennedy en Pereira por presencia de aguas residuales",
+  "enlace": "https://caracol.com.co/2026/10/20/cierran-servicio-de-urgencias-del-hospital-de-kennedy-en-pereira-por-presencia-de-aguas-residuales/",
+  "fecha": "2026-10-20T06:59:27-05:00",
+  "palabras": "",
+  "lead": "Mientras se realizan las reparaciones, los pacientes serán orientados y remitidos a otras instituciones de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conozca los cambios en 14 rutas del transporte público en Ibagué",
+  "enlace": "https://caracol.com.co/2026/10/20/conozca-los-cambios-en-14-rutas-del-transporte-publico-en-ibague/",
+  "fecha": "2026-10-20T06:55:49-05:00",
+  "palabras": "",
+  "lead": "Las modificaciones buscan que el servicio de transporte de vehículos tipo buseta llegue a sectores donde no se prestaba el servicio.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A adulto mayor le negaron subir a un bus con su perro en Antioquia: Transoriente evalúa sanciones",
+  "enlace": "https://caracol.com.co/2026/10/20/a-adulto-mayor-le-negaron-subir-a-un-bus-con-su-perro-en-antioquia-transoriente-evalua-sanciones/",
+  "fecha": "2026-10-20T06:55:11-05:00",
+  "palabras": "",
+  "lead": "La empresa de transporte ofreció disculpas por el hecho que generó rechazo en redes sociales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En siete años, los nacimientos en Barranquilla cayeron un 44,8%",
+  "enlace": "https://caracol.com.co/2026/10/20/en-siete-anos-los-nacimientos-en-barranquilla-cayeron-un-448/",
+  "fecha": "2026-10-20T06:52:10-05:00",
+  "palabras": "",
+  "lead": "La disminución de la natalidad y el envejecimiento de la población plantean nuevos desafíos para la planificación de la capital del Atlántico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Imágenes revelan condiciones en las que quedó el helicóptero del Ejército tras accidente en Cauca",
+  "enlace": "https://caracol.com.co/2026/10/20/imagenes-revelan-condiciones-en-las-que-quedo-el-helicoptero-del-ejercito-tras-accidente-en-cauca/",
+  "fecha": "2026-10-20T06:51:00-05:00",
+  "palabras": "",
+  "lead": "Como lo reveló Caracol Radio, una de las hipótesis que se analiza es un posible hundimiento de la aeronave, es decir, una pérdida de altura durante el vuelo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades sanitarias en Caldas reportan 218 casos de tuberculosis, solicitan reforzar autocuidado",
+  "enlace": "https://caracol.com.co/2026/10/20/autoridades-sanitarias-en-caldas-reportan-218-casos-de-tuberculosis-solicitan-reforzar-autocuidado/",
+  "fecha": "2026-10-20T06:50:04-05:00",
+  "palabras": "",
+  "lead": "Se presentan de formas pulmonares, extrapulmonares y farmacorresistentes.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
