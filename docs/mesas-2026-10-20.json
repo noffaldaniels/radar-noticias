@@ -741,6 +741,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "La Policía Nacional incautó cerca de 8 toneladas de cocaína en el puerto de Cartagena, que tenía como destino Holanda; las autoridades indicaron que se trata del mayor decomiso de esta droga registrado en los últimos 10 años.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Rusia expresó su respaldo al ex presidente cubano Raúl Castro tras una orden de arresto emitida por un juez de Miami.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La alcaldía de Cajamarca y sectores sociales del Tolima se preparan para evitar una demanda de la empresa Mineros que tumbe el acuerdo municipal que prohíbe la minería en más de 5.000 hectáreas.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se presentó un fuerte trancón en la vía Manizales-Pereira en el descenso del Alto del Boquerón por un accidente de tránsito entre un tractocamión y varios vehículos.",
+   "resaltar": false
   }
  ],
  "avisos": []
