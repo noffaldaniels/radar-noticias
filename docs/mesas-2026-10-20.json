@@ -48,6 +48,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Informó que las exportaciones de café acumulan una caída de casi el 14% a septiembre, golpeadas por la revaluación del peso frente al dólar y comprometiendo los ingresos de miles de familias cafeteras.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:41",
+   "quien": "Salvatore Mancuso, exjefe paramilitar",
+   "que": "Denunció que delegados del Gobierno Petro le pidieron a exjefes de las AUC acusar a Álvaro Uribe, Abelardo de la Espriella y Germán Vargas Lleras a cambio de beneficios jurídicos y gestorías de paz.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:45",
+   "quien": "Gabriel Becerra, representante a la Cámara por el Pacto Histórico",
+   "que": "Informó que un juzgado de Bogotá ordenó custodiar de forma preventiva 30 piezas retiradas del Museo Nacional y prohibió al Ministerio de Cultura adelantar nuevas intervenciones en las exposiciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:47",
+   "quien": "Mariana Neira, periodista de Mañanas Blu",
+   "que": "Reportó que la Procuraduría abrió indagación disciplinaria contra la representante María Fernanda Carrascal por permitir que una menor de edad tomara el micrófono en una tarima durante una manifestación en la Plaza de Bolívar.",
+   "resaltar": false
   }
  ],
  "avisos": []
