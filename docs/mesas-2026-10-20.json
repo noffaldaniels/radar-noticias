@@ -839,6 +839,27 @@
    "quien": "María Camila (Periodista de Mañanas Blu)",
    "que": "En el gobierno del presidente Gustavo Petro se firmaron 884.064 contratos de prestación de servicios en comparación con los 404.586 del gobierno de Duque.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:30",
+   "quien": "Diana Alvarado (Periodista de Noticias La FM con Juan Lozano)",
+   "que": "Dialoga con el doctor Jorge Rey, gobernador de Cundinamarca, sobre el monitoreo del suministro de agua y la preparación del departamento ante el fenómeno de El Niño.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:30",
+   "quien": "Diana Alvarado (Periodista de Noticias La FM con Juan Lozano)",
+   "que": "Informa que en Cundinamarca hay 22 municipios en desabastecimiento de agua y alerta por un minero atrapado desde hace más de 36 horas en Cucunubá.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:30",
+   "quien": "Juan Lozano (Director de Noticias La FM)",
+   "que": "Destaca que en Piedras Blancas se registran 80 litros de ahorro de agua por hogar y 30 litros en Río Grande, en el marco de la crisis hídrica.",
+   "resaltar": false
   }
  ],
  "avisos": []
