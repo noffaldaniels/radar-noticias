@@ -937,6 +937,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Amaneció suspendido el servicio de recolección de basuras en 15 municipios del Tolima por el cierre parcial del relleno sanitario Pacandé en Natagaima.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:42",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Armando Benedetti regresa a la luz pública y se estaría reconsiderando para ser candidato al pacto histórico para la alcaldía de Barranquilla.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:42",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La nueva administración de estapo encontró planillas de salud y pensión de los años 2023 y 2026 que nunca se pagaron y fueron avaladas por los supervisores.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:45",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Caja de Auxilios y Prestaciones (CAXDAC) de la aviación civil presenta problemas por el alto costo y el edificio en la calle 35 7-25 de los parqueaderos no tiene fondos suficientes.",
+   "resaltar": false
   }
  ],
  "avisos": []
