@@ -580,6 +580,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Autoridades capturaron en Barranquilla al exgobernador de San Andrés, Everth Julio Hawkins, por presunta celebración de contratos sin cumplir requisitos y peculado.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:40",
+   "quien": "Juan Carlos Morales, gerente general de XM",
+   "que": "En septiembre se dio una reducción en la disponibilidad de generadores durante la operación y el día previo a la operación, lo que llevó a una reducción exponencial de 3.000 megavatios.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:40",
+   "quien": "Víctor, Periodista de Mañanas Blu",
+   "que": "El dato de XM oficiales del 76,17% en embalses.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:40",
+   "quien": "Juan Carlos Morales, gerente general de XM",
+   "que": "El promedio de lluvias de este mes ha sido cerca del 60%, y en Antioquia, que es la parte donde más llueve en este mes en particular, el promedio es del orden del 45% de las lluvias, lo que muestra que las lluvias han sido deficitarias en este mes en particular.",
+   "resaltar": false
   }
  ],
  "avisos": []
