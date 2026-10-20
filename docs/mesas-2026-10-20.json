@@ -601,6 +601,27 @@
    "quien": "Juan Carlos Morales, gerente general de XM",
    "que": "El promedio de lluvias de este mes ha sido cerca del 60%, y en Antioquia, que es la parte donde más llueve en este mes en particular, el promedio es del orden del 45% de las lluvias, lo que muestra que las lluvias han sido deficitarias en este mes en particular.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En Colombia hubo un debate nacional sobre la edad pensional y la necesidad de revisar y equiparar las edades entre hombres y mujeres.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:40",
+   "quien": "Magistrado de la Corte Suprema",
+   "que": "Existen problemas estructurales en el sistema pensional colombiano, derivados de la tecnología, el envejecimiento de la población y la informalidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:40",
+   "quien": "Magistrado de la Corte Suprema",
+   "que": "En la reciente reforma pensional se estableció el mecanismo de reducir el número de semanas de cotización para lograr el mismo objetivo que requiere un hombre.",
+   "resaltar": false
   }
  ],
  "avisos": []
