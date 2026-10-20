@@ -1305,7 +1305,7 @@
   "palabras": "Salud, Noticias de hoy",
   "lead": "La habilitación de las demás áreas será gradual y la Gobernación de Antioquia espera que la institución opere plenamente en noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Deportados de Estados Unidos",
   "lead": "Traore Mamoudu, al parecer, “contactaba a personas de escasos recursos para convencerlas de viajar a Europa transportando estupefacientes, que eran adheridos a sus cuerpos u ocultados en equipajes”.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Antioquia, Colombia, Inpec, Cárceles",
   "lead": "Estos hechos se habrían incrementado por los traslados de cabecillas. En Antioquia en los últimos dos años se han registrado ocho actos violentos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Dengue",
   "lead": "La campaña busca frenar, entre otras, los contagios de dengue que se han incrementado este año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Procuraduría General de la Nación, Ejército Nacional, Abuso sexual, Mujeres, Violencia Contra la mujer, Santander, Bucaramanga, Bucaramanga",
   "lead": "El uniformado es investigado por presuntamente desviar una ambulancia militar hacia su residencia y abusar sexualmente de un auxiliar de enfermería, a quien habría intimidado con un arma blanca.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "Valle de Aburrá, Accidente de tránsito, Movilidad, Noticias de hoy",
   "lead": "El siniestro vial tuvo lugar en la calle 80 Sur con carrera 56, punto hasta el cual se desplazó el Cuerpo de Bomberos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "Geely, Deepal, China, Noruega",
   "lead": "Los soldados eliminaron las grabaciones de los sistemas a los que pudieron acceder, aunque desconocen si había copias adicionales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "Abuso sexual",
   "lead": "El hombre fue capturado en Turbaco, Bolívar, luego de huir de la capital hace dos meses. Según las autoridades, intimidaba a sus víctimas con armas de fuego para llevarlos a zonas boscosas del humedal, donde presuntamente las agredía sexualmente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "Colegios distritales, Secretaría de Educación",
   "lead": "Un proyecto en el Concejo de Bogotá busca cambiar los nombres de colegios públicos: dejarían de lado a personajes de la historia nacional",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "Vía panamericana",
   "lead": "El Invías iniciará la compra de 600 motocicletas y 124 camionetas blindadas, mientras se gestionará la adquisición de 20 tanquetas para fortalecer la capacidad operativa de la Fuerza Pública.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "Noticias de hoy, Huila, Orden público",
   "lead": "Este nuevo episodio de violencia se suma a una serie de ataques contra la fuerza pública registrados durante los últimos días en el departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "Edward Mauricio Barrera asegura que compró derechos posesorios de un predio en Hacienda La Meseta; el caso está en manos de la justicia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "La operación se desarrolló en la vereda San Isidro, del municipio de Santa Rosa del Sur",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "",
   "lead": "Lucho busca mantener su buena racha de cuatro goles marcados en los últimos dos encuentros.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "La bolivarense expresó su preocupación por las consecuencias que tendría para el departamento",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "Bozzo es conocida principalmente por su programa de entrevistas en español, “Laura”.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "Los recursos permitirán impulsar la obra, que permanece inconclusa pese a haber comenzado su ejecución en 2018.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "Leydi Johanna Sánchez Miranda fue vista por última vez el 15 de septiembre en el barrio San Judas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "Política,San Andrés,Abelardo de la Espriella,Exgobernadores,Barranquilla,Capturas,Fiscalía General de la Nación",
   "lead": "La Fiscalía pone la lupa sobre exgobernador de San Andrés: investigan extorsiones por $3.000 millones",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "Sociedad,Actividad extraterrestre,Pentágono,Objeto Volador No Identificado,OVNI,Investigaciones,Desinformación,Documentales,plan de seguridad nacional,Estados Unidos",
   "lead": "Jay Stratton, exdirector de un grupo de trabajo del Pentágono, relató sus investigaciones sobre ovnis y posibles programas secretos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "Política,Paramilitares,Justicia transicional,Justicia y Paz,Acuerdo de paz,Proceso de Paz,Salvatore Mancuso,Álvaro Uribe,Gustavo Petro,Elecciones en Colombia,Germán Vargas Lleras",
   "lead": "La FM investiga obtuvo en exclusiva el documento que surgió de la reunión del pacto de Valledupar. En el texto oficial del Gobierno se firmó un acuerdo par...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "Sociedad,Minería,Accidente,Riesgos laborales,Víctimas,Agencia Nacional de Minería",
   "lead": "Weimar Cundumí, secretario de Planeación y coordinador para la Gestión del Riesgo de Desastres del municipio, explicó la limitada capacidad de intervención...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "Orden Público,Joven desaparecido,desaparición de personas,desaparecido,Unidad de Búsqueda de Personas Desaparecidas,Cali, Colombia,Colombia",
   "lead": "Su familia perdió contacto con la joven, luego de que llegara a la capital del Valle para cumplir compromisos laborales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Orden Público,Asesinato,Condena,asesino,actos violentos,Víctimas,Forenses,Medicina Legal,Disfraces para Halloween,Bogotá",
   "lead": "David Moreno, hermano de Jaime Esteban, le hizo un llamado a las autoridades para capturar a Kleydimar Fernández señalada como la determinadora del crimen....",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,6 +1569,391 @@
   "palabras": "Internacional,Canadá,Referendum,Quebec",
   "lead": "El 76 % apoyaba permanecer en Canadá, frente al 23 %, según proyecciones de la cadena pública CBC News.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría pide absolver a Piedad Zuccardi por dudas sobre su responsabilidad en 'parapolítica'",
+  "enlace": "https://www.bluradio.com/nacion/procuraduria-pide-absolver-a-piedad-zuccardi-por-dudas-sobre-su-responsabilidad-en-parapolitica-rg10",
+  "fecha": "2026-10-20T09:31:52-05:00",
+  "palabras": "Piedad Zuccardi, Parapolítica, Procuraduría General de la Nación",
+  "lead": "En medio de la audiencia, el Ministerio Público argumentó que los testimonios perdieron fuerza probatoria y que no se demostró que las reuniones señaladas en el expediente fueran clandestinas o estuvieran relacionadas con actividades ilegales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Retiro de obras del Museo Nacional: \"Gobierno de turno no puede llegar a imponer su ideología\"",
+  "enlace": "https://www.bluradio.com/nacion/retiro-de-obras-del-museo-nacional-gobierno-de-turno-no-puede-llegar-a-imponer-su-ideologia-pr30",
+  "fecha": "2026-10-20T09:34:48-05:00",
+  "palabras": "Museo Nacional, Ministerio de Cultura, Paola Holguín",
+  "lead": "La medida alcanzó tres salas del museo, el mayor de Colombia y uno de los más antiguos de América, y dejó fuera de exhibición afiches, fotografías y objetos que documentaban las reivindicaciones feministas y LGBTI; episodios de violencia política; y el proceso de paz con la guerrilla de las Farc,…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alivio para bolsillo de conductores en Colombia: estos repuestos para carros están bajando de precio",
+  "enlace": "https://www.bluradio.com/motor/alivio-para-bolsillo-de-conductores-en-colombia-estos-repuestos-para-carros-estan-bajando-de-precio-so35",
+  "fecha": "2026-10-20T09:38:24-05:00",
+  "palabras": "Cuidado del vehículo",
+  "lead": "A pesar de que hay autopartes que bajaron de precio, el servicio de mantenimiento del carro sí se elevó, según Asopartes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobernador de Antioquia lanza duro mensaje al gerente del hospital de Caldas: “Desaparece la plata”",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobernador-de-antioquia-lanza-duro-mensaje-al-gerente-del-hospital-de-caldas-desaparece-la-plata-rg10",
+  "fecha": "2026-10-20T10:12:02-05:00",
+  "palabras": "Medellín, Andrés Julián Rendón, Antioquia, Salud",
+  "lead": "El mandatario de Antioquia afirmó que espera cambios directivos en la institución por medio de la intervención del Ministerio de Salud y de entes de control.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Consejo Nacional del Arroz zonificará los cultivos por departamento desde 2027",
+  "enlace": "https://www.bluradio.com/nacion/consejo-nacional-del-arroz-zonificara-los-cultivos-por-departamento-desde-2027-rg10",
+  "fecha": "2026-10-20T09:35:23-05:00",
+  "palabras": "Arroz, Fedearroz",
+  "lead": "El modelo incluye un censo nacional, control de importaciones, un mecanismo de formación de precios y un fondo de estabilización para proteger a los productores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Seis meses completa paralizada la obra del nuevo Hospital de San Andrés, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/seis-meses-completa-paralizada-la-obra-del-nuevo-hospital-de-san-andres-santander-rg10",
+  "fecha": "2026-10-20T09:44:20-05:00",
+  "palabras": "Bucaramanga, Santander, Blu Radio",
+  "lead": "La obra del Hospital San José de San Andrés, Santander registra un avance físico del 52,93 %. La Veeduría Integral Pública Sanandreseña denunció presuntas irregularidades en la contratación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Operativos contra el robo de agua: 7 de cada 10 litros se pierden por conexiones ilegales en Galapa",
+  "enlace": "https://www.bluradio.com/regiones/caribe/operativos-contra-el-robo-de-agua-7-de-cada-10-litros-se-pierden-por-conexiones-ilegales-en-galapa-rg10",
+  "fecha": "2026-10-20T10:13:40-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "En el corregimiento de Paluato solo reciben el 30% del agua potable que debería llegarles cada día.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Los mejores CDT para antes de iniciar noviembre con tazas del 13%: puede abrirlo e 10 minutos",
+  "enlace": "https://www.bluradio.com/economia/los-mejores-cdt-para-antes-de-iniciar-noviembre-con-tazas-del-13-puede-abrirlo-e-10-minutos-so35",
+  "fecha": "2026-10-20T09:47:03-05:00",
+  "palabras": "CDT",
+  "lead": "Una aplicación permite comparar alternativas y abrir certificados desde el celular en minutos. Conozca las mejores tasas para invertir.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nissan mueve sus fichas en Colombia: los cambios que anunció para su operación en el país",
+  "enlace": "https://www.bluradio.com/motor/nissan-mueve-sus-fichas-en-colombia-los-cambios-que-anuncio-para-su-operacion-en-el-pais-so35",
+  "fecha": "2026-10-20T09:54:41-05:00",
+  "palabras": "Nissan, Industria automotriz",
+  "lead": "La compañía busca fortalecer sus equipos directivos para responder a los cambios en las preferencias de los consumidores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aseguradoras han pagado $913.609 millones por más de 101.000 reclamaciones tras el terremoto",
+  "enlace": "https://www.bluradio.com/nacion/aseguradoras-han-pagado-913-609-millones-por-mas-de-101-mil-reclamaciones-tras-el-terremoto-rs15",
+  "fecha": "2026-10-20T09:55:20-05:00",
+  "palabras": "Terremoto hoy, Colombia, Finanzas",
+  "lead": "En una semana, las reclamaciones aumentaron 1,4 %, al pasar de 99.720 a 101.133. El valor estimado de los siniestros asciende a $6,8 billones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El TAS definió la fecha límite para dictar sentencia sobre el campeón de la Copa África 2025",
+  "enlace": "https://www.bluradio.com/deportes/futbol/el-tas-definio-la-fecha-limite-para-dictar-sentencia-sobre-el-campeon-de-la-copa-africa-2025-cb20",
+  "fecha": "2026-10-20T10:10:39-05:00",
+  "palabras": "Senegal, Marruecos, TAS",
+  "lead": "En la cancha ganó Senegal, pero en los despachos de la Confederación Africana de Fútbol, el título se lo llevó Marruecos. Ahora será el TAS quien defina el lío que se armó en la final del pasado 18 de enero de 2025 en Rabat.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Kim Jong-un reaparece tras rumores de coma: Corea del Norte publica nuevas fotos",
+  "enlace": "https://www.bluradio.com/mundo/kim-jong-un-reaparece-en-fotos-oficiales-para-desmentir-que-esta-en-coma-so35",
+  "fecha": "2026-10-20T10:12:55-05:00",
+  "palabras": "Kim Jong-Un, Corea del Norte, Pionyang , Asia",
+  "lead": "El régimen de Corea del Norte difundió imágenes del líder tras versiones de prensa internacional que especulaban sobre un supuesto coma médico en China.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bienmeli, la artista santandereana que regresa a la música con su nuevo sencillo ‘Funk Up’",
+  "enlace": "https://caracol.com.co/2026/10/20/bienmeli-la-artista-santandereana-que-regresa-a-la-musica-con-su-nuevo-sencillo-funk-up/",
+  "fecha": "2026-10-20T09:56:31-05:00",
+  "palabras": "",
+  "lead": "La cantante y compositora Melissa Estevez, conocida artísticamente como Bienmeli, presentó el pasado 15 de octubre su sencillo Funk Up, una propuesta musical que fusiona funk, pop y sonidos electrónicos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Malas noticias para Nacional: Perdería una de sus grandes figuras por lo que resta de semestre",
+  "enlace": "https://caracol.com.co/2026/10/20/malas-noticias-para-nacional-perderia-una-de-sus-grandes-figuras-por-lo-que-resta-de-semestre/",
+  "fecha": "2026-10-20T09:56:22-05:00",
+  "palabras": "",
+  "lead": "El equipo antioqueño ha sido víctima de varias lesiones en su plantel a lo largo del semestre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Turbaco se une a la lucha contra el cáncer con prevención y posibles emprendimientos",
+  "enlace": "https://caracol.com.co/2026/10/20/turbaco-se-une-a-la-lucha-contra-el-cancer-con-prevencion-y-posibles-emprendimientos/",
+  "fecha": "2026-10-20T09:53:16-05:00",
+  "palabras": "",
+  "lead": "La alcaldesa Claudia Espinosa Puello compartió con 35 pacientes en proceso oncológico, reafirmando el compromiso de su administración con la prevención, la atención y el acompañamiento integral",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La actriz Christina Applegate reveló que fue diagnosticada erróneamente con esclerosis múltiple",
+  "enlace": "https://caracol.com.co/2026/10/20/la-actriz-christina-applegate-revelo-que-fue-diagnosticada-erroneamente-con-esclerosis-multiple/",
+  "fecha": "2026-10-20T09:48:59-05:00",
+  "palabras": "",
+  "lead": "“Puede que esto suene a una gran noticia, pero, para mí, es volver al punto de partida. Es difícil decir que entró en mi habitación y me dijo: “¡Felicidades! No tienes esclerosis múltiple\", afirmó la actriz de la serie “Casados con hijos”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Indignación en Cali por denuncia de presunta agresión a una mujer en centro comercial",
+  "enlace": "https://caracol.com.co/2026/10/20/indignacion-en-cali-por-denuncia-de-presunta-agresion-a-una-mujer-en-centro-comercial/",
+  "fecha": "2026-10-20T09:52:08-05:00",
+  "palabras": "",
+  "lead": "La denunciante aseguró que fue golpeada y ahorcada por su suegro, a quien señaló de trabajar con la Gobernación del Valle. Sin embargo, la administración departamental aclaró que no está vinculado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fuerza Élite Sub-13 goleó en casa y venció a Cúcuta en el Nacional Difútbol",
+  "enlace": "https://caracol.com.co/2026/10/20/fuerza-elite-sub-13-goleo-en-casa-y-vencio-a-cucuta-en-el-nacional-difutbol/",
+  "fecha": "2026-10-20T09:51:04-05:00",
+  "palabras": "",
+  "lead": "El club cartagenero se impuso en la quinta fase del Torneo Nacional en el estadio Nuevo Chambacú y viaja a Cúcuta con ventaja",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Yeison Landero, embajador de La  Cumbia, conquista Turquía",
+  "enlace": "https://caracol.com.co/2026/10/20/yeison-landero-embajador-de-la-cumbia-conquista-turquia/",
+  "fecha": "2026-10-20T09:48:33-05:00",
+  "palabras": "",
+  "lead": "Lleva La Cumbia de Bolívar al mundo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aguas de Cartagena continúa reparación de tubería en la vía Mamonal",
+  "enlace": "https://caracol.com.co/2026/10/20/aguas-de-cartagena-continua-reparacion-de-tuberia-en-la-via-mamonal/",
+  "fecha": "2026-10-20T09:45:19-05:00",
+  "palabras": "",
+  "lead": "Durante las excavaciones se encontró una tubería de gas en el área de intervención, por lo que es necesario adoptar medidas adicionales de seguridad para continuar con las labores",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Miley Cyrus estrena el video de ‘Orbit’ tras sus shows en el Hollywood Bowl",
+  "enlace": "https://caracol.com.co/2026/10/20/miley-cyrus-estrena-el-video-de-orbit-tras-sus-shows-en-el-hollywood-bowl/",
+  "fecha": "2026-10-20T09:37:02-05:00",
+  "palabras": "",
+  "lead": "La cantante lanzó el videoclip de una canción de su nuevo álbum, ‘Bass Persuades’, luego de regresar a los escenarios con dos presentaciones especiales en Los Ángeles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 20 de octubre de 2026",
+  "enlace": "https://caracol.com.co/2026/10/20/precio-y-cotizacion-del-dolar-en-venezuela-hoy-20-de-octubre-de-2026/",
+  "fecha": "2026-10-20T09:34:57-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en el dólar y otras divisas del mundo, y cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Quiero que la calidad de vida de los raizales mejore” La realidad que viven hoy los sanandresanos",
+  "enlace": "https://caracol.com.co/2026/10/20/quiero-que-la-calidad-de-vida-de-los-raizales-mejore-la-realidad-que-viven-hoy-los-sanandresanos/",
+  "fecha": "2026-10-20T09:33:49-05:00",
+  "palabras": "",
+  "lead": "Joseph Mejía, un topógrafo sanandresano cuenta como ha visto el deterioro de la isla en los últimos años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos militares murieron y uno quedó herido tras disparos en batallón del Ejército en Sogamoso, Boyacá",
+  "enlace": "https://caracol.com.co/2026/10/20/dos-militares-murieron-y-uno-quedo-herido-tras-disparos-en-batallon-del-ejercito-en-sogamoso-boyaca/",
+  "fecha": "2026-10-20T09:32:50-05:00",
+  "palabras": "",
+  "lead": "Las circunstancias en las que ocurrieron los hechos son materia de investigación por parte de las autoridades competentes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ISA votará cambio en las reglas para elegir a su presidente; suena hermana del director del DAPRE",
+  "enlace": "https://caracol.com.co/2026/10/20/isa-votara-cambio-en-las-reglas-para-elegir-a-su-presidente-suena-hermana-del-director-del-dapre/",
+  "fecha": "2026-10-20T09:29:34-05:00",
+  "palabras": "",
+  "lead": "El cambio es muy relevante porque ocurre mientras la compañía debe rehacer el proceso de selección que llevó a Jorge Andrés Carrillo a la Presidencia de ISA y que posteriormente fue anulado por el Consejo de Estado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Histórico! Honda le dio la bienvenida al colombiano David Alonso con emotivo video: correrá MotoGP",
+  "enlace": "https://caracol.com.co/2026/10/20/historico-honda-le-dio-la-bienvenida-al-colombiano-david-alonso-con-emotivo-video-correra-motogp/",
+  "fecha": "2026-10-20T09:14:38-05:00",
+  "palabras": "",
+  "lead": "El joven piloto de 20 años estará en la máxima categoría del motociclismo en 2027.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Recuperarlo de la vagabundería”: alcalde Federico Gutiérrez defendió intervención en Parque Lleras",
+  "enlace": "https://caracol.com.co/2026/10/20/recuperarlo-de-la-vagabunderia-alcalde-federico-gutierrez-defendio-intervencion-en-parque-lleras/",
+  "fecha": "2026-10-20T09:23:22-05:00",
+  "palabras": "",
+  "lead": "Comerciantes del sector han denunciado afectaciones económicas tras operativos de seguridad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena será escenario del II Congreso Global de Pediatría Casa del Niño",
+  "enlace": "https://caracol.com.co/2026/10/20/cartagena-sera-escenario-del-ii-congreso-global-de-pediatria-casa-del-nino/",
+  "fecha": "2026-10-20T09:12:16-05:00",
+  "palabras": "",
+  "lead": "Se trata de un encuentro para analizar los nuevos desafíos de la salud infantil",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 20 de octubre 2026 en Colombia: ¿la divisa cerca a los $3.100?",
+  "enlace": "https://caracol.com.co/2026/10/20/dolar-hoy-20-de-octubre-2026-en-colombia-la-divisa-cerca-a-los-3100/",
+  "fecha": "2026-10-20T09:10:36-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este martes, 20 de octubre. Conozca el comportamiento del dólar estadounidense, australiano, euro, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Galatasaray pediría 30 millones de euros a este club",
+  "enlace": "https://www.lafm.com.co/deportes/davinson-sanchez-galatasaray-benfica-seleccion-colombia-mercado-fichajes-414525",
+  "fecha": "2026-10-20T10:10:00-05:00",
+  "palabras": "Deportes,Benfica,Galatasaray,Fichajes,Liga de Campeones,Selección Colombia,Liga de Turquía",
+  "lead": "Dávinson Sánchez ha tenido un protagonismo notable, tanto con el Galatasaray como con la Selección Colombia.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cáncer de mama: estos son cinco mitos sobre la mamografía",
+  "enlace": "https://www.lafm.com.co/sociedad/cancer-de-mama-salud-mitos-mamografia-deteccion-temprana-tratamientos-mujeres-hombres-414425",
+  "fecha": "2026-10-20T10:00:00-05:00",
+  "palabras": "Sociedad,Salud,Oncología,Cáncer,Alerta,pruebas,Autocuidado,preventa,Atención a pacientes,Médicos especialistas,Examen,Famisanar",
+  "lead": "El cáncer de mama en Colombia es una de las enfermedades que más sigue afectando a las mujeres y a los hombres. Según expertos, el diagnóstico temprano es ...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Museo Nacional: ¿censura o revisión de la historia de Colombia?",
+  "enlace": "https://www.lafm.com.co/sociedad/museo-nacional-colombia-censura-revision-historica-disputa-414511",
+  "fecha": "2026-10-20T09:36:00-05:00",
+  "palabras": "Sociedad,victimas del conflicto armado,Museos,Memoria,Censura,Libertad de expresión,debate político,Pérdida de memoria",
+  "lead": "El debate plantea cómo garantizar que todas las víctimas estén representadas y que los cambios en el Museo Nacional tengan rigor histórico y transparencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fiscalía tomará declaración de Mancuso en Pacto de Valledupar",
+  "enlace": "https://www.lafm.com.co/politica/fiscalia-declaracion-mancuso-pacto-de-valledupar-414521",
+  "fecha": "2026-10-20T09:28:00-05:00",
+  "palabras": "Política,Fiscalía General de la Nación,Salvatore Mancuso,Armando Benedetti,Gustavo Petro,Hollman Morris,Irregularidades en manejo de recursos,Detrimento patrimonial,Pérdidas económicas,Pacto Histórico,Reforma pensional",
+  "lead": "La Fiscalía investigará el Pacto de Valledupar, mientras RTVC revisa posibles irregularidades y surgen cuestionamientos al presupuesto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Isagén alerta: la energía podría llegar a $1.500 por kWh",
+  "enlace": "https://www.lafm.com.co/sociedad/fenomeno-el-nino-precio-energia-colombia-1500-kwh-advierte-isagen-414519",
+  "fecha": "2026-10-20T09:14:00-05:00",
+  "palabras": "Sociedad,Fenómeno de El Niño,Sequía,Nivel de embalses en el país,Embalses,Hidroeléctrica,Electricidad,Generación de energía,Cortes de agua,desabastecimiento,Lluvias",
+  "lead": "Camilo Marulanda, presidente de la corporación, advirtió que el sistema eléctrico podría enfrentar niveles de exigencia sin precedentes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pronóstico del clima en Colombia del 19 al 23 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/clima-pronostico-ideam-lluvias-19-al-23-octubre-temperaturas-elevadas-fenomeno-el-nino-414497",
+  "fecha": "2026-10-20T06:08:00-05:00",
+  "palabras": "Sociedad,Lluvias,Bogotá,Temperatura,Antioquia,Cundinamarca,Orinoquía,Eje Cafetero,Región Caribe,Servicio Meteorológico Nacional,Fenómenos naturales",
+  "lead": "Antioquia, Chocó, Cauca y Nariño tendrán jornadas de precipitaciones intensas, mientras Bogotá espera lluvias frecuentes y varias zonas registrarán calor.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
