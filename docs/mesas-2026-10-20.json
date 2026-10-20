@@ -517,6 +517,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Gobernación de Antioquia destruyó 8 viviendas convertidas en focos de inseguridad, tráfico y consumo de estupefacientes en el municipio de Caldas.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:17",
+   "quien": "Senador Christian Garc&eacute;s (Centro Democr&aacute;tico)",
+   "que": "El Congreso aprob&oacute; el Presupuesto General de la Naci&oacute;n y se aumentaron 5 billones de pesos para la salud, especificando 3 billones adicionales y un recorte de 8 billones en el servicio de la deuda, destinados a damnificados por temblores y subsidios de energ&iacute;a y gas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:18",
+   "quien": "Senador Fernando Quijano (Director de La Rep&uacute;blica)",
+   "que": "El presupuesto se financia con ingresos por recaudo de impuestos actuales sin nuevos impuestos y endeudamiento, requiriendo un ajuste fiscal para bajar gastos de funcionamiento.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:18",
+   "quien": "Don Santiago (La FM Investiga)",
+   "que": "Se revel&oacute; un documento sobre el Pacto de Valledupar del 24 de octubre de 2025 en el que directores y asesores se reunieron con jefes paramilitares nombrados gestores de paz para cerrar el pacto de Ralito.",
+   "resaltar": false
   }
  ],
  "avisos": []
