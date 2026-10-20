@@ -496,6 +496,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Se reportan cinco personas heridas en medio de un enfrentamiento entre grupos armados ilegales en zona rural de Sardinata, en la región del Catatumbo, en Norte de Santander.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Policía Nacional incautó 7,6 toneladas de cocaína en el aeropuerto de Cartagena; se trata del mayor decomiso de este estimulante en la terminal de los últimos 10 años, valorado en más de 42.000 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:02",
+   "quien": "Andrea Padilla, Senadora",
+   "que": "Por primera vez Colombia contará con un programa de protección animal, tras incluirse en la madrugada en el Presupuesto General de la Nación la aprobación de 26.500 millones de pesos para activar el programa nacional de esterilización.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:02",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Gobernación de Antioquia destruyó 8 viviendas convertidas en focos de inseguridad, tráfico y consumo de estupefacientes en el municipio de Caldas.",
+   "resaltar": false
   }
  ],
  "avisos": []
