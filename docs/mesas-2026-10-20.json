@@ -293,6 +293,27 @@
    "quien": "Doctor Ricardo",
    "que": "Sobre los heridos de la mina en Iscuandé, hay tres dedicados con problemas, golpes internos y fracturas, atendidos en el casco urbano y en proceso de traslado a Pasto o Tumaco.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:20",
+   "quien": "Miguel Gómez, ministro de Hacienda",
+   "que": "Agradeció a la plenaria de la Cámara de Representantes la aprobación del Presupuesto General de la Nación y sostuvo que este voto de confianza es el primer paso para estabilizar la difícil situación de las finanzas públicas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:21",
+   "quien": "Daniel Briceño, representante a la Cámara por el Centro Democrático",
+   "que": "Celebró en el Presupuesto General de la Nación el recorte de 181.000 millones de pesos a la JEP para reasignar fondos a víctimas y deporte, y destacó el compromiso del Gobierno de reducir gastos en burocracia y derroche.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:24",
+   "quien": "Fernando Quijano, analista económico de Noticias La FM con Juan Lozano",
+   "que": "Reportó que el Indicador de Seguimiento a la Economía (ISE) del DANE cayó 0,04 % en agosto, lo que marca la primera contracción trimestral de la actividad económica desde el pasado mes de abril.",
+   "resaltar": false
   }
  ],
  "avisos": []
