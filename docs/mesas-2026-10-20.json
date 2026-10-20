@@ -69,6 +69,27 @@
    "quien": "Mariana Neira, periodista de Mañanas Blu",
    "que": "Reportó que la Procuraduría abrió indagación disciplinaria contra la representante María Fernanda Carrascal por permitir que una menor de edad tomara el micrófono en una tarima durante una manifestación en la Plaza de Bolívar.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:41",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó que la Fiscalía General de la Nación archivó la denuncia por presunto acoso radicada en 2024 contra Guillermo Botero Nieto, Enrique Vargas Lleras y Alberto Preciado, exmiembros de la junta directiva de la Cámara de Comercio de Bogotá, tras determinar que los hechos denunciados no ocurrieron.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:44",
+   "quien": "Daniel Briceño, concejal de Bogotá",
+   "que": "Celebró la aprobación de un nuevo recorte presupuestal a la JEP por 11.000 millones de pesos, impulsado junto a la bancada del Centro Democrático en el Presupuesto General de la Nación. Con esta cifra se acumulan 181.000 millones de pesos recortados a dicha entidad que serán destinados a la indemnización de víctimas de las FARC y al deporte.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:46",
+   "quien": "Marcela Peña, periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reveló que Saúl Kattan, asesor del Gobierno y directivo de Ecopetrol, fue denunciado ante la Fiscalía y la Contraloría por presuntas irregularidades en el proyecto tecnológico Bionube entre ISA, Internexa y MinCiencias. La denuncia advierte sobre la participación irregular del empresario Manel Grau en reuniones sensibles de estructuración del proyecto.",
+   "resaltar": false
   }
  ],
  "avisos": []
