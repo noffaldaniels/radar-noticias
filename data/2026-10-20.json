@@ -4308,7 +4308,7 @@
   "palabras": "Inteligencia Artificial, Robots, Estados Unidos",
   "lead": "Unas máquinas equipadas con inteligencia artificial comenzaron a llamar la atención de compradores en Estados Unidos. Aunque tienen una función inofensiva, su presencia no ha sido bien recibida por todos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4319,7 +4319,7 @@
   "palabras": "Barcelona, Champions League, Liga de Campeones, PSG, París Saint-Germain, Barcelona, Champions League, Liga de Campeones, PSG",
   "lead": "En los últimos minutos el conjunto parisino anotó los dos goles para poder seguir con puntaje perfecto en la Liga de Campeones.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4330,7 +4330,7 @@
   "palabras": "Antioquia, Noticias de hoy, Australia, Medellín",
   "lead": "La familia del extranjero está cerca de recaudar el dinero necesario para viajar a la capital de Antioquia y atender de cerca la situación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4341,7 +4341,7 @@
   "palabras": "Criptomonedas, Bitcoin, Tecnología, Aplicaciones móviles",
   "lead": "La plataforma de intercambio de criptomonedas lanzó 'Binance AI', una herramienta que adapta la interfaz, noticias y análisis según la experiencia y activos de cada cliente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4352,7 +4352,7 @@
   "palabras": "Motel",
   "lead": "El establecimiento seguía funcionando pese a una orden de suspensión y fue cerrado por 90 días.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4363,7 +4363,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este martes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4374,7 +4374,7 @@
   "palabras": "Verónica Alcocer, Eva Ferrer",
   "lead": "Este miércoles se tiene previsto el llamado a declarar en la Fiscalía por parte de Eva Ferrer.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4385,7 +4385,7 @@
   "palabras": "Atlético Nacional, Cúcuta Deportivo, Liga BetPlay, en vivo, Señal en vivo",
   "lead": "Atlético Nacional visita hoy, martes 20 de octubre, a Cúcuta Deportivo en el estadio General Santander por la fecha 15 de la Liga BetPlay II-2026. Siga el partido EN VIVO la transmisión de Blu Radio.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4396,7 +4396,7 @@
   "palabras": "Contraloría General, Salud",
   "lead": "Durante un debate de control político, la Contraloría advirtió sobre 33 hallazgos fiscales relacionados con el FOMAG en los últimos cuatro años, asociados, entre otros factores, a pagos indebidos e intereses moratorios.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4407,7 +4407,7 @@
   "palabras": "DataCrédito, Crédito, Deudas financieras",
   "lead": "Creer que consultar el historial disminuye el puntaje o que estar en la central de riesgo es negativo son algunas de las falsedades que desmintió Midatacrédito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4418,7 +4418,7 @@
   "palabras": "PSG, Champions League, Atlético de Madrid, Julián Álvarez , champions league, gol Julián Álvarez, gol atlético de madrid, liga de campeones",
   "lead": "El argentino, que ha vivido semanas complejas con el colchonero luego del Mundial, celebró con efusividad este gol en el empate de Champions.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4429,7 +4429,7 @@
   "palabras": "Cancillería",
   "lead": "Este patio había sido renombrado como el Quintín Lame durante el gobierno del expresidente Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4440,7 +4440,7 @@
   "palabras": "",
   "lead": "El diagnóstico del Ministerio reporta un patrimonio negativo de $3,2 billones. Supersalud, por su parte, señala fallas en la contratación de servicios de salud.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4451,7 +4451,7 @@
   "palabras": "",
   "lead": "La bancada de Salvación Nacional pidió investigar la posible responsabilidad del expresidente por supuestas instrucciones dirigidas a funcionarios y asesores del Gobierno para promover declaraciones contra Abelardo de la Espriella, Álvaro Uribe Vélez y Germán Vargas Lleras.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4462,7 +4462,7 @@
   "palabras": "",
   "lead": "El distrito formalizó nuevas medidas de seguimiento y control para el óptimo estado de la gramilla de El Campín que deberá ejecutarse antes, durante y después del concierto de este 31 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "",
   "lead": "Le contamos lo que debe saber sobre esta nueva versión de Pizza Máster 2026, cómo puede participar y elegir las mejores pizzas de cada ciudad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "",
   "lead": "Trabajadores reiteran que la sobreocupación y el desabastecimiento de medicamentos de control especial son problemas que se siguen agudizando.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "",
   "lead": "Solicitó a los alcaldes y a las empresas de servicios públicos evaluar su instalación ante las alertas por el aumento de la demanda de energía y los posibles efectos del fenómeno de El Niño.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "",
   "lead": "El hecho ocurrió en el corregimiento de Cantera, en Margarita, cuando el menor se encontraba en una finca de un familiar",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "",
   "lead": "Prisa Inspira lideró una conversación que busca abordar las oportunidades que tiene Colombia para descarbonizar el sector aeronáutico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "",
   "lead": "La tercera jornada empezó con la abultada victoria del PSG frente al FC Barcelona.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "",
   "lead": "Será el 24 de octubre para ampliar información sobre la propuesta que orientará el desarrollo urbano y rural de la ciudad hasta 2040",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "",
   "lead": "El gobierno italiano anunció que reforzará el dispositivo de seguridad en el norte del país para evitar bloqueos en la capital económica del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "",
   "lead": "El abogado Julio R. del Villar aseguró que la menor dejó de practicar su deporte y que sus padres han recibido amenazas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "",
   "lead": "El Juzgado Primero Administrativo de Duitama requirió al alcalde Óscar Antonio Hurtado Carvajal para que presente las pruebas del cierre definitivo de las bocaminas ilegales en la vereda Curital. El accionante, Helver Francisco Cipagauta Tuta, advierte que la explotación afecta los acueductos rurales y los nacimientos de agua del páramo de Pisba.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "",
   "lead": "El mandatario aseguró que el proceso estaba viciado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "",
   "lead": "El senador Carlos Meisel advirtió que, si Colombia no cambia su dinámica fiscal y financiera, puede ir a la quiebra”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "",
   "lead": "El hecho quedó grabado en un video y publicado en redes sociales. El mandatario distrital indicó que no se puede seguir presentando.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "",
   "lead": "La obra, conocida como la Calle de los Seis Mil, tiene 166 metros de longitud y busca mejorar la movilidad de estudiantes",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "Sociedad,Cuidados del hogar,rituales,tareas,higiene,recomendaciones,hogares,Bienestar familiar,Niños,Igualdad,Remedios caseros",
   "lead": "Se aconseja establecer rutinas, asignar un lugar a cada objeto y repartir los oficios entre los integrantes de la familia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "Economía,Pensión,Asofondos,Pensión en Colombia,Pagos atrasados,Colpensiones,Ministerio del Trabajo,Trámites",
   "lead": "Hay un procedimiento que puede ayudar a completar la historia laboral, pero no es que se compre semanas que nunca se trabajaron.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "Orden Público,Procuraduría General de la Nación,Caribe,Energía",
   "lead": "La Procuraduría vigila preventivamente a GECELCA por $4,2 billones de Colombia Solar y revisará sus contratos de 2026 para proteger el patrimonio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "Sociedad,Menopausia,Envejecimiento,prevención del Alzheimer,Demencia,salud mental,Atención a pacientes,Médicos especialistas,Autocuidado,Reactivación laboral",
   "lead": "La presidenta de la Asociación Colombiana de Menopausia, Isabel Eugenia Jáuregui Durán, advirtió que la falta de atención durante esta etapa puede afectar ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "Política,Corrupción,Lucha anticorrupción,Gobernación de Antioquia,Salud,Caldas,Antioquia",
   "lead": "Gerente del hospital de Caldas anuncia acciones legales contra el Gobernador de Antioquia: «No se ha perdido un peso»",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "Orden Público,Antiexplosivos,ELN,desminado,Bombas,Actos terroristas,conflicto armado,victimas del conflicto armado,Disidentes de las Farc,Rutas del Conflicto,Inseguridad",
   "lead": "Según información extraoficial, el cilindro que estaba pintado con colores alusivos al ELN no contenía explosivos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "Sociedad,Patrimonio cultural,Digitalización,Archivo General,Eventos presenciales,Bogotá",
   "lead": "La Fundación Patrimonio Fílmico Colombiano cumple 40 años en 2026: digitaliza películas desde 1915 en 4K y cuida la fidelidad con IA.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4703,6 +4703,270 @@
   "fecha": "2026-10-20T11:11:00-05:00",
   "palabras": "Orden Público,Personeria,Bogotá,IDRD,Estadio El Campín,Alcaldía de Bogotá",
   "lead": "Además del director general del IDRD, Daniel Andrés García Cañon, la Personería de Bogotá inició investigación contra otros cuatro funcionarios.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche: resultados del último sorteo hoy martes 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultados-del-ultimo-sorteo-hoy-martes-20-de-octubre-de-2026-so35",
+  "fecha": "2026-10-20T17:30:02-05:00",
+  "palabras": "Paisita Noche, Resultados del chance",
+  "lead": "El Paisita Noche realiza sorteos diarios y cuenta con diferentes modalidades de apuesta para quienes buscan acertar las cifras ganadoras. Consulte el resultado de este 20 de octubre de 2026 y verifique su tiquete.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche: resultados del último sorteo hoy martes 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultados-del-ultimo-sorteo-hoy-martes-20-de-octubre-de-2026-so35",
+  "fecha": "2026-10-20T17:30:11-05:00",
+  "palabras": "Chontico Noche , Resultados del chance",
+  "lead": "El sorteo del Chontico Noche se realiza todos los días, con horarios que varían según la jornada. Consulte los resultados de este 20 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "IDRD aprieta a Sencia con uso de El Campín tras polémica con conciertos: prime el fútbol",
+  "enlace": "https://www.bluradio.com/regiones/bogota/idrd-aprieta-a-sencia-con-uso-de-el-campin-tras-polemica-con-conciertos-so35",
+  "fecha": "2026-10-20T17:24:29-05:00",
+  "palabras": "IDRD, Estadio El Campín, El Campín, IDRD, Sencia, concierto BTS",
+  "lead": "Luego de los aplazamientos que se han visto en partidos del fútbol colombiano, el instituto realizó una nueva estrategia para que prime el deporte.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Millonarios vs. Once Caldas HOY: transmisión EN VIVO, hora y dónde ver la Liga BetPlay",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/millonarios-vs-once-caldas-en-vivo-hoy-liga-betplay-so35",
+  "fecha": "2026-10-20T17:46:40-05:00",
+  "palabras": "Millonarios, Once Caldas, Señal en vivo, en vivo, Liga BetPlay, Partidos de hoy, Alineaciones Millonarios vs. Once Caldas, Dónde ver Millonarios vs. Once Caldas, Millonarios hoy EN VIVO, Millonarios vs. Once Caldas Liga BetPlay",
+  "lead": "Millonarios recibe a Once Caldas este martes 20 de octubre en El Campín, en un partido pendiente de la fecha 13 de la Liga BetPlay II-2026. Consulte hora, dónde ver y siga el minuto a minuto.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Extorsión en Colombia creció 37 % en tres años: se registra un caso cada 39 minutos",
+  "enlace": "https://www.bluradio.com/nacion/la-extorsion-en-colombia-crecio-37-en-tres-anos-se-registra-un-caso-cada-39-minutos-rg10",
+  "fecha": "2026-10-20T17:34:10-05:00",
+  "palabras": "Extorsión, Inseguridad, extorsión, extorsión en Colombia",
+  "lead": "Un estudio del DNP y Asocapitales advierte que la mitad de las extorsiones usa medios digitales y el 70 % de ellos ocurre desde las cárceles.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Multicampus universitario de Suba tiene un avance del 27 % y sigue sin acuerdos para su operación",
+  "enlace": "https://www.bluradio.com/sociedad/educacion/multicampus-universitario-de-suba-tiene-un-avance-del-27-y-sigue-sin-acuerdos-para-su-operacion-rg10",
+  "fecha": "2026-10-20T17:54:59-05:00",
+  "palabras": "Suba, Multicampus, Multicampus Suba",
+  "lead": "El proyecto, cuya entrega estaba prevista para el 3 de agosto de 2026, registra retrasos en su construcción y aún no cuenta con un acuerdo formal entre las instituciones de educación superior que participarían en su funcionamiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Cúcuta Deportivo vs Atlético Nacional en Liga Colombiana: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/20/en-vivo-cucuta-deportivo-vs-atletico-nacional-en-liga-colombiana-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-10-20T17:57:21-05:00",
+  "palabras": "",
+  "lead": "El conjunto motilón buscará conseguir su cuarta victoria al hilo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hija de Germán Vargas pidió investigar mención a su padre en el “Pacto de Valledupar”",
+  "enlace": "https://caracol.com.co/2026/10/20/hija-de-german-vargas-pidio-investigar-mencion-a-su-padre-en-el-pacto-de-valledupar/",
+  "fecha": "2026-10-20T17:45:20-05:00",
+  "palabras": "",
+  "lead": "María Clemencia Vargas le envió un mensaje a la Fiscalía y a las autoridades estadounidenses el escándalo que rodea a la administración de Gustavo Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía compulsó copias para que se investigue al expresidente Petro por el ‘Pacto de Valledupar’",
+  "enlace": "https://caracol.com.co/2026/10/20/fiscalia-compulso-copias-para-que-se-investigue-al-expresidente-petro-por-el-pacto-de-valledupar/",
+  "fecha": "2026-10-20T17:45:04-05:00",
+  "palabras": "",
+  "lead": "Desde el 31 de agosto, la Fiscalía compulsó copias a la Comisión de Acusación y abrió una noticia criminal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pedro Capó presenta ‘Fulanito’, su nuevo álbum inspirado en sus raíces puertorriqueñas",
+  "enlace": "https://caracol.com.co/2026/10/20/pedro-capo-presenta-fulanito-su-nuevo-album-inspirado-en-sus-raices-puertorriquenas/",
+  "fecha": "2026-10-20T17:47:38-05:00",
+  "palabras": "",
+  "lead": "El disco reúne 11 canciones sobre la identidad, el amor, la nostalgia y los nuevos comienzos. La producción incluye una colaboración con la cantante iLe en ‘La danza del voto’.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El albergue para damnificados por el terremoto en Armenia entró en su fase de cierre progresivo",
+  "enlace": "https://caracol.com.co/2026/10/20/el-albergue-para-damnificados-por-el-terremoto-en-armenia-entro-en-su-fase-de-cierre-progresivo/",
+  "fecha": "2026-10-20T17:42:44-05:00",
+  "palabras": "",
+  "lead": "Desde la secretaría de desarrollo social de la ciudad destacaron que avanzan en el protocolo de cierre",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tribunal ordena buscar alternativas al proyecto de desalinizadoras si no es viable en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/20/tribunal-ordena-buscar-alternativas-al-proyecto-de-desalinizadoras-si-no-es-viable-en-santa-marta/",
+  "fecha": "2026-10-20T17:42:08-05:00",
+  "palabras": "",
+  "lead": "El fallo también exige priorizar nuevas fuentes de abastecimiento, ejecutar obras de acueducto y alcantarillado y verificar cada dos meses el cumplimiento de las órdenes, mientras la ciudad espera la solución prometida por el Gobierno nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Teófilo Gutiérrez reveló haber estado cerca de llegar al Real Madrid en 2014 junto a James Rodríguez",
+  "enlace": "https://caracol.com.co/2026/10/20/teofilo-gutierrez-revelo-haber-estado-cerca-de-llegar-al-real-madrid-en-2014-junto-a-james-rodriguez/",
+  "fecha": "2026-10-20T17:30:57-05:00",
+  "palabras": "",
+  "lead": "El delantero barranquillero expresó además su deseo de poder ver campeón a Falcao con Millonarios.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Histórico equipo europeo va por Dávinson Sánchez: Galatasaray tendría la última palabra",
+  "enlace": "https://caracol.com.co/2026/10/20/historico-equipo-europeo-va-por-davinson-sanchez-galatasaray-tendria-la-ultima-palabra/",
+  "fecha": "2026-10-20T17:32:51-05:00",
+  "palabras": "",
+  "lead": "El defensor colombiano estaría en los planes del conjunto portugués para el mercado de fichajes de enero de 2027",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Devolución del IVA 2026: grupos del Sisbén que reciben el subsidio ¿Cómo saber si es beneficiario?",
+  "enlace": "https://caracol.com.co/2026/10/20/devolucion-del-iva-2026-grupos-del-sisben-que-reciben-el-subsidio-como-saber-si-es-beneficiario/",
+  "fecha": "2026-10-20T17:27:34-05:00",
+  "palabras": "",
+  "lead": "Le indicamos paso a paso cómo puede saber si es beneficiario del programa Devolución del IVA y cuánto recibe.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensoría del Pueblo reporta un caso de reclutamiento de menores en el Huila durante 2026",
+  "enlace": "https://caracol.com.co/2026/10/20/defensoria-del-pueblo-reporta-un-caso-de-reclutamiento-de-menores-en-huila-durante-2026/",
+  "fecha": "2026-10-20T17:18:34-05:00",
+  "palabras": "",
+  "lead": "Entre enero y septiembre, la entidad identificó una víctima en el departamento, pero advierte que el miedo y el subregistro impiden dimensionar el problema.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salario mínimo: ¿Cuánto ha crecido en los últimos cinco años? Estimación salarial para el 2027",
+  "enlace": "https://caracol.com.co/2026/10/20/salario-minimo-cuanto-ha-crecido-en-los-ultimos-cinco-anos-estimacion-salarial-para-el-2027/",
+  "fecha": "2026-10-20T17:23:11-05:00",
+  "palabras": "",
+  "lead": "Ya comenzaron las reuniones para determinar el Salario Mínimo Mensual Legal Vigente para 2027. Conozca cuáles han sido los ajustes de los últimos cinco años y en cuánto podría ser el aumento para el nuevo año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Crisis de basuras en Santa Marta llegó al Senado y encendió las alertas por Palangana",
+  "enlace": "https://caracol.com.co/2026/10/20/crisis-de-basuras-en-santa-marta-llego-al-senado-y-encendio-las-alertas-por-palangana/",
+  "fecha": "2026-10-20T17:18:21-05:00",
+  "palabras": "",
+  "lead": "La Superintendencia de Servicios Públicos reportó un déficit de 75 contenedores y falta de vehículos para vaciarlos. Además, advirtió que trasladar los residuos a otros rellenos podría aumentar las tarifas del servicio de aseo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Milei critica a quienes dicen que los argentinos “no llegan a fin de mes”",
+  "enlace": "https://caracol.com.co/2026/10/20/milei-critica-a-quienes-dicen-que-los-argentinos-no-llegan-a-fin-de-mes/",
+  "fecha": "2026-10-20T17:15:07-05:00",
+  "palabras": "",
+  "lead": "El mandatario aseguró que es imposible que haya personas que, bajo su gobierno, tengan un salario que no dura el mes completo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena inició socializaciones del nuevo POT con comunidades y sectores ciudadanos",
+  "enlace": "https://caracol.com.co/2026/10/20/cartagena-inicio-socializaciones-del-nuevo-pot-con-comunidades-y-sectores-ciudadanos/",
+  "fecha": "2026-10-20T17:08:56-05:00",
+  "palabras": "",
+  "lead": "La agenda incluye encuentros del 21 al 23 de octubre con habitantes de las tres localidades",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Con drones detectaron minería ilegal en Cabí, Chocó",
+  "enlace": "https://www.lafm.com.co/orden-publico/choco-drones-mineria-ilegal-maquinaria-ilicita-414586",
+  "fecha": "2026-10-20T16:55:00-05:00",
+  "palabras": "Orden Público,Drones,Chocó,Ejército Nacional,Policía Nacional,Armada Nacional",
+  "lead": "Con drones detectaron 14 unidades de minería ilegal en Quibdó, Chocó: maquinaria ilícita supera los $109 millones",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Francia envió un gato al espacio en 1963: ¿por qué?",
+  "enlace": "https://www.lafm.com.co/sociedad/felicette-gata-espacio-francia-mision-1963-historia-414585",
+  "fecha": "2026-10-20T16:52:00-05:00",
+  "palabras": "Sociedad,Astronomía,Animales,cohete,Francia,Ciencia,Científicos,experimentos",
+  "lead": "Al igual que otros animales, Felice fue enviada al espacio como parte de experimentos fuera del planeta.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El Campín: IDRD pide controles para proteger la gramilla",
+  "enlace": "https://www.lafm.com.co/sociedad/idr-pone-lupa-sencia-estado-grama-campin-debera-presentar-informe-sobre-gramilla-antes-despues-conciertos-414584",
+  "fecha": "2026-10-20T16:50:00-05:00",
+  "palabras": "Sociedad,IDRD,Estadio El Campín,Alcaldía de Bogotá,Bogotá,Concierto",
+  "lead": "Sencia deberá presentar detalles de montaje, operación y desmontaje, además de un programa para proteger la gramilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Distrito exige capturar presunto asesino de Vanessa",
+  "enlace": "https://www.lafm.com.co/orden-publico/piden-ubicar-presunto-asesino-vanessa-isabel-vera-414578",
+  "fecha": "2026-10-20T16:16:00-05:00",
+  "palabras": "Orden Público,Inseguridad,violencia intrafamiliar,Violencia de género,Bogotá,Secretaría de la Mujer",
+  "lead": "La Secretaría de la Mujer pidió capturar al presunto agresor y celeridad en la investigación",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
