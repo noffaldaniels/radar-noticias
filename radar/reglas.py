@@ -54,7 +54,17 @@ DEPORTES = ["futbol", "gol", "goles", "liga betplay", "liga colombiana", "liga e
 MOTOR = ["motogp", "moto", "motos", "motocicleta", "motocicletas", "piloto", "pilotos", "carro", "carros",
          "vehiculo", "vehiculos", "automotriz", "concesionario", "marca japonesa", "formula 1", "toyota", "yamaha"]
 
-RUTAS_INTERNACIONAL = ["/mundo/", "/internacional/"]
+# "Lora murió tras 15 años en cautiverio" no es alto impacto (20-oct): si el título habla de un animal,
+# las palabras de muerte no cuentan (las demás, como "drones" o "masacre", sí).
+MUERTE = ["murio", "fallecio", "mueren", "muertos"]
+ANIMALES = ["lora", "loro", "loros", "perro", "perra", "perrito", "perrita", "gato", "gata", "gatito", "mascota",
+            "mascotas", "animal", "animales", "caballo", "vaca", "oso", "jaguar", "tigre", "leon", "elefante",
+            "hipopotamo", "mono", "tortuga", "delfin", "ballena", "ave", "aves", "fauna"]
+
+# "partido Cúcuta vs Nacional" es deporte; "Partido Liberal vs Pacto Histórico" no (ahí hay palabras de política).
+ENCUENTRO = ["partido", "partidazo", "juego"]
+
+RUTAS_INTERNACIONAL =["/mundo/", "/internacional/"]
 EXTRANJERO = ["francia", "frances", "francesa", "macron", "lecornu", "brasil", "lula", "bolsonaro", "rusia", "ruso", "rusa",
               "putin", "ucrania", "zelenski", "china", "estados unidos", "trump", "casa blanca", "venezuela", "maduro",
               "ecuador", "noboa", "peru", "mexico", "sheinbaum", "argentina", "milei", "chile", "espana", "israel",

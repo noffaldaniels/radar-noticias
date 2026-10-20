@@ -4,7 +4,7 @@ import sys
 import urllib.request
 
 from radar.modelo import Noticia
-from radar.reglas import COLOMBIA, DEPORTES, EXTRANJERO, IDS_SECCION, MOTOR, PALABRAS, PROGRAMAS, RUTAS_DEPORTES, RUTAS_INTERNACIONAL, texto_plano
+from radar.reglas import ANIMALES, COLOMBIA, DEPORTES, ENCUENTRO, EXTRANJERO, IDS_SECCION, MOTOR, MUERTE, PALABRAS, PROGRAMAS, RUTAS_DEPORTES, RUTAS_INTERNACIONAL, texto_plano
 
 URL_MODELOS = "https://models.github.ai/inference/chat/completions"
 TAMANO_LOTE = 30
@@ -19,6 +19,17 @@ def es_internacional(n: Noticia) -> bool:
         return False
     return any(r in n.enlace for r in RUTAS_INTERNACIONAL) or _tiene(titulo, EXTRANJERO)
 
+def es_alto(titulo: str) -> bool:
+    palabras = PALABRAS["alto"]
+    if _tiene(titulo, ANIMALES):
+        palabras = [p for p in palabras if p not in MUERTE]
+    return _tiene(titulo, palabras)
+
+def es_deporte(titulo: str) -> bool:
+    if _tiene(titulo, DEPORTES):
+        return True
+    return _tiene(titulo, ["vs"]) and _tiene(titulo, ENCUENTRO) and not _tiene(titulo, PALABRAS["politica"])
+
 def seccion_por_palabras(n: Noticia) -> str:
     titulo, etiquetas = texto_plano(n.titulo), texto_plano(n.palabras)
     todo = f"{titulo} {etiquetas} {texto_plano(n.lead)}"
@@ -32,15 +43,15 @@ def seccion_por_palabras(n: Noticia) -> str:
     if _tiene(texto_tolima, PALABRAS["tolima"]):
         return "tolima"
     # Alto impacto gana sobre deportes: "asesinan a exfiscal en un campo de fútbol" (20-oct)
-    if _tiene(titulo, PALABRAS["alto"]) and not es_internacional(n):
+    if es_alto(titulo) and not es_internacional(n):
         return "alto"
     # Los alias no son equipos: "alias 'Junior Rojas'" no es deporte
     titulo_dep = re.sub(r"\balias\s+\S+", "", titulo)
-    if any(r in n.enlace for r in RUTAS_DEPORTES) or _tiene(titulo_dep, DEPORTES):
+    if any(r in n.enlace for r in RUTAS_DEPORTES) or es_deporte(titulo_dep):
         return "deportes"
     if es_internacional(n):
         return "internacional"
-    if _tiene(titulo, PALABRAS["alto"]):
+    if es_alto(titulo):
         return "alto"
     if _tiene(todo, PALABRAS["politica"]):
         return "politica"

@@ -121,3 +121,12 @@ def test_alto_impacto_gana_sobre_deportes_y_alias_no_es_equipo():
 
 def test_millonarios_daños_no_es_deporte():
     assert seccion_por_palabras(n("Protestas en Medellín: van 2.000 detenidos y millonarios daños")) != "deportes"
+
+def test_muerte_de_animal_no_es_alto_impacto():
+    assert seccion_por_palabras(n("Lora murió tras vivir más de 15 años en cautiverio en Medellín: tenía fracturas y desnutrición")) != "alto"
+    assert seccion_por_palabras(n("Murió mujer que fue apuñalada al defender a una vecina de agresión en Bogotá")) == "alto"
+    assert seccion_por_palabras(n("Ataque con drones contra estación de policía deja muertos y un perro herido")) == "alto"
+
+def test_partido_vs_es_deporte():
+    assert seccion_por_palabras(n("Autoridades endurecen medidas de seguridad para el partido Cúcuta vs Nacional")) == "deportes"
+    assert seccion_por_palabras(n("Partido Liberal vs Pacto Histórico: la pelea por la presidencia del Senado")) != "deportes"
