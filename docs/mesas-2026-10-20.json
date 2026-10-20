@@ -139,6 +139,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Ejército tardó seis horas en neutralizar una carga de aproximadamente 600 kg de explosivos, distribuidos en tres cilindros de 100 libras bajo una alcantarilla de la vía Panamericana entre Piedra Sentada y el peaje El Bordo (Cauca), que puso en riesgo a más de 400 familias.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Juan Lozano, periodista de Noticias La FM con Juan Lozano",
+   "que": "Abordó las revelaciones sobre el 'Pacto de Valledupar' y las declaraciones cruzadas entre Armando Benedetti y Abelardo de la Espriella por presuntas maniobras del gobierno anterior para enlodar judicialmente a líderes de la oposición.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:04",
+   "quien": "Juan Lozano, periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que el Congreso aprobó el Presupuesto General de la Nación por 634,9 billones de pesos, el cual incluyó un recorte de recursos para la JEP.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:09",
+   "quien": "Juan Lozano, periodista de Noticias La FM con Juan Lozano",
+   "que": "Reportó que según cifras del DANE la economía colombiana se contrajo un 0,04% en el mes de agosto en comparación con el mismo periodo del año anterior.",
+   "resaltar": false
   }
  ],
  "avisos": []
