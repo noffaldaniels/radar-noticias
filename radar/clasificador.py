@@ -4,7 +4,7 @@ import sys
 import urllib.request
 
 from radar.modelo import Noticia
-from radar.reglas import COLOMBIA, DEPORTES, EXTRANJERO, IDS_SECCION, PALABRAS, PROGRAMAS, RUTAS_DEPORTES, RUTAS_INTERNACIONAL, texto_plano
+from radar.reglas import COLOMBIA, DEPORTES, EXTRANJERO, IDS_SECCION, MOTOR, PALABRAS, PROGRAMAS, RUTAS_DEPORTES, RUTAS_INTERNACIONAL, texto_plano
 
 URL_MODELOS = "https://models.github.ai/inference/chat/completions"
 TAMANO_LOTE = 30
@@ -26,9 +26,17 @@ def seccion_por_palabras(n: Noticia) -> str:
         return "mesas"
     # Tolima gana sobre todo lo demás (pedido de Noffal, 16-oct). Tolima mira título y etiquetas;
     # alto impacto, solo el título (el resumen menciona tragedias de pasada); política, todo.
-    if _tiene(f"{titulo} {etiquetas}", PALABRAS["tolima"]):
+    texto_tolima = f"{titulo} {etiquetas}"
+    if _tiene(todo, MOTOR):
+        texto_tolima = re.sub(r"\bhonda\b", "", texto_tolima)
+    if _tiene(texto_tolima, PALABRAS["tolima"]):
         return "tolima"
-    if any(r in n.enlace for r in RUTAS_DEPORTES) or _tiene(titulo, DEPORTES):
+    # Alto impacto gana sobre deportes: "asesinan a exfiscal en un campo de fútbol" (20-oct)
+    if _tiene(titulo, PALABRAS["alto"]) and not es_internacional(n):
+        return "alto"
+    # Los alias no son equipos: "alias 'Junior Rojas'" no es deporte
+    titulo_dep = re.sub(r"\balias\s+\S+", "", titulo)
+    if any(r in n.enlace for r in RUTAS_DEPORTES) or _tiene(titulo_dep, DEPORTES):
         return "deportes"
     if es_internacional(n):
         return "internacional"

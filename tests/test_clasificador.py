@@ -106,5 +106,18 @@ def test_deportes_por_enlace_o_palabras_y_tolima_sigue_ganando():
     assert seccion_por_palabras(n("Deportes Tolima ganó en Ibagué", enlace="https://www.lafm.com.co/deportes/x")) == "tolima"
     assert seccion_por_palabras(n("A golpes terminó procedimiento de tránsito")) != "deportes"
 
+def test_difutbol_y_goleo_son_deportes():
+    assert seccion_por_palabras(n("Fuerza Élite Sub-13 goleó en casa y venció a Cúcuta en el Nacional Difútbol")) == "deportes"
+
+def test_honda_la_marca_no_es_tolima():
+    assert seccion_por_palabras(n("¡Histórico! Honda le dio la bienvenida al colombiano David Alonso con emotivo video: correrá MotoGP")) == "deportes"
+    assert seccion_por_palabras(n("Nueva planta de motos Honda en Antioquia")) != "tolima"
+    assert seccion_por_palabras(n("Alcalde de Honda anuncia obras en el puente")) == "tolima"
+    assert seccion_por_palabras(n("Accidente de moto en la vía Honda - Mariquita")) == "tolima"
+
+def test_alto_impacto_gana_sobre_deportes_y_alias_no_es_equipo():
+    assert seccion_por_palabras(n("Asesinan a exfiscal anticorrupción en un campo de fútbol: esto se sabe")) == "alto"
+    assert seccion_por_palabras(n("Capturado alias 'Junior Rojas', segundo cabecilla financiero de las disidencias de las Farc")) != "deportes"
+
 def test_millonarios_daños_no_es_deporte():
     assert seccion_por_palabras(n("Protestas en Medellín: van 2.000 detenidos y millonarios daños")) != "deportes"

@@ -46,7 +46,13 @@ DEPORTES = ["futbol", "gol", "goles", "liga betplay", "liga colombiana", "liga e
             "millonarios vs", "junior", "america de cali",
             "atletico nacional", "deportivo cali", "once caldas", "tabla de posiciones", "empate", "empatar", "invicto",
             "clasico rcn", "tour de francia", "ciclismo", "ciclista", "tenis", "formula 1", "nba", "voleibol",
-            "baloncesto", "medallas", "cucho hernandez", "james rodriguez", "luis diaz", "cristiano ronaldo", "messi"]
+            "baloncesto", "medallas", "cucho hernandez", "james rodriguez", "luis diaz", "cristiano ronaldo", "messi",
+            "difutbol", "golea", "goleo", "golearon", "goleada", "motogp"]
+
+# Honda también es la marca de motos y carros (20-oct: "Honda le dio la bienvenida a David Alonso: correrá MotoGP").
+# Si la noticia habla de motor, "honda" no cuenta como el municipio.
+MOTOR = ["motogp", "moto", "motos", "motocicleta", "motocicletas", "piloto", "pilotos", "carro", "carros",
+         "vehiculo", "vehiculos", "automotriz", "concesionario", "marca japonesa", "formula 1", "toyota", "yamaha"]
 
 RUTAS_INTERNACIONAL = ["/mundo/", "/internacional/"]
 EXTRANJERO = ["francia", "frances", "francesa", "macron", "lecornu", "brasil", "lula", "bolsonaro", "rusia", "ruso", "rusa",
