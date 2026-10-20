@@ -699,6 +699,27 @@
    "quien": "Óscar Darío Pérez, Congresista del Centro Democrático",
    "que": "Señaló que el Centro Democrático no contribuyó a desfinanciar la inversión social y cuestionó la viabilidad del aumento de la deuda pública y el manejo presupuestal del Gobierno.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:02",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se expresa molestia por la no radicación de la ley de ajuste fiscal, segundo capítulo de la novela del Gobierno, y se reclama celeridad en los proyectos que se debaten en el Congreso.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:02",
+   "quien": "Doctor Meisel",
+   "que": "El presupuesto aprobado está madrugado no es el que se va a ejecutar, porque falta la ley de recorte por 45 billones de pesos. El ministro de Hacienda no ha presentado aún dicha ley.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:07",
+   "quien": "Aurio",
+   "que": "La maniobra para hacer viable el presupuesto fue reperfilar deuda, aplazando el servicio de deuda del año entrante, con 7 billones de pesos de ahorro que se llevaron al rubro de inversión.",
+   "resaltar": false
   }
  ],
  "avisos": []
