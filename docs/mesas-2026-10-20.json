@@ -671,6 +671,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Se detalló el papel de los magistrados Reyes Echandía y la participación de sus familiares en los hechos judiciales del Palacio de Justicia.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:00",
+   "quien": "Ángela María Morazoto, Gerente del Sistema de Medios Públicos (RTVC)",
+   "que": "Denunció que en medio de una revisión forense a la contratación ocurrida en el gobierno anterior, en la gerencia de Hollman Morris, se ha detectado el hallazgo de posibles irregularidades en los soportes de pago presentados por varios contratistas a la entidad entre los años 2023 y 2026.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:00",
+   "quien": "Andrés Carmona, Periodista de Mañanas Blu",
+   "que": "Informó que el presupuesto general de la nación aprobado esta madrugada en el Congreso de la República es de 634.9 billones de pesos, tras acuerdos entre el gobierno y los congresistas.",
+   "resaltar": false
   }
  ],
  "avisos": []
