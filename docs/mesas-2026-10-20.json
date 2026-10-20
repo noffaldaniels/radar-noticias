@@ -804,6 +804,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Fueron arrancadas obras de las paredes de un museo en la luz del día sin ningún tipo de planeación.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:20",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "San Andrés tiene una profunda crisis de saneamiento básico, no tiene proyectos de alcantarillado y cada aguacero deja la vía inundada con agua estancada.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:20",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El único proveedor de concreto que se necesita en la isla para esta obra es Norber Bomblón, esposo de la representante Elizabeth Jay-Pang.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:20",
+   "quien": "Joseph Mejia, isleño",
+   "que": "En San Andrés es vergonzoso y penoso el estado de las vías, el colapso de las redes de acueducto y alcantarillado, y el alto costo de energía y servicios públicos.",
+   "resaltar": false
   }
  ],
  "avisos": []
