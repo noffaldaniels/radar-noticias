@@ -860,6 +860,27 @@
    "quien": "Juan Lozano (Director de Noticias La FM)",
    "que": "Destaca que en Piedras Blancas se registran 80 litros de ahorro de agua por hogar y 30 litros en Río Grande, en el marco de la crisis hídrica.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:30",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Gobierno de Colombia expresó su rechazo al uso de la fuerza contra la integridad territorial e independencia política de cualquier Estado, respecto a la situación de Ucrania.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:30",
+   "quien": "Laura Saavedra, Reportera Caracol",
+   "que": "La Contraloría de Bogotá confirmó en segunda instancia la responsabilidad fiscal por 36.000 millones de pesos por irregularidades en la construcción de la sede de la Alcaldía Local de Teusaquillo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:30",
+   "quien": "Reportera Caracol",
+   "que": "La Policía Metropolitana de Bogotá confirmó la captura de un hombre señalado de cometer agresiones sexuales y hurtos en el humedal Juan Amarillo.",
+   "resaltar": false
   }
  ],
  "avisos": []
