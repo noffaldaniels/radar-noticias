@@ -1007,6 +1007,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Se envió un oficio dirigido a Emcali y al alcalde Eder pidiendo una auditoría independiente sobre el proceso del contrato de alumbrado público en Cali, pidiendo que se verifique el cumplimiento de normas de contratación.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:50",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En el Tolima son más de 800 las empresas que participan hoy en el simulacro nacional de respuesta a emergencias. A las 2 de la tarde en la Alcaldía de Ibagué evaluarán estrategias territoriales en torno a una situación de simulación de un sismo del volcán Cerro Machín.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:50",
+   "quien": "Fernando Gómez, Gerente de Recursos Humanos de Comestibles La Rosa",
+   "que": "Tuvieron una afectación del 70% de la capacidad instalada por el terremoto del 10 de agosto, logrando restablecer en alrededor de 3 semanas el 30% de la capacidad. Actualmente están suspendidos 146 trabajadores y se cuenta con 365 trabajadores activos de un total de 565.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:50",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Aeropuerto Departamental Gustavo Rojas Pinillas de San Andrés presenta graves problemas de infraestructura en sus instalaciones y los pasajeros denuncian mal estado del aeropuerto.",
+   "resaltar": false
   }
  ],
  "avisos": [
