@@ -1028,6 +1028,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Aeropuerto Departamental Gustavo Rojas Pinillas de San Andrés presenta graves problemas de infraestructura en sus instalaciones y los pasajeros denuncian mal estado del aeropuerto.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:00",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El exmagistrado del Consejo de Estado Danilo Rojas reemplaza a Alejandro Ramelli como nuevo presidente de la JEP.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:00",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se abre polémica sobre la responsabilidad de exintegrantes de las FARC en el reclutamiento de menores de 15 años o menos, delito considerado inaceptable.",
+   "resaltar": false
   }
  ],
  "avisos": [
