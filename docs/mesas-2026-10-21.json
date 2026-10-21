@@ -335,6 +335,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Este martes habrá una declaración del Ministro de Hacienda, Ricardo Bonilla, desde la Casa de Nariño sobre la posición del gobierno respecto al error de procedimiento en el presupuesto.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Andrés Carmona (Periodista de Mañanas Blu)",
+   "que": "El Congreso aprobó el presupuesto general de la nación de 2027 por 14 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Andrés Carmona (Periodista de Mañanas Blu)",
+   "que": "La senadora Esmeralda Hernández descubrió un error de procedimiento en la votación entre Cámara y Senado sobre el artículo 65 del presupuesto.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Diego González (Secretario General del Senado)",
+   "que": "El secretario general del Senado certificó que en la votación no se modificó dicho artículo 65.",
+   "resaltar": false
   }
  ],
  "avisos": []
