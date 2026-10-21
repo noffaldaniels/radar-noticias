@@ -643,6 +643,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El gobierno anunció el despliegue de 500 militares junto a la policía en Milán hasta finales de año para reforzar la seguridad en puntos estratégicos e instalaciones sensibles.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:32",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Cúcuta Deportivo venció al Atlético Nacional 1-0 en los cuartos de final de la Liga colombiana, sacando ventaja en la serie.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:34",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Boca Juniors venció 1-3 a Vasco da Gama en Brasil y se clasificó a la gran final de la Copa Sudamericana 2024, que se disputará el 21 de noviembre en Barranquilla.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:36",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "En otros resultados de la Liga de Campeones, el Bayern Múnich venció 2-4 al Barcelona y el PSG derrotó 4-0 al Slovan.",
+   "resaltar": false
   }
  ],
  "avisos": []
