@@ -405,6 +405,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Las altas fuentes aseguran que el caso terminará en la suspensión provisional de la gobernadora mientras se adelantan las investigaciones.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Gobierno nacional destinará 70 billones de pesos en pago de intereses de deuda para el próximo año, la cifra histórica más alta de ese rubro.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:42",
+   "quien": "María Camila Orozco, periodista de Mañanas Blu",
+   "que": "Existen investigaciones contra el exministro Armando Benedetti y contra el expresidente Gustavo Petro por la presunta utilización de exparamilitares para fabricar falsos testimonios.",
+   "resaltar": false
   }
  ],
  "avisos": []
