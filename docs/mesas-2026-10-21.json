@@ -755,6 +755,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "La empresa de un negocio en un centro comercial en Solidaridad Atlántico registró un consumo superior a los 23.000 kilovatios por hora, y tras implementar medidas bajó a 16.000 kilovatios por hora, pero recibió una multa de 10.866.000 pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:00",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Seis uniformados resultaron heridos tras un atentado con explosivos contra una estación de policía en Aguachica (Cesar), presuntamente perpetrado por integrantes del ELN.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:00",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Fue asesinado en Chinácota (Norte de Santander) alias 'Resorte', presunto cabecilla de finanzas del ELN y señalado de ser hermano de alias 'Alfredo Uribe'.",
+   "resaltar": false
   }
  ],
  "avisos": []
