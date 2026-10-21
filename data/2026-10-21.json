@@ -425,7 +425,7 @@
   "palabras": "Noticias de hoy, Blu Radio, ELN, Bucaramanga, Cúcuta, Ejército Nacional, Seguridad ciudadana, Catatumbo, Norte de Santander, ELN",
   "lead": "Durante el operativo fueron incautados una pistola, munición, dos teléfonos celulares y una camioneta. Estos elementos quedaron a disposición de la Fiscalía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "En Tello, Colombia y Baraya reportan reuniones y citaciones de actores armados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -457,6 +457,215 @@
   "fecha": "2026-10-21T05:53:03-05:00",
   "palabras": "",
   "lead": "La emergencia se originó por una inundación que dificultó durante más de cuatro días las labores de búsqueda y recuperación.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mintransporte modificará convenio con Alcaldía de Bucaramanga para recuperar Metrolínea",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/mintransporte-modificara-convenio-con-alcaldia-de-bucaramanga-para-recuperar-metrolinea-rg10",
+  "fecha": "2026-10-21T06:33:44-05:00",
+  "palabras": "Bucaramanga, Santander, Metrolínea, Ministerio de Transporte, Blu Radio",
+  "lead": "La modificación del convenio facilitará inversiones en buses nuevos y fortalecer el sistema de transporte masivo del área metropolitana de Bucaramanga, Metrolínea.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dos accidentes terminaron en tragedia en Bogotá: una joven y un motociclista murieron",
+  "enlace": "https://www.bluradio.com/regiones/bogota/dos-accidentes-terminaron-en-tragedia-en-bogota-una-joven-y-un-motociclista-murieron-so35",
+  "fecha": "2026-10-21T06:32:11-05:00",
+  "palabras": "Accidente de tránsito, Muerte menores",
+  "lead": "Los siniestros ocurrieron en el barrio La Paz, en Bosa, y en la autopista Sur. Un adolescente resultó gravemente herido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Los 'chalecos amarillos' hacen oficial la convocatoria de manifestaciones el sábado",
+  "enlace": "https://www.bluradio.com/mundo/los-chalecos-amarillos-hacen-oficial-la-convocatoria-de-manifestaciones-el-sabado-cb20",
+  "fecha": "2026-10-21T06:24:55-05:00",
+  "palabras": "",
+  "lead": "Los desórdenes públicos llevaron al Ejecutivo a ordenar toques de queda parciales en varias ciudades que, por segunda noche consecutiva, han permitido mantener la calma en el país de forma generalizada.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seis policías heridos en ataque con drones contra estación de Policía de Pelaya, Cesar",
+  "enlace": "https://caracol.com.co/2026/10/21/seis-policias-heridos-en-ataque-con-drones-contra-estacion-de-policia-de-pelaya-cesar/",
+  "fecha": "2026-10-21T06:38:32-05:00",
+  "palabras": "",
+  "lead": "Dos uniformados presentan heridas de gravedad",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por orden público, suspenden proyecto para niños en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/21/por-orden-publico-suspenden-proyecto-para-ninos-en-el-catatumbo/",
+  "fecha": "2026-10-21T06:44:03-05:00",
+  "palabras": "",
+  "lead": "La medida será hasta finalizar el año en la vereda Campo Tres, de Tibú.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Quién es el alcalde de Villanueva, Santander capturado por presuntos actos de corrupción?",
+  "enlace": "https://caracol.com.co/2026/10/21/quien-es-el-alcalde-de-villanueva-santander-capturado-por-presuntos-actos-de-corrupcion/",
+  "fecha": "2026-10-21T06:20:14-05:00",
+  "palabras": "",
+  "lead": "El mandatario fue privado de la libertad en un operativo de la Policía Nacional en Bucaramanga; entre tanto, en Villanueva, fue capturado el concejal Fredy Pineda.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena firmará su clasificación con empate o triunfo ante Barranquilla FC",
+  "enlace": "https://caracol.com.co/2026/10/21/real-cartagena-firmara-su-clasificacion-con-empate-o-triunfo-ante-barranquilla-fc/",
+  "fecha": "2026-10-21T06:41:02-05:00",
+  "palabras": "",
+  "lead": "En caso de una derrota en la última fecha, el Heroico deberá esperar otros resultados",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corte Suprema confirma condena contra exregistradora de instrumentos públicos de Calarcá, Quindío",
+  "enlace": "https://caracol.com.co/2026/10/21/corte-suprema-confirma-condena-contra-exregistradora-de-instrumentos-publicos-de-calarca-quindio/",
+  "fecha": "2026-10-21T06:35:22-05:00",
+  "palabras": "",
+  "lead": "La exfuncionaria fue capturada en Armenia para que cumpla la condena a cinco años de prisión, condena confirmada por la Corte Suprema de Justicia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Policía frustró un presunto caso de reclutamiento de menores en Popayán",
+  "enlace": "https://caracol.com.co/2026/10/21/la-policia-frustro-un-presunto-caso-de-reclutamiento-de-menores-en-popayan/",
+  "fecha": "2026-10-21T06:35:13-05:00",
+  "palabras": "",
+  "lead": "Un sujeto de 19 años quien habría ofrecido dinero y armas a dos menores para integrar un grupo armado ilegal fue capturado en Popayán.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Supersalud examina funcionamiento del HUEM",
+  "enlace": "https://caracol.com.co/2026/10/21/supersalud-examina-funcionamiento-del-huem/",
+  "fecha": "2026-10-21T06:34:19-05:00",
+  "palabras": "",
+  "lead": "Comisión indaga prestación de servicios en el centro médico",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asamblea del Magdalena aprobó proyecto de ordenanza donde se institucionaliza el Mes Rosa",
+  "enlace": "https://caracol.com.co/2026/10/21/asamblea-del-magdalena-aprobo-proyecto-de-ordenanza-donde-se-institucionaliza-el-mes-rosa/",
+  "fecha": "2026-10-21T06:36:04-05:00",
+  "palabras": "",
+  "lead": "La iniciativa pretende brindar herramientas a la Gobernación para desarrollar campañas de concientización que promuevan el cuidado de la salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cancillería de Brasil, molesta con Colombia por afirmaciones falsas sobre embajador designado",
+  "enlace": "https://caracol.com.co/2026/10/21/cancilleria-de-brasil-molesto-con-colombia-por-afirmaciones-falsas-sobre-embajador-designado/",
+  "fecha": "2026-10-21T06:12:18-05:00",
+  "palabras": "",
+  "lead": "El presidente había dicho que renunció a la Embajada aunque Brasil ya había otorgado el beneplácito.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja busca $5.000 millones para vías rurales y entrega de estudios de la Variante de Occidente",
+  "enlace": "https://caracol.com.co/2026/10/21/tunja-busca-5000-millones-para-vias-rurales-y-entrega-de-estudios-de-la-variante-de-occidente/",
+  "fecha": "2026-10-21T06:26:38-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía busca recursos nacionales para mejorar la movilidad rural y fortalecer la conexión vial de la capital boyacense.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Neiva registra más de 1.350 órdenes de arresto pendientes por incumplimientos de fallos de salud",
+  "enlace": "https://caracol.com.co/2026/10/21/neiva-registra-mas-de-1350-ordenes-de-arresto-pendientes-por-incumplimientos-de-fallos-de-salud/",
+  "fecha": "2026-10-21T06:25:15-05:00",
+  "palabras": "",
+  "lead": "Las medidas judiciales recaen sobre responsables de EPS e IPS que no cumplen tutelas para garantizar la atención de los usuarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Siguen acciones violentas con drones en San Calixto y Tibú",
+  "enlace": "https://caracol.com.co/2026/10/21/siguen-acciones-violentas-con-drones-en-san-calixto-y-tibu/",
+  "fecha": "2026-10-21T06:22:19-05:00",
+  "palabras": "",
+  "lead": "Comunidades generan nuevos desplazamientos forzados",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo acceder a una de las más de 400 viviendas gratuitas en cuatro municipios del Atlántico?",
+  "enlace": "https://caracol.com.co/2026/10/21/como-acceder-a-una-de-las-mas-de-400-viviendas-gratuitas-en-cuatro-municipios-del-atlantico/",
+  "fecha": "2026-10-21T06:12:46-05:00",
+  "palabras": "",
+  "lead": "La iniciativa tiene una inversión estimada de $152.500 millones e incluye obras de urbanismo, parques, vías internas y redes de servicios públicos en Suan, Piojó, Manatí y Usiacurí.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atacan comisión humanitaria en Nariño: más de cien personas no pudieron ser evacuadas en Linares",
+  "enlace": "https://caracol.com.co/2026/10/21/ataque-contra-secretario-de-paz-de-narino-impidio-evacuar-a-cien-personas-confinadas-en-linares/",
+  "fecha": "2026-10-21T06:12:47-05:00",
+  "palabras": "",
+  "lead": "La comitiva humanitaria había sacado a más de 300 habitantes de tres veredas cuando fue atacada con ráfagas de fusil",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Frontera con Venezuela: denuncian presuntas restricciones al transporte público",
+  "enlace": "https://caracol.com.co/2026/10/21/frontera-con-venezuela-denuncian-presuntas-restricciones-al-transporte-publico/",
+  "fecha": "2026-10-21T06:09:39-05:00",
+  "palabras": "",
+  "lead": "Conductores de taxis con matrícula venezolana estarían enfrentando presuntas limitaciones de circulación.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se fortalece la recolección de residuos en Neiva con más vehículos, operarios y nuevas cestas",
+  "enlace": "https://caracol.com.co/2026/10/21/se-fortalece-la-recoleccion-de-residuos-en-neiva-con-mas-vehiculos-operarios-y-nuevas-cestas/",
+  "fecha": "2026-10-21T06:08:21-05:00",
+  "palabras": "",
+  "lead": "La empresa recolectora cuenta con cerca de 500 operarios, instala cestas públicas y ofrece recolección gratuita de escombros.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
