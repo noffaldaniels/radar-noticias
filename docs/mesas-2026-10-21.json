@@ -146,6 +146,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Informó la captura en Santa Rosa del Sur (Bolívar) de alias 'Fernanda', señalada de manejar drones para atentados de las disidencias de las FARC, así como la detención de alias 'Brayan Beneco' en Morales (Bolívar).",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:52",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En Barranquilla, el Instituto Nacional de Salud lanzó una advertencia por alta transmisión de dengue con 2.636 casos a corte del 13 de octubre, un aumento del 10% frente al año anterior.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:53",
+   "quien": "Elsa Noguera, ministra de Transporte",
+   "que": "Se busca modificar en diciembre el convenio de cofinanciación entre municipios y la Nación para abrir caminos a nuevas inversiones y conseguir recursos que permitan renovar la flota de buses del sistema de metrolínea.",
+   "resaltar": false
   }
  ],
  "avisos": []
