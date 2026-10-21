@@ -944,6 +944,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Capturan en Bucaramanga al alcalde de Villanueva, Santander, José Luis Gómez Mancilla, por posibles irregularidades en la celebración de contratos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La empresa de Servicios Públicos de Santa Marta (Smart) impuso una multa de 220 millones de pesos a la empresa Atesa por incumplimientos en la recolección de basuras.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se registraron lluvias generalizadas en el departamento de Santander que afectaron al municipio de Barbosa y generaron una crecida en el río Suárez y fallas en el sistema de alcantarillados, dejando tres personas arrastradas por las aguas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:40",
+   "quien": "Felipe Robledo, secretario de Cultura de la Gobernación del Tolima",
+   "que": "La Gobernación del Tolima destinó 100 mil millones de pesos para la reconstrucción de viviendas, instrumentos y talleres de artistas afectados, así como infraestructura cultural tras el sismo.",
+   "resaltar": true
   }
  ],
  "avisos": [
