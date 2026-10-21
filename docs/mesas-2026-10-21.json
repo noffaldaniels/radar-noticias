@@ -839,6 +839,20 @@
    "quien": "Senador Hernán Creador",
    "que": "El proyecto del Gobierno nacional sobre la ley de sometimiento busca beneficiar a testaferros y lavadores de activos, y el artículo 18 modifica el numeral 5 del artículo 66B.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:13",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Anunció que en la etapa de hoy de la Vuelta a Colombia, que cuenta con 173 kilómetros, se espera un embalaje masivo y que el favoritismo se mantiene para Wilmar Paredes.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:13",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que la etapa de ayer fue ganada por Andrés Camilo Ardila, oriundo de Mariquita, Tolima, quien se adjudicó la etapa reina de la carrera y se convirtió en el nuevo líder.",
+   "resaltar": true
   }
  ],
  "avisos": []
