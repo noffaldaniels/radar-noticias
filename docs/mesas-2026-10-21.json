@@ -41,6 +41,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Reportó cifras del DNP y Asocapitales que muestran que las denuncias por extorsión en las principales ciudades capitales pasaron de un promedio de 1.500 en 2020 a más de 13.000 casos en 2024 y 2025.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:31",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó que en una operación conjunta del Gaula Militar y la Policía Nacional en zona rural de Chinácota (Norte de Santander) fue abatido alias 'Resorte', cabecilla de finanzas del Frente Urbano Reinaldo Ardila del ELN con 9 años en la estructura criminal.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:33",
+   "quien": "Marco Hincapié, Representante a la Cámara por el Centro Democrático",
+   "que": "Cuestionó el trámite del Presupuesto General de la Nación señalando que asesta un golpe fuerte y desfinancia a entidades judiciales icónicas como la JEP.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:36",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó que la Secretaría de Transparencia de la Presidencia solicitó a Emcali una auditoría previa e independiente para la licitación del alumbrado público por más de 452.000 millones de pesos a 20 años, ante alertas de riesgos y denuncias del concejal Roberto Ortiz sobre presunto direccionamiento.",
+   "resaltar": false
   }
  ],
  "avisos": []
