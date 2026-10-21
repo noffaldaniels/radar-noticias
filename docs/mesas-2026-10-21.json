@@ -706,6 +706,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "En el hotel El Bosque de Valledupar están todos los que han sido mencionados en el supuesto intento de interferir o de presionar a los paras a cambio de beneficios para que declararan contra Abelardo de la Espriella y compañía.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:43",
+   "quien": "Profesor Fernando Quijano",
+   "que": "El precio del kilovatio hora en este momento está alrededor de los 500 a 600 pesos el megavatio hora y los precios podrían llegar a proyectarse por encima de los 1.200 pesos, llegando entre 1.500 aproximadamente durante la época de verano.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:45",
+   "quien": "Profesor Fernando Quijano",
+   "que": "El sistema interconectado nacional cuenta con una energía almacenada en su embalse útil total cercano al 76% de la media, lo que permite tener una condición de relativa tranquilidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:48",
+   "quien": "Profesor Fernando Quijano",
+   "que": "En los meses de octubre, noviembre y probablemente marzo, vamos a tener condiciones de un niño fuerte en Colombia, y si hoy estamos en 95 GB en mes de lluvia, los siguientes meses que son deficitarios, vamos a requerir generación térmica en Colombia por encima de los 100 GB día de forma continua.",
+   "resaltar": false
   }
  ],
  "avisos": []
