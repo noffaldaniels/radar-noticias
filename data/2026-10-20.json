@@ -5606,7 +5606,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 20 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5617,7 +5617,7 @@
   "palabras": "Barranquilla, San Andrés y Providencia, Fiscalía General de la Nación, Everth Julio Hawkins Sjogreen",
   "lead": "La audiencia se reanudará este miércoles, desde las 3:00 de la tarde, con las intervenciones del Ministerio Público y la defensa del exgobernador.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5628,7 +5628,7 @@
   "palabras": "Viral, Mascotas",
   "lead": "Dos hombres llegaron hasta la vivienda y dispararon contra la mujer, en su intento de defenderla, el perro perdió la vida al ser atacado también.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5639,7 +5639,7 @@
   "palabras": "",
   "lead": "La variación anual fue inferior a la nacional, que alcanzó el 6,29 %",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5650,7 +5650,7 @@
   "palabras": "",
   "lead": "El hecho se registró en una vivienda en la capital del Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5661,7 +5661,7 @@
   "palabras": "",
   "lead": "Solo en un solo día murieron cuatro muchachos en esa población del Urabá. Uno era un deportista local. Van 20 fallecidos en el 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5672,7 +5672,7 @@
   "palabras": "",
   "lead": "La senadora del Pacto Histórico pone bajo examen la situación de Palangana, las fallas de recolección, el retiro de contenedores y el manejo de los recursos ambientales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5683,7 +5683,7 @@
   "palabras": "",
   "lead": "Reconocida empresa colombiana tiene ofertas de inmuebles bastante atractivas en el país. Conozca cómo puede consultar el catálogo:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5694,7 +5694,7 @@
   "palabras": "",
   "lead": "Un total de 1.316 atletas de 35 países se dan cita en La Heroica del 21 al 24 de octubre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5705,7 +5705,7 @@
   "palabras": "",
   "lead": "Con el tiempo, estas almohadillas se desgastan, pierden su forma original y acumulan suciedad, lo que hace necesario reemplazarlas para mantener la experiencia auditiva en óptimas condiciones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5716,7 +5716,7 @@
   "palabras": "",
   "lead": "Ehylin Marileth Montes Guerrero lleva cinco años en la institución",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5727,7 +5727,7 @@
   "palabras": "",
   "lead": "El alcalde anunció acuerdos con el Gobierno para avanzar en la recuperación del SITME.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5738,7 +5738,7 @@
   "palabras": "",
   "lead": "En este artículo te contamos qué hace especial a esta marca, cuáles son sus líneas más populares y qué deberías tener en cuenta antes de comprar uno de sus productos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5749,7 +5749,7 @@
   "palabras": "",
   "lead": "En otra nueva edición, la feria para encontrar nuevas oportunidades para formarse en la educación superior llega a Corferias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5760,7 +5760,7 @@
   "palabras": "",
   "lead": "José Francisco Zúñiga Cotes, presidente ejecutivo de Asbama, le dijo a Caracol Radio que los vendavales, la caída del dólar y el aumento de los costos tienen en aprietos a los productores de banano de la región.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5771,7 +5771,7 @@
   "palabras": "Política,Desabastecimiento de gas natural,Electricidad apagón,escasez,Gas natural,Fenómeno de El Niño,Ministerio de Minas y Energía,Situación económica",
   "lead": "Por su parte, el ministro de Hacienda reveló que en el 2018 el país podría estar dependiendo en un 40% de la importación de gas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5782,7 +5782,7 @@
   "palabras": "Deportes,FC Barcelona,Barcelona,París,Paris Saint-Germain,Fútbol,Champions League",
   "lead": "Detrás de este suceso está la UEFA, que ha recibido críticas por algunos fanáticos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5793,6 +5793,226 @@
   "palabras": "Orden Público,presos,Inpec,Grupos delincuenciales,Presidencia de la República",
   "lead": "El presidente De La Espriella anunció el traslado de 91 personas privadas de la libertad desde cuatro ciudades y la incautación de 1.645 kilos de cocaína p...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche: resultado del último sorteo hoy martes 20 de octubee de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-martes-20-de-octubee-de-2026-so35",
+  "fecha": "2026-10-20T21:48:43-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche cuenta con diferentes modalidades de apuesta y una quinta balota que complementa el resultado principal. Consulte los números ganadores de este 20 de octubre de 2026 y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche: resultados del último sorteo hoy martes 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultados-del-ultimo-sorteo-hoy-martes-20-de-octubre-de-2026-so35",
+  "fecha": "2026-10-20T21:49:00-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este martes 20 de octubre de 2026 y conozca las modalidades de apuesta disponibles para verificar si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado de Astro Luna del sorteo hoy martes 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-de-astro-luna-del-sorteo-hoy-martes-20-de-octubre-de-2026-so35",
+  "fecha": "2026-10-20T21:49:19-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este 20 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta coinciden con la combinación ganadora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Oposición critica y no acepta que son parte del problema del presupuesto: senador Christian Garcés",
+  "enlace": "https://www.bluradio.com/politica/oposicion-critica-y-no-acepta-que-son-parte-del-problema-del-presupuesto-senador-christian-garces-pr30",
+  "fecha": "2026-10-20T21:19:49-05:00",
+  "palabras": "Presupuesto Nacional, Entrevista, Centro Democrático, Christian Garcés, presupuesto",
+  "lead": "Ante los cuestionamientos de la aprobación del presupuesto, el integrante del Centro Democrático aseguró que no tiene conocimiento de irregularidades.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gracias a decreto, Gobierno dará subsidio a estratos 1, 2 y 3 en estas zonas en Colombia",
+  "enlace": "https://www.bluradio.com/economia/gracias-a-decreto-gobierno-dara-subsidio-a-estratos-1-2-y-3-en-estas-zonas-en-colombia-so35",
+  "fecha": "2026-10-20T21:39:42-05:00",
+  "palabras": "Subsidios, Terremoto hoy",
+  "lead": "Este subsidio será destino para reducir temporalmente el valor de las facturas de acueducto, alcantarillado y aseo, pero no será para todo el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Boca Juniors, primer finalista de Copa Sudamericana tras eliminar a Vasco 3-2",
+  "enlace": "https://www.bluradio.com/deportes/futbol/boca-juniors-primer-finalista-de-copa-sudamericana-tras-eliminar-a-vasco-en-el-maracana-cb20",
+  "fecha": "2026-10-20T21:41:04-05:00",
+  "palabras": "Boca Juniors, Vasco de Gama, Álvaro Montero, Copa Sudamericana, Boca Juniors, final copa libertadores",
+  "lead": "En el partido que definirá el campeón en Barranquilla, el conjunto argentino espera como rival al Atlético Mineiro o Montevideo City Torque.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de la Cruz Roja, resultados del último sorteo hoy martes 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-la-cruz-roja-resultados-del-ultimo-sorteo-hoy-martes-20-de-octubre-de-2026-so35",
+  "fecha": "2026-10-20T21:44:13-05:00",
+  "palabras": "Lotería de la Cruz Roja, Resultado de loterías de hoy",
+  "lead": "La Lotería de la Cruz Roja juega este martes por un premio mayor de $10.000 millones. Consulte los resultados completos del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Huila, resultados del último sorteo hoy martes 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-huila-resultados-del-ultimo-sorteo-hoy-martes-20-de-octubre-de-2026-so35",
+  "fecha": "2026-10-20T21:48:13-05:00",
+  "palabras": "Lotería del Huila, Resultado de loterías de hoy",
+  "lead": "La Lotería del Huila realiza este martes un nuevo sorteo por un premio mayor de $2.000 millones. Consulte los resultados completos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fue capturado el alcalde de Villanueva, Santander y un concejal por presunta corrupción",
+  "enlace": "https://caracol.com.co/2026/10/21/fue-capturado-el-alcalde-de-villanueva-santander-y-un-concejal-por-presunta-corrupcion/",
+  "fecha": "2026-10-20T21:33:17-05:00",
+  "palabras": "",
+  "lead": "La diligencia fue adelantada por la Dijin en Bucaramanga y en Villanueva.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presupuesto De la Espriella se caería por falta de conciliación, denuncia senadora del Pacto",
+  "enlace": "https://caracol.com.co/2026/10/21/presupuesto-de-la-espriella-se-caeria-por-falta-de-conciliacion-denuncia-senadora-del-pacto/",
+  "fecha": "2026-10-20T21:47:59-05:00",
+  "palabras": "",
+  "lead": "La conciliación es un requisito legal cuando el texto aprobado por Senado y Cámara es distinto. Según la senadora, era necesario seguir ese paso en la aprobación del Presupuesto, lo cual no se realizó.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con Álvaro Montero y Sebastián Villa titulares, Boca Juniors es semifinalista de Copa Sudamericana",
+  "enlace": "https://caracol.com.co/2026/10/21/con-alvaro-montero-y-sebastian-villa-titulares-boca-juniors-es-semifinalista-de-copa-sudamericana/",
+  "fecha": "2026-10-20T21:45:58-05:00",
+  "palabras": "",
+  "lead": "El equipo argentino venció con un agónico 3-1 a Vasco en suelo brasileño.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía capturó a alias ‘Chogua’ con una escopeta hechiza en Villanueva",
+  "enlace": "https://caracol.com.co/2026/10/21/policia-capturo-a-alias-chogua-con-una-escopeta-hechiza-en-villanueva/",
+  "fecha": "2026-10-20T21:35:37-05:00",
+  "palabras": "",
+  "lead": "El hombre, de 33 años, fue sorprendido en el barrio Campo Santo con un arma artesanal avaluada en $1,2 millones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Enviaron a prisión a dos hombres señalados de agredir a sus madres en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/21/enviaron-a-prision-a-dos-hombres-senalados-de-agredir-a-sus-madres-en-cartagena/",
+  "fecha": "2026-10-20T21:30:18-05:00",
+  "palabras": "",
+  "lead": "Los procesados, de 36 y 29 años, fueron imputados por violencia intrafamiliar agravada",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Four Seasons Cartagena inauguró El Aljibe, un bar oculto inspirado en la historia de Colombia",
+  "enlace": "https://caracol.com.co/2026/10/21/four-seasons-cartagena-inauguro-el-aljibe-un-bar-oculto-inspirado-en-la-historia-de-colombia/",
+  "fecha": "2026-10-20T21:23:44-05:00",
+  "palabras": "",
+  "lead": "El espacio funciona en una antigua cisterna y ofrece cocteles que exploran los paisajes, ingredientes y tradiciones del país",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministros lanzaron alerta por abastecimiento de gas para enfrentar el fenómeno de El Niño",
+  "enlace": "https://caracol.com.co/2026/10/21/ministros-lanzaron-alerta-por-abastecimiento-de-gas-para-enfrentar-el-fenomeno-de-el-nino/",
+  "fecha": "2026-10-20T21:15:19-05:00",
+  "palabras": "",
+  "lead": "Los jefes de las carteras de Minas, Hacienda, Ambiente e Interior respondieron ante el Congreso por la crisis de ese sector y las medidas para mitigarla.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuáles son las claves del Presupuesto General de la Nación del 2027?",
+  "enlace": "https://caracol.com.co/2026/10/21/cuales-son-las-claves-del-presupuesto-general-de-la-nacion-del-2027/",
+  "fecha": "2026-10-20T21:13:21-05:00",
+  "palabras": "",
+  "lead": "En Hora 20, los panelistas analizaron los cambios presupuestales que tendrá el Estado colombiano para el próximo año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rap y breakdance Hip Hop al parque Bogotá 2026: programación completa y recomendaciones",
+  "enlace": "https://caracol.com.co/2026/10/21/rap-y-breakdance-hip-hop-al-parque-bogota-2026-cuando-es-programacion-completa-y-recomendaciones/",
+  "fecha": "2026-10-20T21:09:09-05:00",
+  "palabras": "",
+  "lead": "El popular evento que representa la cultura urbana tendrá más de 20 invitados y exponentes a nivel local e internacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Selena Gomez asegura que vapear con nicotina cambió su voz",
+  "enlace": "https://www.lafm.com.co/entretenimiento/selena-gomez-vapear-nicotina-cambio-voz-dejo-el-habito-414607",
+  "fecha": "2026-10-20T21:43:00-05:00",
+  "palabras": "Entretenimiento,Selena Gomez,Vapeadores,Adicciones,Cigarrillos electrónicos,Trastorno bipolar,Psiquiatría,medicamentos,Tratamiento médico,Médicos especialistas",
+  "lead": "Gómez también dirigió un mensaje a quienes contemplan comenzar a vapear. Desde su experiencia, señaló que no vale la pena asumir ese hábito.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Presupuesto General de la Nación del 2027 se cayó por un vicio de trámite en el Congreso?",
+  "enlace": "https://www.lafm.com.co/politica/presupuesto-general-de-la-nacion-2027-se-cayo-vicio-de-tramite-congreso-414610",
+  "fecha": "2026-10-20T21:35:00-05:00",
+  "palabras": "Política,Congreso de la República,Ministerio de Hacienda y Crédito Público,Proyecto de ley",
+  "lead": "Al parecer, en Cámara se aprobó una proposición adicional que no se estudió en el Senado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lula pedirá anular candidatura de Bolsonaro por 'interferencia' de Meta",
+  "enlace": "https://www.lafm.com.co/internacional/lula-pedira-anular-la-candidatura-de-bolsonaro-por-interferencia-de-meta-en-brasil-414609",
+  "fecha": "2026-10-20T21:14:00-05:00",
+  "palabras": "Internacional,Elecciones en el exterior,Elecciones presidenciales,Brasil,Votaciones,Votación",
+  "lead": "Las elecciones serán el domingo 25 de octubre de 2026. Las encuestas muestran una diferencia mínima.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
