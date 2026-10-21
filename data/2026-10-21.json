@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Jairo Bautista, exdirector de Presupuesto del Ministerio de Hacienda, aseguró que la salida jurídica más fácil para el Gobierno es expedir por decreto el texto aprobado en primer debate, tras el error cometido en el segundo debate en plenarias del Congreso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "Juliana Cortázar aseguró que ha reportado otros hechos que comprometerían su seguridad ante la Policía, la Fiscalía y la UNP.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "David José Rosales Castiblanco es señalado por las autoridades de coordinar homicidios y desplazamientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "El Tucu también fue autocrítico tras el empate con Once Caldas, asegurando que Millonarios debe aprender a “cerrar” los partidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "Alejandro Carranza habló con 6AM W de Caracol Radio sobre las últimas declaraciones de la exdirectora del DAPRE, que salpican al expresidente Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Hoy, miércoles 21 de octubre, a las 10:00 de la mañana, se activarán alarmas y se realizarán evacuaciones en diferentes puntos de Bucaramanga. Las autoridades pidieron mantener la calma, pues se trata de un ejercicio para evaluar la respuesta ante posibles emergencias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "El proyecto busca ser retomado como parte de las iniciativas para ampliar la capacidad carcelaria del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "El gobernador de Antioquia le entregó a la ministra de Salud un documento en el que se presenta la estrategia para reorganizar la red pública hospitalaria de esta parte del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "La operación militar permitió incautar 1.149 kilos de cocaína.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "El acto se realizará en inmediaciones del aeropuerto",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "A las 10:00 de la mañana se pondrán a prueba los protocolos de evacuación y respuesta ante posibles emergencias, con la participación de empresas, instituciones educativas, organizaciones comunitarias y entidades públicas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,6 +799,303 @@
   "palabras": "Actualidad,Procuraduría General de la Nación,Indagación preliminar,Investigaciones,Fiscalía General de la Nación,Irregularidades en contratos,Contratación,Polémicos contratos,Suspensión de funcionarios,Conflicto de intereses,investigados",
   "lead": "La actuación se produjo después de que el presidente de la República increpara públicamente a la gobernadora de San Andrés",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Con un ataúd en hombros, hinchas entraron a la fuerza al estadio Américo Montanini en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/con-un-ataud-en-hombros-hinchas-entraron-a-la-fuerza-al-estadio-americo-montanini-en-bucaramanga-rg10",
+  "fecha": "2026-10-21T08:00:57-05:00",
+  "palabras": "Santander, Bucaramanga, Estadio Alfonso López, Noticias de hoy, Blu Radio",
+  "lead": "Cerca de 50 personas entre ellos niños, jóvenes y adultos, ingresaron sin autorización al estadio de Bucaramanga para llevar el ataúd de Carlos Andrés Chapetón, hincha asesinado en Floridablanca. Indersantander confirmó daños en cadenas del escenario deportivo. La despedida se realizó entre…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aprueban reforma administrativa que crea 162 nuevos empleos en la Alcaldía de Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/aprueban-reforma-administrativa-que-crea-162-nuevos-empleos-en-la-alcaldia-de-medellin-rg10",
+  "fecha": "2026-10-21T07:39:57-05:00",
+  "palabras": "Alcaldía de Medellín, Medellín, Valle de Aburrá, Federico Gutiérrez",
+  "lead": "Dentro de la planta que se amplía están 60 agentes de tránsito y 40 bomberos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estudiantes celebran medida en Bogotá: podrían recibir hasta un salario mínimo",
+  "enlace": "https://www.bluradio.com/sociedad/educacion/estudiantes-celebran-medida-en-bogota-podrian-recibir-hasta-un-salario-minimo-so35",
+  "fecha": "2026-10-21T07:23:49-05:00",
+  "palabras": "Bogotá",
+  "lead": "La convocatoria espera entregar más de 1.132 beneficios a bachilleres admitidos en instituciones públicas para el primer semestre de 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 2.000 rayos durante fuerte tormenta en Santander: Vélez, entre las zonas afectadas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/mas-de-2-000-rayos-durante-fuerte-tormenta-en-santander-velez-entre-las-zonas-afectadas-rg10",
+  "fecha": "2026-10-21T07:37:20-05:00",
+  "palabras": "Emergencias por lluvias, Emergencias, Lluvias en Colombia, Tormentas, Santander, Bucaramanga, Norte de Santander, Blu Radio, Noticias de hoy, Santander",
+  "lead": "Durante las tormentas eléctricas, busque refugio en una edificación cerrada o un vehículo con techo rígido. Evite permanecer en ríos, quebradas, zonas abiertas o cerca de árboles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Quién falló en discusión del Presupuesto Nacional? “Está vivo”, dice representante John Édgar Pérez",
+  "enlace": "https://www.bluradio.com/economia/quien-fallo-en-discusion-del-presupuesto-nacional-esta-vivo-dice-representante-john-edgar-perez-pr30",
+  "fecha": "2026-10-21T07:40:26-05:00",
+  "palabras": "Presupuesto Nacional, Ahorro de dinero, Regla fiscal",
+  "lead": "Según precisó el congresista, la inconsistencia principal se dio en el artículo 65, al cual se le dio paso con una proposición avalada que no había sido aprobada ni retirada en la Cámara Alta en los mismos términos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fatman Company presenta “JAQUE”: una nueva colaboración de Angelique y Julhey",
+  "enlace": "https://caracol.com.co/2026/10/21/fatman-company-presenta-jaque-una-nueva-colaboracion-de-angelique-y-julhey/",
+  "fecha": "2026-10-21T07:54:14-05:00",
+  "palabras": "",
+  "lead": "El lanzamiento llega acompañado de un video musical realizado por Camilo Puello",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El vicio de trámite que tumba la Ley de Presupuesto: habla la senadora Esmeralda Hernández",
+  "enlace": "https://caracol.com.co/2026/10/21/el-vicio-de-tramite-que-tumba-la-ley-de-presupuesto-habla-la-senadora-esmeralda-hernandez/",
+  "fecha": "2026-10-21T07:11:40-05:00",
+  "palabras": "",
+  "lead": "El texto aprobado por el Senado es distinto al de la Cámara y no hubo conciliación. El Gobierno dictará por decreto el Presupuesto, pero tendrá que basarse en la proposición inicial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta por siniestros viales en Bello, Antioquia, que dejan este año 33 muertos y 2.354 lesionados",
+  "enlace": "https://caracol.com.co/2026/10/21/alerta-por-siniestros-viales-en-bello-antioquia-que-dejan-este-ano-33-muertos-y-2354-lesionados/",
+  "fecha": "2026-10-21T07:52:17-05:00",
+  "palabras": "",
+  "lead": "Las autoridades de este municipio del norte del Valle de Aburrá encendieron las alarmas por el incremento de la siniestralidad en las vías.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría alerta por futuro de Santurbán, pide que se defina su protección antes de marzo de 2027",
+  "enlace": "https://caracol.com.co/2026/10/21/procuraduria-alerta-por-futuro-de-santurban-pide-que-se-defina-su-proteccion-antes-de-marzo-de-2027/",
+  "fecha": "2026-10-21T07:38:48-05:00",
+  "palabras": "",
+  "lead": "La Procuraduría considera que la reserva temporal podría vencer sin que exista una medida que garantice la continuidad de la protección ambiental del páramo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia vuelve al Grupo Egmont tras dos años de suspensión por filtración confidencial de Petro",
+  "enlace": "https://caracol.com.co/2026/10/21/colombia-vuelve-al-grupo-egmont-tras-dos-anos-de-suspension-por-filtracion-confidencial-de-petro/",
+  "fecha": "2026-10-21T07:34:18-05:00",
+  "palabras": "",
+  "lead": "Este retorno a esta entidad fortalece la capacidad para identificar y analizar operaciones financieras sospechosas vinculadas con el narcotráfico, la corrupción, el crimen organizado y otras actividades ilícitas que buscan aprovechar el sistema financiero para movilizar esos recursos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Citarán a hombre que amenazó a familia con un destornillador por no  dejarlo pasar en un trancón",
+  "enlace": "https://caracol.com.co/2026/10/21/citaran-a-hombre-que-amenazo-a-familia-con-un-destornillador-por-no-dejarlo-pasar-en-un-trancon/",
+  "fecha": "2026-10-21T07:41:15-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Movilidad de Bogotá ya cuenta con los datos del dueño del vehículo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detenido ‘Joselito’ en Mompox con una escopeta sin documentación",
+  "enlace": "https://caracol.com.co/2026/10/21/detenido-joselito-en-mompox-con-una-escopeta-sin-documentacion/",
+  "fecha": "2026-10-21T07:40:40-05:00",
+  "palabras": "",
+  "lead": "El sujeto acumula 16 anotaciones relacionadas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deportistas de San Andrés denuncian abandono y demoras en obras del Coliseo ‘Ginny Bay’ de San Luis",
+  "enlace": "https://caracol.com.co/2026/10/21/deportistas-de-san-andres-denuncian-abandono-y-demoras-en-obras-del-coliseo-ginny-bay-de-san-luis/",
+  "fecha": "2026-10-21T07:40:20-05:00",
+  "palabras": "",
+  "lead": "En 6AM W habló Juan Carlos Mitchell, deportista y habitante de la isla, quien mencionó la importancia de este escenario para los isleños.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fundaciones de pacientes con cáncer en Quindío evidencian afectaciones en el acceso a la salud",
+  "enlace": "https://caracol.com.co/2026/10/21/fundaciones-de-pacientes-con-cancer-en-quindio-evidencian-afectaciones-en-el-acceso-a-la-salud/",
+  "fecha": "2026-10-21T07:34:02-05:00",
+  "palabras": "",
+  "lead": "Fundaciones de pacientes con cáncer en el Quindío evidencian demoras en tratamientos y en la entrega de medicamentos lo que agrava la enfermedad, advierten que ni con tutelas logran una atención oportuna",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Cauca, comunidad arriesgó su vida al retirar tres cilindros sospechosos",
+  "enlace": "https://caracol.com.co/2026/10/21/en-cauca-comunidad-arriesgo-su-vida-al-retirar-tres-cilindros-sospechosos/",
+  "fecha": "2026-10-21T07:28:52-05:00",
+  "palabras": "",
+  "lead": "Habitantes del sector de El Tablón y del asentamiento 9 de Marzo de El Tambo, extrajeron los cilindros y los dejaron sobre la vía, que permanece cerrada preventivamente mientras esperan la llegada de expertos antiexplosivos para verificar el riesgo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía recuperó en Armenia imagen religiosa hurtada en septiembre de la Iglesia de La América",
+  "enlace": "https://caracol.com.co/2026/10/21/policia-recupero-en-armenia-imagen-religiosa-hurtada-en-septiembre-de-la-iglesia-de-la-america/",
+  "fecha": "2026-10-21T07:24:35-05:00",
+  "palabras": "",
+  "lead": "La pieza, avaluada en aproximadamente $45 millones, fue sustraída de la parroquia Nuestra Señora de los Dolores, al occidente de Medellín. La imagen fue localizada en Armenia y devuelta a sus propietarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturado presunto atracador por orden judicial: es acusado de robo en el barrio La María",
+  "enlace": "https://caracol.com.co/2026/10/21/capturado-presunto-atracador-por-orden-judicial-es-acusado-de-robo-en-el-barrio-la-maria/",
+  "fecha": "2026-10-21T07:24:17-05:00",
+  "palabras": "",
+  "lead": "Alias “Spiderman” registra 11 anotaciones judiciales, en su mayoría por el delito de hurto y porte ilegal de armas de fuego",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Avenida 68 alcanza el 90,36 % de avance: cinco grupos se terminarían en Bogotá en 2026",
+  "enlace": "https://caracol.com.co/2026/10/21/avenida-68-alcanza-el-9036-de-avance-cinco-grupos-se-terminarian-en-bogota-en-2026/",
+  "fecha": "2026-10-21T07:21:56-05:00",
+  "palabras": "",
+  "lead": "La entidad proyecta finalizar cinco de sus nueve grupos de obra antes de terminar 2026, mientras que los demás continuarían en ejecución durante 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 3.400 familias en Risaralda tendrán otra oportunidad para cobrar el subsidio de arrendamiento",
+  "enlace": "https://caracol.com.co/2026/10/21/mas-de-3400-familias-en-risaralda-tendran-otra-oportunidad-para-cobrar-el-subsidio-de-arrendamiento/",
+  "fecha": "2026-10-21T07:21:30-05:00",
+  "palabras": "",
+  "lead": "La Gobernación de Risaralda confirmó que se realizará una nueva programación de pagos para permitir que los beneficiarios pendientes puedan recibir el dinero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín adjudicó la construcción del recreo deportivo La Pastora por más de $36.400 millones",
+  "enlace": "https://caracol.com.co/2026/10/21/medellin-adjudico-la-construccion-del-recreo-deportivo-la-pastora-por-mas-de-36400-millones/",
+  "fecha": "2026-10-21T07:19:18-05:00",
+  "palabras": "",
+  "lead": "Cerca de 30.000 habitantes de la comuna 9, Buenos Aires, se beneficiarán con el nuevo escenario, que tendrá piscina, gimnasio, cancha multipropósito, ludoteca y sala gamer.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Clúster de energía solar más grande del país opera al 100% en el Atlántico",
+  "enlace": "https://caracol.com.co/2026/10/21/cluster-de-energia-solar-mas-grande-del-pais-opera-al-100-en-el-atlantico/",
+  "fecha": "2026-10-21T07:18:27-05:00",
+  "palabras": "",
+  "lead": "Con la entrada en operación comercial del parque solar Atlántico, ubicado en Sabanalarga y Usiacurí, Enel Colombia completó un complejo de tres plantas que podría abastecer a cerca de tres millones de personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operativo contra minería ilegal dejó 14 equipos inutilizados del Clan del Golfo en Chocó",
+  "enlace": "https://caracol.com.co/2026/10/21/operativo-contra-mineria-ilegal-dejo-14-equipos-inutilizados-del-clan-del-golfo-en-choco/",
+  "fecha": "2026-10-21T07:14:56-05:00",
+  "palabras": "",
+  "lead": "La maquinaria tenía capacidad de extraer hasta 12.000 gramos de oro al mes, una producción que representaría cerca de 4.874 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 800 empresas participarán en Ibagué del simulacro nacional de respuesta a emergencias",
+  "enlace": "https://caracol.com.co/2026/10/21/mas-de-800-empresas-participaran-en-ibague-del-simulacro-nacional-de-respuesta-a-emergencias/",
+  "fecha": "2026-10-21T07:11:59-05:00",
+  "palabras": "",
+  "lead": "En la capital del Tolima se evaluará la respuesta a un sismo relacionado con el Volcán Cerro Machín.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Restablecen servicio de agua tras superar daño en tubería de Albornoz",
+  "enlace": "https://caracol.com.co/2026/10/21/restablecen-servicio-de-agua-tras-superar-dano-en-tuberia-de-albornoz/",
+  "fecha": "2026-10-21T07:11:49-05:00",
+  "palabras": "",
+  "lead": "Acuacar realizó la intervención con personal técnico y especializado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a rompevidrios que actuaban en la localidad Chapinero: el GPS de un celular los delató",
+  "enlace": "https://caracol.com.co/2026/10/21/capturaron-a-rompevidrios-que-actuaban-en-la-localidad-chapinero-el-gps-de-un-celular-los-delato/",
+  "fecha": "2026-10-21T07:08:23-05:00",
+  "palabras": "",
+  "lead": "En Puente Aranda se han realizado 895 capturas en flagrancia por diferentes delitos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El enviado especial de Trump se reúne con Putin tras la renovada tensión con Zelensky",
+  "enlace": "https://www.lafm.com.co/internacional/steve-witkof-reune-vladimir-putin-rusia-414627",
+  "fecha": "2026-10-21T07:34:00-05:00",
+  "palabras": "Internacional,Rusia,Vladimir Putin,Donald Trump,Estados Unidos",
+  "lead": "Rusia acordó liberar al ciudadano estadounidense Stephen Hubbard, de 74 años.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Declaran calamidad pública en Soacha tras emergencias por lluvias",
+  "enlace": "https://www.lafm.com.co/actualidad/calamidad-publica-soacha-emergencias-lluvias-alcaldia-pide-apoyo-acueducto-bogota-414626",
+  "fecha": "2026-10-21T07:29:00-05:00",
+  "palabras": "Actualidad,Soacha,Inundaciones,Lluvias,desbordamiento,Empresa de Acueducto y Alcantarillado de Bogotá,Alcantarillado,Barrios afectados,Urgencia manifiesta,Suspensión de contratos,Manejo de residuos",
+  "lead": "La medida busca destinar recursos para atender las emergencias por las precipitaciones en el municipio.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
