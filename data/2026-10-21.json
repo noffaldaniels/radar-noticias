@@ -469,7 +469,7 @@
   "palabras": "Bucaramanga, Santander, Metrolínea, Ministerio de Transporte, Blu Radio",
   "lead": "La modificación del convenio facilitará inversiones en buses nuevos y fortalecer el sistema de transporte masivo del área metropolitana de Bucaramanga, Metrolínea.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "Accidente de tránsito, Muerte menores",
   "lead": "Los siniestros ocurrieron en el barrio La Paz, en Bosa, y en la autopista Sur. Un adolescente resultó gravemente herido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "Los desórdenes públicos llevaron al Ejecutivo a ordenar toques de queda parciales en varias ciudades que, por segunda noche consecutiva, han permitido mantener la calma en el país de forma generalizada.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "Dos uniformados presentan heridas de gravedad",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "La medida será hasta finalizar el año en la vereda Campo Tres, de Tibú.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "El mandatario fue privado de la libertad en un operativo de la Policía Nacional en Bucaramanga; entre tanto, en Villanueva, fue capturado el concejal Fredy Pineda.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "En caso de una derrota en la última fecha, el Heroico deberá esperar otros resultados",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "La exfuncionaria fue capturada en Armenia para que cumpla la condena a cinco años de prisión, condena confirmada por la Corte Suprema de Justicia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Un sujeto de 19 años quien habría ofrecido dinero y armas a dos menores para integrar un grupo armado ilegal fue capturado en Popayán.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Comisión indaga prestación de servicios en el centro médico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "La iniciativa pretende brindar herramientas a la Gobernación para desarrollar campañas de concientización que promuevan el cuidado de la salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "El presidente había dicho que renunció a la Embajada aunque Brasil ya había otorgado el beneplácito.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "La Alcaldía busca recursos nacionales para mejorar la movilidad rural y fortalecer la conexión vial de la capital boyacense.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Las medidas judiciales recaen sobre responsables de EPS e IPS que no cumplen tutelas para garantizar la atención de los usuarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Comunidades generan nuevos desplazamientos forzados",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "La iniciativa tiene una inversión estimada de $152.500 millones e incluye obras de urbanismo, parques, vías internas y redes de servicios públicos en Suan, Piojó, Manatí y Usiacurí.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "La comitiva humanitaria había sacado a más de 300 habitantes de tres veredas cuando fue atacada con ráfagas de fusil",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Conductores de taxis con matrícula venezolana estarían enfrentando presuntas limitaciones de circulación.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,6 +667,138 @@
   "palabras": "",
   "lead": "La empresa recolectora cuenta con cerca de 500 operarios, instala cestas públicas y ofrece recolección gratuita de escombros.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Presupuesto de 2027 por decreto impactaría en préstamo que Colombia busca con FMI? Experto responde",
+  "enlace": "https://caracol.com.co/2026/10/21/presupuesto-de-2027-por-decreto-impactaria-en-prestamo-que-colombia-busca-con-fmi-experto-responde/",
+  "fecha": "2026-10-21T06:48:38-05:00",
+  "palabras": "",
+  "lead": "Jairo Bautista, exdirector de Presupuesto del Ministerio de Hacienda, aseguró que la salida jurídica más fácil para el Gobierno es expedir por decreto el texto aprobado en primer debate, tras el error cometido en el segundo debate en plenarias del Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Yo todo el tiempo estuve dentro de la habitación, muerta del susto”, Gerente hospital Chiquinquirá",
+  "enlace": "https://caracol.com.co/2026/10/21/yo-todo-el-tiempo-estuve-dentro-de-la-habitacion-muerta-del-susto-gerente-hospital-chiquinquira/",
+  "fecha": "2026-10-21T06:59:13-05:00",
+  "palabras": "",
+  "lead": "Juliana Cortázar aseguró que ha reportado otros hechos que comprometerían su seguridad ante la Policía, la Fiscalía y la UNP.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayó ‘Brayan Veneco’, cabecilla del frente 4 de las disidencias Farc en Antioquia y sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/21/cayo-brayan-veneco-cabecilla-del-frente-4-de-las-disidencias-farc-en-antioquia-y-sur-de-bolivar/",
+  "fecha": "2026-10-21T06:57:31-05:00",
+  "palabras": "",
+  "lead": "David José Rosales Castiblanco es señalado por las autoridades de coordinar homicidios y desplazamientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rodrigo Contreras, inconforme con el árbitro: “Se nos escapa por cosas que no dependen de nosotros”",
+  "enlace": "https://caracol.com.co/2026/10/21/rodrigo-contreras-inconforme-con-el-arbitro-se-nos-escapa-por-cosas-que-no-dependen-de-nosotros/",
+  "fecha": "2026-10-21T06:54:30-05:00",
+  "palabras": "",
+  "lead": "El Tucu también fue autocrítico tras el empate con Once Caldas, asegurando que Millonarios debe aprender a “cerrar” los partidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alejandro Carranza, abogado de Gustavo Petro, reaccionó en 6AM W a declaraciones de Angie Rodríguez",
+  "enlace": "https://caracol.com.co/2026/10/21/alejandro-carranza-abogado-de-gustavo-petro-reacciona-en-6am-w-a-declaraciones-de-angie-rodriguez/",
+  "fecha": "2026-10-21T06:55:08-05:00",
+  "palabras": "",
+  "lead": "Alejandro Carranza habló con 6AM W de Caracol Radio sobre las últimas declaraciones de la exdirectora del DAPRE, que salpican al expresidente Gustavo Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bucaramanga participará en el Simulacro Nacional de Emergencias: así será la jornada",
+  "enlace": "https://caracol.com.co/2026/10/21/bucaramanga-participara-en-el-simulacro-nacional-de-emergencias-asi-sera-la-jornada/",
+  "fecha": "2026-10-21T06:54:32-05:00",
+  "palabras": "",
+  "lead": "Hoy, miércoles 21 de octubre, a las 10:00 de la mañana, se activarán alarmas y se realizarán evacuaciones en diferentes puntos de Bucaramanga. Las autoridades pidieron mantener la calma, pues se trata de un ejercicio para evaluar la respuesta ante posibles emergencias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación del Atlántico presenta a De la Espriella megacárcel para 11.500 reclusos",
+  "enlace": "https://caracol.com.co/2026/10/21/gobernacion-del-atlantico-presenta-a-de-la-espriella-megacarcel-para-11500-reclusos/",
+  "fecha": "2026-10-21T06:53:34-05:00",
+  "palabras": "",
+  "lead": "El proyecto busca ser retomado como parte de las iniciativas para ampliar la capacidad carcelaria del país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia presentó a Minsalud una estrategia para reorganizar su red pública hospitalaria",
+  "enlace": "https://caracol.com.co/2026/10/21/antioquia-presento-a-minsalud-una-estrategia-para-reorganizar-su-red-publica-hospitalaria/",
+  "fecha": "2026-10-21T06:52:46-05:00",
+  "palabras": "",
+  "lead": "El gobernador de Antioquia le entregó a la ministra de Salud un documento en el que se presenta la estrategia para reorganizar la red pública hospitalaria de esta parte del país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen laboratorio del ELN con más de una tonelada de cocaína en Sardinata",
+  "enlace": "https://caracol.com.co/2026/10/21/destruyen-laboratorio-del-eln-con-mas-de-una-tonelada-de-cocaina-en-sardinata/",
+  "fecha": "2026-10-21T06:52:31-05:00",
+  "palabras": "",
+  "lead": "La operación militar permitió incautar 1.149 kilos de cocaína.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hoy se inaugura el monumento a Camilo Daza",
+  "enlace": "https://caracol.com.co/2026/10/21/hoy-se-inaugura-el-monumento-a-camilo-daza/",
+  "fecha": "2026-10-21T06:52:10-05:00",
+  "palabras": "",
+  "lead": "El acto se realizará en inmediaciones del aeropuerto",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pereira participa hoy en el Simulacro Nacional de Emergencias",
+  "enlace": "https://caracol.com.co/2026/10/21/pereira-participa-hoy-en-el-simulacro-nacional-de-emergencias/",
+  "fecha": "2026-10-21T06:48:02-05:00",
+  "palabras": "",
+  "lead": "A las 10:00 de la mañana se pondrán a prueba los protocolos de evacuación y respuesta ante posibles emergencias, con la participación de empresas, instituciones educativas, organizaciones comunitarias y entidades públicas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría evalúa posible suspensión de gobernadora de San Andrés",
+  "enlace": "https://www.lafm.com.co/actualidad/procuraduria-investigacion-contratos-norbert-vonblon-pomare-esposo-elizabeth-jay-pang-414621",
+  "fecha": "2026-10-21T07:02:00-05:00",
+  "palabras": "Actualidad,Procuraduría General de la Nación,Indagación preliminar,Investigaciones,Fiscalía General de la Nación,Irregularidades en contratos,Contratación,Polémicos contratos,Suspensión de funcionarios,Conflicto de intereses,investigados",
+  "lead": "La actuación se produjo después de que el presidente de la República increpara públicamente a la gobernadora de San Andrés",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
