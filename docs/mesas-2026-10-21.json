@@ -314,6 +314,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El Gobierno trasladó 91 presos peligrosos de cárceles del Caribe a otros penales del país.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:30",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El presidente de Argentina, Javier Milei, tildó de dictador y ladrón al presidente del gobierno español, Pedro Sánchez.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:30",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se cayó todo el trámite del presupuesto para el año entrante en las plenarias de Senado y Cámara, debido a un error de procedimiento y diferencias en textos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:30",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Este martes habrá una declaración del Ministro de Hacienda, Ricardo Bonilla, desde la Casa de Nariño sobre la posición del gobierno respecto al error de procedimiento en el presupuesto.",
+   "resaltar": false
   }
  ],
  "avisos": []
