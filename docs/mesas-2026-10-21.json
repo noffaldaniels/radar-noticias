@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "05:32",
+   "quien": "Mauricio Collazos, periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que la Policía Judicial y la Fiscalía capturaron en Pereira a un hombre señalado de amenazar de muerte por Instagram a la primera dama y su familia. La Fiscalía le imputará el delito de amenazas agravadas por hechos ocurridos el pasado 18 de octubre.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:36",
+   "quien": "Diana Alvarado, periodista de Noticias La FM con Juan Lozano",
+   "que": "Reportó que la Personería de Bogotá abrió investigación disciplinaria contra el director del IDRD y otros directivos por presuntas omisiones, falta de planeación y fallas de supervisión en los contratos de concesión y mantenimiento del estadio El Campín.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:37",
+   "quien": "Diana Alvarado, periodista de Noticias La FM con Juan Lozano",
+   "que": "Reveló que el multicampus de Suba, anunciado por el gobierno de Gustavo Petro, registra apenas un 27% de avance físico, haciendo imposible su entrega programada para este año. Además, advirtió que no se ha formalizado el convenio con las universidades públicas que asumirán la operación académica.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
