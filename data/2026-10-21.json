@@ -3857,7 +3857,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 21 de octubre de 2026 en Mañanas Blu.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3868,7 +3868,7 @@
   "palabras": "Playas, que hacer en curazao, turismo en curazao, viajar a curazao desde colombia, vuelos a curazao",
   "lead": "Entre recorridos por ciudades coloridas, excursiones marítimas, deportes de aventura y turismo sostenible, este destino ofrece alternativas para disfrutar el Caribe de una forma diferente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3879,7 +3879,7 @@
   "palabras": "Gustavo Petro, Dapre",
   "lead": "El funcionario asegura que las mujeres tenían contratos de prestación de servicio en la Casa de Nariño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3890,7 +3890,7 @@
   "palabras": "Cúcuta Deportivo, Liga BetPlay, Entrevista, Atlético Nacional, Cúcuta, Cúcuta Deportivo, Cúcuta gana a Nacional, Nicolás Chiesa, liga colombiana",
   "lead": "El motilón subió hasta la octava posición de la liga con 21 puntos y se acerca a la clasificación de cuadrangulares.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3901,7 +3901,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Super Astro Sol",
   "lead": "El Super Astro Sol juega de lunes a sábado a las 4:00 p. m. Los participantes pueden consultar el número ganador y el signo zodiacal del sorteo, así como verificar las condiciones para reclamar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3912,7 +3912,7 @@
   "palabras": "Luis Díaz, Noticias de hoy, Bayern Múnich, Selección Colombia",
   "lead": "El colombiano tuvo que ser sustituido luego de haber ingresado al campo del Allianz Arena desde el banco de suplente durante el partido de este miércoles.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3923,7 +3923,7 @@
   "palabras": "MOE",
   "lead": "La directora de la Misión alertó sobre focos de violencia, desinformación electoral y riesgos en el uso de los recursos destinados a la reconstrucción tras el terremoto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3934,7 +3934,7 @@
   "palabras": "",
   "lead": "El evento contará con la participación de más de 350 empresas, así como inversionistas y aliados financieros para consolidar negocios y conocimiento. Consulte aquí todos los detalles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3945,7 +3945,7 @@
   "palabras": "",
   "lead": "La culminación de esta infraestructura beneficiará a más de 1.400 estudiantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3956,7 +3956,7 @@
   "palabras": "",
   "lead": "La jornada incluyó la limpieza del sector Ricaurte y la siembra de 1.000 plántulas de mangle Zaragoza",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3967,7 +3967,7 @@
   "palabras": "",
   "lead": "Daniel Briceño tuvo que subir rápidamente al atril para evitar una mayor confrontación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3978,7 +3978,7 @@
   "palabras": "",
   "lead": "El abogado de la víctima, Julio Rodríguez Del Villar, explicó en Dos Puntos las penas que enfrentaría el acusado de agresión sexual",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3989,7 +3989,7 @@
   "palabras": "",
   "lead": "En desarrollo...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4000,7 +4000,7 @@
   "palabras": "",
   "lead": "El funcionario aseguró que habrían sido presionadas a través de contratos de prestación de servicios. También habló de “parrandas” en la Casa de Nariño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4011,7 +4011,7 @@
   "palabras": "",
   "lead": "Más de 1.760 estudiantes participaron en el ejercicio realizado en la Normal Superior María Auxiliadora. La jornada también se desarrolló en la Alcaldía y más de 180 empresas y entidades públicas y privadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4022,7 +4022,7 @@
   "palabras": "",
   "lead": "La directora general, Myriam Carolina Martínez Cárdenas, se reunió con los equipos profesionales en Santa Marta para identificar dificultades y revisar acciones que permitan avanzar en la restitución de tierras.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4033,7 +4033,7 @@
   "palabras": "",
   "lead": "Al menos seis detonaciones se registraron en el barrio Villa Esperanza.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4044,7 +4044,7 @@
   "palabras": "",
   "lead": "La discusión se centrará en las posibilidades del territorio para aportar al crecimiento nacional, los retos tras el terremoto del 10 de agosto y las oportunidades para crecer a futuro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4055,7 +4055,7 @@
   "palabras": "",
   "lead": "“Con profunda tristeza, debo anunciar que necesito apartarme de las presentaciones en vivo durante un tiempo para ocuparme de un problema de salud repentino y bastante serio”, afirmó.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4066,7 +4066,7 @@
   "palabras": "",
   "lead": "Le contamos cuáles son los cambios puntuales que tendrá la actualización del reglamento para aplicar a las vacantes para docentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4077,7 +4077,7 @@
   "palabras": "",
   "lead": "Los habitantes solicitaron que se revisen las garantías de la obra y que, si corresponde, se hagan efectivas las pólizas para exigir las reparaciones pertinentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4088,7 +4088,7 @@
   "palabras": "Economía,Pensión en Colombia,Pensión,Colpensiones,Asofondos,Superintendencia Financiera de Colombia,jubilación,Seguridad social",
   "lead": "El presidente de Asofondos, Andrés Velasco, dijo que los tiempos para resolver las solicitudes están regulados por la ley",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4099,7 +4099,7 @@
   "palabras": "Deportes,Luis Díaz,Jugador lesionado,Selección Colombia,Liga de Campeones,Bayern Múnich,Selección Chile",
   "lead": "El delantero de la Selección Colombia volvió a resentirse de una molestia muscular que lo sacó de la cancha ante Arsenal en el Allianz Arena.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4110,7 +4110,7 @@
   "palabras": "Entretenimiento,Alcaldía de Bogotá,Bogotá,Idartes,recursos públicos,Inversiones,Recaudo fiscal,Impuestos,Patrimonio cultural,Teatro Mayor Julio Mario Santo Domingo,Teatro Nacional",
   "lead": "Bogotá invertirá $20.000 millones en 14 proyectos de infraestructura cultural con la LEP 2026, para mejorar teatros y artes escénicas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4121,7 +4121,7 @@
   "palabras": "Sociedad,Halloween,Animales,cuidados especiales,Colombia,Octubre",
   "lead": "El hallazgo de gatos negros en el Cementerio Central de Bogotá reavivó las alertas sobre su protección durante Halloween.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4132,7 +4132,7 @@
   "palabras": "Política,Germán Vargas Lleras,Cambio Radical,Gustavo Petro,Salvatore Mancuso,Abelardo de la Espriella,Paramilitares,Acusaciones,Política internacional,Álvaro Uribe,Corrupción",
   "lead": "La denuncia es respaldada por toda la familia Vargas Lleras y el Partido Cambio Radical.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4143,7 +4143,7 @@
   "palabras": "Política,Gustavo Petro,Irregularidades en contratos,Polémicos contratos,Acusaciones,Denuncias por abuso,Misoginia,Violencia de género",
   "lead": "Asegura que la Casa de Nariño se utilizó para “parrandear” y llevar mujeres a que pudieran estar con el entonces mandatario.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4153,6 +4153,380 @@
   "fecha": "2026-10-21T14:32:00-05:00",
   "palabras": "Sociedad,Ciencia,Células madre,Investigaciones,Científicos,Envejecimiento",
   "lead": "La ciencia busca detener el envejecimiento, tratando con la base del cuerpo: las células.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presupuesto 2027 saldrá por decreto tras error: 21 de octubre 2026, Meridiano Blu, programa completo",
+  "enlace": "https://www.bluradio.com/meridiano-blu/presupuesto-2027-saldra-por-decreto-tras-error-21-de-octubre-2026-meridiano-blu-programa-completo-pr30",
+  "fecha": "2026-10-21T16:09:59-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué significa un cáncer de mama metastásico y cómo cambia el tratamiento según cada paciente?",
+  "enlace": "https://www.bluradio.com/salud/que-significa-un-cancer-de-mama-metastasico-y-como-cambia-el-tratamiento-segun-cada-paciente-so35",
+  "fecha": "2026-10-21T16:35:40-05:00",
+  "palabras": "Cáncer de mama",
+  "lead": "Los avances en medicina personalizada y nuevas terapias están ampliando las alternativas para las pacientes, mientras Colombia enfrenta retos para garantizar diagnósticos oportunos y acceso equitativo a la atención.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alertan sobre nuevo y peligroso reto viral que afecta a niños y jóvenes: “Desaparecer por 48 horas”",
+  "enlace": "https://www.bluradio.com/sociedad/alertan-sobre-nuevo-y-peligroso-reto-viral-que-afecta-a-ninos-y-jovenes-desaparecer-por-48-horas-so35",
+  "fecha": "2026-10-21T16:13:51-05:00",
+  "palabras": "Viral, Redes sociales, Paraguay, Argentina, reto viral, retos en redes sociales",
+  "lead": "Autoridades policiales emitieron una alerta sobre un reto viral que consiste en que niños y adolescentes abandonen sus hogares y permanezcan desaparecidos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevas emergencias en Fusagasugá por lluvias: videos de inundaciones",
+  "enlace": "https://www.bluradio.com/sociedad/educacion/nuevas-emergencias-en-fusagasuga-por-lluvias-videos-de-inundaciones-so35",
+  "fecha": "2026-10-21T16:22:12-05:00",
+  "palabras": "Fusagasugá, Emergencias por lluvias, Lluvias en Colombia, Fusagasugá, emergencia por lluvias, lluvias en colombia",
+  "lead": "Las lluvias generaron el desbordamiento súbito de una quebrada, afectando viviendas cercanas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Condenaron a los primeros dos implicados en la desaparición de Andrés Camilo Peláez en Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/condenaron-a-los-primeros-dos-implicados-en-la-desaparicion-de-andres-camilo-pelaez-en-antioquia-rg10",
+  "fecha": "2026-10-21T16:19:55-05:00",
+  "palabras": "Antioquia, Justicia, Noticias de hoy, Desaparecidos",
+  "lead": "Alias ‘El Cabo’ y ‘Se lo Juro’ fueron juzgados bajo la ley de Infancia y Adolescencia, pues al momento de los hechos tenían 17 años de edad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bogotá ofrecerá evaluaciones neuropsicológicas gratuitas a personas de bajos recursos",
+  "enlace": "https://www.bluradio.com/salud/bogota-ofrecera-evaluaciones-neuropsicologicas-gratuitas-a-personas-de-bajos-recursos-rg10",
+  "fecha": "2026-10-21T16:24:13-05:00",
+  "palabras": "Bogotá, Alzhéimer",
+  "lead": "El Centro de Atención Psicológica de la Universidad de San Buenaventura realizará valoraciones a niños, jóvenes y adultos con alzhéimer, otras demencias, autismo y dificultades de aprendizaje. Los interesados deberán acreditar sus condiciones económicas y consultar la disponibilidad de cupos a…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Victoria del Cúcuta sacude la liga: 21 de octubre 2026 - Blog Deportivo programa completo",
+  "enlace": "https://www.bluradio.com/blog-deportivo/victoria-del-cucuta-sacude-la-liga-21-de-octubre-2026-blog-deportivo-programa-completo-pr30",
+  "fecha": "2026-10-21T17:03:18-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este miércoles.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Renuncian Eduard Sánchez y Omar Lengerke para aspirar a la Gobernación de Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/renuncian-eduard-sanchez-y-omar-lengerke-para-aspirar-a-la-gobernacion-de-santander-rg10",
+  "fecha": "2026-10-21T16:31:31-05:00",
+  "palabras": "Política",
+  "lead": "Empiezan las movidas políticas de cara a las elecciones regionales de 2027 en el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sergio Rincón, presidente de Bavaria, entre los cinco líderes más admirados de Colombia",
+  "enlace": "https://www.bluradio.com/economia/sergio-rincon-presidente-de-bavaria-entre-los-cinco-lideres-mas-admirados-de-colombia-rg10",
+  "fecha": "2026-10-21T16:33:04-05:00",
+  "palabras": "Bavaria",
+  "lead": "El directivo subió cuatro posiciones en el ranking Merco Líderes 2026 frente a la edición anterior. Está al frente de la cervecera desde 2022.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿El cáncer de mama puede ser hereditario?",
+  "enlace": "https://www.bluradio.com/salud/el-cancer-de-mama-puede-ser-hereditario-so35",
+  "fecha": "2026-10-21T16:51:00-05:00",
+  "palabras": "Cáncer de mama, cáncer de mama",
+  "lead": "Los especialistas recomiendan consultar al personal de salud ante señales de alerta, conocer los antecedentes médicos de la familia y solicitar orientación profesional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fundación Retorno Vital advierte que el plan de choque en salud requiere más recursos",
+  "enlace": "https://www.bluradio.com/salud/fundacion-retorno-vital-advierte-que-el-plan-de-choque-en-salud-requiere-mas-recursos-rg10",
+  "fecha": "2026-10-21T16:55:28-05:00",
+  "palabras": "Sistema de salud, Gobierno nacional, Superintendencia de Salud",
+  "lead": "Jorge García, director de la Fundación Retorno Vital, advirtió que el plan de choque del Gobierno Nacional debe estar respaldado por recursos económicos para responder a las necesidades de los pacientes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comerciantes de Tunja elegirán nueva Junta Directiva de la Cámara de Comercio el 3 de diciembre",
+  "enlace": "https://caracol.com.co/2026/10/21/comerciantes-de-tunja-elegiran-nueva-junta-directiva-de-la-camara-de-comercio-el-3-de-diciembre/",
+  "fecha": "2026-10-21T17:05:55-05:00",
+  "palabras": "",
+  "lead": "Alrededor de 1.252 afiliados podrán participar en la elección de seis integrantes de la Junta Directiva. Por primera vez, la votación también podrá realizarse de manera virtual.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad de Restitución de Tierras revisó en Santa Marta los retos para atender a las víctimas",
+  "enlace": "https://caracol.com.co/2026/10/21/unidad-de-restitucion-de-tierras-reviso-en-santa-marta-los-retos-para-atender-a-las-victimas/",
+  "fecha": "2026-10-21T17:05:28-05:00",
+  "palabras": "",
+  "lead": "La directora general de la entidad, Myriam Carolina Martínez Cárdenas, se reunió en Santa Marta con el equipo territorial para revisar las dificultades en la atención a las víctimas y las acciones para avanzar en los procesos de restitución de predios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Rechazamos intento de instrumentalizar el proceso”: excomandantes AUC sobre ‘Pacto de Valledupar’",
+  "enlace": "https://caracol.com.co/2026/10/21/rechazamos-intento-de-instrumentalizar-el-proceso-excomandantes-auc-sobre-pacto-de-valledupar/",
+  "fecha": "2026-10-21T17:02:32-05:00",
+  "palabras": "",
+  "lead": "“Rechazamos cualquier intento de instrumentalizar políticamente este proceso”, así se pronunciaron excomandantes paramilitares sobre el fallido ‘Pacto de Valledupar’ y afirman que el único documento que reconocen es el firmado y leído oficialmente al término de las reuniones llevadas a cabo en octubre de 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colegios de La Mojana y Villavicencio ganadores de los Premios Escuelas Sostenibles 2026",
+  "enlace": "https://caracol.com.co/2026/10/21/colegios-de-la-mojana-y-villavicencio-ganadores-de-los-premios-escuelas-sostenibles-2026/",
+  "fecha": "2026-10-21T17:03:37-05:00",
+  "palabras": "",
+  "lead": "La cuarta edición del galardón entregado por la Fundación Santillana reconoció el liderazgo nacional en gestión ambiental del Gimnasio Los Ocobos (GLO) en el Meta y de la Institución Educativa San Marcos en Sucre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Turbaco fortaleció la educación rural con la entrega de una nueva aula en San José de Chiquito",
+  "enlace": "https://caracol.com.co/2026/10/21/turbaco-fortalecio-la-educacion-rural-con-la-entrega-de-una-nueva-aula-en-san-jose-de-chiquito/",
+  "fecha": "2026-10-21T17:01:40-05:00",
+  "palabras": "",
+  "lead": "La obra benefició a estudiantes rurales y se ejecutó con apoyo de la Unidad para las Víctimas y la Alcaldía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tribunal confirmó sanción a gerente de Metrolínea por abandono del portal PQP",
+  "enlace": "https://caracol.com.co/2026/10/21/tribunal-confirmo-sancion-a-gerente-de-metrolinea-por-abandono-del-portal-pqp/",
+  "fecha": "2026-10-21T16:54:27-05:00",
+  "palabras": "",
+  "lead": "También se revocó la sanción al alcalde de Floridablanca y al comandante de la Policía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuál es la fórmula para calcular los intereses moratorios según la DIAN? Elementos y aspectos clave",
+  "enlace": "https://caracol.com.co/2026/10/21/cual-es-la-formula-para-calcular-los-intereses-moratorios-segun-la-dian-elementos-y-aspectos-clave/",
+  "fecha": "2026-10-21T16:59:39-05:00",
+  "palabras": "",
+  "lead": "Le contamos cuáles son los motivos por los que se pueden generar intereses moratorios ante la DIAN y cómo calcular el valor.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Turbaco inauguró la Calle de los Seis Mil y avanzó en la recuperación de su malla vial",
+  "enlace": "https://caracol.com.co/2026/10/21/turbaco-inauguro-la-calle-de-los-seis-mil-y-avanzo-en-la-recuperacion-de-su-malla-vial/",
+  "fecha": "2026-10-21T16:57:26-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía aportó el 50 % de los recursos para la recuperación vial junto a la Gobernación de Bolívar",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Veolia anunció posibles retrasos en la recolección de residuos por restricciones en Mamonal",
+  "enlace": "https://caracol.com.co/2026/10/21/veolia-anuncio-posibles-retrasos-en-la-recoleccion-de-residuos-por-restricciones-en-mamonal/",
+  "fecha": "2026-10-21T16:48:56-05:00",
+  "palabras": "",
+  "lead": "La empresa habilitó rutas alternas para mantener el servicio de aseo en Cartagena",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Creciente súbita de la quebrada El Secreto ocasionó emergencia en el Cañón del Combeima",
+  "enlace": "https://caracol.com.co/2026/10/21/creciente-subita-de-la-quebrada-el-secreto-ocasiono-emergencia-en-el-canon-del-combeima/",
+  "fecha": "2026-10-21T16:38:34-05:00",
+  "palabras": "",
+  "lead": "Los organismos de socorro de Ibagué adelantan el acompañamiento a las familias que resultaron damnificadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así reconstruyó la Fiscalía el crimen de Donovan Balanta tras abusos de policías",
+  "enlace": "https://caracol.com.co/2026/10/21/asi-reconstruyo-la-fiscalia-el-crimen-de-donovan-balanta-tras-abusos-de-policias/",
+  "fecha": "2026-10-21T16:32:27-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía entregó los detalles de la muerte de Donovan Balanta en un centro médico en Soacha, Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inician pagos de Ingreso Mínimo Garantizado: ¿Quiénes lo reciben y cuánto es el monto?",
+  "enlace": "https://caracol.com.co/2026/10/21/inician-pagos-de-ingreso-minimo-garantizado-quienes-lo-reciben-y-cuanto-es-el-monto/",
+  "fecha": "2026-10-21T16:36:50-05:00",
+  "palabras": "",
+  "lead": "El apoyo está dirigido a personas en situación de pobreza extrema, moderada y vulnerabilidad que residen en Bogotá. Conozca si ha sido seleccionado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ocho deslizamientos bloquean varias carreteras en el Área Metropolitana del Centro - Sur de Caldas",
+  "enlace": "https://caracol.com.co/2026/10/21/ocho-deslizamientos-bloquean-varias-carreteras-en-el-area-metropolitana-del-centro-sur-de-caldas/",
+  "fecha": "2026-10-21T16:10:20-05:00",
+  "palabras": "",
+  "lead": "Los casos se presentan en Manizales y Villamaría.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Luis Díaz salió lesionado y prendió las alarmas en el empate del Bayern por Champions",
+  "enlace": "https://caracol.com.co/2026/10/21/video-luis-diaz-salio-lesionado-y-prendio-las-alarmas-en-el-empate-del-bayern-por-champions/",
+  "fecha": "2026-10-21T16:24:39-05:00",
+  "palabras": "",
+  "lead": "El colombiano no empezó el partido como titular por precaución, pues había terminado con molestias el juego del fin de semana.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena evaluó su capacidad de respuesta durante el Simulacro Nacional 2026",
+  "enlace": "https://caracol.com.co/2026/10/21/cartagena-evaluo-su-capacidad-de-respuesta-durante-el-simulacro-nacional-2026/",
+  "fecha": "2026-10-21T16:08:10-05:00",
+  "palabras": "",
+  "lead": "508 entidades y empresas participaron en la jornada",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Médico advierte sobre dietas restrictivas: provoca efecto rebote",
+  "enlace": "https://www.lafm.com.co/sociedad/dietas-restrictivas-ayuno-intermitente-alterar-hormonas-efecto-rebote-medico-advierte-414709",
+  "fecha": "2026-10-21T16:51:00-05:00",
+  "palabras": "Sociedad,Ayuno intermitente,Cáncer,Oncología,Quimioterapias,Nutrición,Dietas,perdida de peso,Estilo de vida,Desinformación,Obesidad",
+  "lead": "El médico Mauricio Londoño, explicó que existen investigaciones sobre la restricción calórica durante los tratamientos oncológicos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lluvias provocan emergencias en Cañón del Combeima de Ibagué",
+  "enlace": "https://www.lafm.com.co/actualidad/ibague-intensas-lluvias-provocan-emergencias-canon-del-combeima-414711",
+  "fecha": "2026-10-21T16:20:00-05:00",
+  "palabras": "Actualidad,Ibagué,Emergencia,Lluvias",
+  "lead": "A raíz de la emergencia se presentan interrupciones o variación en el suministro de agua potable en la capital tolimense.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Radican proyecto de ‘Vivienda sin cuota inicial’ en el Congreso",
+  "enlace": "https://www.lafm.com.co/politica/proyecto-de-ley-vivienda-sin-cuota-inicial-414710",
+  "fecha": "2026-10-21T16:16:00-05:00",
+  "palabras": "Política,Partido Conservador,Proyecto de ley,vivienda,Vivienda de interés social,Ministerio de Vivienda,alivios financieros,Ayudas a familias,Madres cabeza de familia,zonas rurales,arriendos en Colombia",
+  "lead": "La iniciativa beneficiaría a las familias con ingresos de hasta dos salarios mínimos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MOE pide política de seguridad para elecciones de 2027",
+  "enlace": "https://www.lafm.com.co/politica/elecciones-2027-moe-alerta-violencia-politica-seguridad-electoral-414708",
+  "fecha": "2026-10-21T16:03:00-05:00",
+  "palabras": "Política,Elecciones en Colombia,Trashumancia electoral,jornada electoral,registraduría,Registraduría Nacional del Estado Civil,riesgo electoral,actos violentos,Unión Europea",
+  "lead": "La MOE advierte para las elecciones locales 2027: el 31 de octubre inicia la inscripción de cédulas y vigilarán trashumancia y violencia contra liderazgos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Juanita Cataño denuncia hostigamiento de Elmer Montaña",
+  "enlace": "https://www.lafm.com.co/actualidad/cali-secretaria-de-participacion-denuncia-hostigamiento-durante-operativo-en-el-centro-414692",
+  "fecha": "2026-10-21T16:00:00-05:00",
+  "palabras": "Actualidad,Valle del Cauca,Cali, Colombia,Alcaldía de Cali,Alejandro Eder,acoso,Hostigamiento",
+  "lead": "La funcionaria acudió a la Fiscalía para poner en conocimiento lo ocurrido y rechazó los señalamientos y ataques contra su equipo de trabajo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Finalizaron obras del Parque Biblioteca Santo Domingo Savio",
+  "enlace": "https://www.lafm.com.co/sociedad/fico-gutierrez-confirma-la-finalizacion-del-parque-biblioteca-santo-domingo-savio-tras-11-anos-de-espera-414705",
+  "fecha": "2026-10-21T15:47:00-05:00",
+  "palabras": "Sociedad,Bibliotecas,Federico Gutiérrez,Educación,Medellín, Colombia",
+  "lead": "El alcalde de Medellín entregó tres estructuras de la Biblioteca España que llegaron al 100 % de ejecución.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Torneos se queda con Libertadores y Sudamericana hasta 2030",
+  "enlace": "https://www.lafm.com.co/deportes/conmebol-confirma-que-torneos-producira-libertadores-y-sudamericana-414703",
+  "fecha": "2026-10-21T15:42:00-05:00",
+  "palabras": "Deportes,Conmebol,Fútbol,Copa Libertadores,Copa Conmebol Sudamericana,Copa Sudamericana,Recopa Sudamericana",
+  "lead": "La productora argentina ha tomado el control de la transmisión de los torneos internacionales de clubes del continente.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Eva Ferrer no aportó pruebas en primera sesión de declaración ante la Fiscalía",
+  "enlace": "https://www.lafm.com.co/orden-publico/eva-ferrer-no-aporto-pruebas-en-primera-sesion-de-declaracion-ante-la-fiscalia-414713",
+  "fecha": "2026-10-21T13:30:00-05:00",
+  "palabras": "Orden Público,Verónica Alcocer,Fiscalía General de la Nación,Acusaciones,investigados,Funcionarios denunciados,Conflicto de intereses,Nombramientos,Asesores,Funcionarios públicos",
+  "lead": "La Fiscalía evalúa la solicitud de la defensa de otorgarle medida de protección a Eva Ferrer, tras insistir en que viene siendo objeto de amenazas de muer....",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
