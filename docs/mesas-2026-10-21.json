@@ -237,6 +237,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Fiscalía compulsó copias a la Comisión de Investigación y Acusaciones de la Cámara para investigar a Gustavo Petro por el denominado Pacto de Valledupar.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:20",
+   "quien": "Esmeralda Hernández, senadora del Pacto Histórico",
+   "que": "Radicó una proposición para el Presupuesto General de la Nación para 2027 aprobado por 634.9 billones de pesos, buscando retirar dos párrafos de autoría del senador Cicedo del Centro Democrático.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:20",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Colombia recuperó el acceso al canal seguro del grupo Egmon, tras casi dos años de suspensión por la filtración de información confidencial del caso Pegasus durante la locución del expresidente Gustavo Petro.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:20",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Más de 1.000 municipios del país participarán hoy en el Simulacro Nacional de Respuestas a Emergencias 2026, evaluando la preparación de autoridades y ciudadanía frente a situaciones de riesgo.",
+   "resaltar": false
   }
  ],
  "avisos": []
