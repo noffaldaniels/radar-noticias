@@ -503,6 +503,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Troncal de la Avenida 68 alcanzó el 90,36% de avance general de todo el proyecto, según reporte del IDU en Bogotá, con varios hitos en funcionamiento y grupos en su recta final de construcción.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:12",
+   "quien": "Senadora Claudia Margarita Zuleta (Centro Democrático)",
+   "que": "Denunció que se desviaron dos billones de pesos de pensiones para tapar huecos en el sistema de salud. Afirmó que el FOMAG era un desastre que condujo a la postre a la crisis y que Fiduprevisora contrató a más de 3.000 operadores sin contratos formales, disparando el gasto y generando un déficit patrimonial enorme.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:18",
+   "quien": "Senadora Claudia Margarita Zuleta (Centro Democrático)",
+   "que": "Explicó que la mayor parte de los recursos del FOMAG provienen del Presupuesto General de la Nación. Añadió que para el periodo 2025-2026 se aprobaron más de dos billones de pesos para prestaciones sociales del FOMAG, pero advirtió que el patrimonio del FOMAG hoy es negativo en más de tres billones de pesos.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:19",
+   "quien": "Senadora Claudia Margarita Zuleta (Centro Democrático)",
+   "que": "Señaló que a pesar de que el presupuesto general de la nación aprueba los recursos para pensiones y salud del FOMAG, el gobierno recurre a más transferencias y presupuestos, generando presiones fiscales a la nación que finalmente tendrá que responder por esto.",
+   "resaltar": true
   }
  ],
  "avisos": []
