@@ -125,6 +125,27 @@
    "quien": "Diana Ballestas, periodista de Noticias La FM con Juan Lozano",
    "que": "Confirmó la captura en el sur de Bolívar de alias 'Bryan Beneco', presunto cabecilla vinculado al ELN y disidencias de las FARC, señalado por homicidio, terrorismo y concierto para delinquir.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:54",
+   "quien": "Marta Lucía Vélez Arango, gerente del Hospital Manuel Uribe Ángel",
+   "que": "Admitió fallas en la atención médica a una menor de edad presuntamente abusada en Envigado, debido a que en recepción no se activó inmediatamente el código fucsia para atención prioritaria.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:54",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó alerta por más de 5.000 casos de dengue en el Atlántico, de los cuales 2.636 se registraron en Barranquilla, lo que representa un aumento del 10% frente al mismo periodo del año anterior según el Instituto Nacional de Salud.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:55",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó la captura en Santa Rosa del Sur (Bolívar) de alias 'Fernanda', señalada de manejar drones para atentados de las disidencias de las FARC, así como la detención de alias 'Brayan Beneco' en Morales (Bolívar).",
+   "resaltar": false
   }
  ],
  "avisos": []
