@@ -223,6 +223,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Luis Diaz fue confirmado como titular para el partido del Arsenal en la Champions League.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En línea abierta se cayó el presupuesto de la Nación debido a un error de trámite en un artículo votado en la madrugada de antes de ayer.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:04",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Fiscalía compulsó copias a la Comisión de Investigación y Acusaciones de la Cámara para investigar a Gustavo Petro por el denominado Pacto de Valledupar.",
+   "resaltar": false
   }
  ],
  "avisos": []
