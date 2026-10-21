@@ -664,6 +664,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "En otros resultados de la Liga de Campeones, el Bayern Múnich venció 2-4 al Barcelona y el PSG derrotó 4-0 al Slovan.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:31",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Están en juego 500 familias de trabajadores en la fábrica.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:31",
+   "quien": "José Manuel Uribe, vicepresidente de Sonaltral La Rosa",
+   "que": "El 8 de septiembre la empresa tomó la determinación de suspender 221 contratos de trabajo en Incomex de La Rosa y 280 en Buga, La Grande, Valle del Cauca.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:32",
+   "quien": "José Manuel Uribe, vicepresidente de Sonaltral La Rosa",
+   "que": "La situación deja a las familias sin protección, sin salario, y ocasiona una depresión social y económica en la región.",
+   "resaltar": false
   }
  ],
  "avisos": []
