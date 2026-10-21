@@ -398,6 +398,13 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Detalles sobre las facultades del presidente de la república frente al presupuesto y su trámite por decreto.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:40",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Las altas fuentes aseguran que el caso terminará en la suspensión provisional de la gobernadora mientras se adelantan las investigaciones.",
+   "resaltar": false
   }
  ],
  "avisos": []
