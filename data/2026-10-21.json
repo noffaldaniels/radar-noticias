@@ -1107,7 +1107,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Envigado, Abuso sexual Menores de Edad",
   "lead": "Desde el centro asistencial aseguraron que aunque fue activada la ruta legal para estos casos, fortalecerán protocolos internos para evitar que se repitan situaciones similares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Los seis integrantes de la Policía Nacional recibieron atención médica en la ciudad de Aguachica, hasta donde fueron llevados luego del atentado.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "Antioquia, Agua potable, Noticias de hoy",
   "lead": "La administración Municipal declaró urgencia manifiesta para atender la situación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "Transmilenio, Colados en Transmilenio, Alcaldía Mayor de Bogotá",
   "lead": "La medida busca mejorar la seguridad operacional, detectar fallas y controlar el acceso de los pasajeros en varios corredores de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "El técnico destacó el juego y actitud de los suyos, a pesar de caer por la mínima diferencia en el estadio General Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "La Policía Nacional en el departamento de Caldas la capturó en flagrancia de dos presuntos expendedores de estupefacientes en procedimientos independientes desarrollados en diferentes sectores del municipio de Chinchiná, afectando la distribución de sustancias ilícitas relacionadas con el grupo delincuencial conocido como ‘La Máxima’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "La investigación encontró casos de la enfermedad en pacientes de alrededor de 50 años que no presentaban las señales cardíacas habituales. Los investigadores plantean ampliar las pruebas para detectarla a tiempo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "La Comisión Quinta Constitucional Permanente del Senado de la República convocó a un debate de control político relacionado con la situación de los residuos sólidos en la ciudad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "El georgiano sufrió la lesión durante el juego en el que se terminaron imponiendo 4-2 al Barcelona.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "Con cacerolas, silbatos, banderas rojas y palestinas y pancartas con mensajes como ‘Milei y Ayuso fuera de la universidad’, los manifestantes esperaban al mandatario argentino, que ha llegado a la universidad escoltado por varios carros de seguridad con las ventanas tintadas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "Isagen, una de las empresas generadoras de energía más grande del país, presentó el proyecto de generación de energía solar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Internacional,Javier Milei,Argentina,España,Pedro Sánchez",
   "lead": "El presidente argentino elogió desde Madrid al líder del partido ultraderechista Vox, Santiago Abascal.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Orden Público,Drones,Cesar,Policía Nacional,atentado",
   "lead": "Los uniformados fueron trasladados a una clínica de alta complejidad en Aguachica.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,6 +1250,369 @@
   "palabras": "Economía,Irregularidades en manejo de recursos,situación financiera,Pérdidas millonarias,Fiduprevisora,recursos públicos,medidas fiscales",
   "lead": "La congresista Claudia Margarita Zuleta advirtió sobre sus consecuencias para la sostenibilidad del fondo y señaló que el FOMAG registra un patrimonio nega...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bla Bla Blu, programa completo del 20 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/bla-bla-blu/bla-bla-blu-programa-completo-del-20-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-21T08:29:26-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 20 de octubre de 2026, el primer Talk Show de la radio en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Trump elogió a Abelardo De La Espriella y celebró giro a la derecha en Suramérica",
+  "enlace": "https://www.bluradio.com/mundo/trump-elogio-a-abelardo-de-la-espriella-y-celebro-giro-a-la-derecha-en-suramerica-pr30",
+  "fecha": "2026-10-21T08:27:41-05:00",
+  "palabras": "Abelardo De La Espriella, América Latina, Donald Trump",
+  "lead": "El gobernante norteamericano hizo un énfasis especial en la figura del presidente colombiano, a quien denominó \"El Tigre\", detallando los motivos de su simpatía hacia él.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Todo listo para simulacro nacional: a las 10:00 a.m. se activan planes de evacuación en todo el país",
+  "enlace": "https://www.bluradio.com/nacion/todo-listo-para-el-simulacro-nacional-de-hoy-se-activan-los-planes-de-evacuacion-en-todo-el-pais-pr30",
+  "fecha": "2026-10-21T08:26:14-05:00",
+  "palabras": "Simulacro de evacuación",
+  "lead": "El director de la Defensa Civil aseguró que todos los municipios participarán y pidió a la ciudadanía tomarse en serio el ejercicio, aplazado por el terremoto del 10 de agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dos madres denuncian demoras de EPS en la atención médica de sus hijos en Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/dos-madres-denuncian-demoras-de-eps-en-la-atencion-medica-de-sus-hijos-en-santander-rg10",
+  "fecha": "2026-10-21T08:36:34-05:00",
+  "palabras": "Bucaramanga, Salud, Santander, Nueva EPS, Blu Radio",
+  "lead": "Un niño de 2 años necesita ser remitido a Bogotá por fallas renal y hepática, mientras un joven de 19 años lleva tres años esperando una cita por su implante coclear.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Rifirrafe entre gerente de hospital de Caldas y gobernador de Antioquia va a denuncia penal",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/rifirrafe-entre-gerente-de-hospital-de-caldas-y-gobernador-de-antioquia-va-a-denuncia-penal-rg10",
+  "fecha": "2026-10-21T08:49:10-05:00",
+  "palabras": "Noticias de hoy, Caldas, Gobernación de Antioquia",
+  "lead": "El Concejo Municipal solicitó al gerente que en “un acto de grandeza, gallardía y responsabilidad” renuncie a su cargo o por lo menos se aparte.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría vigila elección del contralor de Santander por posibles irregularidades",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/procuraduria-vigila-eleccion-del-contralor-de-santander-por-posibles-irregularidades-rg10",
+  "fecha": "2026-10-21T08:49:50-05:00",
+  "palabras": "Procuraduría General de la Nación, Corrupción, Gobernación de Santander, Santander, Contraloría General, Blu Radio, Blu Radio, Noticias de hoy, Procuraduría",
+  "lead": "La Procuraduría aclaró que esta actuación busca determinar posibles responsabilidades.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por ataque armado suspenden servicio de transporte entre Angelópolis y el corregimiento La Estación",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/por-ataque-armado-suspenden-servicio-de-transporte-entre-angelopolis-y-el-corregimiento-la-estacion-rg10",
+  "fecha": "2026-10-21T08:54:53-05:00",
+  "palabras": "Antioquia, Noticias de hoy",
+  "lead": "La empresa dice que hasta que no haya garantías de seguridad no reanudarán operaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría indaga contratos que señalan a gobernadora y representante de San Andrés",
+  "enlace": "https://www.bluradio.com/regiones/caribe/procuraduria-indaga-contratos-que-senalan-a-gobernadora-y-representante-de-san-andres-rg10",
+  "fecha": "2026-10-21T09:02:40-05:00",
+  "palabras": "San Andrés y Providencia, Procuraduría General de la Nación",
+  "lead": "Uno de los frentes de la indagación se concentra en la gestión del Hospital Departamental y en actuaciones atribuidas a la gobernadora Girley Ordóñez y a su cónyuge, quien, según las denuncias, ejercería control sobre la contratación en el archipiélago.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los Vargas Lleras y Cambio Radical denunciarán a Petro por presunto soborno en ‘Pacto de Valledupar’",
+  "enlace": "https://caracol.com.co/2026/10/21/hermano-de-german-vargas-lleras-demandara-a-gustavo-petro-por-presunto-pacto-de-valledupar/",
+  "fecha": "2026-10-21T08:20:28-05:00",
+  "palabras": "",
+  "lead": "En las próximas horas, la familia Vargas Lleras presentará una acción penal contra Gustavo Petro ante la Comisión de Acusación del Congreso, por presunto soborno y concierto para delinquir.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por problemas económicos Hospital San Isidro cierra convenio con usuarios de la Nueva Eps",
+  "enlace": "https://caracol.com.co/2026/10/21/por-problemas-economicos-hospital-san-isidro-cierra-convenio-con-usuarios-de-la-nueva-eps/",
+  "fecha": "2026-10-21T09:08:51-05:00",
+  "palabras": "",
+  "lead": "La denuncia la hizo el veedor de la Nueva Eps en Manizales, Gabriel Palacio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El emisario de Donald Trump presentó “ideas” a Putin para terminar con el conflicto de Ucrania",
+  "enlace": "https://caracol.com.co/2026/10/21/el-emisario-de-donald-trump-presento-ideas-a-putin-para-terminar-con-el-conflicto-de-ucrania/",
+  "fecha": "2026-10-21T09:10:32-05:00",
+  "palabras": "",
+  "lead": "El encuentro se produce después de que Washington calificara como “positivas” las conversaciones con Volodímir Zelenski en Oslo y asegurara que existe una amplia coincidencia entre Estados Unidos, Ucrania y Europa sobre los próximos pasos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Isleño denuncia presunta corrupción y abandono de animales en San Andrés: “Se roban la plata”",
+  "enlace": "https://caracol.com.co/2026/10/21/isleno-denuncia-presunta-corrupcion-y-abandono-de-animales-en-san-andres-se-roban-la-plata/",
+  "fecha": "2026-10-21T08:46:18-05:00",
+  "palabras": "",
+  "lead": "El isleño Kella aseguró en 6AM W que la corrupción de la isla ha afectado a los animales desde años atrás.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Están despilfarrando dinero en bonos para snacks de funcionarios de Bogotá?: Alcaldía responde",
+  "enlace": "https://caracol.com.co/2026/10/21/estan-despilfarrando-dinero-en-bonos-para-snacks-de-funcionarios-de-bogota-alcaldia-responde/",
+  "fecha": "2026-10-21T09:00:34-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la Alcaldía, el gasto contratado se redujo un 76% frente al acumulado de la administración anterior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Llueve sobre Babel” abrió el Festival Vertov 2026 Unibac en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/21/llueve-sobre-babel-abrio-el-festival-vertov-2026-unibac-en-cartagena/",
+  "fecha": "2026-10-21T08:59:39-05:00",
+  "palabras": "",
+  "lead": "La duodécima edición del festival, organizada por el programa de Comunicación Audiovisual de Bellas Artes, reúne proyecciones, conversatorios, talleres y encuentros alrededor de la experimentación audiovisual",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 21 de octubre 2026 en Colombia: La divisa internacional inicia la jornada al alza",
+  "enlace": "https://caracol.com.co/2026/10/21/dolar-hoy-21-de-octubre-2026-en-colombia-la-divisa-internacional-inicia-la-jornada-al-alza/",
+  "fecha": "2026-10-21T08:56:03-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este miércoles, 21 de octubre. Conozca el comportamiento del dólar estadounidense, canadiense, euro, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió docente de Rionegro, Santander: fue herido con un cuchillo por su pareja sentimental",
+  "enlace": "https://caracol.com.co/2026/10/21/murio-docente-de-rionegro-santander-fue-herido-con-un-cuchillo-por-su-pareja-sentimental/",
+  "fecha": "2026-10-21T08:29:54-05:00",
+  "palabras": "",
+  "lead": "Juan Carlos Álvarez González, de 64 años, falleció en el hospital luego de sufrir una herida con arma cortopunzante en el cuello. Su pareja sentimental fue capturada por este hecho.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La tierra se encamina a un calentamiento de 2,6 °C, advierte la ONU",
+  "enlace": "https://caracol.com.co/2026/10/21/la-tierra-se-encamina-a-un-calentamiento-de-26-c-advierte-la-onu/",
+  "fecha": "2026-10-21T08:44:20-05:00",
+  "palabras": "",
+  "lead": "Según informe anual de PNUMA, el mundo estaría calentándose por encima de los dos grados centígrados",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boyacá prepara estrategia turística tras ser líder regional de Sudamérica por segundo año",
+  "enlace": "https://caracol.com.co/2026/10/21/boyaca-prepara-estrategia-turistica-tras-ser-lider-regional-de-sudamerica-por-segundo-ano/",
+  "fecha": "2026-10-21T08:46:29-05:00",
+  "palabras": "",
+  "lead": "La Gobernación busca combinar los alumbrados navideños con experiencias culturales, gastronómicas y naturales para atraer visitantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 430 capturas en casi tres años de intervenciones policiales en el Parque Lleras",
+  "enlace": "https://caracol.com.co/2026/10/21/mas-de-430-capturas-en-casi-tres-anos-de-intervenciones-policiales-en-el-parque-lleras/",
+  "fecha": "2026-10-21T08:41:51-05:00",
+  "palabras": "",
+  "lead": "Las operaciones adelantadas entre 2024 y octubre de 2026 permitieron la incautación de estupefacientes, la suspensión de comercios y la afectación de bienes por más de $10.500 millones a redes de trata, extorsión y microtráfico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Zelenski estaría dispuesto a “congelar” las líneas del frente en busca de la paz con Rusia",
+  "enlace": "https://caracol.com.co/2026/10/21/zelenski-estaria-dispuesto-a-congelar-las-lineas-del-frente-en-busca-de-la-paz-con-rusia/",
+  "fecha": "2026-10-21T08:41:45-05:00",
+  "palabras": "",
+  "lead": "Preguntado en la cadena Fox News sobre si aceptaría un acuerdo que deje las líneas fronterizas actuales, con Ucrania conservando el 75 % o más de su territorio, Zelenski respondió: “Sí”.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Buscan en Cali a joven que llegó de Bogotá y desapareció tras perder contacto con su familia",
+  "enlace": "https://caracol.com.co/2026/10/21/buscan-en-cali-a-joven-que-llego-de-bogota-y-desaparecio-tras-perder-contacto-con-su-familia/",
+  "fecha": "2026-10-21T08:38:33-05:00",
+  "palabras": "",
+  "lead": "María Alejandra Molina Solano, de 27 años, fue vista por última vez en contacto con sus allegados el domingo 11 de octubre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres viviendas fueron consumidas por incendio en Neiva; Bomberos reportan 85 casos en 2026",
+  "enlace": "https://caracol.com.co/2026/10/21/tres-viviendas-fueron-consumidas-por-incendio-en-neiva-bomberos-reportan-85-casos-en-2026/",
+  "fecha": "2026-10-21T08:35:15-05:00",
+  "palabras": "",
+  "lead": "La conflagración se registró en el sector de Bajo Tenerife. No se reportaron personas lesionadas y las causas están por establecerse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Nueva ley de sometimiento mantiene beneficios a criminales? Congresistas debaten en 6AM W",
+  "enlace": "https://caracol.com.co/2026/10/21/nueva-ley-de-sometimiento-mantiene-beneficios-a-criminales-congresistas-debaten-en-6am-w/",
+  "fecha": "2026-10-21T08:25:18-05:00",
+  "palabras": "",
+  "lead": "Ariel Ávila y Hernán Cadavid estuvieron en Caracol Radio debatiendo sobre el contenido e impacto del nuevo proyecto de ley de sometimiento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hora del Simulacro Nacional HOY 21 de octubre del 2026: ¿qué hacer cuando suene la alarma?",
+  "enlace": "https://caracol.com.co/2026/10/20/hora-exacta-del-simulacro-nacional-2026-este-21-de-octubre-que-hacer-cuando-suene-la-alarma/",
+  "fecha": "2026-10-21T08:29:46-05:00",
+  "palabras": "",
+  "lead": "Así puede participar con su familia o comunidad en el Simulacro Nacional y esto es lo qué se debe hacer durante el ejercicio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El presidente Emmanuel Macron acusó al mandatario Donald Trump de manipular las revueltas francesas",
+  "enlace": "https://caracol.com.co/2026/10/21/el-presidente-emmanuel-macron-acuso-al-mandatario-donald-trump-de-manipular-las-revueltas-francesas/",
+  "fecha": "2026-10-21T08:29:51-05:00",
+  "palabras": "",
+  "lead": "El líder francés convocó para este jueves una reunión con los servicios de inteligencia para analizar el origen y la difusión de contenidos falsos sobre los disturbios, mientras su Gobierno mantiene toques de queda parciales y restricciones a las concentraciones en varias ciudades.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concejo de Caldas pide renuncia del gerente del hospital por crisis financiera",
+  "enlace": "https://caracol.com.co/2026/10/21/concejo-de-caldas-pide-renuncia-del-gerente-del-hospital-por-crisis-financiera/",
+  "fecha": "2026-10-21T08:21:28-05:00",
+  "palabras": "",
+  "lead": "La petición se dio tras los señalamientos del gobernador de Antioquia, Andrés Julián Rendón, por presunta corrupción.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Investigan asesinato de pareja de esposos en finca de Suesca",
+  "enlace": "https://www.lafm.com.co/orden-publico/asesinato-pareja-esposos-suesca-cundinamarca-crimen-vereda-teneria-autoridades-investigan-policia-cti-fiscalia-414639",
+  "fecha": "2026-10-21T08:38:00-05:00",
+  "palabras": "Orden Público,Homicidios,Asesinato,Hallazgo de cuerpos,Crimen familiar,Investigaciones,Fiscalía General de la Nación,Forenses,Medicina Legal,Vigilancia",
+  "lead": "Un grupo especial asumió las investigaciones para esclarecer el doble homicidio.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría investiga denuncias por contratos en San Andrés",
+  "enlace": "https://www.lafm.com.co/orden-publico/procuraduria-indagaciones-contratos-hospital-san-andres-414631",
+  "fecha": "2026-10-21T08:38:00-05:00",
+  "palabras": "Orden Público,San Andrés,Abelardo de la Espriella,Procuraduría General de la Nación,Cámara de Representantes",
+  "lead": "Procuraduría abrió dos indagaciones previas en San Andrés: Hospital y Gobernación por contratación irregular, equipos sin uso y pagos/residuos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Accidente aéreo en Cauca: 13 soldados siguen atrapados",
+  "enlace": "https://www.lafm.com.co/orden-publico/accidente-aereo-13-soldados-atrapados-inza-cauca-ejercito-colombia-414624",
+  "fecha": "2026-10-21T08:28:00-05:00",
+  "palabras": "Orden Público,Helicóptero,Ejército Nacional,Cauca,Militares,Fuerza Aérea Colombiana,Alias Mordisco",
+  "lead": "En diálogo con LA FM, el alcalde de Inzá, Delio Trujillo, señaló que se mantiene un cerco especial, pues en la zona hay presencia de las disidencias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Joven de 19 años denuncia haber sido agredida sexualmente en una fraternidad de la Universidad de Chicago",
+  "enlace": "https://www.lafm.com.co/internacional/mujer-denuncia-agresion-sexual-universidad-chicago-414635",
+  "fecha": "2026-10-21T08:17:00-05:00",
+  "palabras": "Internacional,Chicago,agresión,Denuncias por abuso,Estados Unidos",
+  "lead": "Un hombre habría abusado de ella en una casa de la fraternidad mientras estaba bajo los efectos del alcohol.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Apagón energético en Colombia: “Estuvimos muy cerca”, alerta XM",
+  "enlace": "https://www.lafm.com.co/sociedad/colombia-racionamiento-electrico-energiaxm-precio-fenomeno-elnino-414633",
+  "fecha": "2026-10-21T08:09:00-05:00",
+  "palabras": "Sociedad,Racionamiento de energía,Embalses,Nivel de embalses en el país,Fenómeno de El Niño,Sequía",
+  "lead": "Juan Carlos Morales, gerente general de XM, explicó que los embalses mantienen reservas importantes, pero los próximos meses exigirán al máximo los recurso...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría investiga a Angie Rodríguez y Armando Benedetti",
+  "enlace": "https://www.lafm.com.co/politica/procuraduria-investigacion-angie-rodriguez-armando-benedetti-pacto-valledup-ar-414625",
+  "fecha": "2026-10-21T07:17:00-05:00",
+  "palabras": "Política,Procuraduría General de la Nación,Investigaciones,Paramilitares,Armando Benedetti,Abelardo de la Espriella,Gustavo Petro,Álvaro Uribe",
+  "lead": "La exdirectora del Dapre Angie Rodríguez aseguró que teme ser asesinada y pidió a las autoridades investigar a Gustavo Petro, Carlos Carrillo y Raúl Moreno...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Simulacro nacional de emergencias este 21 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/simulacro-atencion-emergencias-colombia-gestion-del-riesgo-octubre-21-414618",
+  "fecha": "2026-10-21T06:30:00-05:00",
+  "palabras": "Sociedad,Simulacro,Defensa Civil,Sistema de Alertas Tempranas,Desastres naturales,Fenómenos naturales,Fondo de Emergencias,Evacuación de civiles,Evacuación edificio",
+  "lead": "La jornada tendrá actividades para ciudadanos y organizaciones, mientras las autoridades revisarán sus estrategias de respuesta, coordinación y toma de dec...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
