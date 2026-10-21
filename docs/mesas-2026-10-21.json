@@ -769,6 +769,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Fue asesinado en Chinácota (Norte de Santander) alias 'Resorte', presunto cabecilla de finanzas del ELN y señalado de ser hermano de alias 'Alfredo Uribe'.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:00",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se han recibido cientos de denuncias de animales abandonados, maltratados y desnutridos en San Andrés, además de un presupuesto de 1.100 millones de pesos que no se ve reflejado en las instalaciones ni en el cuidado.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:00",
+   "quien": "Kela, rescatista de animales en San Andrés",
+   "que": "Denunció corrupción y robo de plata destinada a los animales en San Andrés; los departamentos y el gobierno nacional envían recursos, pero hay negligencia, falta de control y no se ve el dinero reflejado en la atención.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:00",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Procuraduría General de la Nación inició una indagación previa sobre procesos de contratación con participación de Norber Bomblón, esposo de la representante a la Cámara Elizabeth Jay Pang, y contra personas por determinar de la Gobernación por posibles irregularidades contractuales en los hospitales de San Andrés, Providencia y Santa Catalina.",
+   "resaltar": false
   }
  ],
  "avisos": []
