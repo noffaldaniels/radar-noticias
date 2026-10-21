@@ -853,6 +853,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Informó que la etapa de ayer fue ganada por Andrés Camilo Ardila, oriundo de Mariquita, Tolima, quien se adjudicó la etapa reina de la carrera y se convirtió en el nuevo líder.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:20",
+   "quien": "Guillermo Escobar (Director de Idiger Bogota)",
+   "que": "A las 10 de la mañana de hoy se realizará un simulacro nacional y distrital de terremoto en Bogotá, con la participación prevista de más de 5 millones de personas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:20",
+   "quien": "General Jorge Humberto Jerez (Director de la Defensa Civil)",
+   "que": "La Defensa Civil tiene desplegados más de 3.000 voluntarios y 300 trabajadores en el país para atender emergencias, y prepara un simulacro nacional para evitar tragedias.",
+   "resaltar": false
   }
  ],
  "avisos": []
