@@ -5529,7 +5529,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 21 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5540,7 +5540,7 @@
   "palabras": "Ejército Nacional, DEA, CTI de la Fiscalía",
   "lead": "Los procedimientos se realizaron en Bogotá, Cajicá, Maicao y Barranquilla. Entre los detenidos está un hombre investigado por movilizar cerca de 42 millones de dólares mediante operaciones sospechosas con criptomonedas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5551,7 +5551,7 @@
   "palabras": "Fiscalía General de la Nación, San Andrés y Providencia",
   "lead": "Tanto la Fiscalía como la defensa apelaron la decisión, este último con la intención de tener un fallo con libertad plena.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5562,7 +5562,7 @@
   "palabras": "Rodrigo Lara, Ministerio de Interior, Alejandro Ordóñez",
   "lead": "El mandatario agradeció la gestión de Rodrigo Lara Restrepo y confirmó que Iván Cancino asumirá las funciones del cargo de forma encargada mientras se formaliza la posesión.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5573,7 +5573,7 @@
   "palabras": "CDT, Simulador CDT, Educación Financiera, Apps, cómo renovar un CDT, qué se debe tener en cuenta en un CDT",
   "lead": "Consultar solo las tasas del banco donde ya tiene un CDT puede hacer que pase por alto otras opciones con mejores rendimientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5584,7 +5584,7 @@
   "palabras": "Viral, Yeison Jiménez",
   "lead": "Fue encontrado sin vida en Pensilvania, Caldas. Sonia enfrenta un segundo duelo este año, recordando la pérdida de su esposa a inicios de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5595,7 +5595,7 @@
   "palabras": "",
   "lead": "La Corte Suprema de Justicia ya recibió la compulsa de copias enviada por la Fiscalía General de la Nación sobre las denuncias de María Claudia Tarazona.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5606,7 +5606,7 @@
   "palabras": "",
   "lead": "Mientras se formaliza su posesión, el ministro de Justicia, Iván Cancino, asumirá temporalmente las funciones de esta cartera.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5617,7 +5617,7 @@
   "palabras": "",
   "lead": "Haría parte de una red internacional de narcotráfico, lavado de activos y concierto para delinquir.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5628,7 +5628,7 @@
   "palabras": "",
   "lead": "Los procesados estarían involucrados en un homicidio en Turbaco y un ataque con arma cortopunzante en Cartagena",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5639,7 +5639,7 @@
   "palabras": "Sociedad,Lotería de Manizales,Coljuegos,Juegos de azar,resultados de lotería",
   "lead": "Ya hay nuevo número ganador del premio mayor este miércoles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5650,7 +5650,7 @@
   "palabras": "Sociedad,Herencias,Hijos,Código Civil,Patria potestad,Paternidad,padres biológicos,Adopción,jueces,Procesos judiciales",
   "lead": "La Ley 2388 de 2024 reguló el reconocimiento de estos vínculos familiares y estableció disposiciones sobre sus efectos jurídicos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5661,7 +5661,7 @@
   "palabras": "Política,Abelardo de la Espriella,Rodrigo Lara,Ministerio del interior",
   "lead": "El anuncio lo realizó el presidente Abelardo de la Espriella a través de su cuenta en X.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5672,7 +5672,7 @@
   "palabras": "Política,Fondo Nacional del Ahorro,Nombramientos,Abelardo de la Espriella,Ministerio de Hacienda y Crédito Público",
   "lead": "El Gobierno De La Espriella nombró a Marco Fidel Acosta mediante el Decreto 1580 del 21 de octubre de 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5683,7 +5683,7 @@
   "palabras": "Política,Reforma pensional,Corte Constitucional,Cámara de Representantes,Fallo judicial,Procesos judiciales,Votaciones",
   "lead": "La Mesa Directiva presentó la solicitud ante la Corte Constitucional para corregir los vicios de trámite señalados en ciertos artículos de la reforma.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5694,6 +5694,259 @@
   "palabras": "Política,Amenazas,Abelardo de la Espriella,Fiscalía General de la Nación,medidas cautelares,imputan cargos,Detenidos,Delincuentes capturados",
   "lead": "La Fiscalía rastreó hasta Pereira la cuenta anónima de Instagram desde la que se amenazó a la primera dama, Ana Lucía Pineda.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La Nube, programa completo 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/la-nube-programa-completo-21-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-21T21:32:47-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 21 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del sorteo hoy miércoles 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-sorteo-hoy-miercoles-21-de-octubre-de-2026-so35",
+  "fecha": "2026-10-21T21:43:57-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El sorteo del Chontico Noche se realiza todos los días, con horarios que varían según la jornada. Consulte los resultados de este 21 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del sorteo hoy miércoles 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-sorteo-hoy-miercoles-21-de-octubre-de-2026-so35",
+  "fecha": "2026-10-21T21:44:33-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este miércoles 21 de octubre de 2026 y conozca las modalidades de apuesta disponibles para verificar si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del sorteo hoy miércoles 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-sorteo-hoy-miercoles-21-de-octubre-de-2026-so35",
+  "fecha": "2026-10-21T21:45:10-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este 21 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta coinciden con la combinación ganadora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Manizales, resultados del último sorteo hoy miércoles 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-manizales-resultados-del-ultimo-sorteo-hoy-miercoles-21-de-octubre-de-2026-so35",
+  "fecha": "2026-10-21T21:45:48-05:00",
+  "palabras": "Lotería de Manizales, Resultado de loterías de hoy",
+  "lead": "Conozca la lista de resultados que la Lotería de Manizales realizó este miércoles 21 de octubre de 2026 por el sorteo 4978.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Valle, resultados dle último sorteo hoy miércoles 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-valle-resultados-dle-ultimo-sorteo-hoy-miercoles-21-de-octubre-de-2026-so35",
+  "fecha": "2026-10-21T21:46:17-05:00",
+  "palabras": "Lotería del Valle, Resultado de loterías de hoy",
+  "lead": "Conozca la lista de resultados que la Lotería de Manizales realizó este miércoles 21 de octubre de 2026 por el sorteo 4871.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Meta, resultados del sorteo hoy miércoles 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-meta-resultados-del-sorteo-hoy-miercoles-21-de-octubre-de-2026-so35",
+  "fecha": "2026-10-21T21:47:24-05:00",
+  "palabras": "Lotería del Meta, Resultado de loterías de hoy",
+  "lead": "Todos los premios completos y el mayor que entrega 1.800 millones de pesos de la Lotería del Meta en su último sorteo 3321.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pronto abrirán nueva línea de TransMilenio que beneficiará Av. Ciudad de Cali, Américas, 68 y la 26",
+  "enlace": "https://www.bluradio.com/regiones/bogota/pronto-abriran-nueva-linea-de-transmilenio-que-beneficiara-av-ciudad-de-cali-americas-68-y-la-26-so35",
+  "fecha": "2026-10-21T21:24:48-05:00",
+  "palabras": "Transmilenio, Avenida Ciudad de Cali, Avenida 68",
+  "lead": "El objetivo es conectar estos corredores viales para beneficiar a miles de personas antes de que termine el año y así lograr mejorar la movilidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alejandro Ordóñez será el nuevo ministro del Interior: así lo anunció De La Espriella",
+  "enlace": "https://www.bluradio.com/nacion/alejandro-ordonez-sera-el-nuevo-ministro-del-interior-asi-lo-anuncio-de-la-espriella-rg10",
+  "fecha": "2026-10-21T21:13:06-05:00",
+  "palabras": "Alejandro Ordóñez, Ministerio de Interior, Abelardo De La Espriella, Rodrigo Lara",
+  "lead": "El mandatario anunció la salida de Rodrigo Lara Restrepo e Iván Cancino estará encargado del cargo temporalmente.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Piden 30 días más para subsanar trámite de la reforma pensional en Colombia",
+  "enlace": "https://www.bluradio.com/politica/camara-pide-a-la-corte-constitucional-30-dias-mas-para-subsanar-tramite-de-la-reforma-pensional-rg10",
+  "fecha": "2026-10-21T21:26:13-05:00",
+  "palabras": "Cámara de Representantes, Corte Constitucional, Reforma pensional, corte constitucional, reforma pensional",
+  "lead": "Solo solicitan la extensión del plazo, pero manteniendo las exigencias requeridas por el alto tribunal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Boca vs. Mineiro, la final de la Copa Sudamericana en el estadio Metropolitano de Barranquilla",
+  "enlace": "https://www.bluradio.com/deportes/futbol/lista-la-final-de-la-copa-sudamericana-en-barranquilla-estos-equipos-disputaran-el-titulo-cb20",
+  "fecha": "2026-10-21T21:55:10-05:00",
+  "palabras": "Copa Sudamericana, Boca Juniors, Atlético Mineiro, Estadio Metropolitano de Barranquilla, Barranquilla, Barranquilla, Copa Sudamericana, estadio Metropolitano",
+  "lead": "Con las adecuaciones del estadio, ahora tendrá una capacidad para 65.000 espectadores.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así reaccionaron los sectores políticos a la llegada de Ordóñez al MinInterior tras salida de Lara",
+  "enlace": "https://caracol.com.co/2026/10/22/asi-reaccionan-los-sectores-politicos-a-la-llegada-de-ordonez-al-mininterior-tras-salida-de-lara/",
+  "fecha": "2026-10-21T21:24:48-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella anunció la salida del ministro del Interior, Rodrigo Lara. Así reaccionó el mundo político a su reemplazo en la cartera:",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los efectos jurídicos y políticos del escándalo del ‘Pacto de Valledupar’",
+  "enlace": "https://caracol.com.co/2026/10/22/los-efectos-juridicos-y-politicos-del-escandalo-del-pacto-de-valledupar/",
+  "fecha": "2026-10-21T21:54:55-05:00",
+  "palabras": "",
+  "lead": "Los panelistas de Hora 20 analizan el escándalo que involucra a varios exfuncionarios del Gobierno Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "América pone orden en la Copa Colombia: goleada a Barranquilla FC para clasificar a semifinales",
+  "enlace": "https://caracol.com.co/2026/10/22/america-pone-orden-en-la-copa-colombia-goleada-a-barranquilla-fc-para-clasificar-a-semifinales/",
+  "fecha": "2026-10-21T21:53:58-05:00",
+  "palabras": "",
+  "lead": "Quedó definida la primera semifinal del campeonato.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fue aprobada la Ley de Sometimiento del Gobierno De la Espriella en primer debate",
+  "enlace": "https://caracol.com.co/2026/10/22/fue-aprobada-la-ley-de-sometimiento-del-gobierno-de-la-espriella-en-primer-debate/",
+  "fecha": "2026-10-21T21:41:43-05:00",
+  "palabras": "",
+  "lead": "Fue aprobada la ley de sometimiento del gobierno de Abelardo de la Espriella en primer debate. Sin la presencia de la oposición y con la tensión tras la salida del ministro Rodrigo Lara, las comisiones primeras le dieron luz verde al proyecto para que sea debatido en plenarias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez no envió a prisión al exgobernador de San Andrés, procesado por presunta extorsión y secuestro",
+  "enlace": "https://caracol.com.co/2026/10/22/juez-dejo-en-libertad-a-exgobernador-de-san-andres-procesado-por-presunta-extorsion-y-secuestro/",
+  "fecha": "2026-10-21T21:32:58-05:00",
+  "palabras": "",
+  "lead": "Everth Julio Hawkins habría exigido $3.000 millones a dos contratistas de la Gobernación. La Fiscalía apeló la medida de aseguramiento no privativa de la libertad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Google y MinTIC ofrecen 15.000 becas gratis para estudiar carreras digitales: programas y requisitos",
+  "enlace": "https://caracol.com.co/2026/10/22/google-y-mintic-ofrecen-15000-becas-gratis-para-estudiar-carreras-digitales-programas-y-requisitos/",
+  "fecha": "2026-10-21T21:36:47-05:00",
+  "palabras": "",
+  "lead": "El gobierno nacional presentó en alianza con Google una visión para la transformación educativa del país; conozca todos los detalles aquí.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Quién es Alejandro Ordóñez Maldonado, el próximo ministro del Interior anunciado por De la Espriella",
+  "enlace": "https://caracol.com.co/2026/10/22/quien-es-alejandro-ordonez-maldonado-el-proximo-ministro-del-interior-anunciado-por-de-la-espriella/",
+  "fecha": "2026-10-21T21:12:28-05:00",
+  "palabras": "",
+  "lead": "Ordoñez además es jefe de la Misión Permanente de Colombia ante la OEA.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Varios sectores de Sabaneta están sin energía por el posible daño de un cable",
+  "enlace": "https://caracol.com.co/2026/10/22/varios-sectores-de-sabaneta-estan-sin-energia-por-el-posible-dano-de-un-cable/",
+  "fecha": "2026-10-21T21:13:11-05:00",
+  "palabras": "",
+  "lead": "Desde la tarde de este miércoles se reportó que una parte de esa población del sur del Valle de Aburrá se había quedado sin energía; sin embargo, al llegar la noche, en una zona se restableció, pero otra continúa sin el servicio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ofertas de empleo para profesores en el CNSC: cómo aplicar",
+  "enlace": "https://www.lafm.com.co/sociedad/ofertas-empleo-profesores-comision-nacional-del-servicio-civil-como-aplicar-414745",
+  "fecha": "2026-10-21T21:56:00-05:00",
+  "palabras": "Sociedad,Ofertas de empleo,Comisión Nacional del Servicio Civil,Vacante laboral,Convocatoria,Documentos,docentes,oferta laboral,Cargos gerenciales,cupos escolares,reclutamiento",
+  "lead": "El concurso tiene puestos para docentes de aula, orientadores y directivos, además de un cupo para personas con discapacidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Se acerca el fin de la ‘paz total’: Congreso aprueba en primer debate la Ley de Sometimiento",
+  "enlace": "https://www.lafm.com.co/politica/congreso-aprobo-primer-debate-ley-de-sometimiento-se-acerca-el-fin-de-la-paz-total-414748",
+  "fecha": "2026-10-21T21:32:00-05:00",
+  "palabras": "Política,Proyecto de ley,Proceso de Paz,Justicia transicional,Justicia y Paz,desmovilizados,organizaciones criminales,extinción de dominio,Principio de oportunidad,Impunidad",
+  "lead": "La iniciativa otorga beneficios penales a cambio de la rendición, la entrega de armas y de bienes por parte de los grupos criminales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Autorizan insumos estéticos para alias 'Pichi' en prisión",
+  "enlace": "https://www.lafm.com.co/actualidad/investigan-procedimientos-esteticos-de-alias-pichi-en-prision-414700",
+  "fecha": "2026-10-21T20:30:00-05:00",
+  "palabras": "Actualidad,Noticias RCN,organizaciones criminales,Grupo Delincuencial Organizado,Narcotráfico,Estupefacientes,Delitos graves,Procesos judiciales,Cárcel,Sistema carcelario,cirugías plásticas",
+  "lead": "Documentos revelados por Noticias RCN evidencian la autorización para el ingreso de bótox, ácido hialurónico, insumos médicos y personal de salud para la a...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La declaración de Luis Díaz tras lesión en Champions League",
+  "enlace": "https://www.lafm.com.co/deportes/lesion-luis-diaz-bayern-munich-vs-arsenal-champions-league-que-dijo-414744",
+  "fecha": "2026-10-21T20:19:00-05:00",
+  "palabras": "Deportes,Luis Díaz,Champions League,Bayern Múnich,Arsenal,Colombia,Selección Colombia",
+  "lead": "El colombiano no sumó muchos minutos en el duelo por Champions League contra el Arsenal.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
