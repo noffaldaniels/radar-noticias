@@ -1,5 +1,27 @@
 {
- "puntos": [],
+ "puntos": [
+  {
+   "medio": "Blu Radio",
+   "hora": "05:31",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Alejandro Ordóñez fue designado nuevo ministro del Interior tras la salida de Rodrigo Lara por el hundimiento del Presupuesto General de la Nación, quedando Iván Cancino como encargado. Además, el Gobierno expedirá dicho presupuesto por decreto por un monto de 634,9 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:32",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El director del DAPRE, Carlos Ríos, denunciará la presunta instrumentalización de 48 mujeres con contratos de prestación de servicios en la Casa de Nariño durante la administración anterior.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:37",
+   "quien": "Camila Carvajal, periodista de Mañanas Blu",
+   "que": "Crece el escándalo del denominado 'Pacto de Valledupar' por presuntas presiones a exparamilitares para declarar contra Álvaro Uribe, Abelardo De La Espriella y Germán Vargas Lleras. Al respecto, Víctor de Currea-Lugo reconoció acercamientos con Salvatore Mancuso, aunque sostuvo que lo hizo a título personal.",
+   "resaltar": false
+  }
+ ],
  "avisos": [
   "Caracol Radio: la IA no respondió de 05:30 a 05:40 (sí hubo audio)"
  ]
