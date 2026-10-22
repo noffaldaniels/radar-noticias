@@ -517,6 +517,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Son las 7 de la mañana 51 minutos y tendremos una rápida ronda nacional aquí en la FM.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:53",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Presidencia de la República, a través de la doctora Cristina Lombana, le pidió al gerente de Encali que contrate una auditoría forense para el proceso.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:53",
+   "quien": "Roberto Ortiz, concejal de oposición en Cali",
+   "que": "Existen reuniones con contratistas para buscar un operador que sea aliado de Encali en la modernización del alumbrado público de la ciudad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:53",
+   "quien": "Alejandra Uribe, Periodista de 6AM",
+   "que": "La Contraloría de Bogotá encontró irregularidades por más de 6 mil millones de pesos en la Secretaría de Educación y la Universidad Distrital, estableciendo 17 hallazgos fiscales.",
+   "resaltar": false
   }
  ],
  "avisos": [
