@@ -1602,7 +1602,7 @@
   "palabras": "Virus, Francia, Viral",
   "lead": "Las autoridades investigan cómo este patógeno, detectado principalmente en animales, logró infectar a un ser humano. Esto se sabe sobre su transmisión, los síntomas y los riesgos para la salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "Cartagena",
   "lead": "El nuevo bar funciona en una antigua cisterna histórica y propone una experiencia de coctelería que recorre los paisajes, ingredientes y tradiciones del país a través del agua.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "Santander, Panela, Bucaramanga, Economía, Blu Radio",
   "lead": "Los bajos precios de compra y las deudas bancarias ponen en riesgo la continuidad de los trapiches y el sustento de cientos de familias paneleras en Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Luis Díaz, Selección Colombia, Bayern Múnich",
   "lead": "El Bayern Múnich confirmó el diagnóstico médico del delantero colombiano, quien había salido lesionado frente al Arsenal. Su tiempo de recuperación pone en riesgo su regreso a la Tricolor.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Fiscalía General de la Nación",
   "lead": "La Fiscalía le imputó los delitos de aprovechamiento ilícito de los recursos naturales renovables y tráfico de fauna.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "La movilización, calificada por la dirigencia opositora como una iniciativa pacífica e \"histórica\", se desarrolla en un clima de profunda desconfianza hacia las mesas de negociación y en medio de una maniobra del oficialismo para ocupar el espacio público mediante una marcha paralela a escasas…",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "Ecuador, Rafael Correa, Noticias de hoy",
   "lead": "La excandidata presidencial Luisa González fue detenida en Ecuador en medio de investigaciones por presunta financiación irregular de campañas, a pocas semanas de las elecciones locales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "La acción judicial se conoce a pocos días de la segunda vuelta presidencial entre Luiz Inácio Lula da Silva y Flávio Bolsonaro, en medio de denuncias de ambas campañas sobre posibles afectaciones en la difusión de contenidos políticos en las plataformas de Meta.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "El esloveno Tadej Pogacar concluyó el 2026 como el mejor ciclista del escalafón.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Los seis capturados serían responsables de coordinar cobros ilegales y amenazas contra comerciantes y transportadores en Córdoba y Sucre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "De acuerdo con la información entregada por el Ejército, la incautación se produjo después de varios días de labores de inteligencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "El técnico del Deportivo Cali habló de victoria de su equipo en Villaviencio, que los dejó con un pie y medio en cuadrangulares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "Proyectos en el Urabá, el Bajo Cauca, el Nudo de Paramillo y el Occidente antioqueño promueven ingresos rurales, oportunidades para jóvenes y mujeres, y alternativas a las economías ilícitas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "En los operativos se incautaron armas y explosivos del grupo armado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "El artista colombiano habló sobre la canción ‘Agua’ colaboración junto a Shakira, recordó algunos de los éxitos que han marcado su carrera y manifestó su interés por explorar la música regional mexicana durante la Semana Billboard de la Música Latina 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "",
   "lead": "Mientras cuatro de los sospechosos lograron escapar, la fuerza pública dejó a los demás implicados a disposición de la Fiscalía General de la Nación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "",
   "lead": "El hombre fue golpeado y recibió varias descargas eléctricas con un dispositivo taser mientras se encontraba bajo custodia de uniformados en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "",
   "lead": "El hecho se produjo en Canuto, la localidad rural de la provincia de Manabí.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "Orden Público,desaparición de personas,Joven desaparecido,Desaparecidos,Investigaciones,Indagación preliminar,Fiscalía General de la Nación,Alcaldía de Bogotá,Protestas en Colombia,Protocolo sobre protesta social",
   "lead": "Las menores fueron vistas por última vez el pasado 16 de octubre, en el sur occidente de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "Sociedad,oferta laboral,Nueva York,Vacante laboral,Convocatoria,cocina,Hoja de vida,Documentos,Salubridad,higiene",
   "lead": "Entre sus responsabilidades están preparar las comidas para el servicio diario, la atención de eventos oficiales y el cumplimiento de las normas de higiene...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "Actualidad,Homicidios,Periodismo,Medicina Legal,Cruz Roja,Yarumal",
   "lead": "Mateo Pérez Rueda, de 24 años, fue sometido a una cruel tortura antes de recibir múltiples disparos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "Actualidad,Contraloría,Universidad Distrital,Irregularidades en manejo de recursos,auditoria,recursos públicos,Irregularidades en contratos,secretaria de Educación",
   "lead": "Tras varias auditorías, se evidenciaron hallazgos relacionados con obras educativas, pagos sin soportes suficientes, supervisión contractual y cobros pensi...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1843,6 +1843,314 @@
   "fecha": "2026-10-22T08:31:00-05:00",
   "palabras": "Política,Sexualidad,debate político,Pacto Histórico,Aborto,Derechos humanos,Corte Constitucional,Oposición,Polarización,polémica,Ministerio de Educación,Colombia",
   "lead": "La continuidad de la política de sexualidad 2026-2035 divide opiniones entre quienes cuestionan su enfoque de género y quienes defienden su papel en la pro...",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "EPM tendrá reunión con el Gobierno por crisis de Afinia que afectará presupuesto de Medellín en 2027",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/epm-tendra-reunion-con-el-gobierno-por-crisis-de-afinia-que-afectara-presupuesto-de-medellin-en-2027-rg10",
+  "fecha": "2026-10-22T10:46:27-05:00",
+  "palabras": "Medellín, EPM, Aire y Afinia , Ministerio de Minas y Energía",
+  "lead": "Una de las posibles salidas será endeudamiento o venta de bienes de la empresa, que se evaluará en los próximos días.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana, resultado del último sorteo hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-hoy-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T10:17:25-05:00",
+  "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy jueves 22 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Habitantes de El Tambo desenterraron cilindros bomba y los retiraron ante demora del Ejército",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/personero-de-el-tambo-denuncia-demora-de-tres-dias-para-atender-alerta-por-explosivos-pr30",
+  "fecha": "2026-10-22T10:27:22-05:00",
+  "palabras": "Noticias de hoy, Cauca, El Tambo, Entrevista",
+  "lead": "El caso comenzó a conocerse el 18 de octubre, cuando uno de los artefactos quedó expuesto de manera accidental.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan escalofriantes detalles del crimen de niña de 7 años a manos de su tía y la pareja",
+  "enlace": "https://www.bluradio.com/mundo/revelan-escalofriantes-detalles-del-crimen-de-nina-de-7-anos-a-manos-de-su-tia-y-la-pareja-cb20",
+  "fecha": "2026-10-22T10:49:12-05:00",
+  "palabras": "Viral, Redes sociales, Muerte menores",
+  "lead": "Las pruebas forenses revelaron un patrón de maltrato prolongado por parte de la tía de la menor.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Medellín recibirá reconocimiento en Estados Unidos por el programa “Parceros”",
+  "enlace": "https://caracol.com.co/2026/10/22/alcalde-de-medellin-recibira-reconocimiento-en-estados-unidos-por-programa-parceros/",
+  "fecha": "2026-10-22T11:00:26-05:00",
+  "palabras": "",
+  "lead": "El reconocimiento será a las 7 de esta noche en el la ciudad de Washington.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consejo de Estado falla a favor de la licorera del Tolima: no tendrá que pagar $54 mil mil millones",
+  "enlace": "https://caracol.com.co/2026/10/22/consejo-de-estado-falla-a-favor-de-la-licorera-del-tolima-no-tendra-que-pagar-54-mil-mil-millones/",
+  "fecha": "2026-10-22T10:54:39-05:00",
+  "palabras": "",
+  "lead": "El proceso judicial se remonta al año 2001cuando la Fábrica de Licores no adjudicó el contrato de distribución del Aguardiente Tapa Roja a la Unión Temporal Caesca y Licorsa.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Marsh dona $50 millones a Vamos Pa’Lante para apoyar a los estudiantes en el suroccidente colombiano",
+  "enlace": "https://caracol.com.co/2026/10/22/marsh-dona-50-millones-a-vamos-palante-para-apoyar-a-los-estudiantes-en-el-suroccidente-colombiano/",
+  "fecha": "2026-10-22T10:36:30-05:00",
+  "palabras": "",
+  "lead": "Marsh es una de las empresas que se suman a la campaña para garantizar la permanencia en los estudios y el apoyo a los territorios afectados por el terremoto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tienen la misma información genética, es único en Colombia: Doctora sobre nacimiento de cuatrillizos",
+  "enlace": "https://caracol.com.co/2026/10/22/tienen-la-misma-informacion-genetica-es-unico-en-colombia-doctora-sobre-nacimiento-de-cuatrillizos/",
+  "fecha": "2026-10-22T10:45:24-05:00",
+  "palabras": "",
+  "lead": "El padre de los cuatrillizos afirmó que la mujer se encuentra estable tras el nacimiento de los menores",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 22 de octubre de 2026",
+  "enlace": "https://caracol.com.co/2026/10/22/precio-y-cotizacion-del-dolar-en-venezuela-hoy-22-de-octubre-de-2026/",
+  "fecha": "2026-10-22T10:50:16-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en el dólar y otras divisas del mundo, y cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿El cannabis medicinal deja una adicción en el paciente? Experta responde",
+  "enlace": "https://caracol.com.co/2026/10/22/el-cannabis-medicinal-deja-una-adiccion-en-el-paciente-experta-responde/",
+  "fecha": "2026-10-22T10:48:38-05:00",
+  "palabras": "",
+  "lead": "Carola Pérez, presidenta del Observatorio Español de Cannabis Medicinal, habló en 6AM W sobre la llegada del cannabis medicinal a los hospitales españoles.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expertos de cuatro países debatirán sobre salud infantil, salud mental en congreso internacional",
+  "enlace": "https://caracol.com.co/2026/10/22/expertos-de-cuatro-paises-debatiran-sobre-salud-infantil-salud-mental-en-congreso-internacional/",
+  "fecha": "2026-10-22T10:44:03-05:00",
+  "palabras": "",
+  "lead": "El encuentro reunirá a especialistas de Colombia, España, Chile y Ecuador los días 11 y 12 de noviembre. La participación será gratuita, con inscripción previa hasta el 31 de octubre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El legado de Amy Winehouse fue celebrado con un concierto por los 20 años del álbum “Back to Black”",
+  "enlace": "https://caracol.com.co/2026/10/22/el-legado-de-amy-winehouse-fue-celebrado-con-un-concierto-por-los-20-anos-del-album-back-to-black/",
+  "fecha": "2026-10-22T10:36:16-05:00",
+  "palabras": "",
+  "lead": "Mark Ronson y Salaam Remi reunieron a un elenco estelar, compuesto exclusivamente por mujeres, para el homenaje, respaldadas por la banda de Amy Winehouse, con 11 artistas, una por cada canción del álbum.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Neiva activa rutas de atención y prevención ante riesgos de orden público",
+  "enlace": "https://caracol.com.co/2026/10/22/en-neiva-activa-rutas-de-atencion-y-prevencion-ante-riesgos-de-orden-publico/",
+  "fecha": "2026-10-22T10:35:53-05:00",
+  "palabras": "",
+  "lead": "Se reportan 13 rutas de atención y articula acciones con docentes y organismos de seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desde el distrito de Santa Marta se busca mejorar el trabajo con las comunidades",
+  "enlace": "https://caracol.com.co/2026/10/22/desde-el-distrito-de-santa-marta-se-busca-mejorar-el-trabajo-con-las-comunidades/",
+  "fecha": "2026-10-22T10:33:42-05:00",
+  "palabras": "",
+  "lead": "A través de un espacio de diálogo y concertación para fortalecer el trabajo conjunto, hacer seguimiento a los compromisos adquiridos en los barrios y avanzar en el cumplimiento de los acuerdos establecidos desde el distrito con la ciudadanía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nacieron en Medellín cuatrillizos idénticos: sería el primer caso registrado en Colombia",
+  "enlace": "https://caracol.com.co/2026/10/22/nacieron-en-medellin-cuatrillizos-identicos-seria-el-primer-caso-registrado-en-colombia/",
+  "fecha": "2026-10-22T10:12:49-05:00",
+  "palabras": "",
+  "lead": "Una pareja de Caucasia recibió a sus cuatro hijos en la Clínica del Prado de Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ozuna firma acuerdo editorial con EMPIRE para administrar sus futuras canciones a nivel mundial",
+  "enlace": "https://caracol.com.co/2026/10/22/ozuna-firma-acuerdo-editorial-con-empire-para-administrar-sus-futuras-canciones-a-nivel-mundial/",
+  "fecha": "2026-10-22T10:26:32-05:00",
+  "palabras": "",
+  "lead": "El artista puertorriqueño anunció la alianza durante la Semana Billboard de la Música Latina 2026. El acuerdo incluye servicios creativos y de sincronización, y marca una nueva etapa en la administración de sus composiciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deslizamiento destruyó cuatro viviendas y mantiene en riesgo a familias en el Moniquirá",
+  "enlace": "https://caracol.com.co/2026/10/22/deslizamiento-destruyo-cuatro-viviendas-y-mantiene-en-riesgo-a-familias-en-el-moniquira/",
+  "fecha": "2026-10-22T10:20:18-05:00",
+  "palabras": "",
+  "lead": "Grietas de hasta 6 metros y filtraciones de agua antecedieron el movimiento en masa que destruyó las casas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Argentina declara organizaciones terroristas al Cártel de Sinaloa, las FARC-EP y al ELN",
+  "enlace": "https://caracol.com.co/2026/10/22/argentina-declara-organizaciones-terroristas-al-cartel-de-sinaloa-las-farc-ep-y-al-eln/",
+  "fecha": "2026-10-22T10:17:24-05:00",
+  "palabras": "",
+  "lead": "Las cinco organizaciones fueron incorporadas al registro argentino de entidades vinculadas con el objetivo de reforzar la prevención y el intercambio de información internacional.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensoría del Pueblo pide revisar nombramientos en el Gobierno por denuncias de violencia de género",
+  "enlace": "https://caracol.com.co/2026/10/22/defensoria-del-pueblo-pide-revisar-nombramientos-en-altos-cargos-por-denuncias-de-violencia-de-gener/",
+  "fecha": "2026-10-22T10:14:45-05:00",
+  "palabras": "",
+  "lead": "La entidad se refirió a tres casos relacionados con funcionarios o posibles funcionarios del Estado que enfrentan denuncias o procesos por presuntas violencias contra las mujeres. Aclaró que se debe respetar la presunción de inocencia, pero insistió en la obligación de actuar con debida diligencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SAC y ANT retoman diálogo tras cuatro años de distancia",
+  "enlace": "https://www.lafm.com.co/economia/sac-y-ant-retoman-dialogo-tras-cuatro-anos-414798",
+  "fecha": "2026-10-22T11:02:00-05:00",
+  "palabras": "Economía,Agencia Nacional de Tierras,Reconciliación,Acuerdo,Ley de tierras,Agricultores,Juntas Directivas,Secretario de Transparencia de Presidencia,Reforma Rural Integral",
+  "lead": "La SAC y la ANT reanudaron el diálogo tras cuatro años, con el compromiso de revisar errores y fortalecer la seguridad jurídica de la tierra.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "A la cárcel implicados en atentado contra Batallón Pichincha",
+  "enlace": "https://www.lafm.com.co/actualidad/cali-valle-del-cauca-carcel-dos-implicados-en-el-atentado-contra-el-batallon-pichincha-414795",
+  "fecha": "2026-10-22T11:00:00-05:00",
+  "palabras": "Actualidad,Valle del Cauca,Cali, Colombia,disidencias,Disidentes de las Farc,Cárcel,atentado,ataque explosivo,Ejército Nacional",
+  "lead": "Alias ‘Barbas’ habría facilitado el traslado del bus bomba y la huida del conductor, mientras que Pozo vigilaba los movimientos de las autoridades.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué es la falla de PHP y por qué afecta a siete de cada diez sitios web en el mundo?",
+  "enlace": "https://www.lafm.com.co/sociedad/que-es-la-falla-de-php-y-por-que-afecta-a-siete-de-cada-diez-sitios-web-en-el-mundo-414796",
+  "fecha": "2026-10-22T10:45:00-05:00",
+  "palabras": "Sociedad,ciberseguridad,Seguridad informática,Ciberataques global,Inteligencia artificial,Fallas en sistema,Amenazas,Intento de hackeo,Internet,Tecnología",
+  "lead": "Wiz, empresa de ciberseguridad, fue una de las encargadas de reconocer los puntos débiles del sistema, destacándolos como los “más graves”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Construir en altura, la salida a la vivienda según Harvard",
+  "enlace": "https://www.lafm.com.co/sociedad/vivienda-colombia-construir-altura-experto-harvard-camacol-414788",
+  "fecha": "2026-10-22T10:41:00-05:00",
+  "palabras": "Sociedad,vivienda,Costo de viviendas,Sector construcción,Rascacielos,Conjuntos residenciales,Propiedad horizontal,Ministerio de Vivienda,Camacol,Estados Unidos,Vivienda de interés social",
+  "lead": "Según el académico, el mundo no enfrenta una escasez de suelo. Para ilustrarlo, señaló que toda la población mundial cabría en lotes de una veinteava parte...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Luis Díaz no sería convocado a la Selección Colombia por lesión en Bayern Munich",
+  "enlace": "https://www.lafm.com.co/deportes/luis-diaz-lesion-bayern-munich-baja-seleccion-colombia-amistosos-414792",
+  "fecha": "2026-10-22T10:24:00-05:00",
+  "palabras": "Deportes,Luis Díaz,Lesiones,Jugador lesionado,Parte médico,Bayern Múnich,Liga de Campeones,Selección Colombia,Partido amistoso",
+  "lead": "Bayern Munich emitió un parte médico oficial sobre la lesión del colombiano en la Champions. Podría estar afuera de las canchas casi un mes.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fiscalía prorrogó por un año más orden de captura contra Zulma Guzmán",
+  "enlace": "https://www.lafm.com.co/orden-publico/fiscalia-prorrogo-ano-mas-orden-de-captura-contra-zulma-guzman-por-homicidio-de-menores-envenenados-con-talio-414791",
+  "fecha": "2026-10-22T10:21:00-05:00",
+  "palabras": "Orden Público,Homicidios,Intoxicación,Asesinato,Víctimas,Medicina Legal,Órdenes de captura,Capturados,Investigaciones,asesino,Fiscalía General de la Nación",
+  "lead": "El 9 de noviembre Fiscalía imputará cargos a Zulma Guzmán por homicidio agravado y tentativa de homicidio agravado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mantendremos el diálogo, respeto y trabajo armónico: Presidente del Congreso tras salida de Lara y llegada de Ordóñez",
+  "enlace": "https://www.lafm.com.co/politica/presidente-del-congreso-salida-de-rodrigo-lara-y-llegada-de-alejandro-ordonez-mantendremos-dialogo-respeto-gobierno-414790",
+  "fecha": "2026-10-22T10:16:00-05:00",
+  "palabras": "Política,Rodrigo Lara,Ministerio del interior,Congreso de la República",
+  "lead": "Alejandro Ordóñez será el nuevo ministro del Interior tras la salida de Rodrigo Lara.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Operativo militar da de baja a un presunto integrante del clan del golfo",
+  "enlace": "https://www.lafm.com.co/orden-publico/operativo-militar-baja-integrante-clan-golfo-antioquia-414789",
+  "fecha": "2026-10-22T09:57:00-05:00",
+  "palabras": "Orden Público,Ejército Nacional,Antioquia,Clan del Golfo",
+  "lead": "Durante la operación murió un hombre señalado de pertenecer a la subestructura Jorge Mario Valle y las autoridades incautaron un fusil, más de 350 cartucho...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alerta por faltante de $1,84 billones: salud de los maestros",
+  "enlace": "https://www.lafm.com.co/economia/procuraduria-alerta-faltante-184-billones-salud-maestros-fomag-contrato-fiduciario-414786",
+  "fecha": "2026-10-22T09:31:00-05:00",
+  "palabras": "Economía,Fomag,Salud,Procuraduría General de la Nación",
+  "lead": "Procuraduría alerta faltante de $1,84 billones para salud del magisterio y pide garantías: contrato fiduciario vence el 31 de octubre.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
