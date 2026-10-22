@@ -657,6 +657,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "En el sector de Caracolí en Ibagué fueron capturados cinco policías presuntamente implicados en el homicidio de Donavan Balanta, un joven de 34 años tras un procedimiento judicial.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:40",
+   "quien": "Carlos Ríos (Senador de la República)",
+   "que": "Denunció que en la presidencia de Gustavo Petro se firmaron contratos con el Ministerio del Interior, del Trabajo y el DPS, la mayoría en Nariño, por 3 o 4 millones de pesos por prestación de servicios entre 2022 y 2023, y que se estima que al año el Gobierno se gastaba unos 2.000 millones de pesos para pagarles a estas 48 mujeres.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:40",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Informó que el senador Gustavo Petro salió al contrataque contra Angie Rodríguez, diciendo que es falso que en su celular haya videos o fotografías sexuales y que jamás se consumieron drogas o alcohol, y que no es esclavo de ninguna adicción.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:40",
+   "quien": "Dr. Ríos",
+   "que": "Denunció que hay 48 personas, en este caso mujeres, contratadas en el Dapre para instrumentalizarlas, utilizando recursos públicos para fines que no están claros, y pidió que el presidente demuestre que no fue así.",
+   "resaltar": false
   }
  ],
  "avisos": [
