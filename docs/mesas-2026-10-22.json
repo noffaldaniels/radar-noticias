@@ -475,6 +475,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "La salida de Lara también se da en un contexto en el que se cuestiona el manejo del Congreso y la necesidad de ajustar las finanzas públicas.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:40",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Las fuertes lluvias en las últimas horas han afectado a 247 familias en 18 municipios del Tolima. En Ibagué, una creciente destruyó una casa y dejó sectores sin agua ni energía. En el departamento de Santander y en La Guajira también se reportan daños.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:40",
+   "quien": "Clevencia Vargas (Hija de Germán Vargas Lleras)",
+   "que": "Anunció que el próximo lunes 26 de octubre presentará una denuncia ante la Fiscalía por el caso del denominado pacto de Valledupar, con el que se buscaba desprestigiar a su padre y a otras figuras políticas como el ex presidente Álvaro Uribe.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:40",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Por orden del presidente Abelardo De La Espriella, 41 internos de la cárcel Las Mercedes de Montería fueron trasladados a otros centros penitenciarios del país, señalados de realizar extorsiones desde prisión.",
+   "resaltar": false
   }
  ],
  "avisos": [
