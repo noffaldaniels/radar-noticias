@@ -636,6 +636,27 @@
    "quien": "Don Quique",
    "que": "Presidente de la Corporación Gastronómica de Popayán, destacó la importancia del Congreso Gastronómico y la inclusión de Popayán y Cali en la doble calzada.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:23",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Un juez impuso medida no privativa de la libertad al exgobernador de San Andrés capturado por delitos de extorsión agravada tentada y secuestro extorsivo en un caso de 3.000 millones de pesos con contratistas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:23",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En Cartagena, el Congreso de Asohofas discute el futuro económico y social con cajas de compensación que benefician a más de 21 millones de colombianos en vivienda, empleo, educación y salud.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:29",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En el sector de Caracolí en Ibagué fueron capturados cinco policías presuntamente implicados en el homicidio de Donavan Balanta, un joven de 34 años tras un procedimiento judicial.",
+   "resaltar": true
   }
  ],
  "avisos": [
