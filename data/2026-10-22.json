@@ -3461,7 +3461,7 @@
   "palabras": "Noticias de hoy, Cali, Terremoto hoy",
   "lead": "La sede principal del Nuevo Latir es una de las ocho sedes educativas de la ciudad que hoy están cerradas por el riesgo que representan para los estudiantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3472,7 +3472,7 @@
   "palabras": "Ministerio de Trabajo, Tribunal Administrativo Cundinamarca",
   "lead": "Los demandantes pidieron que se declarara que la Nación había incumplido el deber legal de reglamentar la afiliación de las mujeres rurales y campesinas que no acceden al sistema mediante cotizaciones contributivas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3483,7 +3483,7 @@
   "palabras": "Luis Díaz, Javier Hernández Bonnet, Bayern Múnich, Selección Colombia, lesión de Luis Díaz, luis diaz",
   "lead": "El guajiro no podrá ser convocado en la fecha Fifa de Noviembre por la Selección Colombia tras su molestia en la pierna izquierda.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3494,7 +3494,7 @@
   "palabras": "Deportivo Cali, Entrevista, Liga BetPlay, cali, deportivo cali",
   "lead": "Aunque el azucarero vivió momentos complejos por los resultados, ahora puede trabajar con más tranquilidad tras obtener la clasificación.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3505,7 +3505,7 @@
   "palabras": "Rodrigo Lara, Ministerio del Interior",
   "lead": "El nuevo ministro del Interior será el actual embajador ante la OEA, Alejandro Ordoñez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3516,7 +3516,7 @@
   "palabras": "Antioquia, Clan del Golfo, Urabá, Noticias de hoy",
   "lead": "Las acciones del Ejército Nacional se llevaron a cabo en jurisdicción del municipio de Dabeiba, afectando capacidades logísticas de la subrestructura Carlos Vásquez.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3527,7 +3527,7 @@
   "palabras": "",
   "lead": "Se trata de los premios La Caimana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3538,7 +3538,7 @@
   "palabras": "",
   "lead": "El ministro saliente Rodrigo Lara resaltó los logros que tuvo durante su paso por el Ministerio del Interior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3549,7 +3549,7 @@
   "palabras": "",
   "lead": "El bombardeo desarrollado en zona rural de El Tambo, Cauca, dejó 9 integrantes de ese grupo muertos, entre ellos, alias ‘Marcos Pacífico’, objetivo de “alto valor”",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3560,7 +3560,7 @@
   "palabras": "",
   "lead": "La plataforma financiera, antes conocida como DolarApp, ofrece servicios para ahorrar en dólares digitales, recibir pagos del exterior y hacer transferencias internacionales con tarifas fijas de 3 dólares o euros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3571,7 +3571,7 @@
   "palabras": "",
   "lead": "Estudiantes piden instalar nuevas luminarias en el sector de la entrada peatonal, en inmediaciones del barrio La Paz. La comunidad universitaria reunió 300 firmas para solicitar soluciones a la Alcaldía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3582,7 +3582,7 @@
   "palabras": "",
   "lead": "El exrepresentante Wadith Manzur intervino en su audiencia previa al juicio y aseguró que fue “a los trancazos” que se hizo el reparto de la investigación de la UNGRD",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3593,7 +3593,7 @@
   "palabras": "",
   "lead": "Ramiro Castilla, agente interventor de la compañía, expuso la situación financiera y operativa de la empresa durante la Audiencia Nacional de Equilibrio Energético, en Barranquilla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3604,7 +3604,7 @@
   "palabras": "",
   "lead": "El presidente de la agremiación de comerciantes indicó que es fundamental tener en cuenta los datos inflacionarios",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3615,7 +3615,7 @@
   "palabras": "",
   "lead": "Abrirá sus puertas este sábado con el presidente Abelardo De La Espriella",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3626,7 +3626,7 @@
   "palabras": "",
   "lead": "Skerritt falleció el miércoles por causas naturales, según su representante.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3637,7 +3637,7 @@
   "palabras": "",
   "lead": "Los jóvenes de Bolívar lograron un importante avance para fortalecer su participación en las decisiones del Gobierno departamental",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3648,7 +3648,7 @@
   "palabras": "",
   "lead": "Una buena gestión de riesgos fortalece la confianza y la estabilidad del sistema financiero",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3659,7 +3659,7 @@
   "palabras": "",
   "lead": "El movimiento anunció una convención departamental para el sábado 24 de octubre en Tunja. La organización busca reunir a sus dirigentes territoriales y prepararse para las próximas elecciones regionales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3670,7 +3670,7 @@
   "palabras": "",
   "lead": "La Alcaldía de Medellín entregó el último módulo del equipamiento cultural de la comuna 1, Popular, tras superar obstáculos contractuales, financieros y técnicos. La intervención representó una inversión acumulada cercana a los $56.000 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3681,7 +3681,7 @@
   "palabras": "Sociedad,Evento astronómico,Astronomía,cometa,Octubre,estrellas,Sistema Solar",
   "lead": "La lluvia de meteoros Oriónidas alcanza su pico en octubre de 2026. La NASA explica cuándo observarla y cómo ubicarla en el cielo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3692,7 +3692,7 @@
   "palabras": "Actualidad,Emergencia,Lluvias,Avalancha,desbordamiento",
   "lead": "\"En segundos lo perdimos todo\": El desgarrador relato de una pareja de adultos mayores que sobrevivió a la avalancha en el Cañón del Combeima.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3703,7 +3703,7 @@
   "palabras": "Orden Público,Fuerzas Militares,ELN,Cauca,Nariño,Ejército Nacional,FAC",
   "lead": "Desde la madrugada, las tropas del Comando Conjunto de Operaciones Especiales de Colombia, CCOES, llevaban a cabo esta operación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3714,7 +3714,7 @@
   "palabras": "Sociedad,Ministerio de Ciencia, Tecnología e Innovación,Icetex,Convocatoria,Doctorado,Posgrados,Estudiar maestrías,Financiamiento,Apoyo económico,matriculas,Instituciones de Educación Superior",
   "lead": "Los seleccionados recibirán guía del ICETEX para formalizar apoyos de matrícula, sostenimiento y proyectos de investigación tras completar los trámites.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3725,7 +3725,7 @@
   "palabras": "Orden Público,UNGRD,Corte Suprema de Justicia,Congreso de la República",
   "lead": "Wadith Manzur pide anular su proceso por presuntas irregularidades en el reparto ante la Corte Suprema, en el caso UNGRD por cohecho impropio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3736,7 +3736,7 @@
   "palabras": "Política,Visa,Estados Unidos,Ricardo Roa,Ecopetrol",
   "lead": "El también ex gerente general de la campaña de Petro Presidente protagoniza una nueva polémica.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3746,6 +3746,336 @@
   "fecha": "2026-10-22T09:31:00-05:00",
   "palabras": "Orden Público,Vichada,ELN,Incautación de explosivos",
   "lead": "Le quitaron al ELN 10 toneladas de coltán que iban para Europa desde el Vichada aseguró el Ejército",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras vender empresa por US$120 millones, hombre toma decisión que deja a todos boquiabiertos",
+  "enlace": "https://www.bluradio.com/mundo/tras-vender-empresa-por-us-120-millones-hombre-toma-decision-que-deja-a-todos-boquiabiertos-rs15",
+  "fecha": "2026-10-22T15:22:25-05:00",
+  "palabras": "Empresas sostenibles, España",
+  "lead": "La decisión se conoció después de que la multinacional neerlandesa Wolters Kluwer adquiriera la firma.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía dispuso nuevas órdenes de policía judicial tras conocerse necropsia de Baby Demoni",
+  "enlace": "https://www.bluradio.com/judicial/fiscalia-dispuso-nuevas-ordenes-de-policia-judicial-tras-conocerse-necropsia-de-baby-demoni-rg10",
+  "fecha": "2026-10-22T15:12:45-05:00",
+  "palabras": "Fiscalía General de la Nación",
+  "lead": "La Fiscalía indicó que, desde que tuvo conocimiento de los hechos, el caso quedó a cargo de la Unidad de Vida de la Seccional Bogotá y se abrió una indagación por el delito de homicidio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pacto Valledupar: piden investigar a Víctor de Currea-Lugo por presuntos delitos electorales durante presidenciales",
+  "enlace": "https://www.bluradio.com/nacion/pacto-valledupar-piden-investigar-a-victor-de-currea-lugo-por-presuntos-delitos-electorales-rg10",
+  "fecha": "2026-10-22T15:34:13-05:00",
+  "palabras": "Fiscalía General de la Nación, Salvatore Mancuso",
+  "lead": "La Red de Veedurías de Colombia radicó ante la fiscal general de la Nación, Luz Adriana Camargo Garzón, una denuncia penal contra Víctor de Currea-Lugo, exasesor del Departamento Administrativo de la Presidencia (DAPRE).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bombardeo en el Cauca deja 9 miembros del ELN muertos: entre ellos estaría alias ‘Marcos Pacífico’",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/bombardeo-en-el-cauca-deja-9-miembros-del-eln-muertos-entre-ellos-estaria-alias-marcos-pacifico-rg10",
+  "fecha": "2026-10-22T15:27:52-05:00",
+  "palabras": "Noticias de hoy, Cauca",
+  "lead": "La operación fue realizada en zona rural de El Tambo. El presunto cabecilla dirigía tres estructuras del ELN con presencia en Cauca, Nariño y Valle.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "JEP condena coronel por 38 falsos positivos: 22 de octubre 2026, Meridiano Blu, programa completo",
+  "enlace": "https://www.bluradio.com/meridiano-blu/jep-condena-coronel-por-38-falsos-positivos-22-de-octubre-2026-meridiano-blu-programa-completo-pr30",
+  "fecha": "2026-10-22T15:43:52-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Golpes al microtráfico en Floridablanca y Girón dejan diez capturados",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/golpes-al-microtrafico-en-floridablanca-y-giron-dejan-diez-capturados-rg10",
+  "fecha": "2026-10-22T15:41:54-05:00",
+  "palabras": "Santander, Tráfico de drogas, Noticias de hoy, Blu Radio",
+  "lead": "Diez personas fueron judicializadas por presunto tráfico de drogas en Floridablanca y Girón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo golpe a las Autodefensas de la Sierra Nevada: capturan al presunto sucesor de 'Bendito Menor'",
+  "enlace": "https://www.bluradio.com/nacion/nuevo-golpe-a-las-autodefensas-de-la-sierra-nevada-capturan-al-presunto-sucesor-de-bendito-menor-rg10",
+  "fecha": "2026-10-22T15:57:05-05:00",
+  "palabras": "Autodefensas de la Sierra Nevada, Abelardo De La Espriella",
+  "lead": "Las autoridades también incautaron una granada de fragmentación, 120 cartuchos calibre 38, una camioneta y tres teléfonos celulares.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así fue el desempeño de los colombianos por la tercera fecha de la Europa League",
+  "enlace": "https://caracol.com.co/2026/10/22/asi-fue-el-desempeno-de-los-colombianos-por-la-tercera-fecha-de-la-europa-league/",
+  "fecha": "2026-10-22T16:05:26-05:00",
+  "palabras": "",
+  "lead": "Debido a las lesiones, únicamente dos de los cuatro colombianos sumaron minutos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Restablecen derechos a dos niños tras operativo contra trabajo infantil en el norte de Barranquilla",
+  "enlace": "https://caracol.com.co/2026/10/22/restablecen-derechos-a-dos-ninos-tras-operativo-contra-trabajo-infantil-en-el-norte-de-barranquilla/",
+  "fecha": "2026-10-22T16:02:30-05:00",
+  "palabras": "",
+  "lead": "La intervención se realizó en la calle 100 con carrera 46 para atender situaciones relacionadas con la mendicidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este es el prontuario criminal de Marcos Pacífico, cabecilla del ELN que habría muerto en bombardeo",
+  "enlace": "https://caracol.com.co/2026/10/22/este-era-el-prontuario-criminal-de-marcos-pacifico-cabecilla-del-eln-muerto-en-bombardeo-de-ffmm/",
+  "fecha": "2026-10-22T15:38:38-05:00",
+  "palabras": "",
+  "lead": "Dentro de los hechos que le atribuían las autoridades figura una incursión armada en noviembre de 2017 en zona rural de Magüí Payán, Nariño, donde se registraron enfrentamientos que dejaron 13 personas asesinadas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinaron a dos personas en la vía entre Yarumal y Valdivia",
+  "enlace": "https://caracol.com.co/2026/10/22/asesinaron-a-dos-personas-en-la-via-entre-yarumal-y-valdivia/",
+  "fecha": "2026-10-22T15:25:47-05:00",
+  "palabras": "",
+  "lead": "Según el reporte preliminar, son un hombre y una mujer las víctimas del ataque armado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a alias ‘Castaño’, presunto coordinador de extorsiones y desplazamiento ilegal en Medellín",
+  "enlace": "https://caracol.com.co/2026/10/22/capturan-a-alias-castano-presunto-coordinador-de-extorsiones-y-desplazamiento-ilegal-en-medellin/",
+  "fecha": "2026-10-22T15:53:15-05:00",
+  "palabras": "",
+  "lead": "Comerciantes de tiendas, tabernas y almacenes eran presionados semanalmente bajo amenazas para pagar cuotas extorsivas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevas oportunidades laborales en el metro de Bogotá: vacantes, fechas clave y cómo postularse",
+  "enlace": "https://caracol.com.co/2026/10/22/nuevas-oportunidades-laborales-en-el-metro-de-bogota-vacantes-fechas-clave-y-como-postularse/",
+  "fecha": "2026-10-22T15:52:12-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo aplicar a las distintas ofertas laborales vinculadas directamente con la Línea 1 del Metro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cancelan ‘La noche de las ánimas’ en el Cementerio Central de Bogotá: estas son las razones",
+  "enlace": "https://caracol.com.co/2026/10/22/cancelan-la-noche-de-las-animas-en-el-cementerio-central-de-bogota-estas-son-las-razones/",
+  "fecha": "2026-10-22T15:48:23-05:00",
+  "palabras": "",
+  "lead": "La UAESP frenó el evento de Halloween tras las alertas de MinCultura por posibles riesgos al patrimonio histórico del Cementerio Central. Rafael Taibo defendió la propuesta y negó que incluyera rituales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dónde y cuándo ver las películas de la Muestra Internacional Documental de Bogotá 2026",
+  "enlace": "https://caracol.com.co/2026/10/22/donde-y-cuando-ver-las-peliculas-de-la-muestra-internacional-documental-de-bogota-2026/",
+  "fecha": "2026-10-22T15:42:46-05:00",
+  "palabras": "",
+  "lead": "Documentales de 40 países se proyectarán durante un novenario de días en varias salas de cine de Bogotá en la versión 28 de la Muestra Internacional Documental de Bogotá – MIDBO",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría alerta el vencimiento del fiduciario FOMAG y un faltante de $1,84 billones para salud",
+  "enlace": "https://caracol.com.co/2026/10/22/procuraduria-alerta-el-vencimiento-del-fiduciario-fomag-y-un-faltante-de-184-billones-para-salud/",
+  "fecha": "2026-10-22T15:16:29-05:00",
+  "palabras": "",
+  "lead": "Pese a los riesgos financieros y contractuales el Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG) deberá seguir garantizando la continuidad de la atención en salud por solicitud de la Procuraduría General de la Nación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operativo en Rionegro deja un capturado, 16 cambuches retirados y la incautación de armas y drogas",
+  "enlace": "https://caracol.com.co/2026/10/22/operativo-en-rionegro-deja-un-capturado-16-cambuches-retirados-y-la-incautacion-de-armas-y-drogas/",
+  "fecha": "2026-10-22T15:15:43-05:00",
+  "palabras": "",
+  "lead": "Las autoridades refuerzan los operativos de control en el municipio para prevenir delitos y devolverles la tranquilidad a los ciudadanos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reconstrucción de Pereira: presidente anuncia recursos para vivienda, comercio y cafeteros",
+  "enlace": "https://caracol.com.co/2026/10/22/reconstruccion-de-pereira-presidente-anuncia-recursos-para-vivienda-comercio-y-cafeteros/",
+  "fecha": "2026-10-22T15:08:18-05:00",
+  "palabras": "",
+  "lead": "También aseguró que el Fondo Milagro tendrá una nueva inversión y que, desde hoy empieza la reconstrucción de Risaralda.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Virus Shamonda: El patógeno que tiene en alerta a Europa",
+  "enlace": "https://www.lafm.com.co/internacional/virus-shamonda-muerte-de-persona-en-francia-414824",
+  "fecha": "2026-10-22T15:47:00-05:00",
+  "palabras": "Internacional,enfermedades,Alerta,epidemia,Insectos,medidas sanitarias,bioseguridad,Europa,OMS",
+  "lead": "Los animales, al estar infectados, pueden reaccionar con diarrea acuosa, fiebre alta y repentina, caída drástica e imprevista en la producción de leche.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Premios Billboard 2026: los colombianos que están nominados",
+  "enlace": "https://www.lafm.com.co/entretenimiento/premios-billboard-2026-colombianos-nominados-donde-ver-premiacion-414847",
+  "fecha": "2026-10-22T15:42:00-05:00",
+  "palabras": "Entretenimiento,música,Nominaciones,Karol G,Shakira,Maluma,Carlos Vives,Jessi Uribe,cantantes de reguetón,Artistas,premios",
+  "lead": "Karol G, Shakira, Beéle y Maluma figuran entre los colombianos nominados a los Premios Billboard de la Música Latina 2026.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quién ganó la sexta etapa Clásico Sistecrédito RCN?",
+  "enlace": "https://www.lafm.com.co/deportes/clasico-sistecredito-rcn-ganador-y-resumen-de-la-sexta-etapa-414849",
+  "fecha": "2026-10-22T15:36:00-05:00",
+  "palabras": "Deportes,Ciclismo,Deporte,Clásico RCN,Colombia",
+  "lead": "Una joven promesa deslumbró en una de las etapas más largas en la historia de la competición.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Un hombre herido por hostigamiento en Anorí, Antioquia",
+  "enlace": "https://www.lafm.com.co/orden-publico/hostigamiento-armado-contra-la-estacion-de-policia-de-anori-antioquia-dejo-un-hombre-herido-414848",
+  "fecha": "2026-10-22T15:33:00-05:00",
+  "palabras": "Orden Público,Antioquia,Policía Nacional,Hostigamiento,actos violentos",
+  "lead": "Hostigamiento armado contra la estación de Policía de Anorí, Antioquia, dejó un hombre herido en las últimas horas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Rescate: gremios piden cambios para atraer inversión",
+  "enlace": "https://www.lafm.com.co/economia/ley-de-rescate-gremios-petroleros-cambios-tributarios-inversion-414846",
+  "fecha": "2026-10-22T15:21:00-05:00",
+  "palabras": "Economía,Proyecto de ley,medidas fiscales,Incentivos tributarios,Recaudo fiscal,Impuesto de Renta,Recaudo tributario,PIB,Plan de austeridad,Beneficios tributarios,Medidas económicas",
+  "lead": "Los gremios de hidrocarburos proponen eliminar la sobretasa de renta al petróleo y establecer reglas estables para atraer inversiones, aumentar la producci...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Rodrigo Lara explicó los motivos su salida del MinInterior",
+  "enlace": "https://www.lafm.com.co/politica/rodrigo-lara-se-pronuncia-tras-salida-del-ministeiro-del-interior-agradece-abelardo-414843",
+  "fecha": "2026-10-22T15:12:00-05:00",
+  "palabras": "Política,Rodrigo Lara,Ministerio del interior,Abelardo de la Espriella,Gobierno,renuncia,renuncia a trabajo,Renuncia de funcinarios",
+  "lead": "En total el ministro Lara duró 76 días al frente de la cartera política.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno busca una salida para las EPS intervenidas: hay $7,5 billones en embargos judiciales",
+  "enlace": "https://www.lafm.com.co/sociedad/ministareio-salud-ministra-eps-intervenidas-liquidacion-embargos-deudas-crisis-medicamentos-414842",
+  "fecha": "2026-10-22T15:08:00-05:00",
+  "palabras": "Sociedad,Liquidación,Embargo de cuentas,Ley de insolvencia,proceso de reorganización,Supersalud,Procesos judiciales,alivios financieros,Reconciliación",
+  "lead": "Ana María Vesga planteó que la liquidación de las EPS bajo intervención debe ser la última alternativa y propuso negociar las deudas acumuladas, garantizar...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Empresa de transporte en Angelópolis  suspende un servicio",
+  "enlace": "https://www.lafm.com.co/orden-publico/antioquia-vehiculo-disparos-servicio-transporte-angelopolis-corregimiento-414841",
+  "fecha": "2026-10-22T14:48:00-05:00",
+  "palabras": "Orden Público,Alteración al orden público,Servicio de transporte,Antioquia,armas",
+  "lead": "Disparos contra un vehículo de transporte obligan a suspender el servicio hacia un corregimiento de Angelópolis, Antioquia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Revelan irregularidades en Polideportivo de Santa Marta",
+  "enlace": "https://www.lafm.com.co/politica/contraloria-declara-responsabilidad-fiscal-contra-exfuncionarios-de-santa-marta-414840",
+  "fecha": "2026-10-22T14:47:00-05:00",
+  "palabras": "Política,Fallo fiscal,Contraloría,Escenarios deportivos,Irregularidades en contratos,Detrimento patrimonial,Sanción económica,Contratistas,Irregularidades en manejo de recursos,Ministerio del Deporte,Alcalde de Santa Marta",
+  "lead": "La Contraloría determinó fallas en la custodia y mantenimiento, sobrecostos y duplicidad de pagos en los contratos de urbanismo para el Polideportivo del c...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Elon Musk contra Ucrania en el enfrentamiento vs. Rusia?",
+  "enlace": "https://www.lafm.com.co/internacional/elon-musk-habria-ordenado-hacer-mas-lento-el-internet-en-ucrania-por-que-414839",
+  "fecha": "2026-10-22T14:44:00-05:00",
+  "palabras": "Internacional,Elon Musk,Ucrania,Donald Trump,Rusia,Internet,Guerra",
+  "lead": "El conflicto entre Ucrania y Rusia continúa bajo la intervención de Trump para que este se detenga.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Plan de Choque en Salud: el 51 % de los pacientes con medicamentos pendientes",
+  "enlace": "https://www.lafm.com.co/sociedad/colombia-plan-salud-choque-medicamentos-pacientes-atencion-medica-ministra-informe-414838",
+  "fecha": "2026-10-22T14:42:00-05:00",
+  "palabras": "Sociedad,Ministerio de Salud,Atención a pacientes,pacientes",
+  "lead": "Con corte al 14 de octubre de 2026, las EPS reportaron la entrega de 12,5 millones de unidades de medicamentos y la resolución de 434.828 procedimientos. S...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Busca vuelos baratos para 2027? Wingo anunció tiquetes desde 79.000 pesos",
+  "enlace": "https://www.lafm.com.co/economia/wingo-tarifas-vuelos-baratos-wingo-sale-414757",
+  "fecha": "2026-10-22T06:22:00-05:00",
+  "palabras": "Economía,Vuelos,Transporte aéreo,aerolineas,Promociones,ofertas,ventas,precios,destinos internacionales,Viajes internacionales",
+  "lead": "La campaña incluye conexiones desde Bucaramanga, Medellín, Cali y Bogotá hacia destinos del Caribe, Centroamérica y Venezuela, con restricciones por fechas...",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
