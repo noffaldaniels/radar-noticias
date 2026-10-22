@@ -594,6 +594,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Eva Ferrer viaja la próxima semana, específicamente el 28 de octubre, a Washington para reunirse con el Departamento de Estado de EE.UU.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:27",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La Lotería de Bogotá cuenta con una bolsa de 12.000 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:24",
+   "quien": "Ricardo Ospina, Periodista de Mañanas Blu",
+   "que": "El último informe sobre el gasto de los hogares colombianos muestra que sigue creciendo, pero se desacelera.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:28",
+   "quien": "María Camila Orozco, Periodista de Mañanas Blu",
+   "que": "Se denunció que el gobierno de Gustavo Petro habría contratado a mujeres con contratos de OPS para fines ajenos a la función pública, vinculadas a la Presidencia de la República.",
+   "resaltar": false
   }
  ],
  "avisos": [
