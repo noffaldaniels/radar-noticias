@@ -579,7 +579,7 @@
   "palabras": "Viral, Video",
   "lead": "A través de redes sociales se popularizó el video que muestra el momento exacto en que cae una cruz sobre un sacerdote en Colombia tras la muerte del cura Patricia Sánchez en plena misa en Ecuador.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "Bucaramanga, Santander, Presidencia de la República, Invías, ANI, Ministerio de Transporte, Santander, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "La obra vial, esperada desde hace más de 50 años, enfrenta pendientes en la adquisición de 125 predios, la actualización de estudios y diseños y la financiación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "En la Secretaría se encontraron 10 hallazgos fiscales y en la Universidad Distrital 7.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "La alcaldía de Armenia suscribió el contrato con la universidad del Quindío para determinar que edificios deben ser demolidos total o parcial o serán recuperados o reconstruidos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "La denuncia, de 139 páginas, pide que Meta y X expliquen en un plazo de 48 horas el funcionamiento de sus sistemas de recomendación, inteligencia artificial y revisión de anuncios durante la campaña presidencial.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "La disminución de los recursos provenientes de EPM obligaría al Distrito a buscar créditos por $1,5 billones para financiar los programas sociales, los proyectos estratégicos y las metas del Plan de Desarrollo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "La herramienta permitirá a los usuarios consultar información del vehículo, identificar al conductor, calcular tarifas estimadas y calificar su experiencia de viaje.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Los ministros del Interior de Italia y España, Matteo Piantedosi y Fernando Grande-Marlaska, han acordado este jueves que no continuarán los controles recíprocos en las fronteras.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "En lo corrido del año, la Policía Nacional ha incautado 169 armas de fuego y 3470 cartuchos de diferentes calibres.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Nacional es líder absoluto de esta clasificación y tiene casi asegurada su presencia internacional en 2027. Repase cómo va la lucha.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "Se espera la intervención del Invias en las próximas horas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "Jennifer Pedraza, Luis Miguel López, Andrés Forero, Duvalier Sánchez y Carolina Corcho debatieron en 6AM W sobre la salida de Rodrigo Lara del Ministerio del Interior y la llegada de Alejandro Ordóñez en su reemplazo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,6 +711,204 @@
   "palabras": "",
   "lead": "El Gobierno Departamental anunció la entrega de capital semilla a 400 tenderos.",
   "seccion": "tolima",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alerta por cilindro abandonado en la entrada de un centro comercial al oriente de Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/alerta-por-cilindro-abandonado-en-la-entrada-de-un-centro-comercial-al-oriente-de-cali-rg10",
+  "fecha": "2026-10-22T07:01:00-05:00",
+  "palabras": "Cali, Disidencias Farc",
+  "lead": "La zona fue acordonada, mientras unidades antiexplosivos de la Policía verifican el contenido del cilindro en ese centro comercial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigación de la UIS revela relación entre accidentes cerebrovasculares y el Chagas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/investigacion-de-la-uis-revela-relacion-entre-accidentes-cerebrovasculares-y-el-chagas-rg10",
+  "fecha": "2026-10-22T06:49:35-05:00",
+  "palabras": "Bucaramanga, Santander, Universidad Industrial de Santander, Hospital Universitario de Santander, Blu Radio",
+  "lead": "Una investigación realizada por la UIS en el Hospital Universitario de Santander encontró que cerca del 30 % de los pacientes estudiados con ACV isquémico tenía la infección por Chagas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Viajar a la Isla del Encanto: ¿Por qué Puerto Rico vive un momento dorado en el turismo?",
+  "enlace": "https://www.bluradio.com/turismo/viajar-a-la-isla-del-encanto-por-que-puerto-rico-vive-un-momento-dorado-en-el-turismo-so35",
+  "fecha": "2026-10-22T07:04:05-05:00",
+  "palabras": "",
+  "lead": "Asimismo, la demanda en el sector alcanzó las 6,4 millones de noches vendidas, reflejando un repunte del 4 % interanual. Este dinamismo se tradujo además en un beneficio fiscal histórico: la recaudación por el impuesto a las habitaciones ascendió a 163,6 millones de dólares durante el año fiscal…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Monumento 14 de Neiva alcanza el 50 % de avance y proyecta entregar su primera fase en noviembre",
+  "enlace": "https://caracol.com.co/2026/10/22/monumento-14-de-neiva-alcanza-el-50-de-avance-y-proyecta-entregar-su-primera-fase-en-noviembre/",
+  "fecha": "2026-10-22T07:08:37-05:00",
+  "palabras": "",
+  "lead": "La obra tendrá 135 bóvedas y 288 osarios para dignificar a las víctimas del conflicto armado y honrar su memoria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Enviaron a prisión a hombres que secuestraron a dos mujeres que viajaban en un taxi en Medellín",
+  "enlace": "https://caracol.com.co/2026/10/22/enviaron-a-prision-a-hombres-que-secuestraron-a-dos-mujeres-que-viajaban-en-un-taxi-en-medellin/",
+  "fecha": "2026-10-22T07:04:12-05:00",
+  "palabras": "",
+  "lead": "Los sujetos las robaron, golpearon y exigieron 20 millones de pesos para su liberación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Shein y Temu le quitan mercado a la confección santandereana? Empresarios reportan pérdidas",
+  "enlace": "https://caracol.com.co/2026/10/22/shein-y-temu-le-quitan-mercado-a-la-confeccion-santandereana-empresarios-reportan-perdidas/",
+  "fecha": "2026-10-22T07:02:45-05:00",
+  "palabras": "",
+  "lead": "Empresarios advierten que la competencia por precios con las plataformas internacionales está golpeando la producción local y el empleo en el sector textil.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Miguel Ángel Borja le marcó a Camilo Vargas en goleada del América sobre el Atlas",
+  "enlace": "https://caracol.com.co/2026/10/22/video-miguel-angel-borja-le-marco-a-camilo-vargas-en-goleada-del-america-sobre-el-atlas/",
+  "fecha": "2026-10-22T07:03:11-05:00",
+  "palabras": "",
+  "lead": "El delantero cordobés mantiene su promedio de un gol por partido con el equipo mexicano.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detenido en Alemania un supuesto espía ruso imputado por recabar información militar",
+  "enlace": "https://caracol.com.co/2026/10/22/detenido-en-alemania-un-supuesto-espia-ruso-imputado-por-recabar-informacion-militar/",
+  "fecha": "2026-10-22T07:02:01-05:00",
+  "palabras": "",
+  "lead": "La investigación señala que el detenido habría mantenido contacto con los servicios de inteligencia rusos desde al menos julio de 2025 y que parte de la información obtenida estaba relacionada con vehículos blindados, munición, explosivos y posiciones vinculadas con la defensa del flanco oriental de la OTAN.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EBSA advierte riesgo de crisis energética y pide moderar alumbrados navideños",
+  "enlace": "https://caracol.com.co/2026/10/22/ebsa-advierte-riesgo-de-crisis-energetica-y-pide-moderar-alumbrados-navidenos/",
+  "fecha": "2026-10-22T07:01:56-05:00",
+  "palabras": "",
+  "lead": "Los aportes de agua a los embalses están 35 % por debajo de la media histórica y las reservas se encuentran alrededor del 75 % de su capacidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Emmanuel Macron anunció restricciones a manifestaciones en Francia y convocó un Consejo de Defensa",
+  "enlace": "https://caracol.com.co/2026/10/22/emmanuel-macron-anuncio-restricciones-a-manifestaciones-en-francia-y-convoco-un-consejo-de-defensa/",
+  "fecha": "2026-10-22T06:55:40-05:00",
+  "palabras": "",
+  "lead": "Las autoridades francesas mantienen investigaciones por los disturbios del 17 de octubre, que dejaron miles de detenidos y cientos de personas encarceladas, mientras el Gobierno prepara nuevas medidas para evitar que se repitan los episodios de violencia, saqueos y vandalismo registrados en varias ciudades.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fenalco Antioquia reconoció la labor de las empresas y comerciantes en La Noche de los Mejores",
+  "enlace": "https://caracol.com.co/2026/10/22/fenalco-reconocio-la-labor-de-las-empresas-y-comerciantes-en-la-noche-de-los-mejores/",
+  "fecha": "2026-10-22T06:49:39-05:00",
+  "palabras": "",
+  "lead": "Durante la ceremonia se reconoció el trabajo de los empresarios, tenderos, líderes gremiales, la innovación y el emprendimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades buscan al responsable de atacar con un machete a un perro en La Unión, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/22/autoridades-buscan-al-responsable-de-atacar-con-un-machete-a-un-perro-en-la-union-antioquia/",
+  "fecha": "2026-10-22T06:51:50-05:00",
+  "palabras": "",
+  "lead": "El animal está siendo atendido en un centro veterinario debido a la gravedad de las lesiones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las intensas lluvias en Dosquebradas provocaron más de 20 emergencias",
+  "enlace": "https://caracol.com.co/2026/10/22/las-intensas-lluvias-en-dosquebradas-provocaron-mas-de-20-emergencias/",
+  "fecha": "2026-10-22T06:49:47-05:00",
+  "palabras": "",
+  "lead": "Inundaciones y caída de árboles, entre las principales afectaciones por las lluvias en el municipio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla se prepara para la final de la Sudamericana y espera un impulso al turismo",
+  "enlace": "https://caracol.com.co/2026/10/22/barranquilla-se-prepara-para-la-final-de-la-sudamericana-y-espera-un-impulso-al-turismo/",
+  "fecha": "2026-10-22T06:49:19-05:00",
+  "palabras": "",
+  "lead": "El sector hotelero se prepara para atender la demanda de turistas que llegarán a la capital del Atlántico.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ascamcat reclama protección para la población civil en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/22/ascamcat-reclama-proteccion-para-la-poblacion-civil-en-el-catatumbo/",
+  "fecha": "2026-10-22T06:48:16-05:00",
+  "palabras": "",
+  "lead": "Mas de 87 ataques con drones se han registrado en la región",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La versión no oficial de la salida de Rodrigo Lara",
+  "enlace": "https://www.lafm.com.co/politica/salida-rodrigo-lara-ministro-interior-version-no-oficial-carlos-suarez-414763",
+  "fecha": "2026-10-22T06:49:00-05:00",
+  "palabras": "Política,Rodrigo Lara Sánchez,Abelardo de la Espriella,Rodrigo Lara",
+  "lead": "Lara comenzó a recibir ataques en redes sociales por parte de influenciadores que antes lo habían defendido y que participaron en la campaña presidencial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presupuesto General de 2027 por decreto: tercera vez desde 1991",
+  "enlace": "https://www.lafm.com.co/economia/colombia-tendra-presupuesto-general-expedido-decreto-414761",
+  "fecha": "2026-10-22T06:47:00-05:00",
+  "palabras": "Economía,decreto,Gobierno,Proyecto de ley,Ministerio de Hacienda y Crédito Público,Marco fiscal,situación financiera,finanzas,Financiamiento,Deuda externa,Regla fiscal",
+  "lead": "Por tercera vez desde 1991, Colombia expedirá por decreto el Presupuesto de 2027, que asciende a $634,9 billones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Por qué Meta estará obliga a pagar la multa más alta de su historia?",
+  "enlace": "https://www.lafm.com.co/internacional/meta-facebook-obligada-pagar-multimillonaria-indemnizacion-414760",
+  "fecha": "2026-10-22T06:42:00-05:00",
+  "palabras": "Internacional,Meta,Fallo judicial,Estados Unidos,Derecho a la intimidad,Sanción económica,Quejas de usuarios",
+  "lead": "El caso está relacionado con el engaño a usuarios de Facebook sobre la protección de sus datos personales.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
