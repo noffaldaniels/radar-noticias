@@ -139,6 +139,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El Congreso aprobó en primer debate el proyecto de ley de sometimiento a la justicia, que contempla rebajas de penas de hasta el 50%.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:17",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El exministro Rodrigo Lara se refirió a su salida del Gobierno, señalando que la falta de manejo al principio del Congreso y las discrepancias en el trámite del presupuesto afectaron su gestión.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:17",
+   "quien": "Daniel Jerez, Periodista",
+   "que": "Detalló que la salida de Rodrigo Lara del Ministerio de Hacienda se debió a diferencias en el trámite de proyectos y al manejo legislativo, lo que generó tensiones con el Congreso y la coalición de gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:20",
+   "quien": "José Manuel Restrepo, Vicepresidente de la República",
+   "que": "Anunció que el Gobierno nacional decretará el Presupuesto General de la Nación para el año entrante por un monto de 634,9 billones de pesos.",
+   "resaltar": false
   }
  ],
  "avisos": [
