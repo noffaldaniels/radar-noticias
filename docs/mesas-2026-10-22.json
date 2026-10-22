@@ -692,6 +692,20 @@
    "quien": "Estefanía Valencia, Periodista de Mañanas Blu",
    "que": "El SECOES reporta el primer bombardeo en el departamento de Nariño contra el Frente de Guerra Suroccidental del ELN, dejando ocho muertos y un menor recuperado.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:41",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se analiza la salida del ministro Rodrigo Lara y la llegada de Alejandro Ordóñez al gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:47",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Discusión sobre el rol de Alejandro Ordóñez y su relación con Carlos Suárez, así como su designación previa y su salida.",
+   "resaltar": false
   }
  ],
  "avisos": [
