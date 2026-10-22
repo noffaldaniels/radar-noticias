@@ -384,6 +384,27 @@
    "quien": "Juan Diego (Oyente)",
    "que": "El oyente Juan Diego ganó una camioneta de Hyundai, con el número 10.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se investiga qué se firmó, cuáles fueron los manuales de funciones y si realmente estaban haciendo una labor importante o no en el caso de las 48.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:01",
+   "quien": "Valeria Escalvarado, Periodista de Noticias La FM con Juan Lozano",
+   "que": "Tras 48 horas, el Ejército Nacional rescató a los soldados profesionales que estaban en una zona muy complicada en Insacauca.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:09",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El virus conocido como Shamondá, transmitido por insectos y que afecta al ganado, fue detectado por primera vez en un ser humano en Francia.",
+   "resaltar": false
   }
  ],
  "avisos": [
