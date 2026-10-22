@@ -1316,7 +1316,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 21 de octubre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Gobernación de Antioquia, Noticias de hoy, Abelardo De La Espriella, Gobierno nacional",
   "lead": "Según el gobernador Andrés Julián Rendón, la visita se enfocará en que esta región será esencial para el desarrollo económico del país, por lo que harán presencia en Puerto Antioquia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Eva Ferrer, Verónica Alcocer, Gustavo Petro, Narcotráfico",
   "lead": "Ferrer viajará desde España hasta Washington para sostener reuniones con dos agencias estadounidenses, el Departamento de Estado y la Administración para el Control de Drogas (DEA).",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "Procuraduría General de la Nación, Fomag",
   "lead": "El organismo de control pidió al Consejo Directivo del Fondo explicar cómo garantizará la continuidad de la atención médica desde el primero de noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "ELN, Abelardo De La Espriella",
   "lead": "Este es el quinto bombardeo ordenado por el presidente Abelardo de la Espriella contra grupos armados ilegales desde el inicio de su mandato, en agosto de 2026.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "Dapre, Gabinete Gustavo Petro, Gustavo Petro, Casa de Nariño",
   "lead": "Respecto al perfil de las 48 mujeres, las pesquisas iniciales han identificado características comunes: se tratataba de mujeres jóvenes, en su mayoría residentes de sectores populares de Bogotá, de escasos recursos económicos y baja escolaridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "las acciones militares continúan en desarrollo en la mañana de este jueves y se espera que las autoridades entreguen información sobre la ubicación del objetivo, la estructura del ELN contra la que va dirigida la ofensiva y el balance operacional, incluidas posibles bajas o capturas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "El extremo colombiano se lesionó este miércoles durante el partido de Liga de Campeones ante el Arsenal.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "En Ibagué hay cerca de 3.100 taxis, mientras que se denuncia que en las calles están trabajando más de 10 mil vehículos particulares y motos que prestan el servicio de transporte público ilegal.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "Corpochivor pidió a la ANLA verificar la autorización de una zona de aspersión de aguas residuales cercana al acueducto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "El exmagistrado de la Corte Suprema de Justicia, Jaime Arrubla, se refirió en 6AM W de Caracol Radio a la llegada de Alejandro Ordóñez al Ministerio del Interior y la salida de Rodrigo Lara.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "Con la destrucción del complejo de procesamiento, las autoridades debilitan la cadena de financiamiento de estructuras criminales en el departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "",
   "lead": "El jurista y profesor Ramiro Bejarano opinó acerca de la decisión que tomó el presidente Abelardo de la Espriella sobre el nombramiento de Alejandro Ordoñez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "La autoridad del Canal de Panamá reportó ingresos por US$6.600 millones durante el último año fiscal, un aumento del 16% frente al período anterior, en medio de cambios en las rutas marítimas globales y restricciones temporales por la falta de lluvias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "La Gobernación reunió a su equipo de gobierno y a los alcaldes municipales para avanzar en la identificación de proyectos que impulsen diferentes sectores.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "La denuncia ya fue radicada ante la Fiscalía, mientras las autoridades buscan identificar a los responsables del hecho ocurrido en la vereda Centro Llano de este municipio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "Así inició la jornada del dólar en Colombia este jueves, 22 de octubre. Conozca el comportamiento del dólar estadounidense, canadiense, australiano, petróleo y bitcoin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "Las autoridades francesas consideran que se trata de un caso excepcional y, con la información disponible hasta ahora, aseguran que no existe un riesgo sanitario identificado para la población general.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "Un ciudadano pide revisar las condiciones de seguridad de la vía ante la presencia de grandes rocas, una alcantarilla expuesta y una baranda que dificultaría el paso peatonal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "El artista santandereano Dany Vega lanzó Pase lo que pase, un sencillo que nació de una experiencia personal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "Niños, jóvenes y adultos podrán acceder a talleres, espacios de conversación y recursos para la construcción de entornos protectores de la salud mental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Un juez le impuso una medida de aseguramiento no privativa de la libertad",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "Los recursos se destinarían al funcionamiento de la Administración Central, el servicio de la deuda pública y a la ejecución de iniciativas de inversión.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Internacional,Arabia Saudita,Bangladesh,Medio Oriente,Islamismo",
   "lead": "Los jueces saudíes se ampararon en la figura jurídica del \"tazir\" que está dentro del sistema legal islámico.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Política,Oposición,Abelardo de la Espriella,Periodistas,Periodismo,debate político",
   "lead": "Según Darcy Quinn, la designación de Ordóñez genera reacciones diferentes entre los sectores políticos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,6 +1591,259 @@
   "palabras": "Política,Fiscalía General de la Nación,Irregularidades en contratos,contratos,Contratación,informe,Documentos,Investigaciones,Acusaciones",
   "lead": "El DAPRE prepara un informe sobre 48 mujeres contratadas por la Casa de Nariño que será entregado a la Fiscalía, tras las denuncias sobre presuntas irregul...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alerta por nuevo virus mortal Shamonda: ojo con los síntomas y así se transmite",
+  "enlace": "https://www.bluradio.com/salud/alerta-por-nuevo-virus-mortal-shamonda-ojo-con-los-sintomas-y-asi-se-transmite-rs15",
+  "fecha": "2026-10-22T09:36:06-05:00",
+  "palabras": "Virus, Francia, Viral",
+  "lead": "Las autoridades investigan cómo este patógeno, detectado principalmente en animales, logró infectar a un ser humano. Esto se sabe sobre su transmisión, los síntomas y los riesgos para la salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Four Seasons Cartagena inaugura El Aljibe: el speakeasy oculto que transforma la coctelería",
+  "enlace": "https://www.bluradio.com/turismo/four-seasons-cartagena-inaugura-el-aljibe-el-speakeasy-oculto-que-transforma-la-cocteleria-so35",
+  "fecha": "2026-10-22T09:30:18-05:00",
+  "palabras": "Cartagena",
+  "lead": "El nuevo bar funciona en una antigua cisterna histórica y propone una experiencia de coctelería que recorre los paisajes, ingredientes y tradiciones del país a través del agua.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paneleros de Santander alertan crisis: venden por debajo del costo de producción",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/paneleros-de-santander-alertan-crisis-venden-por-debajo-del-costo-de-produccion-rg10",
+  "fecha": "2026-10-22T09:32:50-05:00",
+  "palabras": "Santander, Panela, Bucaramanga, Economía, Blu Radio",
+  "lead": "Los bajos precios de compra y las deudas bancarias ponen en riesgo la continuidad de los trapiches y el sustento de cientos de familias paneleras en Santander.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luis Díaz estará varias semanas de baja: qué partidos se perdería con Colombia",
+  "enlace": "https://www.bluradio.com/deportes/futbol/malas-noticias-para-la-seleccion-colombia-se-confirma-la-lesion-de-luis-diaz-so35",
+  "fecha": "2026-10-22T09:50:26-05:00",
+  "palabras": "Luis Díaz, Selección Colombia, Bayern Múnich",
+  "lead": "El Bayern Múnich confirmó el diagnóstico médico del delantero colombiano, quien había salido lesionado frente al Arsenal. Su tiempo de recuperación pone en riesgo su regreso a la Tricolor.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel hombre señalado de almacenar más de 4.000 aletas de tiburón para venderlas en Ecuador",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-hombre-senalado-de-almacenar-mas-de-4-000-aletas-de-tiburon-para-venderlas-en-ecuador-rg10",
+  "fecha": "2026-10-22T10:06:22-05:00",
+  "palabras": "Fiscalía General de la Nación",
+  "lead": "La Fiscalía le imputó los delitos de aprovechamiento ilícito de los recursos naturales renovables y tráfico de fauna.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Oposición venezolana vuelve a las calles para exigir elecciones y el retorno de María Corina Machado",
+  "enlace": "https://www.bluradio.com/mundo/oposicion-venezolana-vuelve-a-las-calles-para-exigir-elecciones-y-el-retorno-de-maria-corina-machado-pr30",
+  "fecha": "2026-10-22T10:10:11-05:00",
+  "palabras": "",
+  "lead": "La movilización, calificada por la dirigencia opositora como una iniciativa pacífica e \"histórica\", se desarrolla en un clima de profunda desconfianza hacia las mesas de negociación y en medio de una maniobra del oficialismo para ocupar el espacio público mediante una marcha paralela a escasas…",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luisa González, excandidata presidencial de Ecuador, fue detenida: ¿por qué la investigan?",
+  "enlace": "https://www.bluradio.com/mundo/capturan-en-ecuador-a-luisa-gonzalez-excandidata-presidencial-del-correismo-cb20",
+  "fecha": "2026-10-22T09:25:27-05:00",
+  "palabras": "Ecuador, Rafael Correa, Noticias de hoy",
+  "lead": "La excandidata presidencial Luisa González fue detenida en Ecuador en medio de investigaciones por presunta financiación irregular de campañas, a pocas semanas de las elecciones locales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Procuraduría brasileña pidió que Meta restaure las cuentas suspendidas sin justificación.",
+  "enlace": "https://caracol.com.co/2026/10/22/la-procuraduria-brasilena-pidio-que-meta-restaure-las-cuentas-suspendidas-sin-justificacion/",
+  "fecha": "2026-10-22T09:55:04-05:00",
+  "palabras": "",
+  "lead": "La acción judicial se conoce a pocos días de la segunda vuelta presidencial entre Luiz Inácio Lula da Silva y Flávio Bolsonaro, en medio de denuncias de ambas campañas sobre posibles afectaciones en la difusión de contenidos políticos en las plataformas de Meta.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Quién fue el mejor colombiano en el Ranking UCI terminada la temporada? No fue Egan Bernal",
+  "enlace": "https://caracol.com.co/2026/10/22/quien-fue-el-mejor-colombiano-en-el-ranking-uci-terminada-la-temporada-no-fue-egan-bernal/",
+  "fecha": "2026-10-22T10:00:59-05:00",
+  "palabras": "",
+  "lead": "El esloveno Tadej Pogacar concluyó el 2026 como el mejor ciclista del escalafón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades reportan Golpe a finanzas del Clan del Golfo en Córdoba y Sucre",
+  "enlace": "https://caracol.com.co/2026/10/22/autoridades-reportan-golpe-a-finanzas-del-clan-del-golfo-en-cordoba-y-sucre/",
+  "fecha": "2026-10-22T09:14:31-05:00",
+  "palabras": "",
+  "lead": "Los seis capturados serían responsables de coordinar cobros ilegales y amenazas contra comerciantes y transportadores en Córdoba y Sucre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército incautó diez toneladas de coltán del ELN en Vichada, avaluadas en $16.000 millones",
+  "enlace": "https://caracol.com.co/2026/10/22/ejercito-incauto-diez-toneladas-de-coltan-del-eln-en-vichada-avaluadas-en-16000-millones/",
+  "fecha": "2026-10-22T09:54:36-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la información entregada por el Ejército, la incautación se produjo después de varios días de labores de inteligencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rafael Dudamel pidió perdón públicamente a Llaneros: “Quiero excusarme, nunca irrespeto al rival”",
+  "enlace": "https://caracol.com.co/2026/10/22/rafael-dudamel-pidio-perdon-publicamente-a-llaneros-quiero-excusarme-nunca-irrespeto-al-rival/",
+  "fecha": "2026-10-22T09:52:34-05:00",
+  "palabras": "",
+  "lead": "El técnico del Deportivo Cali habló de victoria de su equipo en Villaviencio, que los dejó con un pie y medio en cuadrangulares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Del cacao a la miel: cuatro iniciativas antioqueñas son finalistas del Premio Emprender Paz 2026",
+  "enlace": "https://caracol.com.co/2026/10/22/del-cacao-a-la-miel-cuatro-iniciativas-antioquenas-son-finalistas-del-premio-emprender-paz-2026/",
+  "fecha": "2026-10-22T09:39:56-05:00",
+  "palabras": "",
+  "lead": "Proyectos en el Urabá, el Bajo Cauca, el Nudo de Paramillo y el Occidente antioqueño promueven ingresos rurales, oportunidades para jóvenes y mujeres, y alternativas a las economías ilícitas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un integrante del Clan del Golfo fue abatido en combates con el Ejército en Anorí, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/22/un-integrante-del-clan-del-golfo-fue-abatido-en-combates-con-el-ejercito-en-anori-antioquia/",
+  "fecha": "2026-10-22T09:40:00-05:00",
+  "palabras": "",
+  "lead": "En los operativos se incautaron armas y explosivos del grupo armado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maluma y Shakira: el cantante reveló detalles de su colaboración y habló de sus nuevos proyectos",
+  "enlace": "https://caracol.com.co/2026/10/22/maluma-y-shakira-el-cantante-revelo-detalles-de-su-colaboracion-y-hablo-de-sus-nuevos-proyectos/",
+  "fecha": "2026-10-22T09:37:22-05:00",
+  "palabras": "",
+  "lead": "El artista colombiano habló sobre la canción ‘Agua’ colaboración junto a Shakira, recordó algunos de los éxitos que han marcado su carrera y manifestó su interés por explorar la música regional mexicana durante la Semana Billboard de la Música Latina 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Una videollamada alertó a las autoridades sobre un robo masivo en una vivienda de Medellín",
+  "enlace": "https://caracol.com.co/2026/10/22/una-videollamada-alerto-a-las-autoridades-sobre-un-robo-masivo-en-una-vivienda-de-medellin/",
+  "fecha": "2026-10-22T09:33:50-05:00",
+  "palabras": "",
+  "lead": "Mientras cuatro de los sospechosos lograron escapar, la fuerza pública dejó a los demás implicados a disposición de la Fiscalía General de la Nación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No estamos satisfechos con las capturas, hay más implicados”: hermana de Donovan Balanta",
+  "enlace": "https://caracol.com.co/2026/10/22/no-estamos-satisfechos-con-las-capturas-hay-mas-implicados-hermana-de-donovan-balanta/",
+  "fecha": "2026-10-22T09:31:14-05:00",
+  "palabras": "",
+  "lead": "El hombre fue golpeado y recibió varias descargas eléctricas con un dispositivo taser mientras se encontraba bajo custodia de uniformados en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Policía de Ecuador detiene a la excandidata presidencial del correísmo Luisa González",
+  "enlace": "https://caracol.com.co/2026/10/22/la-policia-de-ecuador-detiene-a-la-excandidata-presidencial-del-correismo-luisa-gonzalez/",
+  "fecha": "2026-10-22T09:16:02-05:00",
+  "palabras": "",
+  "lead": "El hecho se produjo en Canuto, la localidad rural de la provincia de Manabí.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Un hombre habría raptado a dos niñas de un colegio en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/buscan-dos-menores-desaparecidas-raptadas-colegio-jaime-anibal-nino-kennedy-sur-bogota-414787",
+  "fecha": "2026-10-22T09:43:00-05:00",
+  "palabras": "Orden Público,desaparición de personas,Joven desaparecido,Desaparecidos,Investigaciones,Indagación preliminar,Fiscalía General de la Nación,Alcaldía de Bogotá,Protestas en Colombia,Protocolo sobre protesta social",
+  "lead": "Las menores fueron vistas por última vez el pasado 16 de octubre, en el sur occidente de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alcalde de Nueva York busca cocinero: requisitos y cómo postularse",
+  "enlace": "https://www.lafm.com.co/sociedad/alcalde-nueva-york-estados-unidos-busca-cocinero-requisitos-como-postularse-gracie-mansion-414778",
+  "fecha": "2026-10-22T09:38:00-05:00",
+  "palabras": "Sociedad,oferta laboral,Nueva York,Vacante laboral,Convocatoria,cocina,Hoja de vida,Documentos,Salubridad,higiene",
+  "lead": "Entre sus responsabilidades están preparar las comidas para el servicio diario, la atención de eventos oficiales y el cumplimiento de las normas de higiene...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medicina legal: dictamen reveló que Mateo Pérez fue torturado",
+  "enlace": "https://www.lafm.com.co/actualidad/medicina-legal-periodista-mateo-perez-dictamen-muerte-414784",
+  "fecha": "2026-10-22T09:27:00-05:00",
+  "palabras": "Actualidad,Homicidios,Periodismo,Medicina Legal,Cruz Roja,Yarumal",
+  "lead": "Mateo Pérez Rueda, de 24 años, fue sometido a una cruel tortura antes de recibir múltiples disparos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Detectan hallazgos por $6.899 millones en educación en Bogotá",
+  "enlace": "https://www.lafm.com.co/actualidad/sobrecostos-colegio-universidad-distrital-pago-sin-soportes-hallazgos-contraloria-bogota-6900-millones-educacion-414781",
+  "fecha": "2026-10-22T08:36:00-05:00",
+  "palabras": "Actualidad,Contraloría,Universidad Distrital,Irregularidades en manejo de recursos,auditoria,recursos públicos,Irregularidades en contratos,secretaria de Educación",
+  "lead": "Tras varias auditorías, se evidenciaron hallazgos relacionados con obras educativas, pagos sin soportes suficientes, supervisión contractual y cobros pensi...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Educación sexual: por qué buscan derogar la política de Petro",
+  "enlace": "https://www.lafm.com.co/politica/educacion-sexual-colombia-por-que-buscan-derogar-la-politica-de-petro-414779",
+  "fecha": "2026-10-22T08:31:00-05:00",
+  "palabras": "Política,Sexualidad,debate político,Pacto Histórico,Aborto,Derechos humanos,Corte Constitucional,Oposición,Polarización,polémica,Ministerio de Educación,Colombia",
+  "lead": "La continuidad de la política de sexualidad 2026-2035 divide opiniones entre quienes cuestionan su enfoque de género y quienes defienden su papel en la pro...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
