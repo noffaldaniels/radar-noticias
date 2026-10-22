@@ -3758,7 +3758,7 @@
   "palabras": "Empresas sostenibles, España",
   "lead": "La decisión se conoció después de que la multinacional neerlandesa Wolters Kluwer adquiriera la firma.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3769,7 +3769,7 @@
   "palabras": "Fiscalía General de la Nación",
   "lead": "La Fiscalía indicó que, desde que tuvo conocimiento de los hechos, el caso quedó a cargo de la Unidad de Vida de la Seccional Bogotá y se abrió una indagación por el delito de homicidio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3780,7 +3780,7 @@
   "palabras": "Fiscalía General de la Nación, Salvatore Mancuso",
   "lead": "La Red de Veedurías de Colombia radicó ante la fiscal general de la Nación, Luz Adriana Camargo Garzón, una denuncia penal contra Víctor de Currea-Lugo, exasesor del Departamento Administrativo de la Presidencia (DAPRE).",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3791,7 +3791,7 @@
   "palabras": "Noticias de hoy, Cauca",
   "lead": "La operación fue realizada en zona rural de El Tambo. El presunto cabecilla dirigía tres estructuras del ELN con presencia en Cauca, Nariño y Valle.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3802,7 +3802,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3813,7 +3813,7 @@
   "palabras": "Santander, Tráfico de drogas, Noticias de hoy, Blu Radio",
   "lead": "Diez personas fueron judicializadas por presunto tráfico de drogas en Floridablanca y Girón.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3824,7 +3824,7 @@
   "palabras": "Autodefensas de la Sierra Nevada, Abelardo De La Espriella",
   "lead": "Las autoridades también incautaron una granada de fragmentación, 120 cartuchos calibre 38, una camioneta y tres teléfonos celulares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3835,7 +3835,7 @@
   "palabras": "",
   "lead": "Debido a las lesiones, únicamente dos de los cuatro colombianos sumaron minutos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3846,7 +3846,7 @@
   "palabras": "",
   "lead": "La intervención se realizó en la calle 100 con carrera 46 para atender situaciones relacionadas con la mendicidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3857,7 +3857,7 @@
   "palabras": "",
   "lead": "Dentro de los hechos que le atribuían las autoridades figura una incursión armada en noviembre de 2017 en zona rural de Magüí Payán, Nariño, donde se registraron enfrentamientos que dejaron 13 personas asesinadas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3868,7 +3868,7 @@
   "palabras": "",
   "lead": "Según el reporte preliminar, son un hombre y una mujer las víctimas del ataque armado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3879,7 +3879,7 @@
   "palabras": "",
   "lead": "Comerciantes de tiendas, tabernas y almacenes eran presionados semanalmente bajo amenazas para pagar cuotas extorsivas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3890,7 +3890,7 @@
   "palabras": "",
   "lead": "Conozca cómo aplicar a las distintas ofertas laborales vinculadas directamente con la Línea 1 del Metro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3901,7 +3901,7 @@
   "palabras": "",
   "lead": "La UAESP frenó el evento de Halloween tras las alertas de MinCultura por posibles riesgos al patrimonio histórico del Cementerio Central. Rafael Taibo defendió la propuesta y negó que incluyera rituales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3912,7 +3912,7 @@
   "palabras": "",
   "lead": "Documentales de 40 países se proyectarán durante un novenario de días en varias salas de cine de Bogotá en la versión 28 de la Muestra Internacional Documental de Bogotá – MIDBO",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3923,7 +3923,7 @@
   "palabras": "",
   "lead": "Pese a los riesgos financieros y contractuales el Fondo Nacional de Prestaciones Sociales del Magisterio (FOMAG) deberá seguir garantizando la continuidad de la atención en salud por solicitud de la Procuraduría General de la Nación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3934,7 +3934,7 @@
   "palabras": "",
   "lead": "Las autoridades refuerzan los operativos de control en el municipio para prevenir delitos y devolverles la tranquilidad a los ciudadanos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3945,7 +3945,7 @@
   "palabras": "",
   "lead": "También aseguró que el Fondo Milagro tendrá una nueva inversión y que, desde hoy empieza la reconstrucción de Risaralda.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3956,7 +3956,7 @@
   "palabras": "Internacional,enfermedades,Alerta,epidemia,Insectos,medidas sanitarias,bioseguridad,Europa,OMS",
   "lead": "Los animales, al estar infectados, pueden reaccionar con diarrea acuosa, fiebre alta y repentina, caída drástica e imprevista en la producción de leche.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3967,7 +3967,7 @@
   "palabras": "Entretenimiento,música,Nominaciones,Karol G,Shakira,Maluma,Carlos Vives,Jessi Uribe,cantantes de reguetón,Artistas,premios",
   "lead": "Karol G, Shakira, Beéle y Maluma figuran entre los colombianos nominados a los Premios Billboard de la Música Latina 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3978,7 +3978,7 @@
   "palabras": "Deportes,Ciclismo,Deporte,Clásico RCN,Colombia",
   "lead": "Una joven promesa deslumbró en una de las etapas más largas en la historia de la competición.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3989,7 +3989,7 @@
   "palabras": "Orden Público,Antioquia,Policía Nacional,Hostigamiento,actos violentos",
   "lead": "Hostigamiento armado contra la estación de Policía de Anorí, Antioquia, dejó un hombre herido en las últimas horas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4000,7 +4000,7 @@
   "palabras": "Economía,Proyecto de ley,medidas fiscales,Incentivos tributarios,Recaudo fiscal,Impuesto de Renta,Recaudo tributario,PIB,Plan de austeridad,Beneficios tributarios,Medidas económicas",
   "lead": "Los gremios de hidrocarburos proponen eliminar la sobretasa de renta al petróleo y establecer reglas estables para atraer inversiones, aumentar la producci...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4011,7 +4011,7 @@
   "palabras": "Política,Rodrigo Lara,Ministerio del interior,Abelardo de la Espriella,Gobierno,renuncia,renuncia a trabajo,Renuncia de funcinarios",
   "lead": "En total el ministro Lara duró 76 días al frente de la cartera política.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4022,7 +4022,7 @@
   "palabras": "Sociedad,Liquidación,Embargo de cuentas,Ley de insolvencia,proceso de reorganización,Supersalud,Procesos judiciales,alivios financieros,Reconciliación",
   "lead": "Ana María Vesga planteó que la liquidación de las EPS bajo intervención debe ser la última alternativa y propuso negociar las deudas acumuladas, garantizar...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4033,7 +4033,7 @@
   "palabras": "Orden Público,Alteración al orden público,Servicio de transporte,Antioquia,armas",
   "lead": "Disparos contra un vehículo de transporte obligan a suspender el servicio hacia un corregimiento de Angelópolis, Antioquia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4044,7 +4044,7 @@
   "palabras": "Política,Fallo fiscal,Contraloría,Escenarios deportivos,Irregularidades en contratos,Detrimento patrimonial,Sanción económica,Contratistas,Irregularidades en manejo de recursos,Ministerio del Deporte,Alcalde de Santa Marta",
   "lead": "La Contraloría determinó fallas en la custodia y mantenimiento, sobrecostos y duplicidad de pagos en los contratos de urbanismo para el Polideportivo del c...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4055,7 +4055,7 @@
   "palabras": "Internacional,Elon Musk,Ucrania,Donald Trump,Rusia,Internet,Guerra",
   "lead": "El conflicto entre Ucrania y Rusia continúa bajo la intervención de Trump para que este se detenga.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4066,7 +4066,7 @@
   "palabras": "Sociedad,Ministerio de Salud,Atención a pacientes,pacientes",
   "lead": "Con corte al 14 de octubre de 2026, las EPS reportaron la entrega de 12,5 millones de unidades de medicamentos y la resolución de 434.828 procedimientos. S...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4077,6 +4077,336 @@
   "palabras": "Economía,Vuelos,Transporte aéreo,aerolineas,Promociones,ofertas,ventas,precios,destinos internacionales,Viajes internacionales",
   "lead": "La campaña incluye conexiones desde Bucaramanga, Medellín, Cali y Bogotá hacia destinos del Caribe, Centroamérica y Venezuela, con restricciones por fechas...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Robot guardaespaldas de Unitree sorprende con movimientos de kung fu y rescate",
+  "enlace": "https://www.bluradio.com/tecnologia/adios-a-los-guardaespaldas-robot-de-seguridad-sorprende-con-sus-habilidades-de-kung-fu-so35",
+  "fecha": "2026-10-22T16:21:16-05:00",
+  "palabras": "Robots, Inteligencia Artificial, China",
+  "lead": "Una compañía china mostró las capacidades de una máquina diseñada para ejecutar tareas de seguridad, luego de una presentación que dejó escenas que parecen sacadas de una película de acción.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luis Díaz y los futbolistas lesionados luego del Mundial Fifa 2026",
+  "enlace": "https://www.bluradio.com/deportes/futbol/no-solo-es-luis-diaz-las-figuras-que-se-han-lesionado-luego-del-mundial-fifa-2026-pr30",
+  "fecha": "2026-10-22T16:19:17-05:00",
+  "palabras": "Luis Díaz, Entrevista, Mundial Canadá, Estados Unidos y México 2026, Luis Díaz, lesión Luis Díaz",
+  "lead": "Poco a poco se van conociendo más futbolistas lesionados luego de haber disputado la Copa del Mundo, que ganó España.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Nadie puede responder por lo que no controla\": Rodrigo Lara sobre el trámite del presupuesto",
+  "enlace": "https://www.bluradio.com/nacion/nadie-puede-responder-por-lo-que-no-controla-rodrigo-lara-sobre-el-tramite-del-presupuesto-rg10",
+  "fecha": "2026-10-22T16:16:20-05:00",
+  "palabras": "Rodrigo Lara, Abelardo De La Espriella",
+  "lead": "Rodrigo Lara se refirió en su carta de renuncia al vicio de trámite que hubo con el Presupuesto General del 2027.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Obras, exportaciones y aumento de productividad, los principales compromisos del Gobierno con Urabá",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/obras-exportaciones-y-aumento-de-productividad-principales-compromisos-del-gobierno-con-uraba-rg10",
+  "fecha": "2026-10-22T16:21:46-05:00",
+  "palabras": "Antioquia, Urabá, Gobierno nacional, Noticias de hoy",
+  "lead": "Durante reciente visita el vicepresidente y ministros abordaron temas como el Túnel del Toyo, Puerto Antioquia y la industria bananera.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cali es líder y sueña con Libertadores: 22 de octubre 2026 - Blog Deportivo programa completo",
+  "enlace": "https://www.bluradio.com/blog-deportivo/cali-es-lider-y-suena-con-libertadores-22-de-octubre-2026-blog-deportivo-programa-completo-pr30",
+  "fecha": "2026-10-22T16:57:47-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este jueves.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MinSalud ha entregado más de 12 millones medicamentos represados pero alerta por demoras en Invima",
+  "enlace": "https://www.bluradio.com/salud/minsalud-ha-entregado-mas-de-12-millones-medicamentos-represados-pero-alerta-por-demoras-en-invima-rg10",
+  "fecha": "2026-10-22T17:01:33-05:00",
+  "palabras": "Ministerio de Salud, Invima",
+  "lead": "Según el ministerio, el plan de choque ha permitido dispensar más de 12,5 millones de unidades de medicamentos y resolver más de 400.000 procedimientos; pero advirtió tambien de la necesidad de garantizar la continuidad de los tratamientos y agilizar los trámites del Invima.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena y The Ocean Cleanup se aliaron para frenar la contaminación por plástico",
+  "enlace": "https://caracol.com.co/2026/10/22/cartagena-y-the-ocean-cleanup-se-aliaron-para-frenar-la-contaminacion-por-plastico/",
+  "fecha": "2026-10-22T17:01:02-05:00",
+  "palabras": "",
+  "lead": "La estrategia contempla instalar soluciones Interceptor en canales que desembocan en la Ciénaga de la Virgen",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuándo será el próximo eclipse, se podrá ver en Colombia? Este es el calendario",
+  "enlace": "https://caracol.com.co/2026/10/22/cuando-sera-el-proximo-eclipse-se-podra-ver-en-colombia-este-es-el-calendario/",
+  "fecha": "2026-10-22T16:56:03-05:00",
+  "palabras": "",
+  "lead": "Le contamos el calendario de eclipses lunes y solares que se aproximan ¿se podrán ver en Colombia?",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jay Tomy lanzó ‘Plan de Dios’, su primer sencillo musical",
+  "enlace": "https://caracol.com.co/2026/10/22/jay-tomy-lanzo-plan-de-dios-su-primer-sencillo-musical/",
+  "fecha": "2026-10-22T16:53:32-05:00",
+  "palabras": "",
+  "lead": "El artista cartagenero apostó por el Afro Latino con una canción inspirada en la fe y la superación personal",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corpoboyacá pone la lupa sobre los talleres y negocios automotrices de Tunja por manejo de residuos",
+  "enlace": "https://caracol.com.co/2026/10/22/corpoboyaca-pone-la-lupa-sobre-los-talleres-y-negocios-automotrices-de-tunja-por-manejo-de-residuos/",
+  "fecha": "2026-10-22T16:52:54-05:00",
+  "palabras": "",
+  "lead": "La autoridad ambiental y la Alcaldía identificaron falencias en el almacenamiento y disposición de estos residuos. Anuncian acompañamiento técnico y seguimiento para mejorar el cumplimiento de las normas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio del café HOY 22 de octubre: se reporta a la baja el valor del fruto",
+  "enlace": "https://caracol.com.co/2026/10/22/precio-del-cafe-hoy-22-de-octubre-se-reporta-a-la-baja-el-valor-del-fruto/",
+  "fecha": "2026-10-22T16:45:50-05:00",
+  "palabras": "",
+  "lead": "Tras un incremento en el reporte pasado, esta vez el grano no logró valorizarse. ¿Cómo quedó el reporte de hoy, 22 de octubre? Se lo contamos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a presunto expendedor de drogas en zona rural de Magangué",
+  "enlace": "https://caracol.com.co/2026/10/22/capturaron-a-presunto-expendedor-de-drogas-en-zona-rural-de-magangue/",
+  "fecha": "2026-10-22T16:45:37-05:00",
+  "palabras": "",
+  "lead": "El operativo permitió incautar 80 dosis de marihuana y base de coca en el corregimiento de Juan Arias",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salario mínimo en Colombia para 2027: estas son las propuestas de gremios para definir el incremento",
+  "enlace": "https://caracol.com.co/2026/10/22/salario-minimo-en-colombia-para-2027-estas-son-las-propuestas-de-gremios-para-definir-el-incremento/",
+  "fecha": "2026-10-22T16:42:56-05:00",
+  "palabras": "",
+  "lead": "Conozca las posiciones de Fenalco y las centrales obreras frente al aumento del salario mínimo para el próximo año",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Síntomas de la diabetes: ¿es posible tenerla sin saberlo y cómo detectarla a tiempo?",
+  "enlace": "https://caracol.com.co/2026/10/22/sintomas-de-la-diabetes-es-posible-tenerla-sin-saberlo-y-como-detectarla-a-tiempo/",
+  "fecha": "2026-10-22T16:38:47-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la Cuenta de Alto Costo, en el último año se reportaron 74.245 nuevos casos de diabetes mellitus en Colombia. Los subregistros podrían ser más alarmantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Chile: ministro pide ‘postergar’ las jubilaciones por pérdidas de fondos pensionales",
+  "enlace": "https://caracol.com.co/2026/10/22/chile-ministro-pide-postergar-las-jubilaciones-por-perdidas-de-fondos-pensionales/",
+  "fecha": "2026-10-22T16:35:53-05:00",
+  "palabras": "",
+  "lead": "El ministro de Trabajo de Chile pidió “no tomar decisiones apresuradas” mientras se investiga a fondos pensionales que perdieron parte de los dineros de los jubilados.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan muerto alias ‘Comando 600’ en La Guajira: había sido capturado por extorsión en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/22/hallan-muerto-alias-comando-600-en-la-guajira-habia-sido-capturado-por-extorsion-en-santa-marta/",
+  "fecha": "2026-10-22T16:34:32-05:00",
+  "palabras": "",
+  "lead": "El hombre, señalado de pertenecer a las Autodefensas Conquistadoras de la Sierra Nevada, fue hallado con heridas de arma de fuego en la vía Maicao-Riohacha. En junio había sido capturado por presuntas extorsiones a comerciantes de El Rodadero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAmbiente prohíbe arrojar escombros del terremoto en ríos, humedales y rellenos sanitarios",
+  "enlace": "https://caracol.com.co/2026/10/22/minambiente-prohibe-arrojar-escombros-del-terremoto-en-rios-humedales-y-rellenos-sanitarios/",
+  "fecha": "2026-10-22T16:17:38-05:00",
+  "palabras": "",
+  "lead": "Una circular conjunta establece cómo deben separarse, transportarse y disponerse los residuos que dejó la emergencia del 10 de agosto. Las medidas también incluyen controles para materiales peligrosos, equipos electrónicos y alimentos que no sean aptos para el consumo humano.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un soldado desapareció tras un ataque de las disidencias con explosivos en Segovia, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/22/un-soldado-desaparecio-tras-un-ataque-de-las-disidencias-con-explosivos-en-segovia-antioquia/",
+  "fecha": "2026-10-22T16:23:25-05:00",
+  "palabras": "",
+  "lead": "Según el Ejército, las tropas fueron atacadas por las disidencias el pasado 18 de octubre y desde entonces se perdió el rastro del militar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Localizan a las dos adolescentes reportadas como desaparecidas en Kennedy, Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/22/localizan-a-las-dos-adolescentes-reportadas-como-desaparecidas-en-kennedy-bogota/",
+  "fecha": "2026-10-22T16:13:54-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Seguridad confirmó que Luz Maileth Urueña Sánchez y Nicol Dayana Trejos Pérez, ambas de 13 años, fueron encontradas y se encuentran acompañadas por sus familiares en un centro de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Montañas, colinas y mesetas: ¿Son lo mismo o tienen diferencias?",
+  "enlace": "https://caracol.com.co/2026/10/22/montanas-colinas-y-mesetas-son-lo-mismo-o-tienen-diferencias/",
+  "fecha": "2026-10-22T16:13:27-05:00",
+  "palabras": "",
+  "lead": "Seguramente siempre ha visto estas formaciones geológicas en su vida, y seguramente las ha llamado a todas por igual, pero ¿ha pensado si realmente son lo mismo? Le contamos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Si tengo 1.300 semanas cotizadas en Colpensiones ¿puedo dejar de cotizar?: Explicación para pensión",
+  "enlace": "https://caracol.com.co/2026/10/22/si-tengo-1300-semanas-cotizadas-en-colpensiones-puedo-dejar-de-cotizar-explicacion-para-pension/",
+  "fecha": "2026-10-22T16:11:12-05:00",
+  "palabras": "",
+  "lead": "Le contamos lo que debe hacer para poder dejar de cotizar en Colpensiones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Vivir o invertir? Las preguntas que ayudan a decidir para qué comprar",
+  "enlace": "https://caracol.com.co/2026/10/22/vivir-o-invertir-las-preguntas-que-ayudan-a-decidir-para-que-comprar/",
+  "fecha": "2026-10-22T16:10:11-05:00",
+  "palabras": "",
+  "lead": "Antes de elegir un apartamento conviene definir el objetivo: de él dependen la ubicación, el tamaño, las zonas comunes y hasta el tipo de proyecto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pivijay tendrá Centro de Vida para más de 450 adultos mayores: inversión supera los $7.600 millones",
+  "enlace": "https://caracol.com.co/2026/10/22/pivijay-tendra-centro-de-vida-para-mas-de-450-adultos-mayores-inversion-supera-los-7600-millones/",
+  "fecha": "2026-10-22T16:08:34-05:00",
+  "palabras": "",
+  "lead": "La obra fue puesta en marcha por la gobernadora del Magdalena, Margarita Guerra, y contempla espacios para alimentación, atención básica en salud, actividad física e integración social.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sicarios asesinaron al conductor de un carro en la Ruta 90",
+  "enlace": "https://caracol.com.co/2026/10/22/sicarios-asesinaron-al-conductor-de-un-carro-en-la-ruta-90/",
+  "fecha": "2026-10-22T16:08:14-05:00",
+  "palabras": "",
+  "lead": "El hombre recibió varios disparos y el vehículo terminó a un costado de la carretera",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "EL DESPERTAR: legado de Jaime Osorio Márquez sobre el miedo",
+  "enlace": "https://www.lafm.com.co/entretenimiento/el-despertar-pelicula-legado-de-jaime-osorio-marquez-limites-del-miedo-414862",
+  "fecha": "2026-10-22T16:58:00-05:00",
+  "palabras": "Entretenimiento,Información institucional,Series de terror,Actividad paranormal,conflicto armado,Apocalipsis,actos violentos",
+  "lead": "La obra póstuma de Jaime Osorio Márquez recupera su exploración del terror, la paranoia y los conflictos morales a través de una historia entre dos épocas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Clásico RCN Sistecrédito 2026: cierres viales en Medellín",
+  "enlace": "https://www.lafm.com.co/deportes/clasico-rcn-sistecredito-2026-fin-de-semana-medellin-cierres-viales-414853",
+  "fecha": "2026-10-22T16:33:00-05:00",
+  "palabras": "Deportes,Clásico RCN,Ciclismo,Medellín, Colombia,Antioquia,Vías cerradas",
+  "lead": "La edición 66 del Clásico RCN Sistecrédito recorrerá Antioquia entre el viernes 23 y el domingo 25 de octubre.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Entregan conexión de represa que beneficiará 45 mil usuarios",
+  "enlace": "https://www.lafm.com.co/sociedad/represa-cesar-agua-beneficios-habitantes-414861",
+  "fecha": "2026-10-22T16:26:00-05:00",
+  "palabras": "Sociedad,La Guajira,Acueducto,Embalses,Sequía,Ministerio de agricultura,Ministerio de Vivienda,Servicios públicos",
+  "lead": "El Ministerio de Agricultura entregó la conexión de la represa El Cercado con la planta de tratamiento Corral de Piedra, en San Juan del Cesar, La Guajira.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De la Espriella confirma nuevos golpes al ELN y habla sobre reconstrucción con 'Fondo Milagro'",
+  "enlace": "https://www.lafm.com.co/politica/de-la-espriella-confirma-bombardeo-eln-pereira-414858",
+  "fecha": "2026-10-22T16:13:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,ELN,Terremoto en Colombia,Gobernación de Risaralda,conflicto armado,combates entre grupos armados,victimas del conflicto armado",
+  "lead": "Desde Risaralda, el mandatario confirmó un golpe al ELN y dio inicio a la reconstrucción tras el terremoto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Min Cultura pide frenar evento de halloween en Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/ministerio-cultura-frenar-evento-halloween-cementerio-central-bogota-414856",
+  "fecha": "2026-10-22T16:01:00-05:00",
+  "palabras": "Sociedad,Ministerio de Cultura,Cementerio,Patrimonio cultural,Actividad paranormal,Hechos paranormales,Centro de Memoria Histórica,Alcaldía de Bogotá,Información institucional",
+  "lead": "Ministerio de Cultura insta a Bogotá a proteger el Cementerio Central por el evento paranormal “La noche de las ánimas” del 31/10/2026 (sin autorización).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia busca evitar nuevas crisis energéticas ante El Niño",
+  "enlace": "https://www.lafm.com.co/economia/colombia-necesitaria-hasta-cuatro-anos-normalizar-el-sector-energetico-afirma-minminas-414855",
+  "fecha": "2026-10-22T15:55:00-05:00",
+  "palabras": "Economía,Ministerio de Minas y Energía,Desabastecimiento de gas natural,Gas natural,Transformación energética,Cambio climático,inversionistas",
+  "lead": "La ministra de Minas y Energía señaló que el país debe acelerar la exploración de gas, atraer nuevas inversiones.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
