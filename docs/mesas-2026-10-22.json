@@ -181,6 +181,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El tumor del Papa León XIV estaba localizado y la intervención quirúrgica fue exitosa según el Vaticano.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:30",
+   "quien": "Carlos Ríos (Director del DAPRE)",
+   "que": "Denunció la instrumentalización de 48 mujeres durante el gobierno Petro mediante contratos de prestación de servicios para presuntamente estar con el presidente y además que en la anterior administración se hizo uso irregular del Palacio Presidencial para llevar a cabo fiestas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:30",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Un juez de Nuevo México ordenó a Meta pagar 25.000 millones de dólares al Estado después de que un jurado concluyera que la empresa engañó a los consumidores sobre sus políticas de privacidad de datos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:30",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El gobierno anunció que va a decretar el presupuesto 2027 por el monto de 637 billones y fuentes de la Fiscalía confirmaron a Caracol que Eva Ferrer no entregó ninguna prueba en su diligencia.",
+   "resaltar": false
   }
  ],
  "avisos": [
