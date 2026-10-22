@@ -706,6 +706,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Discusión sobre el rol de Alejandro Ordóñez y su relación con Carlos Suárez, así como su designación previa y su salida.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:00",
+   "quien": "Ricardo Ospina, Director de Servicios Informativos de Blu Radio",
+   "que": "El Congreso de la República envió al Gobierno el texto del Presupuesto General de la Nación para 2027 por un monto de 634,9 billones de pesos, aprobado en primer debate.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:00",
+   "quien": "Ricardo Ospina, Director de Servicios Informativos de Blu Radio",
+   "que": "El presupuesto para el servicio de la deuda asciende a 152 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:00",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Expertos señalan que el traslado presupuestal de los 14 billones de pesos en teoría de excedentes no es tan sencillo y afectaría los subsidios para la energía en la costa Caribe.",
+   "resaltar": false
   }
  ],
  "avisos": [
