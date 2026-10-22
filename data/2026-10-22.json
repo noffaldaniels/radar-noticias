@@ -480,7 +480,7 @@
   "palabras": "Fiscalía General de la Nación, Antioquia, Desaparición Forzada",
   "lead": "Dos de los responsables, que fueron condenados en las últimas horas, eran menores de edad al momento de los hechos y por eso fueron juzgados bajo la Ley de Infancia y Adolescencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "Lara es el segundo ministro que sale en menos de tres meses del nuevo Gobierno",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "Los dos equipos de la capital vallecaucana son protagonistas en torneo Dimayor, golearon en calidad de visitante a Llaneros y Barranquilla FC respectivamente",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "Las actividades académicas pasan a la modalidad virtual.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "Se esperan anuncios de inversión y viviendas para las familias afectadas por el terremoto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "La medida establece restricciones nocturnas hasta finales de octubre.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "“Sanando con Luz”, nombre de esta estrategia, hace parte del Congreso Mundial de Medicina Estética y Antienvejecimiento y buscará entregar tratamientos gratuitos a pacientes con lesiones vasculares congénitas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,6 +568,149 @@
   "palabras": "",
   "lead": "Argumentan que se basarán en tres medidas: no permitir las bebidas embriagantes, las pruebas de alcoholemia y los costos a cada jinete.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sacerdote en Colombia sufrió la caída de una cruz: video se viraliza tras tragedia en Ecuador",
+  "enlace": "https://www.bluradio.com/sociedad/sacerdote-en-colombia-sufrio-la-caida-de-una-cruz-video-se-viraliza-tras-tragedia-en-ecuador-rs15",
+  "fecha": "2026-10-22T06:39:00-05:00",
+  "palabras": "Viral, Video",
+  "lead": "A través de redes sociales se popularizó el video que muestra el momento exacto en que cae una cruz sobre un sacerdote en Colombia tras la muerte del cura Patricia Sánchez en plena misa en Ecuador.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Radican más de 3.700 firmas ante la Presidencia para destrabar obras en vía de Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/radican-mas-de-3-700-firmas-ante-la-presidencia-para-destrabar-obras-en-via-de-bucaramanga-rg10",
+  "fecha": "2026-10-22T06:17:56-05:00",
+  "palabras": "Bucaramanga, Santander, Presidencia de la República, Invías, ANI, Ministerio de Transporte, Santander, Blu Radio, Noticias de hoy, Bucaramanga",
+  "lead": "La obra vial, esperada desde hace más de 50 años, enfrenta pendientes en la adquisición de 125 predios, la actualización de estudios y diseños y la financiación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría encontró irregularidades por $6.899 millones en Secretaría de Educación y U. Distrital",
+  "enlace": "https://caracol.com.co/2026/10/22/encuentran-irregularidades-por-6899-millones-en-la-secretaria-de-educacion-y-la-u-distrital/",
+  "fecha": "2026-10-22T06:40:58-05:00",
+  "palabras": "",
+  "lead": "En la Secretaría se encontraron 10 hallazgos fiscales y en la Universidad Distrital 7.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por fin en Armenia evaluarán edificaciones afectadas por el terremoto para definir demoliciones",
+  "enlace": "https://caracol.com.co/2026/10/22/por-fin-en-armenia-evaluaran-edificaciones-afectadas-por-el-terremoto-para-definir-demoliciones/",
+  "fecha": "2026-10-22T06:43:38-05:00",
+  "palabras": "",
+  "lead": "La alcaldía de Armenia suscribió el contrato con la universidad del Quindío para determinar que edificios deben ser demolidos total o parcial o serán recuperados o reconstruidos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La campaña de Lula pidió anular la candidatura de Flávio Bolsonaro en Brasil por injerencia de Meta",
+  "enlace": "https://caracol.com.co/2026/10/22/la-campana-de-lula-pidio-anular-la-candidatura-de-flavio-bolsonaro-en-brasil-por-injerencia-de-meta/",
+  "fecha": "2026-10-22T06:42:46-05:00",
+  "palabras": "",
+  "lead": "La denuncia, de 139 páginas, pide que Meta y X expliquen en un plazo de 48 horas el funcionamiento de sus sistemas de recomendación, inteligencia artificial y revisión de anuncios durante la campaña presidencial.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín proyecta presupuesto de $12,1 billones para 2027, pero transferencias de EPM caerían a $1,5",
+  "enlace": "https://caracol.com.co/2026/10/22/medellin-proyecta-presupuesto-de-121-billones-para-2027-pero-transferencias-de-epm-caerian-a-15/",
+  "fecha": "2026-10-22T06:36:27-05:00",
+  "palabras": "",
+  "lead": "La disminución de los recursos provenientes de EPM obligaría al Distrito a buscar créditos por $1,5 billones para financiar los programas sociales, los proyectos estratégicos y las metas del Plan de Desarrollo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Taxis en Bogotá tendrán código QR para consultar tarifas, verificar datos y calificar el servicio",
+  "enlace": "https://caracol.com.co/2026/10/22/taxis-en-bogota-tendran-codigo-qr-para-consultar-tarifas-verificar-datos-y-calificar-el-servicio/",
+  "fecha": "2026-10-22T06:36:04-05:00",
+  "palabras": "",
+  "lead": "La herramienta permitirá a los usuarios consultar información del vehículo, identificar al conductor, calcular tarifas estimadas y calificar su experiencia de viaje.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "España e Italia acuerdan no continuar con los controles recíprocos en las fronteras",
+  "enlace": "https://caracol.com.co/2026/10/22/espana-e-italia-acuerdan-no-continuar-con-los-controles-reciprocos-en-las-fronteras/",
+  "fecha": "2026-10-22T06:30:20-05:00",
+  "palabras": "",
+  "lead": "Los ministros del Interior de Italia y España, Matteo Piantedosi y Fernando Grande-Marlaska, han acordado este jueves que no continuarán los controles recíprocos en las fronteras.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía Nacional captura a 11 presuntos integrantes del Clan del Golfo en el Magdalena",
+  "enlace": "https://caracol.com.co/2026/10/22/policia-nacional-captura-a-11-presuntos-integrantes-del-clan-del-golfo-en-el-magdalena/",
+  "fecha": "2026-10-22T06:27:49-05:00",
+  "palabras": "",
+  "lead": "En lo corrido del año, la Policía Nacional ha incautado 169 armas de fuego y 3470 cartuchos de diferentes calibres.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reclasificación 2026: Cupos a torneos Conmebol tras victorias de Santa Fe y Cali",
+  "enlace": "https://caracol.com.co/2026/10/18/reclasificacion-2026-cupos-a-torneos-conmebol-tras-victorias-de-millonarios-y-once-caldas/",
+  "fecha": "2026-10-22T06:25:17-05:00",
+  "palabras": "",
+  "lead": "Nacional es líder absoluto de esta clasificación y tiene casi asegurada su presencia internacional en 2027. Repase cómo va la lucha.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Paso a un carril tiene la vía Abrego-Ocaña",
+  "enlace": "https://caracol.com.co/2026/10/22/paso-a-un-carril-tiene-la-via-abrego-ocana/",
+  "fecha": "2026-10-22T06:23:38-05:00",
+  "palabras": "",
+  "lead": "Se espera la intervención del Invias en las próximas horas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué opinan los congresistas del nombramiento de Alejandro Ordóñez como ministro del Interior?",
+  "enlace": "https://caracol.com.co/2026/10/22/que-opinan-los-congresistas-del-nombramiento-de-alejandro-ordonez-como-ministro-del-interior/",
+  "fecha": "2026-10-22T06:13:13-05:00",
+  "palabras": "",
+  "lead": "Jennifer Pedraza, Luis Miguel López, Andrés Forero, Duvalier Sánchez y Carolina Corcho debatieron en 6AM W sobre la salida de Rodrigo Lara del Ministerio del Interior y la llegada de Alejandro Ordóñez en su reemplazo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Tolima invertirán mil millones para apoyar comerciantes afectados por incendios forestales",
+  "enlace": "https://caracol.com.co/2026/10/22/en-tolima-invertiran-mil-millones-para-apoyar-comerciantes-afectados-por-incendios-forestales/",
+  "fecha": "2026-10-22T06:18:42-05:00",
+  "palabras": "",
+  "lead": "El Gobierno Departamental anunció la entrega de capital semilla a 400 tenderos.",
+  "seccion": "tolima",
   "nueva": true,
   "tambien": []
  }
