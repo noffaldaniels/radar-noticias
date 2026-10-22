@@ -727,6 +727,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Expertos señalan que el traslado presupuestal de los 14 billones de pesos en teoría de excedentes no es tan sencillo y afectaría los subsidios para la energía en la costa Caribe.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "09:00",
+   "quien": "Expresidente Iván Duque",
+   "que": "Se reunió junto a 12 expresidentes, entre ellos José María Aznar, para la presentación del libro de este último 'Orden y libertad' en la Universidad de la Sabana.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "09:00",
+   "quien": "Expresidente Iván Duque",
+   "que": "Habló sobre el estado de la economía, la necesidad de alcanzar acuerdos fiscales, laborales y tecnológicos, advirtiendo sobre posibles efectos negativos de la inteligencia artificial.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "09:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se mencionó que tras el gobierno de los pirómanos el déficit fiscal llegó al 9% del PIB, pagando el doble de la deuda y dejando hipotecas a las nuevas generaciones.",
+   "resaltar": false
   }
  ],
  "avisos": [
