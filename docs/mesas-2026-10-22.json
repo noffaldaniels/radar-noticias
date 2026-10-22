@@ -223,6 +223,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El presidente de la Espriella le pidio al ministro Lara declarar insubsistente al entonces director nacional de bomberos, German Miranda.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:30",
+   "quien": "Mateo Piñeros, Periodista de Mañanas Blu",
+   "que": "Se conoció la salida del gabinete del presidente Abelardo de la Espriella y la renuncia de Vivian Morales como ministra de Educación.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Andrés Carmona, Periodista de Mañanas Blu",
+   "que": "Se dio la salida del ministro del Interior Rodrigo Lara Restrepo y el nombramiento de Alejandro Ordóñez Maldonado como nuevo jefe de la cartera política.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:40",
+   "quien": "Paola Ochoa, Periodista de Mañanas Blu",
+   "que": "El presupuesto de la verdad que cobra cabezas, que saca el ministro del Interior Rodrigo Lara, que tumbas por vicios de procedimiento lo aprobado en plenarias, que obliga al gobierno a expedirlo por decreto y que deja en gran y enorme vilo al sector eléctrico.",
+   "resaltar": false
   }
  ],
  "avisos": [
