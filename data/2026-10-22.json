@@ -1206,7 +1206,7 @@
   "palabras": "Viral, Redes sociales, Brasil, Video",
   "lead": "La víctima, un mecánico de 32 años, había visitado por primera vez el lugar y compartió imágenes en sus redes sociales. Sus amigos alertaron a las autoridades tras su desaparición.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Camacol, Vivienda, Mi Casa Ya, Ministerio de Vivienda",
   "lead": "El presidente de Camacol dijo que el Gobierno Petro acabó con el sueño de millones de colombianos de tener vivienda.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Bucaramanga, Santander, Animales, Corporaciones Autónomas Regionales, Blu Radio",
   "lead": "El monitoreo incluye aves, mamíferos, murciélagos, anfibios, reptiles y vegetación en zonas que van desde Girón hasta los páramos de Vetas, Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Camacol, Gustavo Petro, Vivienda",
   "lead": "Guillermo Herrera advirtió que 120.000 familias desistieron de comprar casa y que el sector suma 13 trimestres en caída. Propone recortar trámites y nuevas fuentes de subsidio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Alias ‘El Cabo’ y ‘Se lo Juro’ , integrantes de la organización criminal El Mesa, fueron judicializados bajo la ley de Infancia y Adolescencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Eva Ferrer se reunirá con el Departamento de Estado de Estados Unidos, esto en medio de la polémica que han generado sus denuncias contra la exesposa del expresidente Gustavo Petro, Verónica Alcocer.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "En 6AM W, el abogado Jaime Lombana aseguró que Alejandro Ordóñez es “un jurista integral y un gran magistrado” que ha luchado contra la corrupción.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Más de 24 mil vacantes para frenar el desempleo: el jueves 22 de octubre, 350 empresas buscan talento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Orden Público,Fuerzas Militares,ELN,Nariño,Abelardo de la Espriella,Ejército Nacional,Fuerza Aérea Colombiana",
   "lead": "De manera preliminar, reportan ocho abatidos. Se espera que una vez concluya el bombardeo, las tropas entreguen el balance final.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,6 +1305,292 @@
   "palabras": "Deportes,Independiente Santa Fe,El Campín,Jaguares de Córdoba,Liga BetPlay,Copa BetPlay,Bucaramanga",
   "lead": "El atacante uruguayo volvió a brillar en El Campín y genera incertidumbre sobre su futuro con Santa Fe de cara a 2027.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bla Bla Blu, programa completo del 21 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/bla-bla-blu/bla-bla-blu-programa-completo-del-21-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-22T09:02:37-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 21 de octubre de 2026, el primer Talk Show de la radio en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Delegados del Gobierno llegan a Urabá este jueves: Gobernación pide celeridad en obras de la vía",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/delegados-del-gobierno-llegan-a-uraba-este-jueves-gobernacion-pide-celeridad-en-obras-de-la-via-rg10",
+  "fecha": "2026-10-22T08:50:43-05:00",
+  "palabras": "Gobernación de Antioquia, Noticias de hoy, Abelardo De La Espriella, Gobierno nacional",
+  "lead": "Según el gobernador Andrés Julián Rendón, la visita se enfocará en que esta región será esencial para el desarrollo económico del país, por lo que harán presencia en Puerto Antioquia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Eva Ferrer viajará a Washington para entregar información contra Verónica Alcocer",
+  "enlace": "https://www.bluradio.com/judicial/eva-ferrer-viajara-a-washington-para-entregar-informacion-contra-veronica-alcocer-rg10",
+  "fecha": "2026-10-22T08:27:46-05:00",
+  "palabras": "Eva Ferrer, Verónica Alcocer, Gustavo Petro, Narcotráfico",
+  "lead": "Ferrer viajará desde España hasta Washington para sostener reuniones con dos agencias estadounidenses, el Departamento de Estado y la Administración para el Control de Drogas (DEA).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría alerta ante falta de $1,84 billones para salud de docentes y vencimiento contrato Fomag",
+  "enlace": "https://www.bluradio.com/nacion/procuraduria-alerta-ante-falta-de-1-84-billones-para-salud-de-docentes-y-vencimiento-contrato-fomag-rg10",
+  "fecha": "2026-10-22T08:46:28-05:00",
+  "palabras": "Procuraduría General de la Nación, Fomag",
+  "lead": "El organismo de control pidió al Consejo Directivo del Fondo explicar cómo garantizará la continuidad de la atención médica desde el primero de noviembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bombardeo contra el ELN en Nariño deja 8 muertos",
+  "enlace": "https://www.bluradio.com/nacion/bombardeo-contra-el-eln-en-narino-deja-8-muertos-confirma-de-la-espriella-pr30",
+  "fecha": "2026-10-22T08:50:31-05:00",
+  "palabras": "ELN, Abelardo De La Espriella",
+  "lead": "Este es el quinto bombardeo ordenado por el presidente Abelardo de la Espriella contra grupos armados ilegales desde el inicio de su mandato, en agosto de 2026.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Esto se sabe de la denuncia del Dapre sobre 48 mujeres “instrumentalizadas” durante Gobierno Petro",
+  "enlace": "https://www.bluradio.com/judicial/esto-se-sabe-de-la-denuncia-del-dapre-sobre-48-mujeres-instrumentalizadas-durante-gobierno-petro-pr30",
+  "fecha": "2026-10-22T08:59:50-05:00",
+  "palabras": "Dapre, Gabinete Gustavo Petro, Gustavo Petro, Casa de Nariño",
+  "lead": "Respecto al perfil de las 48 mujeres, las pesquisas iniciales han identificado características comunes: se tratataba de mujeres jóvenes, en su mayoría residentes de sectores populares de Bogotá, de escasos recursos económicos y baja escolaridad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno De la Espriella ejecutó un nuevo bombardeo contra el ELN en Nariño: esto se sabe",
+  "enlace": "https://caracol.com.co/2026/10/22/gobierno-de-la-espriella-ejecuto-un-nuevo-bombardeo-contra-el-eln-en-narino-esto-se-sabe/",
+  "fecha": "2026-10-22T09:12:13-05:00",
+  "palabras": "",
+  "lead": "las acciones militares continúan en desarrollo en la mañana de este jueves y se espera que las autoridades entreguen información sobre la ubicación del objetivo, la estructura del ELN contra la que va dirigida la ofensiva y el balance operacional, incluidas posibles bajas o capturas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bayern Múnich dio a conocer el parte médico oficial de Luis Díaz",
+  "enlace": "https://caracol.com.co/2026/10/22/bayern-munich-dio-a-conocer-el-parte-medico-oficial-de-luis-diaz/",
+  "fecha": "2026-10-22T08:45:09-05:00",
+  "palabras": "",
+  "lead": "El extremo colombiano se lesionó este miércoles durante el partido de Liga de Campeones ante el Arsenal.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Transportadores de Ibagué anuncian que se suspende el paro programado el próximo 27 de octubre",
+  "enlace": "https://caracol.com.co/2026/10/22/transportadores-de-ibague-anuncian-que-se-suspende-el-paro-programado-el-proximo-27-de-octubre/",
+  "fecha": "2026-10-22T09:11:35-05:00",
+  "palabras": "",
+  "lead": "En Ibagué hay cerca de 3.100 taxis, mientras que se denuncia que en las calles están trabajando más de 10 mil vehículos particulares y motos que prestan el servicio de transporte público ilegal.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corpochivor pide más análisis al agua que consumen habitantes de Horizontes, San Luis de Gaceno",
+  "enlace": "https://caracol.com.co/2026/10/22/corpochivor-pide-mas-analisis-al-agua-que-consumen-habitantes-de-horizontes-san-luis-de-gaceno/",
+  "fecha": "2026-10-22T09:10:18-05:00",
+  "palabras": "",
+  "lead": "Corpochivor pidió a la ANLA verificar la autorización de una zona de aspersión de aguas residuales cercana al acueducto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presupuesto ya costó un ministro, Ordoñez es un hombre intachable moralmente: exmagistrado Arrubla",
+  "enlace": "https://caracol.com.co/2026/10/22/presupuesto-ya-costo-un-ministro-ordonez-es-un-hombre-intachable-moralmente-exmagistrado-arrubla/",
+  "fecha": "2026-10-22T09:10:01-05:00",
+  "palabras": "",
+  "lead": "El exmagistrado de la Corte Suprema de Justicia, Jaime Arrubla, se refirió en 6AM W de Caracol Radio a la llegada de Alejandro Ordóñez al Ministerio del Interior y la salida de Rodrigo Lara.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fuerza pública destruye laboratorio de cocaína atribuido al GDO ‘El Mesa’ en El Peñol, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/22/fuerza-publica-destruye-laboratorio-de-cocaina-atribuido-al-gdo-el-mesa-en-el-penol-antioquia/",
+  "fecha": "2026-10-22T09:09:12-05:00",
+  "palabras": "",
+  "lead": "Con la destrucción del complejo de procesamiento, las autoridades debilitan la cadena de financiamiento de estructuras criminales en el departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Es un desafío a la política” Ramiro Bejarano tras nombramiento de Ordoñez como ministro de Interior",
+  "enlace": "https://caracol.com.co/2026/10/22/es-un-desafio-a-la-politica-ramiro-bejarano-tras-nombramiento-de-ordonez-como-ministro-de-interior/",
+  "fecha": "2026-10-22T09:06:45-05:00",
+  "palabras": "",
+  "lead": "El jurista y profesor Ramiro Bejarano opinó acerca de la decisión que tomó el presidente Abelardo de la Espriella sobre el nombramiento de Alejandro Ordoñez.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Canal de Panamá bate récord de carga impulsado por cierre de Ormuz y pese a El Niño",
+  "enlace": "https://caracol.com.co/2026/10/22/canal-de-panama-bate-record-de-carga-impulsado-por-cierre-de-ormuz-y-pese-a-el-nino/",
+  "fecha": "2026-10-22T09:05:52-05:00",
+  "palabras": "",
+  "lead": "La autoridad del Canal de Panamá reportó ingresos por US$6.600 millones durante el último año fiscal, un aumento del 16% frente al período anterior, en medio de cambios en las rutas marítimas globales y restricciones temporales por la falta de lluvias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Banco de Desarrollo de América Latina llegó a Córdoba para trazar hoja de ruta económica hasta 2052",
+  "enlace": "https://caracol.com.co/2026/10/22/banco-de-desarrollo-de-america-latina-llego-a-cordoba-para-trazar-hoja-de-ruta-economica-hasta-2052/",
+  "fecha": "2026-10-22T08:59:54-05:00",
+  "palabras": "",
+  "lead": "La Gobernación reunió a su equipo de gobierno y a los alcaldes municipales para avanzar en la identificación de proyectos que impulsen diferentes sectores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan muerte de perro hallado sin cabeza en Guadalupe, Santander: hay $5 millones de recompensa",
+  "enlace": "https://caracol.com.co/2026/10/22/investigan-muerte-de-perro-hallado-sin-cabeza-en-guadalupe-santander-hay-5-millones-de-recompensa/",
+  "fecha": "2026-10-22T08:40:59-05:00",
+  "palabras": "",
+  "lead": "La denuncia ya fue radicada ante la Fiscalía, mientras las autoridades buscan identificar a los responsables del hecho ocurrido en la vereda Centro Llano de este municipio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 22 de octubre 2026 en Colombia: la divisa inicia la jornada con un crecimiento del 27,71",
+  "enlace": "https://caracol.com.co/2026/10/22/dolar-hoy-22-de-octubre-2026-en-colombia-la-divisa-inicia-la-jornada-con-un-crecimiento-del-2771/",
+  "fecha": "2026-10-22T08:56:09-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este jueves, 22 de octubre. Conozca el comportamiento del dólar estadounidense, canadiense, australiano, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió en Francia una persona con el virus shamonda que se creía no transmisible al hombre",
+  "enlace": "https://caracol.com.co/2026/10/22/murio-en-francia-una-persona-con-el-virus-shamonda-que-se-creia-no-transmisible-al-hombre/",
+  "fecha": "2026-10-22T08:54:29-05:00",
+  "palabras": "",
+  "lead": "Las autoridades francesas consideran que se trata de un caso excepcional y, con la información disponible hasta ahora, aseguran que no existe un riesgo sanitario identificado para la población general.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Advierten riesgos por rocas y falta de protección en la vía Floridablanca–Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/10/22/advierten-riesgos-por-rocas-y-falta-de-proteccion-en-la-via-floridablancabucaramanga/",
+  "fecha": "2026-10-22T08:50:16-05:00",
+  "palabras": "",
+  "lead": "Un ciudadano pide revisar las condiciones de seguridad de la vía ante la presencia de grandes rocas, una alcantarilla expuesta y una baranda que dificultaría el paso peatonal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dany Vega, el talento santandereano que busca conquistar con su sencillo ‘Pase lo que pase’",
+  "enlace": "https://caracol.com.co/2026/10/22/dany-vega-el-talento-santandereano-que-busca-conquistar-con-su-sencillo-pase-lo-que-pase/",
+  "fecha": "2026-10-22T08:48:46-05:00",
+  "palabras": "",
+  "lead": "El artista santandereano Dany Vega lanzó Pase lo que pase, un sencillo que nació de una experiencia personal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con yoga, arte y orientación psicosocial, Medellín celebra el Festival de la Salud Mental 2026",
+  "enlace": "https://caracol.com.co/2026/10/22/con-yoga-arte-y-orientacion-psicosocial-medellin-celebra-el-festival-de-salud-mental-2026/",
+  "fecha": "2026-10-22T08:33:39-05:00",
+  "palabras": "",
+  "lead": "Niños, jóvenes y adultos podrán acceder a talleres, espacios de conversación y recursos para la construcción de entornos protectores de la salud mental.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Imputan delito de secuestro al exgobernador de San Andrés, Everth Hawkins",
+  "enlace": "https://caracol.com.co/2026/10/22/imputan-delito-de-secuestro-al-exgobernador-de-san-andres-everth-hawkins/",
+  "fecha": "2026-10-22T08:19:58-05:00",
+  "palabras": "",
+  "lead": "Un juez le impuso una medida de aseguramiento no privativa de la libertad",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presupuesto del Tolima para el 2027 sería de 1,94 billones: presentan proyecto ante la Asamblea",
+  "enlace": "https://caracol.com.co/2026/10/22/presupuesto-del-tolima-para-el-2027-seria-de-194-billones-presentan-proyecto-ante-la-asamblea/",
+  "fecha": "2026-10-22T08:18:08-05:00",
+  "palabras": "",
+  "lead": "Los recursos se destinarían al funcionamiento de la Administración Central, el servicio de la deuda pública y a la ejecución de iniciativas de inversión.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ejecutan en Arabia Saudí a pareja por hacer \"actos indecentes\" en ciudad sagrada de La Meca",
+  "enlace": "https://www.lafm.com.co/internacional/ejecutan-pareja-arabia-saudi-actos-indecentes-mezquita-la-meca-414783",
+  "fecha": "2026-10-22T09:03:00-05:00",
+  "palabras": "Internacional,Arabia Saudita,Bangladesh,Medio Oriente,Islamismo",
+  "lead": "Los jueces saudíes se ampararon en la figura jurídica del \"tazir\" que está dentro del sistema legal islámico.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Alejandro Ordoñez en MinInterior sería cuota de Carlos Suárez?",
+  "enlace": "https://www.lafm.com.co/politica/alejandro-ordonez-seria-cuota-de-carlos-suarez-414782",
+  "fecha": "2026-10-22T08:55:00-05:00",
+  "palabras": "Política,Oposición,Abelardo de la Espriella,Periodistas,Periodismo,debate político",
+  "lead": "Según Darcy Quinn, la designación de Ordóñez genera reacciones diferentes entre los sectores políticos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caso de las 48 mujeres de Palacio: qué se sabe de los contratos que revisará la Fiscalía",
+  "enlace": "https://www.lafm.com.co/politica/caso-48-mujeres-palacio-dapre-fiscalia-contratos-414775",
+  "fecha": "2026-10-22T08:10:00-05:00",
+  "palabras": "Política,Fiscalía General de la Nación,Irregularidades en contratos,contratos,Contratación,informe,Documentos,Investigaciones,Acusaciones",
+  "lead": "El DAPRE prepara un informe sobre 48 mujeres contratadas por la Casa de Nariño que será entregado a la Fiscalía, tras las denuncias sobre presuntas irregul...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
