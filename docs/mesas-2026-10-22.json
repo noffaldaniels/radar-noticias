@@ -545,6 +545,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "En el presupuesto para el año entrante los subsidios de vivienda familiar caen de 890 mil millones de pesos este año a 89 mil para el año entrante.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:04",
+   "quien": "Juan Pablo (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "Se detectó en Francia el primer caso humano del virus Schmonda, una enfermedad que afecta al ganado bovino y que causó la muerte de un paciente a principios de este mes.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:04",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Alejandro Ordóñez es el nuevo ministro del Interior. Fue procurador general y embajador ante la OEA, y estudió en la Universidad Santo Tomás de Bucaramanga.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:07",
+   "quien": "Ramiro Bejarano (Jurista y profesor)",
+   "que": "Criticó fuertemente la llegada de Alejandro Ordóñez al Ministerio del Interior, calificando su nombramiento como un peligro debido a su historial de posturas religiosas radicales y recordando que su segunda designación como procurador fue declarada nula por el Consejo de Estado.",
+   "resaltar": false
   }
  ],
  "avisos": [
