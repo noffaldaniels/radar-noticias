@@ -349,6 +349,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "En Europa hay alerta por vulnerabilidad en un programa utilizado para crear aplicaciones, afectando a agencias de seguridad y grandes organizaciones que deben actualizar sus sistemas de inmediato para evitar riesgos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:52",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se anunciaron 1.400 proyectos de infraestructura y vivienda en Colombia que representan 257.000 viviendas, 2,3 millones de empleos y 98 billones de pesos de inversión.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:52",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El gobierno de Gustavo Petro canceló la designación de Víctor de Currea Lugo como embajador en Emiratos Árabes tras denuncias de acoso sexual.",
+   "resaltar": false
   }
  ],
  "avisos": [
