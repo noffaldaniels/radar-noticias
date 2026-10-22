@@ -41,6 +41,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "En Ecuador las mujeres ocupan el 43% de los escaños en el parlamento y en Perú el 41%, mientras que en Colombia se estima que está alrededor del 30%.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:52",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Tropas de la Brigada 17 del Ejército hallaron 16 cilindros bomba en zona rural de Dabeiba, Antioquia, presuntamente del Clan del Golfo.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "A la cárcel de La Dorada, Caldas, ingresaron insumos para tratamientos dermatológicos y estéticos para atender a Óscar Camargo Ríos, alias 'Pichi', capo del microtráfico en Bucaramanga.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En zona semirural del municipio de Pensilvania, Caldas, fue hallado sin vida el cuerpo de José Sijifredo Restrepo Ospina, padre de la esposa del cantante Jason Jiménez.",
+   "resaltar": false
   }
  ],
  "avisos": [
