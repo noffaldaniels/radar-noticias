@@ -2163,7 +2163,7 @@
   "palabras": "Antioquia, Salud mental, Salud",
   "lead": "Ante estas quejas las directivas respondieron con un plan para solucionar estas problemáticas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2174,7 +2174,7 @@
   "palabras": "",
   "lead": "En este escenario de tensión energética, Alejandro Martínez, presidente de la Asociación Colombiana del GLP (Gasnova), analizó los retos que afronta el gas natural y la solidez con la que el Gas Licuado de Petróleo (GLP) responde a la coyuntura nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2185,7 +2185,7 @@
   "palabras": "Noticias de hoy, Deportivo Independiente Medellín, Atlético Nacional, Liga BetPlay, Fútbol",
   "lead": "El partido entre rojos y verdes, correspondiente a la fecha 16, está programado para el próximo domingo, a partir de las 6:10 de la tarde.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "Santander, Maltrato animal, Bucaramanga, Blu Radio",
   "lead": "El perro Toby había sido reportado como desaparecido y fue encontrado muerto en la vereda Centro Llano de Guadalupe, Santander. La Fiscalía asumió la investigación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "Terremoto hoy, China",
   "lead": "El terremoto tuvo una profundidad de 18 kilómetros, un dato relevante para evaluar las características del evento sísmico y sus posibles efectos en la superficie.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "Noticias de hoy, Banco de la República",
   "lead": "Para el gerente del Banco de la República si Colombia quiere bajar las tasas de interés, hay que resolver el problema fiscal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "Medellín, Noticias de hoy",
   "lead": "Las autoridades destacaron la aprehensión de 38 adolescentes y la incautación de 8,5 kilogramos de estupefacientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "Medellín, Noticias de hoy",
   "lead": "Una reunión para cerrar la venta de un inmueble se convirtió en un caso de hurto por el que ahora son judicializados dos hombres.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "Turismo, Wingo, Caribe",
   "lead": "A 30.000 pies de altura, la celebración ya estaba en marcha con una fiesta a bordo, transformando el trayecto aéreo en la primera parada de esta experiencia insular.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "",
   "lead": "Durante tres horas, la vía estuvo cerrada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "",
   "lead": "El Festival Universitario de Danza Contemporánea tendrá, del 23 al 28 de octubre, artistas nacionales y extranjeros, funciones gratuitas, formación y conversatorios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "",
   "lead": "Se cerrará el retorno ubicado frente a Villa Estrella y los conductores deberán utilizar el retorno situado antes de la entrada al barrio El Pozón y se cerrará el acceso y salida de La Carolina",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "",
   "lead": "Víctor Caicedo denunció que varias personas atacaron el vehículo en el que se movilizaba, le lanzaron piedras golpeando su cabeza.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,7 +2306,7 @@
   "palabras": "",
   "lead": "190 personas participaron en la jornada de inducción a los procesos formativos liderados por la Escuela de Gobierno y Liderazgo en convenio con la Universidad Rafael Núñez",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "",
   "lead": "El profesor Sebastián Ben Daniel, quien enseña en la Universidad Ben Gurión del Neguev, en Beer Sheva, habló en 6AM W sobre las amenazas que ha recibido por expresar puntos de vista contrarios a la ola de nacionalismo en Israel que fue despertada por el ataque de Hamás el 7 de octubre de 2023.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "",
   "lead": "Kurt Volker dijo en 6AM W de Caracol Radio que esta situación está provocando que se pierdan vidas en Ucrania.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "",
   "lead": "Lina Ortega fue abordada por hombres armados en la vía Tibú-Cúcuta.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "",
   "lead": "El compareciente reconoció su responsabilidad en 24 hechos en los que las víctimas fueron asesinadas y presentadas falsamente como bajas en combate. La sentencia contempla 11 obligaciones restaurativas, entre ellas, acciones de memoria, aportes a la búsqueda de desaparecidos y un acto público de petición de perdón.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "",
   "lead": "El club dio a conocer el parte médico del guajiro, que salió lesionado tras el partido de Champions ante Arsenal.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "",
   "lead": "El dúo de música electrónica y la marca de bloques de construcción anunciaron un set que replica el diseño escenográfico de la gira “Alive” de Daft Punk de 2007.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "",
   "lead": "Con el formato ‘Conversaciones de bordillo’ en el Teatro Adolfo Mejía y la participación de artistas en escena, el ciclo formativo fortalece la memoria, la identidad y las acciones de salvaguardia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,7 +2394,7 @@
   "palabras": "",
   "lead": "El multimillonario Elon Musk, anunció que podría existir una alianza entre Tesla y SpaceX.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2405,7 +2405,7 @@
   "palabras": "",
   "lead": "Víctor Muñoz, exdirector del Dapre, se refirió en 6AM W a la denuncia de una presunta red de contratación irregular que involucra a 48 mujeres que habrían sido “instrumentalizadas” durante el gobierno Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "",
   "lead": "La feria de empleabilidad es organizada por la Unidad de Desarrollo Económico (UDE) de la Secretaría de Hacienda",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "",
   "lead": "Juristas destacan pronunciamiento del alto tribunal",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,7 +2438,7 @@
   "palabras": "",
   "lead": "Felipe Bayón, CEO de GeoPark hace tercera adquisición en Argentina, un avance enorme en temas de petróleo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2449,7 +2449,7 @@
   "palabras": "Actualidad,Simulacro,Atención a pacientes,Emergencia,Pediatras,primeros auxilios,médicos residentes,médicos,Prácticas universitarias,Instituciones de Educación Superior,universidades",
   "lead": "El nuevo centro permitirá fortalecer la formación práctica del talento humano, con equipos que reproducen diferentes escenarios de atención médica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2460,7 +2460,7 @@
   "palabras": "Sociedad,Davivienda,Bancos colombianos,Colombia,Aplicaciones,Tecnología",
   "lead": "En redes sociales, usuarios aseguran que no pueden hacer ningún movimiento desde sus cuentas por fallas de las herramientas digitales de Davivienda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2471,7 +2471,7 @@
   "palabras": "Entretenimiento,Fonseca,Bogotá,Homenaje,Concierto,Latin Grammy,Gira mundial,Nuevo álbum,Juanes",
   "lead": "Fonseca recibió la Orden Civil al Mérito José Acevedo y Gómez en Bogotá y alista concierto con entradas agotadas y su gira 2026-27.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2482,7 +2482,7 @@
   "palabras": "Entretenimiento,Cine,Próximos estrenos,lanzamientos,Estrenos,Eventos presenciales",
   "lead": "Las cuatro películas de la saga regresan a las salas colombianas entre octubre y noviembre, como antesala al estreno de una nueva historia de la franquicia...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2493,7 +2493,7 @@
   "palabras": "Sociedad,Patrimonio cultural,Cine,Patrimonio Cultural Inmaterial,Homenaje,Septiembre,Galerías,Eventos presenciales",
   "lead": "En octubre, en la Cinemateca de Bogotá, el Mes del Patrimonio Audiovisual trae exposiciones, homenaje a Augusto Bernal y cine restaurado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2504,6 +2504,512 @@
   "palabras": "Orden Público,Catatumbo,ELN,El Tarra,Disidentes de las Farc",
   "lead": "Por alteraciones del orden público, decretan cuatro días de toque de queda en El Tarra",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estudio revela los fuertes efectos en el cuerpo de una mujer que tiene embarazos muy seguidos",
+  "enlace": "https://www.bluradio.com/salud/estudio-revela-los-fuertes-efectos-en-el-cuerpo-de-una-mujer-que-tiene-embarazos-muy-seguidos-cb20",
+  "fecha": "2026-10-22T12:34:33-05:00",
+  "palabras": "Embarazo",
+  "lead": "Una revisión de estudios con datos de 47 millones de embarazos analiza la importancia del tiempo entre gestaciones y los factores que influyen en la recuperación materna.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Vivienda sin cuota inicial? El proyecto de ley que propone cuotas de $700.000 para casa propia",
+  "enlace": "https://www.bluradio.com/economia/vivienda-sin-cuota-inicial-el-proyecto-de-ley-que-propone-cuotas-de-700-000-para-casa-propia-pr30",
+  "fecha": "2026-10-22T12:18:20-05:00",
+  "palabras": "Subsidio vivienda, Vivienda de interés social (VIS)",
+  "lead": "La iniciativa busca beneficiar a trabajadores informales y hogares de bajos ingresos que no logran ahorrar para comprar casa. El proyecto aún debe superar su trámite en el Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Obras del metrocable desde ya generan polémica en La Estrella: residentes piden garantías",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/obras-del-metrocable-desde-ya-generan-polemica-en-la-estrella-residentes-piden-garantias-rg10",
+  "fecha": "2026-10-22T12:49:02-05:00",
+  "palabras": "Metro de Medellín, Medellín, Noticias de hoy",
+  "lead": "El Metro de Medellín precisó que será de cinco kilómetros de recorrido, 140 predios deben ser adquiridos y un estimado de 210.000 personas se beneficiarán.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ordenan evacuación a otras 20 familias de sus viviendas tras emergencias por quebrada La Iguaná",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/ordenan-evacuacion-a-otras-20-familias-de-sus-viviendas-tras-emergencias-por-quebrada-la-iguana-rg10",
+  "fecha": "2026-10-22T12:43:44-05:00",
+  "palabras": "Medellín, Emergencias por lluvias, Noticias de hoy",
+  "lead": "Líderes sociales de la zona aseguran que cerca de 250 familias damnificadas continúan solicitando ayudas humanitarias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Maestros de Antioquia saldrían a paro ante las fallas en el sistema de salud por parte Fomag",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/maestros-de-antioquia-saldrian-a-paro-ante-las-fallas-en-el-sistema-de-salud-por-parte-fomag-rg10",
+  "fecha": "2026-10-22T12:46:44-05:00",
+  "palabras": "Medellín, Salud, Fomag",
+  "lead": "Aseguran que son cerca de 98 mil profesores los que podrían césar actividades hasta tener respuestas del Fomag.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Puertos, vía al mar y acueducto fueron los proyectos presentados desde Antioquia al vicepresidente",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/puertos-via-al-mar-y-acueducto-fueron-los-proyectos-presentados-desde-antioquia-al-vicepresidente-rg10",
+  "fecha": "2026-10-22T13:01:21-05:00",
+  "palabras": "Gobernación de Antioquia, José Manuel Restrepo, Urabá, Noticias de hoy",
+  "lead": "El vicepresidente José Manuel Restrepo manifestó que \"Urabá sin duda es una zona milagro\" y aseguró que allí no es simplemente atraer inversión por el prurito sino \"lograr que esa riqueza se traduzca en beneficios para los más vulnerables de la sociedad\".",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Argentina declara organizaciones terroristas a las FARC-EP y al ELN",
+  "enlace": "https://www.bluradio.com/mundo/argentina-declara-organizaciones-terroristas-a-las-farc-ep-y-al-eln-cb20",
+  "fecha": "2026-10-22T12:28:10-05:00",
+  "palabras": "Argentina, ELN, Javier Milei, FARC",
+  "lead": "La resolución del gobierno argentino también incluyó a otras organizaciones: al Cártel de Sinaloa, La Nueva Familia Michoacana de México y la ecuatoriana Los Tiguerones.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así interpreta Duque la salida de Lara dos meses después de haber asumido el Ministerio del Interior",
+  "enlace": "https://www.bluradio.com/nacion/asi-interpreta-duque-la-salida-de-lara-dos-meses-despues-de-haber-asumido-el-ministerio-del-interior-pr30",
+  "fecha": "2026-10-22T12:29:31-05:00",
+  "palabras": "",
+  "lead": "En sus declaraciones textuales, el expresidente afirmó: \"Con respecto a los ministros, yo creo que lo ideal es uno poder tener más estabilidad. Eso es lo ideal, eso es lo que todos queremos, pero todos tenemos que hacer cambios\".",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día hoy, resultado del último sorteo jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-hoy-resultado-del-ultimo-sorteo-viernes-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T12:42:30-05:00",
+  "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Chontico Día juega todos los días a las 1 p. m.. Revise aquí el número ganador hoy jueves 22 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día, resultado del último sorteo de hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-de-hoy-viernes-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T12:46:54-05:00",
+  "palabras": "Paisita día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Paisita Día juega todos los días después del mediodía. Consulte aquí el número ganador del sorteo de hoy, jueves 22 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día hoy, resultado del último sorteo jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-hoy-resultado-del-ultimo-sorteo-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T12:54:55-05:00",
+  "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, jueves 22 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día hoy, resultado del último sorteo jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-hoy-resultado-del-ultimo-sorteo-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T12:59:37-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy jueves 22 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a alias ‘Kevin Masacre’, cabecilla de las AUC y sucesor del abatido alias ‘Bendito Menor’",
+  "enlace": "https://caracol.com.co/2026/10/22/capturaron-a-alias-kevin-masacre-cabecilla-de-las-auc-y-sucesor-del-abatido-alias-bendito-menor/",
+  "fecha": "2026-10-22T13:01:42-05:00",
+  "palabras": "",
+  "lead": "La captura fue confirmada por el presidente Abelardo De La Espriella.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "CNE le otorgó personería jurídica al partido Libres, del representante Óscar Benavides",
+  "enlace": "https://caracol.com.co/2026/10/22/cne-le-otorgo-personeria-juridica-al-partido-libres-del-representante-oscar-benavides/",
+  "fecha": "2026-10-22T13:01:32-05:00",
+  "palabras": "",
+  "lead": "La decisión fue tomada por unanimidad tras la presentación de una ponencia de la magistrada Ana Bautista (Pacto Histórico).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Normalizar el sector energético en Colombia tomará entre tres y cuatro años: ministra de Minas",
+  "enlace": "https://caracol.com.co/2026/10/22/normalizar-el-sector-energetico-en-colombia-tomara-entre-tres-y-cuatro-anos-ministra-de-minas/",
+  "fecha": "2026-10-22T12:58:51-05:00",
+  "palabras": "",
+  "lead": "La ministra María Nohemí Arboleda advirtió La ministra explicó que las reservas hídricas enfrentan dificultades, especialmente en Antioquia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Marta acoge el 5.º Encuentro Nacional de Seguridad y Salud en el Trabajo de la ANDI",
+  "enlace": "https://caracol.com.co/2026/10/22/santa-marta-acoge-el-5-encuentro-nacional-de-seguridad-y-salud-en-el-trabajo-de-la-andi/",
+  "fecha": "2026-10-22T12:57:14-05:00",
+  "palabras": "",
+  "lead": "El evento reúne a representantes del Gobierno, empresarios, sindicatos y organismos internacionales para analizar los retos de la seguridad laboral, entre ellos los efectos del cambio climático, la inteligencia artificial y los riesgos para la salud mental.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lula y Bolsonaro acuerdan levantamiento del secreto bancario de cara a las presidenciales en Brasil",
+  "enlace": "https://caracol.com.co/2026/10/22/lula-y-bolsonaro-acuerdan-levantamiento-del-secreto-bancario-de-cara-a-las-presidenciales-en-brasil/",
+  "fecha": "2026-10-22T12:55:33-05:00",
+  "palabras": "",
+  "lead": "La discusión sobre la apertura de las cuentas bancarias se convirtió en uno de los principales temas de la recta final de la campaña, mientras Lula y Flávio Bolsonaro llegan a la segunda vuelta en un escenario de empate técnico en las encuestas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Roban camión con licor en la vía Buga–Buenaventura: un escolta resultó herido",
+  "enlace": "https://caracol.com.co/2026/10/22/roban-camion-con-licor-en-la-via-bugabuenaventura-un-escolta-resulto-herido/",
+  "fecha": "2026-10-22T12:52:54-05:00",
+  "palabras": "",
+  "lead": "La Policía recuperó el camión en inmediaciones al río Dagua e incautó una motocicleta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daniel Noboa vinculó a Petro con Luisa González y lo acusa de dar pasaportes a criminales correístas",
+  "enlace": "https://caracol.com.co/2026/10/22/daniel-noboa-vincula-a-petro-con-luisa-gonzalez-y-lo-acusa-de-dar-pasaportes-a-criminales-correistas/",
+  "fecha": "2026-10-22T12:23:30-05:00",
+  "palabras": "",
+  "lead": "El presidente de Ecuador, Daniel Noboa, aseguró a Caracol Radio que Gustavo Petro y Luisa González “han trabajado juntos por años” y afirmó que, durante el gobierno del exmandatario colombiano, se habrían entregado pasaportes originales a criminales vinculados con el correísmo",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aprobaron el concurso docente 2026 y aumentaron las vacantes a más de 30 mil: Lo último de la CNSC",
+  "enlace": "https://caracol.com.co/2026/10/22/aprobaron-el-concurso-docente-2026-y-aumentaron-las-vacantes-a-mas-de-30-mil-lo-ultimo-de-la-cnsc/",
+  "fecha": "2026-10-22T12:44:45-05:00",
+  "palabras": "",
+  "lead": "Estas son las nuevas fechas para quienes están interesados en participar en la convocatoria de mérito para docentes en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se inician pagos de Renta Joven",
+  "enlace": "https://caracol.com.co/2026/10/22/se-inician-pagos-de-renta-joven/",
+  "fecha": "2026-10-22T12:24:06-05:00",
+  "palabras": "",
+  "lead": "La labor de Prosperidad Social se desarrollará en el Centro Comercial Las Mercedes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Suspenden transporte en Angelópolis tras ataque armado contra vehículo con pasajeros",
+  "enlace": "https://caracol.com.co/2026/10/22/suspenden-transporte-en-angelopolis-tras-ataque-armado-contra-vehiculo-con-pasajeros/",
+  "fecha": "2026-10-22T12:42:14-05:00",
+  "palabras": "",
+  "lead": "Cootrangel dejó claro que no reanudará el servicio de transporte hacia el corregimiento La Estación hasta que existan garantías de seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hoy no tenemos cómo evitar que Colombia se apague”: presidente de la Comisión Quinta del Senado",
+  "enlace": "https://caracol.com.co/2026/10/22/hoy-no-tenemos-como-evitar-que-colombia-se-apague-presidente-de-la-comision-quinta-del-senado/",
+  "fecha": "2026-10-22T12:42:09-05:00",
+  "palabras": "",
+  "lead": "Personeros y gremios piden revisar medidas de ahorro de energía en el Caribe.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desplazamiento masivo en el Catatumbo por escalada de violencia",
+  "enlace": "https://caracol.com.co/2026/10/22/desplazamiento-masivo-en-el-catatumbo-por-escalada-de-violencia/",
+  "fecha": "2026-10-22T12:39:07-05:00",
+  "palabras": "",
+  "lead": "Más de 80 familias de la zona rural de San Calixto llegaron a El Tarra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel dos capturados por atentado al Batallón Pichincha en Cali: no aceptaron cargos",
+  "enlace": "https://caracol.com.co/2026/10/22/a-la-carcel-dos-capturados-por-atentado-al-batallon-pichincha-en-cali-no-aceptaron-cargos/",
+  "fecha": "2026-10-22T12:33:07-05:00",
+  "palabras": "",
+  "lead": "Alias Barbas habría participado en reuniones de planeación del ataque en zona rural de Jamundí y facilitado la huida del conductor del bus bomba. La otra procesada es señalada de vigilar a las autoridades",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Menor de 13 años fue asesinado en El Espinal, Tolima",
+  "enlace": "https://caracol.com.co/2026/10/22/menor-de-13-anos-fue-asesinado-en-el-espinal-tolima/",
+  "fecha": "2026-10-22T12:34:31-05:00",
+  "palabras": "",
+  "lead": "Con la revisión de videos de cámaras de seguridad, las autoridades intentan esclarecer el reciente homicidio.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video | Reportan incendio en ducto del centro comercial Gran Estación en Bogotá: esto se sabe",
+  "enlace": "https://caracol.com.co/2026/10/22/video-reportan-incendio-en-ducto-del-centro-comercial-gran-estacion-en-bogota/",
+  "fecha": "2026-10-22T12:09:13-05:00",
+  "palabras": "",
+  "lead": "No se reportan personas lesionadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Esta semana tendrán lugar las pruebas de cámara para escoger al nuevo James Bond: ¿Quiénes estarán?",
+  "enlace": "https://caracol.com.co/2026/10/22/esta-semana-tendran-lugar-las-pruebas-de-camara-para-escoger-al-nuevo-james-bond-quienes-estaran/",
+  "fecha": "2026-10-22T12:23:22-05:00",
+  "palabras": "",
+  "lead": "Callum Turner, esposo de Dua Lipa y quien recientemente protagonizó la comedia romántica “One Night Only”, y Jack Lowden, actor de la serie “Slow Horses”, figuran entre los candidatos para estas pruebas, que tendrán lugar en Londres este fin de semana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinTrabajo anunció un plan para finalizar la intervención de 11 cajas de compensación",
+  "enlace": "https://caracol.com.co/2026/10/22/mintrabajo-anuncio-un-plan-para-finalizar-la-intervencion-de-11-cajas-de-compensacion/",
+  "fecha": "2026-10-22T12:23:15-05:00",
+  "palabras": "",
+  "lead": "La funcionaria calificó como preocupantes las intervenciones realizadas durante el gobierno anterior",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El gremio turístico en Caldas prevé más del 70 % de visitantes para temporada de fin de año",
+  "enlace": "https://caracol.com.co/2026/10/22/el-gremio-turistico-en-caldas-preve-mas-del-70-de-visitantes-para-temporada-de-fin-de-ano/",
+  "fecha": "2026-10-22T12:23:06-05:00",
+  "palabras": "",
+  "lead": "Reconocen que en la semana de receso en octubre fue positiva, a pesar de que los números del 2025 fueron mejores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aracataca, Magdalena conmemoró los 44 años de la noticia del Nobel a  Gabriel García Márquez",
+  "enlace": "https://caracol.com.co/2026/10/22/aracataca-magdalena-conmemoro-los-44-anos-de-la-noticia-del-nobel-a-gabriel-garcia-marquez/",
+  "fecha": "2026-10-22T12:19:44-05:00",
+  "palabras": "",
+  "lead": "La celebración sirvió también como antesala a los actos del centenario del escritor, previstos del 3 al 6 de marzo del 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mujeres rurales se reúnen para hablar de paz en los territorios",
+  "enlace": "https://caracol.com.co/2026/10/22/mujeres-rurales-se-reunen-para-hablar-de-paz-en-los-territorios/",
+  "fecha": "2026-10-22T12:18:09-05:00",
+  "palabras": "",
+  "lead": "Reconocen el aumento de víctimas del conflicto armado que han dejado los últimos 21 meses de combate en la región del Catatumbo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caso frambuesas envenenadas con talio: amplían por un año más orden de captura contra Zulma Guzmán",
+  "enlace": "https://caracol.com.co/2026/10/22/caso-frambuesas-envenenadas-con-talio-amplian-por-un-ano-mas-orden-de-captura-contra-zulma-guzman/",
+  "fecha": "2026-10-22T09:59:00-05:00",
+  "palabras": "",
+  "lead": "Entre tanto, la mujer considerada por la Fiscalía como una posible asesina serial será imputada por homicidio agravado y tentativa de homicidio el próximo 9 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Avalancha en el río Combeima afecta el suministro de agua en Ibagué",
+  "enlace": "https://caracol.com.co/2026/10/22/avalancha-en-el-rio-combeima-afecta-el-suministro-de-agua-en-ibague/",
+  "fecha": "2026-10-22T12:15:56-05:00",
+  "palabras": "",
+  "lead": "Los problemas con la captación de agua ha ocasionado que se registren bajos niveles en los tanques de compensación y afectaciones en la continuidad del servicio, principalmente en los sectores altos de los distritos hidráulicos de Ibagué.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres hombres fueron capturados con 82 cigarrillos de marihuana en Magangué",
+  "enlace": "https://caracol.com.co/2026/10/22/tres-hombres-fueron-capturados-con-82-cigarrillos-de-marihuana-en-magangue/",
+  "fecha": "2026-10-22T12:15:36-05:00",
+  "palabras": "",
+  "lead": "Los sospechosos, según las autoridades, registran anotaciones judiciales por diferentes delitos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inicia reconstrucción del colegio Nuevo Latir en Cali tras terremoto",
+  "enlace": "https://caracol.com.co/2026/10/22/inicia-reconstruccion-del-colegio-nuevo-latir-en-cali-tras-terremoto/",
+  "fecha": "2026-10-22T12:12:15-05:00",
+  "palabras": "",
+  "lead": "La intervención, financiada con aportes del sector empresarial y donaciones ciudadanas, beneficiará a más de 1.500 estudiantes",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumenta la cifra de docentes amenazados en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/22/aumenta-la-cifra-de-docentes-amenazados-en-el-catatumbo/",
+  "fecha": "2026-10-22T12:13:36-05:00",
+  "palabras": "",
+  "lead": "Fecode alerta sobre los riesgos para más de 210 educadores en esta región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Horóscopo del profesor Salomón HOY 22 de octubre 2026: ¿El amor tocará las puertas de Acuario?",
+  "enlace": "https://caracol.com.co/2026/10/22/horoscopo-del-profesor-salomon-hoy-22-de-octubre-2026-el-amor-tocara-las-puertas-de-acuario/",
+  "fecha": "2026-10-22T12:13:10-05:00",
+  "palabras": "",
+  "lead": "El profesor Salomón compartió las predicciones del tarot y el horóscopo para este 22 de octubre del 2026. Descubra qué le deparan los astros a su signo en el plano económico, además de los números de la suerte para esta jornada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ozuna regresa al reggaetón clásico con ‘Vulnerable’, junto a Ñengo Flow y Jory Boy",
+  "enlace": "https://caracol.com.co/2026/10/22/ozuna-regresa-al-reggaeton-clasico-con-vulnerable-junto-a-nengo-flow-y-jory-boy/",
+  "fecha": "2026-10-22T12:12:50-05:00",
+  "palabras": "",
+  "lead": "El sencillo reúne los estilos de los tres artistas en una propuesta marcada por la melodía y el coqueteo. El video oficial fue filmado en Bayamón, Puerto Rico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayó presunto integrante del Clan del Golfo en los Montes de María",
+  "enlace": "https://caracol.com.co/2026/10/22/cayo-presunto-integrante-del-clan-del-golfo-en-los-montes-de-maria/",
+  "fecha": "2026-10-22T12:11:00-05:00",
+  "palabras": "",
+  "lead": "Estaría coordinando la venta de drogas en El Carmen de Bolívar y San Jacinto y fue capturado durante un operativo de la Sijín",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia, en el top 10 de países con mejor percepción de EE. UU.",
+  "enlace": "https://www.lafm.com.co/sociedad/colombia-top-diez-paises-mejor-favorabilidad-estados-unidos-ranking-414811",
+  "fecha": "2026-10-22T12:49:00-05:00",
+  "palabras": "Sociedad,Estados Unidos,Colombia,América Latina,Latinoamericanos,Latinoamerica,Argentina",
+  "lead": "En el caso colombiano, el 57 % de los encuestados expresa una opinión favorable, el 29 % manifiesta una percepción desfavorable.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fecode advierte déficit de $1,8 billones en el Fomag",
+  "enlace": "https://www.lafm.com.co/sociedad/fecode-fomag-deudas-atencion-maestros-crisis-salud-414818",
+  "fecha": "2026-10-22T12:36:00-05:00",
+  "palabras": "Sociedad,Fecode,Magisterio,Fiduprevisora,situación financiera,obligaciones financieras,Financiamiento,Ministerio de Hacienda y Crédito Público",
+  "lead": "Fecode reiteró su defensa de la Ley 91 de 1989 y advirtió sobre los riesgos financieros que enfrenta el Fondo Nacional de Prestaciones Sociales del Magiste...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aparecen niñas que estaban desaparecidas en Kennedy",
+  "enlace": "https://www.lafm.com.co/actualidad/aparecen-ninas-desaparecidas-colegio-kennedy-bogota-414816",
+  "fecha": "2026-10-22T12:29:00-05:00",
+  "palabras": "Actualidad,desaparición de personas,Desaparecidos,Joven desaparecido,desaparecido,Secuestros,Unidad de Búsqueda de Personas Desaparecidas,Investigaciones,Indagación preliminar,Vigilancia",
+  "lead": "La desaparición generó preocupación entre los familiares, quienes exigieron explicaciones sobre las circunstancias en las que las adolescentes abandonaron ...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Terremoto de 7.0 este jueves 22 de octubre de 2026 en China",
+  "enlace": "https://www.lafm.com.co/internacional/terremoto-china-7-jueves-22-octubre-10-kilometros-profundidad-414813",
+  "fecha": "2026-10-22T12:24:00-05:00",
+  "palabras": "Internacional,terremoto,Temblor,Tíbet,Emergencia",
+  "lead": "El terremoto de este jueves fue superficial sin que hasta ahora se reportaran víctimas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia tendrá futbolistas campeones en Copa Libertadores y Sudamericana",
+  "enlace": "https://www.lafm.com.co/deportes/futbolistas-colombianos-seran-campeones-libertadores-sudamericana-414812",
+  "fecha": "2026-10-22T12:08:00-05:00",
+  "palabras": "Deportes,Copa Libertadores,Copa Sudamericana,Semifinales,Boca Juniors,Jorge Carrascal,Barranquilla,campeón",
+  "lead": "Las finales continentales de Conmebol se jugarán el 21 y 28 de noviembre con la presencia de futbolistas colombianos en los cuatro equipos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Detienen a la excandidata presidencial de Ecuador, investigada por financiación ilegal de campaña",
+  "enlace": "https://www.lafm.com.co/internacional/detienen-luisa-gonzalez-candidata-ecuador-rafael-correa-414808",
+  "fecha": "2026-10-22T11:57:00-05:00",
+  "palabras": "Internacional,Ecuador,Lavado de activos,Detenidos,Procesos judiciales,Orden de detención,Audiencia judicial,Lucha anticorrupción",
+  "lead": "Por medio de algunas sociedades se habrían canalizado cerca de 500.000 dólares para la contratación y adquisición de publicidad electoral.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
