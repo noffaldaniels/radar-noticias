@@ -722,7 +722,7 @@
   "palabras": "Cali, Disidencias Farc",
   "lead": "La zona fue acordonada, mientras unidades antiexplosivos de la Policía verifican el contenido del cilindro en ese centro comercial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Bucaramanga, Santander, Universidad Industrial de Santander, Hospital Universitario de Santander, Blu Radio",
   "lead": "Una investigación realizada por la UIS en el Hospital Universitario de Santander encontró que cerca del 30 % de los pacientes estudiados con ACV isquémico tenía la infección por Chagas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "Asimismo, la demanda en el sector alcanzó las 6,4 millones de noches vendidas, reflejando un repunte del 4 % interanual. Este dinamismo se tradujo además en un beneficio fiscal histórico: la recaudación por el impuesto a las habitaciones ascendió a 163,6 millones de dólares durante el año fiscal…",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "La obra tendrá 135 bóvedas y 288 osarios para dignificar a las víctimas del conflicto armado y honrar su memoria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "Los sujetos las robaron, golpearon y exigieron 20 millones de pesos para su liberación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "Empresarios advierten que la competencia por precios con las plataformas internacionales está golpeando la producción local y el empleo en el sector textil.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "El delantero cordobés mantiene su promedio de un gol por partido con el equipo mexicano.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "La investigación señala que el detenido habría mantenido contacto con los servicios de inteligencia rusos desde al menos julio de 2025 y que parte de la información obtenida estaba relacionada con vehículos blindados, munición, explosivos y posiciones vinculadas con la defensa del flanco oriental de la OTAN.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "Los aportes de agua a los embalses están 35 % por debajo de la media histórica y las reservas se encuentran alrededor del 75 % de su capacidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "Las autoridades francesas mantienen investigaciones por los disturbios del 17 de octubre, que dejaron miles de detenidos y cientos de personas encarceladas, mientras el Gobierno prepara nuevas medidas para evitar que se repitan los episodios de violencia, saqueos y vandalismo registrados en varias ciudades.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "Durante la ceremonia se reconoció el trabajo de los empresarios, tenderos, líderes gremiales, la innovación y el emprendimiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "El animal está siendo atendido en un centro veterinario debido a la gravedad de las lesiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "Inundaciones y caída de árboles, entre las principales afectaciones por las lluvias en el municipio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "El sector hotelero se prepara para atender la demanda de turistas que llegarán a la capital del Atlántico.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "Mas de 87 ataques con drones se han registrado en la región",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Política,Rodrigo Lara Sánchez,Abelardo de la Espriella,Rodrigo Lara",
   "lead": "Lara comenzó a recibir ataques en redes sociales por parte de influenciadores que antes lo habían defendido y que participaron en la campaña presidencial.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "Economía,decreto,Gobierno,Proyecto de ley,Ministerio de Hacienda y Crédito Público,Marco fiscal,situación financiera,finanzas,Financiamiento,Deuda externa,Regla fiscal",
   "lead": "Por tercera vez desde 1991, Colombia expedirá por decreto el Presupuesto de 2027, que asciende a $634,9 billones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,6 +909,292 @@
   "palabras": "Internacional,Meta,Fallo judicial,Estados Unidos,Derecho a la intimidad,Sanción económica,Quejas de usuarios",
   "lead": "El caso está relacionado con el engaño a usuarios de Facebook sobre la protección de sus datos personales.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así celebró Carlos Suárez la llegada de Alejandro Ordóñez al Ministerio del Interior",
+  "enlace": "https://www.bluradio.com/politica/asi-celebro-carlos-suarez-la-llegada-de-alejandro-ordonez-al-ministerio-del-interior-pr30",
+  "fecha": "2026-10-22T07:12:59-05:00",
+  "palabras": "Alejandro Ordóñez, Abelardo De La Espriella, Viral",
+  "lead": "El estratega de Abelardo de la Espriella y presidente de la Junta de Ecopetrol dedicó una serie de historias en Instagram al exprocurador, a quien conoce desde 2018.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría destituye e inhabilita por 15 años a dos expolicías por envío de cocaína a Providencia",
+  "enlace": "https://www.bluradio.com/nacion/procuraduria-destituye-e-inhabilita-por-15-anos-a-dos-expolicias-por-envio-de-cocaina-a-providencia-rg10",
+  "fecha": "2026-10-22T07:22:30-05:00",
+  "palabras": "Procuraduría General de la Nación, San Andrés y Providencia, Cocaína",
+  "lead": "Los dos exagentes apelaron el fallo de primera instancia que los sancionó por su participación en el envío de más de 400 kilos de cocaína.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría formula cargos a exalcalde de Charta por fallas en millonario contrato",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/procuraduria-formula-cargos-a-exalcalde-de-charta-por-fallas-en-millonario-contrato-rg10",
+  "fecha": "2026-10-22T07:38:22-05:00",
+  "palabras": "Procuraduría General de la Nación, Corrupción, Santander, Bucaramanga, Santurbán, Bucaramanga, Blu Radio, Noticias de hoy, Procuraduría",
+  "lead": "El caso se centra en posibles fallas en la planeación y supervisión de una obra pública, aspectos que pueden comprometer la calidad, seguridad y adecuada inversión de los recursos del municipio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sacudida política por salida del ministro Rodrigo Lara: desde el Congreso hablan de \"desconexión\"",
+  "enlace": "https://www.bluradio.com/politica/sacudida-politica-por-salida-del-ministro-rodrigo-lara-desde-el-congreso-hablan-de-desconexion-pr30",
+  "fecha": "2026-10-22T07:39:10-05:00",
+  "palabras": "Rodrigo Lara, Ministerio de Interior, Alejandro Ordóñez, Congreso",
+  "lead": "La salida de Lara se produce en un momento crítico para el Gobierno, cuando restan pocas semanas para la finalización del semestre legislativo y se debate la crucial ley de rescate fiscal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Fin a la cicatriz urbana que nos dejaron”: Germán Ricardo Camacho, alcalde de Paipa",
+  "enlace": "https://caracol.com.co/2026/10/22/fin-a-la-cicatriz-urbana-que-nos-dejaron-german-ricardo-camacho-alcalde-de-paipa/",
+  "fecha": "2026-10-22T07:43:36-05:00",
+  "palabras": "",
+  "lead": "El proyecto Multifamiliar Primero de Mayo, iniciado en 2009, será demolido tras cerca de 17 años de dificultades legales y estructurales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Villeta administrador de fincas turísticas por presunto abuso sexual a menor de 14 años",
+  "enlace": "https://caracol.com.co/2026/10/22/capturan-en-villeta-administrador-de-fincas-turisticas-por-presunto-abuso-sexual-a-menor-de-14-anos/",
+  "fecha": "2026-10-22T07:57:39-05:00",
+  "palabras": "",
+  "lead": "Un juez le impuso medida de aseguramiento en centro carcelario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde Dumek Turbay destaca inversión de más de $6 billones para transformar a Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/22/alcalde-dumek-turbay-destaca-inversion-de-mas-de-6-billones-para-transformar-a-cartagena/",
+  "fecha": "2026-10-22T07:55:55-05:00",
+  "palabras": "",
+  "lead": "El mandatario local dio apertura al encuentro nacional de Camacol, que regresa a la ciudad como escenario de discusión sobre el futuro del sector constructor",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Hay favorecimientos en millonario contrato para alumbrado público de Cali? Responde gerente Emcali",
+  "enlace": "https://caracol.com.co/2026/10/22/hay-favorecimientos-en-millonario-contrato-para-alumbrado-publico-de-cali-responde-gerente-emcali/",
+  "fecha": "2026-10-22T07:54:00-05:00",
+  "palabras": "",
+  "lead": "El concejal Roberto Ortiz habló en Caracol Radio con el gerente Roger Mina sobre los cuestionamientos al proceso para la modernización del alumbrado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Villa Carmen en Cartagena está cada vez más cerca de estrenar sus calles pavimentadas",
+  "enlace": "https://caracol.com.co/2026/10/22/villa-carmen-en-cartagena-esta-cada-vez-mas-cerca-de-estrenar-sus-calles-pavimentadas/",
+  "fecha": "2026-10-22T07:50:45-05:00",
+  "palabras": "",
+  "lead": "La obra contempla aproximadamente 300 metros divididos en cuatro tramos de este sector de San Pedro Mártir y más de 100 familias se beneficiarán",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcanos alerta por cobros anticipados en la revisión del gas y pide verificar los plazos de vencimie",
+  "enlace": "https://caracol.com.co/2026/10/22/alcanos-alerta-por-cobros-anticipados-en-la-revision-del-gas-y-pide-verificar-los-plazos-de-vencimie/",
+  "fecha": "2026-10-22T07:50:28-05:00",
+  "palabras": "",
+  "lead": "La empresa aclara cómo verificar los cinco años, evitar engaños y acceder a la financiación de la revisión periódica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juvenal Infante será el nuevo embajador de Colombia ante China",
+  "enlace": "https://caracol.com.co/2026/10/22/juvenal-infante-sera-el-nuevo-embajador-de-coombia-ante-china/",
+  "fecha": "2026-10-22T07:10:33-05:00",
+  "palabras": "",
+  "lead": "El nuevo líder de la diplomacia con el país asiático hizo parte del Centro de Estudios Asia-Pacífico y del Programa de Misiones a China de la Universidad Sergio Arboleda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel sujeto que con puñal en mano mató a una persona, hirió a otras dos en Chiquinquirá",
+  "enlace": "https://caracol.com.co/2026/10/22/a-la-carcel-sujeto-que-con-punal-en-mano-mato-a-una-persona-hirio-a-otras-dos-en-chiquinquira/",
+  "fecha": "2026-10-22T07:47:29-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía imputó al señalado agresor por tentativa de homicidio agravado, homicidio agravado y hurto calificado, cargos que fueron aceptados por el procesado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Corte Penal Internacional, premio Sájarov a la libertad de conciencia de la Eurocámara",
+  "enlace": "https://caracol.com.co/2026/10/22/la-corte-penal-internacional-premio-sajarov-a-la-libertad-de-conciencia-de-la-eurocamara/",
+  "fecha": "2026-10-22T07:29:20-05:00",
+  "palabras": "",
+  "lead": "La CPI fue creada en 2002 como el primer tribunal penal internacional permanente y actualmente cuenta con 125 Estados miembros, con jurisdicción para juzgar a individuos por genocidio, crímenes de guerra, de lesa humanidad y de agresión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Congreso busca exaltar la Semana Santa de Guamal y el patrimonio de Tenererife, Magdalena",
+  "enlace": "https://caracol.com.co/2026/10/22/congreso-busca-exaltar-la-semana-santa-de-guamal-y-el-patrimonio-de-tenererife-magdalena/",
+  "fecha": "2026-10-22T07:40:39-05:00",
+  "palabras": "",
+  "lead": "A través de la radicación de proyectos de ley impulsados por el Senador Carlos Mario Farelo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperan en Villanueva motocicleta que había sido robada en Atlántico",
+  "enlace": "https://caracol.com.co/2026/10/22/recuperan-en-villanueva-motocicleta-que-habia-sido-robada-en-atlantico/",
+  "fecha": "2026-10-22T07:30:23-05:00",
+  "palabras": "",
+  "lead": "Un capturado de 22 años deberá responder por el delito de receptación",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Efraín Cepeda respaldó a Alejandro Ordóñez como MinInterior y destacó su cercanía con el Congreso",
+  "enlace": "https://caracol.com.co/2026/10/22/efrain-cepeda-respaldo-a-alejandro-ordonez-como-mininterior-y-destaco-su-cercania-con-el-congreso/",
+  "fecha": "2026-10-22T07:20:42-05:00",
+  "palabras": "",
+  "lead": "En desarrollo...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Meloni toma acciones contra menores de 14 años tras los disturbios presentados en Milán",
+  "enlace": "https://caracol.com.co/2026/10/22/meloni-toma-acciones-contra-menores-de-14-anos-tras-los-disturbios-presentados-en-milan/",
+  "fecha": "2026-10-22T07:25:18-05:00",
+  "palabras": "",
+  "lead": "Tras los disturbios del pasado fin de semana en Milán, Meloni impone nuevas leyes preventivas para menores de 14 años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hoy feria del empleo, para generar oportunidades a los cucuteños",
+  "enlace": "https://caracol.com.co/2026/10/22/hoy-feria-del-empleo-para-generar-oportunidades-a-los-cucutenos/",
+  "fecha": "2026-10-22T07:18:48-05:00",
+  "palabras": "",
+  "lead": "Alcaldía lidera el evento en el hotel Tonchalá",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daniel Torres, crítico con El Campín: “Teníamos una de las mejores gramas, hoy es de las peores”",
+  "enlace": "https://caracol.com.co/2026/10/22/daniel-torres-critico-con-el-campin-teniamos-una-de-las-mejores-gramas-hoy-es-de-las-peores/",
+  "fecha": "2026-10-22T07:16:21-05:00",
+  "palabras": "",
+  "lead": "El volante se refirió al estado del campo en el regreso de Santa Fe al estadio, luego de un mes sin jugar en este escenario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pacto de Valledupar: De Currea confirma borrador del Gobierno Petro",
+  "enlace": "https://www.lafm.com.co/politica/victor-de-currea-lugo-confirma-gobierno-gustavo-petro-presento-documento-borrador-ofrecimientos-paramiliares-414768",
+  "fecha": "2026-10-22T07:59:00-05:00",
+  "palabras": "Política,Proceso de Paz,Abelardo de la Espriella,Álvaro Uribe,Germán Vargas Lleras,Salvatore Mancuso,Paramilitares,Valledupar,Gustavo Petro",
+  "lead": "Víctor de Currea-Lugo se refirió al borrador del Pacto de Valledupar, negó órdenes de Petro para buscar declaraciones contra dirigentes políticos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hija de Vargas Lleras denunciará en la Fiscalía plan de desprestigio",
+  "enlace": "https://www.lafm.com.co/politica/german-vargas-lleras-hija-denunciara-presunto-plan-desprestigiar-su-padre-pedira-ayuda-estados-unidos-414770",
+  "fecha": "2026-10-22T07:58:00-05:00",
+  "palabras": "Política,Procesos judiciales,Fiscalía General de la Nación,Actividad judicial,Germán Vargas Lleras,Indagación preliminar",
+  "lead": "La hija de Vargas Lleras espera que las instituciones ofrezcan garantías para adelantar un proceso ágil, rápido y justo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría destituye 15 años a expolicías por envío de cocaína",
+  "enlace": "https://www.lafm.com.co/orden-publico/procuraduria-destituye-e-inhabilita-por-15-anos-a-dos-expolicias-por-envio-de-cocaina-a-providencia-414772",
+  "fecha": "2026-10-22T07:53:00-05:00",
+  "palabras": "Orden Público,Policía Nacional,Procuraduría General de la Nación,Narcotráfico,destitución",
+  "lead": "La Procuraduría destituyó e inhabilitó 15 años a 2 exagentes por embarcar 446 kg de cocaína de Bogotá a Providencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quién es Alejandro Ordóñez, nuevo Ministro del Interior?",
+  "enlace": "https://www.lafm.com.co/politica/quien-es-alejandro-ordonez-nuevo-ministro-del-interior-gobierno-abelardo-de-la-espriella-414758",
+  "fecha": "2026-10-22T07:15:00-05:00",
+  "palabras": "Política,Ministerio del interior,Abelardo de la Espriella,Rodrigo Lara,Procuraduría General de la Nación,Destitución de cargo",
+  "lead": "El político es santandereano y estudió Derecho en la Universidad Santo Tomás de Bucaramanga.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Muere en Francia primer ser humano en el mundo en contraer el virus Shamonda",
+  "enlace": "https://www.lafm.com.co/internacional/virus-shamonda-francia-detectado-francia-muere-paciente-inmunodeficiente-414769",
+  "fecha": "2026-10-22T07:11:00-05:00",
+  "palabras": "Internacional,enfermedades,Insectos,pacientes,Francia,Alerta,medidas sanitarias",
+  "lead": "El virus, que se transmite por pequeños insectos, existe hace más de una década entre otros animales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Buscan a dos sospechosos del crimen de pareja en Suesca",
+  "enlace": "https://www.lafm.com.co/orden-publico/asesinato-pareja-esposos-suesca-cundinamarca-alejandra-torres-jorge-alejandro-vivas-vereda-teneria-hipotesis-autoridades-investigan-414767",
+  "fecha": "2026-10-22T07:09:00-05:00",
+  "palabras": "Orden Público,Homicidios,Asesinado,Víctimas,Hallazgo de cuerpos,Cundinamarca,testigo,investigados,Vigilancia",
+  "lead": "Alejandra Torres y Jorge Alejandro Vivas fueron atacados en su vivienda y fallecieron a orillas de la carretera, mientras pedían ayuda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hijo de Omar Pérez será convocado a la Selección Colombia",
+  "enlace": "https://www.lafm.com.co/deportes/hijo-omar-perez-seria-convocado-seleccion-colombia-414765",
+  "fecha": "2026-10-22T07:01:00-05:00",
+  "palabras": "Deportes,Selección Colombia Sub 20,Selección Colombia,Omar Pérez,Sudamericano Sub 20,Colombia,Independiente Santa Fe,Deportivo Independiente Medellín,Boca Juniors",
+  "lead": "Franco Pérez, de Boca Juniors, elige los colores de Colombia para defender desde las categorías menores con el sueño de llegar a la selección absoluta.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
