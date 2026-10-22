@@ -405,6 +405,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El virus conocido como Shamondá, transmitido por insectos y que afecta al ganado, fue detectado por primera vez en un ser humano en Francia.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:03",
+   "quien": "Amy Suárez, Senadora de Alianza Verde",
+   "que": "La senadora destacó el trabajo del exministro Rodrigo Lara, señalando que dedicó casi 12 horas diarias al proyecto de ley de sometimiento y lideró consensos durante 72 días de trabajo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:05",
+   "quien": "Heráclito Landinez, Representante a la Cámara por el Pacto Histórico",
+   "que": "El representante defendió el nombramiento de Alejandro Gaviria como ministro de Educación, afirmando que es una persona con amplia trayectoria y experiencia institucional para liderar los retos del sector.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:08",
+   "quien": "Efraín Cepeda, Senador del Partido Conservador",
+   "que": "El senador criticó fuertemente el nombramiento del nuevo ministro, señalando que representa una postura radical y que el gobierno busca 'radicalizar' su discurso político.",
+   "resaltar": false
   }
  ],
  "avisos": [
