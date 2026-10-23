@@ -755,6 +755,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El exprocurador Edgardo Maya y la exrectora Adriana Guillén se encuentran en listas para reemplazar a magistrados del Consejo de Estado.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:50",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se destaca que Presto se ha enfocado en los últimos años en diversificar sus tipos de hamburguesas (ranchera, etc.).",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:50",
+   "quien": "Doctor Vaquero (Representante de Presto)",
+   "que": "Nutresa está asumiendo la deuda por la que se quebró Presto.",
+   "resaltar": false
   }
  ],
  "avisos": [
