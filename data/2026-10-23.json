@@ -656,7 +656,7 @@
   "palabras": "Robos, Bogotá",
   "lead": "La captura se dio en la avenida Caracas. Mientras avanza el proceso judicial, el juez ordenó su permanencia en centro carcelario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "Asesinatos, Fiscalía General de la Nación, Embarazo",
   "lead": "La investigación indica que el cuerpo de la mujer habría sido trasladado en un carro de mercado y abandonado en vía pública.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Incidentes en el sector de Playa de Oro reavivan la preocupación por la seguridad de los transportadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "La audiencia para presentación de descargos será el próximo 29 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "La empresa indicó que espera restablecer el servicio de energía en el menor tiempo posible.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "Los sujetos se llevaron dinero en efectivo, celulares y objetos de valor",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "El epicentro de las acciones se desarrollaban en el barrio San Miguel",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Las medidas incluyen restricciones a ciertas actividades industriales y a la circulación de vehículos diésel y particulares de más de 10 años, de lunes a viernes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Política,Ministerio del interior,Rodrigo Lara Bonilla,Renuncia de funcinarios,Viceministro del Interior,Abelardo de la Espriella",
   "lead": "Hay interrogantes sobre el futuro político del Lara, entre ellos la posibilidad de que sea el candidato del presidente a la Alcaldía de Bogotá",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "Deportes,IDRD,Estadio El Campín,procedimientos,intervención,Indagación preliminar,Irregularidades en contratos,sanciones,Contratación",
   "lead": "El Distrito toma la decisión en base a las medidas anuncias por el alcalde Carlos Galán el pasado 14 de octubre.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,6 +766,292 @@
   "palabras": "Economía,Departamento Nacional de Planeación,Ministerio de Hacienda y Crédito Público,Ministerio de Minas y Energía,Medidas económicas,medidas fiscales,Plan de austeridad,Recaudo fiscal,Regla fiscal,recursos públicos,situación financiera",
   "lead": "El Gobierno oficializó una reducción de $13,8 billones en el Presupuesto General de la Nación de 2026, al considerar que los recaudos previstos son insufic...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video muestra el momento de atentado en peaje en Villanueva, Casanare: \"Están vivos de milagro\"",
+  "enlace": "https://www.bluradio.com/nacion/video-muestra-el-momento-de-atentado-en-peaje-en-villanueva-casanare-estan-vivos-de-milagro-so35",
+  "fecha": "2026-10-23T07:14:19-05:00",
+  "palabras": "Casanare",
+  "lead": "Tres empleados de la concesión resultaron heridos sin gravedad. Las autoridades investigan quiénes dejaron el vehículo con explosivos y por qué la vía permanece cerrada.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alias ‘Bombillo’ murió en un ataque a bala en zona rural de Floridablanca, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/alias-bombillo-murio-en-un-ataque-a-bala-en-zona-rural-de-floridablanca-santander-rg10",
+  "fecha": "2026-10-23T07:34:09-05:00",
+  "palabras": "Homicidios, Floridablanca, Bucaramanga, Santander, Bandas criminales, Blu Radio, Noticias de hoy, Floridablanca",
+  "lead": "Tras el homicidio, las autoridades activaron cierres y labores de verificación para establecer las características y la ubicación de los responsables.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bogotá amplía por un mes el piloto de salida por la Carrera Séptima hacia el norte",
+  "enlace": "https://www.bluradio.com/regiones/bogota/bogota-amplia-por-un-mes-el-piloto-de-salida-por-la-carrera-septima-hacia-el-norte-rg10",
+  "fecha": "2026-10-23T07:27:05-05:00",
+  "palabras": "Carrera Séptima, Bogotá, Secretaría de Movilidad",
+  "lead": "La decisión se tomó tras los resultados registrados durante las primeras cuatro jornadas de implementación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MinAmbiente abre investigación a la CDMB por la PTAR El Santuario en Piedecuesta",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/minambiente-abre-investigacion-a-la-cdmb-por-la-ptar-el-santuario-en-piedecuesta-rg10",
+  "fecha": "2026-10-23T07:39:39-05:00",
+  "palabras": "Santander, Piedecuesta, Servicios públicos, Ministerio de Ambiente, Blu Radio, Noticias de hoy",
+  "lead": "El Ministerio solicitó información sobre el manejo ambiental de la planta de tratamiento de aguas residuales y los vertimientos al río de Oro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "IDRD inicia proceso sancionatorio contra Sencia por presuntos incumplimientos en El Campín",
+  "enlace": "https://www.bluradio.com/regiones/bogota/idrd-inicia-proceso-sancionatorio-contra-sencia-por-presuntos-incumplimientos-en-el-campin-rg10",
+  "fecha": "2026-10-23T07:30:21-05:00",
+  "palabras": "Estadio El Campín, Bogotá, Noticias de hoy",
+  "lead": "El concesionario deberá presentarse a una audiencia el próximo 29 de octubre para responder, mientras el Distrito refuerza la vigilancia sobre el estado de la gramilla y las condiciones del estadio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan muerte de presunto ladrón baleado durante hurto de una cadena de oro en Cali",
+  "enlace": "https://caracol.com.co/2026/10/23/investigan-muerte-de-presunto-ladron-baleado-durante-hurto-de-una-cadena-de-oro-en-cali/",
+  "fecha": "2026-10-23T07:50:12-05:00",
+  "palabras": "",
+  "lead": "El esposo de la víctima le disparó a uno de los señalados asaltantes en el barrio Capri. El segundo implicado huyó en una motocicleta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Grupo Nutresa explicó qué pasará con Presto tras compra de cadena: ¿cambiarán de nombre o fórmula?",
+  "enlace": "https://caracol.com.co/2026/10/23/grupo-nutresa-explico-que-pasara-con-presto-tras-compra-de-cadena-cambiaran-de-nombre-o-formula/",
+  "fecha": "2026-10-23T07:45:42-05:00",
+  "palabras": "",
+  "lead": "Felipe Baquero estuvo en 6AM W de Caracol Radio hablando sobre el futuro de la reconocida cadena colombiana de hamburguesas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministerio del Ambiente pide a Cdmb informe sobre Ptar El Santuario y vertimientos al río de Oro",
+  "enlace": "https://caracol.com.co/2026/10/23/ministerio-del-ambiente-pide-a-cdmb-informe-sobre-ptar-el-santuario-y-vertimientos-al-rio-de-oro/",
+  "fecha": "2026-10-23T07:46:24-05:00",
+  "palabras": "",
+  "lead": "La comunidad de Chocoíta en Girón y veedores de Piedecuesta advierten que la planta de tratamiento de aguas residuales opera a media marcha.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abelardo De La Espriella designó a Viviane Morales como consejera comisionada de paz",
+  "enlace": "https://caracol.com.co/2026/10/23/abelardo-de-la-espriella-designo-a-viviane-morales-como-consejera-comisionada-de-paz/",
+  "fecha": "2026-10-23T07:45:26-05:00",
+  "palabras": "",
+  "lead": "También asumirá, en calidad de encargada, la dirección de la Unidad de Implementación del Acuerdo de Paz.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lucas González y su mensaje a los críticos de Edwin Cardona: “Le tiran por tirarle”",
+  "enlace": "https://caracol.com.co/2026/10/23/lucas-gonzalez-y-su-mensaje-a-los-criticos-de-edwin-cardona-le-tiran-por-tirarle/",
+  "fecha": "2026-10-23T07:42:22-05:00",
+  "palabras": "",
+  "lead": "El volante marcó un golazo desde mitad de cancha en el triunfo de Nacional 3-0 sobre Deportivo Pasto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de mil estudiantes de un colegio en el Quindío siguen afectados tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/23/mas-de-mil-estudiantes-de-un-colegio-en-el-quindio-siguen-afectados-tras-el-terremoto/",
+  "fecha": "2026-10-23T07:41:40-05:00",
+  "palabras": "",
+  "lead": "Más de mil estudiantes de un colegio en el Quindío siguen afectados porque hay riesgo de colapso por el terremoto, lo grave es que están recibiendo clases en carpas que no están adecuadas",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "VIDEO: Creciente “nunca antes vista” según comunidad, arrasó cultivos, puentes y ganado en Santander",
+  "enlace": "https://caracol.com.co/2026/10/23/video-creciente-nunca-antes-vista-segun-comunidad-arraso-cultivos-puentes-y-ganado-en-santander/",
+  "fecha": "2026-10-23T07:38:37-05:00",
+  "palabras": "",
+  "lead": "La emergencia también dejó afectaciones en viviendas, acueducto y una ruta turística. Campesinos reportan más de mil millones en pérdidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“De Barranquilla para el mundo”, así recibió Silvia Tcherassi reconocimiento Caimana Épica",
+  "enlace": "https://caracol.com.co/2026/10/23/de-barranquilla-para-el-mundo-asi-recibio-silvia-tcherassi-reconocimiento-caimana-epica/",
+  "fecha": "2026-10-23T07:38:02-05:00",
+  "palabras": "",
+  "lead": "La diseñadora barranquillera ha sido una de las diez mujeres que han recibido el reconocimiento en los premios La Caimana Épica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video muestra a dos sujetos abandonando el carro bomba que explotó en peaje de San Pedro, Casanare",
+  "enlace": "https://caracol.com.co/2026/10/23/video-muestra-a-dos-sujetos-abandonando-el-carro-bomba-que-exploto-en-peaje-de-san-pedro-casanare/",
+  "fecha": "2026-10-23T07:36:45-05:00",
+  "palabras": "",
+  "lead": "Como parte de las acciones para esclarecer el atentado, se anunció una recompensa de hasta 50 millones de pesos por información que permita identificar y capturar a los responsables.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EE. UU. le quita la visa a Wadith Manzur, senador cordobés preso por el escándalo de la UNGRD",
+  "enlace": "https://caracol.com.co/2026/10/23/ee-uu-le-quita-la-visa-a-wadith-manzur-senador-cordobes-preso-por-el-escandalo-de-la-ungrd/",
+  "fecha": "2026-10-23T07:34:24-05:00",
+  "palabras": "",
+  "lead": "Su reclusión no le permitió posesionarse como senador el pasado 20 de julio, ahora se queda sin visa americana antes de pisar el Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rusia anuncia negociación con Ucrania: será en noviembre y el mediador será EE.UU.",
+  "enlace": "https://caracol.com.co/2026/10/23/rusia-anuncia-negociacion-con-ucrania-sera-en-noviembre-y-el-mediador-sera-eeuu/",
+  "fecha": "2026-10-23T07:27:33-05:00",
+  "palabras": "",
+  "lead": "Las posibles negociaciones se realizarían a principios de noviembre en Abu Dabi, en los Emiratos Árabes.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Proantioquia y Puerto Antioquia celebraron los compromisos del Gobierno Nacional con Urabá",
+  "enlace": "https://caracol.com.co/2026/10/23/proantioquia-y-puerto-antioquia-celebraron-los-compromisos-del-gobierno-nacional-con-uraba/",
+  "fecha": "2026-10-23T07:26:14-05:00",
+  "palabras": "",
+  "lead": "Una delegación del gobierno nacional, encabezada por el vicepresidente José Manuel Restrepo, visitó la región y anunció los compromisos para que Urabá sea un motor económico y social del país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Enviado a la cárcel  un hombre por utilizar documentos de identidad falsos para obtener un crédito",
+  "enlace": "https://caracol.com.co/2026/10/23/enviado-a-la-carcel-a-un-hombre-por-utilizar-documentos-de-identidad-falsos-para-obtener-un-credito/",
+  "fecha": "2026-10-23T07:12:39-05:00",
+  "palabras": "",
+  "lead": "El hecho se presentó en Chibolo, Magdalena. El hombre habría aportado documentos relacionados con ingresos y pagos de nómina para respaldar la solicitud de un crédito de libranza, por valor de 80 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen complejos de minería ilegal que financiarían al Clan del Golfo en el nordeste de Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/23/destruyen-complejos-de-mineria-ilegal-que-financiarian-al-clan-del-golfo-en-el-nordeste-de-antioquia/",
+  "fecha": "2026-10-23T07:10:18-05:00",
+  "palabras": "",
+  "lead": "El Ejército Nacional inhabilitó dos retroexcavadoras, tres motores y una planta eléctrica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué viene para el sistema tributario colombiano y cómo impactará a la economía? Experto responde",
+  "enlace": "https://caracol.com.co/2026/10/23/que-viene-para-el-sistema-tributario-colombiano-y-como-impactara-a-la-economia-experto-responde/",
+  "fecha": "2026-10-23T07:09:04-05:00",
+  "palabras": "",
+  "lead": "Rodrigo Castillo, experto en tributación nacional, explicó el Índice de Competividad Fiscal en el que se evidenció que Colombia tiene el segundo sistema tributario menos competitivo de la OCDE.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Niño de 9 años murió atropellado por un camión en Medellín",
+  "enlace": "https://caracol.com.co/2026/10/23/nino-de-9-anos-murio-atropellado-por-un-camion-en-medellin/",
+  "fecha": "2026-10-23T07:00:46-05:00",
+  "palabras": "",
+  "lead": "El furgón fue inmovilizado y trasladado a los patios de la Secretaría de Movilidad mientras se adelantan las investigaciones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Carro bomba peaje Villanueva: así actuaron los responsables",
+  "enlace": "https://www.lafm.com.co/orden-publico/carro-bomba-peaje-villanueva-casanare-alcalde-revela-como-actuaron-los-responsables-414902",
+  "fecha": "2026-10-23T07:41:00-05:00",
+  "palabras": "Orden Público,Actos terroristas,atentado,ataque explosivo,Terrorismo,Víctimas,Casanare",
+  "lead": "Héctor Vizcaíno, alcalde de Villanueva, reveló cómo dos personas abandonaron un vehículo en el peaje de San Pedro y huyeron en moto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nutresa reúne a El Corral y Presto en el mercado colombiano",
+  "enlace": "https://www.lafm.com.co/economia/nutresa-el-corral-presto-mercado-hamburguesas-colombia-414901",
+  "fecha": "2026-10-23T07:21:00-05:00",
+  "palabras": "Economía,Grupo Nutresa,Superintendencia de Sociedades,Superintendencia de Industria y Comercio,Liquidación,proceso de reorganización,contratos,ventas,rentabilidad,situación financiera,consumidores",
+  "lead": "La compra de Presto amplía la operación de Nutresa en el negocio de hamburguesas. Ambas cadenas reportaron ingresos conjuntos por $899.833 millones en 2025...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Sometimiento recibe aval del Consejo de Política Criminal: vía libre al fin de la ‘paz total’",
+  "enlace": "https://www.lafm.com.co/politica/ley-de-sometimiento-aval-consejo-politica-criminal-via-libre-fin-paz-total-414900",
+  "fecha": "2026-10-23T07:15:00-05:00",
+  "palabras": "Política,estructuras criminales,organizaciones criminales,Grupos Armados Organizados,Menores delincuentes,Embargo de cuentas,extinción de dominio,Ministerio de Justicia",
+  "lead": "La iniciativa está avanzando en el Congreso, ya fue aprobada en primer debate y terminaría su trámite antes del próximo 04 de noviembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Por qué está cada vez más tensa la frontera entre Corea del Norte y Corea del Sur?",
+  "enlace": "https://www.lafm.com.co/internacional/tension-frontera-corea-norte-corea-sur-amenazas-414896",
+  "fecha": "2026-10-23T06:52:00-05:00",
+  "palabras": "Internacional,Corea del Norte,Corea del Sur,Asia,Control en fronteras",
+  "lead": "Durante la semana circularon versiones sobre la supuesta muerte del dictador norcoreano.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nacional: golazo de Edwin Cardona ¿podría pelear Premio Puskás?",
+  "enlace": "https://www.lafm.com.co/deportes/nacional-golazo-edwin-cardona-premio-puskas-liga-betplay-414895",
+  "fecha": "2026-10-23T06:48:00-05:00",
+  "palabras": "Deportes,Atlético Nacional,Edwin Cardona,James Rodríguez,Mejores goles,Copa BetPlay,deportistas colombianos,Radamel Falcao,Juan Fernando Quintero,FIFA",
+  "lead": "El mediocampista de Atlético Nacional deslumbró en el partido contra Deportivo Pasto por la fecha 14 de la Liga Betplay en el Atanasio Girardot de Medellín...",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
