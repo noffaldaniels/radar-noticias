@@ -405,6 +405,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Defensoría del Pueblo advirtió que entre el 1 de enero y el 30 de septiembre fueron asesinados 27 lideresas y 99 líderes sociales; Cauca, Antioquia y Valle del Cauca son los departamentos con más casos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:20",
+   "quien": "Héctor Vizcaíno, Alcalde de Villanueva",
+   "que": "Reportó un grave atentado con carro bomba en el peaje de San Pedro, en la vía de Villanueva a Monterrey, sin dejar víctimas fatales pero con daños materiales.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:20",
+   "quien": "Daniel Jerez, Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que el Consejo Nacional de Política Criminal aprobó el aval a la ley de sometimiento, que busca entregar herramientas al Estado para desarticular estructuras criminales y desmontar el aparato del pacto histórico, con una votación de 14 a 1.",
+   "resaltar": false
   }
  ],
  "avisos": [
