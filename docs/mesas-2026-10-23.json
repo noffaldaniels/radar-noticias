@@ -685,6 +685,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Mencionó que el Gobierno nacional anunció bombardeos contra el ELN, afectando estructuras tanto en este grupo como en el Clan del Golfo en el departamento del Cauca.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:30",
+   "quien": "Víctor (Periodista de Mañanas Blu)",
+   "que": "Se conocen los nombres de la inminente nueva junta directiva de Isa, que hoy forma parte del grupo de Ecopetrol. La próxima semana, el 28 de octubre, se realizará una asamblea extraordinaria para producir cambios estatutarios y elegir a los nueve integrantes de la junta directiva.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:30",
+   "quien": "Silvia (Periodista de Mañanas Blu)",
+   "que": "El precio del petróleo de referencia Brent subió a 115,20 dólares. Los analistas señalan que va a seguir subiendo debido a que en Estados Unidos se está considerando reanudar los ataques militares contra Irán y a que se han intensificado los ataques de los hutíes sobre Arabia Saudí.",
+   "resaltar": false
   }
  ],
  "avisos": [
