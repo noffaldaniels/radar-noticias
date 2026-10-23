@@ -5375,7 +5375,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 22 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5386,7 +5386,7 @@
   "palabras": "Renault, Carros híbridos",
   "lead": "Colombia es el primer país de América Latina en recibir la Renault Filante, el nuevo buque insignia de la marca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5397,7 +5397,7 @@
   "palabras": "Barranquilla, Conmebol, Copa Sudamericana",
   "lead": "Con esta declaratoria, el Gobierno busca coordinar e integrar las acciones de promoción deportiva y posicionamiento del país en torno a la final.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5408,7 +5408,7 @@
   "palabras": "Halloween, UAESP",
   "lead": "La UAESP anunció que no autoriza la realización de ‘La noche de las ánimas’, un evento que había sido promocionado para el próximo 31 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5419,7 +5419,7 @@
   "palabras": "Abelardo De La Espriella, Rodrigo Lara, Ministerio del Interior",
   "lead": "El ministro presentó su carta de renuncia por petición del presidente De La Espriella y luego envió un mensaje al mandatario, el cual le respondió en una carta.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5430,7 +5430,7 @@
   "palabras": "Juan Fernando Cristo, Rodrigo Lara, Ministerio del Interior, Ministerio de Interior, Entrevista, Rodrigo Lara, ministerio del interior, ministro del interior, salida de Rodrigo Lara",
   "lead": "Manifestó que Lara era \"demasiado demócrata para el talante e ideología que está demostrando el Gobierno actual\".",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5441,7 +5441,7 @@
   "palabras": "",
   "lead": "El congresista del Pacto Histórico y su reacción frente a la decisión del presidente Abelardo de la Espriella que anuncia la salida del ministro del Interior, Rodrigo Lara",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5452,7 +5452,7 @@
   "palabras": "",
   "lead": "La mujer fue citada en la Vereda Brisas de Upín, en el municipio de Restrepo, Meta. Hombres que se identificaron como el ‘Clan del Golfo’ le solicitaron dinero para dejarla ir.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5463,7 +5463,7 @@
   "palabras": "",
   "lead": "Alias ‘Flor’ fue la pareja sentimental de ‘Macho Viejo’, mientras que ‘Flor’ y ‘Lulo’ eran menores de edad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5474,7 +5474,7 @@
   "palabras": "",
   "lead": "En Hora 20, los panelistas analizan los cambios en el gabinete ministerial de Abelardo de la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5485,7 +5485,7 @@
   "palabras": "",
   "lead": "Se estima que, si las temperaturas no se hubiesen elevado por cuenta de la quema de combustibles fósiles, habría unas 32.600 muertes menos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5496,7 +5496,7 @@
   "palabras": "",
   "lead": "19 militares iban en el helicóptero que se accidentó en Inzá en el departamento del Cauca. Todos sobrevivieron.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5507,7 +5507,7 @@
   "palabras": "",
   "lead": "El distrito denunció que 120 niñas, niños y adolescentes de la comunidad Emberá no han podido recibir atención en salud y educación por el bloqueo de líderes indígenas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5518,7 +5518,7 @@
   "palabras": "",
   "lead": "El fallo está relacionado con un convenio de $9.600 millones para las obras de urbanismo de los escenarios deportivos. La Contraloría identificó deterioro de la infraestructura, sobrecostos y pagos por planos que debían estar incluidos en las obligaciones de los contratistas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5529,7 +5529,7 @@
   "palabras": "",
   "lead": "El último sondeo previo a la segunda vuelta electoral da a cada candidato el 50% de intención de voto.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5540,7 +5540,7 @@
   "palabras": "Política,Federico Gutiérrez,Washington,Afinia,Proyectos sostenibles,premios",
   "lead": "Federico Gutiérrez recibe en Washington reconocimiento internacional por las estrategias de seguridad de Medellín",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5551,6 +5551,259 @@
   "palabras": "Economía,Cámara de Representantes,decreto,Presidencia de la República",
   "lead": "A través del decreto 1599 de 2026 el gobierno aprobó el Presupuesto General de la Nación para 2027, por $634,9 billones,",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche: resultado del sorteo hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-sorteo-hoy-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T21:41:32-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El sorteo de Sinuano Noche se realiza todos los días. Consulte los resultados de este 22 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche: resultado del sorteo hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-sorteo-hoy-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T21:41:48-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este jueves 22 de octubre de 2026 y conozca las modalidades de apuesta disponibles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Súper Astro Luna, resultado del sorteo hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-luna-resultado-del-sorteo-hoy-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T21:41:57-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este 28 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Bogotá: resultados del sorteo hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-bogota-resultados-del-sorteo-hoy-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T21:42:14-05:00",
+  "palabras": "Lotería de Bogotá, Resultado de loterías de hoy",
+  "lead": "Consulte todos los resultados de la Lotería de Bogotá del 22 de octubre de 2026 en su sorteo 2869.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Quindío: resultados del sorteo hoy jueves 22 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-quindio-resultados-del-sorteo-hoy-jueves-22-de-octubre-de-2026-so35",
+  "fecha": "2026-10-22T21:42:29-05:00",
+  "palabras": "Lotería del Quindío, Resultado de loterías de hoy",
+  "lead": "Consulte los resultados de la Lotería del Quindío, sorteo 3021 del jueves 22 de octubre de 2026. Regresa luego de varios meses.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Denuncian a Levy Rincón ante la Fiscalía y piden sentar precedente contra la violencia digital",
+  "enlace": "https://www.bluradio.com/judicial/denuncian-a-levy-rincon-ante-la-fiscalia-y-piden-sentar-precedente-contra-la-violencia-digital-pr30",
+  "fecha": "2026-10-22T21:33:20-05:00",
+  "palabras": "Jota Pe Hernández",
+  "lead": "El senador Jota Pe Hernández aseguró que la denuncia busca que la Fiscalía investigue al creador de contenido por presunta injuria, calumnia y hostigamiento contra la primera dama.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cinco señales para identificar una mala postura: Método espalda sana",
+  "enlace": "https://www.bluradio.com/salud/cinco-senales-para-identificar-que-no-tiene-una-buena-postura-corporal-rs15",
+  "fecha": "2026-10-22T18:45:00-05:00",
+  "palabras": "Método espalda sana, libro espalda",
+  "lead": "Vale enfatizar que las asimetrías corporales no siempre indican una enfermedad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Muslera lidera el 'Maracanazo' de Estudiantes para clasificar a la final de la Copa Libertadores",
+  "enlace": "https://www.bluradio.com/deportes/futbol/muslera-lidera-el-maracanazo-de-estudiantes-para-clasificar-a-la-final-de-la-copa-libertadores-cb20",
+  "fecha": "2026-10-22T21:52:44-05:00",
+  "palabras": "Copa Libertadores",
+  "lead": "Con un hombre menos, Estudiantes obligó a Flamengo hasta los penales y Muslera se encargó de darle la clasificación a la equipo a la gran final.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hamburguesas Presto se salva: Nutresa evitará la desaparición",
+  "enlace": "https://www.bluradio.com/economia/hamburguesas-presto-se-salva-nutresa-evitara-la-desaparicion-rs15",
+  "fecha": "2026-10-22T21:58:56-05:00",
+  "palabras": "Presto, Nutresa, Comida Rápida, Presto, hamburguesas Presto",
+  "lead": "Luego de la ola de solidaridad de diferentes marcas del país con Presto, Nutresa decidió darle el apoyo económico necesario para que no desaparezca del mercado colombiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estudiantes protagoniza otro ‘Maracanazo’: eliminó a Flamengo y es finalista de la Copa Libertadores",
+  "enlace": "https://caracol.com.co/2026/10/23/estudiantes-protagoniza-otro-maracanazo-elimino-a-flamengo-y-es-finalista-de-la-copa-libertadores/",
+  "fecha": "2026-10-22T21:58:23-05:00",
+  "palabras": "",
+  "lead": "A pesar de que Cetré erró, el Pincha se clasificó al imponerse 3-2 en la tanda de penales.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Balón de Oro de todos los tiempos: así puede votar por Messi, CR7, Ronaldo, Beckenbauer y más",
+  "enlace": "https://caracol.com.co/2026/10/23/balon-de-oro-de-todos-los-tiempos-asi-puede-votar-por-messi-cr7-ronaldo-beckenbauer-y-mas/",
+  "fecha": "2026-10-22T21:56:55-05:00",
+  "palabras": "",
+  "lead": "En total son 10 los candidatos para quedarse con el Balón de Oro de todos los tiempos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad de Búsqueda tomó muestras biológicas a familiares de personas desaparecidas en Rondón",
+  "enlace": "https://caracol.com.co/2026/10/23/unidad-de-busqueda-tomo-muestras-biologicas-a-familiares-de-personas-desaparecidas-en-rondon/",
+  "fecha": "2026-10-22T21:57:31-05:00",
+  "palabras": "",
+  "lead": "La jornada busca obtener perfiles genéticos que permitan avanzar en la identificación de personas desaparecidas y facilitar la entrega digna de sus cuerpos a sus familias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presto tiene nuevo dueño: el empresario Jaime Gilinski compró la cadena de restaurantes",
+  "enlace": "https://caracol.com.co/2026/10/23/presto-tiene-nuevo-dueno-el-empresario-jaime-gilinski-compro-la-cadena-de-restaurantes/",
+  "fecha": "2026-10-22T21:52:42-05:00",
+  "palabras": "",
+  "lead": "La empresa de hamburguesas pasará al portafolio de Nutresa, que tiene marcas como El Corral, El Corral Gourmet, Papa John’s, Beer Station, Leños & Carbón y Mimo’s. Con esto, se salvan más de 700 empleos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detienen a un hombre por almacenar más de 4.200 aletas de tiburón para venderlas en el exterior",
+  "enlace": "https://caracol.com.co/2026/10/23/detienen-a-un-hombre-por-almacenar-mas-de-4200-aletas-de-tiburon-para-venderlas-en-el-exterior/",
+  "fecha": "2026-10-22T21:43:40-05:00",
+  "palabras": "",
+  "lead": "Durante un operativo en Nariño, la Fiscalía encontró alrededor de 376 kilos de alteas resguardadas en un establecimiento comercial que pretendían ser vendidas en Ecuador. El acusado negó los hechos y permanece en prisión mientras avanza la investigación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sicarios acaban con la vida de un hombre en Boston",
+  "enlace": "https://caracol.com.co/2026/10/23/sicarios-acaban-con-la-vida-de-un-hombre-en-boston/",
+  "fecha": "2026-10-22T21:42:27-05:00",
+  "palabras": "",
+  "lead": "Dos hombres en motocicleta le dispararon y huyeron del lugar",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cemento País destacó la inversión de Cartagena durante el Congreso Nacional de Camacol 2026",
+  "enlace": "https://caracol.com.co/2026/10/23/cemento-pais-destaco-la-inversion-de-cartagena-durante-el-congreso-nacional-de-camacol-2026/",
+  "fecha": "2026-10-22T21:35:41-05:00",
+  "palabras": "",
+  "lead": "La ciudad proyectó más de $6 billones en inversiones entre 2024 y 2027",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Stefa Holguín llevó la salsa a grandes escenarios y puso a bailar al público",
+  "enlace": "https://caracol.com.co/2026/10/23/stefa-holguin-llevo-la-salsa-a-grandes-escenarios-y-puso-a-bailar-al-publico/",
+  "fecha": "2026-10-22T21:32:06-05:00",
+  "palabras": "",
+  "lead": "La DJ colombiana abrió un concierto en el estadio Atanasio Girardot de Medellín",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gerardo Anderson regresó a Cartagena con jornadas de adoración y un congreso de familias",
+  "enlace": "https://caracol.com.co/2026/10/23/gerardo-anderson-regreso-a-cartagena-con-jornadas-de-adoracion-y-un-congreso-de-familias/",
+  "fecha": "2026-10-22T21:20:29-05:00",
+  "palabras": "",
+  "lead": "El cantautor dominicano participará en tres días de encuentros religiosos en el barrio La Providencia, con actividades de entrada libre y donación voluntaria",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué significa PHP y cuál es su función en el mundo digital?: aplicaciones y utilidad",
+  "enlace": "https://caracol.com.co/2026/10/23/que-significa-php-y-cual-es-su-funcion-en-el-mundo-digital-aplicaciones-y-utilidad/",
+  "fecha": "2026-10-22T21:08:29-05:00",
+  "palabras": "",
+  "lead": "Luego del descubrimiento de las vulnerabilidades de este lenguaje de programación, la mayoría de personas se preguntará qué papel cumple PHP en el entorno de la web.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Premios Billboard de Música Latina 2026: Lista de ganadores",
+  "enlace": "https://www.lafm.com.co/entretenimiento/premios-billboard-de-la-musica-latina-2026-lista-completa-de-ganadores-414879",
+  "fecha": "2026-10-22T21:40:00-05:00",
+  "palabras": "Entretenimiento,Billboard,Cantantes de salsa,cantante de salsa,Artistas,famosos,música",
+  "lead": "Peso Pluma es el artista con más nominaciones y quien se espera gane la mayoría de las categorías.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo Lotería de Bogotá: resultado premio mayor hoy 22 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-loteria-de-bogota-resultado-premio-mayor-hoy-22-de-octubre-de-2026-414819",
+  "fecha": "2026-10-22T21:30:00-05:00",
+  "palabras": "Sociedad,Lotería de Bogotá,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
+  "lead": "Ya hay número ganador del premio mayor este jueves 22 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ejército busca a soldado desaparecido tras ataque en Segovia",
+  "enlace": "https://www.lafm.com.co/orden-publico/avanza-busqueda-de-soldado-desaparecido-tras-ataque-con-drones-en-segovia-antioquia-414882",
+  "fecha": "2026-10-22T21:13:00-05:00",
+  "palabras": "Orden Público,desaparición forzada,Ejército Nacional,Segovia,Antioquia",
+  "lead": "Ejército busca a soldado desaparecido en las últimas horas, tras ataque con drones en Segovia, Nordeste antioqueño",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Santa Fe y Deportivo Cali brillan en Copa Libertadores",
+  "enlace": "https://www.lafm.com.co/deportes/santa-fe-y-deportivo-cali-brillan-en-copa-libertadores-femenina-414881",
+  "fecha": "2026-10-22T20:36:00-05:00",
+  "palabras": "Deportes,Copa Libertadores,Independiente Santa Fe,Deportivo Cali,Fútbol",
+  "lead": "Ambos equipos están en cuartos de final de la competición continental.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
