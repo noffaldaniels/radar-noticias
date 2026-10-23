@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El gobierno presentó los grandes objetivos del Plan Nacional de Desarrollo: buscan un crecimiento del 6% y una reducción de la pobreza del 28 al 20% para el 2030.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se reveló que el príncipe Harry, de más de 80 años, estaría siendo acusado por su propio hijo de poseer pornografía infantil.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Continúa el enfrentamiento verbal entre el presidente de la Aspriella y el gobierno por contratos de prestación de servicios para la instrumentalización de las mujeres.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
