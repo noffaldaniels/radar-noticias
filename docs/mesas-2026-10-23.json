@@ -531,6 +531,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El gobierno Petro cayó en la trampa e impuso coalición inicial, cambiando a un ministro del Interior moderado por uno que ofrecía quitar el partido a liberales como César Gaviria.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:50",
+   "quien": "Presidente de la República",
+   "que": "Anunció un ajuste fiscal de 13.8 billones de pesos menos en el gasto del Estado. Habrá 3 billones menos en funcionamiento, reducción de contratos y compras innecesarias, y 4 billones menos en el servicio de la deuda.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:50",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Vivian Morales fue designada como consejera comisionada de paz, encargada de la unidad de implementación del acuerdo de paz y de revisar los compromisos y la ruta de los recursos públicos.",
+   "resaltar": false
   }
  ],
  "avisos": [
