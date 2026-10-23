@@ -1063,7 +1063,7 @@
   "palabras": "Medellín, Antioquia, Departamento Nacional de Planeación",
   "lead": "El encuentro en la UPB contará con la presencia del vicepresidente José Manuel Restrepo y algunos ministros.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "El detenido, presunto integrante de la estructura ‘Caicedo’, exigía cobros semanales de hasta 100 mil pesos a vendedores y trabajadoras sexuales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "La Fundación Terpel invertirá $23.000 millones en la reconstrucción de la Institución Educativa San Nicolás.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "Así inició la jornada del dólar en Colombia este jueves, 22 de octubre. Conozca el comportamiento del dólar estadounidense, canadiense, australiano, petróleo y bitcoin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "El dispositivo de seguridad incluirá helicópteros en París, vehículos blindados Centauro y unidades especializadas, después de que cerca de 3.000 comercios resultaran afectados por disturbios durante las protestas del pasado fin de semana.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "La diferencia entre ambos candidatos en la primera vuelta fue de apenas 1,87 puntos porcentuales. El candidato del bolsonarismo obtuvo el 47,03% de los votos válidos y el actual presidente de Brasil un 45,16%.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "El evento se realizará del 9 al 13 de noviembre de 2026, en modalidad virtual, con conferencias y paneles sobre vencimiento de términos, contrainterrogatorio, medidas de aseguramiento, enfoque de género y presunción de inocencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "La víctima tenía una relación sentimental con el capturado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "Internacional,terremoto,Tíbet,Nepal,China",
   "lead": "El terremoto ocurrió aproximadamente dos meses después de unas inundaciones devastadoras en la meseta tibetana.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "Sociedad,Airbnb,alojamiento,higiene,medidas sanitarias,desinfección,Quejas de usuarios,Quejas,sanciones,recomendaciones,Turismo",
   "lead": "La decisión es por las quejas de usuarios debido a las tareas que algunos anfitriones solicitan antes de la salida, especialmente cuando deben pagar una ta...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,6 +1173,325 @@
   "palabras": "Economía,Contenido patrocinado,Medellín, Colombia,restaurantes,Turismo",
   "lead": "Contenido patrocinado.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Angelópolis se queda sin bomberos y sin transporte: no hay atención de emergencias",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/angelopolis-se-queda-sin-bomberos-y-sin-transporte-no-hay-atencion-de-emergencias-rg10",
+  "fecha": "2026-10-23T08:38:34-05:00",
+  "palabras": "",
+  "lead": "Aseguran que, durante los 10 meses que van del año, apenas han contado con recursos durante cuatro y medio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aviso de la Corte Suprema de Justicia con estatuto antiterrorista: “Preocupa la lista”",
+  "enlace": "https://www.bluradio.com/nacion/aviso-de-la-corte-suprema-de-justicia-con-estatuto-antiterrorista-preocupa-la-lista-pr30",
+  "fecha": "2026-10-23T08:30:18-05:00",
+  "palabras": "Corte Suprema de Justicia, Abelardo De La Espriella, Justicia",
+  "lead": "El centro de la preocupación de los magistrados radica en la creación de un Registro Nacional de organizaciones y actores terroristas de carácter administrativo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Este es el plan de Nutresa tras rescatar a Presto: no habrá fusión con El Corral",
+  "enlace": "https://www.bluradio.com/economia/este-es-el-plan-de-nutresa-tras-rescatar-a-presto-no-habra-fusion-con-el-corral-so35",
+  "fecha": "2026-10-23T08:55:19-05:00",
+  "palabras": "Presto, Nutresa",
+  "lead": "Felipe Baquero, presidente de Alimentos al Consumidor, asegura que las dos cadenas operarán con identidad propia y que se conservarán los 84 puntos de venta y los 700 empleos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por aumento de riñas y orden público, Suratá fija nuevo horario para bares",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/por-aumento-de-rinas-y-orden-publico-surata-fija-nuevo-horario-para-bares-rg10",
+  "fecha": "2026-10-23T08:51:56-05:00",
+  "palabras": "Bucaramanga, Santander, Riñas, Orden público, Blu Radio",
+  "lead": "El decreto municipal 064 de 2026 también limita la conducción de motocicletas por menores de 16 años sin licencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Joven murió tras salir expulsada de atracción: pasajero grabó el momento exacto del accidente",
+  "enlace": "https://www.bluradio.com/mundo/joven-murio-tras-salir-expulsada-de-atraccion-pasajero-grabo-el-momento-exacto-del-accidente-rs15",
+  "fecha": "2026-10-23T08:56:22-05:00",
+  "palabras": "Viral, Redes sociales, Video, México",
+  "lead": "Las autoridades investigan una posible falla en el sistema de sujeción de la atracción y ordenaron inspecciones a otros juegos mecánicos, mientras avanzan las pesquisas para esclarecer lo ocurrido.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inpec confirma extradición de alias 'Mocho Olmedo' y otros delincuentes requeridos por EE. UU.",
+  "enlace": "https://www.bluradio.com/judicial/inpec-confirma-extradicion-de-alias-mocho-olmedo-y-otros-privados-requeridos-por-ee-uu-rg10",
+  "fecha": "2026-10-23T09:10:48-05:00",
+  "palabras": "Extradición, Disidencias Farc, Inpec, Estados Unidos",
+  "lead": "Alias 'Mocho Olmedo' es identificado como uno de los principales cabecillas del frente 33 de las disidencias de las Farc con accionar armado en la región del Catatumbo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensoría pide proteger a la población civil por ataques con drones",
+  "enlace": "https://caracol.com.co/2026/10/23/defensoria-pide-proteger-a-la-poblacion-civil-por-ataques-con-drones/",
+  "fecha": "2026-10-23T09:14:11-05:00",
+  "palabras": "",
+  "lead": "san Calixto, El Tarra y El carmen registran desplazamiento forzado",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Premios Billboard de la Música Latina 2026: ¿Quiénes fueron los ganadores y qué artistas tocaron?",
+  "enlace": "https://caracol.com.co/2026/10/23/premios-billboard-de-la-musica-latina-2026-quienes-fueron-los-ganadores-y-que-artistas-tocaron/",
+  "fecha": "2026-10-23T09:02:14-05:00",
+  "palabras": "",
+  "lead": "Fuerza Regida fue el gran ganador de la noche con ocho galardones, seguido por Bad Bunny con siete, y Karol G, Peso Pluma y Romeo Santos con cuatro cada uno.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exdirectora del IDRD se pronuncia sobre el nuevo proyecto del Campín a cargo de Sencia.",
+  "enlace": "https://caracol.com.co/2026/10/23/exdirectora-del-idrd-se-pronuncia-sobre-el-nuevo-proyecto-del-campin-a-cargo-de-sencia/",
+  "fecha": "2026-10-23T09:05:56-05:00",
+  "palabras": "",
+  "lead": "Blanca Inés Durán exdirectora del IDRD permitió cerca de 4 conciertos anuales durante su paso directivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exsenador Mario Fernández Alcocer denuncia a Eva Ferrer por injuria, calumnia y fraude procesal",
+  "enlace": "https://caracol.com.co/2026/10/23/mario-fernandez-denuncia-a-eva-ferrer-por-injuria-calumnia-y-fraude-procesal/",
+  "fecha": "2026-10-23T08:57:51-05:00",
+  "palabras": "",
+  "lead": "El diputado de Sucre y exsenador aseguró que las acusaciones realizadas por la exasesora de Verónica Alcocer carecen de sustento probatorio y afectan su honra y buen nombre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades en Quindío rechazaron atentado contra dragoneante del INPEC en Armenia",
+  "enlace": "https://caracol.com.co/2026/10/23/autoridades-en-quindio-rechazan-atentado-contra-dragoneante-del-inpec-en-la-ciudad-de-armenia/",
+  "fecha": "2026-10-23T08:24:34-05:00",
+  "palabras": "",
+  "lead": "El funcionario del Instituto Nacional Penitenciario de Colombia está estable luego de recibir tres impactos por arma de fuego.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Esto es lo que se conoce del homicidio de una mujer de 22 años en Puerto Wilches, Santander",
+  "enlace": "https://caracol.com.co/2026/10/23/esto-es-lo-que-se-conoce-del-homicidio-de-una-mujer-de-22-anos-en-puerto-wilches-santander/",
+  "fecha": "2026-10-23T08:59:36-05:00",
+  "palabras": "",
+  "lead": "La mujer fue hallada tendida en una vía de una zona rural, con tres heridas de arma de fuego en la cabeza.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Subirán o bajarán las tarifas del servicio de aseo en Tunja con la nueva metodología desde 2027?",
+  "enlace": "https://caracol.com.co/2026/10/23/subiran-o-bajaran-las-tarifas-del-servicio-de-aseo-en-tunja-con-la-nueva-metodologia-desde-2027/",
+  "fecha": "2026-10-23T08:52:59-05:00",
+  "palabras": "",
+  "lead": "La Resolución 1040 busca transparentar los cobros por barrido, limpieza de calles, poda de árboles y recolección de residuos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Guajira pide recursos a la Nación para sostener la gratuidad universitaria",
+  "enlace": "https://caracol.com.co/2026/10/23/la-guajira-pide-recursos-a-la-nacion-para-sostener-la-gratuidad-universitaria/",
+  "fecha": "2026-10-23T08:43:22-05:00",
+  "palabras": "",
+  "lead": "Se requieren 100.000 millones de pesos ante la reducción de recursos provenientes de regalías",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tecnoquímicas se suma a Vamos Pa’ Lante con una donación de $400 millones",
+  "enlace": "https://caracol.com.co/2026/10/23/tecnoquimicas-se-suma-a-vamos-pa-lante-con-una-donacion-de-400-millones/",
+  "fecha": "2026-10-23T08:50:38-05:00",
+  "palabras": "",
+  "lead": "El rector de la universidad Icesi, Esteban Piedrahita, institución que gestionó la donación con la empresa, recalcó la labor: “Ninguna universidad de altísima calidad en Colombia hace más inclusión. Más del 60% de nuestros estudiantes son de hogares pobres y vulnerables”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las 10 entidades a las que más les quitaron recursos del Presupuesto de 2026, tras decreto",
+  "enlace": "https://caracol.com.co/2026/10/23/las-10-entidades-a-las-que-mas-les-quitaron-recursos-del-presupuesto-de-2026-tras-decreto/",
+  "fecha": "2026-10-23T08:48:56-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Hacienda aseguró que el recorte se centró en eliminar compras y prestaciones de servicios innecesarios. Entre las entidades más afectadas son la Aeronáutica Civil y la Registraduría Civil.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Revelaron la oferta que habría presentado Santa Fe para comprar a Franco Fagúndez ¿De qué se trata?",
+  "enlace": "https://caracol.com.co/2026/10/23/revelaron-la-oferta-que-habria-presentado-santa-fe-para-comprar-a-franco-fagundez-de-que-se-trata/",
+  "fecha": "2026-10-23T08:44:49-05:00",
+  "palabras": "",
+  "lead": "Santos Laguna tendrá la última palabra sobre la venta del uruguayo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldesa de Frontino, Antioquia será investigada por presuntas irregularidades en contratos del PAE",
+  "enlace": "https://caracol.com.co/2026/10/23/alcaldesa-de-frontino-antioquia-sera-investigada-por-presuntas-irregularidades-en-contratos-del-pae/",
+  "fecha": "2026-10-23T08:43:56-05:00",
+  "palabras": "",
+  "lead": "El Ministerio Público abrió pliego de cargos contra la mandataria local y su exsecretario de Educación por presuntamente vulnerar los principios de planeación de la contratación pública.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Lula está desesperado, Brasil quiere un cambio con Flávio Bolsonaro”: Efraim Filho",
+  "enlace": "https://caracol.com.co/2026/10/23/lula-esta-desesperado-brasil-quiere-un-cambio-con-flavio-bolsonaro-efraim-filho/",
+  "fecha": "2026-10-23T08:42:09-05:00",
+  "palabras": "",
+  "lead": "Efraim Filho, senador de Brasil por Paraíba desde 2023, habló de la segunda vuelta presidencial en la que se enfrentarán Flávio Bolsonaro y Lula da Silva.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alta carga laboral y demoras en atención: Unidiplo alerta por falta de personal en consulados",
+  "enlace": "https://caracol.com.co/2026/10/23/alta-carga-laboral-y-demoras-en-atencion-unidiplo-alerta-por-falta-de-personal-en-consulados/",
+  "fecha": "2026-10-23T08:40:56-05:00",
+  "palabras": "",
+  "lead": "La Unión de Funcionarios de Carrera Diplomática y Consular asegura que hay alta exigencia al personal, pese a que están sacando un número importante de funcionarios por la llegada del nuevo gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atentado con carro bomba en Casanare dejó cerca de 100 aves muertas",
+  "enlace": "https://caracol.com.co/2026/10/23/atentado-con-carro-bomba-en-casanare-dejo-cerca-de-100-aves-muertas/",
+  "fecha": "2026-10-23T08:29:40-05:00",
+  "palabras": "",
+  "lead": "Soldados del EJC hicieron el levantamiento de los animales.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Germán Calderón España busca llegar al Consejo de Estado",
+  "enlace": "https://www.lafm.com.co/actualidad/director-agencia-defensa-juridica-german-calderon-espana-busca-consejo-de-estado-414922",
+  "fecha": "2026-10-23T09:15:00-05:00",
+  "palabras": "Actualidad,Justicia transicional,Magistrados,Funcionarios denunciados,Abogados,Fiscalía General de la Nación,Procuraduría General de la Nación,Conflicto de intereses,Renuncia de funcinarios,Abelardo de la Espriella",
+  "lead": "Darcy Quinn: denuncian a 5 magistrados de la JEP y estalla el pulso por rector de la UPTC; el Consejo decide el 19 de noviembre.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Halloween en Bogotá: destruyen 225 kilos de dulces",
+  "enlace": "https://www.lafm.com.co/sociedad/celebracion-halloween-bogota-destruyen-225-kilos-de-dulces-malas-condiciones-decomisan-1200-lentes-contacto-licor-adulterado-secretaria-salud-414918",
+  "fecha": "2026-10-23T08:43:00-05:00",
+  "palabras": "Sociedad,Disfraces para Halloween,medidas sanitarias,Vigilancia,Salubridad,Registro sanitario,dulces,establecimientos,Intoxicación,Bogotá,Tiendas",
+  "lead": "Los controles también incluyen bebidas alcohólicas, maquillaje artístico y otros productos que pueden representar riesgos para la salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Netanyahu ordena \"bloqueo total\" en Cisjordania tras tiroteo que dejó un soldado israelí muerto",
+  "enlace": "https://www.lafm.com.co/internacional/benjamin-netanyahu-ordena-bloqueo-cierre-total-cisjordania-ocupada-israel-414917",
+  "fecha": "2026-10-23T08:42:00-05:00",
+  "palabras": "Internacional,Cisjordania,israel,Palestina,Reelección de Netanyahu",
+  "lead": "El primer ministro dijo que Israel está preparado para una operación a gran escalada en Cisjordania.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Balón de Oro 2026: Luis Díaz superaría Messi y Bellingham",
+  "enlace": "https://www.lafm.com.co/deportes/luis-diaz-superaria-messi-bellingham-balon-oro-2026-414915",
+  "fecha": "2026-10-23T08:33:00-05:00",
+  "palabras": "Deportes,Balón de Oro,Luis Díaz,Bayern Múnich,Champions League,Jugador lesionado,Selección Colombia,Lionel Messi,Kylian Mbappé,Selección Chile,ranking mundial",
+  "lead": "La gala del Balón de Oro se llevará a cabo este lunes 26 de noviembre en Londres. Se entregarán diversos premios para distinguir a los mejores futbolistas ...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aleta en Nemocón, Cundinamarca, por contaminación del aire: restringirán industrias y vehículos de más de 10 años",
+  "enlace": "https://www.lafm.com.co/actualidad/aleta-en-nemocon-cundinamarca-por-contaminacion-del-aire-restringiran-industrias-y-vehiculos-de-mas-de-10-anos-414914",
+  "fecha": "2026-10-23T08:30:00-05:00",
+  "palabras": "Actualidad,medidas sanitarias,Contaminación,material particulado,Alerta,Sistema de Alertas Tempranas,Pico y placa,vehículos,Paso restringido,Vigilancia",
+  "lead": "La CAR declaró el nivel de prevención por los altos niveles de material particulado en una vereda de la zona.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Meghan Markle habla de investigación contra su padre",
+  "enlace": "https://www.lafm.com.co/internacional/meghan-markle-padre-investigacion-fotografias-menores-414911",
+  "fecha": "2026-10-23T08:20:00-05:00",
+  "palabras": "Internacional,Meghan Markle,Príncipe Harry,Denuncias por abuso,Delitos sexuales,Acusaciones,investigados,Familia real,Derecho a la intimidad,Realeza inglesa",
+  "lead": "Meghan Markle expresó su preocupación por la investigación contra su padre y explicó por qué decidió alejarlo de sus dos hijos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Viviane Morales regresa al Gobierno como consejera comisionada de Paz",
+  "enlace": "https://www.lafm.com.co/politica/viviane-morales-consejera-comisionada-de-paz-gobierno-abelardo-de-la-espriella-414906",
+  "fecha": "2026-10-23T07:58:00-05:00",
+  "palabras": "Política,Posesión del cargo,Morales,Consejería Presidencial,Acuerdo de paz,Proceso de Paz,Nombramientos,Abelardo de la Espriella",
+  "lead": "Mes y medio después de dejar el Ministerio de Educación, la exfiscal general vuelve a la Casa de Nariño",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan a hombre señalado de haber asesinado a su pareja en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/captura-hombre-senalado-asesinar-pareja-embarazada-bogota-barrio-el-tesorito-ciudad-bolivar-414898",
+  "fecha": "2026-10-23T06:57:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Violencia de género,Hallazgo de cuerpos,cadáver encontrado,Asesinato,Víctimas,Capturados,Órdenes de captura,Fiscalía General de la Nación,Investigaciones",
+  "lead": "La víctima fue hallada el 15 de marzo en un sendero peatonal del sector de El Tesorito, en la localidad de Ciudad Bolívar.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
