@@ -174,6 +174,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Departamento de Estado de Estados Unidos revocó la visa a 21 personas por presuntos nexos con corrupción o narcotráfico. Entre los señalados están Ricardo Roa, Wadith Manzur, Karen Manrique, Julio Elías Chagüi, Liliana Bitar, Yahir Acuña y José Ignacio Mesa.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Departamento de Estado de Estados Unidos revocó las visas a Ricardo Roa, al alcalde de Sincelejo Yahir Acuña, y a los congresistas electos Wadith Manzur y Karen Manrique, entre otros, por presuntas actividades de corrupción o narcotráfico.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:03",
+   "quien": "Rodrigo Lara, exministro del Interior",
+   "que": "Presentó su balance tras 76 días de gestión destacando la eliminación de 557 contratos de corbatas y la devolución de 103.000 millones de pesos al Ministerio de Hacienda.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:05",
+   "quien": "Ana María Vesga, ministra de Salud",
+   "que": "Informó que el plan de choque registra un avance general del 51%, un progreso del 48% en la entrega de medicamentos y cerca de 12 millones de unidades de fármacos entregadas.",
+   "resaltar": false
   }
  ],
  "avisos": [
