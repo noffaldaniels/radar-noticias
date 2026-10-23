@@ -720,6 +720,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Propietarios de supermercados y almacenes en Francia están poniendo placas de madera en ventanas y puertas y contratando servicios de seguridad de compañías caninas para defender sus comercios ante posibles jornadas difíciles.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:32",
+   "quien": "Héctor (Periodista de Mañanas Blu)",
+   "que": "Destaca la noticia del día sobre la salvación y permanencia de la marca Presto en Colombia tras ser adquirida.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:36",
+   "quien": "Doctor Felipe Vaquero (Presidente de Alimentos al Consumidor del Grupo Nutresa)",
+   "que": "Informa que la adquisición de Presto por parte de Nutresa busca preservar 700 empleos y mantener una marca icónica colombiana, operando actualmente 84 puntos de venta.",
+   "resaltar": false
   }
  ],
  "avisos": [
