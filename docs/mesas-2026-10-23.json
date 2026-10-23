@@ -62,6 +62,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Reporta una explosión en el peaje San Pedro en Villanueva, Casanare, que dejó cuatro personas lesionadas y daños materiales. Según las primeras hipótesis de la Policía, dos sujetos abandonaron un carro en inmediaciones del peaje y huyeron en motocicleta.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:41",
+   "quien": "Juan Pablo Guanipa, dirigente opositor venezolano",
+   "que": "Exigió el regreso de María Corina Machado, la liberación incondicional de todos los presos políticos civiles y militares, y un cronograma con fecha para elecciones presidenciales en Venezuela.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:47",
+   "quien": "César Ortiz, gobernador de Casanare",
+   "que": "Anunció la atención a las 4 personas heridas tras la detonación de un vehículo con explosivos en el peaje San Pedro de Villanueva y convocó a un consejo extraordinario de seguridad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:48",
+   "quien": "Olga Lucía, periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó el desplazamiento masivo de aproximadamente 80 familias de San Calixto hacia El Tarra por enfrentamientos entre el ELN y disidencias de las FARC, campos minados y drones con explosivos.",
+   "resaltar": false
   }
  ],
  "avisos": [
