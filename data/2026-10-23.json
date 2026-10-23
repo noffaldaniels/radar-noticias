@@ -469,7 +469,7 @@
   "palabras": "Fiscalía General de la Nación, Policía Nacional, Antioquia",
   "lead": "De acuerdo con la información preliminar, hombres armados interceptaron el automotor de transporte intermunicipal en la vía entre Yarumal y Valdivia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "Esta es la primera encuesta de la segunda vuelta que da un empate numérico entre ambos candidatos y supone una recuperación de dos puntos de Lula con respecto al sondeo divulgado la semana pasada por la misma firma.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Bucaramanga, Corporaciones Autónomas Regionales, Santander, Mauricio Aguilar, Blu Radio",
   "lead": "La investigación está relacionada con presuntas irregularidades en la elección de 4 alcaldes del área metropolitana de Bucaramanga para integrar el Consejo Directivo de la CDMB, en febrero de 2023.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Tiroteo, Francia, Protestas en Francia, París",
   "lead": "El ministro del Interior, Laurent Nuñez, que avanzó que iba a trasladarse al lugar de los hechos, indicó que en total se produjeron tres tiroteos en las ciudades de Trappes y La Verrière, situadas al suroeste de la capital francesa.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Santander, Tráfico de drogas, Blu Radio, Noticias de hoy",
   "lead": "Las capturas se realizaron en operativos contra el tráfico de estupefacientes en Málaga, Barbosa, Güepsa y Vélez. La Policía también reportó detenciones en Barbosa y Sabana de Torres.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "El hecho no dejó personas heridas ni fallecidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "Crece preocupación por brotes de violencia en la zona norte del departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "La final entre Boca Juniors y Atlético Mineiro se disputará el 21 de noviembre en el estadio Metropolitano.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Halloweek tendrá una capacidad de hasta 1.200 personas y contará con acompañamiento de organismos de socorro y seguridad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "Las limitaciones reportadas por Kiev interrumpen la conexión cuando las antenas se desplazan a más de 160 km/h, una restricción que afecta especialmente las operaciones con drones interceptores y algunas misiones de bombardeo de medio alcance.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "Dos viviendas fueron afectadas por el deslizamiento y sus habitantes evacuados reciben alojamiento temporal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "A través de una Nota de Estilo, la corporación destacó el aporte de la Fundación al desarrollo empresarial del Magdalena durante sus 35 años de historia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "La jornada se desarrollará entre las 9 de la mañana y las 3 de la tarde de este viernes, 23 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "La Gobernación del Magdalena entregó 36 kits de ayuda humanitaria, aseo y cocina a las familias damnificadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "Orden Público,atentado,explosión,Casanare,Actos terroristas",
   "lead": "La explosión se presentó en la madrugada de este 23 de octubre del 2026 por parte de sujetos desconocidos que antes de efectuar la explosión habrían ordena...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,6 +645,127 @@
   "palabras": "Deportes,Copa Sudamericana,Estadio Metropolitano,Barranquilla,Copa Conmebol Sudamericana,Boca Juniors,Ministerio del Deporte,Eventos deportivos",
   "lead": "El partido se llevará a cabo el sábado 21 de noviembre a las 5:00 p. m. en el Estadio Metropolitano Roberto Meléndez de Barranquilla.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturaron a tres hombres por hurto de un carro en Bogotá: chocaron contra un separador al escapar",
+  "enlace": "https://www.bluradio.com/regiones/bogota/capturaron-a-tres-hombres-por-hurto-de-un-carro-en-bogota-chocaron-contra-un-separador-al-escapar-rg10",
+  "fecha": "2026-10-23T06:54:45-05:00",
+  "palabras": "Robos, Bogotá",
+  "lead": "La captura se dio en la avenida Caracas. Mientras avanza el proceso judicial, el juez ordenó su permanencia en centro carcelario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel hombre señalado de matar a su pareja embarazada y abandonar el cuerpo en Bogotá",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-hombre-senalado-de-matar-a-su-pareja-embarazada-y-abandonar-el-cuerpo-en-bogota-rg10",
+  "fecha": "2026-10-23T07:00:28-05:00",
+  "palabras": "Asesinatos, Fiscalía General de la Nación, Embarazo",
+  "lead": "La investigación indica que el cuerpo de la mujer habría sido trasladado en un carro de mercado y abandonado en vía pública.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevos ataques a vehículos en la vía Risaralda–Chocó: Ejército refuerza la seguridad en esta zona",
+  "enlace": "https://caracol.com.co/2026/10/23/nuevos-ataques-a-vehiculos-en-la-via-risaraldachoco-ejercito-refuerza-la-seguridad-en-esta-zona/",
+  "fecha": "2026-10-23T07:00:28-05:00",
+  "palabras": "",
+  "lead": "Incidentes en el sector de Playa de Oro reavivan la preocupación por la seguridad de los transportadores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inicia proceso sancionatorio contra Sencia por presunto incumplimiento en El Campín",
+  "enlace": "https://caracol.com.co/2026/10/23/inicia-proceso-sancionatorio-contra-sencia-por-presunto-incumplimiento-en-el-campin/",
+  "fecha": "2026-10-23T06:57:11-05:00",
+  "palabras": "",
+  "lead": "La audiencia para presentación de descargos será el próximo 29 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Avería en la subestación 20 de Julio deja sin energía a varios sectores de Barranquilla y Soledad",
+  "enlace": "https://caracol.com.co/2026/10/23/averia-en-la-subestacion-20-de-julio-deja-sin-energia-a-varios-sectores-de-barranquilla-y-soledad/",
+  "fecha": "2026-10-23T06:55:35-05:00",
+  "palabras": "",
+  "lead": "La empresa indicó que espera restablecer el servicio de energía en el menor tiempo posible.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hombres armados robaron bodega de refrescos en Arjona, Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/23/hombres-armados-robaron-bodega-de-refrescos-en-arjona-bolivar/",
+  "fecha": "2026-10-23T06:53:42-05:00",
+  "palabras": "",
+  "lead": "Los sujetos se llevaron dinero en efectivo, celulares y objetos de valor",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Condenan hombre que intimidaba comerciantes en el centro de Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/23/condenan-hombre-que-intimidaba-comerciantes-en-el-centro-de-cucuta/",
+  "fecha": "2026-10-23T06:50:39-05:00",
+  "palabras": "",
+  "lead": "El epicentro de las acciones se desarrollaban en el barrio San Miguel",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta por mala calidad del aire en Nemocón: CAR anuncia restricciones para vehículos e industrias",
+  "enlace": "https://caracol.com.co/2026/10/23/alerta-por-mala-calidad-del-aire-en-nemocon-car-anuncia-restricciones-para-vehiculos-e-industrias/",
+  "fecha": "2026-10-23T06:48:36-05:00",
+  "palabras": "",
+  "lead": "Las medidas incluyen restricciones a ciertas actividades industriales y a la circulación de vehículos diésel y particulares de más de 10 años, de lunes a viernes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Rodrigo Lara: así le comunicaron su salida del Gobierno",
+  "enlace": "https://www.lafm.com.co/politica/ministerio-interior-renuncias-viceministros-directores-ivan-cancino-414897",
+  "fecha": "2026-10-23T07:02:00-05:00",
+  "palabras": "Política,Ministerio del interior,Rodrigo Lara Bonilla,Renuncia de funcinarios,Viceministro del Interior,Abelardo de la Espriella",
+  "lead": "Hay interrogantes sobre el futuro político del Lara, entre ellos la posibilidad de que sea el candidato del presidente a la Alcaldía de Bogotá",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "IDRD inicia proceso sancionatorio contra Sencia por presunto incumplimiento en El Campín",
+  "enlace": "https://www.lafm.com.co/deportes/distrito-inicia-proceso-sancionatorio-sencia-incumplimiento-campin-414899",
+  "fecha": "2026-10-23T06:58:00-05:00",
+  "palabras": "Deportes,IDRD,Estadio El Campín,procedimientos,intervención,Indagación preliminar,Irregularidades en contratos,sanciones,Contratación",
+  "lead": "El Distrito toma la decisión en base a las medidas anuncias por el alcalde Carlos Galán el pasado 14 de octubre.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno recorta $13,8 billones del presupuesto de 2026",
+  "enlace": "https://www.lafm.com.co/economia/gobierno-recorta-13-8-billones-del-presupuesto-de-2026-414893",
+  "fecha": "2026-10-23T06:34:00-05:00",
+  "palabras": "Economía,Departamento Nacional de Planeación,Ministerio de Hacienda y Crédito Público,Ministerio de Minas y Energía,Medidas económicas,medidas fiscales,Plan de austeridad,Recaudo fiscal,Regla fiscal,recursos públicos,situación financiera",
+  "lead": "El Gobierno oficializó una reducción de $13,8 billones en el Presupuesto General de la Nación de 2026, al considerar que los recaudos previstos son insufic...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
