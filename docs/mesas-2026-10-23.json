@@ -622,6 +622,27 @@
    "quien": "Héctor Vizcaíno, Alcalde de Villanueva (Casanare)",
    "que": "Reveló que dos personas habrían participado en el ataque contra el peaje San Pedro que dejó cuatro personas heridas; una persona abandonó el vehículo y otra la esperaba en una motocicleta.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:07",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Anuncio de la Media Maratón de Cundinamarca el 21 y 22 de noviembre, con recorridos de 3k, 5k, 10k y 21k, y cierres de inscripción el 27 de octubre en mediamaraton.cundinamarca.gov.co.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Pronóstico del Ideam para la región Andina prevé lluvias moderadas y fuertes en la tarde y noche en el norte de Santander, Antioquia, Santander, Caldas, Risaralda, Quindío, norte del Tolima, Boyacá y Cundinamarca.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:07",
+   "quien": "Diana Merchancano Pulido, Vicepresidenta de Sostenibilidad y Directora de la Fundación Aris Mining",
+   "que": "La Fundación Aris Mining apoya la formalización de mineros tradicionales y artesanales en Antioquia y Caldas, impulsando iniciativas productivas de mujeres cafeteras, de miel, productos de belleza y joyería, y busca replicar estos modelos en otras regiones con minería formal.",
+   "resaltar": false
   }
  ],
  "avisos": [
