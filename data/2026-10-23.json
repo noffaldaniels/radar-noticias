@@ -447,7 +447,7 @@
   "palabras": "Noticias de hoy, Antioquia, Accidente de tránsito",
   "lead": "Fallas mecánicas habrían producido que el vehículo retrocediera en una pendiente, lo que causó que colisionara primero con una vivienda y, posteriormente, atropellara al menor de edad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,6 +458,193 @@
   "palabras": "",
   "lead": "La iniciativa ‘La Vía es de Todos’ busca abrir canales de diálogo para atender las reclamaciones de las comunidades y evitar que los cierres viales sigan afectando la movilidad en este importante corredor del Caribe.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Doble homicidio en el Norte de Antioquia: víctimas fueron bajadas de un bus",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/doble-homicidio-en-el-norte-de-antioquia-victimas-fueron-bajadas-de-un-bus-rg10",
+  "fecha": "2026-10-23T06:43:50-05:00",
+  "palabras": "Fiscalía General de la Nación, Policía Nacional, Antioquia",
+  "lead": "De acuerdo con la información preliminar, hombres armados interceptaron el automotor de transporte intermunicipal en la vía entre Yarumal y Valdivia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lula y Bolsonaro empatan al 50 % de los votos en un sondeo a tres días de las elecciones",
+  "enlace": "https://www.bluradio.com/mundo/lula-y-bolsonaro-empatan-al-50-de-los-votos-en-un-sondeo-a-tres-dias-de-las-elecciones-cb20",
+  "fecha": "2026-10-23T06:11:11-05:00",
+  "palabras": "",
+  "lead": "Esta es la primera encuesta de la segunda vuelta que da un empate numérico entre ambos candidatos y supone una recuperación de dos puntos de Lula con respecto al sondeo divulgado la semana pasada por la misma firma.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Corte Suprema acusa Mauricio Aguilar por presunta corrupción en elección en la CDMB",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/corte-suprema-acusa-mauricio-aguilar-por-presunta-corrupcion-en-eleccion-en-la-cdmb-rg10",
+  "fecha": "2026-10-23T06:42:16-05:00",
+  "palabras": "Bucaramanga, Corporaciones Autónomas Regionales, Santander, Mauricio Aguilar, Blu Radio",
+  "lead": "La investigación está relacionada con presuntas irregularidades en la elección de 4 alcaldes del área metropolitana de Bucaramanga para integrar el Consejo Directivo de la CDMB, en febrero de 2023.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tiroteo a las afueras de París deja un muerto y cuatro heridos: se investiga como un acto terrorista",
+  "enlace": "https://www.bluradio.com/mundo/tiroteo-a-las-afueras-de-paris-deja-un-muerto-y-cuatro-heridos-se-investiga-como-un-acto-terrorista-cb20",
+  "fecha": "2026-10-23T06:24:17-05:00",
+  "palabras": "Tiroteo, Francia, Protestas en Francia, París",
+  "lead": "El ministro del Interior, Laurent Nuñez, que avanzó que iba a trasladarse al lugar de los hechos, indicó que en total se produjeron tres tiroteos en las ciudades de Trappes y La Verrière, situadas al suroeste de la capital francesa.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Duro golpe a las redes de microtráfico en Santander: siete capturados a prisión",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/duro-golpe-a-las-redes-de-microtrafico-en-santander-siete-capturados-a-prision-rg10",
+  "fecha": "2026-10-23T06:46:00-05:00",
+  "palabras": "Santander, Tráfico de drogas, Blu Radio, Noticias de hoy",
+  "lead": "Las capturas se realizaron en operativos contra el tráfico de estupefacientes en Málaga, Barbosa, Güepsa y Vélez. La Policía también reportó detenciones en Barbosa y Sabana de Torres.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Centro comercial en Manizales permanecerá cerrado temporalmente para investigar causas de incendio",
+  "enlace": "https://caracol.com.co/2026/10/23/centro-comercial-en-manizales-permanecera-cerrado-temporalmente-para-investigar-causas-de-incendio/",
+  "fecha": "2026-10-23T06:42:47-05:00",
+  "palabras": "",
+  "lead": "El hecho no dejó personas heridas ni fallecidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Convocan consejos de seguridad por secuestros en la región",
+  "enlace": "https://caracol.com.co/2026/10/23/convocan-consejos-de-seguridad-por-secuestros-en-la-region/",
+  "fecha": "2026-10-23T06:44:48-05:00",
+  "palabras": "",
+  "lead": "Crece preocupación por brotes de violencia en la zona norte del departamento",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Viernes 23 de octubre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/10/23/viernes-23-de-octubre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-10-23T06:41:31-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno declara de interés nacional la final de la Copa Sudamericana 2026 en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/10/23/gobierno-declara-de-interes-nacional-la-final-de-la-copa-sudamericana-2026-en-barranquilla/",
+  "fecha": "2026-10-23T06:40:06-05:00",
+  "palabras": "",
+  "lead": "La final entre Boca Juniors y Atlético Mineiro se disputará el 21 de noviembre en el estadio Metropolitano.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sogamoso tendrá una semana de actividades gratuitas de Halloween en el Parque El Laguito",
+  "enlace": "https://caracol.com.co/2026/10/23/sogamoso-tendra-una-semana-de-actividades-gratuitas-de-halloween-en-el-parque-el-laguito/",
+  "fecha": "2026-10-23T06:37:53-05:00",
+  "palabras": "",
+  "lead": "Halloweek tendrá una capacidad de hasta 1.200 personas y contará con acompañamiento de organismos de socorro y seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ucrania denuncia que sigue habiendo restricciones en el sistema satelital Starshield",
+  "enlace": "https://caracol.com.co/2026/10/23/ucrania-denuncia-que-sigue-habiendo-restricciones-en-el-sistema-satelital-starshield/",
+  "fecha": "2026-10-23T06:26:18-05:00",
+  "palabras": "",
+  "lead": "Las limitaciones reportadas por Kiev interrumpen la conexión cuando las antenas se desplazan a más de 160 km/h, una restricción que afecta especialmente las operaciones con drones interceptores y algunas misiones de bombardeo de medio alcance.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deslizamiento en Muzo afecta colegio y deja sin clases a 120 estudiantes por las fuertes lluvias",
+  "enlace": "https://caracol.com.co/2026/10/23/deslizamiento-en-muzo-afecta-colegio-y-deja-sin-clases-a-120-estudiantes-por-las-fuertes-lluvias/",
+  "fecha": "2026-10-23T06:24:30-05:00",
+  "palabras": "",
+  "lead": "Dos viviendas fueron afectadas por el deslizamiento y sus habitantes evacuados reciben alojamiento temporal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asamblea Departamental otorga reconocimiento a Fundemicromag por sus 35 años de trayectoria",
+  "enlace": "https://caracol.com.co/2026/10/23/asamblea-departamental-otorga-reconocimiento-a-fundemicromag-por-sus-35-anos-de-trayectoria/",
+  "fecha": "2026-10-23T06:23:20-05:00",
+  "palabras": "",
+  "lead": "A través de una Nota de Estilo, la corporación destacó el aporte de la Fundación al desarrollo empresarial del Magdalena durante sus 35 años de historia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comfenalco Antioquia tendrá una feria de empleo con 800 vacantes para fin de año",
+  "enlace": "https://caracol.com.co/2026/10/23/comfenalco-antioquia-tendra-una-feria-de-empleo-con-800-vacantes-para-fin-de-ano/",
+  "fecha": "2026-10-23T06:21:23-05:00",
+  "palabras": "",
+  "lead": "La jornada se desarrollará entre las 9 de la mañana y las 3 de la tarde de este viernes, 23 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salaminita, Magdalena recibe atención humanitaria tras fuerte vendaval",
+  "enlace": "https://caracol.com.co/2026/10/23/salaminita-magdalena-recibe-atencion-humanitaria-tras-fuerte-vendaval/",
+  "fecha": "2026-10-23T06:14:32-05:00",
+  "palabras": "",
+  "lead": "La Gobernación del Magdalena entregó 36 kits de ayuda humanitaria, aseo y cocina a las familias damnificadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Consejo de Seguridad en Casanare tras atentado terrorista",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobernador-casanare-consejo-de-seguridad-por-acto-terrorista-via-marginal-del-llano-cuatro-heridos-414887",
+  "fecha": "2026-10-23T06:38:00-05:00",
+  "palabras": "Orden Público,atentado,explosión,Casanare,Actos terroristas",
+  "lead": "La explosión se presentó en la madrugada de este 23 de octubre del 2026 por parte de sujetos desconocidos que antes de efectuar la explosión habrían ordena...",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno De la Espriella declara de interés nacional la final de Copa Sudamericana en Barranquilla",
+  "enlace": "https://www.lafm.com.co/deportes/gobierno-declara-interes-nacional-final-copa-sudamericana-bquilla-414891",
+  "fecha": "2026-10-23T06:28:00-05:00",
+  "palabras": "Deportes,Copa Sudamericana,Estadio Metropolitano,Barranquilla,Copa Conmebol Sudamericana,Boca Juniors,Ministerio del Deporte,Eventos deportivos",
+  "lead": "El partido se llevará a cabo el sábado 21 de noviembre a las 5:00 p. m. en el Estadio Metropolitano Roberto Meléndez de Barranquilla.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
