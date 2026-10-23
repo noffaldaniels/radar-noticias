@@ -573,6 +573,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Ocurrió un fuerte terremoto de magnitud 7 en la zona limítrofe entre China e India, dejando al menos 16 personas muertas y centenares de heridos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:51",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La doctora Aurora Vergara Morales dejó el Ministerio de Educación. Recuerde que el tema familiar fue un problema de salud de una hija, y dijo que primero era mamá y que ministra.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:51",
+   "quien": "Juan Lozano, Director de Noticias La FM",
+   "que": "La doctora Vivian Morales asume esa nueva responsabilidad como nueva consejera comisionada de paz, según comunica la Presidencia de la República.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:54",
+   "quien": "Jacob Tovar, Director de Comfandi",
+   "que": "Confandi, en el Valle del Cauca y Cali, cumple un papel muy importante en momentos difíciles para la región con subsidios nuevos y entrega de recursos.",
+   "resaltar": false
   }
  ],
  "avisos": [
