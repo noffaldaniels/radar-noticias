@@ -5232,7 +5232,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 23 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5243,7 +5243,7 @@
   "palabras": "ICE, Nueva York, Inmigración",
   "lead": "\"Si te encuentras con ICE, estos son tus derechos\", arranca a decir Mamdani, quien explicó que la agencia no puede entrar en espacios privados sin una orden judicial.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5254,7 +5254,7 @@
   "palabras": "",
   "lead": "El aberrante hecho ocurrió en el municipio de Frontino, Occidente de Antioquia. La familia de la menor pide que se investigue el feminicidio, ya que podrían estar viviendo con el responsable.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5265,7 +5265,7 @@
   "palabras": "",
   "lead": "Una nueva edición de los Mercados Campesinos Bogotanos invita a la ciudadanía a encontrarse este sábado en el Parque Alcalá, donde podrá encontrar una amplia apuesta gastronómica tradicional del departamento del Guainía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5276,7 +5276,7 @@
   "palabras": "",
   "lead": "Vea la transmisión de la Lotería de Medellín y conozca todos los premios que trae este 23 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5287,7 +5287,7 @@
   "palabras": "",
   "lead": "La Policía investiga el hallazgo de tres perros calcinados en la vía Alterna de Santa Marta. También hay denuncias por la acumulación de basuras y escombros en este corredor vial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5298,7 +5298,7 @@
   "palabras": "Sociedad,Departamento de Santander,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
   "lead": "Ya hay número ganador del premio mayor este viernes 23 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5309,7 +5309,7 @@
   "palabras": "Orden Público,Verónica Alcocer,Fiscalía General de la Nación,Corrupción,Venezuela,Dinero",
   "lead": "Eva Ferrer tendrá una nueva diligencia judicial en noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5320,7 +5320,7 @@
   "palabras": "Actualidad,Camacol,Sector construcción,José Manuel Restrepo,Ministerio de Vivienda,Plan Nacional de Desarrollo,Terremoto en Colombia",
   "lead": "Camacol respaldó el ajuste fiscal del Ejecutivo y reveló que existen más de 1.400 proyectos listos para movilizar 98 billones de pesos en el país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5331,6 +5331,138 @@
   "palabras": "Internacional,Realeza inglesa,Inglaterra,Palacio de Buckingham,Museos,Historia",
   "lead": "La casa real mostrará piezas desconocidas para la mayoría de personas.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche hoy viernes 23 de octubre: este es el número ganador del último sorteo",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-sinuano-noche-hoy-viernes-23-de-octubre-de-2026-so35",
+  "fecha": "2026-10-23T21:49:24-05:00",
+  "palabras": "Sinuano noche, resultado sinuano noche, sinuano noche hoy",
+  "lead": "El sorteo de Sinuano Noche se realiza todos los días. Consulte los resultados de este 23 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Caribeña Noche hoy viernes 23 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-caribena-noche-hoy-viernes-23-de-octubre-de-2026-so35",
+  "fecha": "2026-10-23T21:49:54-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este viernes 23 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultados de la Lotería de Risaralda: premios del sorteo hoy viernes 23 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultados-de-la-loteria-de-risaralda-premios-del-sorteo-hoy-viernes-23-de-octubre-de-2026-so35",
+  "fecha": "2026-10-23T21:50:33-05:00",
+  "palabras": "Lotería de Risaralda, Resultado de loterías de hoy",
+  "lead": "Consulte los resultados completos y el premio mayor del sorteo 2972 de la Lotería de Risaralda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Estas investigaciones podrían arrojar frutos para la verdad en Colombia\": abogado de Eva Ferrer",
+  "enlace": "https://www.bluradio.com/nacion/estas-investigaciones-podrian-arrojar-frutos-para-la-verdad-en-colombia-abogado-de-eva-ferrer-pr30",
+  "fecha": "2026-10-23T21:15:45-05:00",
+  "palabras": "Noticias de hoy, Entrevista, Eva Ferrer, Verónica Alcocer",
+  "lead": "Ante la información que atribuye a fuentes de Fiscalía la afirmación de que Ferrer se habría limitado a narrar los hechos, la defensa envió una comunicación para solicitar explicaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Vincent Kompany, técnico de Luis Díaz en Bayern, se desplomó en un entrenamiento",
+  "enlace": "https://www.bluradio.com/deportes/futbol/vincent-kompany-tecnico-de-luis-diaz-en-bayern-se-desplomo-en-un-entrenamiento-cb20",
+  "fecha": "2026-10-23T21:22:55-05:00",
+  "palabras": "Bayern Múnich, Luis Díaz, Bayern Múnich, Vincent Kompany, técnico de Luis Díaz, técnico del Bayern",
+  "lead": "El entrenador tuvo que ser trasladado en ambulancia a un hospital de la capital alemana, en un incidente \"dramático\" que dejó conmocionados a los presentes.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del sorteo hoy viernes 23 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-sorteo-hoy-viernes-23-de-octubre-de-2026-so35",
+  "fecha": "2026-10-23T21:54:42-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este 23 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DIAN ofrece descuentos de hasta 85% en sanciones: quiénes pueden ponerse al día con sus deudas",
+  "enlace": "https://caracol.com.co/2026/10/24/dian-ofrece-descuentos-de-hasta-85-en-sanciones-quienes-pueden-ponerse-al-dia-con-sus-deudas/",
+  "fecha": "2026-10-23T21:31:50-05:00",
+  "palabras": "",
+  "lead": "Conozca aquí qué morosos podrán ponerse al día y cuáles son los descuentos:",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Del Amazonas a Hollywood: folks pone el talento colombiano al cine de terror internacional",
+  "enlace": "https://caracol.com.co/2026/10/24/del-amazonas-a-hollywood-folks-pone-el-talento-colombiano-al-cine-de-terror-internacional/",
+  "fecha": "2026-10-23T21:15:55-05:00",
+  "palabras": "",
+  "lead": "La compañía colombo-canadiense de efectos visuales participa en Beware Boiúna / Terror en el Amazonas, una producción internacional rodada en Colombia que combina criaturas monstruosas, acción y tecnología digital. La película, filmada en el Amazonas y Cundinamarca, llegó a las salas de cine estadounidenses en octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Chicho Serna reveló su pelea con referentes de Boca: “Que nadie se gane un peso si no se lo merece”",
+  "enlace": "https://caracol.com.co/2026/10/24/chicho-serna-revelo-su-pelea-con-referentes-de-boca-que-nadie-se-gane-un-peso-si-no-se-lo-merece/",
+  "fecha": "2026-10-23T21:13:56-05:00",
+  "palabras": "",
+  "lead": "El exdirigente colombiano recordó la discusión que tuvo con varios jugadores por el pago de bonificaciones durante la Copa Libertadores de 2022.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones en Brasil: Lula y Bolsonaro bajan tono en debate",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-presidenciales-en-brasil-lula-bolsonaro-cambian-el-tono-antes-del-balotaje-415013",
+  "fecha": "2026-10-23T21:55:00-05:00",
+  "palabras": "Internacional,Brasil,Elecciones presidenciales,Jair Bolsonaro,Lula da Silva,Partidos políticos,Javier Milei",
+  "lead": "Luiz Inácio Lula da Silva y Flávio Bolsonaro se alistan para el balotaje de este domingo 25 de octubre.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Crédito digital vs. gota a gota: la alternativa legal que está cambiando la inclusión financiera",
+  "enlace": "https://www.lafm.com.co/economia/credito-digital-vs-gota-a-gota-la-alternativa-legal-que-esta-cambiando-la-inclusion-financiera-415011",
+  "fecha": "2026-10-23T20:51:00-05:00",
+  "palabras": "Economía,créditos,finanzas,banca digital,Banco de la República",
+  "lead": "Con trámites en línea y desembolsos en máximo 24 horas, el crédito digital se perfila como una salida para los colombianos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los partidos imperdibles del fin de semana: hora y dónde ver en Colombia",
+  "enlace": "https://www.lafm.com.co/deportes/los-partidos-imperdibles-del-fin-de-semana-hora-y-donde-ver-en-colombia-415010",
+  "fecha": "2026-10-23T20:50:00-05:00",
+  "palabras": "Deportes,Fútbol,Colombia,Deporte,Francia,Ligue 1,Argentina,Superliga Argentina,España,Liga Española,Alemania,Bundesliga,Inglaterra,Premier League",
+  "lead": "Las grandes ligas tendrán duelos clásicos, y en Sudamérica el deporte no defraudará.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
