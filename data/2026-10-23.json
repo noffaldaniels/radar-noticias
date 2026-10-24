@@ -4363,7 +4363,7 @@
   "palabras": "Paisita Noche, Resultados del chance, paisita noche hoy, resultado paisita noche",
   "lead": "El Paisita Noche realiza sorteos diarios. Consulte el resultado de este viernes 23 de octubre de 2026 y verifique su tiquete.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4374,7 +4374,7 @@
   "palabras": "Chontico Noche , Resultados del chance",
   "lead": "El sorteo del Chontico Noche se realiza todos los días, con horarios que varían según la jornada. Consulte los resultados de este viernes 23 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4385,7 +4385,7 @@
   "palabras": "Apple, iPhone",
   "lead": "El esperado teléfono plegable de Apple comenzó a llegar a manos de los compradores, pero algunas fotografías publicadas en redes sociales han despertado dudas sobre su resistencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4396,7 +4396,7 @@
   "palabras": "Barcelona, Real Madrid, LaLiga, Apuestas, Partidos de hoy",
   "lead": "Blaugranas y merengues disputan una nueva edición de El Clásico, uno de los partidos más importantes a nivel mundial y que capta la atención de millones.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4407,7 +4407,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este viernes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4418,7 +4418,7 @@
   "palabras": "Carlos Fernando Galán, Cursos gratis",
   "lead": "Carlos Fernando Galán, alcalde de Bogotá, destacó que gracias a esta iniciativa los integrantes de estas familias podrán tener acceso a cursos y desarrollo de actividades escolares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4429,7 +4429,7 @@
   "palabras": "Halloween",
   "lead": "La celebración del 31 de octubre representa una oportunidad para el comercio, mientras los consumidores exploran nuevas opciones de sabor y ajustan sus compras según sus necesidades y presupuesto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4440,7 +4440,7 @@
   "palabras": "Donald Trump, Irán",
   "lead": "Trump ha elevado la presión a La Habana durante su mandato, con sanciones a empresas que Washington vincula con el Gobierno de la isla y un cerco energético para impedir que Cuba importe combustible.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4451,7 +4451,7 @@
   "palabras": "",
   "lead": "“Ya no puedo estar en un escenario, ya no puedo participar en una obra de teatro, ya no puedo hacer cine. Ya no puedo leer”, afirmó.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4462,7 +4462,7 @@
   "palabras": "",
   "lead": "Los hechos se registrarón en el barrio Miraflores de la capital del Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "",
   "lead": "Entre los retos que tendrá está la ejecución de grandes proyectos de infraestructura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "",
   "lead": "las cajas de compensación fijaron el reto de seguir trabajando por el bienestar de las familias colombianas",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "",
   "lead": "El nombre de Mejía aparece en el grupo de 18 oficiales que ascenderían a mayor general o vicealmirante.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "",
   "lead": "Conozca aquí cómo puede inscribirse al curso y cuáles son los requisitos:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "",
   "lead": "En un video publicado en su cuenta oficial de Instagram, se ve al “padre del rock argentino” tocando un acorde en un teclado y diciendo “Ahora sí, Charly por Charly”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "",
   "lead": "El evento se llevará a cabo del 26 al 28 de octubre en el Pabellón de Cristal, en el Gran Malecón del Río.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "",
   "lead": "El proyecto ahora pasará a la plenaria del concejo de Barranquilla para seguir con su trámite.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "",
   "lead": "El alcalde Miguel Samir Barrios Coneo se solidarizó con la familia del joven de 26 años y pidió a las autoridades esclarecer los móviles del crimen",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "",
   "lead": "Un hombre fue capturado en flagrancia durante un allanamiento en la vereda El Alto, municipio de Saladoblanco, Huila.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "",
   "lead": "El semillero UTBot, de la Universidad Tecnológica de Bolívar, fue seleccionado por la organización internacional de EPICS in IEEE, por un proyecto que integra cómics y realidad aumentada para enseñar robótica en una comunidad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "",
   "lead": "Más de 70 emprendimientos participarán este 24 y 25 de octubre en el centro comercial Caribe Plaza, en Cartagena",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "",
   "lead": "La empresa destaca su propuesta de valor y reafirma su compromiso con el desarrollo del sector constructor en Cartagena y la región Caribe",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "",
   "lead": "El conjunto Leopardo buscará seguir con si invicto frente a un Chicó que quiere estar fuera del descenso.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "",
   "lead": "Actividades de prevención de reclutamiento de menores también figuran entre las acciones para hacerle frente a los grupos armados ilegales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "",
   "lead": "La víctima permaneció retenida cerca de 40 horas y fue obligada a realizar transferencias bancarias por aproximadamente 40 millones de pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "",
   "lead": "El colombiano dio el pase que abrió el marcador del encuentro que finalizó 1-1.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "Internacional,Derrumbe,Kenia,Desastres naturales,Emergencia",
   "lead": "Autoridades destacaron que 66 de los 67 trabajadores que estaban en el edificio en el momento del derrumbe salieron.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "Política,Protestas en Colombia,Manifestantes,Vandalismo,Protocolo sobre protesta social,Alteración al orden público,Cámara de Representantes,actos violentos,Centro Democrático,Pacto Histórico,Cambio Radical",
   "lead": "Los proyectos de ley ya fueron radicados y plantean diferencias sobre la intervención de la fuerza pública, las sanciones por actos violentos y las garantí...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "Economía,Abelardo de la Espriella,Rodrigo Lara,Presidencia de la República,Canal del Dique",
   "lead": "El exministro reveló que previo a su salida del Gobierno ya tenía listo el anuncio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "Orden Público,atentado,Barranquilla,ataque explosivo,Policía Nacional",
   "lead": "Ataque con explosivo en Barranquilla dejó a un hombre y una mujer heridos. Las autoridades capturaron a dos sospechosos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "Orden Público,exsecuestrados,Alcaldía de Bogotá,Carlos Fernando Galán,Policía Nacional,Taxis,Discoteca",
   "lead": "Los condenados fueron identificados como Diego Armando Gómez Cardozo, de 33 años, y Juan Pablo Gómez Cardozo, de 21 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "Economía,Gas natural,Ministerio de Minas y Energía,Antioquia",
   "lead": "En medio de la crisis que enfrenta el país por el gas natural, Asoenergía, el gremio de grandes consumidores de energía, expresó su preocupación por la res...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4714,6 +4714,237 @@
   "fecha": "2026-10-23T14:00:00-05:00",
   "palabras": "Orden Público,Fiscalía General de la Nación,Denuncias virtuales,declaración jurada,Indagación preliminar,testigo,Verónica Alcocer",
   "lead": "Su defensa asegura que sí entregará copia a las respectivas autoridades sobre los hechos que ha venido declarando.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturaron en La Estrella a 'Chómpiras', encargado de cobrar vacunas a comerciantes del centro",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/capturaron-en-la-estrella-a-chompiras-encargado-de-cobrar-vacunas-a-comerciantes-del-centro-rg10",
+  "fecha": "2026-10-23T18:19:35-05:00",
+  "palabras": "Noticias de hoy, Antioquia, Judicial",
+  "lead": "Las autoridades le imputaron los delitos de extorsión, concierto para delinquir agravado y hurto calificado y agravado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De entrenar en parques de Bogotá al Mundial de MMA: joven busca apoyo para viajar a Turquía",
+  "enlace": "https://www.bluradio.com/regiones/bogota/de-entrenar-en-parques-de-bogota-al-mundial-de-mma-joven-busca-apoyo-para-viajar-a-turquia-rg10",
+  "fecha": "2026-10-23T18:17:46-05:00",
+  "palabras": "Turquía, Fontibón",
+  "lead": "Juan José Pinzón tiene 19 años, acumula más de 20 medallas y trabaja de noche para financiar su carrera deportiva.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué hacer en Navidad cerca de Bogotá? Tenjo tendrá un pesebre inmersivo a escala real",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/que-hacer-en-navidad-cerca-de-bogota-tenjo-tendra-un-pesebre-inmersivo-a-escala-real-so35",
+  "fecha": "2026-10-23T18:20:06-05:00",
+  "palabras": "Navidad",
+  "lead": "El próximo 1 de diciembre de 2026 abrirá sus puertas El Pesebre de Tenjo, una experiencia a escala real que permitirá a los visitantes recorrer escenarios inspirados en los relatos bíblicos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así se ven alucinantes suites de On Vacation en Colombia tras masiva remodelación",
+  "enlace": "https://www.bluradio.com/turismo/asi-se-ven-alucinantes-suites-de-on-vacation-en-colombia-tras-masiva-remodelacion-cm25",
+  "fecha": "2026-10-23T18:40:49-05:00",
+  "palabras": "Hoteles",
+  "lead": "On Vacation renueva sus hoteles en San Andrés, La Guajira, Santa Marta y Amazonas, con habitaciones modernas, suites inspiradas en la cultura regional y mejoras en su infraestructura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comfandi busca agilizar subsidios de vivienda para damnificados por el terremoto en Valle del Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/comfandi-busca-agilizar-subsidios-de-vivienda-para-damnificados-por-el-terremoto-en-valle-del-cauca-rg10",
+  "fecha": "2026-10-23T18:31:32-05:00",
+  "palabras": "Noticias de hoy, Valle del Cauca",
+  "lead": "Jacobo Tovar, director de la caja de compensación, en entrevista con Blu Radio señaló que trabajan con otras entidades para acelerar la entrega de ayudas y advirtió sobre la desafiliación de trabajadores.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Concejal denuncia posible sobrecosto en compra de perros entrenados para cárceles de Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/concejal-denuncia-posible-sobrecosto-en-compra-de-perros-entrenados-para-carceles-de-bogota-rg10",
+  "fecha": "2026-10-23T18:38:13-05:00",
+  "palabras": "Animales, Secretaría de seguridad",
+  "lead": "Cada perro tendría un valor de 16.8 millones, para una inversión total de 100.8 millones por los seis perros.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Repuestos y servicio técnico, claves para la operación del transporte de carga en Colombia",
+  "enlace": "https://www.bluradio.com/nacion/repuestos-y-servicio-tecnico-claves-para-la-operacion-del-transporte-de-carga-en-colombia-rs15",
+  "fecha": "2026-10-23T18:50:22-05:00",
+  "palabras": "",
+  "lead": "Divemotor reporta avances en la expansión de su infraestructura posventa en Colombia y proyecta nuevas aperturas para atender la demanda del sector.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rafael Dudamel se sincera: “Es un sueño dirigir a la Selección Colombia”",
+  "enlace": "https://caracol.com.co/2026/10/23/rafael-dudamel-se-sincera-es-un-sueno-dirigir-a-la-seleccion-colombia/",
+  "fecha": "2026-10-23T18:45:19-05:00",
+  "palabras": "",
+  "lead": "El entrenador venezolano aclaró que esto redondearía el trabajo que ha realizado en el país a nivel clubes.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía refuerza presencia en Buritaca tras hechos de orden público en zona rural de Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/23/policia-refuerza-presencia-en-buritaca-tras-hechos-de-orden-publico-en-zona-rural-de-santa-marta/",
+  "fecha": "2026-10-23T18:43:26-05:00",
+  "palabras": "",
+  "lead": "El comandante de la Policía Metropolitana de Santa Marta, coronel Jimmy Belalcázar, llegó al corregimiento de Buritaca con uniformados para reforzar la seguridad, tras los recientes hechos violentos registrados en este sector de la Troncal del Caribe.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Tiene obligaciones pendientes con la DIAN? Fecha límite para reducir sanciones y tasas de interés",
+  "enlace": "https://caracol.com.co/2026/10/23/tiene-obligaciones-pendientes-con-la-dian-fecha-limite-para-reducir-sanciones-y-tasas-de-interes/",
+  "fecha": "2026-10-23T18:40:05-05:00",
+  "palabras": "",
+  "lead": "Según la DIAN, en Medellín, Cali, Bogotá, Bucaramanga y Cúcuta se concentran los mayores saldos. Esto es lo que debe saber para ponerse al día con las obligaciones:",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación del Magdalena coordina acciones con la Fuerza Pública tras hostigamiento en la Troncal",
+  "enlace": "https://caracol.com.co/2026/10/23/gobernacion-coordina-acciones-con-la-fuerza-publica-tras-hostigamiento-en-la-troncal-del-caribe/",
+  "fecha": "2026-10-23T18:28:26-05:00",
+  "palabras": "",
+  "lead": "La Gobernación del Magdalena coordina acciones con la Fuerza Pública para reforzar la seguridad en la Troncal del Caribe, tras el hostigamiento que dejó un soldado muerto y obligó a suspender preventivamente el tránsito.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué es Shamonda? Así es el virus que solo afectaba ganado, hallado recientemente en humano",
+  "enlace": "https://caracol.com.co/2026/10/23/que-es-shamonda-asi-es-el-virus-que-solo-afectaba-ganado-hallado-recientemente-en-humano/",
+  "fecha": "2026-10-23T18:25:08-05:00",
+  "palabras": "",
+  "lead": "Después del primer reporte oficial del virus en Europa en la especie humana, se llevan a cabo estudios para determinar cómo la persona logró contagiarse de este agente infeccioso visto únicamente en animales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santuario de Iguaque reabrirá sus puertas el 3 de noviembre",
+  "enlace": "https://caracol.com.co/2026/10/23/santuario-de-iguaque-reabrira-sus-puertas-el-3-de-noviembre/",
+  "fecha": "2026-10-23T18:25:56-05:00",
+  "palabras": "",
+  "lead": "Parques Nacionales Naturales confirmó la reapertura del área protegida e invitó a los visitantes a cuidar los senderos, la infraestructura y la biodiversidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este es el listado de brigadieres generales que ascenderían al grado de mayor general en las FFMM",
+  "enlace": "https://caracol.com.co/2026/10/23/este-es-el-listado-de-brigadieres-generales-que-ascenderian-al-grado-de-mayor-general/",
+  "fecha": "2026-10-23T18:19:55-05:00",
+  "palabras": "",
+  "lead": "El ascenso de los oficiales deberá contar con la aprobación del Senado de la República, de acuerdo con el artículo 173 de la Constitución Política.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Construcciones Planificadas transforma Bogotá con cinco megaproyectos de vivienda",
+  "enlace": "https://caracol.com.co/2026/10/23/construcciones-planificadas-transforma-bogota-con-cinco-megaproyectos-de-vivienda/",
+  "fecha": "2026-10-23T18:17:21-05:00",
+  "palabras": "",
+  "lead": "La compañía, con más de 65 años de trayectoria, desarrolla iniciativas inmobiliarias en distintos sectores de la capital, con propuestas que incorporan criterios de sostenibilidad, movilidad y bienestar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hay alerta en Medellín por el aumento de agresiones al personal médico",
+  "enlace": "https://caracol.com.co/2026/10/23/hay-alerta-en-medellin-por-el-aumento-de-agresiones-al-personal-medico/",
+  "fecha": "2026-10-23T18:11:59-05:00",
+  "palabras": "",
+  "lead": "Según la Personería de Medellín, se tiene registro de 76 casos, solo entre enero y julio del 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cierres viales en Bogotá por Festival Hip Hop al Parque y concierto de Fonseca: 24 y 25 de octubre",
+  "enlace": "https://caracol.com.co/2026/10/23/cierres-viales-en-bogota-por-festival-hip-hop-al-parque-y-concierto-de-fonseca-24-y-25-de-octubre/",
+  "fecha": "2026-10-23T18:15:07-05:00",
+  "palabras": "",
+  "lead": "Este fin de semana se realizará el festival Hip Hop al parque en el Simón Bolívar y el artista Fonseca se presentará en el Vive Claro",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Copa Libertadores Femenina 2026: rivales, fecha y hora en cuartos de final para Santa Fe y Cali",
+  "enlace": "https://caracol.com.co/2026/10/23/copa-libertadores-femenina-2026-rivales-fecha-y-hora-en-cuartos-de-final-para-santa-fe-y-cali/",
+  "fecha": "2026-10-23T18:10:01-05:00",
+  "palabras": "",
+  "lead": "Los equipos colombianos no decepcionaron y dieron el salto a la fase final del certamen continental.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Guayacán Orquesta presenta ‘40 años después’, un álbum que revive diez de sus grandes éxitos",
+  "enlace": "https://caracol.com.co/2026/10/23/guayacan-orquesta-presenta-40-anos-despues-un-album-que-revive-diez-de-sus-grandes-exitos/",
+  "fecha": "2026-10-23T18:05:23-05:00",
+  "palabras": "",
+  "lead": "La agrupación colombiana regrabó canciones como ‘Oiga, mire, vea’, ‘Torero’ e ‘Invierno en primavera’ con una nueva generación de músicos y cantantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente agradece a Nutresa por compra de Presto",
+  "enlace": "https://www.lafm.com.co/politica/presto-liquidacion-judicial-nutresa-firma-contrato-de-compra-700-empleos-414997",
+  "fecha": "2026-10-23T17:50:00-05:00",
+  "palabras": "Política,hamburguesas,Grupo Nutresa,Trabajadores,Trabajo,Presidencia de la República",
+  "lead": "Presto, la cadena de hamburguesas que desde el 13 de octubre estaba en liquidación judicial, tendrá nuevo dueño: el Grupo Nutresa firmó el contrato para co...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Por qué hay personas que no saben besar? Sexólogo advierte",
+  "enlace": "https://www.lafm.com.co/sociedad/intimidad-parejas-jovenes-besos-sexologo-ezequiel-lopez-414996",
+  "fecha": "2026-10-23T17:46:00-05:00",
+  "palabras": "Sociedad,Parejas,Sexualidad,Redes sociales,relaciones,Relaciones interpersonales",
+  "lead": "El experto destacó que las nuevas generaciones, entre los 20 y los 30 años, se besan menos y lo atribuye a las redes sociales.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
