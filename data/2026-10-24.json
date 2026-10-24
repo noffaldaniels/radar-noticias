@@ -150,7 +150,7 @@
   "palabras": "Noticias de hoy, Viajes, Antioquia",
   "lead": "La ruta, para muchos viajeros, comienza en el Alto del Escobero, al que se llega mediante un bus integrado del sistema Metro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Antioquia, Gobernación de Antioquia, Policía Nacional, Fiscalía General de la Nación, Feminicidio, Abuso sexual Menores de Edad",
   "lead": "La Gobernación de Antioquia ofreció una recompensa de 100 millones de pesos para esclarecer el atroz crimen.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "",
   "lead": "Max Eberl, director general deportivo del Bayern Múnich se refirió a la situación del entrenador belga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "El ejercicio, que se llevó a cabo desde la 1:00 a.m. hasta las 2:40 a.m., contó con la participación de alrededor de 500 personas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,6 +194,83 @@
   "palabras": "Internacional,Manifestaciones,Francia,Policía Nacional,Ejército Nacional,Emmanuel Macron",
   "lead": "El Gobierno prohibió las manifestaciones en varias ciudades, entre ellas Marsella, Lyon y Lille, mientras que en París se autorizó una marcha respaldada po...",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ante pérdidas de Afinia, EPM propone incrementar operativos para frenar el contrabando",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/ante-perdidas-de-afinia-epm-propone-incrementar-operativos-para-frenar-el-contrabando-rg10",
+  "fecha": "2026-10-24T06:46:28-05:00",
+  "palabras": "Antioquia, Medellín, EPM, Costa Caribe",
+  "lead": "El gerente John Maya pidió “decisiones radicales” que incluso deriven en extinciones de dominio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno francés toma medidas ante nueva jornada de protestas",
+  "enlace": "https://www.bluradio.com/mundo/gobierno-frances-toma-medidas-ante-nueva-jornada-de-protestas-cb20",
+  "fecha": "2026-10-24T06:58:56-05:00",
+  "palabras": "Francia",
+  "lead": "El Gobierno anunció la movilización de 70.000 policías y gendarmes en todo el país, después de los disturbios, destrozos y saqueos registrados la semana pasada.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cámara de Comercio de Cartagena fortalece diez negocios gastronómicos para impulsar el turismo",
+  "enlace": "https://caracol.com.co/2026/10/24/camara-de-comercio-de-cartagena-fortalece-diez-negocios-gastronomicos-para-impulsar-el-turismo/",
+  "fecha": "2026-10-24T07:00:47-05:00",
+  "palabras": "",
+  "lead": "El proyecto recorrió siete municipios y articuló a entidades del sector turístico alrededor de nuevas oportunidades para los empresarios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Metro de Bogotá carga solo con un vacío que le corresponde a la Nación",
+  "enlace": "https://caracol.com.co/2026/10/24/el-metro-de-bogota-carga-solo-con-un-vacio-que-le-corresponde-a-la-nacion/",
+  "fecha": "2026-10-24T07:00:00-05:00",
+  "palabras": "",
+  "lead": "El de Bogotá será el primer metro en Colombia que funcionará sin conductor, es decir, 100% automatizado, pero no hay un marco legal en el país que lo respalde",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“El Estado debe proteger a la iniciativa privada y al empresariado”: Procurador General",
+  "enlace": "https://caracol.com.co/2026/10/24/el-estado-debe-proteger-a-la-iniciativa-privada-y-al-empresariado-procurador-general/",
+  "fecha": "2026-10-24T06:56:31-05:00",
+  "palabras": "",
+  "lead": "El pronunciamiento lo hizo en el marco del Congreso Colombiano de la Construcción 2026 de Camacol",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La democracia no tiene temporada baja”: Procurador General ante las cajas de compensación familiar",
+  "enlace": "https://caracol.com.co/2026/10/24/la-democracia-no-tiene-temporada-baja-procurador-general-ante-las-cajas-de-compensacion-familiar/",
+  "fecha": "2026-10-24T06:53:52-05:00",
+  "palabras": "",
+  "lead": "El jefe del Ministerio Público destacó la importancia de la independencia de los poderes, la prevención y la confianza entre el Estado y el sector privado",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría acelera indagaciones por presunta corrupción en San Andrés Islas",
+  "enlace": "https://caracol.com.co/2026/10/24/procuraduria-acelera-indagaciones-por-presunta-corrupcion-en-san-andres-islas/",
+  "fecha": "2026-10-24T06:50:07-05:00",
+  "palabras": "",
+  "lead": "Desde el Congreso de Asocajas en Cartagena, Gregorio Eljach se refirió a los posibles actos de corrupción que se habrían cometido en el archipiélago",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
