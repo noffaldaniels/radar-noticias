@@ -4726,7 +4726,7 @@
   "palabras": "Noticias de hoy, Antioquia, Judicial",
   "lead": "Las autoridades le imputaron los delitos de extorsión, concierto para delinquir agravado y hurto calificado y agravado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "Turquía, Fontibón",
   "lead": "Juan José Pinzón tiene 19 años, acumula más de 20 medallas y trabaja de noche para financiar su carrera deportiva.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "Navidad",
   "lead": "El próximo 1 de diciembre de 2026 abrirá sus puertas El Pesebre de Tenjo, una experiencia a escala real que permitirá a los visitantes recorrer escenarios inspirados en los relatos bíblicos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "Hoteles",
   "lead": "On Vacation renueva sus hoteles en San Andrés, La Guajira, Santa Marta y Amazonas, con habitaciones modernas, suites inspiradas en la cultura regional y mejoras en su infraestructura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "Noticias de hoy, Valle del Cauca",
   "lead": "Jacobo Tovar, director de la caja de compensación, en entrevista con Blu Radio señaló que trabajan con otras entidades para acelerar la entrega de ayudas y advirtió sobre la desafiliación de trabajadores.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "Animales, Secretaría de seguridad",
   "lead": "Cada perro tendría un valor de 16.8 millones, para una inversión total de 100.8 millones por los seis perros.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "",
   "lead": "Divemotor reporta avances en la expansión de su infraestructura posventa en Colombia y proyecta nuevas aperturas para atender la demanda del sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,7 +4803,7 @@
   "palabras": "",
   "lead": "El entrenador venezolano aclaró que esto redondearía el trabajo que ha realizado en el país a nivel clubes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4814,7 +4814,7 @@
   "palabras": "",
   "lead": "El comandante de la Policía Metropolitana de Santa Marta, coronel Jimmy Belalcázar, llegó al corregimiento de Buritaca con uniformados para reforzar la seguridad, tras los recientes hechos violentos registrados en este sector de la Troncal del Caribe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4825,7 +4825,7 @@
   "palabras": "",
   "lead": "Según la DIAN, en Medellín, Cali, Bogotá, Bucaramanga y Cúcuta se concentran los mayores saldos. Esto es lo que debe saber para ponerse al día con las obligaciones:",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4836,7 +4836,7 @@
   "palabras": "",
   "lead": "La Gobernación del Magdalena coordina acciones con la Fuerza Pública para reforzar la seguridad en la Troncal del Caribe, tras el hostigamiento que dejó un soldado muerto y obligó a suspender preventivamente el tránsito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4847,7 +4847,7 @@
   "palabras": "",
   "lead": "Después del primer reporte oficial del virus en Europa en la especie humana, se llevan a cabo estudios para determinar cómo la persona logró contagiarse de este agente infeccioso visto únicamente en animales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4858,7 +4858,7 @@
   "palabras": "",
   "lead": "Parques Nacionales Naturales confirmó la reapertura del área protegida e invitó a los visitantes a cuidar los senderos, la infraestructura y la biodiversidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4869,7 +4869,7 @@
   "palabras": "",
   "lead": "El ascenso de los oficiales deberá contar con la aprobación del Senado de la República, de acuerdo con el artículo 173 de la Constitución Política.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4880,7 +4880,7 @@
   "palabras": "",
   "lead": "La compañía, con más de 65 años de trayectoria, desarrolla iniciativas inmobiliarias en distintos sectores de la capital, con propuestas que incorporan criterios de sostenibilidad, movilidad y bienestar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "",
   "lead": "Según la Personería de Medellín, se tiene registro de 76 casos, solo entre enero y julio del 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4902,7 +4902,7 @@
   "palabras": "",
   "lead": "Este fin de semana se realizará el festival Hip Hop al parque en el Simón Bolívar y el artista Fonseca se presentará en el Vive Claro",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4913,7 +4913,7 @@
   "palabras": "",
   "lead": "Los equipos colombianos no decepcionaron y dieron el salto a la fase final del certamen continental.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "",
   "lead": "La agrupación colombiana regrabó canciones como ‘Oiga, mire, vea’, ‘Torero’ e ‘Invierno en primavera’ con una nueva generación de músicos y cantantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "Política,hamburguesas,Grupo Nutresa,Trabajadores,Trabajo,Presidencia de la República",
   "lead": "Presto, la cadena de hamburguesas que desde el 13 de octubre estaba en liquidación judicial, tendrá nuevo dueño: el Grupo Nutresa firmó el contrato para co...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4945,6 +4945,281 @@
   "fecha": "2026-10-23T17:46:00-05:00",
   "palabras": "Sociedad,Parejas,Sexualidad,Redes sociales,relaciones,Relaciones interpersonales",
   "lead": "El experto destacó que las nuevas generaciones, entre los 20 y los 30 años, se besan menos y lo atribuye a las redes sociales.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "23 de octubre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/23-de-octubre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-10-23T20:02:17-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 23 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Hoy la reconstrucción nos cuesta $54,3 billones\": MinVivienda tras el terremoto en Colombia",
+  "enlace": "https://www.bluradio.com/economia/hoy-la-reconstruccion-nos-cuesta-54-3-billones-minvivienda-tras-el-terremoto-en-colombia-rg10",
+  "fecha": "2026-10-23T19:08:51-05:00",
+  "palabras": "Vivienda, Ministerio de Vivienda, Mi Casa Ya",
+  "lead": "Más de 250 mil viviendas fueron destruidas en el país tras el terremoto del pasado 10 de agosto. El terremoto y la crisis fiscal hacen que por ahora no esté en los planes del gobierno revivir los subsidios de la vivienda.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Barranquilla será sede de la II Semana de la Bioeconomía Colombiana: conozca los detalles",
+  "enlace": "https://www.bluradio.com/regiones/caribe/barranquilla-sera-sede-de-la-ii-semana-de-la-bioeconomia-colombiana-conozca-los-detalles-rg10",
+  "fecha": "2026-10-23T19:36:33-05:00",
+  "palabras": "Noticias de hoy, Caribe, Barranquilla, Atlántico",
+  "lead": "El evento reunirá a representantes del sector público y privado, comunidades, productores, empresas, inversionistas, banca, cooperación internacional y academia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El robot chino que puede levantar vehículos y frustrar robos: estas son sus capacidades",
+  "enlace": "https://www.bluradio.com/tecnologia/el-robot-chino-que-puede-levantar-vehiculos-y-frustrar-robos-estas-son-sus-capacidades-so35",
+  "fecha": "2026-10-23T20:23:40-05:00",
+  "palabras": "China, Robots, Inteligencia Artificial",
+  "lead": "La máquina fue mostrada ejecutando tareas de alta exigencia física, entre ellas levantar un vehículo y resistir una caída de varios metros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "FLIP rechaza arresto de Alejandro Villanueva tras denuncia por exposición de sus datos personales",
+  "enlace": "https://caracol.com.co/2026/10/24/flip-rechaza-arresto-de-alejandro-villanueva-tras-denuncia-por-exposicion-de-sus-datos-personales/",
+  "fecha": "2026-10-23T20:16:07-05:00",
+  "palabras": "",
+  "lead": "El periodista de Desigual recibió una sanción de dos días de arresto y una multa de cuatro salarios mínimos por incumplir una orden judicial sobre sus publicaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Plantón en Colegio Carlos Pizarro León de Bosa: comunidad educativa pide no cambiar su nombre",
+  "enlace": "https://caracol.com.co/2026/10/24/planton-en-colegio-carlos-pizarro-leon-de-bosa-comunidad-educativa-pide-no-cambiar-su-nombre/",
+  "fecha": "2026-10-23T20:15:30-05:00",
+  "palabras": "",
+  "lead": "Rechazan la solicitud hecha desde el Concejo de Bogotá para el cambio de nombres de algunas instituciones que lleven nombres de miembros de grupos armados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Elecciones en Brasil y crisis social en Europa",
+  "enlace": "https://caracol.com.co/2026/10/24/elecciones-en-brasil-y-crisis-social-en-europa/",
+  "fecha": "2026-10-23T20:00:00-05:00",
+  "palabras": "",
+  "lead": "En Hora 20, los panelistas analizan la segunda vuelta presidencial de Brasil y las protestas que se han registrado en varios países de Europa.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Acuacar reparó la tubería y comenzó a restablecer el servicio en Manga",
+  "enlace": "https://caracol.com.co/2026/10/24/acuacar-reparo-la-tuberia-y-comenzo-a-restablecer-el-servicio-en-manga/",
+  "fecha": "2026-10-23T19:59:47-05:00",
+  "palabras": "",
+  "lead": "La empresa corrigió el daño en una red de cuatro pulgadas ocasionado por un contratista que ejecutaba obras viales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro coroneles volverán al servicio activo tras salir en el gobierno Petro: estos son los nombres",
+  "enlace": "https://caracol.com.co/2026/10/24/cuatro-coroneles-volverian-al-servicio-activo-tras-salir-en-el-gobierno-petro-estos-son-los-nombres/",
+  "fecha": "2026-10-23T19:14:23-05:00",
+  "palabras": "",
+  "lead": "Caracol Radio confirmó que cuatro oficiales que habían salido entre 2023 y 2024 volverían al servicio activo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayó cargamento en Corabastos: pretendían ocultar 270 kilos de pólvora entre verduras",
+  "enlace": "https://caracol.com.co/2026/10/24/cayo-cargamento-en-corabastos-pretendian-ocultar-270-kilos-de-polvora-entre-verduras/",
+  "fecha": "2026-10-23T19:56:27-05:00",
+  "palabras": "",
+  "lead": "En cargamento de alimentos pretendían camuflar 7.488 unidades de material pirotécnico para trasladarlo a otro punto de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inadmitieron a 38 extranjeros tras controles para proteger a menores de edad",
+  "enlace": "https://caracol.com.co/2026/10/24/inadmitieron-a-38-extranjeros-tras-controles-para-proteger-a-menores-de-edad/",
+  "fecha": "2026-10-23T19:52:19-05:00",
+  "palabras": "",
+  "lead": "Más de 450 viajeros fueron inspeccionados en el aeropuerto Rafael Núñez",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Junior vs Águilas Doradas por Liga Colombiana 2026-ll HOY: minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/24/en-vivo-junior-vs-aguilas-doradas-por-liga-colombiana-2026-ll-hoy-minuto-a-minuto/",
+  "fecha": "2026-10-23T19:52:03-05:00",
+  "palabras": "",
+  "lead": "El conjunto barranquillero buscará conseguir una victoria de local y seguir soñando con la clasificación.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Killer detectó 17,6 kilos de marihuana ocultos en una encomienda en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/24/killer-detecto-176-kilos-de-marihuana-ocultos-en-una-encomienda-en-cartagena/",
+  "fecha": "2026-10-23T19:47:32-05:00",
+  "palabras": "",
+  "lead": "El canino de la Policía halló 35 paquetes enviados desde Norte de Santander",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rodrigo Lara aseguró que dejó listo proceso clave para las obras del Canal del Dique",
+  "enlace": "https://caracol.com.co/2026/10/24/rodrigo-lara-aseguro-que-dejo-listo-proceso-clave-para-las-obras-del-canal-del-dique/",
+  "fecha": "2026-10-23T19:41:13-05:00",
+  "palabras": "",
+  "lead": "El exministro del Interior publicó un video que había grabado antes de conocer la noticia de su salida del gobierno de Abelardo de la Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía de Cartagena alertó sobre estafa con falsas vacantes para el Festival Náutico",
+  "enlace": "https://caracol.com.co/2026/10/24/alcaldia-de-cartagena-alerto-sobre-estafa-con-falsas-vacantes-para-el-festival-nautico/",
+  "fecha": "2026-10-23T19:43:34-05:00",
+  "palabras": "",
+  "lead": "La convocatoria fraudulenta exige $18.000 por una supuesta carnetización para trabajar en el evento",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reconstrucción sube a $54,3 billones y no hay plata para vivienda de los no afectados: MinVivienda",
+  "enlace": "https://caracol.com.co/2026/10/24/reconstruccion-sube-a-543-billones-y-no-hay-plata-para-vivienda-de-los-no-afectados-minvivienda/",
+  "fecha": "2026-10-23T19:30:25-05:00",
+  "palabras": "",
+  "lead": "El ministro de Vivienda, Jaime Andrés Beltrán, aseguró que no hay recursos, teniendo en cuenta la herencia del Gobierno pasado y que la reconstrucción del terremoto cuesta $ 54,3 billones de pesos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos sugiere a los cubanos trabajar con la CIA para “crear un cambio positivo”",
+  "enlace": "https://caracol.com.co/2026/10/24/estados-unidos-sugiere-a-los-cubanos-trabajar-con-la-cia-para-crear-un-cambio-positivo/",
+  "fecha": "2026-10-23T19:26:32-05:00",
+  "palabras": "",
+  "lead": "El secretario de Estado sugirió a los isleños trabajar de forma “discreta” con los servicios de inteligencia estadounidenses.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a una mujer con seis kilos de droga pegados al cuerpo en el aeropuerto El Dorado",
+  "enlace": "https://caracol.com.co/2026/10/24/capturan-a-una-mujer-con-seis-kilos-de-droga-pegados-al-cuerpo-en-el-aeropuerto-el-dorado/",
+  "fecha": "2026-10-23T19:23:11-05:00",
+  "palabras": "",
+  "lead": "La mujer de 22 años pretendía transportar cocaína y marihuana a la Isla de San Andrés desde Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Nueva York explica en español a los inmigrantes cómo actuar ante ICE",
+  "enlace": "https://caracol.com.co/2026/10/24/alcalde-de-nueva-york-explica-en-espanol-a-los-inmigrantes-como-actuar-ante-ice/",
+  "fecha": "2026-10-23T19:22:24-05:00",
+  "palabras": "",
+  "lead": "El llamado del alcalde Zohran Mamdani ocurre días después de que miembros de la policía migratoria dispararan contra un dominicano.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vicepresidente Restrepo asegura que recorte en 2027 debe ser “por lo menos de $ 70 billones”",
+  "enlace": "https://caracol.com.co/2026/10/23/vicepresidente-restrepo-asegura-que-recorte-en-2027-debe-ser-por-lo-menos-de-70-billones/",
+  "fecha": "2026-10-23T18:59:47-05:00",
+  "palabras": "",
+  "lead": "Esto significa que, del presupuesto decretado por el Gobierno para el próximo año, los ministerios y entidades tendrán menos plata.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones presidenciales en Brasil, definidas por las redes",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-presidenciales-en-brasil-domingo-redes-sociales-desinformacion-415006",
+  "fecha": "2026-10-23T20:10:00-05:00",
+  "palabras": "Internacional,Brasil,Elecciones presidenciales,Lula da Silva,Jair Bolsonaro,Redes sociales,Fake news,Donald Trump",
+  "lead": "La segunda vuelta presidencial en Brasil se define entre redes sociales y un electorado dividido. Este domingo escogen entre Lula y Bolsonaro.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Europa cambia horario el domingo: ¿por qué no se elimina?",
+  "enlace": "https://www.lafm.com.co/sociedad/europa-horario-invierno-eliminacion-union-europea-415002",
+  "fecha": "2026-10-23T19:28:00-05:00",
+  "palabras": "Sociedad,Europa,horarios,invierno,Unión Europea,Horario laboral",
+  "lead": "Pese a la negativa de algunos ciudadanos, este fin de semana se hará el cambio de horario de verano a invierno.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Se restablece paso vehicular entre La Guajira y el Magdalena",
+  "enlace": "https://www.lafm.com.co/orden-publico/movilidad-troncal-del-caribe-se-restablece-tras-enfrentamientos-415005",
+  "fecha": "2026-10-23T19:13:00-05:00",
+  "palabras": "Orden Público,enfrentamiento,Grupos delincuenciales,Ejército Nacional,La Guajira,Magdalena",
+  "lead": "La movilidad se vio afectada por enfrentamientos entre el Ejército y Los Pachencas en la troncal del Caribe.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno aplazó pago de deuda de $10.3 billones de deuda",
+  "enlace": "https://www.lafm.com.co/economia/gobierno-consiguio-extender-plazo-para-pagar-103-billones-de-deuda-publlica-415001",
+  "fecha": "2026-10-23T18:28:00-05:00",
+  "palabras": "Economía,Ministerio de Hacienda y Crédito Público,Crédito,Deuda externa",
+  "lead": "El Gobierno hizo una segunda operación para estirar su deuda,cambió $10,3 billones en bonos TES que le tocaba pagar pronto por otros que vencen más adelant...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Periodista denuncia amenazas tras exposición de sus datos personales",
+  "enlace": "https://www.lafm.com.co/actualidad/alejandro-villanueva-denuncia-amenaxzas-tras-exposicion-de-sus-datos-personales-en-proceso-judicial-415000",
+  "fecha": "2026-10-23T18:18:00-05:00",
+  "palabras": "Actualidad,FLIP,Censura,Colombia,Periodismo,periodismo investigativo,Amenazas",
+  "lead": "El comunicador ha tenido afectaciones psicológicas por amenazas de muerte que ha recibido.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
