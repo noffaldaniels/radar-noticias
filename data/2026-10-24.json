@@ -282,7 +282,7 @@
   "palabras": "Antioquia, Gobernación de Antioquia, Andrés Julián Rendón, Bajo Cauca",
   "lead": "La Empresa de Vivienda y la Alcaldía de Caucasia adquirieron un lote cercano al sector donde actualmente reside la familia, con el fin de iniciar la edificación de la vivienda propia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "Antioquia, Urabá, Policía Nacional, Robos",
   "lead": "La adulta mayor fue despojada de la indemnización con la que planeaba reparar su casa deteriorada en Apartadó, y hoy suplica a los ladrones que le devuelvan su dinero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "Brasil, Luiz Inacio Lula da Silva, Jair Bolsonaro",
   "lead": "Leandro Ferreira analizó el último debate, el impacto de las redes sociales y las consecuencias regionales de una victoria de Lula o Bolsonaro.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "María José Recuero resultó gravemente herida junto a otro policía en un enfrentamiento con dos presuntos asaltantes en el barrio Municipal, comuna 9 de Cali. Uno murió y otro fue capturado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "Noticias de hoy, Barranquilla, EPS Sanitas, Ministerio de Salud, Pacientes Colombia",
   "lead": "Familiares de Jackeline Altamar denuncian que Sanitas EPS no ha autorizado una intervención de trasplante de cadera. Gerente regional fue sancionada con 3 días de arresto por no acatar el fallo de tutela que ordena la operación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "El técnico también comentó acerca de su fútbol defensivo y la importancia de cerrar los partidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Crece la preocupación por la violencia en el Catatumbo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "A pesar de que el segundo y último debate se concentró más en las propuestas, los candidatos mantuvieron los ataques y acusaciones de corrupción.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "la ciudad realizó su primera Wedding Gala, una experiencia que recreó una boda real en el Pabellón de Cristal del Gran Malecón",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "Los hechos violentos se generaron a través del sicariato",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "Una patrullera recibió un disparo y permanece en estado crítico en una UCI",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "Las autoridades francesas han tomado una serie de medidas para evitar vivir una jornada de violencia como la registrada en el pasado fin de semana.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,6 +414,116 @@
   "palabras": "Actualidad,Afinia,EPM,junta directiva de EPM,Medellín, Colombia",
   "lead": "“Uno de los peores negocios en la historia de EPM”: la crisis de Afinia amenaza las finanzas de Medellín",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comenzaron las demoliciones de viviendas afectadas por el terremoto en Buenaventura",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/comenzaron-las-demoliciones-de-viviendas-afectadas-por-el-terremoto-en-buenaventura-rg10",
+  "fecha": "2026-10-24T07:55:51-05:00",
+  "palabras": "Buenaventura, Unidad Nacional de Protección UNP",
+  "lead": "La primera intervención es en el barrio La Comuna, donde fue demolida una edificación de tres pisos, también se adelantarán trabajos en el sector del Eucarístico con tres frentes de trabajo simultáneos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No estamos en una guerra civil”: experto explica la tensión política que vive Francia por protestas",
+  "enlace": "https://www.bluradio.com/mundo/no-estamos-en-una-guerra-civil-experto-explica-la-tension-politica-que-vive-francia-por-protestas-so35",
+  "fecha": "2026-10-24T08:09:26-05:00",
+  "palabras": "Francia",
+  "lead": "Pascal Droujot analizó las protestas por el costo de vida, los disturbios y la polarización política a seis meses de las elecciones presidenciales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador de Santander pide impulsar ley para acceder a recursos del Fonpet",
+  "enlace": "https://caracol.com.co/2026/10/24/gobernador-de-santander-pide-impulsar-ley-para-acceder-a-recursos-del-fonpet/",
+  "fecha": "2026-10-24T08:11:45-05:00",
+  "palabras": "",
+  "lead": "El mandatario aseguró que son por lo menos 20 departamentos los que se podrían beneficiar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Álvaro Montero: Mientras todos celebraban el paso a la final, yo veía el partido de Millonarios",
+  "enlace": "https://caracol.com.co/2026/10/24/alvaro-montero-mientras-todos-celebraban-el-paso-a-la-final-yo-veia-el-partido-de-millonarios/",
+  "fecha": "2026-10-24T08:11:42-05:00",
+  "palabras": "",
+  "lead": "El portero de Boca Juniors expresó su cariño por el equipo Embajador y aseguró que no se pierde ninguno de sus partidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Organizaciones de derechos humanos piden protección para la población civil en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/24/organizaciones-de-derechos-humanos-piden-proteccion-para-la-poblacion-civil-en-el-catatumbo/",
+  "fecha": "2026-10-24T08:10:59-05:00",
+  "palabras": "",
+  "lead": "Llaman la atención de los grupos guerrilleros a respetar el DIH",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidencia de Congreso alerta suplantación de Honorio Henríquez: así se hacen pasar por el senador",
+  "enlace": "https://caracol.com.co/2026/10/24/presidencia-de-congreso-alerta-suplantacion-de-honorio-henriquez-asi-se-hacen-pasar-por-el-senador/",
+  "fecha": "2026-10-24T08:01:13-05:00",
+  "palabras": "",
+  "lead": "La presidencia del Congreso anunció que ya comenzaron las investigaciones para encontrar a los responsables. Hasta el momento, han logrado identificar 2 líneas telefónicas que estarían implicadas en la suplantación",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Crece la preocupación por el aumento de los casos de secuestro en Ocaña",
+  "enlace": "https://caracol.com.co/2026/10/24/crece-la-preocupacion-por-el-aumento-de-los-casos-de-secuestro-en-ocana/",
+  "fecha": "2026-10-24T07:56:24-05:00",
+  "palabras": "",
+  "lead": "Alcalde reclama más compromiso de las autoridades",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinan a un hombre dentro de las oficinas de Tránsito de Bosconia, Cesar",
+  "enlace": "https://caracol.com.co/2026/10/24/asesinan-a-un-hombre-dentro-de-las-oficinas-de-transito-de-bosconia-cesar/",
+  "fecha": "2026-10-24T07:54:19-05:00",
+  "palabras": "",
+  "lead": "La víctima se encontraba realizando gestiones dentro de la entidad",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador ofrece recompensa de $100 millones por crimen de niña de 10 años en Frontino",
+  "enlace": "https://caracol.com.co/2026/10/24/gobernador-ofrece-recompensa-de-100-millones-por-crimen-de-nina-de-10-anos-en-frontino/",
+  "fecha": "2026-10-24T07:50:16-05:00",
+  "palabras": "",
+  "lead": "Jhady Sofía Osorio Mesa fue hallada sin vida en septiembre. La Gobernación pidió investigar la hipótesis de feminicidio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Esposa de Rodrigo Lara revela razón de su salida del Gobierno",
+  "enlace": "https://www.lafm.com.co/politica/esposa-rodrigo-lara-version-salida-gobierno-niega-alcaldia-bogota-415021",
+  "fecha": "2026-10-24T07:50:00-05:00",
+  "palabras": "Política,Rodrigo Lara,Abelardo de la Espriella,Ministerio del interior",
+  "lead": "María José Valenzuela descartó que la salida de Rodrigo Lara del Gobierno estuviera relacionada con una candidatura en Bogotá y aseguró que hubo desacuerdo...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
