@@ -535,7 +535,7 @@
   "palabras": "Valle de Aburrá, Medellín, Emergencias por lluvias",
   "lead": "Las acciones incluyen limpieza de zonas verdes, desmonte de cambuches y retiro de residuos sólidos en las orillas del afluente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "Ministerio de Salud, Antioquia, Gobernación de Antioquia, Salud",
   "lead": "La denuncia la hizo el diputado Jorge Correa durante un debate de control político, ante un presupuesto reportado por el gobierno anterior por $659.000 millones destinados a ese programa.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "Programas, Podcast",
   "lead": "En Noticias de la Mañana del sábado, 24 de octubre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "Defensoría del Pueblo, JEP",
   "lead": "La defensora del pueblo, Iris Marín, advirtió que los ataques personales y las expresiones basadas en estereotipos de género contra la magistrada pueden afectar la autonomía judicial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "No hay pistas de joven que se desplazaba al municipio de Tibú",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "La contaminación por mercurio en los Farallones de Cali pone en riesgo las fuentes hídricas de más de 600 mil usuarios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "El municipio celebrará sus 209 años de historia con una programación cultural, gastronómica, deportiva y musical entre el 7 y el 15 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "El nuevo paquete de informes presenta reportes registrados durante el siglo XX, muchos de ellos cerca de California.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "Política,Congreso de la República,Senado de la República,suplantación de identidad,Inteligencia artificial",
   "lead": "La Presidencia del Congreso identificó dos números telefónicos que no pertenecen al senador y advirtió que están siendo utilizados para suplantar al presid...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,6 +634,237 @@
   "palabras": "Orden Público,Antioquia,Gobernación de Antioquia,recompensa,Medicina Legal",
   "lead": "La necropsia estableció que la niña de 10 años murió por estrangulamiento y documentó lesiones compatibles con abuso sexual. Ofrecen $100 millones para enc...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santander avanza contra el Chagas, una enfermedad que ha puesto en alerta al departamento",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/santander-avanza-contra-el-chagas-una-enfermedad-que-ha-puesto-en-alerta-al-departamento-rg10",
+  "fecha": "2026-10-24T09:03:57-05:00",
+  "palabras": "Santander, Ministerio de Salud, Noticias de hoy, Blu Radio",
+  "lead": "El departamento avanza en la interrupción de la transmisión de esta enfermedad, que históricamente ha representado un desafío de salud pública. En 2019, había presencia del insecto transmisor en 66 de los 87 municipios de Santander.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“A mayor altura, menos oxígeno”: el duro camino de alcanzar el éxito y el precio por alcanzarlo",
+  "enlace": "https://www.bluradio.com/sociedad/a-mayor-altura-menos-oxigeno-el-duro-camino-de-alcanzar-el-exito-y-el-precio-por-alcanzarlo-so35",
+  "fecha": "2026-10-24T09:52:05-05:00",
+  "palabras": "Trabajo",
+  "lead": "El director de Actívate renunció a una gerencia que ocupó durante 18 años para dedicar más tiempo a su familia y cuidar su bienestar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a una persona tras profanación y hurto en capilla de El Pital, Huila",
+  "enlace": "https://caracol.com.co/2026/10/24/capturan-a-una-persona-tras-profanacion-y-hurto-en-capilla-de-el-pital-huila/",
+  "fecha": "2026-10-24T09:53:51-05:00",
+  "palabras": "",
+  "lead": "La Capilla Nuestra Señora del Amparo, perteneciente a la parroquia Santa Rosa de Lima, fue profanada y varios elementos litúrgicos fueron hurtados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mujer resulta herida por disparos en presunto caso de cobro gota a gota en Tubará, Atlántico",
+  "enlace": "https://caracol.com.co/2026/10/24/mujer-resulta-herida-por-disparos-en-presunto-caso-de-cobro-gota-a-gota-en-tubara-atlantico/",
+  "fecha": "2026-10-24T09:52:51-05:00",
+  "palabras": "",
+  "lead": "Este es el segundo hecho violento relacionado con préstamos gota a gota que se conoce en el Atlántico",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "12.323 personas siguen a la espera de sus medicamentos en Bolívar: MinSalud",
+  "enlace": "https://caracol.com.co/2026/10/24/12323-personas-siguen-a-la-espera-de-sus-medicamentos-en-bolivar-minsalud/",
+  "fecha": "2026-10-24T09:46:19-05:00",
+  "palabras": "",
+  "lead": "La ministra de Salud, Ana María Vesga, anunció que intensificará el seguimiento a las EPS para agilizar la entrega de medicamentos y procedimientos pendientes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por primera vez el Tolima será sede del Simposio Iberoamericano sobre Pavimentos",
+  "enlace": "https://caracol.com.co/2026/10/24/por-primera-vez-el-tolima-sera-sede-del-simposio-iberoamericano-sobre-pavimentos/",
+  "fecha": "2026-10-24T09:36:23-05:00",
+  "palabras": "",
+  "lead": "El evento, que cumple 50 años de trayectoria, se realizará del 4 al 6 de noviembre y contará con conferencias y ponencias sobre innovación, sostenibilidad y nuevas tecnologías aplicadas a la infraestructura vial.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hip Hop al Parque 2026: breaking, arte urbano y literatura también serán protagonistas en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/24/hip-hop-al-parque-2026-breaking-arte-urbano-y-literatura-tambien-seran-protagonistas-en-bogota/",
+  "fecha": "2026-10-24T09:34:31-05:00",
+  "palabras": "",
+  "lead": "El festival se realiza este 24 y 25 de octubre en el parque Simón Bolívar, con actividades que van más allá de la música y buscan destacar el papel de los barrios en la cultura hip hop.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensoría pide a senadores rectificar “afirmaciones falsas” contra magistrada Julieta Lemaitre",
+  "enlace": "https://caracol.com.co/2026/10/24/defensoria-pide-a-senadores-rectificar-afirmaciones-falsas-contra-magistrada-julieta-lemaitre/",
+  "fecha": "2026-10-24T09:33:44-05:00",
+  "palabras": "",
+  "lead": "La Defensoría del Pueblo rechazó los ataques de las últimas semanas contra la JEP y contra la magistrada, señalando que serían parte de una “campaña de desprestigio y desinformación”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a hombre señalado de robar piezas de aluminio de un bus de TransMilenio en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/24/capturan-a-hombre-senalado-de-robar-piezas-de-aluminio-de-un-bus-de-transmilenio-en-bogota/",
+  "fecha": "2026-10-24T09:29:48-05:00",
+  "palabras": "",
+  "lead": "La Policía informó que este año ha capturado a 1.568 personas en flagrancia por diferentes delitos en el sistema de transporte masivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Isolina León fue la gran homenajeada en la Noche de Candelas",
+  "enlace": "https://caracol.com.co/2026/10/24/isolina-leon-fue-la-gran-homenajeada-en-la-noche-de-candelas/",
+  "fecha": "2026-10-24T09:19:26-05:00",
+  "palabras": "",
+  "lead": "Más de 500 artistas y miles de asistentes celebraron las tradiciones musicales en el Centro Histórico",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Argentina: inundaciones asociadas a El Niño dejan más de 2.000 evacuados",
+  "enlace": "https://caracol.com.co/2026/10/24/argentina-inundaciones-asociadas-a-el-nino-dejan-mas-de-2000-evacuados/",
+  "fecha": "2026-10-24T09:16:54-05:00",
+  "palabras": "",
+  "lead": "Los desbordamientos de ríos se han registrado particularmente en la región cercana de la frontera con Brasil, Uruguay y Paraguay.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hoy el fútbol fue injusto con nosotros”: Robatto, luego de derrota ante el Junior",
+  "enlace": "https://caracol.com.co/2026/10/24/hoy-el-futbol-fue-injusto-con-nosotros-robatto-luego-de-derrota-ante-el-junior/",
+  "fecha": "2026-10-24T09:11:45-05:00",
+  "palabras": "",
+  "lead": "El equipo antioqueño generó más chances y se quedó con el 65% de la posesión, tras su caída 1-0 en Barranquilla.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de posiciones de la Premier League: Así quedó tras derrota del City contra Aston Villa",
+  "enlace": "https://caracol.com.co/2026/10/24/tabla-de-posiciones-de-la-premier-league-asi-quedo-tras-derrota-del-city-contra-aston-villa/",
+  "fecha": "2026-10-24T09:01:02-05:00",
+  "palabras": "",
+  "lead": "El equipo de Enzo Maresca sumó su primera derrota en el presente campeonato.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Cuándo murió Michael Gray, de qué y por qué la noticia se conoció días después?",
+  "enlace": "https://www.lafm.com.co/entretenimiento/cuando-murio-michael-gray-de-que-y-por-que-la-noticia-se-conocio-dias-despues-415031",
+  "fecha": "2026-10-24T09:36:00-05:00",
+  "palabras": "Entretenimiento,Hollywood,Series,actor,Estados Unidos",
+  "lead": "Michael Gray murió el 16 de octubre, pero solo hasta una semana después se anunció la noticia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ejército neutraliza explosivos para ataques con drones en Cauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/ejercito-neutraliza-explosivos-ataques-drones-cajibio-cauca-415030",
+  "fecha": "2026-10-24T09:27:00-05:00",
+  "palabras": "Orden Público,Cauca,Incautación de explosivos,Drones,ataque explosivo,disidencias",
+  "lead": "Tropas del Batallón de Infantería Liviana N.° 7 destruyeron 32 artefactos para drones, dos minas antipersonal y una granada de mortero.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Defensoría pide rectificar ataques contra magistrada de JEP",
+  "enlace": "https://www.lafm.com.co/orden-publico/defensoria-ataques-magistrada-julieta-lemaitre-pide-rectificacion-congresistas-415028",
+  "fecha": "2026-10-24T09:20:00-05:00",
+  "palabras": "Orden Público,Defensoría del Pueblo,JEP,jueces,Magistrados",
+  "lead": "La Defensoría del Pueblo denunció ataques de género y desinformación contra una magistrada de la JEP.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Feminicidio Angie Valentina: madre denuncia antecedentes de maltrato",
+  "enlace": "https://www.lafm.com.co/sociedad/angie-valentina-feminicidio-madre-denuncia-antecedentes-maltrato-415027",
+  "fecha": "2026-10-24T09:13:00-05:00",
+  "palabras": "Sociedad,Feminicidio,Asesinato,agresión,Parejas,Cajicá",
+  "lead": "Luz Dary Ruiz, madre de la joven, relató los momentos de angustia que vivió al conocer lo sucedido y denunció presuntos episodios de maltrato físico y psic...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Miles de personas se manifiestan en Madrid para defender las pensiones públicas",
+  "enlace": "https://www.lafm.com.co/internacional/miles-de-personas-se-manifiestan-en-madrid-para-defender-las-pensiones-publicas-de-espana-415025",
+  "fecha": "2026-10-24T09:06:00-05:00",
+  "palabras": "Internacional,España,Madrid,protesta,Reforma pensional",
+  "lead": "Las protestas se dan a un mes de las elecciones legislativas en España que ha generado intensos debates políticas entre la izquierda y la derecha.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Risaralda: disminución en matrícula escolar tras terremoto de agosto",
+  "enlace": "https://www.lafm.com.co/actualidad/alerta-disminucion-matricula-escolar-municipios-risaralda-terremoto-415024",
+  "fecha": "2026-10-24T08:50:00-05:00",
+  "palabras": "Actualidad,Terremoto en Colombia,Educación,Risaralda,Eje Cafetero",
+  "lead": "Risaralda está en alerta por la pérdida de más de 300 estudiantes en seis municipios clave del departamento tras el terremoto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Carrera Reto Win Bogotá: inscripciones, horarios y recorrido",
+  "enlace": "https://www.lafm.com.co/deportes/carrera-reto-win-en-bogota-cupos-inscripciones-horarios-recorrido-415023",
+  "fecha": "2026-10-24T08:31:00-05:00",
+  "palabras": "Deportes,Carreras,Running,Win Sports,Deporte,Bogotá",
+  "lead": "Andrea Guerrero, presidenta de Win Sports, confirmó que la carrera cuenta con 6.000 participantes inscritos y explicó cómo se desarrollará la jornada.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pacientes en Bolívar esperan medicamentos: Minsalud anuncia medidas",
+  "enlace": "https://www.lafm.com.co/sociedad/12mil-personas-esperan-medicamentos-bolivar-minsalud-anuncia-medidas-415022",
+  "fecha": "2026-10-24T08:21:00-05:00",
+  "palabras": "Sociedad,Salud,Ministerio de Salud,Vacuna,medicamentos,ambulancia,Atención a pacientes",
+  "lead": "La ministra de salud, Ana María Vesga, anunció que intensificará el seguimiento a las EPS para agilizar la entrega de medicamentos y los procedimientos pen...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
