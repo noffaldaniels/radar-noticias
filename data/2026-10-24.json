@@ -7,7 +7,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería de Santander, Resultado de loterías de hoy",
   "lead": "El sorteo 5093 de la Lotería de Santander jugó un premio mayor de $6.500 millones y otros premios. Conozca los resultados completos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Lotería de Risaralda, Resultado de loterías de hoy",
   "lead": "Consulte los resultados completos y el premio mayor del sorteo 2972 de la Lotería de Risaralda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Flávio Bolsonaro, Lula Da Silva, Luiz Inacio Lula da Silva, Elecciones Brasil, Brasil, Bolsonaro, Lula da silva, elecciones en brasil, segunda vuelta en brasil",
   "lead": "Tras la reacción de Lula, Flávio Bolsonaro pidió sus \"disculpas, de verdad\" haciendo un gesto de perdón con las manos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Noticias de hoy, Regla fiscal, Economía",
   "lead": "Restrepo cuestionó las decisiones adoptadas por el anterior Gobierno y afirmó que estas habrían provocado un deterioro de las finanzas del Estado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "MiLoto, Resultado MiLoto",
   "lead": "Conozca los resultados y números ganadores del sorteo 629 de MiLoto del viernes 23 de octubre de 2026. El acumulado aumentó a $230 millones tras quedar vacante el premio mayor de la noche.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Lotería de Medellín, Resultado de loterías de hoy",
   "lead": "Conozca el número ganador del Premio Mayor de 16.000 millones de pesos y la lista completa de los secos millonarios correspondientes al sorteo 4858 de la Lotería de Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "",
   "lead": "El centro asistencial cuenta con 4.200 metros cuadrados y atiende a más de 100.000 personas de la ciudad y sus corregimientos",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "El vicepresidente anunció un plan para enfrentar un deterioro de las finanzas del Estado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "",
   "lead": "Poco a poco se van definiendo los equipos que caerán a la segunda división.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "Así se mueve la clasificación en el transcurso de la fecha 16 del campeonato nacional.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Sociedad,Catedral de sal de Zipaquirá,Zipaquirá,Bogotá,Patrimonio cultural,Cultura",
   "lead": "El municipio de Cundinamarca también cuenta con murales que narran su historia, arquitectura patrimonial y tradiciones gastronómicas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Actualidad,Policía Nacional,Fiscalía General de la Nación",
   "lead": "Hasta el momento, no se conocen detalles sobre las circunstancias en las que ocurrió el hecho ni sobre la identidad de los responsables.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  }
 ]
