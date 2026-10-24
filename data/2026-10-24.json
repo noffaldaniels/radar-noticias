@@ -645,7 +645,7 @@
   "palabras": "Santander, Ministerio de Salud, Noticias de hoy, Blu Radio",
   "lead": "El departamento avanza en la interrupción de la transmisión de esta enfermedad, que históricamente ha representado un desafío de salud pública. En 2019, había presencia del insecto transmisor en 66 de los 87 municipios de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "Trabajo",
   "lead": "El director de Actívate renunció a una gerencia que ocupó durante 18 años para dedicar más tiempo a su familia y cuidar su bienestar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "La Capilla Nuestra Señora del Amparo, perteneciente a la parroquia Santa Rosa de Lima, fue profanada y varios elementos litúrgicos fueron hurtados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Este es el segundo hecho violento relacionado con préstamos gota a gota que se conoce en el Atlántico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "La ministra de Salud, Ana María Vesga, anunció que intensificará el seguimiento a las EPS para agilizar la entrega de medicamentos y procedimientos pendientes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "El evento, que cumple 50 años de trayectoria, se realizará del 4 al 6 de noviembre y contará con conferencias y ponencias sobre innovación, sostenibilidad y nuevas tecnologías aplicadas a la infraestructura vial.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "El festival se realiza este 24 y 25 de octubre en el parque Simón Bolívar, con actividades que van más allá de la música y buscan destacar el papel de los barrios en la cultura hip hop.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "La Defensoría del Pueblo rechazó los ataques de las últimas semanas contra la JEP y contra la magistrada, señalando que serían parte de una “campaña de desprestigio y desinformación”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "La Policía informó que este año ha capturado a 1.568 personas en flagrancia por diferentes delitos en el sistema de transporte masivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "Más de 500 artistas y miles de asistentes celebraron las tradiciones musicales en el Centro Histórico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "Los desbordamientos de ríos se han registrado particularmente en la región cercana de la frontera con Brasil, Uruguay y Paraguay.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "El equipo antioqueño generó más chances y se quedó con el 65% de la posesión, tras su caída 1-0 en Barranquilla.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "El equipo de Enzo Maresca sumó su primera derrota en el presente campeonato.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "Entretenimiento,Hollywood,Series,actor,Estados Unidos",
   "lead": "Michael Gray murió el 16 de octubre, pero solo hasta una semana después se anunció la noticia.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Orden Público,Cauca,Incautación de explosivos,Drones,ataque explosivo,disidencias",
   "lead": "Tropas del Batallón de Infantería Liviana N.° 7 destruyeron 32 artefactos para drones, dos minas antipersonal y una granada de mortero.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "Orden Público,Defensoría del Pueblo,JEP,jueces,Magistrados",
   "lead": "La Defensoría del Pueblo denunció ataques de género y desinformación contra una magistrada de la JEP.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "Sociedad,Feminicidio,Asesinato,agresión,Parejas,Cajicá",
   "lead": "Luz Dary Ruiz, madre de la joven, relató los momentos de angustia que vivió al conocer lo sucedido y denunció presuntos episodios de maltrato físico y psic...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Internacional,España,Madrid,protesta,Reforma pensional",
   "lead": "Las protestas se dan a un mes de las elecciones legislativas en España que ha generado intensos debates políticas entre la izquierda y la derecha.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Actualidad,Terremoto en Colombia,Educación,Risaralda,Eje Cafetero",
   "lead": "Risaralda está en alerta por la pérdida de más de 300 estudiantes en seis municipios clave del departamento tras el terremoto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "Deportes,Carreras,Running,Win Sports,Deporte,Bogotá",
   "lead": "Andrea Guerrero, presidenta de Win Sports, confirmó que la carrera cuenta con 6.000 participantes inscritos y explicó cómo se desarrollará la jornada.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,6 +865,193 @@
   "palabras": "Sociedad,Salud,Ministerio de Salud,Vacuna,medicamentos,ambulancia,Atención a pacientes",
   "lead": "La ministra de salud, Ana María Vesga, anunció que intensificará el seguimiento a las EPS para agilizar la entrega de medicamentos y los procedimientos pen...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a alias 'Francés' y 'Cachetón' por su presunta participación de masacre en Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/capturan-a-alias-frances-y-cacheton-por-su-presunta-participacion-de-masacre-en-antioquia-rg10",
+  "fecha": "2026-10-24T10:29:41-05:00",
+  "palabras": "Antioquia, Masacres, Fiscalía General de la Nación, Policía Nacional",
+  "lead": "Entre los tres fallecidos estaba Andrés Giraldo Velásquez, funcionario de la Alcaldía de El Carmen de Viboral, quien había sido reportado por la Defensoría del Pueblo como líder juvenil.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "EPM confirmó que las recientes lluvias aumentaron el nivel del embalse de Hidroituango",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/epm-confirmo-que-las-recientes-lluvias-aumentaron-el-nivel-del-embalse-de-hidroituango-rg10",
+  "fecha": "2026-10-24T10:22:30-05:00",
+  "palabras": "Antioquia, EPM, Hidroituango, Medellín",
+  "lead": "La central de generación de energía en el Norte antioqueño volverá a operar con sus cuatro turbinas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Piden cárcel para empresario señalado de presuntamente abusar de surfista en Puerto Colombia",
+  "enlace": "https://www.bluradio.com/regiones/caribe/piden-carcel-para-empresario-senalado-de-presuntamente-abusar-de-surfista-en-puerto-colombia-rg10",
+  "fecha": "2026-10-24T10:12:31-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Puerto Colombia, Abuso sexual Menores de Edad, Fiscalía General de la Nación",
+  "lead": "El juzgado aplazó la audiencia para finales de octubre por pedido de la defensa de Juan Álvarez, quien no aceptó los cargos de acto sexual violento contra una adolescente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cabify toma duras medidas en sus servicios: conductores quedaron advertidos",
+  "enlace": "https://www.bluradio.com/regiones/bogota/cabify-toma-duras-medidas-en-sus-servicios-conductores-quedaron-advertidos-so35",
+  "fecha": "2026-10-24T10:42:21-05:00",
+  "palabras": "Cabify, Plataformas de empleo",
+  "lead": "La plataforma implementará clientes ocultos para evaluar el servicio y ofrecerá nuevos beneficios a conductores con calificaciones altas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturado hombre que robaba piezas de aluminio de bus de TransMilenio: quedó grabado",
+  "enlace": "https://www.bluradio.com/regiones/bogota/capturado-hombre-que-robaba-piezas-de-aluminio-de-bus-de-transmilenio-quedo-grabado-rg10",
+  "fecha": "2026-10-24T10:55:11-05:00",
+  "palabras": "Inseguridad en Bogotá, Policía Nacional",
+  "lead": "Un hombre fue capturado en flagrancia en la estación Bicentenario de TransMilenio cuando presuntamente hurtaba piezas de aluminio de un bus articulado utilizando una cuchilla tipo bisturí.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana, resultado del último sorteo hoy sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T10:51:06-05:00",
+  "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 24 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pablo Peirano tras derrota de Bucaramanga: “No es un tema de equipo chico o grande, todos compiten”",
+  "enlace": "https://caracol.com.co/2026/10/24/pablo-peirano-tras-derrota-de-bucaramanga-no-es-un-tema-de-equipo-chico-o-grande-todos-compiten/",
+  "fecha": "2026-10-24T11:02:01-05:00",
+  "palabras": "",
+  "lead": "El entrenador reconoció las dificultades ofensivas y explicó los cambios que realizó, tras perder el invicto en el certamen.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aguacero en Cartagena reporta inundaciones en diferentes barrios",
+  "enlace": "https://caracol.com.co/2026/10/24/aguacero-en-cartagena-reporta-inundaciones-en-diferentes-barrios/",
+  "fecha": "2026-10-24T10:48:58-05:00",
+  "palabras": "",
+  "lead": "Según reportes de iClima se esperan que las lluvias se extiendan hasta entre el domingo y el lunes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Volcamiento de bus en el norte de Medellín dejó un muerto y 16 heridos",
+  "enlace": "https://caracol.com.co/2026/10/24/volcamiento-de-bus-en-el-norte-de-medellin-dejo-un-muerto-y-16-heridos/",
+  "fecha": "2026-10-24T10:46:24-05:00",
+  "palabras": "",
+  "lead": "Un bus de servicios especiales con 36 ocupantes chocó con un vehículo particular y terminó volcado en la calle Barranquilla, cerca de la estación San Pedro de Metroplús.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barcelona Vs. Real Madrid: Día, hora y cómo seguir El Clásico",
+  "enlace": "https://caracol.com.co/2026/10/24/barcelona-vs-real-madrid-dia-hora-y-como-seguir-el-clasico/",
+  "fecha": "2026-10-24T10:10:32-05:00",
+  "palabras": "",
+  "lead": "Los Culés buscan seguir comandando el campeonato con puntaje ideal; los Merengues quieren recortar distancias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DATT suspendió la atención en su sede de Manga por obras de remodelación",
+  "enlace": "https://caracol.com.co/2026/10/24/datt-suspendio-la-atencion-en-su-sede-de-manga-por-obras-de-remodelacion/",
+  "fecha": "2026-10-24T10:28:00-05:00",
+  "palabras": "",
+  "lead": "Las sedes de Espinal y Ronda Real asumirán los trámites para garantizar la continuidad del servicio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incautaron 107 botellas de licor adulterado y de contrabando en Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/24/incautaron-107-botellas-de-licor-adulterado-y-de-contrabando-en-bolivar/",
+  "fecha": "2026-10-24T10:24:15-05:00",
+  "palabras": "",
+  "lead": "Los operativos se realizaron en Villanueva y Arjona",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Refuerzan la seguridad en Jamundí ante amenazas de la disidencia FARC ‘Jaime Martínez’",
+  "enlace": "https://caracol.com.co/2026/10/24/refuerzan-la-seguridad-en-jamundi-ante-amenazas-de-la-disidencia-farc-jaime-martinez/",
+  "fecha": "2026-10-24T10:08:21-05:00",
+  "palabras": "",
+  "lead": "La Defensoría del Pueblo había emitido la Alerta Temprana 023 por riesgos de homicidios, desapariciones, secuestros, extorsiones y reclutamiento de menores, entre otras amenazas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bolsonaro vs Lula: ¿Quién ganó el último debate?",
+  "enlace": "https://www.lafm.com.co/internacional/brasil-elecciones-lula-bolsonaro-segunda-vuelta-presidencial-2026-debate-415037",
+  "fecha": "2026-10-24T10:25:00-05:00",
+  "palabras": "Internacional,Brasil,Lula da Silva,Jair Bolsonaro,Elecciones presidenciales",
+  "lead": "Bolsonaro y Lula se vieron por última vez las caras antes de las elecciones del domingo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La IAque analiza su voz para estudiar la edad de su cerebro",
+  "enlace": "https://www.lafm.com.co/sociedad/inteligencia-artificial-analiza-voz-edad-cerebro-como-funciona-415034",
+  "fecha": "2026-10-24T10:07:00-05:00",
+  "palabras": "Sociedad,Salud,Envejecimiento,Inteligencia artificial,Ayudas humanitarias",
+  "lead": "Hernán Hernández, investigador del Instituto Latinoamericano de Salud Cerebral, con sede en Chile, explicó cómo funciona este reloj del habla, qué elemento...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cierres viales Bogotá, 25 de octubre; carrera Reto Win: horarios y rutas",
+  "enlace": "https://www.lafm.com.co/deportes/cierres-viales-bogota-carrera-reto-win-domingo-25octubre-415033",
+  "fecha": "2026-10-24T10:01:00-05:00",
+  "palabras": "Deportes,Bogotá,Cierres viales,Carreras,Running,Canal Win Sports+,Win Sports,Secretaría de Movilidad",
+  "lead": "La competencia atlética Reto Win 7K y 11K tendrá cierres en varias vías del norte de Bogotá. Las restricciones comenzarán este sábado 24 de octubre y se ex...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alias Pichi y la presunta cirugía estética en la cárcel",
+  "enlace": "https://www.lafm.com.co/actualidad/alias-pichi-cirugia-estetica-carcel-cirujano-autorizacion-415029",
+  "fecha": "2026-10-24T09:23:00-05:00",
+  "palabras": "Actualidad,Alias Pichi,La Dorada,Sistema carcelario,Fiscalía General de la Nación,Bucaramanga",
+  "lead": "Fiscalía allana oficinas de directivos de la cárcel de La Dorada y encuentra $8 millones en efectivo tras revelaciones sobre alias ‘Pichi’",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
