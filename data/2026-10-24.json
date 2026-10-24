@@ -876,7 +876,7 @@
   "palabras": "Antioquia, Masacres, Fiscalía General de la Nación, Policía Nacional",
   "lead": "Entre los tres fallecidos estaba Andrés Giraldo Velásquez, funcionario de la Alcaldía de El Carmen de Viboral, quien había sido reportado por la Defensoría del Pueblo como líder juvenil.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Antioquia, EPM, Hidroituango, Medellín",
   "lead": "La central de generación de energía en el Norte antioqueño volverá a operar con sus cuatro turbinas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Puerto Colombia, Abuso sexual Menores de Edad, Fiscalía General de la Nación",
   "lead": "El juzgado aplazó la audiencia para finales de octubre por pedido de la defensa de Juan Álvarez, quien no aceptó los cargos de acto sexual violento contra una adolescente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "Cabify, Plataformas de empleo",
   "lead": "La plataforma implementará clientes ocultos para evaluar el servicio y ofrecerá nuevos beneficios a conductores con calificaciones altas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "Inseguridad en Bogotá, Policía Nacional",
   "lead": "Un hombre fue capturado en flagrancia en la estación Bicentenario de TransMilenio cuando presuntamente hurtaba piezas de aluminio de un bus articulado utilizando una cuchilla tipo bisturí.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
   "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 24 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "El entrenador reconoció las dificultades ofensivas y explicó los cambios que realizó, tras perder el invicto en el certamen.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Según reportes de iClima se esperan que las lluvias se extiendan hasta entre el domingo y el lunes",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Un bus de servicios especiales con 36 ocupantes chocó con un vehículo particular y terminó volcado en la calle Barranquilla, cerca de la estación San Pedro de Metroplús.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Los Culés buscan seguir comandando el campeonato con puntaje ideal; los Merengues quieren recortar distancias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "Las sedes de Espinal y Ronda Real asumirán los trámites para garantizar la continuidad del servicio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Los operativos se realizaron en Villanueva y Arjona",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "La Defensoría del Pueblo había emitido la Alerta Temprana 023 por riesgos de homicidios, desapariciones, secuestros, extorsiones y reclutamiento de menores, entre otras amenazas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Internacional,Brasil,Lula da Silva,Jair Bolsonaro,Elecciones presidenciales",
   "lead": "Bolsonaro y Lula se vieron por última vez las caras antes de las elecciones del domingo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "Sociedad,Salud,Envejecimiento,Inteligencia artificial,Ayudas humanitarias",
   "lead": "Hernán Hernández, investigador del Instituto Latinoamericano de Salud Cerebral, con sede en Chile, explicó cómo funciona este reloj del habla, qué elemento...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "Deportes,Bogotá,Cierres viales,Carreras,Running,Canal Win Sports+,Win Sports,Secretaría de Movilidad",
   "lead": "La competencia atlética Reto Win 7K y 11K tendrá cierres en varias vías del norte de Bogotá. Las restricciones comenzarán este sábado 24 de octubre y se ex...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1051,6 +1051,204 @@
   "fecha": "2026-10-24T09:23:00-05:00",
   "palabras": "Actualidad,Alias Pichi,La Dorada,Sistema carcelario,Fiscalía General de la Nación,Bucaramanga",
   "lead": "Fiscalía allana oficinas de directivos de la cárcel de La Dorada y encuentra $8 millones en efectivo tras revelaciones sobre alias ‘Pichi’",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias bloquean el paso entre los municipios de El Peñón y Sucre por creciente de quebradas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/lluvias-bloquean-el-paso-entre-los-municipios-de-el-penon-y-sucre-por-creciente-de-quebradas-rg10",
+  "fecha": "2026-10-24T11:12:05-05:00",
+  "palabras": "Santander, Noticias de hoy, Blu Radio, Emergencias por lluvias",
+  "lead": "Habitantes piden atención urgente para recuperar la movilidad y evaluar los daños, ante emergencia que los mantiene incomunicados tras las fuertes lluvias en la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Actúe como Defensora, con independencia”: senadora María Clara Posada responde a Iris Marín",
+  "enlace": "https://www.bluradio.com/nacion/actue-como-defensora-con-independencia-senadora-maria-clara-posada-responde-a-iris-marin-rg10",
+  "fecha": "2026-10-24T11:05:13-05:00",
+  "palabras": "Defensoría del Pueblo, Iris Marín",
+  "lead": "Tras el llamado de defensora del pueblo a rectificar afirmaciones sobre la magistrada de la JEP, Julieta Lemaitre, la senadora María Clara Posada defendió sus publicaciones y le pidió independencia a la defensora, tras recordarle su paso por esa juridiscción.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un muerto y 16 heridos deja volcamiento de bus que transportaba a 36 pasajeros en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/un-muerto-y-16-heridos-deja-volcamiento-de-bus-que-transportaba-a-36-pasajeros-en-medellin-rg10",
+  "fecha": "2026-10-24T11:37:58-05:00",
+  "palabras": "Medellín, Accidente de tránsito",
+  "lead": "Los pasajeros se dirigían a una peregrinación en el municipio de Guarne cuando el bus donde se transportaba se accidentó en el sector Palos Verdes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Cómo renegociar la definición de éxito?: En Blu Jeans 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/como-renegociar-la-definicion-de-exito-en-blu-jeans-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T11:36:38-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "En Blu Jeans del sábado, 24 de octubre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "46 comandantes de Policía en Santa Marta y Magdalena recibieron capacitación en seguridad",
+  "enlace": "https://caracol.com.co/2026/10/24/46-comandantes-de-policia-en-santa-marta-y-magdalena-recibieron-capacitacion-en-seguridad/",
+  "fecha": "2026-10-24T12:00:55-05:00",
+  "palabras": "",
+  "lead": "Durante cinco días, los mandos policiales participaron en un seminario sobre liderazgo, gestión territorial, herramientas tecnológicas y estrategias para mejorar la atención a las comunidades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos son los cargos que ocuparán coroneles reincorporados al Ejército por Abelardo de la Espriella",
+  "enlace": "https://caracol.com.co/2026/10/24/estos-son-los-cargos-que-ocuparan-los-coroneles-reincorporados-al-ejc-por-de-la-espriella/",
+  "fecha": "2026-10-24T11:32:23-05:00",
+  "palabras": "",
+  "lead": "Con el Decreto 1591, expedido el pasado 22 de octubre, los cuatro oficiales fueron reincorporados al servicio activo y quedaron incluidos en el proceso de ascenso al generalato.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Marta espera más de 31.000 pasajeros durante la temporada de cruceros 2026-2027",
+  "enlace": "https://caracol.com.co/2026/10/24/santa-marta-espera-mas-de-31000-pasajeros-durante-la-temporada-de-cruceros-2026-2027/",
+  "fecha": "2026-10-24T11:40:43-05:00",
+  "palabras": "",
+  "lead": "La programación comenzará el 3 de noviembre y se extenderá hasta el 18 de abril de 2027, con 29 fechas de arribos y embarcaciones de reconocidas líneas internacionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Una cooperativa adeuda salarios a 60 trabajadores del hospital La Misericordia de Calarcá, Quindío",
+  "enlace": "https://caracol.com.co/2026/10/24/una-cooperativa-adeuda-salarios-a-60-trabajadores-del-hospital-la-misericordia-de-calarca-quindio/",
+  "fecha": "2026-10-24T11:34:45-05:00",
+  "palabras": "",
+  "lead": "Los trabajadores denuncian que se comprometen con los pagos pero no han cumplido, piden intervención de la gobernación del Quindío y el ministerio del trabajo",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "‘Pacientes Colombia’ hace un llamado al Gobierno nacional y pone tres temas urgentes sobre la mesa",
+  "enlace": "https://caracol.com.co/2026/10/24/pacientes-colombia-hace-un-llamado-al-gobierno-nacional-y-pone-tres-temas-urgentes-sobre-la-mesa/",
+  "fecha": "2026-10-24T11:19:02-05:00",
+  "palabras": "",
+  "lead": "La primera y más urgente preocupación de los pacientes son los recursos para la salud.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Day Vásquez denuncia agresión contra su hijo y pide intervención de las autoridades",
+  "enlace": "https://caracol.com.co/2026/10/24/day-vasquez-denuncia-agresion-contra-su-hijo-y-pide-intervencion-de-las-autoridades/",
+  "fecha": "2026-10-24T11:03:19-05:00",
+  "palabras": "",
+  "lead": "Vásquez es una de las principales colaboradoras de la Fiscalía en el proceso judicial contra Nicolás Petro",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hurto en Cali: patrullera de 20 años entre la vida y la muerte tras enfrentar a delincuentes",
+  "enlace": "https://caracol.com.co/2026/10/24/hurto-en-cali-patrullera-de-20-anos-entre-la-vida-y-la-muerte-tras-enfrentar-a-delincuentes/",
+  "fecha": "2026-10-24T11:03:18-05:00",
+  "palabras": "",
+  "lead": "La uniformada, oriunda de Montería y con un año en la Policía, recibió un disparo en la cabeza durante un enfrentamiento con presuntos ladrones y permanece bajo pronóstico reservado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fiscalía abre indagación a Matador por insultos primera dama",
+  "enlace": "https://www.lafm.com.co/orden-publico/fiscalia-abre-indagacion-matador-insultos-ana-lucia-pineda-primera-dama-415038",
+  "fecha": "2026-10-24T11:27:00-05:00",
+  "palabras": "Orden Público,Gobierno,Abelardo de la Espriella,Matador",
+  "lead": "La actuación se originó en una serie de publicaciones que Matador hizo en su cuenta de X el pasado 11 de octubre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Arsenal 2-0 Everton: resumen, goles y posiciones; fecha 8 Premier League",
+  "enlace": "https://www.lafm.com.co/deportes/arsenal-everton-premier-league-resumen-goles-415043",
+  "fecha": "2026-10-24T11:01:00-05:00",
+  "palabras": "Deportes,Premier League,Arsenal,Everton,Fútbol,Liga Inglesa",
+  "lead": "Los dirigidos por Mikel Arteta llegaron a 21 puntos, los mismos del Manchester City que cayó más temprano en su visita al Aston Villa.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Manizales modelo en planes de reconstruccion tras el sismo",
+  "enlace": "https://www.lafm.com.co/actualidad/manizales-fondo-milagro-ejemplo-gestion-terremoto-415042",
+  "fecha": "2026-10-24T10:53:00-05:00",
+  "palabras": "Actualidad,MANIZALES,Terremoto en Colombia,Superación personal",
+  "lead": "Durante el encuentro con las directivas, se puso a la ciudad como modelo para las demás zonas del país tras lo ocurrido por el sismo del 10 de agosto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medellín presenta los detalles del Escudo de las Américas",
+  "enlace": "https://www.lafm.com.co/orden-publico/medellin-presenta-los-detalles-del-escudo-de-las-americas-pentagono-seguridad-415041",
+  "fecha": "2026-10-24T10:52:00-05:00",
+  "palabras": "Orden Público,Medellín, Colombia,plan de seguridad nacional,Federico Gutiérrez,Ministerio de Defensa",
+  "lead": "El anuncio se conoce mientras avanza la construcción del Centro de Control, Cómputo, Comunicación y Contacto con la Ciudadanía, conocido como C5i.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liga Betplay: duras protestas contra jugadores de Junior en Barranquilla",
+  "enlace": "https://www.lafm.com.co/deportes/hinchas-junior-protesta-malos-resultados-liga-betplay-bquilla-415039",
+  "fecha": "2026-10-24T10:29:00-05:00",
+  "palabras": "Deportes,Atlético Junior,Junior,Barranquilla,Liga BetPlay",
+  "lead": "El hecho tuvo lugar en el estadio Romelio Martínez durante el juego contra Águilas Doradas por la fecha 16 de la Liga Betplay.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Emergencia en Moniquirá (Boyacá) por hundimiento de tierra",
+  "enlace": "https://www.lafm.com.co/actualidad/emergencia-en-moniquira-por-hundimiento-de-tierra-415036",
+  "fecha": "2026-10-24T10:12:00-05:00",
+  "palabras": "Actualidad,Emergencia,deslizamientos,Fenómeno de El Niño,Boyacá",
+  "lead": "\"Se grietó, se trago una finca\": como inexplicable describe campesino el hundimiento de tierra en Moniquirá (Boyacá)",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Eder reacciona a renuncia de Mabel Lara a Alcaldía de Cali",
+  "enlace": "https://www.lafm.com.co/actualidad/mabel-lara-dejo-su-cargo-en-alcaldia-de-cali-415035",
+  "fecha": "2026-10-24T10:09:00-05:00",
+  "palabras": "Actualidad,Alcaldía de Cali,Periodista,Cali, Colombia,Renuncia de funcinarios",
+  "lead": "Mabel Lara renunció a su cargo en la Alcaldía de Cali. Alejandro Eder reaccionó y le agradeció por su gestión durante los últimos años",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
