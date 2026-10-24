@@ -205,7 +205,7 @@
   "palabras": "Antioquia, Medellín, EPM, Costa Caribe",
   "lead": "El gerente John Maya pidió “decisiones radicales” que incluso deriven en extinciones de dominio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Francia",
   "lead": "El Gobierno anunció la movilización de 70.000 policías y gendarmes en todo el país, después de los disturbios, destrozos y saqueos registrados la semana pasada.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "El proyecto recorrió siete municipios y articuló a entidades del sector turístico alrededor de nuevas oportunidades para los empresarios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "El de Bogotá será el primer metro en Colombia que funcionará sin conductor, es decir, 100% automatizado, pero no hay un marco legal en el país que lo respalde",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "El pronunciamiento lo hizo en el marco del Congreso Colombiano de la Construcción 2026 de Camacol",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "El jefe del Ministerio Público destacó la importancia de la independencia de los poderes, la prevención y la confianza entre el Estado y el sector privado",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,6 +271,149 @@
   "palabras": "",
   "lead": "Desde el Congreso de Asocajas en Cartagena, Gregorio Eljach se refirió a los posibles actos de corrupción que se habrían cometido en el archipiélago",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobernación de Antioquia anunció construcción de vivienda para familia de cuatrillizos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobernacion-de-antioquia-anuncio-construccion-de-vivienda-para-familia-de-cuatrillizos-rg10",
+  "fecha": "2026-10-24T07:35:46-05:00",
+  "palabras": "Antioquia, Gobernación de Antioquia, Andrés Julián Rendón, Bajo Cauca",
+  "lead": "La Empresa de Vivienda y la Alcaldía de Caucasia adquirieron un lote cercano al sector donde actualmente reside la familia, con el fin de iniciar la edificación de la vivienda propia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mujer de 80 años fue víctima de robo tras salir de banco en el Urabá antioqueño",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/mujer-de-80-anos-fue-victima-de-robo-tras-salir-de-banco-en-el-uraba-antioqueno-rg10",
+  "fecha": "2026-10-24T07:42:20-05:00",
+  "palabras": "Antioquia, Urabá, Policía Nacional, Robos",
+  "lead": "La adulta mayor fue despojada de la indemnización con la que planeaba reparar su casa deteriorada en Apartadó, y hoy suplica a los ladrones que le devuelvan su dinero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Los jóvenes están en las calles por Lula”: explican qué puede definir las elecciones en Brasil",
+  "enlace": "https://www.bluradio.com/mundo/los-jovenes-estan-en-las-calles-por-lula-explican-que-puede-definir-las-elecciones-en-brasil-so35",
+  "fecha": "2026-10-24T07:19:48-05:00",
+  "palabras": "Brasil, Luiz Inacio Lula da Silva, Jair Bolsonaro",
+  "lead": "Leandro Ferreira analizó el último debate, el impacto de las redes sociales y las consecuencias regionales de una victoria de Lula o Bolsonaro.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Patrullera permanece en UCI tras enfrentamiento armado que dejó un delincuente muerto en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/patrullera-permanece-en-uci-tras-enfrentamiento-armado-que-dejo-un-delincuente-muerto-en-cali-rg10",
+  "fecha": "2026-10-24T07:31:35-05:00",
+  "palabras": "",
+  "lead": "María José Recuero resultó gravemente herida junto a otro policía en un enfrentamiento con dos presuntos asaltantes en el barrio Municipal, comuna 9 de Cali. Uno murió y otro fue capturado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cuatro meses esperando una cirugía: el drama de una mujer arrollada por un conductor ebrio",
+  "enlace": "https://www.bluradio.com/regiones/caribe/cuatro-meses-esperando-una-cirugia-el-drama-de-una-mujer-arrollada-por-un-conductor-ebrio-rg10",
+  "fecha": "2026-10-24T07:46:33-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, EPS Sanitas, Ministerio de Salud, Pacientes Colombia",
+  "lead": "Familiares de Jackeline Altamar denuncian que Sanitas EPS no ha autorizado una intervención de trasplante de cadera. Gerente regional fue sancionada con 3 días de arresto por no acatar el fallo de tutela que ordena la operación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sebastián Viera explicó las razones de la ausencia de Teófilo Gutiérrez en el juego ante Águilas",
+  "enlace": "https://caracol.com.co/2026/10/24/sebastian-viera-explico-las-razones-de-la-ausencia-de-teofilo-gutierrez-en-el-juego-ante-aguilas/",
+  "fecha": "2026-10-24T07:47:09-05:00",
+  "palabras": "",
+  "lead": "El técnico también comentó acerca de su fútbol defensivo y la importancia de cerrar los partidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Doble homicidio en el municipio de Tibú",
+  "enlace": "https://caracol.com.co/2026/10/24/doble-homicidio-en-el-municipio-de-tibu/",
+  "fecha": "2026-10-24T07:46:14-05:00",
+  "palabras": "",
+  "lead": "Crece la preocupación por la violencia en el Catatumbo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Brasil: Lula y Bolsonaro tienen un último debate moderado buscando el voto de los indecisos",
+  "enlace": "https://caracol.com.co/2026/10/24/brasil-lula-y-bolsonaro-tienen-un-ultimo-debate-moderado-buscando-el-voto-de-los-indecisos/",
+  "fecha": "2026-10-24T07:10:11-05:00",
+  "palabras": "",
+  "lead": "A pesar de que el segundo y último debate se concentró más en las propuestas, los candidatos mantuvieron los ataques y acusaciones de corrupción.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla busca posicionarse como destino de bodas en Colombia",
+  "enlace": "https://caracol.com.co/2026/10/24/barranquilla-busca-posicionarse-como-destino-de-bodas-en-colombia/",
+  "fecha": "2026-10-24T07:38:20-05:00",
+  "palabras": "",
+  "lead": "la ciudad realizó su primera Wedding Gala, una experiencia que recreó una boda real en el Pabellón de Cristal del Gran Malecón",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos personas fueron asesinadas en Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/24/dos-personas-fueron-asesinadas-en-cucuta/",
+  "fecha": "2026-10-24T07:33:14-05:00",
+  "palabras": "",
+  "lead": "Los hechos violentos se generaron a través del sicariato",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hurto en Cali deja tres policías heridos, un presunto delincuente muerto y otro capturado",
+  "enlace": "https://caracol.com.co/2026/10/24/hurto-en-cali-deja-tres-policias-heridos-un-presunto-delincuente-muerto-y-otro-capturado/",
+  "fecha": "2026-10-24T07:20:34-05:00",
+  "palabras": "",
+  "lead": "Una patrullera recibió un disparo y permanece en estado crítico en una UCI",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Francia activa célula de crisis ante nueva jornada de protestas",
+  "enlace": "https://caracol.com.co/2026/10/24/francia-activa-celula-de-crisis-ante-nueva-jornada-de-protestas/",
+  "fecha": "2026-10-24T07:20:21-05:00",
+  "palabras": "",
+  "lead": "Las autoridades francesas han tomado una serie de medidas para evitar vivir una jornada de violencia como la registrada en el pasado fin de semana.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Crisis de Afinia amenaza las finanzas de Medellín",
+  "enlace": "https://www.lafm.com.co/actualidad/crisis-afinia-finanzas-medellin-peores-negocios-epm-415018",
+  "fecha": "2026-10-24T06:38:00-05:00",
+  "palabras": "Actualidad,Afinia,EPM,junta directiva de EPM,Medellín, Colombia",
+  "lead": "“Uno de los peores negocios en la historia de EPM”: la crisis de Afinia amenaza las finanzas de Medellín",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
