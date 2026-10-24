@@ -1954,7 +1954,7 @@
   "palabras": "Ministerio de Defensa, Medellín, Estados Unidos",
   "lead": "La ciudad albergará un centro de operaciones para coordinar esfuerzos de seguridad y defensa entre 19 países del hemisferio occidental.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Cali, Policía Nacional",
   "lead": "María José Recuero, de 20 años, oriunda de Montería, Córdoba, estuvo en la UCI por un disparó en la cabeza en medio de un procedimiento en el que también resultaron lesionados otros dos policías.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "Valle del Cauca, Policía Nacional",
   "lead": "De los 33 detenidos en El Cerrito, nueve escaparon de la estación de Policía. Alias ‘Suricato’ fue recapturado rumbo a Guacarí y otro fugado se entregó nuevamente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "Viral, Matrimonio, TransmiCable",
   "lead": "La propuesta de matrimonio convirtió una de las cabinas en el escenario de un compromiso que sorprendió a la mujer y quedó registrado en las imágenes divulgadas por el IDU.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Minería",
   "lead": "El Ministerio de Minas argumentó falta de resultados, incertidumbre jurídica y ausencia de alternativas económicas para las comunidades.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "",
   "lead": "A sus 46 años, el astro brasileño volverá a disputar un partido en el profesionalismo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "",
   "lead": "La intervención se realizó en sectores como El Campestre, El Country, El Socorro y El Ruby",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "",
   "lead": "El director de Moon Entertainment y manager internacional de Fausto Chatella sumó dos distinciones a sus más de 25 años en la industria musical",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "También restringió la circulación de motocicletas en el Gran Malecón durante dos fines de semana",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "DIMAYOR por fin anunció la programación del duelo copero.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "",
   "lead": "El paso restringido está entre El Peñón y Sucre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "",
   "lead": "El Black Friday 2026 es una oportunidad excepcional para los consumidores colombianos y el sector económico para hacer sus compras de fin de año",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "",
   "lead": "Había recibido un disparo en la cabeza.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "",
   "lead": "La cuota varia según el tipo de producto bajo el cual se solicita el prestamo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "",
   "lead": "Prosperidad Social confirmó que cerca de 2.850.685 personas mayores recibirán una transferencia monetaria de hasta $230.000.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "",
   "lead": "Los elementos usados no pertenecían a la Policía Nacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,7 +2130,7 @@
   "palabras": "Internacional,Control en fronteras,María Corina Machado,Venezuela,Colombia,Estados Unidos,NTN 24",
   "lead": "Según explicó, el movimiento habría ocurrido después de que las autoridades recibieran información sobre un posible ingreso de Machado.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2141,7 +2141,7 @@
   "palabras": "Internacional,Venezuela,terremoto,Pobreza,Caracas",
   "lead": "Los dos fuertes sismos del 24 de junio dejaron al descubierto una crisis económica que ha empobrecido incluso a quienes vivieron la bonanza petrolera.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2152,6 +2152,204 @@
   "palabras": "Sociedad,Estados Unidos,Bandas de crimen organizado,Colombia,Medellín, Colombia,Antioquia",
   "lead": "El espacio físico para la toma de decisiones contra los carteles funcionará en el C5i, que lleva un 44 % de avance y será entregado en mayo de 2027.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado de Paisita Noche del último sorteo hoy sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-de-paisita-noche-del-ultimo-sorteo-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T16:11:19-05:00",
+  "palabras": "Paisita Noche, Resultados del chance, Chances y Loterías, Paisita Noche hoy, Resultados Paisita Noche, Resultados del chance , Resultados hoy",
+  "lead": "El Paisita Noche realiza sorteos diarios. Consulte el resultado de este sábado 24 de octubre de 2026 y verifique su tiquete.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cuatro exdirectoras de la Biblioteca Nacional alertan riesgos para políticas de lectura y patrimonio",
+  "enlace": "https://www.bluradio.com/nacion/cuatro-exdirectoras-de-la-biblioteca-nacional-alertan-riesgos-para-politicas-de-lectura-y-patrimonio-rg10",
+  "fecha": "2026-10-24T16:18:24-05:00",
+  "palabras": "Libros",
+  "lead": "Hacen advertencias frente a las recientes decisiones del Ministerio de Cultura. Piden que las decisiones del sector se tomen con criterios técnicos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Impactante video muestra el momento exacto del accidente que dejó un muerto y 16 heridos en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/impactante-video-muestra-el-momento-exacto-del-accidente-que-dejo-un-muerto-y-16-heridos-en-medellin-rs15",
+  "fecha": "2026-10-24T17:00:57-05:00",
+  "palabras": "Medellín, Accidente de tránsito",
+  "lead": "El bus transportaba a 48 pasajeros que iban a una peregrinación religiosa hacia Guarne. Las autoridades investigan una posible falla mecánica como causa del siniestro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murió famoso fisicoculturista tras desplomarse en una competencia a pocas horas de cumplir 34 años.",
+  "enlace": "https://www.bluradio.com/mundo/murio-famoso-fisicoculturista-tras-desplomarse-en-una-competencia-a-pocas-horas-de-cumplir-34-anos-so35",
+  "fecha": "2026-10-24T16:42:20-05:00",
+  "palabras": "Inglaterra, Viral",
+  "lead": "El deportista fue atendido en el lugar y trasladado a un centro hospitalario, pero no logró sobrevivir.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ocho meses sin respuesta de la CAR Sumapaz tienen en vilo a más de 400 familias en Fusagasugá",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/ocho-meses-sin-respuesta-de-la-car-sumapaz-tienen-en-vilo-a-mas-de-400-familias-en-fusagasuga-rg10",
+  "fecha": "2026-10-24T16:56:34-05:00",
+  "palabras": "Fusagasugá",
+  "lead": "Propietarios del proyecto de vivienda Sueños Campestres piden a la entidad ambiental definir si sus predios tienen afectaciones. La constructora estima pérdidas por $12.500 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hospital de Elías invierte $1.000 millones en tres puestos de salud rurales",
+  "enlace": "https://caracol.com.co/2026/10/24/hospital-de-elias-invierte-1000-millones-en-tres-puestos-de-salud-rurales/",
+  "fecha": "2026-10-24T16:55:17-05:00",
+  "palabras": "",
+  "lead": "La ESE Hospital San Francisco de Asís adelanta adecuaciones en Paso de Maito, El Viso y Potrerillos, y proyecta ampliar sus instalaciones para habilitar el servicio de urgencias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En el centro del Cauca el Ejército frustró un ataque de enjambre de drones",
+  "enlace": "https://caracol.com.co/2026/10/24/en-el-centro-del-cauca-el-ejercito-frustro-un-ataque-de-enjambre-de-drones/",
+  "fecha": "2026-10-24T16:57:58-05:00",
+  "palabras": "",
+  "lead": "La acción terrorista fue evitada tras la ubicación y destrucción de 35 artefactos explosivos improvisados en el corregimiento de Ortega en el municipio de Cajibío, Cauca.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ANT inspeccionó el predio Isla Fiesta, en Cartagena: Reportó deterioro en sus instalaciones",
+  "enlace": "https://caracol.com.co/2026/10/24/ant-inspecciono-el-predio-isla-fiesta-en-cartagena-y-reporto-deterioro-en-sus-instalaciones/",
+  "fecha": "2026-10-24T16:28:59-05:00",
+  "palabras": "",
+  "lead": "El caso también involucra una controversia jurídica entre la ANT y el empresario que ocupaba el inmueble.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Osman presenta su EP titulado “Marea” un homenaje a sus raíces cartageneras",
+  "enlace": "https://caracol.com.co/2026/10/24/osman-presenta-su-ep-titulado-marea-un-homenaje-a-sus-raices-cartageneras/",
+  "fecha": "2026-10-24T16:27:40-05:00",
+  "palabras": "",
+  "lead": "El cartagenero presenta su EP que está conformado por seis canciones dedicados a la música de su ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Funcionarios de Turbaco se capacitaron en enfoque de género y derechos humanos",
+  "enlace": "https://caracol.com.co/2026/10/24/funcionarios-de-turbaco-se-capacitaron-en-enfoque-de-genero-y-derechos-humanos/",
+  "fecha": "2026-10-24T16:14:00-05:00",
+  "palabras": "",
+  "lead": "El taller abordó la prevención de violencias basadas en género, la equidad y la atención institucional con enfoque diferencia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La conquista de lo inútil”: el documental que responde a la polémica de “Topos”",
+  "enlace": "https://caracol.com.co/2026/10/24/la-conquista-de-lo-inutil-el-documental-que-responde-a-la-polemica-de-topos/",
+  "fecha": "2026-10-24T16:07:46-05:00",
+  "palabras": "",
+  "lead": "La película “Topos”, en 2020, se vio envuelta en señalamientos y acusaciones que obstaculizaron su realización. Supuestas amenazas graves llevaron a que se quedara en un proyecto que luego evolucionó en dos versiones de una misma historia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MC CAR lanzó “11:10”, una canción que celebra la soltería al ritmo de la champeta",
+  "enlace": "https://caracol.com.co/2026/10/24/mc-car-lanzo-1110-una-cancion-que-celebra-la-solteria-al-ritmo-de-la-champeta/",
+  "fecha": "2026-10-24T16:05:35-05:00",
+  "palabras": "",
+  "lead": "El artista cartagenero se unió a Los de la X en un sencillo que fusiona cumbia, trompeta y sonidos característicos del Caribe",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Qué falta para que Yeison Guzmán sea adquirido por el América: esto reveló su director deportivo",
+  "enlace": "https://caracol.com.co/2026/10/24/que-falta-para-que-yeison-guzman-sea-adquirido-por-el-america-esto-revelo-su-director-deportivo/",
+  "fecha": "2026-10-24T16:03:47-05:00",
+  "palabras": "",
+  "lead": "Iván Vélez aclaró además los rumores sobre la supuesta salida de Tomás Ángel.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cemento País cerró su participación en Camacol 2026",
+  "enlace": "https://caracol.com.co/2026/10/24/cemento-pais-cerro-su-participacion-en-camacol-2026/",
+  "fecha": "2026-10-24T16:01:06-05:00",
+  "palabras": "",
+  "lead": "La compañía destacó el potencial de 1.424 proyectos habitacionales valorados en $98 billones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente del Senado se reunió con gremios de Santa Marta para impulsar la recuperación del turismo",
+  "enlace": "https://caracol.com.co/2026/10/24/presidente-del-senado-se-reunio-con-gremios-de-santa-marta-para-impulsar-la-recuperacion-del-turismo/",
+  "fecha": "2026-10-24T16:00:00-05:00",
+  "palabras": "",
+  "lead": "Honorio Henríquez sostuvo un encuentro con representantes de los sectores hotelero, comercial, gastronómico y del Centro Histórico, junto con autoridades locales, para escuchar sus necesidades y abordar los desafíos que enfrenta la actividad turística en la capital del Magdalena.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia Mayor: pago de hasta $230.000 inicia el miércoles",
+  "enlace": "https://www.lafm.com.co/sociedad/subsidio-adulto-mayor-prosperidad-social-cronograma-cobro-415063",
+  "fecha": "2026-10-24T16:28:00-05:00",
+  "palabras": "Sociedad,Departamento de Prosperidad Social,adulto mayor,Colombia",
+  "lead": "Prosperidad Social iniciará un nuevo ciclo de pagos del programa Colombia Mayor a partir de este miércoles 28 de octubre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SIM swapping, la técnica para robar su línea telefónica",
+  "enlace": "https://www.lafm.com.co/sociedad/sim-swapping-duplicar-tarjeta-sim-robo-linea-estafa-415066",
+  "fecha": "2026-10-24T16:21:00-05:00",
+  "palabras": "Sociedad,Estafa,ciberseguridad,Celular,Cuentas bancarias",
+  "lead": "El número telefónico debe protegerse con el mismo cuidado que el número de cédula, advierte experto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría señala a exdirectora de Corpourabá por maderas",
+  "enlace": "https://www.lafm.com.co/actualidad/procuraduria-formula-cargos-contra-exdirectora-de-corpouraba-por-irregularidades-con-material-forestal-415059",
+  "fecha": "2026-10-24T14:58:00-05:00",
+  "palabras": "Actualidad,Urabá,Golfo de Urabá,Medio ambiente,Procuraduría General de la Nación",
+  "lead": "Procuraduría formula cargos contra exdirectora de Corpourabá por presuntas irregularidades con material forestal",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
