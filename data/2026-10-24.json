@@ -2361,7 +2361,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "Escuche las mejores recomendaciones para planear viajes seguros y conscientes, conectando la tradición, el descanso y la aventura con todos los sentidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "IVA",
   "lead": "El objetivo principal del proyecto de ley del sector gastronómico colombiano es optimizar el marco regulatorio, simplificar los trámites administrativos y fomentar la competitividad y formalización de esta industria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "Agencia Nacional de Tierras",
   "lead": "La directora de la ANT, Lina María Garrido, responsabilizó a la administración de Felipe Harman por la falta de protección del inmueble, mientras que la Corte Constitucional revisa la legalidad de la recuperación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,7 +2394,7 @@
   "palabras": "",
   "lead": "El equipo heroico igualó 1-1 ante Barranquilla FC",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2405,7 +2405,7 @@
   "palabras": "",
   "lead": "El cuadro cardenal venció en la tanda de penales al Palmeiras brasileño.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "",
   "lead": "Esta última semana de octubre vence el plazo para el pago de la declaración de renta, tenga en cuenta las fechas para evitar multas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "",
   "lead": "El plantel escarlata quiere volver a ser líder mientras que el Cúcuta buscará mantenerse entre los ocho.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,7 +2438,7 @@
   "palabras": "",
   "lead": "Este 23, 24 y 25 de octubre se lleva a cabo la edición número 25 de Ibagué Ciudad Rock, uno de los festivales musicales más representativos del Tolima",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2449,7 +2449,7 @@
   "palabras": "",
   "lead": "Este 24 de octubre se conmemora el Día de las Naciones Unidas, una fecha que recuerda la entrada en vigor de la Carta de la ONU, en 1945",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2460,7 +2460,7 @@
   "palabras": "",
   "lead": "El Gobierno alertó sobre la falta de recursos para subsidios tras la reconstrucción del terremoto",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2470,6 +2470,94 @@
   "fecha": "2026-10-24T11:00:00-05:00",
   "palabras": "Política,JEP,Defensoría del Pueblo,Rectificación,Víctimas,Reparación de víctimas,Bienes inmuebles",
   "lead": "La senadora María Clara Posada rechazó que se pretenda someter sus opiniones a la interpretación que considera la defensora del Pueblo.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lula y Flávio Bolsonaro cierran sus campañas con actos masivos y empatados en los sondeos",
+  "enlace": "https://www.bluradio.com/mundo/lula-y-flavio-bolsonaro-cierran-sus-campanas-con-actos-masivos-y-empatados-en-los-sondeos-cb20",
+  "fecha": "2026-10-24T18:12:13-05:00",
+  "palabras": "Luiz Inacio Lula da Silva, Flávio Bolsonaro, Elecciones Brasil, Brasil, Cierre de campaña, Elecciones Brasil, Flávio Bolsonaro, Luiz Inácio Lula da Silva, Lula, Movilizaciones",
+  "lead": "El país latinoamericano vive una jornada decisiva, con multitudes en el cierre de campañas presidenciales y una contienda marcada por la polarización y la expectativa de un resultado ajustado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcaldía de Santa Marta declaró alerta roja por inundaciones y riesgo de crecientes en varios ríos",
+  "enlace": "https://www.bluradio.com/regiones/caribe/alcaldia-de-santa-marta-declaro-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-en-varios-rios-rg10",
+  "fecha": "2026-10-24T18:39:33-05:00",
+  "palabras": "Santa Marta",
+  "lead": "Las lluvias han causado inundaciones en distintos sectores de la capital del Magdalena y las autoridades mantienen vigilancia sobre varios afluentes ante la posibilidad de aumentos repentinos en sus niveles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno designó a Ricardo Arias Macías como consejero presidencial para los Derechos Humanos",
+  "enlace": "https://caracol.com.co/2026/10/24/gobierno-designo-a-ricardo-arias-macias-como-consejero-presidencial-para-los-derechos-humanos/",
+  "fecha": "2026-10-24T18:53:07-05:00",
+  "palabras": "",
+  "lead": "Se trata de Ricardo Arias Macias, excandidato a la Cámara por Bogotá en las pasadas elecciones legislativas por el partido Colombia Justa y Libres",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Torneo de Ascenso en Colombia: partidos, resultados y equipos clasificados a cuadrangulares finales",
+  "enlace": "https://caracol.com.co/2026/10/24/torneo-de-ascenso-en-colombia-partidos-resultados-y-equipos-clasificados-a-cuadrangulares-finales/",
+  "fecha": "2026-10-24T18:34:16-05:00",
+  "palabras": "",
+  "lead": "Se definieron los ocho equipos que disputarán el título del segundo semestre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo inscribirse en la ESAP para el semestre 2027-1? Conozca las fechas, los requisitos y programas",
+  "enlace": "https://caracol.com.co/2026/10/24/como-inscribirse-en-la-esap-para-el-semestre-2027-1-conozca-las-fechas-los-requisitos-y-programas/",
+  "fecha": "2026-10-24T18:27:55-05:00",
+  "palabras": "",
+  "lead": "La entidad educativa pública hizo oficial la apertura de inscripciones para el año 2027, además de publicar la lista de oferta académica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ARL puede cubrir accidentes antes de la jornada laboral: casos",
+  "enlace": "https://www.lafm.com.co/sociedad/corte-suprema-de-justicia-arl-cubrir-accidentes-jornada-laboral-casos-415071",
+  "fecha": "2026-10-24T18:39:00-05:00",
+  "palabras": "Sociedad,ARL,Corte Suprema de Justicia,Ministerio del Trabajo,Trabajadores,Empresas",
+  "lead": "Así lo explicó la Corte Suprema de Justicia en la Sentencia SL852-2026, al estudiar el caso de un hombre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ICBF denuncia 'elefante blanco' de la entidad: obra paralizada en Bogotá compromete $4.600 millones",
+  "enlace": "https://www.lafm.com.co/actualidad/obra-icbf-rafael-uribe-uribe-sigue-sin-terminar-tras-millonaria-inversion-415072",
+  "fecha": "2026-10-24T18:05:00-05:00",
+  "palabras": "Actualidad,Obras inconclusas,ICBF,Alcaldía de Bogotá,Proyectos sostenibles,Rafael Uribe Uribe",
+  "lead": "Según la entidad, otro contrato también presenta incumplimientos. La obra registra un avance del 76 %.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Embellecimiento de un parque desata polémica por cobros",
+  "enlace": "https://www.lafm.com.co/actualidad/concejal-denuncia-a-ingeniero-por-presunto-cobro-a-contratistas-en-antonio-narino-415068",
+  "fecha": "2026-10-24T16:44:00-05:00",
+  "palabras": "Actualidad,Inseguridad,Contratación,Concejal,Concejo de Bogotá,Alcaldía de Bogotá,Carlos Fernando Galán",
+  "lead": "El concejal pidió explicaciones a las autoridades distritales y reclamó que se investiguen los hechos para determinar posibles responsabilidades.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
