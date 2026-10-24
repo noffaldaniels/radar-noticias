@@ -425,7 +425,7 @@
   "palabras": "Buenaventura, Unidad Nacional de Protección UNP",
   "lead": "La primera intervención es en el barrio La Comuna, donde fue demolida una edificación de tres pisos, también se adelantarán trabajos en el sector del Eucarístico con tres frentes de trabajo simultáneos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Francia",
   "lead": "Pascal Droujot analizó las protestas por el costo de vida, los disturbios y la polarización política a seis meses de las elecciones presidenciales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "El mandatario aseguró que son por lo menos 20 departamentos los que se podrían beneficiar.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El portero de Boca Juniors expresó su cariño por el equipo Embajador y aseguró que no se pierde ninguno de sus partidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "Llaman la atención de los grupos guerrilleros a respetar el DIH",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "La presidencia del Congreso anunció que ya comenzaron las investigaciones para encontrar a los responsables. Hasta el momento, han logrado identificar 2 líneas telefónicas que estarían implicadas en la suplantación",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "Alcalde reclama más compromiso de las autoridades",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "La víctima se encontraba realizando gestiones dentro de la entidad",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "Jhady Sofía Osorio Mesa fue hallada sin vida en septiembre. La Gobernación pidió investigar la hipótesis de feminicidio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,6 +524,116 @@
   "palabras": "Política,Rodrigo Lara,Abelardo de la Espriella,Ministerio del interior",
   "lead": "María José Valenzuela descartó que la salida de Rodrigo Lara del Gobierno estuviera relacionada con una candidatura en Bogotá y aseguró que hubo desacuerdo...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Autoridades intervienen tres puntos críticos del río Medellín para evitar emergencias",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/autoridades-intervienen-tres-puntos-criticos-del-rio-medellin-para-evitar-emergencias-rg10",
+  "fecha": "2026-10-24T08:50:08-05:00",
+  "palabras": "Valle de Aburrá, Medellín, Emergencias por lluvias",
+  "lead": "Las acciones incluyen limpieza de zonas verdes, desmonte de cambuches y retiro de residuos sólidos en las orillas del afluente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 200 equipos de salud no están desplegados atendiendo pacientes en Antioquia, ¿qué pasó?",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/mas-de-200-equipos-de-salud-no-estan-desplegados-atendiendo-pacientes-en-antioquia-que-paso-rg10",
+  "fecha": "2026-10-24T08:42:58-05:00",
+  "palabras": "Ministerio de Salud, Antioquia, Gobernación de Antioquia, Salud",
+  "lead": "La denuncia la hizo el diputado Jorge Correa durante un debate de control político, ante un presupuesto reportado por el gobierno anterior por $659.000 millones destinados a ese programa.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nueva jornada de manifestaciones en Francia: Noticias de la Mañana, 24 de octubre 2026",
+  "enlace": "https://www.bluradio.com/noticias-de-la-manana/nueva-jornada-de-manifestaciones-en-francia-noticias-de-la-manana-24-de-octubre-2026-so35",
+  "fecha": "2026-10-24T08:21:29-05:00",
+  "palabras": "Programas, Podcast",
+  "lead": "En Noticias de la Mañana del sábado, 24 de octubre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Defensoría denuncia ataques contra magistrada de la JEP, Julieta Lemaitre, y pide rectificaciones",
+  "enlace": "https://www.bluradio.com/nacion/defensoria-denuncia-ataques-contra-magistrada-de-la-jep-julieta-lemaitre-y-pide-rectificaciones-rg10",
+  "fecha": "2026-10-24T08:37:19-05:00",
+  "palabras": "Defensoría del Pueblo, JEP",
+  "lead": "La defensora del pueblo, Iris Marín, advirtió que los ataques personales y las expresiones basadas en estereotipos de género contra la magistrada pueden afectar la autonomía judicial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades investigan presunto caso de secuestro en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/24/autoridades-investigan-presunto-caso-de-secuestro-en-el-catatumbo/",
+  "fecha": "2026-10-24T08:47:28-05:00",
+  "palabras": "",
+  "lead": "No hay pistas de joven que se desplazaba al municipio de Tibú",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Minería ilegal amenaza el agua de Cali: lanzan alerta en la ONU mientras la ciudad entrega la COP16",
+  "enlace": "https://caracol.com.co/2026/10/24/mineria-ilegal-amenaza-el-agua-de-cali-lanzan-alerta-en-la-onu-mientras-la-ciudad-entrega-la-cop16/",
+  "fecha": "2026-10-24T08:45:45-05:00",
+  "palabras": "",
+  "lead": "La contaminación por mercurio en los Farallones de Cali pone en riesgo las fuentes hídricas de más de 600 mil usuarios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Floridablanca se prepara para sus ferias y fiestas: habrá más de 60 actividades gratuitas",
+  "enlace": "https://caracol.com.co/2026/10/24/floridablanca-se-prepara-para-sus-ferias-y-fiestas-habra-mas-de-60-actividades-gratuitas/",
+  "fecha": "2026-10-24T08:44:58-05:00",
+  "palabras": "",
+  "lead": "El municipio celebrará sus 209 años de historia con una programación cultural, gastronómica, deportiva y musical entre el 7 y el 15 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos revela nuevos reportes de avistamientos de ovnis",
+  "enlace": "https://caracol.com.co/2026/10/24/estados-unidos-revela-nuevos-reportes-de-avistamientos-de-ovnis/",
+  "fecha": "2026-10-24T08:39:34-05:00",
+  "palabras": "",
+  "lead": "El nuevo paquete de informes presenta reportes registrados durante el siglo XX, muchos de ellos cerca de California.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente del Senado denuncia suplantación de identidad",
+  "enlace": "https://www.lafm.com.co/politica/presidente-senado-honorio-henriquez-denuncia-suplantacion-identidad-415020",
+  "fecha": "2026-10-24T07:19:00-05:00",
+  "palabras": "Política,Congreso de la República,Senado de la República,suplantación de identidad,Inteligencia artificial",
+  "lead": "La Presidencia del Congreso identificó dos números telefónicos que no pertenecen al senador y advirtió que están siendo utilizados para suplantar al presid...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medicina Legal confirmó que hubo violencia sexual contra Jhady Sofía",
+  "enlace": "https://www.lafm.com.co/orden-publico/medicina-legal-confirma-violencia-sexual-caso-jhady-sofia-415019",
+  "fecha": "2026-10-24T06:59:00-05:00",
+  "palabras": "Orden Público,Antioquia,Gobernación de Antioquia,recompensa,Medicina Legal",
+  "lead": "La necropsia estableció que la niña de 10 años murió por estrangulamiento y documentó lesiones compatibles con abuso sexual. Ofrecen $100 millones para enc...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
