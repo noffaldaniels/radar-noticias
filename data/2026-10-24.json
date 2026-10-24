@@ -141,5 +141,60 @@
   "seccion": "otras",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La laguna poco conocida por propios y turistas en Antioquia: tiene forma de corazón",
+  "enlace": "https://www.bluradio.com/turismo/la-laguna-poco-conocida-por-propios-y-turistas-en-antioquia-tiene-forma-de-corazon-so35",
+  "fecha": "2026-10-24T06:21:41-05:00",
+  "palabras": "Noticias de hoy, Viajes, Antioquia",
+  "lead": "La ruta, para muchos viajeros, comienza en el Alto del Escobero, al que se llega mediante un bus integrado del sistema Metro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigan asesinato de niña de 10 años en Frontino, Antioquia; habría sido abusada",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/investigan-asesinato-de-nina-de-10-anos-en-frontino-antioquia-fue-abusada-sexualmente-rg10",
+  "fecha": "2026-10-24T06:35:22-05:00",
+  "palabras": "Antioquia, Gobernación de Antioquia, Policía Nacional, Fiscalía General de la Nación, Feminicidio, Abuso sexual Menores de Edad",
+  "lead": "La Gobernación de Antioquia ofreció una recompensa de 100 millones de pesos para esclarecer el atroz crimen.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vincent Kompany estará fuera de las canchas algunas “semanas”: Esto se sabe sobre su estado",
+  "enlace": "https://caracol.com.co/2026/10/24/vincent-kompany-estara-fuera-de-las-canchas-algunas-semanas-esto-se-sabe-sobre-su-estado/",
+  "fecha": "2026-10-24T06:37:21-05:00",
+  "palabras": "",
+  "lead": "Max Eberl, director general deportivo del Bayern Múnich se refirió a la situación del entrenador belga.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se realizó simulacro de emergencia ‘María Mulata 2026′ en el Aeropuerto de Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/24/se-realizo-simulacro-de-emergencia-maria-mulata-2026-en-el-aeropuerto-de-cartagena/",
+  "fecha": "2026-10-24T06:24:47-05:00",
+  "palabras": "",
+  "lead": "El ejercicio, que se llevó a cabo desde la 1:00 a.m. hasta las 2:40 a.m., contó con la participación de alrededor de 500 personas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Francia despliega 70.000 efectivos ante nueva jornada de protestas",
+  "enlace": "https://www.lafm.com.co/internacional/francia-despliega-70000-efectivos-ante-nueva-jornada-de-protestas-415017",
+  "fecha": "2026-10-24T06:12:00-05:00",
+  "palabras": "Internacional,Manifestaciones,Francia,Policía Nacional,Ejército Nacional,Emmanuel Macron",
+  "lead": "El Gobierno prohibió las manifestaciones en varias ciudades, entre ellas Marsella, Lyon y Lille, mientras que en París se autorizó una marcha respaldada po...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
  }
 ]
