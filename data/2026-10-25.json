@@ -1129,7 +1129,7 @@
   "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Chontico Día juega todos los días a la 1:00 p. m. Consulte aquí el número ganador del sorteo de hoy domingo 25 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "Gobierno nacional, Presupuesto Nacional",
   "lead": "El economista advirtió que el Gobierno debe reducir el gasto, revisar beneficios tributarios y combatir la evasión para disminuir el déficit fiscal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "Siete instituciones académicas participan en Del cine a la moda, una iniciativa de Cine Colombia que llevará las creaciones de los estudiantes al centro comercial Titán Plaza el próximo 17 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "El Gobierno activó la ruta institucional de protección para salvaguardar la vida, seguridad e integridad de Deicy Jiménez, luego de las declaraciones que entregó a la Revista Semana, por instrucción expresa del Presidente de la República, Abelardo de la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "El ingeniero barranquillero recibió un reconocimiento internacional por una fotografía aérea que documenta cómo la intervención humana ha transformado un ecosistema en Utah, Estados Unidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "Según las autoridades, los equipos tenían capacidad para extraer oro cuyo valor en el mercado ilegal superaría los mil millones de pesos, mensualmente.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "La fuga ocurrió en el CAI Las Delicias, cerca de la galería central. Las autoridades desplegaron operativos para recapturar a los ocho hombres",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "Tres personas requirieron atención médica ante dificultades por inhalación de humo.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "Una alerta por presuntas detonaciones de arma de fuego llevó a uniformados de la Policía a una vivienda donde escucharon voces de auxilio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "La jornada promovió la detección temprana, el autocuidado y la solidaridad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Sociedad,recomendaciones,Depresión,Sueño",
   "lead": "Los cambios en el ritmo circadiano pueden coincidir con alteraciones del estado de ánimo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "Deportes,Clásico RCN,Ciclismo,Deporte",
   "lead": "El resultado de la cronoescalada determinó la clasificación general de la carrera y aseguró el título para Jamaica.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1260,6 +1260,204 @@
   "fecha": "2026-10-25T11:19:00-05:00",
   "palabras": "Sociedad,Ministerio de Educación,Educación,Fomag,Tutela,Quejas de usuarios,Pagos atrasados",
   "lead": "Durante una visita a la sede del Fondo Nacional de Prestaciones Sociales del Magisterio, la ministra Ilva Myriam Hoyos conoció las barreras que enfrentan l...",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Autoridades en Bello encienden alarmas por aumento en el último año del 16 % en accidentes viales",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/autoridades-en-bello-encienden-alarmas-por-aumento-en-el-ultimo-ano-del-16-en-accidentes-viales-rg10",
+  "fecha": "2026-10-25T13:37:24-05:00",
+  "palabras": "Valle de Aburrá, Bello, Accidente de tránsito",
+  "lead": "Solo en 2026 estas emergencias ya han dejado 2.354 lesionados y 33 fallecidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Impresionante descubrimiento en el desierto del Sahara: los secretos de una tumba de hace 4.000 años",
+  "enlace": "https://www.bluradio.com/sociedad/impresionante-descubrimiento-en-el-desierto-del-sahara-los-secretos-de-una-tumba-de-hace-4-000-anos-rs15",
+  "fecha": "2026-10-25T13:02:40-05:00",
+  "palabras": "Desierto del Sahara, Viral",
+  "lead": "La estructura mide casi 55 metros y escondía restos humanos junto a un curioso objeto elaborado con cáscara de huevo de avestruz. Las pruebas científicas permitieron fechar el entierro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Incautaron más de 30 kilos de cocaína y capturaron integrante de 'Los Chivos' en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/incautaron-mas-de-30-kilos-de-cocaina-y-capturaron-integrante-de-los-chivos-en-medellin-rg10",
+  "fecha": "2026-10-25T13:30:13-05:00",
+  "palabras": "Valle de Aburrá, Medellín, Policía Nacional, Cocaína",
+  "lead": "Según las investigaciones, la droga presuntamente iba a ser comercializada cerca de una institución educativa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Adulto mayor cayó más de 60 metros por un abismo en Barichara y sobrevivió",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/adulto-mayor-cayo-mas-de-60-metros-por-un-abismo-en-barichara-y-sobrevivio-rg10",
+  "fecha": "2026-10-25T13:49:45-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional, Bomberos de Bucaramanga",
+  "lead": "El adulto mayor fue encontrado enredado entre unos arbustos en el sector La Peña, en la vía hacia Guane. Estaba en estado de embriaguez y sufrió varias heridas, pero no presentó fracturas. Bomberos y Policía participaron en el rescate.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a hombre señalado de intentar reclutar a dos menores para las disidencias de las Farc",
+  "enlace": "https://www.bluradio.com/nacion/capturan-a-hombre-senalado-de-intentar-reclutar-a-dos-menores-para-las-disidencias-de-las-farc-rg10",
+  "fecha": "2026-10-25T13:02:41-05:00",
+  "palabras": "Disidencias Farc, Menores de edad",
+  "lead": "Dos adolescentes de 14 y 17 años fueron ubicados en un bus que salió de Pitalito, Huila, con destino a Cauca, donde presuntamente serían reclutados por el frente Carlos Patiño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Empresas podrían despedir a sus empleados enfermos: Corte Suprema fijó una condición",
+  "enlace": "https://www.bluradio.com/nacion/empresas-podrian-despedir-a-sus-empleados-enfermos-corte-suprema-fijo-una-condicion-so35",
+  "fecha": "2026-10-25T13:33:29-05:00",
+  "palabras": "Trabajo, Corte Suprema de Justicia",
+  "lead": "La sentencia SL2622-2025 establece qué debe demostrarse para acceder a la estabilidad laboral reforzada por motivos de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "María Corina Machado regresa a Venezuela: Sala de Prensa Blu, 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/sala-de-prensa-blu/maria-corina-machado-regresa-a-venezuela-sala-de-prensa-blu-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T14:02:52-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 25 de octubre de 2026",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día, resultado del último sorteo hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T14:06:28-05:00",
+  "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy domingo 25 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía limpió nueve canales y atendió a familias afectadas por las lluvias",
+  "enlace": "https://caracol.com.co/2026/10/25/alcaldia-limpio-nueve-canales-y-atendio-a-familias-afectadas-por-las-lluvias/",
+  "fecha": "2026-10-25T14:01:26-05:00",
+  "palabras": "",
+  "lead": "Las autoridades atienden a familias afectadas y retiran residuos para reducir el riesgo de inundaciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Fortaleza vs Deportivo Cali por Liga Colombiana HOY: retransmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/25/en-vivo-fortaleza-vs-deportivo-cali-por-liga-colombiana-2026-ll-hoy-minuto-a-minuto/",
+  "fecha": "2026-10-25T13:03:30-05:00",
+  "palabras": "",
+  "lead": "El equipo vallecaucano en búsqueda de cerrar su clasificación en territorio bogotano.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena conoció sus rivales y debutará ante Tigres en los cuadrangulares",
+  "enlace": "https://caracol.com.co/2026/10/25/real-cartagena-conocio-sus-rivales-y-debutara-ante-tigres-en-los-cuadrangulares/",
+  "fecha": "2026-10-25T13:50:07-05:00",
+  "palabras": "",
+  "lead": "El equipo heroico quedó en el Grupo B y buscará un cupo a la final del Torneo BetPlay II-2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Registrador Hernán Penagos: no es fácil traer el voto electrónico de Brasil a Colombia",
+  "enlace": "https://caracol.com.co/2026/10/25/registrador-hernan-penagos-no-es-facil-traer-el-voto-electronico-de-brasil-a-colombia/",
+  "fecha": "2026-10-25T13:31:25-05:00",
+  "palabras": "",
+  "lead": "El registrador colombiano, quien lidera una de las misiones de observación electoral para la segunda vuelta presidencial en Brasil, explicó cómo avanza la jornada.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La carretera más alta de Colombia está a casi 4.000 metros sobre el nivel del mar: ¿Cuál es?",
+  "enlace": "https://caracol.com.co/2026/10/25/la-carretera-mas-alta-de-colombia-esta-a-casi-4000-metros-sobre-el-nivel-del-mar-cual-es/",
+  "fecha": "2026-10-25T13:25:06-05:00",
+  "palabras": "",
+  "lead": "¿Ya la conocía? Así puede pasar por esta reconocida carretera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Camacho’s, hamburguesería de Bucaramanga, logró el segundo lugar entre las mejores de Suramérica",
+  "enlace": "https://caracol.com.co/2026/10/25/camachos-hamburgueseria-de-bucaramanga-logro-el-segundo-lugar-entre-las-mejores-de-suramerica/",
+  "fecha": "2026-10-25T13:21:12-05:00",
+  "palabras": "",
+  "lead": "La marca colombiana obtuvo el segundo puesto en el Ranking McCain Melhor Hambúrguer da América do Sul 2026, realizado en Brasil, con su hamburguesa Orgasmic, una preparación que incluye piña de Lebrija, Santander.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 Barcelona vs Real Madrid: siga GRATIS y EN VIVO el minuto a minuto de El Clásico",
+  "enlace": "https://caracol.com.co/2026/10/25/barcelona-vs-real-madrid-siga-gratis-y-en-vivo-el-minuto-a-minuto-de-el-clasico/",
+  "fecha": "2026-10-25T13:40:19-05:00",
+  "palabras": "",
+  "lead": "El cuadro culé busca suma nueve victorias consecutivas; el equipo merengue busca recortar distancias en la tabla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Marco Rubio: regreso de María Corina Machado a Venezuela es “resultado directo” de diálogos que apoya Marco Rubio",
+  "enlace": "https://www.lafm.com.co/internacional/maria-corina-machado-marco-rubio-venezuela-estados-unidos-regreso-415101",
+  "fecha": "2026-10-25T13:40:00-05:00",
+  "palabras": "Internacional,Venezuela,María Corina Machado,Marco Rubio,presos,Estados Unidos",
+  "lead": "El Secretario de Estado destacó el papel de EE. UU. para que se haya dado el anuncio de María Corina Machado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "VIDEO | María Corina Machado en Venezuela; emocionante bienvenida",
+  "enlace": "https://www.lafm.com.co/internacional/maria-corina-machado-venezuela-imagenes-llegada-lider-opositora-415099",
+  "fecha": "2026-10-25T13:05:00-05:00",
+  "palabras": "Internacional,Venezuela,María Corina Machado,Oposición",
+  "lead": "La líder opositora y premio Nobel de la Paz, María Corina Machado regresó a Venezuela, confirmó la propia dirigente este domingo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno activa ruta de protección para Deicy Jiménez",
+  "enlace": "https://www.lafm.com.co/politica/gobierno-activa-ruta-proteccion-deicy-jimenez-denuncia-petro-415097",
+  "fecha": "2026-10-25T12:06:00-05:00",
+  "palabras": "Política,Gobierno,Ministerio de Justicia,Gustavo Petro,Unidad Nacional de Protección,UNP",
+  "lead": "Dicha medida fue informada por el ministro de Justicia y ministro del Interior encargado, Iván Cancino, a través de un comunicado.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
