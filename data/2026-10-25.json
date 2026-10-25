@@ -568,7 +568,7 @@
   "palabras": "Noticias de hoy, Barranquilla, La Guajira, Maicao, Interpol, DEA",
   "lead": "Investigaciones de Interpol y la DEA revelan que las dos organizaciones intercambiaban cocaína por armamento para atentar contra la fuerza pública en Barranquilla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "Reflexión del día, Oraciones",
   "lead": "En su reflexión dominical, el religioso cuestionó la polarización y el odio, e invitó a practicar la misericordia, el perdón y la solidaridad en la vida cotidiana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "Reflexión del día, Oraciones",
   "lead": "En su reflexión dominical, el líder religioso llamó a fortalecer la vida espiritual mediante la oración, la lectura de la Biblia y la participación en comunidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "Días Festivos, Días Festivos Colombia",
   "lead": "Febrero y septiembre no tendrán días festivos, pero en 2027 tres meses contarán con tres días festivos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Ya se han adelantado gestiones con Coosalud y Famisanar indicaron desde el HUS.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "El cantante bogotano se presentó este sábado en el Vive Claro con ‘Fonseca en la casa’, un espectáculo que reunió a miles de asistentes e incluyó invitados como Silvestre Dangond, Nanpa Básico y Manu.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Este domingo, el presidente entregó un balance de la operación ÓNIX que se desarrolló en contra del Frente José María Becerra, perteneciente al Frente de Guerra Suroccidental.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "El extremo colombiano hizo una reflexión sobre los complicados momentos que ha vivido en Brasil.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Habitantes de más de 50 barrios y varios sectores estratégicos de Santa Marta deberán tener en cuenta una suspensión programada del servicio de energía para este lunes 26 de octubre. La intervención, anunciada por Air-e Intervenida, se realizará durante más de ocho horas en el circuito Libertador 7.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "El jefe de la Oficina de Cobro Coactivo y Fiscalización fue sancionado por hechos ocurridos entre abril y diciembre de 2024 contra una contratista municipal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "La medida rige todos los días entre las 10:30 p. m. y las 5:00 a. m., hasta el 27 de noviembre de 2026.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Sociedad,Turismo,Viajes,japón,Unesco,Fenómenos naturales",
   "lead": "Yakushima está a unos 60 kilómetros de la costa sur de Kyushu, en la prefectura de Kagoshima.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "Actualidad,terremoto,Terremoto en Colombia,Risaralda,Eje Cafetero",
   "lead": "Colapsó una edificación dañada por el terremoto en el centro de Pereira; las lluvias habrían agravado su deterioro.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "Sociedad,Salud,enfermedades,Vacuna,Tratamiento médico",
   "lead": "Julio César Gómez Rincón, médico infectólogo del Instituto Nacional de Cancerología, explicó por qué la vacunación es una herramienta importante de prevenc...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Política,Presidencia de la República,ELN,Fuerzas Militares,Policía Nacional,Cauca,Abelardo de la Espriella",
   "lead": "El presidente aseguró que diez integrantes del ELN murieron durante el operativo en zona rural de El Tambo, Cauca, entre ellos alias \"Marcos Pacífico\" y al...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,6 +733,259 @@
   "palabras": "Orden Público,Sistema carcelario,extranjeros,Medellín, Colombia,Menores,Delitos sexuales",
   "lead": "El peruano-estadounidense Heinz Pool Buleje, hallado en 2017 en una finca de Copacabana con 16 menores y con una niña de 15 años.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre suplantó a la Policía para secuestrar a comerciantes en Medellín; fue enviado a prisión",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/hombre-suplanto-a-la-policia-para-secuestrar-a-comerciantes-en-medellin-fue-enviado-a-prision-rg10",
+  "fecha": "2026-10-25T10:11:38-05:00",
+  "palabras": "Antioquia, Medellín, Policía Nacional",
+  "lead": "El procesado instaló un dispositivo GPS en el vehículo de las víctimas para rastrear sus movimientos mientras exigía el dinero del rescate.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un vehículo de alta gama inmovilizado y tres comparendos en controles de piques en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/un-vehiculo-de-alta-gama-inmovilizado-y-tres-comparendos-en-controles-de-piques-en-medellin-rg10",
+  "fecha": "2026-10-25T10:30:07-05:00",
+  "palabras": "Medellín, Valle de Aburrá, Policía de Tránsito",
+  "lead": "Los conductores de todos los vehículos fueron requeridos luego de conducir de manera temeraria por vías del Oriente de la capital antioqueña, poniendo no solo en riesgo sus vidas, sino las de otros actores viales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Demolieron 15 viviendas que estaban en construcción ilegal en el cerro Quitasol de Bello",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/demolieron-15-viviendas-que-estaban-en-construccion-ilegal-en-el-cerro-quitasol-de-bello-rg10",
+  "fecha": "2026-10-25T10:34:09-05:00",
+  "palabras": "Valle de Aburrá, Bello, Policía Nacional",
+  "lead": "La Alcaldía señaló que, además del daño ambiental por la tala de árboles para abrir espacio a las construcciones irregulares, estas obras sin permisos también generan desestabilización de los terrenos del cerro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Formulan cargos contra directora del Dagran por presuntas irregularidades en decomiso de madera",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/formulan-cargos-contra-directora-del-dagran-por-presuntas-irregularidades-en-decomiso-de-madera-rg10",
+  "fecha": "2026-10-25T10:06:49-05:00",
+  "palabras": "Procuraduría General de la Nación, Antioquia, Urabá",
+  "lead": "La situación se remonta cuando Vanessa Paredes era directora de Corpourabá y, al aparecer, no expidió el acto administrativo de entrega, donación o destrucción del material natural.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aumenta la preocupación por el dengue en San Andrés, Santander, no hay hospital para atender",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/aumenta-la-preocupacion-por-el-dengue-en-san-andres-santander-no-hay-hospital-para-atender-rg10",
+  "fecha": "2026-10-25T10:18:23-05:00",
+  "palabras": "Santander, Dengue, Blu Radio, Noticias de hoy",
+  "lead": "La comunidad alerta por más de 14 niños que habrían presentado síntomas de dengue y pacientes críticos remitidos a otros municipios, ya que en los pasillos reciben atención, la construcción del Hospital San José lleva seis meses paralizada y registra un avance del 52,93 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras 6 días hallaron con vida el soldado desaparecido tras ataque de disidencias en Segovia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/tras-6-dias-hallaron-con-vida-el-soldado-desaparecido-tras-ataque-de-disidencias-en-segovia-rg10",
+  "fecha": "2026-10-25T11:00:19-05:00",
+  "palabras": "Antioquia, Ejército Nacional, Desaparecidos, Disidencias Farc",
+  "lead": "Al parecer, el hombre decidió esconderse y perdió la noción del territorio, situación que lo llevó a estar perdido por varios días.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Suspenden a docente de Piedecuesta por conductas inapropiadas contra siete estudiantes",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/suspenden-a-docente-de-piedecuesta-por-conductas-inapropiadas-contra-siete-estudiantes-rg10",
+  "fecha": "2026-10-25T10:38:28-05:00",
+  "palabras": "Santander, Blu Radio, Noticias de hoy, Procuraduría General de la Nación",
+  "lead": "Expresiones denigrantes, insinuaciones de doble sentido y contacto físico no consentido hacen parte de las conductas atribuidas a un docente de Piedecuesta contra siete estudiantes. La Procuraduría lo sancionó en primera instancia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Suben a diez los muertos por bombardeo de las Fuerzas Militares contra el ELN",
+  "enlace": "https://www.bluradio.com/nacion/suben-a-diez-los-muertos-por-bombardeo-de-las-fuerzas-militares-contra-el-eln-cb20",
+  "fecha": "2026-10-25T10:12:00-05:00",
+  "palabras": "Abelardo De La Espriella, ELN",
+  "lead": "La operación fue ejecutada en la madrugada del pasado 22 de octubre y fue el quinto bombardeo contra grupos armados ilegales ordenado por el Gobierno colombiano.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Refuerzan la seguridad ante amenazas de la disidencia ‘Jaime Martínez’ en Jamundí, Valle",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/refuerzan-la-seguridad-ante-amenazas-de-la-disidencia-jaime-martinez-en-jamundi-valle-rg10",
+  "fecha": "2026-10-25T10:51:13-05:00",
+  "palabras": "Disidencias Farc, Jamundí, Valle del Cauca",
+  "lead": "Entre las medidas anunciadas está la implementación de la estrategia de Corredores Seguros en puntos clave del municipio, con el propósito de mejorar las condiciones de seguridad para las comunidades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“El golpe más contundente en ocho años”: presidente De La Espriella sobre operación contra el ELN",
+  "enlace": "https://www.bluradio.com/nacion/el-golpe-mas-contundente-en-ocho-anos-presidente-de-la-espriella-sobre-operacion-contra-el-eln-rg10",
+  "fecha": "2026-10-25T10:35:06-05:00",
+  "palabras": "Abelardo De La Espriella, ELN",
+  "lead": "El presidente Abelardo De La Espriella destacó la muerte de diez presuntos integrantes del ELN en una operación militar en Cauca y confirmó que entre ellos están alias Marcos Pacífico y alias Ochenta o Murillo, señalados como cabecillas de ese grupo armado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Estoy aquí”: María Corina Machado confirma su llegada a Venezuela y reaparecerá en Barquisimeto",
+  "enlace": "https://www.bluradio.com/mundo/maria-corina-machado-confirma-su-llegada-a-venezuela-estoy-aqui-so35",
+  "fecha": "2026-10-25T10:43:46-05:00",
+  "palabras": "María Corina Machado, Venezuela",
+  "lead": "Edmundo González celebró el anuncio y aseguró que pronto estará junto a la líder opositora.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Obras inconclusas: ICBF denuncia presunto ‘elefante blanco’ en Bogotá, lleva 12 años sin terminar",
+  "enlace": "https://caracol.com.co/2026/10/25/obras-inconclusas-icbf-denuncia-presunto-elefante-blanco-en-bogota-lleva-12-anos-sin-terminar/",
+  "fecha": "2026-10-25T11:04:19-05:00",
+  "palabras": "",
+  "lead": "El hallazgo se produjo durante una inspección adelantada por la nueva administración de la entidad a la infraestructura de su propiedad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a alias ‘Kenny’ con un revólver y seis cartuchos en Lo Amador",
+  "enlace": "https://caracol.com.co/2026/10/25/capturaron-a-alias-kenny-con-un-revolver-y-seis-cartuchos-en-lo-amador/",
+  "fecha": "2026-10-25T11:03:39-05:00",
+  "palabras": "",
+  "lead": "El hombre, de 37 años, fue detenido durante controles policiales en Cartagena y quedó a disposición de la Fiscalía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mis Preguntas, con Roberto Pombo: ¿Qué es la batalla cultural?",
+  "enlace": "https://caracol.com.co/2026/10/25/mis-preguntas-con-roberto-pombo-que-es-la-batalla-cultural/",
+  "fecha": "2026-10-25T11:00:53-05:00",
+  "palabras": "",
+  "lead": "En este capítulo, Roberto Pombo se pregunta: ¿Qué es la batalla cultural?",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía pide cárcel para responsables de ataque con granada en Caribe Verde",
+  "enlace": "https://caracol.com.co/2026/10/25/fiscalia-pide-carcel-para-responsables-de-ataque-con-granada-en-caribe-verde/",
+  "fecha": "2026-10-25T10:56:48-05:00",
+  "palabras": "",
+  "lead": "El hecho dejó dos personas heridas",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Joven señaló a Petro por presuntos pagos de servicios sexuales con contratos estatales: esto reveló",
+  "enlace": "https://caracol.com.co/2026/10/25/joven-senalo-a-petro-por-presuntos-pagos-de-servicios-sexuales-con-contratos-estatales-esto-revelo/",
+  "fecha": "2026-10-25T10:56:31-05:00",
+  "palabras": "",
+  "lead": "En entrevista con Revista Semana, la joven denunció que el expresidente habría pagado diferentes servicios sexuales entregando contratos estatales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Edmundo González asegura que María Corina Machado regresó a Venezuela tras 10 meses en el exilio",
+  "enlace": "https://caracol.com.co/2026/10/25/edmundo-gonzalez-asegura-que-maria-corina-machado-regreso-a-venezuela-tras-10-meses-en-el-exilio/",
+  "fecha": "2026-10-25T10:53:58-05:00",
+  "palabras": "",
+  "lead": "María Corina Machado ha regresado a Venezuela tras permanecer diez meses en el exilio, según confirmaron el excandidato presidencial Edmundo González Urrutia y la propia dirigente a través de sus redes sociales, donde reapareció con la frase: “Estoy aquí. Con ustedes”.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Los que nos tienen que cuidar son los que nos van a pegar”: grave denuncia del técnico de Pereira",
+  "enlace": "https://caracol.com.co/2026/10/25/los-que-nos-tienen-que-cuidar-son-los-que-nos-van-a-pegar-grave-denuncia-del-tecnico-de-pereira/",
+  "fecha": "2026-10-25T10:41:37-05:00",
+  "palabras": "",
+  "lead": "Alexis Márquez también analizó el empate y pidió corregir errores defensivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "San Juan Nepomuceno celebró la tercera temporada de ‘Vivamos las Artes y las Culturas’",
+  "enlace": "https://caracol.com.co/2026/10/25/san-juan-nepomuceno-celebro-la-tercera-temporada-de-vivamos-las-artes-y-las-culturas/",
+  "fecha": "2026-10-25T10:37:40-05:00",
+  "palabras": "",
+  "lead": "Estudiantes de varias instituciones educativas participaron en una jornada de música, teatro, circo y pintura para promover el talento loca",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena reportó 376 viviendas afectadas por lluvias en 24 barrios y sectores",
+  "enlace": "https://caracol.com.co/2026/10/25/cartagena-reporto-376-viviendas-afectadas-por-lluvias-en-24-barrios-y-sectores/",
+  "fecha": "2026-10-25T10:33:23-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía completó más de 24 horas de atención y advirtió que las basuras y los escombros agravan las inundaciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Karina García sorprendió embarazada en el sold out de Kris R y protagonizaron un beso en tarima",
+  "enlace": "https://caracol.com.co/2026/10/25/karina-garcia-sorprendio-embarazada-en-el-sold-out-de-kris-r-y-protagonizaron-un-beso-en-tarima/",
+  "fecha": "2026-10-25T10:26:25-05:00",
+  "palabras": "",
+  "lead": "La influenciadora acompañó al cantante durante su concierto en Bogotá, donde él le dedicó ‘4 Life’, se arrodilló para besarle el vientre y compartieron una romántica escena frente a miles de asistentes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atención: estos sectores de Barranquilla estarán sin luz este lunes 26 de octubre",
+  "enlace": "https://caracol.com.co/2026/10/25/atencion-estos-sectores-de-barranquilla-estaran-sin-luz-este-lunes-26-de-octubre/",
+  "fecha": "2026-10-25T10:07:29-05:00",
+  "palabras": "",
+  "lead": "La empresa Air-e Intervenida también realizará trabajos en municipios del Atlántico",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "María Corina Machado anuncia que regresó a Venezuela: esto se sabe del retorno de la líder opositora",
+  "enlace": "https://www.lafm.com.co/internacional/maria-corina-machado-venezuela-anuncio-regreso-exilio-delcy-rodriguez-415092",
+  "fecha": "2026-10-25T10:53:00-05:00",
+  "palabras": "Internacional,María Corina Machado,Venezuela,Estados Unidos",
+  "lead": "La líder opositora se encargó de hacer el anuncio.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
