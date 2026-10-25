@@ -1965,7 +1965,7 @@
   "palabras": "Santander, Gobierno nacional, Noticias de hoy",
   "lead": "Fredy Alexander Vargas, de Curití, y Óscar Mauricio Velásquez, de San Gil, completan meses sin contacto con sus familias. Sus seres queridos piden la intervención del presidente para conocer su paradero.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "Viral, India",
   "lead": "Varios hombres intentaron evitar que el automóvil cayera al vacío, pero el vehículo comenzó a rodar por la pendiente y el conductor tuvo que salir en medio de la emergencia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Paisita día",
   "lead": "El Paisita Noche juega todos los días y cuenta con diferentes modalidades de apuesta para quienes buscan probar suerte en Colombia. Los participantes pueden consultar el número ganador de este domingo 25 de octubre de 2026 y verificar si su tiquete coincide con el resultado oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Brasil, Elecciones Brasil",
   "lead": "Siga el minuto a minuto de la jornada electoral en Brasil, el avance del escrutinio y los resultados oficiales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "Barcelona, Real Madrid, Kylian Mbappé, Jose Mourinho",
   "lead": "La victoria merengue deja la liga más comprimida, con el Barcelona como líder, pero con el Atlético de Madrid a dos puntos y el Real Madrid, tercero, a tres.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Dorado Noche",
   "lead": "El Dorado Noche juega los domingos y permite participar en diferentes modalidades de apuesta. Consulte el resultado de este domingo 25 de octubre de 2026, conozca las cifras ganadoras y verifique si su tiquete obtuvo algún premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "",
   "lead": "Esto luego de los señalamientos hechos por Deicy Jiménez, quien aseguró que habría recibido contratos estatales a cambio de encuentros sexuales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "José Mourinho frenó en seco al equipo de Hansi Flick en el campeonato español.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "El conjunto verdolaga buscará retomar el liderato; mientras que el Poderoso quiere consolidarse dentro de los ocho.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "",
   "lead": "De los ríos que nacen en el Parque Nacional Natural los Farallones, dependen acueductos que abastecen a más de 600 mil usuarios en la Capital del Valle.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "Deportes,Juan Fernando Quintero,James Rodríguez,Atlético Nacional,Deportivo Independiente Medellín,Liga BetPlay",
   "lead": "El experimentado mediocampista no estuvo en ninguno de los Nacional vs Medellín por Copa y Liga debido a una complicada lesión.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "Deportes,Real Madrid,FC Barcelona,Kylian Mbappé,Liga Española",
   "lead": "El equipo merengue dio el golpe en el Camp Nou con dos tantos del francés, candidato a ganar el Balón de Oro este lunes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,6 +2097,127 @@
   "palabras": "Orden Público,Historia,Ejército Nacional,Sobreviviente,Drones,Ataque aéreo",
   "lead": "El soldado Andrés Casterbondo Macías sobrevivió seis días desaparecido en las montañas de Segovia, Antioquia.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Unos 83 heridos, siete de ellos graves, al caer un autobús por un barranco en Barcelona",
+  "enlace": "https://www.bluradio.com/mundo/unos-83-heridos-siete-de-ellos-graves-al-caer-un-autobus-por-un-barranco-en-barcelona-cb20",
+  "fecha": "2026-10-25T18:23:51-05:00",
+  "palabras": "España, Barcelona",
+  "lead": "Por causas que se están investigando, el autobús acabó saliéndose de la carretera, una vía llena de curvas, y se precipitándose por un barranco de 20 metros.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cabeza a cabeza, así van las elecciones en Brasil entre Lula da Silva y Flávio Bolsonaro",
+  "enlace": "https://www.bluradio.com/mundo/cabeza-a-cabeza-asi-van-las-elecciones-en-brasil-entre-lula-da-silva-y-flavio-bolsonaro-cb20",
+  "fecha": "2026-10-25T18:45:19-05:00",
+  "palabras": "Brasil, Elecciones Brasil, Flávio Bolsonaro, Lula Da Silva",
+  "lead": "El candidato que obtenga más del 50 % de los votos válidos asumirá la Presidencia de Brasil el próximo 5 de enero por un mandato de cuatro años.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Turista del Valle del Cauca murió tras ser embestido por una lancha mientras hacía careteo en Santa",
+  "enlace": "https://caracol.com.co/2026/10/25/turista-del-valle-del-cauca-murio-tras-ser-embestido-por-una-lancha-mientras-hacia-careteo-en-santa/",
+  "fecha": "2026-10-25T18:49:13-05:00",
+  "palabras": "",
+  "lead": "José Arbey Díaz falleció luego de resultar herido en el sector de Cabo Tortuga. El capitán de puerto, Julio Monroy, confirmó a Caracol Radio que la investigación busca establecer las circunstancias del accidente y las posibles responsabilidades.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Castillo de San Felipe se llenó de música, títeres y tradición ante miles de visitantes",
+  "enlace": "https://caracol.com.co/2026/10/25/el-castillo-de-san-felipe-se-lleno-de-musica-titeres-y-tradicion-ante-miles-de-visitantes/",
+  "fecha": "2026-10-25T18:40:01-05:00",
+  "palabras": "",
+  "lead": "Más de 3.500 personas disfrutaron de una jornada gratuita",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cien jóvenes juraron bandera y comenzaron su camino al servicio de la comunidad",
+  "enlace": "https://caracol.com.co/2026/10/25/cien-jovenes-juraron-bandera-y-comenzaron-su-camino-al-servicio-de-la-comunidad/",
+  "fecha": "2026-10-25T18:34:54-05:00",
+  "palabras": "",
+  "lead": "Tras dos meses de formación, los nuevos auxiliares apoyarán labores de prevención y seguridad en Cartagena",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de posiciones de la Liga Colombiana: así quedó tras empate de Once Caldas y triunfo de América",
+  "enlace": "https://caracol.com.co/2026/10/24/tabla-de-posiciones-de-la-liga-colombiana-asi-quedo-con-los-triunfos-de-chico-y-junior/",
+  "fecha": "2026-10-25T18:34:49-05:00",
+  "palabras": "",
+  "lead": "Así se mueve la clasificación en el transcurso de la fecha 16 del campeonato nacional.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Instituto Anticorrupción denuncia a Petro por presuntos contratos ligados a favores sexuales",
+  "enlace": "https://caracol.com.co/2026/10/25/instituto-anticorrupcion-pide-investigar-a-petro-por-presuntos-contratos-irregulares/",
+  "fecha": "2026-10-25T18:26:28-05:00",
+  "palabras": "",
+  "lead": "La denuncia se da luego de los señalamientos hechos por la joven Deicy Jiménez en contra del exmandatario",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Retiraron más de 200 toneladas de residuos del canal Matute tras las lluvias",
+  "enlace": "https://caracol.com.co/2026/10/25/retiraron-mas-de-200-toneladas-de-residuos-del-canal-matute-tras-las-lluvias/",
+  "fecha": "2026-10-25T18:27:22-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía intervino varios canales y puntos críticos para reducir el riesgo de nuevas inundaciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El ELN entregó a comisión humanitaria a una menor que mantenía retenida en el Cauca",
+  "enlace": "https://caracol.com.co/2026/10/25/el-eln-entrego-a-comision-humanitaria-a-una-menor-que-mantenia-retenida-en-el-cauca/",
+  "fecha": "2026-10-25T15:00:00-05:00",
+  "palabras": "",
+  "lead": "La adolescente de 17 habría quedado en poder del grupo armado tras combates contra las disidencias de las Farc en el oriente del Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá reúne 6 mil aficionados en la rodada de stunt bike más grande de Latinoamérica",
+  "enlace": "https://www.lafm.com.co/deportes/bogota-6mil-aficionados-rodada-stunt-bike-mas-grande-latam-415116",
+  "fecha": "2026-10-25T18:14:00-05:00",
+  "palabras": "Deportes,Ciclismo",
+  "lead": "El punto de partida fue en las inmediaciones al Parque Nacional y la jornada finalizó en el barrio Montevideo. Al evento asistieron invitados especiales de...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Brasil reinicia el conteo de votos tras extender dos horas el cierre de las urnas",
+  "enlace": "https://www.lafm.com.co/internacional/brasil-reinicia-conteo-votos-extender-dos-horas-cierre-urnas-segunda-vuelta-presidencial-415115",
+  "fecha": "2026-10-25T18:09:00-05:00",
+  "palabras": "Internacional,Brasil,Elecciones presidenciales,Lula da Silva,Jair Bolsonaro",
+  "lead": "Brasil reanudó el conteo de votos tras extender dos horas el cierre de las urnas en la segunda vuelta presidencial entre Luiz Inácio Lula da Silva y Flávio...",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
