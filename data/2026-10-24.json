@@ -2482,7 +2482,7 @@
   "palabras": "Luiz Inacio Lula da Silva, Flávio Bolsonaro, Elecciones Brasil, Brasil, Cierre de campaña, Elecciones Brasil, Flávio Bolsonaro, Luiz Inácio Lula da Silva, Lula, Movilizaciones",
   "lead": "El país latinoamericano vive una jornada decisiva, con multitudes en el cierre de campañas presidenciales y una contienda marcada por la polarización y la expectativa de un resultado ajustado.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2493,7 +2493,7 @@
   "palabras": "Santa Marta",
   "lead": "Las lluvias han causado inundaciones en distintos sectores de la capital del Magdalena y las autoridades mantienen vigilancia sobre varios afluentes ante la posibilidad de aumentos repentinos en sus niveles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2504,7 +2504,7 @@
   "palabras": "",
   "lead": "Se trata de Ricardo Arias Macias, excandidato a la Cámara por Bogotá en las pasadas elecciones legislativas por el partido Colombia Justa y Libres",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2515,7 +2515,7 @@
   "palabras": "",
   "lead": "Se definieron los ocho equipos que disputarán el título del segundo semestre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "",
   "lead": "La entidad educativa pública hizo oficial la apertura de inscripciones para el año 2027, además de publicar la lista de oferta académica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "Sociedad,ARL,Corte Suprema de Justicia,Ministerio del Trabajo,Trabajadores,Empresas",
   "lead": "Así lo explicó la Corte Suprema de Justicia en la Sentencia SL852-2026, al estudiar el caso de un hombre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,7 +2548,7 @@
   "palabras": "Actualidad,Obras inconclusas,ICBF,Alcaldía de Bogotá,Proyectos sostenibles,Rafael Uribe Uribe",
   "lead": "Según la entidad, otro contrato también presenta incumplimientos. La obra registra un avance del 76 %.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2559,6 +2559,237 @@
   "palabras": "Actualidad,Inseguridad,Contratación,Concejal,Concejo de Bogotá,Alcaldía de Bogotá,Carlos Fernando Galán",
   "lead": "El concejal pidió explicaciones a las autoridades distritales y reclamó que se investiguen los hechos para determinar posibles responsabilidades.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Impactante VIDEO: una fuerte ola arrastró a periodista mientras transmitía en vivo",
+  "enlace": "https://www.bluradio.com/mundo/impactante-video-una-fuerte-ola-arrastro-a-periodista-mientras-transmitia-en-vivo-so35",
+  "fecha": "2026-10-24T19:30:46-05:00",
+  "palabras": "Viral, España, Video, España, Impacto de ola, Ola, Sergio Ovejero, Video , Viral",
+  "lead": "Sergio Ovejero informaba sobre la alerta marítima en España cuando una enorme ola lo sorprendió junto a su camarógrafa, interrumpió la transmisión y dejó al presentador impactado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno deroga las APPA en 19 municipios de Antioquia y libera 102.801 hectáreas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobierno-deroga-las-appa-en-19-municipios-de-antioquia-y-libera-102-801-hectareas-rg10",
+  "fecha": "2026-10-24T18:58:15-05:00",
+  "palabras": "Ministerio de Agricultura",
+  "lead": "El Ministerio de Agricultura argumentó fallas técnicas y jurídicas en la delimitación de estas áreas, en las cuales se podía producir alimentos y no ejercer otro tipo de actividad económica. Las APPA serán eliminadas en todo el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Impresionante accidente en São Paulo: Grúa cae sobre la vía del metro y golpea un tren",
+  "enlace": "https://www.bluradio.com/mundo/impresionante-accidente-en-sao-paulo-grua-cae-sobre-la-via-del-metro-y-golpea-un-tren-so35",
+  "fecha": "2026-10-24T19:33:23-05:00",
+  "palabras": "Viral, Sao Paulo, Brasil",
+  "lead": "El accidente se registró en la avenida Professor Luiz Ignácio Anhaia Mello, en la zona este de São Paulo; allí la grúa cayó sobre la estructura de la Línea 15-Plata del monorriel.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¡Al estilo de Rápidos y furiosos! Abuelita es captada en plena vía adelantando vehículos de carga",
+  "enlace": "https://www.bluradio.com/nacion/al-estilo-de-rapidos-y-furiosos-abuelita-es-captada-en-plena-via-adelantando-vehiculos-de-carga-so35",
+  "fecha": "2026-10-24T19:52:05-05:00",
+  "palabras": "Viral",
+  "lead": "La mujer fue captada mientras superaba varios vehículos de carga en una vía de Santander, una maniobra que llamó la atención por el riesgo que representaba.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ricardo Arias Macías, designado consejero presidencial para los Derechos Humanos",
+  "enlace": "https://www.bluradio.com/nacion/ricardo-arias-macias-designado-consejero-presidencial-para-los-derechos-humanos-rg10",
+  "fecha": "2026-10-24T20:14:44-05:00",
+  "palabras": "Derechos Humanos",
+  "lead": "El profesional en Gobierno y Relaciones Internacionales ha ocupado cargos de asesoría en entidades del Estado. Su hoja de vida ya fue publicada en el portal de aspirantes de la Presidencia, un paso previo al nombramiento oficial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boyacá Chicó advierte que podría dejar Tunja por diferencias con autoridades locales",
+  "enlace": "https://caracol.com.co/2026/10/25/boyaca-chico-advierte-que-podria-dejar-tunja-por-diferencias-con-autoridades-locales/",
+  "fecha": "2026-10-24T20:05:51-05:00",
+  "palabras": "",
+  "lead": "El máximo accionista del club cuestionó las restricciones para disputar partidos con público y abrió el interrogante sobre la permanencia del equipo en la capital boyacense.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fuertes lluvias y desbordamientos de ríos y quebradas dejan familias afectadas en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/25/fuertes-lluvias-y-desbordamientos-de-rios-y-quebradas-dejan-familias-afectadas-en-santa-marta/",
+  "fecha": "2026-10-24T20:05:37-05:00",
+  "palabras": "",
+  "lead": "Las crecientes del río Gaira y la quebrada Tamacá provocaron inundaciones en distintos sectores. Un líder de El Paraíso pidió mantenimiento del río, mientras un edil alertó sobre una vivienda destruida en Puente Viejo y solicitó atención para un adulto mayor que quedó sin hogar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Once Caldas vs Pereira HOY en el clásico del Eje Cafetero: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/25/en-vivo-once-caldas-vs-pereira-hoy-en-el-clasico-del-eje-cafetero-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-10-24T19:40:34-05:00",
+  "palabras": "",
+  "lead": "El conjunto blanco buscará quedarse con el clásico para asegurar su puesto entre los ocho.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAgricultura elimina las APPA en 19 municipios en Antioquia y devuelve más de 100 mil hectáreas",
+  "enlace": "https://caracol.com.co/2026/10/25/minagricultura-elimina-las-appa-en-19-municipios-en-antioquia-y-devuelve-mas-de-100-mil-hectareas/",
+  "fecha": "2026-10-24T19:53:19-05:00",
+  "palabras": "",
+  "lead": "Según la cartera agropecuaria, la derogatoria devuelve a los municipios la capacidad de tener más orden en sus territorios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aguas de Cartagena inició el restablecimiento del servicio tras daños eléctricos por lluvias",
+  "enlace": "https://caracol.com.co/2026/10/25/aguas-de-cartagena-inicio-el-restablecimiento-del-servicio-tras-danos-electricos-por-lluvias/",
+  "fecha": "2026-10-24T19:43:44-05:00",
+  "palabras": "",
+  "lead": "La empresa previó normalizar el suministro durante la madrugada del domingo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación instala PMU en el Magdalena por emergencias y alertas ante crecientes de ríos",
+  "enlace": "https://caracol.com.co/2026/10/25/gobernacion-instala-pmu-en-el-magdalena-por-emergencias-y-alertas-ante-crecientes-de-rios/",
+  "fecha": "2026-10-24T19:37:54-05:00",
+  "palabras": "",
+  "lead": "Las lluvias provocaron el desbordamiento del río Frío en sectores de Zona Bananera y el ingreso de agua a vías de Julio Zawady y Santa Rosalía. La Gobernación instaló un Puesto de Mando Unificado (PMU) para coordinar la atención de emergencias en varios municipios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía imputó cargos a empresa por contaminación ambiental en Arroz Barato",
+  "enlace": "https://caracol.com.co/2026/10/25/fiscalia-imputo-cargos-a-empresa-por-contaminacion-ambiental-en-arroz-barato/",
+  "fecha": "2026-10-24T19:30:09-05:00",
+  "palabras": "",
+  "lead": "Cinco personas fueron capturadas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Doblete de Marino Hinestroza para alejar del descenso a Vasco da Gama: vea sus goles a Corinthians",
+  "enlace": "https://caracol.com.co/2026/10/25/doblete-de-marino-hinestroza-para-alejar-del-descenso-a-vasco-da-gama-vea-sus-goles-a-corinthians/",
+  "fecha": "2026-10-24T19:30:08-05:00",
+  "palabras": "",
+  "lead": "El extremo colombiano brilló en la remontada de su equipo, que tiene muy cerca la permanencia en primera división.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados Lotería de Boyacá HOY 24 de octubre 2026: consulte los premios",
+  "enlace": "https://caracol.com.co/2026/10/25/resultados-loteria-de-boyaca-hoy-24-de-octubre-2026-consulte-los-premios/",
+  "fecha": "2026-10-24T19:30:00-05:00",
+  "palabras": "",
+  "lead": "Conozca los resultados del sorteo de este sábado 24 de octubre y descubra si es uno de los ganadores",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 24 de octubre: resultados y números ganadores",
+  "enlace": "https://caracol.com.co/2026/10/25/loteria-de-boyaca-cauca-y-baloto-hoy-sabado-24-de-octubre-resultados-y-numeros-ganadores/",
+  "fecha": "2026-10-24T19:30:00-05:00",
+  "palabras": "",
+  "lead": "Vea los resultados del último sorteo de las loterías de Boyacá y Cauca y conozca los números ganadores del Baloto y Baloto Revancha de este 24 de octubre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a alias ‘El Flaco’ con marihuana en El Pozón",
+  "enlace": "https://caracol.com.co/2026/10/25/capturaron-a-alias-el-flaco-con-marihuana-en-el-pozon/",
+  "fecha": "2026-10-24T19:17:03-05:00",
+  "palabras": "",
+  "lead": "Le incautaron 300 gramos de marihuana y un celular",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "OAGRD intervino canales y evaluó sectores afectados por las lluvias",
+  "enlace": "https://caracol.com.co/2026/10/25/oagrd-intervino-canales-y-evaluo-sectores-afectados-por-las-lluvias/",
+  "fecha": "2026-10-24T19:12:52-05:00",
+  "palabras": "",
+  "lead": "Desplegó maquinaria amarilla y caracterizó a las familias afectada",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército incautó más de 500 cartuchos para francotirador y explosivos de disidencias de ‘Calarcá’",
+  "enlace": "https://caracol.com.co/2026/10/24/ejercito-incauto-mas-de-500-cartuchos-para-francotirador-y-explosivos-de-disidencias-de-calarca/",
+  "fecha": "2026-10-24T18:55:26-05:00",
+  "palabras": "",
+  "lead": "Uno de los elementos que llamó la atención de las autoridades fue la modificación que presentaban los cartuchos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Proyecto de ley busca reorganizar la regulación del sector gastronómico en Colombia",
+  "enlace": "https://caracol.com.co/2026/10/25/proyecto-de-ley-busca-reorganizar-la-regulacion-del-sector-gastronomico-en-colombia/",
+  "fecha": "2026-10-24T19:01:23-05:00",
+  "palabras": "",
+  "lead": "La propuesta cuenta con el respaldo de la Cámara del Sector Gastronómico de la ANDI, Acodres, Asobares y el Tour Gastronómico de Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "A qué hora se conocerán los resultados de la segunda vuelta presidencial en Brasil este domingo 25 de octubre",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-brasil-bolsonaro-lula-domingo-hora-primeros-resultados-segunda-vuelta-415048",
+  "fecha": "2026-10-24T20:00:00-05:00",
+  "palabras": "Internacional,Brasil,Lula da Silva,Jair Bolsonaro,Elecciones presidenciales",
+  "lead": "Brasil se decide entre Flavio Bolsonaro y Lula Da Silva para el periodo presidencial 2027-2031.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Conjuntos residenciales: sanciones que permite y prohíbe la ley",
+  "enlace": "https://www.lafm.com.co/sociedad/conjuntos-residenciales-sanciones-imponerle-administracion-ley-colombia-415073",
+  "fecha": "2026-10-24T19:44:00-05:00",
+  "palabras": "Sociedad,sanciones,Conjuntos residenciales,Propiedad horizontal,Colombia",
+  "lead": "La normativa también determina quiénes pueden imponer estas medidas, cuáles son sus límites y qué garantías deben respetarse.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
