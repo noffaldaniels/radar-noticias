@@ -744,7 +744,7 @@
   "palabras": "Antioquia, Medellín, Policía Nacional",
   "lead": "El procesado instaló un dispositivo GPS en el vehículo de las víctimas para rastrear sus movimientos mientras exigía el dinero del rescate.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "Medellín, Valle de Aburrá, Policía de Tránsito",
   "lead": "Los conductores de todos los vehículos fueron requeridos luego de conducir de manera temeraria por vías del Oriente de la capital antioqueña, poniendo no solo en riesgo sus vidas, sino las de otros actores viales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "Valle de Aburrá, Bello, Policía Nacional",
   "lead": "La Alcaldía señaló que, además del daño ambiental por la tala de árboles para abrir espacio a las construcciones irregulares, estas obras sin permisos también generan desestabilización de los terrenos del cerro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Procuraduría General de la Nación, Antioquia, Urabá",
   "lead": "La situación se remonta cuando Vanessa Paredes era directora de Corpourabá y, al aparecer, no expidió el acto administrativo de entrega, donación o destrucción del material natural.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "Santander, Dengue, Blu Radio, Noticias de hoy",
   "lead": "La comunidad alerta por más de 14 niños que habrían presentado síntomas de dengue y pacientes críticos remitidos a otros municipios, ya que en los pasillos reciben atención, la construcción del Hospital San José lleva seis meses paralizada y registra un avance del 52,93 %.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Antioquia, Ejército Nacional, Desaparecidos, Disidencias Farc",
   "lead": "Al parecer, el hombre decidió esconderse y perdió la noción del territorio, situación que lo llevó a estar perdido por varios días.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "Santander, Blu Radio, Noticias de hoy, Procuraduría General de la Nación",
   "lead": "Expresiones denigrantes, insinuaciones de doble sentido y contacto físico no consentido hacen parte de las conductas atribuidas a un docente de Piedecuesta contra siete estudiantes. La Procuraduría lo sancionó en primera instancia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "Abelardo De La Espriella, ELN",
   "lead": "La operación fue ejecutada en la madrugada del pasado 22 de octubre y fue el quinto bombardeo contra grupos armados ilegales ordenado por el Gobierno colombiano.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Disidencias Farc, Jamundí, Valle del Cauca",
   "lead": "Entre las medidas anunciadas está la implementación de la estrategia de Corredores Seguros en puntos clave del municipio, con el propósito de mejorar las condiciones de seguridad para las comunidades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Abelardo De La Espriella, ELN",
   "lead": "El presidente Abelardo De La Espriella destacó la muerte de diez presuntos integrantes del ELN en una operación militar en Cauca y confirmó que entre ellos están alias Marcos Pacífico y alias Ochenta o Murillo, señalados como cabecillas de ese grupo armado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "María Corina Machado, Venezuela",
   "lead": "Edmundo González celebró el anuncio y aseguró que pronto estará junto a la líder opositora.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "El hallazgo se produjo durante una inspección adelantada por la nueva administración de la entidad a la infraestructura de su propiedad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "El hombre, de 37 años, fue detenido durante controles policiales en Cartagena y quedó a disposición de la Fiscalía",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "En este capítulo, Roberto Pombo se pregunta: ¿Qué es la batalla cultural?",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "El hecho dejó dos personas heridas",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "En entrevista con Revista Semana, la joven denunció que el expresidente habría pagado diferentes servicios sexuales entregando contratos estatales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "María Corina Machado ha regresado a Venezuela tras permanecer diez meses en el exilio, según confirmaron el excandidato presidencial Edmundo González Urrutia y la propia dirigente a través de sus redes sociales, donde reapareció con la frase: “Estoy aquí. Con ustedes”.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "Alexis Márquez también analizó el empate y pidió corregir errores defensivos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "Estudiantes de varias instituciones educativas participaron en una jornada de música, teatro, circo y pintura para promover el talento loca",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "La Alcaldía completó más de 24 horas de atención y advirtió que las basuras y los escombros agravan las inundaciones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "La influenciadora acompañó al cantante durante su concierto en Bogotá, donde él le dedicó ‘4 Life’, se arrodilló para besarle el vientre y compartieron una romántica escena frente a miles de asistentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "La empresa Air-e Intervenida también realizará trabajos en municipios del Atlántico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,6 +986,138 @@
   "palabras": "Internacional,María Corina Machado,Venezuela,Estados Unidos",
   "lead": "La líder opositora se encargó de hacer el anuncio.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a disidentes de 'Calarcá' dedicados a extorsión de mineros y comerciantes en Gómez Plata",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/capturan-a-disidentes-de-calarca-dedicados-a-extorsion-de-mineros-y-comerciantes-en-gomez-plata-rg10",
+  "fecha": "2026-10-25T11:11:12-05:00",
+  "palabras": "Antioquia, Ejército Nacional, Disidencias Farc",
+  "lead": "A los delincuentes les incautaron armas, droga y dispositivos para detonar artefactos explosivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevas cámaras en Bucaramanga buscan ayudar a identificar y ubicar delincuentes",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nuevas-camaras-en-bucaramanga-buscan-ayudar-a-identificar-y-ubicar-delincuentes-rg10",
+  "fecha": "2026-10-25T11:18:37-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Bucaramanga, Policía Nacional",
+  "lead": "La ciudad tendrá 80 cámaras de lectura de placas vehiculares y más de 20 de reconocimiento facial. El alcalde Cristian Portilla confirmó que ya arrancaron las excavaciones y las obras civiles para instalar los dispositivos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ocho personas privadas de la libertad escaparon de un CAI de Palmira, Valle",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/ocho-personas-privadas-de-la-libertad-escaparon-de-un-cai-de-palmira-valle-rg10",
+  "fecha": "2026-10-25T11:55:14-05:00",
+  "palabras": "Palmira, Valle del Cauca",
+  "lead": "La Policía Valle desplegó unidades de búsqueda e inteligencia para ubicarlos y lograr su recaptura. Los implicados se encontraban en calidad de sindicados en el CAI Las Delicias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué es el éxito? El cambio de dinero y la tranquilidad: en Blu Jeans, 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/que-es-el-exito-el-cambio-de-dinero-y-la-tranquilidad-en-blu-jeans-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T11:13:25-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "En Blu Jeans del domingo, 24 de octubre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estudiantes de Santander podrán estudiar en universidades del exterior: así funciona el programa",
+  "enlace": "https://www.bluradio.com/sociedad/educacion/estudiantes-de-santander-podran-estudiar-en-universidades-del-exterior-asi-funciona-el-programa-so35",
+  "fecha": "2026-10-25T11:40:11-05:00",
+  "palabras": "Estados Unidos, Bucaramanga",
+  "lead": "Una estudiante de Bucaramanga obtuvo una beca del 100 % para estudiar en Texas State University antes de graduarse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Trump tras el regreso de María Corina Machado a Venezuela: \"espero esté a salvo\"",
+  "enlace": "https://www.bluradio.com/mundo/trump-tras-el-regreso-de-maria-corina-machado-a-venezuela-espero-este-a-salvo-cb20",
+  "fecha": "2026-10-25T11:56:02-05:00",
+  "palabras": "Donald Trump, María Corina Machado, Venezuela",
+  "lead": "Trump, expresó este domingo su deseo de que la líder opositora venezolana, María Corina Machado, esté a salvo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Camilo Durán vuelve a marcar y le da un nuevo triunfo al Celtic de Escocia",
+  "enlace": "https://caracol.com.co/2026/10/25/video-camilo-duran-vuelve-a-marcar-y-le-da-un-nuevo-triunfo-al-celtic-de-escocia/",
+  "fecha": "2026-10-25T11:53:11-05:00",
+  "palabras": "",
+  "lead": "El colombiano ya suma seis goles y cinco asistencias en diez partidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres personas fueron asesinadas en un ataque armado en zona rural de Algeciras, Huila",
+  "enlace": "https://caracol.com.co/2026/10/25/tres-personas-fueron-asesinadas-en-un-ataque-armado-en-zona-rural-de-algeciras-huila/",
+  "fecha": "2026-10-25T11:53:09-05:00",
+  "palabras": "",
+  "lead": "Dos hombres en motocicleta habrían disparado contra las víctimas en un establecimiento comercial de la vereda La Perdiz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Manchester United, al borde del descenso! Así quedó en la tabla de posiciones, tras perder en casa",
+  "enlace": "https://caracol.com.co/2026/10/25/manchester-united-al-borde-del-descenso-asi-quedo-en-la-tabla-de-posiciones-tras-perder-en-casa/",
+  "fecha": "2026-10-25T11:35:50-05:00",
+  "palabras": "",
+  "lead": "Los Red Devils fueron goleados 0-3 por el Bournemouth.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La ficción hoy es clave, logra reunir a quienes nunca estarían juntos”: escritor Ricardo Silva",
+  "enlace": "https://caracol.com.co/2026/10/25/la-ficcion-hoy-es-clave-logra-reunir-a-quienes-nunca-estarian-juntos-escritor-ricardo-silva/",
+  "fecha": "2026-10-25T11:29:37-05:00",
+  "palabras": "",
+  "lead": "En Los Protagonistas, con Gustavo Gómez, el escritor bogotano Ricardo Silva Romero hizo algunas reflexiones sobre el oficio de escribir, compartió su visión de la política y se refirió al impacto de la inteligencia artificial en el mundo literario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liverpool rompe la mala racha en casa con triunfo ante Brighton",
+  "enlace": "https://www.lafm.com.co/deportes/liverpool-brighton-premier-league-resultados-posiciones-hoy-415096",
+  "fecha": "2026-10-25T11:55:00-05:00",
+  "palabras": "Deportes,Premier League,Liverpool,Brighton,Liga Inglesa,Fútbol",
+  "lead": "Con este resultado, el Liverpool ascendió al cuarto lugar de la clasificación, con 15 puntos, mientras los visitantes se mantuvieron por encima, con 16 uni...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bournemouth golea al United en Old Trafford y agrava su crisis",
+  "enlace": "https://www.lafm.com.co/deportes/manchester-united-bournemouth-derrota-goleada-premier-league-crisis-michael-carrick-415093",
+  "fecha": "2026-10-25T11:51:00-05:00",
+  "palabras": "Deportes,Manchester United,Premiere League,Bournemouth,Liga Inglesa,Fútbol",
+  "lead": "El Manchester United cae en la lista de descenso de la Premier League sumando sólo 7 puntos en ocho partidos posibles, agravando una situación que, de no c...",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
