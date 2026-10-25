@@ -7,7 +7,7 @@
   "palabras": "Lotería de Boyacá, Resultado de loterías de hoy, Loterías de hoy, 5707 serie 232, lotería de Boyacá 24 de octubre, lotería de Boyacá hoy, lotería de Boyacá sorteo 4647, número ganador lotería de Boyacá, premio mayor lotería de Boyacá, qué cayó en la lotería de Boyacá",
   "lead": "El sorteo 4647 de la Lotería de Boyacá del sábado 24 de octubre de 2026 entregó el premio mayor de $15.000 millones al número 5707 de la serie 232. Revise su billete.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería del Cauca, Loterías de hoy, Resultado de loterías de hoy",
   "lead": "La Lotería del Cauca realizó el sorteo 2634 este sábado 24 de octubre de 2026. Miles de personas esperan llevarse el premio mayor de $8.000 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Baloto, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Todos los resultados del sorteo 2.726 de Baloto y Revancha en Colombia del miércoles 24 de octubre de 2026. Consulte la combinación ganadora, la tabla de aciertos y los nuevos acumulados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Quindío, Accidente de tránsito",
   "lead": "Ante lo ocurrido, se reportó el cierre total de la vía, lo que afecta la movilidad en este tramo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Automovilismo",
   "lead": "La lluvia y la poca visibilidad obligaron a suspender la carrera dominical, lo que mantiene a Marc Márquez a 10 puntos de un lesionado Jorge Martín en el Mundial.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Barcelona, Protestas en Francia",
   "lead": "Los Mossos d’Esquadra reportan 23 comercios vandalizados y 33 incendios tras la concentración en plaza de Cataluña, que reunió a cerca de 600 jóvenes.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "",
   "lead": "María José Recuero falleció tras resultar herida durante un intercambio de disparos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "",
   "lead": "Yúber Quiñones anotó el tanto del empate en el tiempo de adición.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Internacional,Brasil,Elecciones presidenciales,Lula da Silva,Jair Bolsonaro",
   "lead": "Cerca de 159 millones de brasileños están convocados a las urnas este domingo para elegir entre el actual mandatario Luiz Inácio Lula da Silva y el senador...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -105,6 +105,28 @@
   "fecha": "2026-10-24T23:02:00-05:00",
   "palabras": "Sociedad,Lotería de Boyacá,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
   "lead": "Este sábado, la Lotería de Boyacá tiene nuevo número ganador del premio mayor.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Villacampestre alerta por ingreso de aguas en medio de las obras de la Gran Vía",
+  "enlace": "https://caracol.com.co/2026/10/25/villacampestre-alerta-por-ingreso-de-aguas-en-medio-de-las-obras-de-la-gran-via/",
+  "fecha": "2026-10-25T05:59:23-05:00",
+  "palabras": "",
+  "lead": "Gobernación revisará cuencas que llevan aguas hacia las zonas afectadas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deslizamientos bloquean vías en la Sierra Nevada: Gobernación explica situación de la maquinaria",
+  "enlace": "https://caracol.com.co/2026/10/25/deslizamientos-bloquean-vias-en-la-sierra-nevada-gobernacion-explica-situacion-de-la-maquinaria/",
+  "fecha": "2026-10-25T06:00:01-05:00",
+  "palabras": "",
+  "lead": "Las fuertes lluvias del 24 de octubre provocaron nuevos aludes de tierra en sectores cafeteros de la Sierra Nevada de Santa Marta. Los habitantes de San Javier y otras veredas de Ciénaga piden maquinaria amarilla para recuperar la movilidad y evitar mayores afectaciones a sus cultivos.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
