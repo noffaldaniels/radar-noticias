@@ -1888,7 +1888,7 @@
   "palabras": "El Salvador, Viral",
   "lead": "La situación ocurrió en el municipio de Sonsonate, en el occidente de El Salvador, luego de las fuertes lluvias que golpearon la zona.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "",
   "lead": "Venezolanos se dan cita en el centro de Cúcuta",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "",
   "lead": "Según explicó la DIAN, existe una medida transitoria que permite reducir el valor de determinadas sanciones, siempre que se cumplan los requisitos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "",
   "lead": "Le contamos de cuánto es la multa por sacar su vehículo en horario de pico y placa en caso de tener la restricción.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,7 +1932,7 @@
   "palabras": "",
   "lead": "El elemento tiene un grafiti del EPL",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1943,7 +1943,7 @@
   "palabras": "",
   "lead": "El Distrito busca recuperar plenamente el inmueble y avanzar en las acciones legales correspondientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,6 +1954,149 @@
   "palabras": "Internacional,Brasil,Votaciones,Lula da Silva",
   "lead": "La medida fue adoptada por un magistrado del Supremo Tribunal Federal tras las denuncias del presidente Lula da Silva sobre problemas de transporte en vari...",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Madre y hermana de dos santandereanos desaparecidos en Rusia piden ayuda al Gobierno",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/madre-y-hermana-de-dos-santandereanos-desaparecidos-en-rusia-piden-ayuda-al-gobierno-rg10",
+  "fecha": "2026-10-25T17:01:59-05:00",
+  "palabras": "Santander, Gobierno nacional, Noticias de hoy",
+  "lead": "Fredy Alexander Vargas, de Curití, y Óscar Mauricio Velásquez, de San Gil, completan meses sin contacto con sus familias. Sus seres queridos piden la intervención del presidente para conocer su paradero.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video: conductor saltó de su carro justo antes de que cayera por un barranco",
+  "enlace": "https://www.bluradio.com/mundo/video-conductor-salto-de-su-carro-justo-antes-de-que-cayera-por-un-barranco-so35",
+  "fecha": "2026-10-25T17:03:33-05:00",
+  "palabras": "Viral, India",
+  "lead": "Varios hombres intentaron evitar que el automóvil cayera al vacío, pero el vehículo comenzó a rodar por la pendiente y el conductor tuvo que salir en medio de la emergencia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Paisita Noche hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-paisita-noche-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T17:17:32-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita día",
+  "lead": "El Paisita Noche juega todos los días y cuenta con diferentes modalidades de apuesta para quienes buscan probar suerte en Colombia. Los participantes pueden consultar el número ganador de este domingo 25 de octubre de 2026 y verificar si su tiquete coincide con el resultado oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "EN VIVO | Resultado elecciones en Brasil: Lula y Bolsonaro se enfrentan en segunda vuelta",
+  "enlace": "https://www.bluradio.com/mundo/en-vivo-resultado-elecciones-en-brasil-lula-y-bolsonaro-se-enfrentan-en-segunda-vuelta-so35",
+  "fecha": "2026-10-25T17:27:10-05:00",
+  "palabras": "Brasil, Elecciones Brasil",
+  "lead": "Siga el minuto a minuto de la jornada electoral en Brasil, el avance del escrutinio y los resultados oficiales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Con dos goles de Mbappé el Real Madrid de Mourinho electrocuta al Barca en el Camp Nou",
+  "enlace": "https://www.bluradio.com/deportes/futbol/con-dos-goles-de-mbappe-el-real-madrid-de-mourinho-electrocuta-al-barca-en-el-camp-nou-cb20",
+  "fecha": "2026-10-25T17:38:12-05:00",
+  "palabras": "Barcelona, Real Madrid, Kylian Mbappé, Jose Mourinho",
+  "lead": "La victoria merengue deja la liga más comprimida, con el Barcelona como líder, pero con el Atlético de Madrid a dos puntos y el Real Madrid, tercero, a tres.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Dorado Noche hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-dorado-noche-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T17:59:41-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Noche",
+  "lead": "El Dorado Noche juega los domingos y permite participar en diferentes modalidades de apuesta. Consulte el resultado de este domingo 25 de octubre de 2026, conozca las cifras ganadoras y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensora pedirá priorizar investigación contra Petro por presuntos pagos sexuales con contratos",
+  "enlace": "https://caracol.com.co/2026/10/25/defensora-del-pueblo-pedira-priorizar-investigacion-contra-petro-por-denuncia-de-deicy-jimenez/",
+  "fecha": "2026-10-25T17:38:22-05:00",
+  "palabras": "",
+  "lead": "Esto luego de los señalamientos hechos por Deicy Jiménez, quien aseguró que habría recibido contratos estatales a cambio de encuentros sexuales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así quedó la tabla de posiciones de LaLiga de España tras victoria del Real Madrid al Barcelona",
+  "enlace": "https://caracol.com.co/2026/10/25/asi-quedo-la-tabla-de-posiciones-de-laliga-de-espana-tras-victoria-del-real-madrid-al-barcelona/",
+  "fecha": "2026-10-25T17:43:58-05:00",
+  "palabras": "",
+  "lead": "José Mourinho frenó en seco al equipo de Hansi Flick en el campeonato español.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Nacional vs Medellín en el clásico paisa HOY por Liga: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/25/en-vivo-nacional-vs-medellin-en-el-clasico-paisa-hoy-por-liga-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-10-25T17:53:51-05:00",
+  "palabras": "",
+  "lead": "El conjunto verdolaga buscará retomar el liderato; mientras que el Poderoso quiere consolidarse dentro de los ocho.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ante la ONU se lanzó alerta sobre contaminación que pone en riesgo el futuro del agua para Cali",
+  "enlace": "https://caracol.com.co/2026/10/25/ante-la-onu-se-lanzo-alerta-sobre-contaminacion-que-pone-en-riesgo-el-futuro-del-agua-para-cali/",
+  "fecha": "2026-10-25T17:30:21-05:00",
+  "palabras": "",
+  "lead": "De los ríos que nacen en el Parque Nacional Natural los Farallones, dependen acueductos que abastecen a más de 600 mil usuarios en la Capital del Valle.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nacional vs Medellín: por qué no jugó JuanFer Quintero contra James",
+  "enlace": "https://www.lafm.com.co/deportes/juanfer-quintero-porque-no-juega-clasico-medellin-nacional-contra-james-415113",
+  "fecha": "2026-10-25T17:27:00-05:00",
+  "palabras": "Deportes,Juan Fernando Quintero,James Rodríguez,Atlético Nacional,Deportivo Independiente Medellín,Liga BetPlay",
+  "lead": "El experimentado mediocampista no estuvo en ninguno de los Nacional vs Medellín por Copa y Liga debido a una complicada lesión.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Barcelona 1-2 Real Madrid: resumen y goles del clásico español",
+  "enlace": "https://www.lafm.com.co/deportes/real-madrid-vence-barcelona-doble-mbappe-liga-espanola-415112",
+  "fecha": "2026-10-25T17:20:00-05:00",
+  "palabras": "Deportes,Real Madrid,FC Barcelona,Kylian Mbappé,Liga Española",
+  "lead": "El equipo merengue dio el golpe en el Camp Nou con dos tantos del francés, candidato a ganar el Balón de Oro este lunes.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Soldado sobrevivió alimentándose de cocos en Segovia",
+  "enlace": "https://www.lafm.com.co/orden-publico/segovia-antioquia-andres-casterbondo-soldado-sobrevivio-comida-coco-seis-dias-perdido-montanas-415110",
+  "fecha": "2026-10-25T15:51:00-05:00",
+  "palabras": "Orden Público,Historia,Ejército Nacional,Sobreviviente,Drones,Ataque aéreo",
+  "lead": "El soldado Andrés Casterbondo Macías sobrevivió seis días desaparecido en las montañas de Segovia, Antioquia.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
