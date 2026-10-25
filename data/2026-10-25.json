@@ -150,7 +150,7 @@
   "palabras": "",
   "lead": "Es la segunda emergencia de este tipo registrada recientemente en la ciudad, lo que vuelve a poner en evidencia la urgencia de intervenir las edificaciones que presentan riesgo estructural.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "El Ministerio de las Culturas dijo que la Presidencia de la República se encargó de la edición, el diseño y la diagramación de “Las palabras del cambio”, pero la misma Presidencia aseguró que no destinó recursos ni firmó ningún documento para el proyecto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,6 +172,171 @@
   "palabras": "",
   "lead": "Más de 150 millones de brasileños están llamados a las urnas para definir entre el presidente Luiz Inácio Lula da Silva y el senador opositor Flávio Bolsonaro",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Profesora denuncia trabas para tratar cáncer en Medellín: \"No tengo tiempo para seguir esperando\"",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/profesora-denuncia-trabas-para-tratar-cancer-en-medellin-no-tengo-tiempo-para-seguir-esperando-rg10",
+  "fecha": "2026-10-25T07:22:05-05:00",
+  "palabras": "Antioquia, Medellín, Fomag, Profesores, Salud, Cáncer",
+  "lead": "La mujer necesita quimioterapia de rescate y avanzar hacia un trasplante alogénico de médula ósea, mientras continúa incapacitada luchando por recibir una atención oportuna.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Condenaron a 23 años de prisión a extranjero encontrado con 15 menores en finca de Copacabana",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/condenaron-a-23-anos-de-prision-a-extranjero-encontrado-con-15-menores-en-finca-de-copacabana-rg10",
+  "fecha": "2026-10-25T07:38:58-05:00",
+  "palabras": "Antioquia, Medellín, Abuso sexual Menores de Edad, Estados Unidos",
+  "lead": "El hombre habría viajado al Valle de Aburrá al menos siete veces para tener encuentros sexuales con adolescentes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobernación de Antioquia celebró derogación de las APPA en 19 municipios del suroeste",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobernacion-de-antioquia-celebro-derogacion-de-las-appa-en-19-municipios-del-suroeste-rg10",
+  "fecha": "2026-10-25T07:44:48-05:00",
+  "palabras": "Ministerio de Agricultura, Antioquia, Gobernación de Antioquia",
+  "lead": "La decisión dejó sin efecto las restricciones específicas sobre más de 102.000 hectáreas por supuestas fallas técnicas y metodológicas en la delimitación de las áreas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colegios electorales abren las urnas para la segunda vuelta presidencial de Brasil",
+  "enlace": "https://www.bluradio.com/mundo/colegios-electorales-abren-las-urnas-para-la-segunda-vuelta-presidencial-de-brasil-cb20",
+  "fecha": "2026-10-25T07:40:04-05:00",
+  "palabras": "Brasil, Elecciones Brasil, Flávio Bolsonaro, Lula Da Silva",
+  "lead": "Unos 158,7 millones de votantes fueron convocados para salir a las urnas en esta jornada, en la que también se elegirán seis mandatarios regionales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres heridos por tractocamión incendiado en el puente Helicoidal vía la Línea en Calarcá, Quindío",
+  "enlace": "https://caracol.com.co/2026/10/25/tres-heridos-por-tractocamion-incendiado-en-el-puente-helicoidal-via-la-linea-en-calarca-quindio/",
+  "fecha": "2026-10-25T07:45:10-05:00",
+  "palabras": "",
+  "lead": "El siniestro vial se registró en la noche del sábado 24 de octubre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tibuyanos marcharán para pedir la libertad de comerciante",
+  "enlace": "https://caracol.com.co/2026/10/25/tibuyanos-marcharan-para-pedir-la-libertad-de-comerciante/",
+  "fecha": "2026-10-25T07:46:34-05:00",
+  "palabras": "",
+  "lead": "Autoridades desconocen quienes serían los responsables del plagio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de goleadores de la Liga Colombiana: Yeison Guzmán amplió su ventaja en el liderato",
+  "enlace": "https://caracol.com.co/2026/10/25/tabla-de-goleadores-de-la-liga-colombiana-yeison-guzman-amplio-su-ventaja-en-el-liderato/",
+  "fecha": "2026-10-25T07:40:49-05:00",
+  "palabras": "",
+  "lead": "Apretada lucha por quedarse con el Botín de Oro del segundo semestre.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empresa de acueducto mantiene contingencia por el fenómeno del niño",
+  "enlace": "https://caracol.com.co/2026/10/25/empresa-de-acueducto-mantiene-contingencia-por-el-fenomeno-del-nino/",
+  "fecha": "2026-10-25T07:34:49-05:00",
+  "palabras": "",
+  "lead": "Veolia Aguas del Norte insiste en el ahorro del líquido",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "David González destacó la recuperación del América: “Tenemos ganas de ganar”",
+  "enlace": "https://caracol.com.co/2026/10/25/david-gonzalez-destaco-la-recuperacion-del-america-tenemos-ganas-de-ganar/",
+  "fecha": "2026-10-25T07:29:35-05:00",
+  "palabras": "",
+  "lead": "El técnico antioqueño valoró el rendimiento colectivo tras vencer al Cúcuta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta por muertes selectivas en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/25/alerta-por-muertes-selectivas-en-el-catatumbo/",
+  "fecha": "2026-10-25T07:21:09-05:00",
+  "palabras": "",
+  "lead": "Autoridades investigan quienes serían los responsables",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reclasificación en Colombia 2026: así van los cupos internacionales tras la victoria del América",
+  "enlace": "https://caracol.com.co/2026/10/25/reclasificacion-en-colombia-2026-asi-van-los-cupos-internacionales-tras-la-victoria-del-america/",
+  "fecha": "2026-10-25T07:18:21-05:00",
+  "palabras": "",
+  "lead": "Se mantiene la pelea por los torneos internacionales del próximo año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro capturados por robo de energía en Ciénaga: pérdidas superarían los $59 millones mensuales",
+  "enlace": "https://caracol.com.co/2026/10/25/cuatro-capturados-por-robo-de-energia-en-cienaga-perdidas-superarian-los-59-millones-mensuales/",
+  "fecha": "2026-10-25T07:17:00-05:00",
+  "palabras": "",
+  "lead": "El operativo se realizó en una recicladora de la zona rural de Ciénaga, Magdalena, donde las autoridades encontraron un transformador instalado irregularmente. Air-e también advirtió sobre riesgos eléctricos para unas 40 personas que permanecían en el lugar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Bucaramanga instalan cámaras LPR para identificar vehículos vinculados a delitos",
+  "enlace": "https://caracol.com.co/2026/10/25/en-bucaramanga-instalan-camaras-lpr-para-identificar-vehiculos-vinculados-a-delitos/",
+  "fecha": "2026-10-25T07:16:00-05:00",
+  "palabras": "",
+  "lead": "El alcalde anunció el inicio de las obras civiles para la instalación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones Brasil: candidato favorito entre Lula y Bolsonaro",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-presidenciales-brasil-2026-jair-bolsonaro-lula-da-silva-415080",
+  "fecha": "2026-10-25T07:26:00-05:00",
+  "palabras": "Internacional,Elecciones en el exterior,Brasil,Jair Bolsonaro,Lula da Silva",
+  "lead": "La votación de este domingo definirá el resultado de una contienda en la que las mediciones muestran porcentajes cercanos entre los dos candidatos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Testimonio de la madre de la niña de  Frontino, Antioquia",
+  "enlace": "https://www.lafm.com.co/orden-publico/triste-testimonio-madre-nina-asesinada-en-frontino-antioquia-415078",
+  "fecha": "2026-10-25T06:17:00-05:00",
+  "palabras": "Orden Público,Menores,Feminicidio,Antioquia,Gobernación de Antioquia",
+  "lead": "Irma Estela Mesa Echavarría exigió justicia y más celeridad por parte de las autoridades para capturar a los responsables de la muerte de su hija.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
