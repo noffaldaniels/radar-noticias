@@ -348,7 +348,7 @@
   "palabras": "Brasil, Flávio Bolsonaro",
   "lead": "Bolsonaro votó unos veinte minutos después de que fueran abiertas las mesas en la escuela municipal Barão Homem de Mello, en Río de Janeiro.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Montería, Santa Marta, Cartagena, Emergencias por lluvias",
   "lead": "Grandes cantidades de basura provocaron el taponamiento de arroyos y caños. En Santa Marta declararon la alerta roja. El Ideam advierte de más precipitaciones este domingo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo de la Espriella acompañó a la familia de María José Recuero Suárez, de 20 años, quien murió tras recibir un disparo en la cabeza durante un enfrentamiento con presuntos ladrones",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,6 +381,182 @@
   "palabras": "",
   "lead": "Andrés Casterbondo Macías fue encontrado tras seis días de búsqueda. El Ejército confirmó el hallazgo en una vereda de Antioquia.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pastor César Castellanos invitó a orar por Colombia y pidió misericordia ante los juicios de Dios",
+  "enlace": "https://www.bluradio.com/sociedad/religion/pastor-cesar-castellanos-invito-a-orar-por-colombia-y-pidio-misericordia-ante-los-juicios-de-dios-pr30",
+  "fecha": "2026-10-25T09:01:17-05:00",
+  "palabras": "Oraciones, Reflexión del día",
+  "lead": "El líder religioso interpretó las profecías del Apocalipsis y explicó por qué considera fundamental la intercesión de los creyentes ante posibles adversidades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estos trabajadores fueron advertidos por medida del Gobierno: prestación de servicios tendrá ajustes",
+  "enlace": "https://www.bluradio.com/nacion/trabajadores-quedaron-advertidos-por-medida-del-gobierno-prestacion-de-servicios-tendra-ajustes-so35",
+  "fecha": "2026-10-25T08:57:32-05:00",
+  "palabras": "Trabajo, Gobierno nacional, Abelardo De La Espriella",
+  "lead": "El recorte de $13,8 billones afecta gastos de funcionamiento e inversión y podría tener una segunda reducción antes de finalizar 2026.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump votó de forma anticipada para las elecciones de mitad de mandato",
+  "enlace": "https://caracol.com.co/2026/10/25/trump-voto-de-forma-anticipada-para-las-elecciones-de-mitad-de-mandato/",
+  "fecha": "2026-10-25T08:59:26-05:00",
+  "palabras": "",
+  "lead": "El presidente aseguró que la “corrupción demócrata” es una de las principales preocupaciones de los votantes.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia desembolsa $56.000 millones en créditos para impulsar exportaciones",
+  "enlace": "https://caracol.com.co/2026/10/25/antioquia-desembolsa-56000-millones-en-creditos-para-impulsar-exportaciones/",
+  "fecha": "2026-10-25T08:56:34-05:00",
+  "palabras": "",
+  "lead": "La Turbina de Crédito Exportadora ofrece compensaciones a las tasas de interés para empresas que exportan productos de origen antioqueño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Francia registró 1.314 detenidos en las protestas del sábado",
+  "enlace": "https://caracol.com.co/2026/10/25/francia-registro-1314-detenidos-en-las-protestas-del-sabado/",
+  "fecha": "2026-10-25T08:52:59-05:00",
+  "palabras": "",
+  "lead": "Las autoridades también contabilizaron 24 comercios saqueados.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incautan 32 kilos de cocaína a la banda Los Chivos en Belén",
+  "enlace": "https://caracol.com.co/2026/10/25/incautan-32-kilos-de-cocaina-a-la-banda-los-chivos-en-belen/",
+  "fecha": "2026-10-25T08:51:50-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de Medellín, la Policía y la Fiscalía realizaron un allanamiento en el barrio La Hondanada, donde capturaron a una persona e incautaron un celular y elementos para dosificar estupefacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No resignamos la clasificación”: Panelo Valencia confía con la presencia del Once Caldas en finales",
+  "enlace": "https://caracol.com.co/2026/10/25/no-resignamos-la-clasificacion-panelo-valencia-confia-con-la-presencia-del-once-caldas-en-finales/",
+  "fecha": "2026-10-25T08:43:53-05:00",
+  "palabras": "",
+  "lead": "El técnico lamentó la falta de eficacia ante Pereira y mantiene la esperanza de clasificar.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Condenan a 23 años a Heinz Pool Buleje por explotación sexual de una menor en Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/25/condenan-a-23-anos-a-heinz-pool-buleje-por-explotacion-sexual-de-una-menor-en-antioquia/",
+  "fecha": "2026-10-25T08:38:08-05:00",
+  "palabras": "",
+  "lead": "El ciudadano peruano-estadounidense fue capturado en 2017 en Copacabana. Federico Gutiérrez reportó 14 condenas desde 2024.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seis capturados en operativos contra presuntas redes vinculadas al ELN en Uribia, La Guajira",
+  "enlace": "https://caracol.com.co/2026/10/25/seis-capturados-en-operativos-contra-presuntas-redes-vinculadas-al-eln-en-uribia-la-guajira/",
+  "fecha": "2026-10-25T08:37:00-05:00",
+  "palabras": "",
+  "lead": "Tres de las capturas se materializaron mediante orden judicial",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inició la transformación de dos sedes de la Institución Educativa Rafael Núñez",
+  "enlace": "https://caracol.com.co/2026/10/25/inicio-la-transformacion-de-dos-sedes-de-la-institucion-educativa-rafael-nunez/",
+  "fecha": "2026-10-25T08:35:39-05:00",
+  "palabras": "",
+  "lead": "Cerca de 800 estudiantes se beneficiarán con aulas renovadas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Que se cumpla el compromiso”: expectativa en el sur del Atlántico por obras del Canal del Dique",
+  "enlace": "https://caracol.com.co/2026/10/25/que-se-cumpla-el-compromiso-expectativa-en-el-sur-del-atlantico-por-obras-del-canal-del-dique/",
+  "fecha": "2026-10-25T08:30:10-05:00",
+  "palabras": "",
+  "lead": "Los trabajos iniciarían en febrero del 2027, según anunció el exministro del Interior, Rodrigo Lara",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El HIC es el hospital más inteligente de Colombia y ocupa el puesto 9 en Latinoamérica",
+  "enlace": "https://caracol.com.co/2026/10/25/el-hic-es-el-hospital-mas-inteligente-de-colombia-y-ocupa-el-puesto-9-en-latinoamerica/",
+  "fecha": "2026-10-25T08:27:13-05:00",
+  "palabras": "",
+  "lead": "Con la tecnología Mantra 3 se han realizado más de 100 procedimientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador de Antioquia celebra derogatoria de las APPA en el Suroeste",
+  "enlace": "https://caracol.com.co/2026/10/25/gobernador-de-antioquia-celebra-derogatoria-de-las-appa-en-el-suroeste/",
+  "fecha": "2026-10-25T08:19:16-05:00",
+  "palabras": "",
+  "lead": "Andrés Julián Rendón aseguró que la decisión devuelve a los municipios autonomía sobre el uso del suelo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAgricultura deroga las APPA en 19 municipios del Suroeste antioqueño",
+  "enlace": "https://caracol.com.co/2026/10/25/minagricultura-deroga-las-appa-en-19-municipios-del-suroeste-antioqueno/",
+  "fecha": "2026-10-25T08:15:39-05:00",
+  "palabras": "",
+  "lead": "La medida libera 102.801 hectáreas. El ministro Indalecio Dangond anunció que eliminarán las APPA en todo el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno designa a Ricardo Arias Macías en Derechos Humanos",
+  "enlace": "https://www.lafm.com.co/politica/gobierno-designa-ricardo-arias-macias-consejero-derechos-humanos-presidencia-415079",
+  "fecha": "2026-10-25T08:58:00-05:00",
+  "palabras": "Política,Derechos humanos,Gobierno,Abelardo de la Espriella,Colombia",
+  "lead": "Macías fue candidato a la Cámara por Bogotá en las 2026 por el partido Colombia Justa Libres, pero no obtuvo una curul.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Un nuevo bloque político en Sudamérica? Brasil define su rumbo",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-brasil-define-su-rumbo-posibles-alianzas-regionales-estados-unidos-futuro-politico-sudamerica-415085",
+  "fecha": "2026-10-25T08:46:00-05:00",
+  "palabras": "Internacional,Brasil,Elecciones presidenciales,Presidente electo,América,sudamerica",
+  "lead": "El médico y político brasileño Osmar Terra, anticipó cambios en la política de seguridad, una mayor cercanía con Estados Unidos y el fortalecimiento de la....",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
