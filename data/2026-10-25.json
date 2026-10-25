@@ -183,7 +183,7 @@
   "palabras": "Antioquia, Medellín, Fomag, Profesores, Salud, Cáncer",
   "lead": "La mujer necesita quimioterapia de rescate y avanzar hacia un trasplante alogénico de médula ósea, mientras continúa incapacitada luchando por recibir una atención oportuna.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "Antioquia, Medellín, Abuso sexual Menores de Edad, Estados Unidos",
   "lead": "El hombre habría viajado al Valle de Aburrá al menos siete veces para tener encuentros sexuales con adolescentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "Ministerio de Agricultura, Antioquia, Gobernación de Antioquia",
   "lead": "La decisión dejó sin efecto las restricciones específicas sobre más de 102.000 hectáreas por supuestas fallas técnicas y metodológicas en la delimitación de las áreas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Brasil, Elecciones Brasil, Flávio Bolsonaro, Lula Da Silva",
   "lead": "Unos 158,7 millones de votantes fueron convocados para salir a las urnas en esta jornada, en la que también se elegirán seis mandatarios regionales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "El siniestro vial se registró en la noche del sábado 24 de octubre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Autoridades desconocen quienes serían los responsables del plagio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Apretada lucha por quedarse con el Botín de Oro del segundo semestre.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "Veolia Aguas del Norte insiste en el ahorro del líquido",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "El técnico antioqueño valoró el rendimiento colectivo tras vencer al Cúcuta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "Autoridades investigan quienes serían los responsables",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Se mantiene la pelea por los torneos internacionales del próximo año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "El operativo se realizó en una recicladora de la zona rural de Ciénaga, Magdalena, donde las autoridades encontraron un transformador instalado irregularmente. Air-e también advirtió sobre riesgos eléctricos para unas 40 personas que permanecían en el lugar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "El alcalde anunció el inicio de las obras civiles para la instalación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "Internacional,Elecciones en el exterior,Brasil,Jair Bolsonaro,Lula da Silva",
   "lead": "La votación de este domingo definirá el resultado de una contienda en la que las mediciones muestran porcentajes cercanos entre los dos candidatos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,6 +337,50 @@
   "palabras": "Orden Público,Menores,Feminicidio,Antioquia,Gobernación de Antioquia",
   "lead": "Irma Estela Mesa Echavarría exigió justicia y más celeridad por parte de las autoridades para capturar a los responsables de la muerte de su hija.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Con lluvia o con sol\": Bolsonaro pide salir a votar para cambiar el país",
+  "enlace": "https://www.bluradio.com/mundo/con-lluvia-o-con-sol-bolsonaro-pide-salir-a-votar-para-cambiar-el-pais-cb20",
+  "fecha": "2026-10-25T08:01:57-05:00",
+  "palabras": "Brasil, Flávio Bolsonaro",
+  "lead": "Bolsonaro votó unos veinte minutos después de que fueran abiertas las mesas en la escuela municipal Barão Homem de Mello, en Río de Janeiro.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias causan estragos e inundaciones en varios departamentos del Caribe colombiano",
+  "enlace": "https://www.bluradio.com/regiones/caribe/lluvias-causan-estragos-e-inundaciones-en-varios-departamentos-del-caribe-colombiano-rg10",
+  "fecha": "2026-10-25T08:07:30-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Montería, Santa Marta, Cartagena, Emergencias por lluvias",
+  "lead": "Grandes cantidades de basura provocaron el taponamiento de arroyos y caños. En Santa Marta declararon la alerta roja. El Ideam advierte de más precipitaciones este domingo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con honores, velatón y visita presidencial a su familia, despiden a patrullera asesinada en Cali",
+  "enlace": "https://caracol.com.co/2026/10/25/con-honores-velaton-y-visita-presidencial-a-su-familia-despiden-a-patrullera-asesinada-en-cali/",
+  "fecha": "2026-10-25T08:12:24-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella acompañó a la familia de María José Recuero Suárez, de 20 años, quien murió tras recibir un disparo en la cabeza durante un enfrentamiento con presuntos ladrones",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan con vida a soldado desaparecido tras ataque con drones en Segovia, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/25/hallan-con-vida-a-soldado-desaparecido-tras-ataque-con-drones-en-segovia-antioquia/",
+  "fecha": "2026-10-25T08:07:40-05:00",
+  "palabras": "",
+  "lead": "Andrés Casterbondo Macías fue encontrado tras seis días de búsqueda. El Ejército confirmó el hallazgo en una vereda de Antioquia.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
