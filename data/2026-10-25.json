@@ -139,6 +139,39 @@
   "palabras": "",
   "lead": "Dirigentes participaron en la segunda convención departamental del movimiento, realizada en Tunja.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tras seis horas de búsqueda, descartan personas atrapadas en edificio colapsado en Pereira",
+  "enlace": "https://caracol.com.co/2026/10/25/tras-seis-horas-de-busqueda-descartan-personas-atrapadas-en-edificio-colapsado-en-pereira/",
+  "fecha": "2026-10-25T07:00:00-05:00",
+  "palabras": "",
+  "lead": "Es la segunda emergencia de este tipo registrada recientemente en la ciudad, lo que vuelve a poner en evidencia la urgencia de intervenir las edificaciones que presentan riesgo estructural.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿De dónde salió el dinero? Presidencia dice que no destinó recursos para editar los libros de Petro",
+  "enlace": "https://caracol.com.co/2026/10/25/de-donde-salio-el-dinero-presidencia-dice-que-no-destino-recursos-para-editar-los-libros-de-petro/",
+  "fecha": "2026-10-25T07:00:00-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de las Culturas dijo que la Presidencia de la República se encargó de la edición, el diseño y la diagramación de “Las palabras del cambio”, pero la misma Presidencia aseguró que no destinó recursos ni firmó ningún documento para el proyecto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo van las elecciones en Brasil? 🔴 EN VIVO de segunda vuelta y resultados en directo",
+  "enlace": "https://caracol.com.co/2026/10/25/como-van-las-elecciones-en-brasil-en-vivo-de-segunda-vuelta-y-resultados-en-directo/",
+  "fecha": "2026-10-25T06:54:57-05:00",
+  "palabras": "",
+  "lead": "Más de 150 millones de brasileños están llamados a las urnas para definir entre el presidente Luiz Inácio Lula da Silva y el senador opositor Flávio Bolsonaro",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
