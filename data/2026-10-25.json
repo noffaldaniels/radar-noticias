@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "Gobernación revisará cuencas que llevan aguas hacia las zonas afectadas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -127,6 +127,17 @@
   "fecha": "2026-10-25T06:00:01-05:00",
   "palabras": "",
   "lead": "Las fuertes lluvias del 24 de octubre provocaron nuevos aludes de tierra en sectores cafeteros de la Sierra Nevada de Santa Marta. Los habitantes de San Javier y otras veredas de Ciénaga piden maquinaria amarilla para recuperar la movilidad y evitar mayores afectaciones a sus cultivos.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boyacá Milagro fortalece su estructura política de cara a 2027",
+  "enlace": "https://caracol.com.co/2026/10/25/boyaca-milagro-fortalece-su-estructura-politica-de-cara-a-2027/",
+  "fecha": "2026-10-25T06:12:39-05:00",
+  "palabras": "",
+  "lead": "Dirigentes participaron en la segunda convención departamental del movimiento, realizada en Tunja.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
