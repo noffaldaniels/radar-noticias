@@ -1470,7 +1470,7 @@
   "palabras": "Santander, Dengue, Noticias de hoy, Blu Radio",
   "lead": "El departamento ocupa el tercer lugar nacional por número de contagios. Bucaramanga, Floridablanca, Girón, Barrancabermeja y Piedecuesta están entre los municipios más afectados. En Floridablanca reportan 793 casos, cuatro de dengue grave y tres de ellos corresponden a menores de edad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Empresas sostenibles",
   "lead": "El escritor, columnista, historiador y empresario vinícola santandereano falleció a los 84 años. Fundó el viñedo Sierra Morena, donde produjo el vino Perú de la Croix, inspirado en una idea que marcó su vida: «No hagan lo que todos hacen».",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:34 p. m.. Revise aquí el número ganador hoy 25 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "La obra busca ayudar a los niños a comprender qué ocurre en sus cuerpos durante la enfermedad mediante un lenguaje sencillo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "En un encuentro realizado en Villapinzón, productores, representantes de Fedepapa y autoridades nacionales y departamentales analizaron medidas para combatir el contrabando, fortalecer la producción nacional y mejorar los ingresos de los campesinos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "El equipo jurídico del candidato del Partido de los Trabajadores (PT) envió un recurso “urgentísimo” al Tribunal Superior Electoral (TSE) ante “las incidencias” registradas",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "Este domingo se llevó a cabo el sorteo de los grupos de la próxima instancia del torneo de ascenso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "El Premio Ejecutiva del Año reconoce a líderes de la industria de medios que, por su trayectoria, capacidad de gestión e innovación, contribuyen al desarrollo y fortalecimiento del sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "El cantante de música popular publicó un video en el que aseguró que atravesaba dificultades económicas y que comenzaría a hacer contenido para adultos. Sin embargo, el desenlace de la grabación reveló el verdadero propósito de su anuncio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "El hombre fue trasladado hasta un centro asistencial de manera inmediata.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Deportes,Selección Colombia,Néstor Lorenzo,Fútbol,Dimayor,FIFA,Mundial 2026",
   "lead": "El radar de la Selección Colombia prioriza a los jugadores del exterior y deja en segundo plano a figuras que brillan en la Liga BetPlay.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "Deportes,Liga BetPlay,Once Caldas,Pereira,MANIZALES,actos violentos",
   "lead": "Fuertes peleas se vieron antes y después del partido en diferentes sectores del estadio Palogrande de Manizales durante el Clásico del Eje Cafetero, válido...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "Orden Público,Liberación,Iglesia Católica,ELN,Cauca,Menores",
   "lead": "La joven de 17 años había sido capturada en combates con el frente Dagoberto Ramos de las disidencias de las farc en sector rural de Inzá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "Actualidad,Salud,VIH,Cúcuta,Atención a pacientes",
   "lead": "La Secretaría de Salud de la ciudad descarta cualquier tipo de alerta relacionado con el aumento de casos de VIH.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,6 +1624,259 @@
   "palabras": "Orden Público,Catatumbo,Drones,ELN,Disidentes de las Farc,conflicto armado",
   "lead": "El uso de drones para lanzar explosivos contra instalaciones militares y zonas rurales evidencia la evolución de las tácticas de los grupos armados.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lula da Silva y Flávio Bolsonaro se disputan Brasil, ¿qué está en juego para América Latina?",
+  "enlace": "https://www.bluradio.com/mundo/lula-da-silva-y-flavio-bolsonaro-se-disputan-brasil-que-esta-en-juego-para-america-latina-pr30",
+  "fecha": "2026-10-25T15:04:48-05:00",
+  "palabras": "Lula Da Silva, Flávio Bolsonaro, Brasil",
+  "lead": "La politóloga Regiane Nitsch analiza el desgaste del actual mandatario, los retos de gobernabilidad y los posibles cambios en las relaciones con Estados Unidos y el resto de América Latina.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Macron tomará medidas \"muy concretas\" este lunes por manifestaciones",
+  "enlace": "https://www.bluradio.com/mundo/macron-tomara-medidas-muy-concretas-este-lunes-por-manifestaciones-cb20",
+  "fecha": "2026-10-25T15:07:18-05:00",
+  "palabras": "Protestas en Francia, Emmanuel Macron, Francia",
+  "lead": "Macron también agradeció a las fuerzas del orden su labor para garantizar el orden público durante las movilizaciones que enfrenta Francia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Andrés Forero cuestiona llegada de Ordóñez al MinInterior:  “Se necesita alguien que concierte más”",
+  "enlace": "https://www.bluradio.com/politica/andres-forero-cuestiona-llegada-de-ordonez-al-mininterior-se-necesita-alguien-que-concierte-mas-so35",
+  "fecha": "2026-10-25T15:24:36-05:00",
+  "palabras": "Ministerio del Interior, Congreso de la República, Alejandro Ordóñez, Andrés Forero",
+  "lead": "El senador Andrés Forero cuestionó la llegada de Alejandro Ordóñez al Ministerio del Interior y expresó dudas sobre su capacidad para lograr acuerdos con el Congreso. Además, señaló los retos que enfrenta el Gobierno con la ley de sometimiento y el proyecto de rescate fiscal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Contratación pública y la modernización tecnologíca del Estado: 25 de octubre de 2026 - Blu 4.0",
+  "enlace": "https://www.bluradio.com/blu-4-0/contratacion-publica-y-la-modernizacion-tecnologica-del-estado-25-de-octubre-de-2026-blu-4-0-so35",
+  "fecha": "2026-10-25T15:33:25-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Busca audífonos para jugar o escuchar música? Estas son las novedades que llegan a Colombia",
+  "enlace": "https://www.bluradio.com/tecnologia/busca-audifonos-para-jugar-o-escuchar-musica-estas-son-las-novedades-que-llegan-a-colombia-so35",
+  "fecha": "2026-10-25T15:40:01-05:00",
+  "palabras": "",
+  "lead": "Los nuevos diseños incluyen colores inspirados en los esports, tecnología para mejorar la experiencia de audio y accesorios exclusivos de Hello Kitty, disponibles en Colombia y otros países de América Latina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Regreso de María Corina Machado a Venezuela aumenta presión por elecciones y transición democrática",
+  "enlace": "https://www.bluradio.com/mundo/regreso-de-maria-corina-machado-a-venezuela-aumenta-presion-por-elecciones-y-transicion-democratica-pr30",
+  "fecha": "2026-10-25T15:51:08-05:00",
+  "palabras": "María Corina Machado, Venezuela, Estados Unidos, Donald Trump",
+  "lead": "Así lo analizaron el profesor Benigno Alarcón, director del Centro de Estudios Políticos de la UCAB, y el periodista Roberto Deniz, durante una entrevista en Sala de Prensa Blu, sobre el panorama político venezolano.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Regreso seguro? Marco Rubio atribuyó a EE. UU. la vuelta de María Corina Machado a Venezuela",
+  "enlace": "https://www.bluradio.com/mundo/regreso-seguro-marco-rubio-atribuyo-a-ee-uu-la-vuelta-de-maria-corina-machado-a-venezuela-cb20",
+  "fecha": "2026-10-25T15:56:43-05:00",
+  "palabras": "Marco Rubio, Venezuela, María Corina Machado",
+  "lead": "Rubio aseguró que \"Estados Unidos espera que se sigan respetando las libertades de todos los sectores de la política venezolana\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pacto Histórico denuncia a directora del ICBF por presunta inhabilidad en ocupar cargos públicos",
+  "enlace": "https://caracol.com.co/2026/10/25/pacto-historico-denuncia-a-directora-del-icbf-por-presunta-inhabilidad-en-ocupar-cargos-publicos/",
+  "fecha": "2026-10-25T15:46:30-05:00",
+  "palabras": "",
+  "lead": "La denuncia, hecha por el congresista Alfredo Mondragón del Pacto Histórico, se basa en que la actual directora, María Carolina Restrepo, recibió dineros por parte de un imputado por corrupción en su entonces candidatura al Congreso en el 2022.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alianza Vs. Internacional: Siga acá el minuto a minuto del juegopor la fecha 16",
+  "enlace": "https://caracol.com.co/2026/10/25/alianza-vs-internacional-siga-aca-el-minuto-a-minuto-del-juegopor-la-fecha-16/",
+  "fecha": "2026-10-25T15:46:53-05:00",
+  "palabras": "",
+  "lead": "Ambos equipos se juegan sus últimas chances por llegar al grupo de los ocho.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Senador cuestiona acuerdo de Abelardo con Marco Rubio por recursos mineros: esto denuncia",
+  "enlace": "https://caracol.com.co/2026/10/25/senador-cuestiona-acuerdo-de-abelardo-con-marco-rubio-por-recursos-mineros-esto-denuncia/",
+  "fecha": "2026-10-25T15:43:11-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con el senador del Pacto Histórico, este acuerdo, que se habría firmado el pasado 8 de septiembre, pondría en riesgo la soberanía del país sobre sus recursos mineros",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tribunal Supremo de Brasil autorizó extender las votaciones hasta las 7:00 p. m., hora local",
+  "enlace": "https://caracol.com.co/2026/10/25/tribunal-supremo-de-brasil-autorizo-extender-las-votaciones-hasta-las-700-p-m-hora-local/",
+  "fecha": "2026-10-25T15:16:24-05:00",
+  "palabras": "",
+  "lead": "El magistrado Cristiano Zanin, del Tribunal Supremo de Brasil, aceptó la petición del presidente Luiz Inácio Lula da Silva de extender el horario de votación",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Esto es una vergüenza”: Presidente De La Espriella reacciona a fallas en obras del SENA en Córdoba",
+  "enlace": "https://caracol.com.co/2026/10/25/esto-es-una-verguenza-presidente-de-la-espriella-reacciona-a-fallas-en-obras-del-sena-en-sucre/",
+  "fecha": "2026-10-25T15:34:44-05:00",
+  "palabras": "",
+  "lead": "Según la entidad pública las revisiones se extenderán a todas las regiones y centros del SENA en Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kilovatio de energía sube a $936 en noviembre para usuarios de Air-e",
+  "enlace": "https://caracol.com.co/2026/10/25/kilovatio-de-energia-sube-a-936-en-noviembre-para-usuarios-de-air-e/",
+  "fecha": "2026-10-25T15:29:41-05:00",
+  "palabras": "",
+  "lead": "El aumento es de $63, equivalente aproximadamente al 7 % en un solo mes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tras nuevas inundaciones, alcalde de Santa Marta pide no olvidar a los damnificados del frente frío",
+  "enlace": "https://caracol.com.co/2026/10/25/tras-nuevas-inundaciones-alcalde-de-santa-marta-pide-no-olvidar-a-los-damnificados-del-frente-frio/",
+  "fecha": "2026-10-25T15:35:54-05:00",
+  "palabras": "",
+  "lead": "El alcalde Carlos Pinedo recordó que más de 3.000 familias resultaron afectadas por la emergencia de febrero. El llamado se conoce mientras la ciudad atiende nuevas inundaciones por las lluvias",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Extorsión en el Huila: Gaula Militar reporta 60 denuncias y 24 capturas en 2026",
+  "enlace": "https://caracol.com.co/2026/10/25/extorsion-en-el-huila-gaula-militar-reporta-60-denuncias-y-24-capturas-en-2026/",
+  "fecha": "2026-10-25T15:20:13-05:00",
+  "palabras": "",
+  "lead": "El balance de 2026 incluye acciones contra estos delitos y alertas por modalidades como llamadas carcelarias, falso servicio y extorsión a través de redes sociales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Calendario de festivos 2027: habrá tres meses sin días feriados, conozca por qué",
+  "enlace": "https://caracol.com.co/2026/10/25/calendario-de-festivos-2027-habra-tres-meses-sin-dias-feriados-conozca-por-que/",
+  "fecha": "2026-10-25T15:20:15-05:00",
+  "palabras": "",
+  "lead": "Planifique con tiempo sus vacaciones para el 2027, ya que un importante festivo será traslado a otro mes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Floridablanca registra 793 casos de dengue y se mantiene en nivel de alerta",
+  "enlace": "https://caracol.com.co/2026/10/25/floridablanca-registra-793-casos-de-dengue-y-se-mantiene-en-nivel-de-alerta/",
+  "fecha": "2026-10-25T15:12:00-05:00",
+  "palabras": "",
+  "lead": "302 personas tienen signos de alarma en el municipio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian presunto cobro de $80.000 a contratistas para embellecer el parque Valvanera en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/25/denuncian-presunto-cobro-de-80000-a-contratistas-para-embellecer-el-parque-valvanera-en-bogota/",
+  "fecha": "2026-10-25T15:10:21-05:00",
+  "palabras": "",
+  "lead": "El concejal Rolando González señaló que un ingeniero de obras de la Alcaldía Local de Antonio Nariño estaría solicitando dinero a contratistas para el embellecimiento del parque Valvanera.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Congresista Giménez advierte a Delcy Rodríguez y a funcionarios por amenazas a María Corina Machado",
+  "enlace": "https://caracol.com.co/2026/10/25/congresista-gimenez-advierte-a-delcy-rodriguez-y-a-funcionarios-por-amenazas-a-maria-corina-machado/",
+  "fecha": "2026-10-25T15:02:15-05:00",
+  "palabras": "",
+  "lead": "El representante republicano responsabilizó a funcionarios del régimen venezolano por cualquier daño que sufra la líder opositora",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contratos de Deicy Jiménez con el Gobierno Petro: en el último año fueron cercanos a los 60 millones",
+  "enlace": "https://caracol.com.co/2026/10/25/contratos-de-deicy-jimenez-con-el-gobierno-petro-en-el-ultimo-ano-fueron-cercanos-a-los-60-millones/",
+  "fecha": "2026-10-25T14:55:56-05:00",
+  "palabras": "",
+  "lead": "El último contrato fue adscrito con el Ministerio de Interior en enero del 2026 y con vigencia hasta diciembre del mismo año",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones Brasil: Ganador tras procesarse el 5 % de las actas",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-brasil-resultado-ultimo-reporte-hoy-25-octubre-ganador-presidencia-415102",
+  "fecha": "2026-10-25T15:55:00-05:00",
+  "palabras": "Internacional,Brasil,Lula da Silva,Jair Bolsonaro,Elecciones presidenciales",
+  "lead": "Este domingo, Brasil decidía si daba un giro con Bolsonaro, o más bien optaba por la continuidad con Lula.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Israel adelanta elecciones parlamentarias: ¿por qué ahora?",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-parlamentarias-irsrael-2026-cuando-son-415105",
+  "fecha": "2026-10-25T14:49:00-05:00",
+  "palabras": "Internacional,israel,Reelección de Netanyahu,Elecciones presidenciales,Estados Unidos,Colombia",
+  "lead": "Aunque la seguridad ocupa un lugar central en el debate, también hay desacuerdos sobre el servicio militar obligatorio, el costo de vida y las responsabili...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Piden investigar presuntos contratos de Petro en la Cámara",
+  "enlace": "https://www.lafm.com.co/politica/instituto-anticorrupcion-pide-investigar-petro-comision-acusacion-denuncias-contratos-deicy-jimenez-415100",
+  "fecha": "2026-10-25T13:18:00-05:00",
+  "palabras": "Política,Gustavo Petro,Congreso de la República,Cámara de Representantes,Corrupción",
+  "lead": "Piden investigar a Gustavo Petro por presuntas irregularidades en contratos estatales a cambio de encuentros sexuales.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
