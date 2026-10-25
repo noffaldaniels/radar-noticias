@@ -997,7 +997,7 @@
   "palabras": "Antioquia, Ejército Nacional, Disidencias Farc",
   "lead": "A los delincuentes les incautaron armas, droga y dispositivos para detonar artefactos explosivos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Bucaramanga, Policía Nacional",
   "lead": "La ciudad tendrá 80 cámaras de lectura de placas vehiculares y más de 20 de reconocimiento facial. El alcalde Cristian Portilla confirmó que ya arrancaron las excavaciones y las obras civiles para instalar los dispositivos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Palmira, Valle del Cauca",
   "lead": "La Policía Valle desplegó unidades de búsqueda e inteligencia para ubicarlos y lograr su recaptura. Los implicados se encontraban en calidad de sindicados en el CAI Las Delicias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "En Blu Jeans del domingo, 24 de octubre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "Estados Unidos, Bucaramanga",
   "lead": "Una estudiante de Bucaramanga obtuvo una beca del 100 % para estudiar en Texas State University antes de graduarse.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "Donald Trump, María Corina Machado, Venezuela",
   "lead": "Trump, expresó este domingo su deseo de que la líder opositora venezolana, María Corina Machado, esté a salvo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "El colombiano ya suma seis goles y cinco asistencias en diez partidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "Dos hombres en motocicleta habrían disparado contra las víctimas en un establecimiento comercial de la vereda La Perdiz.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "Los Red Devils fueron goleados 0-3 por el Bournemouth.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "En Los Protagonistas, con Gustavo Gómez, el escritor bogotano Ricardo Silva Romero hizo algunas reflexiones sobre el oficio de escribir, compartió su visión de la política y se refirió al impacto de la inteligencia artificial en el mundo literario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "Deportes,Premier League,Liverpool,Brighton,Liga Inglesa,Fútbol",
   "lead": "Con este resultado, el Liverpool ascendió al cuarto lugar de la clasificación, con 15 puntos, mientras los visitantes se mantuvieron por encima, con 16 uni...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,6 +1118,149 @@
   "palabras": "Deportes,Manchester United,Premiere League,Bournemouth,Liga Inglesa,Fútbol",
   "lead": "El Manchester United cae en la lista de descenso de la Premier League sumando sólo 7 puntos en ocho partidos posibles, agravando una situación que, de no c...",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día, resultado del último sorteo hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-resultado-del-ultimo-sorteo-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T12:49:48-05:00",
+  "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Chontico Día juega todos los días a la 1:00 p. m. Consulte aquí el número ganador del sorteo de hoy domingo 25 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“El recorte debe ser de $100 billones”: experto revela el ajuste fiscal que debe hacer el Gobierno",
+  "enlace": "https://www.bluradio.com/economia/el-recorte-debe-ser-de-100-billones-experto-revela-el-ajuste-fiscal-que-debe-hacer-el-gobierno-so35",
+  "fecha": "2026-10-25T12:51:56-05:00",
+  "palabras": "Gobierno nacional, Presupuesto Nacional",
+  "lead": "El economista advirtió que el Gobierno debe reducir el gasto, revisar beneficios tributarios y combatir la evasión para disminuir el déficit fiscal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los Juegos del Hambre inspiran una iniciativa de moda que reúne a estudiantes colombianos",
+  "enlace": "https://caracol.com.co/2026/10/25/los-juegos-del-hambre-inspiran-una-iniciativa-de-moda-que-reune-a-estudiantes-colombianos/",
+  "fecha": "2026-10-25T12:54:49-05:00",
+  "palabras": "",
+  "lead": "Siete instituciones académicas participan en Del cine a la moda, una iniciativa de Cine Colombia que llevará las creaciones de los estudiantes al centro comercial Titán Plaza el próximo 17 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno activa protección para mujer que señaló a Petro de pagar servicios sexuales con contratos",
+  "enlace": "https://caracol.com.co/2026/10/25/gobierno-activa-proteccion-para-mujer-que-senalo-a-petro-de-pagar-servicios-sexuales-con-contratos/",
+  "fecha": "2026-10-25T12:01:07-05:00",
+  "palabras": "",
+  "lead": "El Gobierno activó la ruta institucional de protección para salvaguardar la vida, seguridad e integridad de Deicy Jiménez, luego de las declaraciones que entregó a la Revista Semana, por instrucción expresa del Presidente de la República, Abelardo de la Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alex Visbal, premiado en el Wildlife Photographer of the Year por foto del Gran Lago Salado",
+  "enlace": "https://caracol.com.co/2026/10/25/alex-visbal-premiado-en-el-wildlife-photographer-of-the-year-por-foto-del-gran-lago-salado/",
+  "fecha": "2026-10-25T12:47:36-05:00",
+  "palabras": "",
+  "lead": "El ingeniero barranquillero recibió un reconocimiento internacional por una fotografía aérea que documenta cómo la intervención humana ha transformado un ecosistema en Utah, Estados Unidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen maquinaria utilizada para la minería ilegal de oro al sur del Tolima",
+  "enlace": "https://caracol.com.co/2026/10/25/destruyen-maquinaria-utilizada-para-la-mineria-ilegal-de-oro-en-chaparral/",
+  "fecha": "2026-10-25T12:43:31-05:00",
+  "palabras": "",
+  "lead": "Según las autoridades, los equipos tenían capacidad para extraer oro cuyo valor en el mercado ilegal superaría los mil millones de pesos, mensualmente.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ocho detenidos se fugaron de un CAI en Palmira, Valle. Personería pide revisar centros de detención",
+  "enlace": "https://caracol.com.co/2026/10/25/ocho-detenidos-se-fugaron-de-un-cai-en-palmira-valle-personeria-pide-revisar-centros-de-detencion/",
+  "fecha": "2026-10-25T12:40:18-05:00",
+  "palabras": "",
+  "lead": "La fuga ocurrió en el CAI Las Delicias, cerca de la galería central. Las autoridades desplegaron operativos para recapturar a los ocho hombres",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Varios locales comerciales afectados en Melgar producto de un incendio de grandes proporciones",
+  "enlace": "https://caracol.com.co/2026/10/25/varios-locales-comerciales-afectados-en-melgar-producto-de-un-incendio-de-grandes-proporciones/",
+  "fecha": "2026-10-25T12:16:33-05:00",
+  "palabras": "",
+  "lead": "Tres personas requirieron atención médica ante dificultades por inhalación de humo.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres personas fueron capturadas con seis kilos de marihuana en una vivienda en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/25/tres-personas-fueron-capturadas-con-seis-kilos-de-marihuana-en-una-vivienda-en-bogota/",
+  "fecha": "2026-10-25T12:15:41-05:00",
+  "palabras": "",
+  "lead": "Una alerta por presuntas detonaciones de arma de fuego llevó a uniformados de la Policía a una vivienda donde escucharon voces de auxilio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 5.000 personas caminaron por la vida y contra el cáncer de mama",
+  "enlace": "https://caracol.com.co/2026/10/25/mas-de-5000-personas-caminaron-por-la-vida-y-contra-el-cancer-de-mama/",
+  "fecha": "2026-10-25T12:10:24-05:00",
+  "palabras": "",
+  "lead": "La jornada promovió la detección temprana, el autocuidado y la solidaridad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hábitos de sueño que podrían revelar un subtipo de depresión",
+  "enlace": "https://www.lafm.com.co/sociedad/habitos-sueno-revelar-subtipo-depresion-estudio-415094",
+  "fecha": "2026-10-25T12:37:00-05:00",
+  "palabras": "Sociedad,recomendaciones,Depresión,Sueño",
+  "lead": "Los cambios en el ritmo circadiano pueden coincidir con alteraciones del estado de ánimo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Javier Jamaica, del NU Colombia, gana el Clásico RCN Sistecrédito 2026; Rodrigo Contreras ganó la última etapa",
+  "enlace": "https://www.lafm.com.co/deportes/clasico-rcn-2026-sistecredito-javier-jamaica-campeon-415098",
+  "fecha": "2026-10-25T12:24:00-05:00",
+  "palabras": "Deportes,Clásico RCN,Ciclismo,Deporte",
+  "lead": "El resultado de la cronoescalada determinó la clasificación general de la carrera y aseguró el título para Jamaica.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinEducación constata crisis de salud del magisterio",
+  "enlace": "https://www.lafm.com.co/sociedad/fomag-medellin-salud-docentes-crisis-tutelas-415095",
+  "fecha": "2026-10-25T11:19:00-05:00",
+  "palabras": "Sociedad,Ministerio de Educación,Educación,Fomag,Tutela,Quejas de usuarios,Pagos atrasados",
+  "lead": "Durante una visita a la sede del Fondo Nacional de Prestaciones Sociales del Magisterio, la ministra Ilva Myriam Hoyos conoció las barreras que enfrentan l...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
