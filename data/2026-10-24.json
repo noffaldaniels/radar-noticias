@@ -2801,7 +2801,7 @@
   "palabras": "Lotería de Boyacá, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "El sorteo dio a conocer los números correspondientes a sus premios secos, cuyas cuantías van desde los $10 millones hasta los $1.000 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "Lotería del Cauca, Loterías de hoy, Resultado de loterías de hoy",
   "lead": "La Lotería del Cauca realizó el sorteo 2634 este sábado 24 de octubre de 2026. Miles de personas esperan llevarse el premio mayor de $8.000 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "Viral, Mujeres, Estilo de vida",
   "lead": "Aunque la plancha deja el cabello liso y brillante, expertos en salud capilar advierten que el uso frecuente del calor puede resecarlo, debilitarlo y provocar quiebres difíciles de reparar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "Filipinas, Viral, Accidentes aéreos",
   "lead": "Medios locales informaron que los aparatos colisionaron en pleno vuelo, aunque autoridades no han confirmado oficialmente la versión.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "",
   "lead": "La Alcaldía desplegó maquinaria amarilla y equipos de atención en varios sectores. En Villa Betel se entregaron más de 100 ayudas humanitarias tras el desbordamiento de la quebrada Tamacá",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "",
   "lead": "Ambos candidatos reunieron hoy a decenas de miles de personas en la recta final de la carrera presidencial marcada por la efervescencia en las calles y en las redes sociales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,6 +2867,116 @@
   "palabras": "Política,Ministerio de Justicia,Gobierno,Abelardo de la Espriella,Capturados,Operación,Narcotráfico",
   "lead": "El ministro Iván Cancino sostuvo que hubo dos operaciones independientes y no ocho personas capturadas en un mismo procedimiento.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado de Chontico Noche del último sorteo hoy sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-de-chontico-noche-del-ultimo-sorteo-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T21:22:10-05:00",
+  "palabras": "Chontico Noche , Chances y Loterías, Resultados del chance,  Chontico Noche, Ganador  Chontico Noche, Resultados del chance , Resultados hoy",
+  "lead": "El sorteo del Chontico Noche se realiza todos los días, con horarios que varían según la jornada. Consulte los resultados de este sábado 24 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Noche: resultado del último sorteo de hoy, sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-noche-resultado-del-ultimo-sorteo-de-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T21:23:34-05:00",
+  "palabras": "Dorado Tarde, Chances y Loterías, Resultados del chance, Dorado Noche , Ganador Dorado Noche, Resultados Dorado Noche, Resultados del chance, Resultados hoy",
+  "lead": "El chance Dorado Noche juega los sábados, domingos y lunes festivos después de las 10:00 p. m. Revise aquí el número ganador de hoy sábado 24 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Sinuano Noche hoy sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-sinuano-noche-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T21:23:54-05:00",
+  "palabras": "Sinuano noche, Chances y Loterías, Resultados del chance, Ganadores Sinuano Noche , Resultados Sinuano Noche, Resultados del chancee , Resultados hoy , Sinuano Noche hoy",
+  "lead": "El sorteo de Sinuano Noche se realiza todos los días. Consulte los resultados de este 24 de octubre de 2026, conozca las modalidades de apuesta y verifique si su tiquete obtuvo algún premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Caribeña Noche hoy sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-caribena-noche-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T21:23:16-05:00",
+  "palabras": "Caribeña noche, Chances y Loterías, Resultados del chance, Caribeña Noche hoy, Ganador Caribeña Noche 24/10/2026, Resultados del chance , Resultados hoy",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Consulte el número ganador de este sábado 24 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del sorteo hoy sábado 24 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-sorteo-hoy-sabado-24-de-octubre-de-2026-so35",
+  "fecha": "2026-10-24T21:23:14-05:00",
+  "palabras": "Super Astro Luna, Chances y Loterías, Resultados del chance, Ganadores hoy Astro Luna, Resultados Super Astro Luna, Resultados del chance, Resultados del chance Astro Luna, Super Astro Luna",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte el resultado de este 24 de octubre de 2026 y verifique si el número y el signo zodiacal de su apuesta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asesinan a subintendente de la Policía durante un presunto intento de hurto en San Antero, Córdoba",
+  "enlace": "https://www.bluradio.com/regiones/caribe/asesinan-a-subintendente-de-la-policia-durante-un-presunto-intento-de-hurto-en-san-antero-cordoba-rg10",
+  "fecha": "2026-10-24T21:38:44-05:00",
+  "palabras": "Policía Nacional",
+  "lead": "Harold Fernando Loaiza Sánchez, de 39 años, estaba adscrito al departamento de La Guajira y había regresado a Córdoba para pasar unos días de descanso con su familia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Disidencias de las Farc asesinaron a infante de marina con un dron en Guapi, Cauca",
+  "enlace": "https://www.bluradio.com/nacion/disidencias-de-las-farc-asesinaron-a-infante-de-marina-con-un-dron-en-guapi-cauca-rg10",
+  "fecha": "2026-10-24T21:48:16-05:00",
+  "palabras": "Disidencias Farc, Ejército Nacional",
+  "lead": "El Ministerio de Defensa atribuyó el ataque a integrantes de la Estructura 30 ‘Jhonier Toro Arenas’ y anunció que intensificará las operaciones militares en el litoral Pacífico.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Amplía U: requisitos para acceder a la nueva iniciativa de Atenea y las universidades disponibles",
+  "enlace": "https://caracol.com.co/2026/10/25/amplia-u-requisitos-para-acceder-a-la-nueva-iniciativa-de-atenea-y-las-universidades-disponibles/",
+  "fecha": "2026-10-24T21:26:07-05:00",
+  "palabras": "",
+  "lead": "Conozca la nueva forma de financiación para que los jóvenes en Bogotá accedan o continúen dentro de la educación superior",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kimi Antonelli, cada vez más cerca del campeonato: así saldrá en el GP de Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/10/25/kimi-antonelli-cada-vez-mas-cerca-del-campeonato-asi-saldra-en-el-gp-de-estados-unidos/",
+  "fecha": "2026-10-24T21:08:12-05:00",
+  "palabras": "",
+  "lead": "El italiano podría convertirse en el campeón más joven en la historia de la competición.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Estación de TransMilenio Calle 53 está habilitada por la Caracas",
+  "enlace": "https://www.lafm.com.co/actualidad/estacion-transmilenio-calle-53-avenida-caracas-bogota-415075",
+  "fecha": "2026-10-24T21:25:00-05:00",
+  "palabras": "Actualidad,Bogotá,TransMilenio,Metro de Bogotá,prestación de servicios",
+  "lead": "Con la entrada en operación de esta infraestructura, la estación temporal Marly suspendió definitivamente el servicio.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
