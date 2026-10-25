@@ -1272,7 +1272,7 @@
   "palabras": "Valle de Aburrá, Bello, Accidente de tránsito",
   "lead": "Solo en 2026 estas emergencias ya han dejado 2.354 lesionados y 33 fallecidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "Desierto del Sahara, Viral",
   "lead": "La estructura mide casi 55 metros y escondía restos humanos junto a un curioso objeto elaborado con cáscara de huevo de avestruz. Las pruebas científicas permitieron fechar el entierro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Valle de Aburrá, Medellín, Policía Nacional, Cocaína",
   "lead": "Según las investigaciones, la droga presuntamente iba a ser comercializada cerca de una institución educativa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional, Bomberos de Bucaramanga",
   "lead": "El adulto mayor fue encontrado enredado entre unos arbustos en el sector La Peña, en la vía hacia Guane. Estaba en estado de embriaguez y sufrió varias heridas, pero no presentó fracturas. Bomberos y Policía participaron en el rescate.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Disidencias Farc, Menores de edad",
   "lead": "Dos adolescentes de 14 y 17 años fueron ubicados en un bus que salió de Pitalito, Huila, con destino a Cauca, donde presuntamente serían reclutados por el frente Carlos Patiño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Trabajo, Corte Suprema de Justicia",
   "lead": "La sentencia SL2622-2025 establece qué debe demostrarse para acceder a la estabilidad laboral reforzada por motivos de salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 25 de octubre de 2026",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy domingo 25 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "Las autoridades atienden a familias afectadas y retiran residuos para reducir el riesgo de inundaciones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "El equipo vallecaucano en búsqueda de cerrar su clasificación en territorio bogotano.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "El equipo heroico quedó en el Grupo B y buscará un cupo a la final del Torneo BetPlay II-2026",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "El registrador colombiano, quien lidera una de las misiones de observación electoral para la segunda vuelta presidencial en Brasil, explicó cómo avanza la jornada.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "¿Ya la conocía? Así puede pasar por esta reconocida carretera.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "La marca colombiana obtuvo el segundo puesto en el Ranking McCain Melhor Hambúrguer da América do Sul 2026, realizado en Brasil, con su hamburguesa Orgasmic, una preparación que incluye piña de Lebrija, Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "El cuadro culé busca suma nueve victorias consecutivas; el equipo merengue busca recortar distancias en la tabla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "Internacional,Venezuela,María Corina Machado,Marco Rubio,presos,Estados Unidos",
   "lead": "El Secretario de Estado destacó el papel de EE. UU. para que se haya dado el anuncio de María Corina Machado.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "Internacional,Venezuela,María Corina Machado,Oposición",
   "lead": "La líder opositora y premio Nobel de la Paz, María Corina Machado regresó a Venezuela, confirmó la propia dirigente este domingo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,6 +1459,171 @@
   "palabras": "Política,Gobierno,Ministerio de Justicia,Gustavo Petro,Unidad Nacional de Protección,UNP",
   "lead": "Dicha medida fue informada por el ministro de Justicia y ministro del Interior encargado, Iván Cancino, a través de un comunicado.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santander registra 6.802 casos de dengue en 2026; Bucaramanga concentra la mayor cifra",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/santander-registra-6-802-casos-de-dengue-en-2026-bucaramanga-concentra-la-mayor-cifra-rg10",
+  "fecha": "2026-10-25T14:30:00-05:00",
+  "palabras": "Santander, Dengue, Noticias de hoy, Blu Radio",
+  "lead": "El departamento ocupa el tercer lugar nacional por número de contagios. Bucaramanga, Floridablanca, Girón, Barrancabermeja y Piedecuesta están entre los municipios más afectados. En Floridablanca reportan 793 casos, cuatro de dengue grave y tres de ellos corresponden a menores de edad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murió Sergio Rangel Consuegra, el abogado que convirtió a Zapatoca en tierra de vinos",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/murio-sergio-rangel-consuegra-el-abogado-que-convirtio-a-zapatoca-en-tierra-de-vinos-rg10",
+  "fecha": "2026-10-25T14:43:25-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Empresas sostenibles",
+  "lead": "El escritor, columnista, historiador y empresario vinícola santandereano falleció a los 84 años. Fundó el viñedo Sierra Morena, donde produjo el vino Perú de la Croix, inspirado en una idea que marcó su vida: «No hagan lo que todos hacen».",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día, resultado del último sorteo hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-resultado-del-ultimo-sorteo-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T14:10:28-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:34 p. m.. Revise aquí el número ganador hoy 25 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presentan cuento ilustrado que busca acompañar a niños con cáncer durante sus tratamientos",
+  "enlace": "https://caracol.com.co/2026/10/25/presentan-cuento-ilustrado-que-busca-acompanar-a-ninos-con-cancer-durante-sus-tratamientos/",
+  "fecha": "2026-10-25T14:49:23-05:00",
+  "palabras": "",
+  "lead": "La obra busca ayudar a los niños a comprender qué ocurre en sus cuerpos durante la enfermedad mediante un lenguaje sencillo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Productores de papa de Cundinamarca y Boyacá piden frenar importaciones y estabilizar los precios",
+  "enlace": "https://caracol.com.co/2026/10/25/productores-de-papa-de-cundinamarca-y-boyaca-piden-frenar-importaciones-y-estabilizar-los-precios/",
+  "fecha": "2026-10-25T14:48:41-05:00",
+  "palabras": "",
+  "lead": "En un encuentro realizado en Villapinzón, productores, representantes de Fedepapa y autoridades nacionales y departamentales analizaron medidas para combatir el contrabando, fortalecer la producción nacional y mejorar los ingresos de los campesinos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lula da Silva pidió extender la votación en cinco estados por “incidencias” en el transporte",
+  "enlace": "https://caracol.com.co/2026/10/25/lula-da-silva-pidio-extender-la-votacion-en-cinco-estados-por-incidencias-en-el-transporte/",
+  "fecha": "2026-10-25T14:40:23-05:00",
+  "palabras": "",
+  "lead": "El equipo jurídico del candidato del Partido de los Trabajadores (PT) envió un recurso “urgentísimo” al Tribunal Superior Electoral (TSE) ante “las incidencias” registradas",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Real Cartagena, Envigado, Unión Magdalena, Quindío u otro? Así quedaron los cuadrangulares de la B",
+  "enlace": "https://caracol.com.co/2026/10/25/real-cartagena-envigado-union-magdalena-quindio-u-otro-asi-quedaron-los-cuadrangulares-de-la-b/",
+  "fecha": "2026-10-25T14:38:33-05:00",
+  "palabras": "",
+  "lead": "Este domingo se llevó a cabo el sorteo de los grupos de la próxima instancia del torneo de ascenso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La SIP entrega a Pilar Gil el Premio Ejecutiva del Año por su liderazgo de Prisa Media",
+  "enlace": "https://caracol.com.co/2026/10/25/la-sip-entrega-a-pilar-gil-el-premio-ejecutiva-del-ano-por-su-liderazgo-de-prisa-media/",
+  "fecha": "2026-10-25T14:28:30-05:00",
+  "palabras": "",
+  "lead": "El Premio Ejecutiva del Año reconoce a líderes de la industria de medios que, por su trayectoria, capacidad de gestión e innovación, contribuyen al desarrollo y fortalecimiento del sector.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Giovanny Ayala incursionará en el contenido para adultos? El cantante reveló de qué se trata",
+  "enlace": "https://caracol.com.co/2026/10/25/giovanny-ayala-incursionara-en-el-contenido-para-adultos-el-cantante-revelo-de-que-se-trata/",
+  "fecha": "2026-10-25T14:14:48-05:00",
+  "palabras": "",
+  "lead": "El cantante de música popular publicó un video en el que aseguró que atravesaba dificultades económicas y que comenzaría a hacer contenido para adultos. Sin embargo, el desenlace de la grabación reveló el verdadero propósito de su anuncio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bomberos rescataron a un adulto mayor que cayó cerca de 60 metros en Barichara",
+  "enlace": "https://caracol.com.co/2026/10/25/bomberos-rescataron-a-un-adulto-mayor-que-cayo-cerca-de-60-metros-en-barichara/",
+  "fecha": "2026-10-25T14:09:00-05:00",
+  "palabras": "",
+  "lead": "El hombre fue trasladado hasta un centro asistencial de manera inmediata.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jugadores colombianos cotizados siguen fuera de la Selección",
+  "enlace": "https://www.lafm.com.co/deportes/seleccion-colombia-jugadores-mejor-cotizados-que-no-hacen-parte-de-la-convocatoria-415090",
+  "fecha": "2026-10-25T14:43:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Néstor Lorenzo,Fútbol,Dimayor,FIFA,Mundial 2026",
+  "lead": "El radar de la Selección Colombia prioriza a los jugadores del exterior y deja en segundo plano a figuras que brillan en la Liga BetPlay.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liga Betplay: Once Caldas vs Pereira, videos de peleas y agresiones",
+  "enlace": "https://www.lafm.com.co/deportes/violencia-clasico-eje-once-caldas-pereira-liga-betplay-manizales-415104",
+  "fecha": "2026-10-25T14:36:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Once Caldas,Pereira,MANIZALES,actos violentos",
+  "lead": "Fuertes peleas se vieron antes y después del partido en diferentes sectores del estadio Palogrande de Manizales durante el Clásico del Eje Cafetero, válido...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ELN libera a menor de edad retenida tras combates en Cauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/eln-entrega-menor-retenida-combates-oriente-cauca-415103",
+  "fecha": "2026-10-25T14:08:00-05:00",
+  "palabras": "Orden Público,Liberación,Iglesia Católica,ELN,Cauca,Menores",
+  "lead": "La joven de 17 años había sido capturada en combates con el frente Dagoberto Ramos de las disidencias de las farc en sector rural de Inzá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cúcuta: 350 casos de VIH han sido reportados durante 2026",
+  "enlace": "https://www.lafm.com.co/actualidad/cucuta-aumento-casos-vih-secretaria-salud-2026-415088",
+  "fecha": "2026-10-25T09:19:00-05:00",
+  "palabras": "Actualidad,Salud,VIH,Cúcuta,Atención a pacientes",
+  "lead": "La Secretaría de Salud de la ciudad descarta cualquier tipo de alerta relacionado con el aumento de casos de VIH.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Denuncian uso de IA para dirigir drones contra civiles y policía en Catatumbo",
+  "enlace": "https://www.lafm.com.co/orden-publico/denuncian-uso-ia-drones-contra-civiles-policia-catatumbo-415083",
+  "fecha": "2026-10-25T08:22:00-05:00",
+  "palabras": "Orden Público,Catatumbo,Drones,ELN,Disidentes de las Farc,conflicto armado",
+  "lead": "El uso de drones para lanzar explosivos contra instalaciones militares y zonas rurales evidencia la evolución de las tácticas de los grupos armados.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
