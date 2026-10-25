@@ -392,7 +392,7 @@
   "palabras": "Oraciones, Reflexión del día",
   "lead": "El líder religioso interpretó las profecías del Apocalipsis y explicó por qué considera fundamental la intercesión de los creyentes ante posibles adversidades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Trabajo, Gobierno nacional, Abelardo De La Espriella",
   "lead": "El recorte de $13,8 billones afecta gastos de funcionamiento e inversión y podría tener una segunda reducción antes de finalizar 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "El presidente aseguró que la “corrupción demócrata” es una de las principales preocupaciones de los votantes.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "La Turbina de Crédito Exportadora ofrece compensaciones a las tasas de interés para empresas que exportan productos de origen antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "Las autoridades también contabilizaron 24 comercios saqueados.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "La Alcaldía de Medellín, la Policía y la Fiscalía realizaron un allanamiento en el barrio La Hondanada, donde capturaron a una persona e incautaron un celular y elementos para dosificar estupefacientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El técnico lamentó la falta de eficacia ante Pereira y mantiene la esperanza de clasificar.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "El ciudadano peruano-estadounidense fue capturado en 2017 en Copacabana. Federico Gutiérrez reportó 14 condenas desde 2024.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "Tres de las capturas se materializaron mediante orden judicial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "Cerca de 800 estudiantes se beneficiarán con aulas renovadas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "Los trabajos iniciarían en febrero del 2027, según anunció el exministro del Interior, Rodrigo Lara",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "Con la tecnología Mantra 3 se han realizado más de 100 procedimientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "Andrés Julián Rendón aseguró que la decisión devuelve a los municipios autonomía sobre el uso del suelo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "La medida libera 102.801 hectáreas. El ministro Indalecio Dangond anunció que eliminarán las APPA en todo el país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "Política,Derechos humanos,Gobierno,Abelardo de la Espriella,Colombia",
   "lead": "Macías fue candidato a la Cámara por Bogotá en las 2026 por el partido Colombia Justa Libres, pero no obtuvo una curul.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,6 +557,182 @@
   "palabras": "Internacional,Brasil,Elecciones presidenciales,Presidente electo,América,sudamerica",
   "lead": "El médico y político brasileño Osmar Terra, anticipó cambios en la política de seguridad, una mayor cercanía con Estados Unidos y el fortalecimiento de la....",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Captura de alias 'Neil' expone alianza entre ‘Los Pachenca’ y ‘La Nueva Generación del Freseo’",
+  "enlace": "https://www.bluradio.com/regiones/caribe/captura-de-alias-neil-expone-alianza-entre-los-pachenca-y-la-nueva-generacion-del-freseo-rg10",
+  "fecha": "2026-10-25T09:25:09-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, La Guajira, Maicao, Interpol, DEA",
+  "lead": "Investigaciones de Interpol y la DEA revelan que las dos organizaciones intercambiaban cocaína por armamento para atentar contra la fuerza pública en Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Monseñor Rafael de Brigard recordó la importancia de amar a Dios y al prójimo",
+  "enlace": "https://www.bluradio.com/sociedad/religion/monsenor-rafael-de-brigard-recordo-la-importancia-de-amar-a-dios-y-al-projimo-pr30",
+  "fecha": "2026-10-25T09:35:00-05:00",
+  "palabras": "Reflexión del día, Oraciones",
+  "lead": "En su reflexión dominical, el religioso cuestionó la polarización y el odio, e invitó a practicar la misericordia, el perdón y la solidaridad en la vida cotidiana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pastor Andrés Corson revela qué prácticas considera que pueden abrir puertas a los demonios",
+  "enlace": "https://www.bluradio.com/sociedad/religion/pastor-andres-corson-revela-que-practicas-considera-que-pueden-abrir-puertas-a-los-demonios-pr30",
+  "fecha": "2026-10-25T09:42:38-05:00",
+  "palabras": "Reflexión del día, Oraciones",
+  "lead": "En su reflexión dominical, el líder religioso llamó a fortalecer la vida espiritual mediante la oración, la lectura de la Biblia y la participación en comunidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Le cambiarán las vacaciones a colombianos en 2027: dupla de festivos tendrá drástico cambio por ley",
+  "enlace": "https://www.bluradio.com/nacion/le-cambiaran-las-vacaciones-a-colombianos-en-2027-dupla-de-festivos-tendra-drastico-cambio-por-ley-so35",
+  "fecha": "2026-10-25T09:50:21-05:00",
+  "palabras": "Días Festivos, Días Festivos Colombia",
+  "lead": "Febrero y septiembre no tendrán días festivos, pero en 2027 tres meses contarán con tres días festivos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En menos de 40 días el HUS espera que las EPS paguen deudas por más de $400 millones",
+  "enlace": "https://caracol.com.co/2026/10/25/en-menos-de-40-dias-el-hus-espera-que-las-eps-paguen-deudas-por-mas-de-400-millones/",
+  "fecha": "2026-10-25T09:31:06-05:00",
+  "palabras": "",
+  "lead": "Ya se han adelantado gestiones con Coosalud y Famisanar indicaron desde el HUS.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fonseca arrancó su gira internacional en Bogotá con invitados, mariachi y tres horas de música",
+  "enlace": "https://caracol.com.co/2026/10/25/fonseca-arranco-su-gira-internacional-en-bogota-con-invitados-mariachi-y-tres-horas-de-musica/",
+  "fecha": "2026-10-25T09:26:28-05:00",
+  "palabras": "",
+  "lead": "El cantante bogotano se presentó este sábado en el Vive Claro con ‘Fonseca en la casa’, un espectáculo que reunió a miles de asistentes e incluyó invitados como Silvestre Dangond, Nanpa Básico y Manu.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abelardo de la Espriella revela detalles del bombardeo contra el ELN en Cauca: esto se sabe",
+  "enlace": "https://caracol.com.co/2026/10/25/abelardo-de-la-espriella-revela-detalles-del-bombardeo-contra-el-eln-en-cauca-esto-se-sabe/",
+  "fecha": "2026-10-25T09:20:25-05:00",
+  "palabras": "",
+  "lead": "Este domingo, el presidente entregó un balance de la operación ÓNIX que se desarrolló en contra del Frente José María Becerra, perteneciente al Frente de Guerra Suroccidental.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Marino Hinestroza se sincera tras marcar doblete: “Prácticamente no he hecho nada por Vasco”",
+  "enlace": "https://caracol.com.co/2026/10/25/marino-hinestroza-se-sincera-tras-marcar-doblete-practicamente-no-he-hecho-nada-por-vasco/",
+  "fecha": "2026-10-25T09:07:08-05:00",
+  "palabras": "",
+  "lead": "El extremo colombiano hizo una reflexión sobre los complicados momentos que ha vivido en Brasil.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 50 barrios de Santa Marta estarán sin luz este lunes: conozca cuáles",
+  "enlace": "https://caracol.com.co/2026/10/25/mas-de-50-barrios-de-santa-marta-estaran-sin-luz-este-lunes-conozca-cuales/",
+  "fecha": "2026-10-25T09:15:00-05:00",
+  "palabras": "",
+  "lead": "Habitantes de más de 50 barrios y varios sectores estratégicos de Santa Marta deberán tener en cuenta una suspensión programada del servicio de energía para este lunes 26 de octubre. La intervención, anunciada por Air-e Intervenida, se realizará durante más de ocho horas en el circuito Libertador 7.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría destituye e inhabilita por 10 años a funcionario de El Retiro por acoso sexual",
+  "enlace": "https://caracol.com.co/2026/10/25/procuraduria-destituye-e-inhabilita-por-10-anos-a-funcionario-de-el-retiro-por-acoso-sexual/",
+  "fecha": "2026-10-25T09:06:07-05:00",
+  "palabras": "",
+  "lead": "El jefe de la Oficina de Cobro Coactivo y Fiscalización fue sancionado por hechos ocurridos entre abril y diciembre de 2024 contra una contratista municipal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Carmen de Viboral establece toque de queda para menores de 18 años",
+  "enlace": "https://caracol.com.co/2026/10/25/el-carmen-de-viboral-establece-toque-de-queda-para-menores-de-18-anos/",
+  "fecha": "2026-10-25T09:01:25-05:00",
+  "palabras": "",
+  "lead": "La medida rige todos los días entre las 10:30 p. m. y las 5:00 a. m., hasta el 27 de noviembre de 2026.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Yakushima: el bosque japonés de cedros milenarios",
+  "enlace": "https://www.lafm.com.co/sociedad/yakushima-bosque-japon-cedros-milenarios-paisajes-415081",
+  "fecha": "2026-10-25T09:52:00-05:00",
+  "palabras": "Sociedad,Turismo,Viajes,japón,Unesco,Fenómenos naturales",
+  "lead": "Yakushima está a unos 60 kilómetros de la costa sur de Kyushu, en la prefectura de Kagoshima.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colapsó edificio afectado por el terremoto en Pereira",
+  "enlace": "https://www.lafm.com.co/actualidad/colapso-edificio-centro-pereira-afectado-terremoto-lluvias-415067",
+  "fecha": "2026-10-25T09:49:00-05:00",
+  "palabras": "Actualidad,terremoto,Terremoto en Colombia,Risaralda,Eje Cafetero",
+  "lead": "Colapsó una edificación dañada por el terremoto en el centro de Pereira; las lluvias habrían agravado su deterioro.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Herpes zóster: quiénes deben vacunarse y cuánto cuesta la dosis",
+  "enlace": "https://www.lafm.com.co/sociedad/herpes-zoster-colombia-cuanto-cuesta-vacuna-edad-recomendada-415087",
+  "fecha": "2026-10-25T09:33:00-05:00",
+  "palabras": "Sociedad,Salud,enfermedades,Vacuna,Tratamiento médico",
+  "lead": "Julio César Gómez Rincón, médico infectólogo del Instituto Nacional de Cancerología, explicó por qué la vacunación es una herramienta importante de prevenc...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Operación Ónix: diez muertos del ELN en bombardeo en Cauca",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-operacion-onix-eln-bombardeo-cauca-diez-muertos-415089",
+  "fecha": "2026-10-25T09:25:00-05:00",
+  "palabras": "Política,Presidencia de la República,ELN,Fuerzas Militares,Policía Nacional,Cauca,Abelardo de la Espriella",
+  "lead": "El presidente aseguró que diez integrantes del ELN murieron durante el operativo en zona rural de El Tambo, Cauca, entre ellos alias \"Marcos Pacífico\" y al...",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Condenan a extranjero por fiestas con menores en Antioquia",
+  "enlace": "https://www.lafm.com.co/orden-publico/condenan-23-anos-carcel-extranjero-organizaba-fiestas-menores-antioquia-415084",
+  "fecha": "2026-10-25T09:24:00-05:00",
+  "palabras": "Orden Público,Sistema carcelario,extranjeros,Medellín, Colombia,Menores,Delitos sexuales",
+  "lead": "El peruano-estadounidense Heinz Pool Buleje, hallado en 2017 en una finca de Copacabana con 16 menores y con una niña de 15 años.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
