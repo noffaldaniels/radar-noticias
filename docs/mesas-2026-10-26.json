@@ -27,6 +27,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Gobierno nacional publicó la hoja de vida de Ricardo Arias Macías, integrante de Colombia Justa Libres e hijo de Ricardo Arias Mora, confirmando su designación como consejero presidencial para los Derechos Humanos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:46",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó sobre el anuncio de una campaña nacional de ahorro de agua, energía y gas para mitigar el impacto del fenómeno de El Niño en el país.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:48",
+   "quien": "Mateo Zapata, periodista de Noticias La FM con Juan Lozano",
+   "que": "Reportó que el edificio de seguridad 'El Pentágono' en Medellín cuenta con una inversión cercana a los 200.000 millones de pesos, registra un 44% de avance y articulará esfuerzos con Estados Unidos contra el crimen organizado transnacional.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:51",
+   "quien": "Ricardo Hoyos, gerente del Hospital Universitario de Santander",
+   "que": "Confirmó que la cartera pendiente de las EPS con el hospital supera los 400.000 millones de pesos y advirtió que aún no se han concretado pagos del plan de choque del Ministerio de Salud.",
+   "resaltar": false
   }
  ],
  "avisos": [
