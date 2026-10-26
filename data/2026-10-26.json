@@ -2812,7 +2812,7 @@
   "palabras": "Motor, Carros eléctricos, Europa",
   "lead": "Birmingham está probando 560 puntos de carga instalados en farolas, mientras que en West Northamptonshire ha instalado más de 3.000 cargadores en las calles.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "Antioquia, La Unión, Agua potable",
   "lead": "Comunidades piden a las autoridades que establezcan los responsables de esta afectación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "Turismo, Gastronomía, Bogotá",
   "lead": "La propuesta se enfoca en la alta cocina a través de una carta de 17 platos donde el ceviche deja de ser una tradicional entrada para convertirse en el gran plato principal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "Antioquia, Feminicidio, Abuso sexual Menores de Edad, Policía Nacional",
   "lead": "La madre de la menor lamentó la demora de la justicia, “la persona que le hizo daño a mi niña está por ahí libre, asechando a otros niños\".",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "Selección Colombia, Selección Chile, Estadio Pascual Guerrero, Cali",
   "lead": "La Selección Colombia volverá al Pascual Guerrero para enfrentar a Chile en un amistoso con fines benéficos. Conozca los precios por localidad, las fechas de venta y cómo conseguir las entradas.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Chontico Día",
   "lead": "El chance Chontico Día juega todos los días a la 1:00 p. m. Consulte el resultado del sorteo de este lunes 26 de octubre de 2026, las últimas cifras, la quinta balota, las modalidades de apuesta y los requisitos para cobrar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "Emergencias por lluvias, Fenómeno de El Niño, Antioquia, Noticias de hoy",
   "lead": "En Guarne, la caída de árboles afectó a varios vehículos, mientras que en el Urabá antioqueño el colapso del alcantarillado dejó múltiples viviendas inundadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Paisita día",
   "lead": "El chance Paisita Día juega todos los días después del mediodía. Consulte el resultado del sorteo de este lunes 26 de octubre de 2026, conozca las cifras ganadoras y revise las modalidades de apuesta y los requisitos para reclamar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "Lula Da Silva, Brasil, Elecciones Brasil",
   "lead": "El resultado definitivo tomó por sorpresa a analistas y mercados financieros, los cuales preveían una contienda mucho más favorable para el sector conservador.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "Cartel de la toga, Leonidas Bustos, Corte Suprema de Justicia",
   "lead": "Las declaraciones se dan en medio de la activación del trámite para traer a Colombia al exmagistrado para que cumpla con la pena por el escándalo del Cartel de la Toga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "Ciberseguridad",
   "lead": "Casi la mitad de los ataques investigados en la región afectó a bancos y aseguradoras. La seguridad de los proveedores tecnológicos se perfila como un punto clave de la protección del sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2933,7 +2933,7 @@
   "palabras": "Pensiones, Gobierno nacional",
   "lead": "La iniciativa busca reducir el capital necesario para financiar una pensión mínima, pero plantea ajustes en los acuerdos entre aseguradoras y el Estado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2944,7 +2944,7 @@
   "palabras": "Noticias de hoy, Procuraduría General de la Nación",
   "lead": "De acuerdo con la Procuraduría, las conductas ocurrieron entre abril y diciembre de 2024, periodo en el que el funcionario habría hecho comentarios de contenido sexual.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2955,7 +2955,7 @@
   "palabras": "Bucaramanga, Santander, España, Blu Radio",
   "lead": "Amparo López Bonilla asegura que perdió su conexión aérea en Madrid, sufrió una emergencia médica mientras esperaba una solución y, al llegar a Colombia, encontró sus cuatro maletas dañadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2966,7 +2966,7 @@
   "palabras": "Fenómeno de El Niño, Alimentos",
   "lead": "Un estudio de Tetra Pak advierte que el país pierde o desperdicia 9,76 millones de toneladas de alimentos al año. Las dificultades logísticas y el fenómeno de El Niño agravan los desafíos para garantizar el acceso a la comida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2977,7 +2977,7 @@
   "palabras": "",
   "lead": "Las intimidaciones provendrían de una cárcel y fueron advertidas por el ministro de Justicia, Iván Cancino.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2988,7 +2988,7 @@
   "palabras": "",
   "lead": "Los insumos buscan ayudar a los pequeños productores a recuperar sus cultivos, afectados por los fuertes vientos. La Alcaldía anunció nuevas gestiones ante el Ministerio de Agricultura.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2999,7 +2999,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo De La Espriella rechazó el trato que le dieron a los jueces durante la administración pasada.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3010,7 +3010,7 @@
   "palabras": "",
   "lead": "El colombiano finalizó entre Nuno Mendes (23) y Marquinhos (25), tras una destacada temporada con el Bayern Múnich",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3021,7 +3021,7 @@
   "palabras": "",
   "lead": "La información fue confirmada por la alcaldía de Bosconia. Los médicos siguen atendiendo a los heridos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3032,7 +3032,7 @@
   "palabras": "",
   "lead": "El vehículo se precipitó por abismo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3043,7 +3043,7 @@
   "palabras": "",
   "lead": "Monseñor pidió condiciones para continuar acompañando a las comunidades afectadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3054,7 +3054,7 @@
   "palabras": "",
   "lead": "Milciades Ibagué, productor de caña y panela oriundo de Santana, Boyacá, alertó sobre la “panela falsa” de contrabando y exigió políticas de Estado en el Congreso",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3065,7 +3065,7 @@
   "palabras": "",
   "lead": "Mientras el casco urbano mantiene el servicio, las comunidades rurales siguen recibiendo agua en camiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3076,7 +3076,7 @@
   "palabras": "",
   "lead": "Lionel Messi y Cristiano Ronaldo han protagonizado una de las rivalidades más fructíferas en la historia del fútbol.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3087,7 +3087,7 @@
   "palabras": "",
   "lead": "El niño de 7 años ya respira mejor y camina con mayor comodidad tras la cirugía de Fontan.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3098,7 +3098,7 @@
   "palabras": "",
   "lead": "El hecho violento se presentó en el Anillo Vial Oriental",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3109,7 +3109,7 @@
   "palabras": "",
   "lead": "Según se conoció, las fugas superarían el 65 %, una situación que, de confirmarse mediante información técnica actualizada, representaría un obstáculo para mejorar la disponibilidad del recurso en los hogares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3120,7 +3120,7 @@
   "palabras": "",
   "lead": "Pese a la suspensión de los racionamientos, las autoridades piden mantener prácticas de consumo responsable en todo el Valle de Aburrá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3131,7 +3131,7 @@
   "palabras": "",
   "lead": "Los organismos de socorro realizaron la verificación del lugar y de las víctimas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3142,7 +3142,7 @@
   "palabras": "",
   "lead": "Los equipos podían utilizarse para extraer cerca de 12.000 gramos de oro mensuales, equivalentes a un valor comercial superior a los 4.800 millones de pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3153,7 +3153,7 @@
   "palabras": "",
   "lead": "María Alejandra Núñez lleva cuatro años en la Policía Nacional y trabaja con poblaciones vulnerables en el Valle del Cauca",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3164,7 +3164,7 @@
   "palabras": "",
   "lead": "Kevin Gómez y Ana Ligia Mora hablaron del documento suscrito por el presidente Abelardo de la Espriella en el encuentro con Marco Rubio que no sería un simple “acuerdo de estratégico”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3175,7 +3175,7 @@
   "palabras": "",
   "lead": "Los notarios que despachan en las regiones más apartadas del país, piden al Gobierno y a la Superintendencia de Notariado y Registro adoptar medidas urgentes para garantizar la continuidad del servicio notarial en todo el territorio nacional, los territorios rurales",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3186,7 +3186,7 @@
   "palabras": "",
   "lead": "El registrador nacional, Hernán Penagos, aseguró que el reto es fortalecer la confianza ciudadana en este sistema político. La entidad hizo un balance de los comicios de 2026 y habló de los retos para el próximo año.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3197,7 +3197,7 @@
   "palabras": "",
   "lead": "El alcalde de Tunja defendió las medidas de seguridad y pidió al Boyacá Chicó cumplir los requisitos técnicos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3208,7 +3208,7 @@
   "palabras": "Sociedad,Salud,Dengue,pacientes,Bogotá",
   "lead": "La especialista señaló que el dengue puede avanzar de manera diferente en cada persona y que la desaparición de la fiebre no significa que terminó el riesg...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3219,7 +3219,7 @@
   "palabras": "Entretenimiento,Bogotá,Cultura,Eventos presenciales,Concierto,Boyacá",
   "lead": "La iniciativa busca visibilizar las músicas tradicionales de Colombia y reconocer las expresiones culturales que llegan a Bogotá desde distintas regiones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3230,7 +3230,7 @@
   "palabras": "Orden Público,Procuraduría General de la Nación,Contraloría General de la República,Gustavo Petro",
   "lead": "La actuación disciplinaria involucra a funcionarios por determinar del Congreso de la República, específicamente de su Dirección General Administrativa.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3241,7 +3241,7 @@
   "palabras": "Deportes,Balón de Oro,Luis Díaz,Fútbol,Colombia,Jugador lesionado,Radamel Falcao,James Rodríguez",
   "lead": "La gala otorgará un nuevo Balón de Oro a un jugador europeo. Tras el mundial, los realmente opcionados son solo tres.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3252,6 +3252,259 @@
   "palabras": "Entretenimiento,Bogotá,Infancia,Cultura,Eventos presenciales,Niños,Concierto",
   "lead": "Del 24 al 31 de octubre, Idartes ofrecerá teatro, títeres, música, cine y actividades artísticas gratuitas",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Denuncian que habitantes de calle estarían saqueando colegios en el centro de Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/denuncia-que-habitantes-de-calle-estarian-saqueando-colegios-en-el-centro-de-cali-rg10",
+  "fecha": "2026-10-26T13:47:03-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "Los vecinos del barrio San Bosco aseguran que cada día llegan más personas desplazadas por las obras que se adelantan en la zona del centro de la ciudad que hoy se conoce como Ciudad Paraíso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Suspenden racionamientos de agua en Medellín tras aumento en nivel del embalse Piedras Blancas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/suspenden-racionamientos-de-agua-en-medellin-tras-aumento-en-nivel-del-embalse-piedras-blancas-rg10",
+  "fecha": "2026-10-26T13:15:25-05:00",
+  "palabras": "Antioquia, Medellín, Agua potable, Ahorro de agua",
+  "lead": "Aunque metas de ahorro del líquido siguen sin cumplirse, las lluvias han contribuido a elevar los niveles del afluente que surte al nororiente de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 700 familias en Cali que perdieron su vivienda por el terremoto recibirán bono de 50 millones",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/mas-de-700-familias-en-cali-que-perdieron-su-vivienda-por-el-terremoto-recibiran-bono-de-50-millones-rg10",
+  "fecha": "2026-10-26T14:07:14-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "Las personas que vivían en edificios colapsados y demolidos serán los primeros en recibir este subsidio para vivienda nueva.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“La tragedia pudo ser mayor, el bus dio una vuelta en el aire”: alcalde de Bosconia",
+  "enlace": "https://www.bluradio.com/regiones/caribe/la-tragedia-pudo-ser-mayor-el-bus-dio-una-vuelta-en-el-aire-alcalde-de-bosconia-pr30",
+  "fecha": "2026-10-26T13:44:52-05:00",
+  "palabras": "Noticias de hoy, Bosconia",
+  "lead": "El alcalde confirmó la muerte de dos integrantes de la agrupación de Kbeto Zuleta en el lugar del accidente. Además, señaló que 21 personas heridas fueron trasladadas a centros asistenciales de Bosconia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Extraña muerte de joven en Cajicá: cayó de turbo de su expareja; un celular tendría la clave",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/extrana-muerte-de-joven-en-cajica-cayo-de-turbo-de-su-expareja-un-celular-tendria-la-clave-so35",
+  "fecha": "2026-10-26T14:02:52-05:00",
+  "palabras": "Feminicidio",
+  "lead": "Madre de Angie Valentina denunció presuntas agresiones y amenazas contra su hija, de 21 años, y pide esclarecer las circunstancias de su muerte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombres armados ingresaron al hospital y asesinaron a un paciente en Suárez, Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/hombres-armados-ingresaron-al-hospital-y-asesinaron-a-un-paciente-en-suarez-cauca-rg10",
+  "fecha": "2026-10-26T14:00:53-05:00",
+  "palabras": "Noticias de hoy, Cauca, Homicidios",
+  "lead": "Por el momento, las autoridades están en alerta, mientras que la comunidad permanece atemorizada ante la posibilidad de otros hechos de violencia al interior del centro médico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Anuncian controles a caravanas de motociclistas disfrazados en Halloween en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/anuncian-controles-a-caravanas-de-motociclistas-disfrazados-en-halloween-en-cali-rg10",
+  "fecha": "2026-10-26T14:15:05-05:00",
+  "palabras": "",
+  "lead": "Las caravanas de Halloween no serán prohibidas en Cali. Sin embargo, las autoridades anuncian restricciones y controles en las vías, además de adelantar operativos en la zona de rumba.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Radiografía de las siete primeras alocuciones del presidente De La Espriella: ¿qué dice la CRC?",
+  "enlace": "https://www.bluradio.com/politica/radiografia-de-las-siete-primeras-alocuciones-del-presidente-de-la-espriella-que-dice-la-crc-rg10",
+  "fecha": "2026-10-26T14:07:19-05:00",
+  "palabras": "Abelardo De La Espriella",
+  "lead": "En estos espacios que se han vuelto recurrentes, el primer mandatario ha abordado diversos temas: la atención tras el terremoto del 10 de agosto; balances de seguridad y lucha contra el narcotráfico; el estado de las finanzas públicas; la defensa de la soberanía; la crisis de la salud y hasta la…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Masacre en Huila: seis personas fueron asesinadas en zona rural de Suaza",
+  "enlace": "https://www.bluradio.com/nacion/masacre-en-huila-seis-personas-fueron-asesinadas-en-zona-rural-de-suaza-rs15",
+  "fecha": "2026-10-26T14:11:19-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "Una camioneta en la que se movilizaban cinco de los fallecidos fue incinerada",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Sinuano Día hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-sinuano-dia-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T14:20:36-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano día",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte el resultado del sorteo de este lunes 26 de octubre de 2026, las últimas cifras, la quinta balota y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caso Deicy Jiménez: Procuraduría abrió indagación a exfuncionarios del gobierno Petro",
+  "enlace": "https://caracol.com.co/2026/10/26/caso-deicy-jimenez-procuraduria-abrio-indagacion-a-exfuncionarios-de-gobierno-petro/",
+  "fecha": "2026-10-26T14:12:01-05:00",
+  "palabras": "",
+  "lead": "Entre los requerimientos se encuentra la indagación al Congreso de la República, a través de la Dirección General Administrativa, el Departamento Administrativo de la Presidencia de la República (Dapre); el Ministerio del Interior, la Superintendencia de Vigilancia y Seguridad Privada y la Superintendencia Nacional de Salud.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hay 1.000 estructuras en riesgo tras terremoto y fuertes lluvias: director de Bomberos Pereira",
+  "enlace": "https://caracol.com.co/2026/10/26/hay-1000-estructuras-en-riesgo-tras-terremoto-y-fuertes-lluvias-director-de-bomberos-pereira/",
+  "fecha": "2026-10-26T13:52:47-05:00",
+  "palabras": "",
+  "lead": "Alejandro Arango, director de Bomberos de Pereira",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Superintendencia de Notariado y Registro formalizó más de 300 predios en Santander",
+  "enlace": "https://caracol.com.co/2026/10/26/la-superintendencia-de-notariado-y-registro-formalizo-mas-de-300-predios-en-santander/",
+  "fecha": "2026-10-26T14:00:00-05:00",
+  "palabras": "",
+  "lead": "La formalización incluye 154 títulos entregados a título gratuito y 157 bienes públicos regularizados, entre ellos colegios, hospitales, parques, vías y zonas verdes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Walter Koenig, el actor que hizo de Chekov en la serie “Viaje a las estrellas”, murió a los 90 años",
+  "enlace": "https://caracol.com.co/2026/10/26/walter-koenig-el-actor-que-hizo-de-chekov-en-la-serie-viaje-a-las-estrellas-murio-a-los-90-anos/",
+  "fecha": "2026-10-26T13:48:46-05:00",
+  "palabras": "",
+  "lead": "“Hoy lamentamos el fallecimiento de Walter Koenig, cuyo talento, calidez e interpretaciones inolvidables dejaron una huella duradera en generaciones de seguidores de todo el mundo. Falleció anoche por causas naturales en su hogar de North Hollywood, rodeado de su hija y su sobrina”, escribieron sus representantes.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinSalud reglamenta créditos para las EPS: ADRES pagará directamente a hospitales y proveedores",
+  "enlace": "https://caracol.com.co/2026/10/26/minsalud-reglamenta-creditos-para-las-eps-adres-pagara-directamente-a-hospitales-y-proveedores/",
+  "fecha": "2026-10-26T13:42:30-05:00",
+  "palabras": "",
+  "lead": "La ADRES girará el dinero a los hospitales, clínicas y proveedores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo aprender a manejar la frustración en la vida? Psicóloga ofrece herramientas para lograrlo",
+  "enlace": "https://caracol.com.co/2026/10/26/como-aprender-a-manejar-la-frustracion-en-la-vida-psicologa-ofrece-herramientas-para-lograrlo/",
+  "fecha": "2026-10-26T13:38:39-05:00",
+  "palabras": "",
+  "lead": "Aprender a manejar la frustración en la vida es vital, pues nos permite afrontar las dificultades sin andar reaccionando impulsivamente, protegiendo así nuestra salud mental. Antonia Upegui, psicóloga clínica y educativa de la Universidad Javeriana, quien hace parte del equipo de psicología del colegio Gimnasio Los Caobos de la ciudad de Bogotá, nos comparte cómo lograrlo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jaquea tu duelo: una guía hacer para vivir una ruptura amorosa con consciencia y dignidad",
+  "enlace": "https://caracol.com.co/2026/10/26/jaquea-tu-duelo-una-guia-hacer-para-vivir-una-ruptura-amorosa-con-consciencia-y-dignidad/",
+  "fecha": "2026-10-26T13:38:35-05:00",
+  "palabras": "",
+  "lead": "¿Cuáles pueden ser los pasos para sanar el corazón roto? Navegar un duelo amoroso puede llevarnos a sentir un dolor profundo. Es por esto que Luisa Fernanda Cadena Perdomo, psicóloga clínica con más de 15 años de experiencia en psicoterapia, nos presenta su libro Jaquea tu duelo, en el que nos comparte qué hacer para vivir una ruptura amorosa con profundidad, consciencia y dignidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Cómo sigue Kbeto Zuleta tras el grave accidente?",
+  "enlace": "https://www.lafm.com.co/actualidad/kbeto-zuleta-uci-bosconia-accidente-transito-traslado-bogota-415193",
+  "fecha": "2026-10-26T14:18:00-05:00",
+  "palabras": "Actualidad,Accidente,Cantante de Vallenato,Vallenato,Poncho Zuleta,Cesar",
+  "lead": "La agrupación regresaba de una presentación privada en Sincelejo, Sucre. Kbeto Zuleta, hijo de Poncho Zuleta está en UCI",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nuevo escándalo de Coosalud por supuestos pagos irregulares: exsupersolidaria presentó denuncias en la Fiscalía",
+  "enlace": "https://www.lafm.com.co/actualidad/escandalo-coosalud-pagos-irregulares-exsupersolidaria-denuncia-fiscalia-415196",
+  "fecha": "2026-10-26T13:47:00-05:00",
+  "palabras": "Actualidad,Coosalud,Corrupción,Irregularidades en manejo de recursos,intervención,EPS",
+  "lead": "La exsuperintendente afirmó que las operaciones registradas por una compañía de confección de uniformes no correspondieron a recursos del sistema de salud....",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia desperdicia 26.700 toneladas de alimentos al día",
+  "enlace": "https://www.lafm.com.co/actualidad/en-el-pais-se-desperdicia-26700-toneladas-de-alimento-415195",
+  "fecha": "2026-10-26T13:36:00-05:00",
+  "palabras": "Actualidad,productos agropecuarios,Banco de alimentos,Comida,Verduras",
+  "lead": "En 2025, la inseguridad alimentaria moderada o grave afectó al 31,4 % de los hogares rurales en Colombia, 13,3 puntos porcentuales más que en las cabeceras...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Continúa la búsqueda de joven desaparecido en Buenaventura",
+  "enlace": "https://www.lafm.com.co/actualidad/cali-valle-del-cauca-dilan-campaz-continua-busqueda-buenaventura-415169",
+  "fecha": "2026-10-26T13:30:00-05:00",
+  "palabras": "Actualidad,Valle del Cauca,Buenaventura,Homicidios,desaparición de personas,desaparición forzada,Unidad de Búsqueda de Personas Desaparecidas,Joven desaparecido",
+  "lead": "Continúa la búsqueda de Dilan Campaz de 18 años, desaparecido desde el 11 de octubre en Buenaventura. Su familia denuncia llamadas extorsivas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Policía se pronuncia por muerte de Donovan Balanta",
+  "enlace": "https://www.lafm.com.co/orden-publico/muerte-donovan-balanta-paz-policia-expreso-solidaridad-y-ratifica-la-captura-de-cinco-uniformados-por-los-hechos-415192",
+  "fecha": "2026-10-26T13:08:00-05:00",
+  "palabras": "Orden Público,Inseguridad,Policía Nacional,Asesinato,Mega operativo,Capturas,Operación",
+  "lead": "Por su parte, el comandante de la Policía, General, Giovanni Cristancho anunció que se entregaron pruebas a la Fiscalía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Embajador de Colombia en Perú será el coronel Plazas Vega",
+  "enlace": "https://www.lafm.com.co/politica/alfonso-plazas-vega-sera-el-nuevo-embajador-de-colombia-en-peru-tras-reemplazo-de-su-esposa-thania-vega-415191",
+  "fecha": "2026-10-26T13:07:00-05:00",
+  "palabras": "Política,Diplomacia,Cargos diplomáticos,Perú,Cancilleria de Colombia,Embajadores,Gobierno,Abelardo de la Espriella,Palacio de Justicia,Miami",
+  "lead": "La designación llega un mes después de que Plazas Vega fuera absuelto en el juicio civil que enfrentó ante un tribunal federal de Miami.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
