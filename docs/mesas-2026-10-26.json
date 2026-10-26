@@ -517,6 +517,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Contraloría imputó cargos de responsabilidad fiscal por más de 13.000 millones de pesos contra tres empresas contratistas por irregularidades en los contratos de la planta de tratamiento de agua potable Francisco Wistner en Bogotá.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:02",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Fiscalía General de la Nación abrió una indagación por el llamado caso de las 48, sumándose a los procesos sobre presuntas irregularidades en contratos del gobierno de Gustavo Petro.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:02",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Investigan al exdirector del DAPRE Carlos Ramón Ríos por la supuesta instrumentalización de al menos 48 mujeres contratadas en la Casa de Nariño mediante órdenes de prestación de servicios.",
+   "resaltar": false
   }
  ],
  "avisos": [
