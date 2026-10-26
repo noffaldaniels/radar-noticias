@@ -2108,7 +2108,7 @@
   "palabras": "España, Barcelona",
   "lead": "Por causas que se están investigando, el autobús acabó saliéndose de la carretera, una vía llena de curvas, y se precipitándose por un barranco de 20 metros.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "Brasil, Elecciones Brasil, Flávio Bolsonaro, Lula Da Silva",
   "lead": "El candidato que obtenga más del 50 % de los votos válidos asumirá la Presidencia de Brasil el próximo 5 de enero por un mandato de cuatro años.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,7 +2130,7 @@
   "palabras": "",
   "lead": "José Arbey Díaz falleció luego de resultar herido en el sector de Cabo Tortuga. El capitán de puerto, Julio Monroy, confirmó a Caracol Radio que la investigación busca establecer las circunstancias del accidente y las posibles responsabilidades.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2141,7 +2141,7 @@
   "palabras": "",
   "lead": "Más de 3.500 personas disfrutaron de una jornada gratuita",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2152,7 +2152,7 @@
   "palabras": "",
   "lead": "Tras dos meses de formación, los nuevos auxiliares apoyarán labores de prevención y seguridad en Cartagena",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2163,7 +2163,7 @@
   "palabras": "",
   "lead": "Así se mueve la clasificación en el transcurso de la fecha 16 del campeonato nacional.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2174,7 +2174,7 @@
   "palabras": "",
   "lead": "La denuncia se da luego de los señalamientos hechos por la joven Deicy Jiménez en contra del exmandatario",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2185,7 +2185,7 @@
   "palabras": "",
   "lead": "La Alcaldía intervino varios canales y puntos críticos para reducir el riesgo de nuevas inundaciones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "",
   "lead": "La adolescente de 17 habría quedado en poder del grupo armado tras combates contra las disidencias de las Farc en el oriente del Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "Deportes,Ciclismo",
   "lead": "El punto de partida fue en las inmediaciones al Parque Nacional y la jornada finalizó en el barrio Montevideo. Al evento asistieron invitados especiales de...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,6 +2218,259 @@
   "palabras": "Internacional,Brasil,Elecciones presidenciales,Lula da Silva,Jair Bolsonaro",
   "lead": "Brasil reanudó el conteo de votos tras extender dos horas el cierre de las urnas en la segunda vuelta presidencial entre Luiz Inácio Lula da Silva y Flávio...",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luiz Inácio Lula da Silva es reelegido presidente de Brasil",
+  "enlace": "https://www.bluradio.com/mundo/luiz-inacio-lula-da-silva-es-reelegido-presidente-de-brasil-tras-derrotar-a-bolsonaro-en-las-urnas-so35",
+  "fecha": "2026-10-25T19:11:56-05:00",
+  "palabras": "Elecciones Brasil, Lula Da Silva, Flávio Bolsonaro, Brasil",
+  "lead": "Luiz Inácio Lula da Silva, el candidato por el Partido de los Trabajadores (PT) se convierte en el nuevo presidente de Brasil tras obtener más del 50 % de los votos válidos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Chontico Noche hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-chontico-noche-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T19:17:41-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Noche",
+  "lead": "El Chontico Noche juega todos los días y es uno de los chances más consultados por los apostadores del Valle del Cauca y otras regiones de Colombia. Este domingo 25 de octubre de 2026, los jugadores pueden consultar el resultado oficial y verificar si acertaron las cifras de su apuesta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Defensoría pide investigar denuncia de pago de servicios sexuales a Petro con dinero público",
+  "enlace": "https://www.bluradio.com/politica/defensoria-pide-investigar-denuncia-de-pago-de-servicios-sexuales-a-petro-con-dinero-publico-rg10",
+  "fecha": "2026-10-25T19:25:00-05:00",
+  "palabras": "Gustavo Petro, Defensoría del Pueblo, Iris Marín",
+  "lead": "La UNP y el Ministerio de Justicia activaron una ruta de protección para la denunciante, quien asegura que serían entre 30 y 40 mujeres las contratadas en entidades del Estado, a cambio de servicios sexuales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Reacciones a la victoria de Lula da Silva en las elecciones presidenciales en Brasil",
+  "enlace": "https://www.bluradio.com/mundo/reacciones-a-la-victoria-de-lula-da-silva-en-las-elecciones-presidenciales-en-brasil-so35",
+  "fecha": "2026-10-25T20:12:38-05:00",
+  "palabras": "Brasil, Elecciones Brasil, Lula Da Silva",
+  "lead": "La victoria de Luiz Inácio Lula da Silva en la segunda vuelta de las elecciones presidenciales de Brasil provocó diversas reacciones de dirigentes políticos de la región.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Caribeña Noche hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-caribena-noche-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T20:19:17-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Caribeña noche",
+  "lead": "El chance Caribeña Noche es uno de los juegos de azar más consultados por los apostadores de la región Caribe colombiana. Este domingo 25 de octubre de 2026, los participantes pueden consultar el resultado del sorteo y verificar si las cifras de su tiquete coinciden con la combinación ganadora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Sinuano Noche hoy domingo 25 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-sinuano-noche-hoy-domingo-25-de-octubre-de-2026-so35",
+  "fecha": "2026-10-25T20:23:50-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano noche",
+  "lead": "El chance Sinuano Noche realiza su sorteo los domingos a las 8:30 p. m. y es uno de los juegos de azar más consultados por los apostadores de la región Caribe colombiana. Este domingo 25 de octubre de 2026, los participantes pueden revisar el resultado oficial y comprobar si acertaron alguna de las…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Alocución del presidente Abelardo de la Espriella: siga la transmisión",
+  "enlace": "https://caracol.com.co/2026/10/26/en-vivo-alocucion-del-presidente-abelardo-de-la-espriella-siga-la-transmision/",
+  "fecha": "2026-10-25T20:01:09-05:00",
+  "palabras": "",
+  "lead": "Este domingo 25 de octubre, el presidente Abelardo de la Espriella se dirige a los colombianos en medio de una alocución presidencial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Luis Javier Suárez sigue en racha goleadora, a pesar de inesperada derrota del Sporting",
+  "enlace": "https://caracol.com.co/2026/10/26/video-luis-javier-suarez-sigue-en-racha-goleadora-a-pesar-de-inesperada-derrota-del-sporting/",
+  "fecha": "2026-10-25T20:00:12-05:00",
+  "palabras": "",
+  "lead": "El equipo de Lisboa cayó en casa 1-2 frente al Académico de Viseu.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Líderes políticos reaccionan al triunfo presidencial de Lula da Silva en Brasil",
+  "enlace": "https://caracol.com.co/2026/10/26/lideres-politicos-reaccionan-al-triunfo-presidencial-de-lula-da-silva-en-brasil/",
+  "fecha": "2026-10-25T20:00:26-05:00",
+  "palabras": "",
+  "lead": "Luiz Inácio Lula da Silva asumirá su cuarto mandato el próximo 5 de enero en Brasilia con casi 81 años de edad.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Iniciaron los XXX Juegos Interescuelas de Cadetes 2026",
+  "enlace": "https://caracol.com.co/2026/10/26/iniciaron-los-xxx-juegos-interescuelas-de-cadetes-2026/",
+  "fecha": "2026-10-25T20:13:02-05:00",
+  "palabras": "",
+  "lead": "Hasta el 31 de octubre, futuros oficiales de las Fuerzas Militares y la Policía competirán en distintas disciplinas deportivas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "PERFIL del nuevo presidente de Brasil, Luiz Inácio Lula da Silva",
+  "enlace": "https://caracol.com.co/2026/10/26/perfil-del-nuevo-presidente-de-brasil-luiz-inacio-lula-da-silva/",
+  "fecha": "2026-10-25T19:45:31-05:00",
+  "palabras": "",
+  "lead": "Lula gana las elecciones presidenciales tras una remontada inédita ante Flávio Bolsonaro",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Tolima vs Pasto por Liga Colombiana 2026-ll HOY: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/26/en-vivo-tolima-vs-pasto-por-liga-colombiana-2026-ll-hoy-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-10-25T19:45:16-05:00",
+  "palabras": "",
+  "lead": "El conjunto Pijao buscará conseguir su cupo entre los 8 y clasificarse a la siguiente fase.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Un error en el cierre del partido deja al Cali fuera de la Copa Libertadores Femenina",
+  "enlace": "https://caracol.com.co/2026/10/26/video-un-error-en-el-cierre-del-partido-deja-al-cali-fuera-de-la-copa-libertadores-femenina/",
+  "fecha": "2026-10-25T19:31:40-05:00",
+  "palabras": "",
+  "lead": "Las vallecaucanas perdieron 0-1 ante Olimpia, con un gol a los 90+1 minutos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Brasil: Lula da Silva gana la segunda vuelta presidencial y repite mandato",
+  "enlace": "https://caracol.com.co/2026/10/26/brasil-lula-da-silva-gana-la-segunda-vuelta-presidencial-y-repite-mandato/",
+  "fecha": "2026-10-25T19:12:08-05:00",
+  "palabras": "",
+  "lead": "Luego de quedar en segundo lugar en la primera vuelta, Lula da Silva logró el respaldo mayoritario para permanecer en el poder por cuatro años más y asumirá el nuevo periodo presidencial el 5 de enero de 2027.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Petro sobre denuncias en su contra: “Jamás he entregado un contrato a cambio de obtener relaciones”",
+  "enlace": "https://caracol.com.co/2026/10/26/petro-sobre-denuncias-en-su-contra-jamas-he-entregado-un-contrato-a-cambio-de-obtener-relaciones/",
+  "fecha": "2026-10-25T19:05:19-05:00",
+  "palabras": "",
+  "lead": "El expresidente Gustavo Petro respondió a las denuncias en su contra y aseguró que buscan invadir su intimidad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Es necesario aumentar la producción a 50 toneladas por hectárea”: MinAgricultura a los papicultores",
+  "enlace": "https://caracol.com.co/2026/10/26/es-necesario-aumentar-la-produccion-a-50-toneladas-por-hectarea-minagricultura-a-los-papacultores/",
+  "fecha": "2026-10-25T19:13:02-05:00",
+  "palabras": "",
+  "lead": "El encuentro concretó en una hoja de ruta que busca fortalecer la competitividad del sector, aumentar la productividad y reducir los costos de producción del cultivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Leandro Paredes, maravillado con gran atajada de Álvaro Montero: “Nos salvó otra vez”",
+  "enlace": "https://caracol.com.co/2026/10/26/leandro-paredes-maravillado-con-gran-atajada-de-alvaro-montero-nos-salvo-otra-vez/",
+  "fecha": "2026-10-25T19:00:28-05:00",
+  "palabras": "",
+  "lead": "El arquero guajiro fue determinante para que Boca Juniors le ganara el clásico a Independiente 0-1.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lula, reelegido presidente de Brasil: historia, perfil y polémicas",
+  "enlace": "https://www.lafm.com.co/internacional/luiz-inacio-lula-da-silva-presidente-brasil-reeleccion-perfil-ganador-segunda-vuelta-2026-414951",
+  "fecha": "2026-10-25T19:35:00-05:00",
+  "palabras": "Internacional,Lula da Silva,Elecciones presidenciales,Presidente electo,Jair Bolsonaro,Candidatura presidencial,Reelección,jornada electoral,Democracia,Lucha anticorrupción,Sao Pablo",
+  "lead": "Ningún otro presidente elegido democráticamente ha gobernado tanto tiempo el país más grande de América Latina.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Petro niega haber entregado contratos a cambio de relaciones",
+  "enlace": "https://www.lafm.com.co/politica/gustavo-petro-niega-haber-entregado-contratos-a-cambio-de-relaciones-sexuales-415120",
+  "fecha": "2026-10-25T19:24:00-05:00",
+  "palabras": "Política,Gustavo Petro,Investigaciones,genero,Abuso laboral,Denuncias por abuso",
+  "lead": "Su respuesta se conoce luego de que Deicy Jiménez asegurara que Petro habría entregado contratos estatales a cambio de relaciones sexuales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lula es reelegido como presidente de Brasil tras vencer a Flávio Bolsonaro en el balotaje",
+  "enlace": "https://www.lafm.com.co/internacional/lula-reelegido-presidente-brasil-vencio-bolsonaro-balotaje-415119",
+  "fecha": "2026-10-25T19:15:00-05:00",
+  "palabras": "Internacional,Brasil,Lula da Silva,Jair Bolsonaro",
+  "lead": "El presidente brasileño se impuso tras un apretado escrutinio con el 51.76% de votaciones la segunda vuelta.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Defensoría solicita acelerar investigación contra Petro",
+  "enlace": "https://www.lafm.com.co/politica/defensoria-pueblo-iris-marin-pide-celeridad-denuncia-gustavo-petro-contratos-servicios-sexuales-415118",
+  "fecha": "2026-10-25T19:13:00-05:00",
+  "palabras": "Política,Gustavo Petro,Acusaciones,Procuraduría General de la Nación,Corte Suprema de Justicia,Defensoría del Pueblo,Delitos sexuales,Presidencia de la República",
+  "lead": "“La gravedad de esta de esta denuncia no da margen de espera”, afirmó la defensora del pueblo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Junior: crónica de la pelea entre Teo Gutiérrez y Sebastián Viera",
+  "enlace": "https://www.lafm.com.co/deportes/cronica-disputa-teofilo-sebastian-viera-crisis-junior-415117",
+  "fecha": "2026-10-25T18:49:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Atlético Junior,Teófilo Gutiérrez",
+  "lead": "Unas declaraciones polémicas de Teófilo Gutiérrez dinamitaron la relación con el entrenador y le provocó un castigo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Familias desplazadas por ataques con drones en Catatumbo",
+  "enlace": "https://www.lafm.com.co/orden-publico/catatumbo-norte-de-santander-cien-familias-desplazadas-ultima-semana-ataques-drones-415114",
+  "fecha": "2026-10-25T17:42:00-05:00",
+  "palabras": "Orden Público,Catatumbo,Desplazamiento forzado,El Tarra,ELN,Disidentes de las Farc",
+  "lead": "Los ataques con drones y explosivos agravan la crisis humanitaria en el Catatumbo, donde cientos de familias enfrentan el desplazamiento.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
