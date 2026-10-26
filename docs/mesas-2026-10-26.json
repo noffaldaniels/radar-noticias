@@ -272,6 +272,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Doña Luz Estela Murgas de Naturgaas ha llevado varios años en Naturgas.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:52",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El gobierno de Estados Unidos presiona a la mesa de negociaciones para la fecha de las elecciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:52",
+   "quien": "Ricardo Ospina, Periodista de Mañanas Blu",
+   "que": "Se prevé el miércoles 11 de noviembre para el inicio de la cuarta ronda de negociación.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:52",
+   "quien": "Delsa Solórzano, Líder de la Oposición Venezolana",
+   "que": "El regreso de María Corina Machado marca una nueva etapa en Venezuela tras el 3 de enero.",
+   "resaltar": false
   }
  ],
  "avisos": [
