@@ -363,6 +363,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El tocón suá tiene retiene ya almuerzo, sí señor, en un restaurante de Bogotá fuentes nos han confirmado que vieron en una mesa reunidos al menos a tres de esos nombres que ustedes están mencionando.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:22",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Hay un grave accidente en vías de la Costa Caribe en límites entre Cesar y Magdalena, cerca al municipio de Ariguaní. Se cayó a un río un bus que transportaba a la agrupación del cantante vallenato Caveto Zuleta, hijo de Poncho Zuleta. Hay 2 personas muertas y otras 20 heridas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:22",
+   "quien": "Ricardo Ospina, Periodista de Mañanas Blu",
+   "que": "El bus de la empresa Super Star en el que se movilizaba la agrupación de Caveto Zuleta cayó del puente en la vía entre el difícil Magdalena y Bosconia Cesar. El alcalde de Bosconia Jorge Patiño confirmó que hay 2 personas fallecidas y 20 heridos, entre ellos el hijo de Poncho Zuleta, y varios lesionados graves trasladados a centros médicos.",
+   "resaltar": false
   }
  ],
  "avisos": [
