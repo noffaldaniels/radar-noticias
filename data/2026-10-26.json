@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "El alcalde de Bosconia, Jorge Patiño, confirmó en Blu Radio el balance preliminar dejado por el siniestro vial, el cual corresponde a dos personas muertas y 20 heridos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Accidente de tránsito",
   "lead": "Según la información conocida, no hubo personas lesionadas en el accidente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Viral, El Salvador",
   "lead": "Una niña fue arrastrada por una corriente durante unas fuertes lluvias, y estuvo a punto de caer en una alcantarilla.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Gustavo Petro, Laura Sarabia, Angie Rodríguez",
   "lead": "La indagación incluye las denuncias sobre una presunta contratación irregular de mujeres y las declaraciones públicas de la exdirectora de esa entidad, Angie Rodríguez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Bucaramanga, Santander, Gobernación de Santander, Blu Radio",
   "lead": "Comunidades reclaman por el impacto que tendría la actualización catastral en el impuesto predial. La Gobernación de Santander asegura que acompaña las solicitudes de revisión.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "",
   "lead": "Marcelo Castro, senador de Brasil habla del resultado de la segunda vuelta presidencial en ese país.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "Wilson Humberto Velandia Serrano es investigado por el secuestro, la violencia sexual, el asesinato y la desaparición de dos jóvenes de 19 y 17 años, ocurridos en febrero de 2003.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "Las senadoras Esmeralda Hernández y Andrea Padilla hablaron en 6AM W sobre la iniciativa que busca frenar la comercialización de animales de compañía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "Esto se da por la denuncia de una joven que señalaba al expresidente Gustavo Petro de haber pagado servicios sexuales con contratos en diferentes entidades del Estado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "Bogotá tiene más de 400 puntos críticos de acumulación de basura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "Los operativos dejaron cuatro establecimientos citados, 100 metros cuadrados de espacio público recuperado y ocho vehículos inmovilizados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "Actualidad,Políticos,Abelardo de la Espriella,Asocajas,Gobierno,Darcy Quinn",
   "lead": "El senador Víctor Manuel Salcedo, del partido de la U, cuestionó una presunta intervención de la Superintendencia del Subsidio Familiar en el Congreso de A...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1425,6 +1425,556 @@
   "fecha": "2026-10-26T08:22:00-05:00",
   "palabras": "Sociedad,TransMilenio,hurto,Bogotá,Inseguridad",
   "lead": "El hecho se presentó mientras el articulado se encontraba en movimiento. Algunos usuarios reportaron el hecho a las autoridades",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Familia de joven asesinada en Santander salvó más de 30 vidas con donación de órganos",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/familia-de-joven-asesinada-en-santander-salvo-mas-de-30-vidas-con-donacion-de-organos-rg10",
+  "fecha": "2026-10-26T10:16:03-05:00",
+  "palabras": "Noticias de hoy, Santander, Feminicidio, Blu Radio, Puerto Wilches, Homicidios, Violencia Contra la mujer, Mujeres",
+  "lead": "Gerlein Joya, de 22 años, murió tras recibir tres disparos en un hecho que es materia de investigación. Su familia decidió honrar su memoria autorizando la donación de sus órganos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Coosalud reporta pagos por más de $1,1 billones y avances en la atención de sus usuarios",
+  "enlace": "https://www.bluradio.com/salud/coosalud-reporta-pagos-por-mas-de-1-1-billones-y-avances-en-la-atencion-de-sus-usuarios-rg10",
+  "fecha": "2026-10-26T09:03:30-05:00",
+  "palabras": "EPS",
+  "lead": "La EPS aseguró que, durante los primeros dos meses de la actual intervención, autorizó más de 7.000 procedimientos quirúrgicos y no quirúrgicos, realizó cerca de 38.000 consultas y aumentó el cumplimiento de fallos judiciales. La entidad también se refirió a las denuncias por presuntas…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente De La Espriella designa al coronel (r) Plazas Vega como embajador en Perú",
+  "enlace": "https://www.bluradio.com/nacion/presidente-de-la-espriella-designa-al-coronel-r-plazas-vega-como-embajador-en-peru-rg10",
+  "fecha": "2026-10-26T09:17:07-05:00",
+  "palabras": "Alfonso Plazas Vega, Abelardo De La Espriella",
+  "lead": "En un principio, Thania Vega, esposa del coronel en retiro Plazas Vega, había sido nombrada en ese cargo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No es una persecución personal”: senadora María Clara Posada sobre control político a la JEP",
+  "enlace": "https://www.bluradio.com/judicial/no-es-una-persecucion-personal-senadora-maria-clara-posada-sobre-control-politico-a-la-jep-pr30",
+  "fecha": "2026-10-26T09:54:46-05:00",
+  "palabras": "JEP, Defensoría del Pueblo",
+  "lead": "Asimismo, la congresista desestimó que los señalamientos de su bancada correspondan a una animadversión individual contra los integrantes del tribunal de paz.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lista la ponencia para segundo debate de la ley de sometimiento en las plenarias del Congreso",
+  "enlace": "https://www.bluradio.com/nacion/lista-la-ponencia-para-segundo-debate-de-la-ley-de-sometimiento-en-las-plenarias-del-congreso-rg10",
+  "fecha": "2026-10-26T09:29:22-05:00",
+  "palabras": "Ley de sometimiento, Congreso de la República",
+  "lead": "Según lo aprobado en las Comisiones Primeras Conjuntas, los colaboradores de los actores armados ilegales que hayan incurrido en delitos de lavado de activos, testaferro y enriquecimiento ilícito tendrán una pena mínima de tres años, dos años más que lo concebido por el Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Defensoría alerta por amenazas de grupos armados a comunidades en Ricaurte y Mallama, Nariño",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/defensoria-alerta-por-amenazas-de-grupos-armados-a-comunidades-en-ricaurte-y-mallama-narino-rg10",
+  "fecha": "2026-10-26T09:47:26-05:00",
+  "palabras": "Nariño, Defensoría del Pueblo, ELN, Disidencias Farc",
+  "lead": "La Alerta Temprana advierte sobre riesgos de reclutamiento de menores, extorsiones, desplazamientos y confinamientos. Entre las comunidades más vulnerables están los pueblos indígenas Awá y Los Pastos, los campesinos y los firmantes de paz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dónde ver EN VIVO el Balón de Oro 2026: hora y canal para ver la ceremonia",
+  "enlace": "https://www.bluradio.com/deportes/donde-ver-en-vivo-el-balon-de-oro-2026-hora-y-canal-para-ver-la-ceremonia-so35",
+  "fecha": "2026-10-26T10:01:29-05:00",
+  "palabras": "Balón de oro, UEFA, Kylian Mbappé, Lamine Yamal, Harry Kane",
+  "lead": "Luis Díaz está entre los nominados en una edición que se celebra por primera vez en Londres.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia tiene un reactor nuclear en Bogotá y ya volvió a funcionar: para qué sirve y cómo visitarlo",
+  "enlace": "https://www.bluradio.com/tecnologia/reactor-nuclear-bogota-volvio-a-funcionar-para-que-sirve-como-visitarlo-pr30",
+  "fecha": "2026-10-26T10:16:28-05:00",
+  "palabras": "Armas nucleares",
+  "lead": "Tras un periodo inactivo por cambios técnicos y permisos, el reactor de investigación del Servicio Geológico Colombiano vuelve a irradiar muestras y abre sus puertas al público.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel coronel (r) por presunta agresión sexual y asesinato de dos hermanas en Antioquia",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-coronel-r-por-presunta-agresion-sexual-y-asesinato-de-dos-hermanas-en-antioquia-rg10",
+  "fecha": "2026-10-26T10:08:36-05:00",
+  "palabras": "Abuso sexual, Violación",
+  "lead": "La investigación también apunta a que, años después, el entonces oficial habría dispuesto la exhumación de los cuerpos con el propósito de impedir que fueran encontrados.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Consulte el resultado del último sorteo de Dorado Mañana hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/consulte-el-resultado-del-ultimo-sorteo-de-dorado-manana-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T10:15:08-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Mañana",
+  "lead": "Consulte el resultado del sorteo de Dorado Mañana de este lunes 26 de octubre de 2026. Conozca el número ganador, las últimas cifras, la quinta balota y cómo reclamar un premio de este popular chance en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lluvias de octubre permiten la recuperación del volumen útil del embalse de Prado, Tolima",
+  "enlace": "https://caracol.com.co/2026/10/26/lluvias-de-octubre-permiten-la-recuperacion-del-volumen-util-del-embalse-de-prado-tolima/",
+  "fecha": "2026-10-26T10:16:10-05:00",
+  "palabras": "",
+  "lead": "El Embalse alcanzó los 42,80% de volumen útil y mantiene recuperación luego de estar sobre los 35,34%.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sec. general de la Cancillería se certificó a sí misma experiencia en empresa que no existía en 2021",
+  "enlace": "https://caracol.com.co/2026/10/26/sec-general-de-la-cancilleria-se-certifico-a-si-misma-experiencia-en-empresa-que-no-existia-en-2021/",
+  "fecha": "2026-10-26T09:08:16-05:00",
+  "palabras": "",
+  "lead": "Documentos conocidos por Caracol Radio revelan que la empresa usada por Gina González Grau para acreditar su experiencia en el Ministerio de Exteriores fue registrada en 2023 y no en 2021",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cambio en Asocajas: directora Adriana Guillén recibió notificación para dejar su cargo",
+  "enlace": "https://caracol.com.co/2026/10/26/cambio-en-asocajas-directora-adriana-guillen-recibio-notificacion-para-dejar-su-cargo/",
+  "fecha": "2026-10-26T10:06:00-05:00",
+  "palabras": "",
+  "lead": "6AM W de Caracol Radio confirmó que Asocajas tendrá un cambio en su dirección, pues su actual directora, Adriana Guillén, no seguirá en el cargo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las voces originales del Eurodisco llegan en noviembre a Colombia para poner a bailar a toda Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/26/las-voces-originales-del-eurodisco-llegan-en-noviembre-a-colombia-para-poner-a-bailar-a-toda-bogota/",
+  "fecha": "2026-10-26T10:12:19-05:00",
+  "palabras": "",
+  "lead": "Haddaway, Jenny Bergren de Ace of Base, conversaron con Caracol Radio sobre su próximo concierto del 1.º de noviembre en “Dance Now” en el Movistar Arena.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Estamos trabajando en eso”: Sala de Casación Penal sobre falsos testigos en caso Uribe",
+  "enlace": "https://caracol.com.co/2026/10/26/estamos-trabajando-en-eso-sala-de-casacion-penal-sobre-falsos-testigos-en-caso-uribe/",
+  "fecha": "2026-10-26T10:01:31-05:00",
+  "palabras": "",
+  "lead": "Carlos Roberto Solórzano, presidente de la sala de casación penal, habló sobre los reparos que hay al estatuto antiterrorista y el caso Uribe",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hip Hop al Parque 2026 cerró dos jornadas de música, breaking y arte urbano en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/26/hip-hop-al-parque-2026-cerro-dos-jornadas-de-musica-breaking-y-arte-urbano-en-bogota/",
+  "fecha": "2026-10-26T10:08:49-05:00",
+  "palabras": "",
+  "lead": "El Parque Metropolitano Simón Bolívar recibió la edición número 28 del festival, con artistas nacionales e internacionales, competencias de baile y actividades culturales que destacaron el papel de los barrios en la historia del hip hop.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió Eric Bauza, la voz moderna de Bugs Bunny, el Pato Lucas y otros “Looney Tunes”, a los 46 años",
+  "enlace": "https://caracol.com.co/2026/10/26/murio-eric-bauza-voz-moderna-de-bugs-bunny-el-pato-lucas-y-otros-looney-tunes-a-los-46-anos/",
+  "fecha": "2026-10-26T09:53:21-05:00",
+  "palabras": "",
+  "lead": "El fallecimiento de Bauza fue anunciado por su familia, que compartió un comunicado en la cuenta de Instagram del actor este domingo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden medidas para frenar las “rodadas del terror” en de Halloween en Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/26/piden-medidas-para-frenar-las-rodadas-del-terror-en-de-halloween-en-bogota/",
+  "fecha": "2026-10-26T10:01:10-05:00",
+  "palabras": "",
+  "lead": "La accidentalidad y la inseguridad son los principales motivos para solicitar que estas actividades no se desarrollen.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿A qué hora se entrega hoy el Balón de Oro 2026 y dónde ver EN VIVO? Lista de nominados",
+  "enlace": "https://caracol.com.co/2026/10/26/a-que-hora-se-entrega-hoy-el-balon-de-oro-2026-y-donde-ver-en-vivo-lista-de-nominados/",
+  "fecha": "2026-10-26T09:54:02-05:00",
+  "palabras": "",
+  "lead": "Así podrá disfrutar de la ceremonia de entrega del galardón individual más importante en el mundo del fútbol.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias “Muco”, uno de los más buscado en Norte de Santander, fue capturado en el Cesar",
+  "enlace": "https://caracol.com.co/2026/10/26/alias-muco-uno-de-los-mas-buscado-en-norte-de-santander-fue-capturado-en-el-cesar/",
+  "fecha": "2026-10-26T09:51:56-05:00",
+  "palabras": "",
+  "lead": "Se trata de un presunto integrante de las disidencias de las FARC, quien era requerido por los delitos de homicidio agravado y porte ilegal de armas de fuego.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín invita a descubrir la historia y el patrimonio del Hospital San Vicente Fundación",
+  "enlace": "https://caracol.com.co/2026/10/26/medellin-invita-a-descubrir-la-historia-y-el-patrimonio-del-hospital-san-vicente-fundacion/",
+  "fecha": "2026-10-26T09:41:21-05:00",
+  "palabras": "",
+  "lead": "El recorrido gratuito de Coolturízate se realizará este jueves 29 de octubre, de 2:00 p. m. a 4:00 p. m., y permitirá conocer espacios emblemáticos de esta institución centenaria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La iniciativa en La Picota es voluntaria para erradicar el delito digital y la extorsión”: vocero",
+  "enlace": "https://caracol.com.co/2026/10/26/la-iniciativa-en-la-picota-es-voluntaria-para-erradicar-el-delito-digital-y-la-extorsion-vocero/",
+  "fecha": "2026-10-26T09:49:57-05:00",
+  "palabras": "",
+  "lead": "Camilo Higuera, director de Comunicaciones e Inclusión Social de la Fundación Acción Interna, habla sobre la propuesta de reclusos de La Picota: entregar celulares, fabricar mobiliario y reparar vías sin pedir beneficios a cambio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bacilos y Jósean Log presentan ‘La Limonada’, un EP de seis canciones producido por Eduardo Cabra",
+  "enlace": "https://caracol.com.co/2026/10/26/bacilos-y-josean-log-presentan-la-limonada-un-ep-de-seis-canciones-producido-por-eduardo-cabra/",
+  "fecha": "2026-10-26T09:48:33-05:00",
+  "palabras": "",
+  "lead": "El proyecto reúne a los artistas en una colaboración que explora el amor, la migración, la identidad y las experiencias cotidianas. Las seis canciones nacieron durante unas sesiones de composición en Barcelona.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Falleció un hombre en medio de una riña en el oriente de Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/26/fallecio-un-hombre-en-medio-de-una-rina-en-el-oriente-de-cartagena/",
+  "fecha": "2026-10-26T09:48:05-05:00",
+  "palabras": "",
+  "lead": "La víctima recibió un disparo de arma de fuego",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 250 familias afectadas y seis sectores identificados por las lluvias en Turbaco",
+  "enlace": "https://caracol.com.co/2026/10/26/mas-de-250-familias-afectadas-y-seis-sectores-identificados-por-las-lluvias-en-turbaco/",
+  "fecha": "2026-10-26T09:43:56-05:00",
+  "palabras": "",
+  "lead": "Alcaldía municipal responde a emergencia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lucas González, autocrítico tras remontada de Nacional: “Es uno de los peores primeros tiempos”",
+  "enlace": "https://caracol.com.co/2026/10/26/lucas-gonzalez-autocritico-tras-remontada-de-nacional-es-uno-de-los-peores-primeros-tiempos/",
+  "fecha": "2026-10-26T09:40:47-05:00",
+  "palabras": "",
+  "lead": "El entrenador verdolaga destacó la reacción de sus jugadores para vencer al Poderoso de la Montaña.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan Carlos Díaz Tarud renunció al viceministerio de veteranos del Misterio de Defensa",
+  "enlace": "https://caracol.com.co/2026/10/26/juan-carlos-diaz-tarud-renuncio-al-viceministerio-de-veteranos-del-misterio-de-defensa/",
+  "fecha": "2026-10-26T09:40:39-05:00",
+  "palabras": "",
+  "lead": "El empresario barranquillero había sido nombrado en agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Ibagué hay más de 6.000 palomas: evalúan plan de manejo integral en zonas públicas",
+  "enlace": "https://caracol.com.co/2026/10/26/en-ibague-hay-mas-de-6000-palomas-evaluan-plan-de-manejo-integral-en-zonas-publicas/",
+  "fecha": "2026-10-26T09:40:42-05:00",
+  "palabras": "",
+  "lead": "Un estudio realizado muestra que más del 70% de las personas consultadas apoya la implementación de medidas pedagógicas y de educación ambiental para su manejo, más que de acciones letales.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Motociclista fue asesinado por sicarios en el sur de Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/26/motociclista-fue-asesinado-por-sicarios-en-el-sur-de-cartagena/",
+  "fecha": "2026-10-26T09:38:26-05:00",
+  "palabras": "",
+  "lead": "Los hechos ocurrieron en el barrio Huellas Alberto Uribe",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos son los cuatro objetivos de María Corina Machado en Venezuela: promoverá elecciones para 2027",
+  "enlace": "https://caracol.com.co/2026/10/26/estos-son-los-cuatro-objetivos-de-maria-corina-machado-en-venezuela-promovera-elecciones-en-2027/",
+  "fecha": "2026-10-26T09:13:51-05:00",
+  "palabras": "",
+  "lead": "Carlos Blanco, miembro del equipo de estrategia de María Corina Machado, reveló los cuatro puntos de la agenda de la opositora en Venezuela:",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "HUS estrena zonas de estudio y descanso; obtiene reconocimiento como hospital universitario",
+  "enlace": "https://caracol.com.co/2026/10/26/hus-estrena-zonas-de-estudio-y-descanso-obtiene-reconocimiento-como-hospital-universitario/",
+  "fecha": "2026-10-26T09:18:43-05:00",
+  "palabras": "",
+  "lead": "El Hospital Universitario de Santander habilitó un espacio de bienesar para más de 1.400 estudiantes. Con una inversión de $1.600 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Judicializan a alias ‘Bloqueo’ por el homicidio de reconocida líder social en el Chocó",
+  "enlace": "https://caracol.com.co/2026/10/26/judicializan-a-alias-bloqueo-por-el-homicidio-de-reconocida-lider-social-en-el-choco/",
+  "fecha": "2026-10-26T09:21:59-05:00",
+  "palabras": "",
+  "lead": "Un juez dictó nueva medida de aseguramiento contra el imputado, quien ya permanecía en prisión por el delito de concierto para delinquir.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Karol G ganó cuatro premios Billboard de la Música Latina 2026: estas son las categorías",
+  "enlace": "https://caracol.com.co/2026/10/26/karol-g-gano-cuatro-premios-billboard-de-la-musica-latina-2026-estas-son-las-categorias/",
+  "fecha": "2026-10-26T09:20:28-05:00",
+  "palabras": "",
+  "lead": "La cantante colombiana recibió cuatro reconocimientos, pese a no asistir a la ceremonia en Miami. Entre los premios se destacó una nueva categoría elegida directamente por los seguidores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel hombre señalado de reclutar a dos menores en el Huila con falsas promesas de dinero",
+  "enlace": "https://caracol.com.co/2026/10/26/a-la-carcel-hombre-senalado-de-reclutar-a-dos-menores-en-huila-con-falsas-promesas-de-dinero/",
+  "fecha": "2026-10-26T09:17:03-05:00",
+  "palabras": "",
+  "lead": "Los adolescentes, de 14 y 17 años, fueron interceptados en un bus en Popayán cuando viajaban hacia el Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Montero pediría no ser llamado a la Selección Colombia? Esto dijo el portero de Boca",
+  "enlace": "https://caracol.com.co/2026/10/26/montero-pediria-no-ser-llamado-a-la-seleccion-colombia-esto-dijo-el-portero-de-boca/",
+  "fecha": "2026-10-26T09:13:32-05:00",
+  "palabras": "",
+  "lead": "El arquero guajiro podría perderse el duelo de semifinales de la Copa Argentina, de ser citado a los amistosos ante Chile.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con velatón despidieron en Montería a María José Recuero, patrullera asesinada en Cali",
+  "enlace": "https://caracol.com.co/2026/10/26/con-velaton-despidieron-en-monteria-a-maria-jose-recuero-patrullera-asesinada-en-cali/",
+  "fecha": "2026-10-26T09:10:25-05:00",
+  "palabras": "",
+  "lead": "La patrullera, de tan solo 20 años, llevaba aproximadamente un año de servicio en la institución",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Spotify retiró más de 50 millones de canciones de sus recomendaciones: esta es la razón",
+  "enlace": "https://caracol.com.co/2026/10/26/spotify-retiro-mas-de-50-millones-de-canciones-de-sus-recomendaciones-esta-es-la-razon/",
+  "fecha": "2026-10-26T09:03:18-05:00",
+  "palabras": "",
+  "lead": "La plataforma busca frenar la difusión de pistas de baja calidad y combatir el spam musical. También refuerza sus herramientas para detectar contenido generado con inteligencia artificial y proteger la visibilidad de los artistas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Regreso de María Corina Machado a Venezuela: Vente Venezuela pide elecciones libres",
+  "enlace": "https://caracol.com.co/2026/10/26/regreso-de-maria-corina-machado-a-venezuela-vente-venezuela-pide-elecciones-libres/",
+  "fecha": "2026-10-26T09:02:09-05:00",
+  "palabras": "",
+  "lead": "Andrés Calle, secretario político de Vente Venezuela en Colombia, planteó la necesidad de renovación institucional en su país.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "70 adultos mayores de Cartagena se están formando como Guardias Ambientales",
+  "enlace": "https://caracol.com.co/2026/10/26/70-adultos-mayores-de-cartagena-se-estan-formando-como-guardias-ambientales/",
+  "fecha": "2026-10-26T09:00:47-05:00",
+  "palabras": "",
+  "lead": "Ejemplo de compromiso ambiental en los Centros de Vida de Ricaurte y Chiquinquirá",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Protestas contra avalúo catastral en Santander generaron bloqueo de la vía Bucaramanga Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/26/protestas-contra-avaluo-catastral-en-santander-generaron-bloqueo-de-la-via-bucaramanga-cucuta/",
+  "fecha": "2026-10-26T09:00:40-05:00",
+  "palabras": "",
+  "lead": "El cierre de la calzada se mantuvo durante hasta algunos minutos hasta que hizo presencia la Policía Nacional en el kilómetro 16.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gaula Militar Caribe brinda acompañamiento al INPEC en la Penitenciaría El Bosque",
+  "enlace": "https://caracol.com.co/2026/10/26/gaula-militar-caribe-brinda-acompanamiento-al-inpec-en-la-penitenciaria-el-bosque/",
+  "fecha": "2026-10-26T08:56:53-05:00",
+  "palabras": "",
+  "lead": "El acompañamiento se hace tras el atentado armado contra dos funcionarios del INPEC a inicios de mes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen seis toneladas de marihuana incautadas en operativos en el Valle de Aburrá",
+  "enlace": "https://caracol.com.co/2026/10/26/destruyen-seis-toneladas-de-marihuana-incautadas-en-operativos-en-el-valle-de-aburra/",
+  "fecha": "2026-10-26T08:54:48-05:00",
+  "palabras": "",
+  "lead": "Las autoridades lograron golpear las finanzas de las estructuras criminales que operan en la subregión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia paga tres veces más por una botella de licor",
+  "enlace": "https://www.lafm.com.co/economia/colombia-paga-mas-por-una-botella-de-licor-que-otros-pises-415144",
+  "fecha": "2026-10-26T10:09:00-05:00",
+  "palabras": "Economía,Alcohol,bebidas,Colombia,Fedesarrollo,IVA,Dane",
+  "lead": "Los jóvenes cada vez más optan por consumir bebidas sin alcohol dependiendo de la ocasión. Investigaciones aseguran que el trago cada vez es menos ingerido...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pagó 5 dólares y ganó una cena con el alcalde de Panamá",
+  "enlace": "https://www.lafm.com.co/internacional/alcalde-ciudad-de-panama-rifo-noche-recaudar-fondos-ayudas-damnificados-terremoto-415151",
+  "fecha": "2026-10-26T09:54:00-05:00",
+  "palabras": "Internacional,Gobierno de Panamá,terremoto,damnificados,Recaudo de dinero",
+  "lead": "Cada boleto tuvo un costo de 5 dólares y el premio consistió en compartir una cena con el alcalde, quien se comprometió a pagar la cuenta.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Sometimiento: ¿qué cambia frente a la paz total?",
+  "enlace": "https://www.lafm.com.co/politica/ley-sometimiento-conflicto-armado-paz-total-debate-beneficios-testaferros-lavado-activos-415160",
+  "fecha": "2026-10-26T09:37:00-05:00",
+  "palabras": "Política,Paz total,Ley de insolvencia,Alerta de seguridad,Grupos Armados Organizados,Grupos delincuenciales,reclutamiento",
+  "lead": "La Ley 1908 fue uno de los puntos centrales de la discusión, especialmente por las disposiciones relacionadas con el levantamiento de órdenes de captura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Investigan supuesto plan para asesinar al registrador nacional, Hernán Penagos",
+  "enlace": "https://www.lafm.com.co/politica/plan-para-asesinar-al-registrador-nacional-hernan-penagos-415163",
+  "fecha": "2026-10-26T09:32:00-05:00",
+  "palabras": "Política,registrador nacional,Hernán Penagos,Registrador,Ministerio de Justicia,Fiscalía General de la Nación,Amenazas",
+  "lead": "Dicho plan se estaría fraguando desde un cárcel. El registrador ya fue informado de la situación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué megaproyectos busca destrabar el Gobierno en Bogotá?",
+  "enlace": "https://www.lafm.com.co/sociedad/plan-nacional-desarrollo-2026-colombia-proyectos-bogota-colombia-destrabar-415156",
+  "fecha": "2026-10-26T09:26:00-05:00",
+  "palabras": "Sociedad,Regiotram,Metro de Bogotá,Transmetro,Plan Nacional de Desarrollo,obras en vías",
+  "lead": "El director del Departamento Nacional de Planeación (DNP), Julián Buitrago, explicó las principales apuestas del Gobierno, entre ellas la ejecución de mega...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Petro y Pizarro, denunciados por presuntos contratos",
+  "enlace": "https://www.lafm.com.co/orden-publico/denuncia-gustavo-petro-maria-jose-pizarro-presuntos-contratos-favores-sexuales-415159",
+  "fecha": "2026-10-26T09:19:00-05:00",
+  "palabras": "Orden Público,Gustavo Petro,Congreso de la República,Corte Suprema de Justicia",
+  "lead": "¿Qué hay detrás de la denuncia contra Petro y Pizarro por presuntos contratos irregulares?",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La Luna de Saturno que tiene forma de ying yang",
+  "enlace": "https://www.lafm.com.co/sociedad/la-luna-de-saturno-con-forma-de-ying-yang-415147",
+  "fecha": "2026-10-26T08:03:00-05:00",
+  "palabras": "Sociedad,Astronomía,Luna,Planeta,sistema planetario,Ciencia,Sistema Solar,Saturno",
+  "lead": "Su composición ha asombrado a miles de observadores espaciales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gas vehicular sube 19% en Colombia por más importaciones",
+  "enlace": "https://www.lafm.com.co/economia/gas-vehicular-sube-colombia-importaciones-precio-415143",
+  "fecha": "2026-10-26T07:43:00-05:00",
+  "palabras": "Economía,Gas natural,Reserva de gas natural,Importaciones,Promigas",
+  "lead": "El gas natural vehicular pasó de $4.200 a $5.000 por metro cúbico. El exministro Amylkar Acosta explicó las razones del aumento y advirtió sobre la presión...",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
