@@ -440,6 +440,20 @@
    "quien": "Camilo Enciso (Director del Instituto Anticorrupción)",
    "que": "Advirtió que el expresidente Gustavo Petro podría haber incurrido en delitos de tráfico de influencias, concusión y peculado si se demuestra que utilizó su cargo para contratar y pagar favores a través de entidades públicas sin justificación.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:25",
+   "quien": "Daniel Coronell, periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reveló que el Gobierno colombiano cambió intempestivamente la designación de la embajada en Perú: retiró a la exsenadora del Centro Democrático Tania Vega y postuló en su lugar a su esposo, el coronel retirado Luis Alfonso Plazas Vega.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:28",
+   "quien": "Clara Elvira Ospina, periodista de Epicentro",
+   "que": "Explicó que la Cancillería de Perú recibió con extrañeza el relevo diplomático hacia Luis Alfonso Plazas Vega debido a que tiene 82 años y carece de experiencia en el área, en medio de temas clave como la seguridad fronteriza en Putumayo.",
+   "resaltar": false
   }
  ],
  "avisos": [
