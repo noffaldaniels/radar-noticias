@@ -419,6 +419,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El New York Times ya contrató abogados y tiene demandas puestas contra empresas de inteligencia artificial que usan contenidos producidos por medios, mientras la Follia de Sao Paulo llegó a un acuerdo con estas empresas, planteando un debate sobre la financiación y remuneración del periodismo frente al uso de sus bases de datos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:24",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Dapre denunció que al menos 48 mujeres habrían sido instrumentalizadas y se habrían dado contratos estatales a cambio de favores sexuales en el gobierno del expresidente Iván Duque.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:28",
+   "quien": "Ricardo Ospina (Director de Servicios Informativos de Blu Radio)",
+   "que": "Daisy Jiménez, exwebcammer y excontratista del Estado, aseguró en una entrevista que conoció al expresidente Gustavo Petro en 2019 y que durante aproximadamente 5 años recibió contratos del Congreso, la UTel de María José Pizarro, el Ministerio del Interior y la Superintendencia de Vigilancia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:29",
+   "quien": "Camilo Enciso (Director del Instituto Anticorrupción)",
+   "que": "Advirtió que el expresidente Gustavo Petro podría haber incurrido en delitos de tráfico de influencias, concusión y peculado si se demuestra que utilizó su cargo para contratar y pagar favores a través de entidades públicas sin justificación.",
+   "resaltar": false
   }
  ],
  "avisos": [
