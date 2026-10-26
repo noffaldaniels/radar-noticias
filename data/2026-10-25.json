@@ -2482,7 +2482,7 @@
   "palabras": "Abelardo De La Espriella, Adultos mayores, Subsidios, Colombia Mayor, aumento Colombia Mayor",
   "lead": "El mandatario reconoció que muchos adultos mayores han estado esperando los pagos y aseguró que se harán desde esta fecha la próxima semana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2493,7 +2493,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Super Astro Luna",
   "lead": "El Super Astro Luna juega todos los días, incluidos domingos y festivos. Este domingo 25 de octubre de 2026, los participantes pueden consultar el resultado del sorteo y verificar si acertaron el número de cuatro cifras y el signo zodiacal de su apuesta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2504,7 +2504,7 @@
   "palabras": "Gustavo Petro",
   "lead": "El expresidente negó haber entregado contratos estatales a cambio de servicios sexuales, luego de que Jiménez asegurara que entre 30 y 40 mujeres los habrían recibido en esas circunstancias.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2515,7 +2515,7 @@
   "palabras": "",
   "lead": "El candidato opositor cuestionó los resultados electorales y aseguró que a lo largo de la jornada existió una tendencia que era imposible que se revirtiese.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "",
   "lead": "El encuentro reunió a representantes de ambos gobiernos, empresarios e inversionistas para discutir avances y retos de los dos países.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "",
   "lead": "Este domingo 25 de octubre, el presidente Abelardo de la Espriella se dirige a los colombianos en medio de una alocución presidencial.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,7 +2548,7 @@
   "palabras": "",
   "lead": "José Arbey Díaz falleció luego de resultar herido en el sector de Cabo Tortuga. El capitán de puerto, Julio Monroy, confirmó a Caracol Radio que la investigación busca establecer las circunstancias del accidente y las posibles responsabilidades.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2559,6 +2559,72 @@
   "palabras": "Política,Abelardo de la Espriella",
   "lead": "El mandatario defendió el ajuste al gasto público y se refirió a programas sociales, recursos para la reconstrucción y becas tecnológicas.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cientos de damnificados por el terremoto acudieron a la feria de vivienda en busca de subsidios",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/cientos-de-damnificados-por-el-terremoto-acudieron-a-la-feria-de-vivienda-en-busca-de-subsidios-rg10",
+  "fecha": "2026-10-25T21:38:29-05:00",
+  "palabras": "Cali, Subsidios, Subsidio vivienda",
+  "lead": "La alcaldía dispone inicialmente de 200 bonos de vivienda, por $50 millones cada uno. Los beneficiarios serán seleccionados tras verificar los requisitos y criterios de vulnerabilidad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Editor del New York Times alerta sobre presiones políticas al periodismo y defiende su independencia",
+  "enlace": "https://www.bluradio.com/nacion/editor-del-new-york-times-alerta-sobre-presiones-politicas-al-periodismo-y-defiende-su-independencia-so35",
+  "fecha": "2026-10-25T21:25:23-05:00",
+  "palabras": "Libertad de prensa",
+  "lead": "Mark Lacey, editor de The New York Times, advirtió que las presiones políticas, las demandas judiciales y los intereses económicos pueden influir en la cobertura de los medios de comunicación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella anuncia campaña de ahorro de agua, energía y gas ante el fenómeno de El Niño",
+  "enlace": "https://www.bluradio.com/nacion/de-la-espriella-anuncia-campana-de-ahorro-de-agua-energia-y-gas-ante-el-fenomeno-de-el-nino-rg10",
+  "fecha": "2026-10-25T21:39:22-05:00",
+  "palabras": "Abelardo De La Espriella",
+  "lead": "El presidente informó que la próxima semana explicará las medidas para enfrentar los desafíos fiscales del país. También confirmó pagos de Colombia Mayor y recursos para la reconstrucción tras el terremoto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Marta se vistió de rosa: más de 5.000 corrieron por la vida contra el cáncer de mama",
+  "enlace": "https://caracol.com.co/2026/10/26/santa-marta-se-vistio-de-rosa-mas-de-5000-corrieron-por-la-vida-contra-el-cancer-de-mama/",
+  "fecha": "2026-10-25T21:47:40-05:00",
+  "palabras": "",
+  "lead": "La carrera de cinco kilómetros, encabezada por la gobernadora Margarita Guerra junto a Indeportes y la Fundación Corazón Rosa, reunió a ciudadanos y sobrevivientes en una jornada que promovió la detección temprana de esta enfermedad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Especialistas advierten barreras en la atención de pacientes con “Piel de Mariposa” en Colombia",
+  "enlace": "https://caracol.com.co/2026/10/26/especialistas-advierten-barreras-en-la-atencion-de-pacientes-con-piel-de-mariposa-en-colombia/",
+  "fecha": "2026-10-25T21:39:16-05:00",
+  "palabras": "",
+  "lead": "Además hacen un llamado a fortalecer las rutas de atención y garantizar que los pacientes reciban servicios oportunos, seguros y equitativos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lula tras su victoria electoral: “vencimos la intromisión que vino desde las plataformas digitales”",
+  "enlace": "https://caracol.com.co/2026/10/26/lula-tras-su-victoria-electoral-vencimos-la-intromision-que-vino-desde-las-plataformas-digitales/",
+  "fecha": "2026-10-25T21:18:33-05:00",
+  "palabras": "",
+  "lead": "El mandatario reelecto denunció “intromisión” del exterior en las elecciones de Brasil y plantea regular las plataformas digitales",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
