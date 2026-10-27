@@ -762,6 +762,27 @@
    "quien": "Doctor Maya",
    "que": "La deuda que tienen las entidades públicas con Afinia ronda entre 400 y 450 mil millones de pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:10",
+   "quien": "Andrés Julián Rendón, Gobernador de Antioquia",
+   "que": "Pidió al presidente Gustavo Petro Espriella crear un centro de fusión de inteligencia judicial en el Valle de Aburrá para combatir las finanzas de organizaciones criminales que obtienen recursos del narcotráfico y la minería ilegal.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Seis personas fueron asesinadas en la vereda La Palma, zona rural de Suárez en el Huila, donde fue incinerada una camioneta en la que se movilizaban cinco de ellas; las autoridades investigan si está relacionado con extorsiones o un intento de secuestro al presidente de la Junta de Acción Comunal.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Alcaldía de Ibagué confirmó el arribo de 150 nuevos hombres y mujeres de la Policía Nacional que conformarán el llamado bloque de defensa de la seguridad urbana anunciado por el Gobierno Nacional para las ciudades capitales.",
+   "resaltar": true
   }
  ],
  "avisos": [
