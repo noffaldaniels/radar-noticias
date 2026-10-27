@@ -502,7 +502,7 @@
   "palabras": "Homicidios, Noticias de hoy, Blu Radio, Policía Nacional, Bucaramanga, Barrancabermeja, sicariato, Santander, Santander",
   "lead": "Las autoridades adelantan las investigaciones para determinar los móviles de los ataques, establecer si existe alguna relación entre los hechos y dar con los responsables.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Cúcuta, Asesinatos, Norte de Santander",
   "lead": "La víctima, mayor retirado de la Policía Nacional, adelantaba actividades de precampaña para postularse a la Alcaldía de Cúcuta en los comicios de 2027, por lo que a principio de año renunció a su cargo como secretario de Gobierno en cumplimiento de la ley colombiana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Inseguridad en Bogotá, Feminicidio",
   "lead": "La víctima fue atacada con un arma blanca en un apartamento de Villa María y murió minutos después en el hospital de Suba.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Santander, Puerto Wilches, Clan del Golfo, Blu Radio, Noticias de hoy",
   "lead": "Entre los detenidos está alias ‘Toro’, señalado como presunto cabecilla. Durante el operativo fueron incautadas seis armas de fuego, 261 municiones, equipos de comunicación y dos motocicletas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "Se priorizará atender a usuarios residenciales y pequeños comercios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "El capturado le exigía dinero a la adolescente a cambio de no difundir fotos íntimas y habría agredido sexualmente a la víctima ante su negativa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "No es la primera vez que los usuarios de salud de sanidad protestan en la capital del Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "Además de las pérdidas económicas manifiestan su preocupación por el aumento en las tarifas de energía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "Resaltó el proceso de reconstrucción ejecutado en Manizales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Tunja busca aumentar los aportes de la UApA y recuperar el apoyo financiero de la Gobernación de Boyacá para garantizar el PAE en 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Los artefactos explosivos fueron lanzados contra la subestación de Policía del corregimiento de Albán",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "La subteniente Kelly Johanna Cabrera Mendoza: jefe de la patrulla púrpura, entre la psicología y el uniforme, una vocación para proteger a las mujeres",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Luis Eduardo Julio Silgado, de 35 años, recibió un disparo en la espalda cuando intentaba apartarse de un ataque armado",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "La historia de la subteniente Liliana Marcela Leyva Lozano es un homenaje a quienes han hecho de la valentía, la sensibilidad y el servicio una manera de vivir",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Castellanos aspiraba a ser alcalde de Cúcuta.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "Edwin Nieto Moreno y Robinson Asprilla fueron asesinados mientras compartían con amigos en Santa Rosa del Sur",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Los extrabajadores aseguran que no han recibido sus liquidaciones ni el pago de varios meses de salarios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "Benjamín Netanyahu llega a estas elecciones como el primer ministro que más tiempo ha gobernado Israel. Casi 19 años.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,6 +700,193 @@
   "palabras": "Sociedad,becas,Harvard,Universidad de Harvard,universidades,Colombia,Salud,tips para estudiar en el exterior",
   "lead": "Los interesados deben cumplir con requisitos específicos para poder aplicar a la oferta de educación.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gremios y congresistas de Santander piden apoyo a Mintransporte para culminar obras viales",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/gremios-y-congresistas-de-santander-piden-apoyo-a-mintransporte-para-culminar-obras-viales-rg10",
+  "fecha": "2026-10-27T06:51:27-05:00",
+  "palabras": "Bucaramanga, Santander, Ministerio de Transporte, Blu Radio",
+  "lead": "La Alianza por Santander presentará el 30 de octubre ante la ministra de Transporte, Elsa Noguera, una agenda de proyectos viales para impulsar la conectividad y la competitividad del departamento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia tendrá racionamiento de gas natural por nuevo imprevisto en Spec",
+  "enlace": "https://www.bluradio.com/nacion/colombia-tendra-racionamiento-de-gas-natural-por-nuevo-imprevisto-en-spec-rg10",
+  "fecha": "2026-10-27T06:58:13-05:00",
+  "palabras": "Gas natural",
+  "lead": "El Ministerio de Minas y Energía hizo público un documento en el que declara el racionamiento programado desde las cero horas de este martes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En alerta organismos de socorro de Neiva, por incrementos de incendios forestales y estructurales",
+  "enlace": "https://caracol.com.co/2026/10/27/en-alerta-organismos-de-socorro-de-neiva-por-incrementos-de-incendios-forestales-y-estructurales/",
+  "fecha": "2026-10-27T07:04:30-05:00",
+  "palabras": "",
+  "lead": "Organismos de socorro refuerzan acciones ante incendios en San Luis, Chiflón y Normandía, zona rural de Neiva.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incautan media tonelada de marihuana que era transportada en una camioneta en Armenia",
+  "enlace": "https://caracol.com.co/2026/10/27/incautan-media-tonelada-de-marihuana-que-era-transportada-en-una-camioneta-en-la-ciudad-de-armenia/",
+  "fecha": "2026-10-27T06:52:29-05:00",
+  "palabras": "",
+  "lead": "El presidente de la República, Abelardo de la Espriella, dio a conocer el resultado en sus redes sociales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Advierten el robo de drones de fumigación que podrían ser utilizados para atentados en el Tolima",
+  "enlace": "https://caracol.com.co/2026/10/27/advierten-el-robo-de-drones-de-fumigacion-que-podrian-ser-utilizados-para-atentados-en-el-tolima/",
+  "fecha": "2026-10-27T07:03:43-05:00",
+  "palabras": "",
+  "lead": "Según Fabián Andrés Nivia, propietario de la empresa Faragro Más Soluciones Agrícolas, los delincuentes ingresaron a la sede de Ibagué de donde se llevaron drones avaluados en más de $350 millones e insumos agrícolas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias ‘Harold’ es capturado en flagrancia, al parecer, pretendía hurtar local evacuado en Manizales",
+  "enlace": "https://caracol.com.co/2026/10/27/alias-harold-es-capturado-en-flagrancia-al-parecer-pretendia-hurtar-local-evacuado-en-manizales/",
+  "fecha": "2026-10-27T07:01:45-05:00",
+  "palabras": "",
+  "lead": "El hombre de 25 años fue dejado a disposición de las autoridades competentes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dirigentes noruego y finlandés hablan por separado con Putin y Zelenski",
+  "enlace": "https://caracol.com.co/2026/10/27/dirigentes-noruego-y-finlandes-hablan-por-separado-con-putin-y-zelenski/",
+  "fecha": "2026-10-27T07:00:50-05:00",
+  "palabras": "",
+  "lead": "Finlandia y Noruega se encuentran entre los más firmes aliados de Kiev frente a la invasión rusa, iniciada en febrero de 2022.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concejal citó al comandante de la Policía para exigir medidas contra la inseguridad en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/27/concejal-cito-al-comandante-de-la-policia-para-exigir-medidas-contra-la-inseguridad-en-santa-marta/",
+  "fecha": "2026-10-27T07:00:00-05:00",
+  "palabras": "",
+  "lead": "Anselmo Gual pidió explicaciones sobre los patrullajes, los hurtos y las cámaras de vigilancia. El coronel Jimmy Belalcázar anunció operativos masivos para noviembre, confirmó un aumento de 200 uniformados y reconoció fallas en el sistema de videovigilancia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Putumayo registra diez asesinatos de líderes campesinos y crece el desplazamiento en zonas rurales",
+  "enlace": "https://caracol.com.co/2026/10/27/putumayo-registra-diez-asesinatos-de-lideres-campesinos-y-crece-el-desplazamiento-en-zonas-rurales/",
+  "fecha": "2026-10-27T06:58:59-05:00",
+  "palabras": "",
+  "lead": "Cinco líderes han sido asesinados en menos de dos meses, comunidades de Puerto Guzmán y Leguizamo sufren desplazamientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Madera decomisada a traficantes ilegales de Cundinamarca servirá para reconstruir zonas afectadas",
+  "enlace": "https://caracol.com.co/2026/10/27/madera-decomisada-a-traficantes-ilegales-de-cundinamarca-servira-para-reconstruir-zonas-afectadas/",
+  "fecha": "2026-10-27T06:56:48-05:00",
+  "palabras": "",
+  "lead": "Esta madera es custodiada de manera preventiva en el Centro de Atención y Valoración de Flora – CAV la CAR.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Miguel Castellanos no tenía escoltas cuando fue asesinado: Secretario seguridad Norte de Santander",
+  "enlace": "https://caracol.com.co/2026/10/27/miguel-castellanos-no-tenia-escoltas-cuando-fue-asesinado-secretario-seguridad-norte-de-santander/",
+  "fecha": "2026-10-27T06:47:33-05:00",
+  "palabras": "",
+  "lead": "George Quintero, secretario de seguridad, contó cómo fue el momento del asesinato de Miguel Castellanos y alertó sobre el aumento de sicariato en Norte de Santander.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dosquebradas presenta hoja de ruta de $3,8 billones para su recuperación tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/27/dosquebradas-presenta-hoja-de-ruta-de-38-billones-para-su-recuperacion-tras-el-terremoto/",
+  "fecha": "2026-10-27T06:56:01-05:00",
+  "palabras": "",
+  "lead": "El alcalde Roberto Jiménez expuso los avances en educación, atención a damnificados y reactivación económica, junto con las acciones previstas para la reconstrucción del municipio tras el sismo del 10 de agosto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lula respondió a Abelardo De la Espriella y planteó una agenda conjunta entre Brasil y Colombia",
+  "enlace": "https://caracol.com.co/2026/10/27/lula-respondio-a-abelardo-de-la-espriella-y-planteo-una-agenda-conjunta-entre-brasil-y-colombia/",
+  "fecha": "2026-10-27T06:50:39-05:00",
+  "palabras": "",
+  "lead": "El intercambio entre ambos mandatarios se produce después de una campaña electoral marcada por apoyos cruzados, pues Lula Da Silva respaldó la campaña de Iván Cepeda en Colombia, mientras De la Espriella había expresado su apoyo a Jair y Flávio Bolsonaro en Brasil.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Es Gina, no Gina Paola: la llamativa directriz de la nueva secretaria general de Cancillería",
+  "enlace": "https://caracol.com.co/2026/10/27/es-gina-no-gina-paola-la-llamativa-directriz-de-la-nueva-secretaria-general-de-cancilleria/",
+  "fecha": "2026-10-27T06:44:56-05:00",
+  "palabras": "",
+  "lead": "La nueva secretaria general de la Cancillería ordenó por circular que se elimine su segundo nombre en todos los documentos oficiales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Viceministra de Alejandro Ordóñez será María Eugenia Carreño, ex procuradora delegada para lo electoral",
+  "enlace": "https://www.lafm.com.co/politica/viceministra-de-alejandro-ordonez-sera-maria-eugenia-carreno-ex-procuradora-delegada-para-lo-electoral-415274",
+  "fecha": "2026-10-27T06:54:00-05:00",
+  "palabras": "Política,Ministerio del interior,Colombia,Abelardo de la Espriella",
+  "lead": "Ordoñez tiene definida su mano derecha para entrar al ministerio del Interior.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano | martes 27 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-martes-27-de-octubre-de-2026-415122",
+  "fecha": "2026-10-27T06:54:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Manténgase bien informado con las 'Seis de las 6' de Juan Lozano.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Líderes de Finlandia y Dinamarca conversan telefónicamente con Putin: \"El fin a la guerra requiere diálogo directo\"",
+  "enlace": "https://www.lafm.com.co/internacional/primer-ministro-dinamarca-presidente-finlandia-conversan-telefonicamente-vladimir-putin-415265",
+  "fecha": "2026-10-27T06:30:00-05:00",
+  "palabras": "Internacional,Rusia,Finlandia,Dinamarca,Noruega,Vladimir Putin",
+  "lead": "La primera ministra danesa, Mette Frederiksen, cuestionó la iniciativa y advirtió que no fue coordinada con los demás aliados.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
