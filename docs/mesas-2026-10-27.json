@@ -118,6 +118,27 @@
    "quien": "Víctor Grosso, periodista de Mañanas Blu",
    "que": "Informó que el Gobierno nacional revivió la evaluación del megaproyecto IP Conexión Centro al revocar la negativa del gobierno anterior. Asimismo, aclaró que la concesión de Autopistas del Café en el Eje Cafetero no terminará en febrero de 2027 debido al cálculo de la tasa interna de retorno.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:52",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó sobre la muerte de seis personas en zona rural de Suaza (Huila), luego de que presuntos extorsionistas que se hacían pasar por disidencias de las FARC se enfrentaran con un comerciante y fueran atacados por la comunidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:54",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Denunció el hurto en el barrio El Salado de Ibagué de dos drones avaluados en 350 millones de pesos e insumos agrícolas. Alertó a las autoridades debido a que los aparatos tienen capacidad de cargar hasta 70 kilos y temen que sean utilizados en atentados terroristas en Tolima u otras zonas del país.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:54",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó que Migración Colombia y la Policía Nacional inadmitieron en el aeropuerto Rafael Núñez de Cartagena a 49 ciudadanos extranjeros que representaban un riesgo para la seguridad ciudadana, en especial de menores de edad.",
+   "resaltar": false
   }
  ],
  "avisos": [
