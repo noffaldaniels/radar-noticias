@@ -223,6 +223,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "La Policía Nacional activó un plan candado para esclarecer el homicidio de Miguel Castellanos, ocurrido en Cúcuta, y ofrece una recompensa de hasta 100 millones de pesos por información.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:22",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se discuten los alcances jurídicos y políticos de las sentencias sobre la ley 2381 de reforma pensional y las demandas ante la Corte Constitucional.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:27",
+   "quien": "Olga Lucía Cotamo, Periodista de Noticias La FM con Juan Lozano",
+   "que": "En Cúcuta hay preocupación por el asesinato del candidato a la alcaldía Miguel Castellanos; las autoridades investigan y la Policía Metropolitana ha activado un plan candado con una recompensa de hasta 100 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:27",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La ministra de Salud, Ana María Vesga, indicó que uno de los principales retos del gobierno es corregir el cálculo de la UPC para el año 2027 y reconocer el rezago financiero del sistema de salud.",
+   "resaltar": false
   }
  ],
  "avisos": [
