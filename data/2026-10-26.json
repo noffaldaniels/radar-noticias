@@ -5584,7 +5584,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 26 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5595,7 +5595,7 @@
   "palabras": "Noticias de hoy, Minería",
   "lead": "Según la denuncia, la escasez, que ya suma 36 días, no solo dificulta las actividades económicas, sino que compromete las condiciones de vida de las familias campesinas y de quienes se dedican a la minería tradicional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5606,7 +5606,7 @@
   "palabras": "Vallenato, Entrevista, Kbeto zuleta, accidente kbeto zuleta, accidente poncho zuleta, poncho zuleta",
   "lead": "También se confirmó que al cantante le tuvieron que realizar una intervención quirúrgica en su otra pierna.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5617,7 +5617,7 @@
   "palabras": "Noticias de hoy, Entrevista",
   "lead": "Castellanos se encontraba en otra ciudad de Colombia y decidió trasladarse a Cúcuta porque su hermano estaba hospitalizado y debía someterse a una intervención quirúrgica..",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5628,7 +5628,7 @@
   "palabras": "",
   "lead": "La denuncia se hizo ante la Fiscalía. Hay 5 resoluciones de asignación que comprobarían las irregularidades. La ministra pide que se investigue como se aprobaron las decisiones administrativas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5639,7 +5639,7 @@
   "palabras": "",
   "lead": "El accidente ocurrió en el sector de la Torre A del centro médico. La conductora, una adulta mayor de aproximadamente 80 años, también resultó lesionada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5650,7 +5650,7 @@
   "palabras": "",
   "lead": "El equipo cartagenero debutará como visitante ante Tigres FC el jueves 29 de octubre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5661,7 +5661,7 @@
   "palabras": "",
   "lead": "Así lo advirtió el Hospital Infantil San Vicente Fundación de Medellín al indicar que durante el 2026 han atendido a 281 pacientes menores de 18 años con quemaduras.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5672,7 +5672,7 @@
   "palabras": "",
   "lead": "De igual forma, se caracterizaron familias y se orientó a los habitantes sobre la recolección de residuos y elementos en desuso",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5683,7 +5683,7 @@
   "palabras": "",
   "lead": "El hecho se registró en la madrugada del lunes 26 de octubre en pleno centro de la capital del Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5694,7 +5694,7 @@
   "palabras": "",
   "lead": "Este es el tercer Balón de Oro que la española ganó. Los anteriores los consiguió en 2021 y 2022.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5705,7 +5705,7 @@
   "palabras": "Sociedad,Lotería de Cundinamarca,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
   "lead": "Ya hay número ganador del premio mayor este lunes 26 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5716,7 +5716,7 @@
   "palabras": "Actualidad,Asesinato,Abelardo de la Espriella,Norte de Santander,Catatumbo",
   "lead": "El presidente Abelardo de la Espriella rechazó enérgicamente el crimen del exsecretario de Gobierno de Cúcuta y ordenó desplegar toda la capacidad del Esta...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5727,7 +5727,7 @@
   "palabras": "Internacional,Venezuela,María Corina Machado,Estados Unidos,Donald Trump,Delcy Rodríguez",
   "lead": "Expertos en La FM ligan la decisión de Washington con las elecciones de noviembre y el costo de sus medidas migratorias.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5738,7 +5738,7 @@
   "palabras": "Deportes,Deportivo Independiente Medellín,Liga BetPlay,Atlético Nacional",
   "lead": "El entrenador dejó su continuidad en manos de los directivos, reconoció su preocupación por el bajón del equipo y aseguró que todavía confía en clasificar ...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5749,6 +5749,303 @@
   "palabras": "Orden Público,Procuraduría General de la Nación,Ministerio del interior,Armando Benedetti",
   "lead": "Herrera Mercado llamó la atención sobre el tiempo transcurrido desde que se abrió la actuación disciplinaria contra Benedetti.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T21:41:38-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche realiza su sorteo los domingos a las 8:30 p. m. Este lunes 26 de octubre de 2026 los participantes pueden revisar el resultado oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sortoe hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sortoe-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T21:41:49-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche es uno de los juegos de azar más consultados por los apostadores. Este lunes 26 de octubre de 2026 los participantes pueden consultar el resultado del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del último sorteo hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-ultimo-sorteo-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T21:43:48-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna juega todos los días, incluidos domingos y festivos. Este domingo 26 de octubre de 2026 los participantes pueden consultar el resultado del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Cundinamarca, resultados del último sorteo hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-cundinamarca-resultados-del-ultimo-sorteo-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T21:44:10-05:00",
+  "palabras": "Lotería de Cundinamarca, Resultado de loterías de hoy",
+  "lead": "La Lotería de Cundinamarca realizó este lunes 26 de octubre de 2026 el sorteo 4826. Consulte aquí el número ganador del premio mayor, las series y los premios secos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Tolima, resultados del último sorteo hoy lunes 26 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-tolima-resultados-del-ultimo-sorteo-hoy-lunes-26-de-octubre-de-2026-so35",
+  "fecha": "2026-10-26T21:44:37-05:00",
+  "palabras": "Lotería del Tolima, Resultado de loterías de hoy",
+  "lead": "Resultados completos del sorteo 4193 de la Lotería del Tolima, que juega este lunes 26 de octubre un premio mayor de $3.500 millones.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigarán más policías por muerte de Donovan Balanta: cuatro ya fueron condenados",
+  "enlace": "https://www.bluradio.com/judicial/investigaran-mas-policias-por-muerte-de-donovan-balanta-cuatro-ya-fueron-condenados-pr30",
+  "fecha": "2026-10-26T21:29:27-05:00",
+  "palabras": "racismo",
+  "lead": "La Policía Nacional aseguró que colaborará con la Fiscalía para que los responsables se hagan cargo de este hecho y cumplan la condena en caso de demostrarse que sean culpables.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Que pongan el candidato que quieran; nosotros ya elegimos a María Corina: Vente Venezuela",
+  "enlace": "https://www.bluradio.com/mundo/que-pongan-el-candidato-que-quieran-nosotros-ya-elegimos-a-maria-corina-vente-venezuela-pr30",
+  "fecha": "2026-10-26T21:37:32-05:00",
+  "palabras": "Venezuela, María Corina Machado, Entrevista, María Corina, María Corina Machado, Venezuela, Vente Venezuela",
+  "lead": "Para Vente Venezuela, el regreso de Machado representa una oportunidad para acelerar la transición política en ese país.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murió Eric Bauza, la voz de personajes como Bugs Bunny o el Pato Lucas",
+  "enlace": "https://www.bluradio.com/entretenimiento/murio-la-voz-de-personajes-como-bugs-bunny-o-el-pato-lucas-cb20",
+  "fecha": "2026-10-26T21:38:53-05:00",
+  "palabras": "Viral, Bugs Bunny",
+  "lead": "A lo largo de su trayectoria, Bauza fue uno de los actores de doblaje más solicitados de la industria. Prestó su voz a personajes como los famosos Bugs Bunny y el Pato Lucas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tribunal de Estados Unidos archivó el caso contra el Grupo Aval por Ruta del Sol II",
+  "enlace": "https://www.bluradio.com/judicial/tribunal-de-estados-unidos-archivo-el-caso-contra-el-grupo-aval-por-ruta-del-sol-ii-rg10",
+  "fecha": "2026-10-26T21:54:51-05:00",
+  "palabras": "Caso Odebrecht, Ruta del Sol, Grupo Aval, Grupo Aval, caso odebrecht, corrupción, odebrecht, ruta del sol",
+  "lead": "El Departamento de Justicia confirmó el cumplimiento de los compromisos pactados en 2023 por la filial del Grupo Aval, informó el conglomerado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jay-Z encabezará el espectáculo del medio tiempo del Super Bowl 2027",
+  "enlace": "https://caracol.com.co/2026/10/27/jay-z-encabezara-el-espectaculo-del-medio-tiempo-del-super-bowl-2027/",
+  "fecha": "2026-10-26T21:48:35-05:00",
+  "palabras": "",
+  "lead": "El anuncio llega tras una serie de celebraciones de aniversario este año bajo el lema “Jay-Z 30″.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Metro de Bogotá cuenta con más de 400 vacantes: conozca cómo aplicar",
+  "enlace": "https://caracol.com.co/2026/10/27/metro-de-bogota-cuenta-con-mas-de-400-vacantes-conozca-como-aplicar/",
+  "fecha": "2026-10-26T21:42:18-05:00",
+  "palabras": "",
+  "lead": "La convocatoria requiere desde electricistas hasta ingenieros para la construcción de la línea del metro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Migración Colombia reportó 49 extranjeros inadmitidos en aeropuerto de Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/27/migracion-colombia-reporto-49-extranjeros-inadmitidos-en-aeropuerto-de-cartagena/",
+  "fecha": "2026-10-26T21:44:46-05:00",
+  "palabras": "",
+  "lead": "Las verificaciones permitieron determinar que la presencia de estas personas en el país, representaba un riesgo para la seguridad ciudadana, en especial la de niños y adolescentes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAmbiente revoca resolución del Gobierno Petro que frenaba nuevos proyectos mineros en la Amazonía",
+  "enlace": "https://caracol.com.co/2026/10/27/minambiente-revoca-resolucion-del-gobierno-petro-que-frenaba-nuevos-proyectos-mineros-en-la-amazonia/",
+  "fecha": "2026-10-26T16:43:00-05:00",
+  "palabras": "",
+  "lead": "El Ministerio cuestiona que la medida se expidiera sin completar la consulta previa y advierte que no garantizaba por sí sola la protección de la Amazonía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja anuncia cambios en el Aguinaldo Boyacense 2026 tras declarar nulo el convenio con Solsticio",
+  "enlace": "https://caracol.com.co/2026/10/27/tunja-anuncia-cambios-en-el-aguinaldo-boyacense-2026-tras-declarar-nulo-el-convenio-con-solsticio/",
+  "fecha": "2026-10-26T19:41:00-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía declaró la nulidad absoluta del convenio con la Fundación Cultural Solsticio por presuntas fallas en la estructuración contractual. El alcalde Rafael Acevedo asegura que habrá Aguinaldo en diciembre, con artistas locales y actividades en los barrios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayó hombre en el barrio La Esperanza requerido por orden judicial",
+  "enlace": "https://caracol.com.co/2026/10/27/cayo-hombre-en-el-barrio-la-esperanza-requerido-por-orden-judicial/",
+  "fecha": "2026-10-26T21:35:30-05:00",
+  "palabras": "",
+  "lead": "Unidades de la Policía Metropolitana de Cartagena lo dejaron a disposición de la fiscalía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuántos jugadores ingleses han ganado el Balón de Oro? La lista tras la consagración de Harry Kane",
+  "enlace": "https://caracol.com.co/2026/10/27/cuantos-jugadores-ingleses-han-ganado-el-balon-de-oro-la-lista-tras-la-consagracion-de-harry-kane/",
+  "fecha": "2026-10-26T21:33:10-05:00",
+  "palabras": "",
+  "lead": "Después de varias ediciones del trofeo más prestigioso en el mundo del fútbol, un jugador inglés vuelve a quedarse con este reconocimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Caribefunk llevará su sonido caribeño a cinco países con la gira ‘Desde el patio’",
+  "enlace": "https://caracol.com.co/2026/10/27/el-caribefunk-llevara-su-sonido-caribeno-a-cinco-paises-con-la-gira-desde-el-patio/",
+  "fecha": "2026-10-26T21:31:10-05:00",
+  "palabras": "",
+  "lead": "La agrupación comenzará su recorrido el 6 de noviembre en Barranquilla y continuará por Colombia, Perú, Chile, Argentina y Uruguay",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinan a joven de 18 años en Piedecuesta, Santander: portaba brazalete electrónico del INPEC",
+  "enlace": "https://caracol.com.co/2026/10/27/asesinan-a-joven-de-18-anos-en-piedecuesta-santander-portaba-brazalete-electronico-del-inpec/",
+  "fecha": "2026-10-26T21:18:19-05:00",
+  "palabras": "",
+  "lead": "Hombres que se movilizaban en una motocicleta habrían perseguido a la víctima y le dispararon en repetidas ocasiones. El joven tenía prisión domiciliaria.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reelección de Lula da Silva en Brasil y llegada de Machado a Venezuela",
+  "enlace": "https://caracol.com.co/2026/10/27/reeleccion-de-lula-da-silva-en-brasil-y-llegada-de-machado-a-venezuela/",
+  "fecha": "2026-10-26T21:25:08-05:00",
+  "palabras": "",
+  "lead": "En Hora 20, los panelistas analizaron la segunda vuelta presidencial en Brasil y el regreso de la líder opositora venezolana.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministro de Vivienda anuncia tres frentes para atender la crisis del agua en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/27/ministro-de-vivienda-anuncia-tres-frentes-para-atender-la-crisis-del-agua-en-santa-marta/",
+  "fecha": "2026-10-26T21:22:56-05:00",
+  "palabras": "",
+  "lead": "El pronunciamiento se conoce después de que el presidente Abelardo De la Espriella descartara las plantas desalinizadoras y prometiera presentar una nueva solución para el desabastecimiento de agua potable en la ciudad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ventas de hasta 100% reportó Feria de Negocios Verdes de Cardique en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/27/ventas-de-hasta-100-reporto-feria-de-negocios-verdes-de-cardique-en-cartagena/",
+  "fecha": "2026-10-26T21:23:08-05:00",
+  "palabras": "",
+  "lead": "El encuentro tuvo lugar en Caribe Plaza",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAmbiente revoca resolución que protege el bioma amazónico colombiano",
+  "enlace": "https://caracol.com.co/2026/10/27/minambiente-revoca-resolucion-que-protege-el-bioma-amazonico-colombiano/",
+  "fecha": "2026-10-26T21:19:38-05:00",
+  "palabras": "",
+  "lead": "La Resolución 0961 declara la preservación de los recursos naturales renovables y del ambiente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Coosalud EPS mantiene atención y apuesta a recuperación institucional",
+  "enlace": "https://caracol.com.co/2026/10/27/coosalud-eps-mantiene-atencion-y-apuesta-a-recuperacion-institucional/",
+  "fecha": "2026-10-26T21:16:20-05:00",
+  "palabras": "",
+  "lead": "La actual intervención reporta más de 3 mil procedimientos quirúrgicos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Partido de Flávio Bolsonaro reconoce reelección del presidente Lula en Brasil",
+  "enlace": "https://www.lafm.com.co/internacional/partido-flavio-bolsonaro-reconoce-reeleccion-presidente-lula-brasil-415258",
+  "fecha": "2026-10-26T21:30:00-05:00",
+  "palabras": "Internacional,Brasil,Jair Bolsonaro,Lula da Silva",
+  "lead": "El senador Bolsonaro, quien inicialmente había pedido que se anulen las elecciones en Brasil, mencionó que liderará la oposición a su gobierno.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Harry Kane agradece el trabajo de Luis Díaz tras ganar el Balón de Oro",
+  "enlace": "https://www.lafm.com.co/deportes/harry-kane-agradece-luis-diaz-balon-de-oro-2026-bayern-415256",
+  "fecha": "2026-10-26T21:10:00-05:00",
+  "palabras": "Deportes,Luis Díaz,Balón de Oro,Bayern Múnich,Bundesliga,Champions League,Harry Kane",
+  "lead": "El delantero colombiano le brindó siete asistencias a Kane durante la temporada 2025/26 con el Bayern Munich.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atentado contra misión médica en Cauca: asesinan un paciente",
+  "enlace": "https://www.lafm.com.co/orden-publico/hombres-armados-asesinan-a-paciente-dentro-del-hospital-en-suarez-415252",
+  "fecha": "2026-10-26T20:19:00-05:00",
+  "palabras": "Orden Público,Cauca,Alteración al orden público,atentado,Salud",
+  "lead": "Una persona fue asesinada al interior del hospital del municipio de Suárez, lo que obligó a suspender la atención, por falta de garantías de seguridad",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así surgen las escuelas de sicarios en el Oriente antioqueño",
+  "enlace": "https://www.lafm.com.co/orden-publico/negocio-detras-escuelas-de-sicarios-en-el-oriente-antioqueno-415249",
+  "fecha": "2026-10-26T20:14:00-05:00",
+  "palabras": "Orden Público,Defensoría del Pueblo,Antioquia,Sicarios,Grupos Armados Organizados",
+  "lead": "Una alerta temprana de la Defensoría del Pueblo, describe campamentos, instrucción militar y ofertas de dinero para vincular jóvenes en seis municipios, mi...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
