@@ -286,6 +286,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Fiscalía abrió investigación por presuntas amenazas de muerte al registrador Hernán Penagos. Dos nuevos nombres, Carlos Chavarriza y Edison Tigreros, reemplazan a los que salen del equipo de Rodrigo Lara en el Ministerio del Interior y llega el equipo del doctor Ordóñez.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:39",
+   "quien": "Juancho Del Espriella",
+   "que": "Expresó solidaridad con los músicos y artistas del Tolima ante los riesgos y momentos difíciles que vive el gremio.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El canciller Álvaro Leyva Durán se reunió con el ministro de Interior y embajador en la OEA, Alejandro Ordóñez, en medio de la gira y las relaciones diplomáticas del Gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:39",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se informó que el viceministro del Interior sería una mujer de confianza de Alejandro Ordóñez, y no Edison Figueredo, quien era el opcionado para el cargo.",
+   "resaltar": false
   }
  ],
  "avisos": [
