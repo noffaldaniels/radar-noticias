@@ -76,6 +76,27 @@
    "quien": "Mateo Piñeros, periodista de Mañanas Blu",
    "que": "Informó que Alejandro Ordóñez asumirá como ministro del Interior el próximo mes y tendrá como viceministros al exsenador conservador Carlos Ramiro Chávarro y a Edinson Tigreros.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:52",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que el Ministerio de Transporte negó haber prorrogado la concesión de Autopistas del Café y aclaró que la fecha estimada de terminación de febrero de 2027 se ajustará cerca de seis meses más hasta que el concesionario alcance la rentabilidad pactada desde 1997.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:54",
+   "quien": "Amílcar Acosta, exministro de Minas",
+   "que": "Advirtió que el precio del gas natural vehicular subió un 19%, pasando de $4.200 a $5.000 por metro cúbico, debido a que más del 40% de la demanda en el país depende de importaciones y el costo del millón de BTU escaló de 13 a 30 dólares.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:59",
+   "quien": "Carlos Fernando Galán, alcalde mayor de Bogotá",
+   "que": "Firmará la apertura de la licitación para la construcción de la PTAR Canoas.",
+   "resaltar": false
   }
  ],
  "avisos": [
