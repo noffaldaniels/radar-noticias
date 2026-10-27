@@ -1272,7 +1272,7 @@
   "palabras": "EPM, Aire y Afinia",
   "lead": "El gerente de EPM, John Alberto Maya, confía en lograr el préstamo para cubrir la deuda de Afinia con XM, pero advierte que la crisis energética del Caribe es insostenible.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "Motos,  Halloween",
   "lead": "Las medidas buscan prevenir siniestros viales y estarán vigentes durante las noches y madrugadas de las celebraciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "En medio de la presión militar los implicados en el hurto abandonaron el automotor. En la zona entre los municipios de Cajibío y Piendamó se incautó un fusil y una motocicleta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "",
   "lead": "Durante los primeros momentos de soledad, el uniformado sintió miedo e incertidumbre al no saber cómo volver a su unidad ni qué podía ocurrir.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "",
   "lead": "La JEP autorizó a la Fiscalía acceso temporal por 60 días al expediente del exgobernador de La Guajira, Juan Francisco Gómez Cerchar",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "",
   "lead": "Las autoridades pidieron a la comunidad aportar información que permita esclarecer el crimen de Gerlaine Yobana Joya Ibáñez. Sus familiares piden justicia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "",
   "lead": "El entrenador uruguayo se refirió al bajón que tuvo Santa Fe, a pesar de haber jugado con un hombre de más en cancha durante el segundo tiempo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "",
   "lead": "En las últimas horas se cumplió un consejo de seguridad para evaluar nuevas acciones que permitan ubicar a los desaparecidos.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "El hombre que podría ponerle punto final a los 19 años de mandato de Benjamín Netanyahu se llama Gadi Eisenkot.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "Deportes,Fútbol,Balón de Oro,Harry Kane,Lionel Messi",
   "lead": "El máximo ganador de este premio continúa siendo el argentino Lionel Messi con ocho balones de oro.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "Economía,Pensión,Reforma pensional,Pensión en Colombia,Colpensiones",
   "lead": "La senadora señaló que su propuesta busca corregir disposiciones sobre el régimen semicontributivo, especialmente para las personas que realizaron aportes ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1392,6 +1392,281 @@
   "fecha": "2026-10-27T07:50:00-05:00",
   "palabras": "Sociedad,Motocicletas,Bogotá,Alcaldía de Bogotá,Secretaría de Movilidad,Secretaría de Tránsito,Halloween,Disfraces para Halloween",
   "lead": "La Alcaldía de Bogotá explicó que incumplir la medida generará sanciones por más de $650.000, además de inmovilizaciones.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fuertes lluvias en Málaga y San Andrés, Santander, dejan inundaciones en vías y viviendas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/fuertes-lluvias-en-malaga-y-san-andres-santander-dejan-inundaciones-en-vias-y-viviendas-rg10",
+  "fecha": "2026-10-27T09:08:36-05:00",
+  "palabras": "Santander, UNGRD, Emergencias por lluvias, Bucaramanga, Blu Radio",
+  "lead": "Las tormentas eléctricas ocasionaron dificultades en los sistemas de alcantarillado y afectaciones en algunas casas. Gestión del Riesgo mantiene el monitoreo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mbappé desata polémica en China por meme de Mao Zedong: terminó afectando al fútbol español",
+  "enlace": "https://www.bluradio.com/deportes/futbol/mbappe-desata-polemica-en-china-por-meme-de-mao-zedong-termino-afectando-al-futbol-espanol-cb20",
+  "fecha": "2026-10-27T08:55:00-05:00",
+  "palabras": "Kylian Mbappé, China, España, Francia, Mao Zedong",
+  "lead": "En China, las sátiras sobre antiguos líderes y personalidades destacadas vinculadas al Partido Comunista Chino (PCCh, gobernante) están perseguidas bajo el delito de \"difamación de héroes y mártires\", en un entorno de fuerte censura de contenidos políticos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Agenda turística y cultural de fin de año en Bogotá: espectáculos, ritmos y experiencias",
+  "enlace": "https://www.bluradio.com/turismo/agenda-turistica-y-cultural-de-fin-de-ano-en-bogota-espectaculos-ritmos-y-experiencias-so35",
+  "fecha": "2026-10-27T08:45:43-05:00",
+  "palabras": "Turismo, Bogotá",
+  "lead": "Su objetivo principal es ampliar el acceso a la cultura, brindar espacios de encuentro y dinamizar la vida artística capitalina mediante vivencias enfáticas en el bienestar y el disfrute de residentes y viajeros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel  empresario señalado de contrabando de textiles y lavado por $13.731 millones",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-empresario-senalado-de-contrabando-de-textiles-y-lavado-por-13-731-millones-rg10",
+  "fecha": "2026-10-27T09:17:10-05:00",
+  "palabras": "Contrabando",
+  "lead": "Durante diferentes procedimientos adelantados en Cartagena, Bolívar, y Buenaventura, Valle del Cauca, las autoridades aprehendieron mercancías avaluadas en cerca de 6.000 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Advierten a usuarios sobre el precio del pasaje de TransMilenio en 2027: ¿alcanzaría los $4000?",
+  "enlace": "https://www.bluradio.com/regiones/bogota/advierten-a-usuarios-sobre-el-precio-del-pasaje-de-transmilenio-en-2027-alcanzaria-los-4000-so35",
+  "fecha": "2026-10-27T09:26:48-05:00",
+  "palabras": "Transmilenio, Pasaje TransMilenio",
+  "lead": "La concejala Diana Diago reveló cuatro opciones de incremento en la tarifa de TransMilenio para el próximo año",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por Halloween en Duitama prohíben caravanas, parrillero en moto y habrá toque de queda para menores",
+  "enlace": "https://caracol.com.co/2026/10/27/por-halloween-en-duitama-prohiben-caravanas-parrillero-en-moto-y-habra-toque-de-queda-para-menores/",
+  "fecha": "2026-10-27T09:17:35-05:00",
+  "palabras": "",
+  "lead": "La alcaldesa de Duitama, Rocío Bernal expidió el Decreto 573 del 26 de octubre de 2026 mediante el cual se toman medidas para preservar el orden público durante la celebración de Halloween.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sofía Vergara y Dan Reynolds de Imagine Dragons fueron vistos cenando juntos: ¿Qué hay entre ellos?",
+  "enlace": "https://caracol.com.co/2026/10/27/sofia-vergara-y-dan-reynolds-de-imagine-dragons-fueron-vistos-cenando-juntos-que-hay-entre-ellos/",
+  "fecha": "2026-10-27T09:17:17-05:00",
+  "palabras": "",
+  "lead": "Aunque en una de las fotos de la comida se ve a Vergara y Reynolds tomándose de las manos, una fuente cercana asegura que “fue una cena amistosa en grupo”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Paulo Londra presenta cinco canciones esenciales de su nuevo álbum ‘entre CIELOS’",
+  "enlace": "https://caracol.com.co/2026/10/27/paulo-londra-presenta-cinco-canciones-esenciales-de-su-nuevo-album-entre-cielos/",
+  "fecha": "2026-10-27T09:10:51-05:00",
+  "palabras": "",
+  "lead": "El artista argentino lanzó su tercer álbum de estudio, compuesto por 10 canciones, y explicó cómo fue el proceso creativo detrás de este proyecto, en el que exploró nuevos sonidos y diferentes estados de ánimo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 27 de octubre 2026 en Colombia: inicia la jornada de este martes a la baja",
+  "enlace": "https://caracol.com.co/2026/10/27/dolar-hoy-27-de-octubre-2026-en-colombia-inicia-la-jornada-de-este-martes-a-la-baja/",
+  "fecha": "2026-10-27T09:10:13-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este martes, 27 de octubre. Conozca el comportamiento del dólar estadounidense, canadiense, australiano, del petróleo y del bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empresario señalado de contrabando de textiles y lavado de $13 mil millones fue enviado a prisión",
+  "enlace": "https://caracol.com.co/2026/10/27/buenaventura-a-prision-empresario-senalado-de-contrabando-de-textiles-y-lavado-de-13-mil-millones/",
+  "fecha": "2026-10-27T08:45:57-05:00",
+  "palabras": "",
+  "lead": "La investigación documentó irregularidades en 21 contenedores procedentes de China y Panamá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Jorge Carrascal sigue en buen momento, marca gol agónico y mantiene líder al Flamengo",
+  "enlace": "https://caracol.com.co/2026/10/27/video-jorge-carrascal-sigue-en-buen-momento-marca-gol-agonico-y-mantiene-lider-al-flamengo/",
+  "fecha": "2026-10-27T08:57:46-05:00",
+  "palabras": "",
+  "lead": "El volante cartagenero llegó a ocho goles marcados con el club de Río de Janeiro en la presente temporada.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensa de Kiko Gómez presentó tutela ante la Corte para tumbar su condena por crimen de Luis López",
+  "enlace": "https://caracol.com.co/2026/10/27/defensa-de-kiko-gomez-presento-tutela-ante-la-corte-para-tumbar-su-condena-por-crimen-de-luis-lopez/",
+  "fecha": "2026-10-27T08:36:27-05:00",
+  "palabras": "",
+  "lead": "En paralelo, el exgobernador de La Guajira, Kiko Gómez, estaría pidiendo pista en la JEP.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín ya suma más de 23.000 huecos intervenidos y avanza en la recuperación de su malla vial",
+  "enlace": "https://caracol.com.co/2026/10/27/medellin-ya-suma-mas-de-23000-huecos-intervenidos-y-avanza-en-la-recuperacion-de-su-malla-vial/",
+  "fecha": "2026-10-27T09:05:42-05:00",
+  "palabras": "",
+  "lead": "El contrato de mantenimiento vial alcanza un avance del 30 % e incluye la repavimentación de cinco kilómetros, el uso de mezclas asfálticas en frío y la reutilización de materiales de construcción.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kbeto Zuleta tiene afectación pulmonar; baterista y corista son los más afectados: Pony Baute",
+  "enlace": "https://caracol.com.co/2026/10/27/kbeto-zuleta-tiene-afectacion-pulmonar-baterista-y-corista-son-los-mas-afectados-pony-baute/",
+  "fecha": "2026-10-27T08:58:07-05:00",
+  "palabras": "",
+  "lead": "Roberto Rodríguez, percusionista del grupo musical Kbeto, reveló detalles del accidente y el estado de salud de alguno de sus compañeros:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Proponen habilitar dos lotes para solucionar el problema de parqueaderos en Parque Heredia",
+  "enlace": "https://caracol.com.co/2026/10/27/proponen-habilitar-dos-lotes-para-solucionar-el-problema-de-parqueaderos-en-parque-heredia/",
+  "fecha": "2026-10-27T08:59:52-05:00",
+  "palabras": "",
+  "lead": "Según el alcalde Dumek Turbay, la iniciativa contempla gestionar la entrega de espacios cesión de más de 9 mil metros cuadrados",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nos da miedo salir a barrer la puerta de nuestra casa: clamor de una oyente ante violencia en Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/27/nos-da-miedo-salir-a-barrer-la-puerta-de-nuestra-casa-clamor-de-una-oyente-ante-violencia-en-cucuta/",
+  "fecha": "2026-10-27T08:36:51-05:00",
+  "palabras": "",
+  "lead": "Blanca, una habitante del tradicional barrio residencial Quinta Oriental, en Cúcuta, dio su desgarrador testimonio que refleja la crisis de seguridad y desesperanza de la ciudadanía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Entrenamiento y coordinación operacional: FFMM explican que harán militares de EEUU en Colombia",
+  "enlace": "https://caracol.com.co/2026/10/27/entrenamiento-y-coordinacion-operacional-ffmm-explican-que-haran-militares-de-eeuu-en-colombia/",
+  "fecha": "2026-10-27T08:59:01-05:00",
+  "palabras": "",
+  "lead": "Militares de Estados Unidos llegarán este martes 27 de octubre al Fuerte Militar de Tolemaida, ubicado en Nilo, Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador de Antioquia propone eliminar Equipos Básicos de Salud por crisis financiera de EPS",
+  "enlace": "https://caracol.com.co/2026/10/27/gobernador-de-antioquia-propone-eliminar-equipos-basicos-de-salud-por-crisis-financiera-de-eps/",
+  "fecha": "2026-10-27T08:54:31-05:00",
+  "palabras": "",
+  "lead": "El mandatario departamental pidió destinar los recursos de este programa a incrementar la Unidad de Pago por Capitación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Festival de las Aves 2026 llega a Medellín con agenda académica, salidas de campo y muralismo",
+  "enlace": "https://caracol.com.co/2026/10/27/el-festival-de-las-aves-2026-llega-a-medellin-con-agenda-academica-salidas-de-campo-y-muralismo/",
+  "fecha": "2026-10-27T08:44:10-05:00",
+  "palabras": "",
+  "lead": "El evento reunirá avistamientos en los cerros El Volador y Nutibara, salidas a reservas naturales y exposiciones artísticas en el Pasaje Junín y el cerro El Picacho.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Lanzan duro reclamo a la Procuraduría por caso Benedetti",
+  "enlace": "https://www.lafm.com.co/politica/caso-benedetti-cuestionamientos-procuraduria-gregorio-eljach-investigacion-demoras-impunidad-415286",
+  "fecha": "2026-10-27T09:26:00-05:00",
+  "palabras": "Política,Armando Benedetti,Gregorio Eljach,Procuraduría General de la Nación,Funcionarios denunciados,Derecho",
+  "lead": "Hernando Herrera, director de la Corporación Excelencia en la Justicia, defendió la independencia judicial y advirtió sobre los riesgos de utilizar las ins...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno de a Espriella gusta de Luz Stella Murgas para ANDI",
+  "enlace": "https://www.lafm.com.co/actualidad/luz-stella-murgas-posible-andi-gobierno-abelardo-de-la-espriella-415291",
+  "fecha": "2026-10-27T09:08:00-05:00",
+  "palabras": "Actualidad,ANDI,Gobierno,Abelardo de la Espriella,Políticos",
+  "lead": "De acuerdo con lo expuesto por Quinn, algunos integrantes del Gobierno verían la lista como una afrenta por los vínculos que atribuyen a varios de los cand...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Racionamiento de gas en Colombia: a quiénes afecta",
+  "enlace": "https://www.lafm.com.co/economia/racionamiento-de-gas-colombia-sectores-afectados-falla-spec-lng-415288",
+  "fecha": "2026-10-27T08:42:00-05:00",
+  "palabras": "Economía,Gas natural,combustible,Promigas,Gas,Reserva de gas natural",
+  "lead": "La medida prioriza el suministro para la generación de energía y la demanda esencial, mientras se reduce temporalmente la capacidad de regasificación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jornada de votaciones en Israel: ¿Cómo funcionan y quién tiene mayor chance de ganar?",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-parlamentarias-israel-martes-27-octubre-bejamin-netanyahu-415287",
+  "fecha": "2026-10-27T08:27:00-05:00",
+  "palabras": "Internacional,israel,Elecciones en el exterior,Reelección de Netanyahu,Medio Oriente",
+  "lead": "Según los sondeos en medios israelíes, el líder opositor Gadi Eisenkot tiene mayores posibilidades de formar gobierno que Benjamin Netanyahu.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De la Espriella sobre operativos en Medellín: \"No vamos a retroceder ni un milímetro\"",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-megaoperativo-en-medellin-esto-dijo-el-presidente-415285",
+  "fecha": "2026-10-27T08:09:00-05:00",
+  "palabras": "Política,Colombia,Antioquia,Medellín, Colombia,Federico Gutiérrez,Abelardo de la Espriella,Policía Nacional,Ejército Nacional",
+  "lead": "El presidente Abelardo De La Espriella acompañó en persona, durante la madrugada, la operación de la fuerza pública en Medellín.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Isabel Allende lidera la lista de invitados del Festival de Literatura de Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/festival-de-literatura-de-bogota-isabel-allende-lista-de-invitados-415268",
+  "fecha": "2026-10-27T06:47:00-05:00",
+  "palabras": "Sociedad,Cultura,Literatura,Bogotá,escritores,Escritura",
+  "lead": "El festival ofrece una oferta cultural que se extiende hasta el 10 de noviembre de 2026; tendrá variedad de invitados nacionales e internacinoales.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
