@@ -377,6 +377,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Colombia y Estados Unidos realizarán ejercicios militares conjuntos con 400 soldados colombianos y un despliegue operativo en contra de amenazas.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:41",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El presidente ucraniano Volodímir Zelenski agradeció a los líderes europeos y enfatizó en la necesidad de una desescalada en los ataques a la infraestructura energética.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:50",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Nuevas encuestas en Estados Unidos muestran un empate entre Netanyahu y su principal rival, mientras se espera un encuentro próximo mes en Abu Dabi.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:50",
+   "quien": "Gabriela, Periodista de 6AM",
+   "que": "La llegada de María Corina Machado al país generó reacciones y se anunció que recorrerá Venezuela, a pesar de que el régimen ha bloqueado su participación política.",
+   "resaltar": false
   }
  ],
  "avisos": [
