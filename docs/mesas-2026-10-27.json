@@ -398,6 +398,27 @@
    "quien": "Gabriela, Periodista de 6AM",
    "que": "La llegada de María Corina Machado al país generó reacciones y se anunció que recorrerá Venezuela, a pesar de que el régimen ha bloqueado su participación política.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Santiago Ángel, Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Fiscalía anunció que llamará a declarar a Days Vásquez, quien entregó chats de cuentas de Facebook sobre supuestos contratos a mujeres en entidades como Presidencia, MinInterior y Congreso.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Don Juan, Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Procuraduría pidió a 5 entidades del Estado (Presidencia, MinInterior, Superservicios, Supersalud y Congreso) revelar si contrataron a Days Vásquez entre 2017 y 2019.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Days Vásquez pidió seguridad para ella y su familia, tras la revelación de la dirección y fotos de la casa de sus padres en Sevilla, Valle.",
+   "resaltar": false
   }
  ],
  "avisos": [
