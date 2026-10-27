@@ -181,6 +181,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "EPM tiene más de 131 mil millones de pesos de deuda con XM y de no pagar podría iniciar una serie de cortes diarios de energía de entre 4 y 6 horas para más de 1 millón de usuarios en la Costa Caribe, afectando a Cartagena, Montería y Santa Marta.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó el asesinato en Cúcuta del exsecretario de Gobierno municipal Miguel Castellanos, atacado con arma de fuego por sicarios en una estación de servicio del Anillo Vial Occidental.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:07",
+   "quien": "George Quintero, secretario de Seguridad Ciudadana de Norte de Santander",
+   "que": "Informó que la Gobernación ofreció una recompensa de hasta 50 millones de pesos, que junto con el aporte de la Alcaldía suma un total de 100 millones de pesos, por información que permita esclarecer el homicidio de Miguel Castellanos.",
+   "resaltar": false
   }
  ],
  "avisos": [
