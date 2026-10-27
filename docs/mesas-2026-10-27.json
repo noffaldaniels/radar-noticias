@@ -328,6 +328,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Se conocieron los nombres de los nuevos viceministros del Interior: Carlos Ramiro Chavarro y Edinson Tigreros.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Fue atacada la subestación de policía del municipio de El Cairo, corregimiento de Albán, en el norte del Valle, con explosivos lanzados desde drones por grupos armados. No se reportan personas lesionadas, heridas o víctimas fatales, pero el lanzamiento generó la destrucción de instalaciones policiales.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:40",
+   "quien": "Luisa (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "A partir de hoy entra en racionamiento programado el gas hasta que termine la reparación de la planta de importación de gas SPEC, que tiene una falla. Se priorizará atender a usuarios residenciales, pequeños comercios y a toda la demanda esencial del gas, mientras están en máxima alerta para evitar perjuicios.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:40",
+   "quien": "Emiliana (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "Microsoft propone un nuevo plan de retiro voluntario a unos 60.000 empleados en Estados Unidos, Canadá, India y Reino Unido, anunciado el lunes en las últimas horas, apuntando a una cuarta parte de la plantilla de los empleados.",
+   "resaltar": false
   }
  ],
  "avisos": [
