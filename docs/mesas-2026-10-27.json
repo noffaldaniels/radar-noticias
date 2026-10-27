@@ -783,6 +783,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Alcaldía de Ibagué confirmó el arribo de 150 nuevos hombres y mujeres de la Policía Nacional que conformarán el llamado bloque de defensa de la seguridad urbana anunciado por el Gobierno Nacional para las ciudades capitales.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:13",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se reporta un atentado terrorista con un vehículo con explosivos cerca de las instalaciones de la DIAN y del puente internacional Francisco de Paula Santander en Cúcuta.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:14",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La explosión en el puente internacional Francisco de Paula Santander deja 4 uniformados lesionados, dos hombres y dos mujeres, y daños en varios vehículos y árboles.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:19",
+   "quien": "Doctor Gustavo Quintero, secretario de Gobierno de Bogotá",
+   "que": "Se anuncian restricciones para parrilleros en moto en Bogotá desde el 29 de octubre a las 6:00 p.m. hasta el 3 de noviembre a las 6:00 a.m. por el fin de semana de Halloween.",
+   "resaltar": false
   }
  ],
  "avisos": [
