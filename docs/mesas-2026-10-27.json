@@ -594,6 +594,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Se registró un atentado con explosivos en inmediaciones del puente internacional Francisco de Paula Santander en Cúcuta, dejando tres personas heridas.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:40",
+   "quien": "Claudia Margarita Zuleta, Senadora de la República",
+   "que": "Busca correcciones en el régimen pensional y afirma que el gobierno está interesado en participar en la discusión de la reforma.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:40",
+   "quien": "George Quintero, Secretario de Seguridad de Norte de Santander",
+   "que": "Asegura que avanzan las investigaciones tras el homicidio del exsecretario de seguridad de Cúcuta, Miguel Castellanos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:40",
+   "quien": "Primer Ministro de Israel",
+   "que": "Acusa a opositores árabes israelíes de intentar robar las elecciones parlamentarias, tras lo cual tres altos funcionarios y un miembro de partido de mayoría árabe fueron detenidos con sobres con dinero.",
+   "resaltar": false
   }
  ],
  "avisos": [
