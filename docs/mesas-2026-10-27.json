@@ -160,6 +160,27 @@
    "quien": "Ministra de Salud",
    "que": "Anunció que el gobierno buscará corregir el cálculo de la UPC para 2027 y reconocer el desfinanciamiento acumulado del sistema de salud.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:01",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Hay un nuevo daño en la planta regasificadora SPEC de Cartagena, por lo que habrá 133 millones de pies cúbicos diarios menos para la demanda nacional durante los próximos 8 días.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:02",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Ministerio de Minas y Energía anunció un racionamiento programado de gas ante la baja disponibilidad, priorizando hogares y clínicas, y recortando suministro a industrias.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:02",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "EPM tiene más de 131 mil millones de pesos de deuda con XM y de no pagar podría iniciar una serie de cortes diarios de energía de entre 4 y 6 horas para más de 1 millón de usuarios en la Costa Caribe, afectando a Cartagena, Montería y Santa Marta.",
+   "resaltar": false
   }
  ],
  "avisos": [
