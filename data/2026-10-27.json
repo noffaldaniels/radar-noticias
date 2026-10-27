@@ -711,7 +711,7 @@
   "palabras": "Bucaramanga, Santander, Ministerio de Transporte, Blu Radio",
   "lead": "La Alianza por Santander presentará el 30 de octubre ante la ministra de Transporte, Elsa Noguera, una agenda de proyectos viales para impulsar la conectividad y la competitividad del departamento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Gas natural",
   "lead": "El Ministerio de Minas y Energía hizo público un documento en el que declara el racionamiento programado desde las cero horas de este martes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Organismos de socorro refuerzan acciones ante incendios en San Luis, Chiflón y Normandía, zona rural de Neiva.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "El presidente de la República, Abelardo de la Espriella, dio a conocer el resultado en sus redes sociales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "Según Fabián Andrés Nivia, propietario de la empresa Faragro Más Soluciones Agrícolas, los delincuentes ingresaron a la sede de Ibagué de donde se llevaron drones avaluados en más de $350 millones e insumos agrícolas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "El hombre de 25 años fue dejado a disposición de las autoridades competentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "Finlandia y Noruega se encuentran entre los más firmes aliados de Kiev frente a la invasión rusa, iniciada en febrero de 2022.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "Anselmo Gual pidió explicaciones sobre los patrullajes, los hurtos y las cámaras de vigilancia. El coronel Jimmy Belalcázar anunció operativos masivos para noviembre, confirmó un aumento de 200 uniformados y reconoció fallas en el sistema de videovigilancia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "Cinco líderes han sido asesinados en menos de dos meses, comunidades de Puerto Guzmán y Leguizamo sufren desplazamientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "Esta madera es custodiada de manera preventiva en el Centro de Atención y Valoración de Flora – CAV la CAR.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "George Quintero, secretario de seguridad, contó cómo fue el momento del asesinato de Miguel Castellanos y alertó sobre el aumento de sicariato en Norte de Santander.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "El alcalde Roberto Jiménez expuso los avances en educación, atención a damnificados y reactivación económica, junto con las acciones previstas para la reconstrucción del municipio tras el sismo del 10 de agosto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "El intercambio entre ambos mandatarios se produce después de una campaña electoral marcada por apoyos cruzados, pues Lula Da Silva respaldó la campaña de Iván Cepeda en Colombia, mientras De la Espriella había expresado su apoyo a Jair y Flávio Bolsonaro en Brasil.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "La nueva secretaria general de la Cancillería ordenó por circular que se elimine su segundo nombre en todos los documentos oficiales",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "Política,Ministerio del interior,Colombia,Abelardo de la Espriella",
   "lead": "Ordoñez tiene definida su mano derecha para entrar al ministerio del Interior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Manténgase bien informado con las 'Seis de las 6' de Juan Lozano.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,6 +887,380 @@
   "palabras": "Internacional,Rusia,Finlandia,Dinamarca,Noruega,Vladimir Putin",
   "lead": "La primera ministra danesa, Mette Frederiksen, cuestionó la iniciativa y advirtió que no fue coordinada con los demás aliados.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a joven por presunta extorsión con fotos íntimas a menor de edad en Chiquinquirá",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/capturan-a-joven-por-presunta-extorsion-con-fotos-intimas-a-menor-de-edad-en-chiquinquira-cb20",
+  "fecha": "2026-10-27T07:16:20-05:00",
+  "palabras": "Acoso sexual, Menores de edad, Extorsión, Chiquinquira",
+  "lead": "La denuncia del padre permitió capturar al señalado, quien habría exigido $250.000 para no divulgar las imágenes y presionado sexualmente a la adolescente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcaldía de Bucaramanga ha expulsado a 153 extranjeros delincuentes en menos de un año",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/alcaldia-de-bucaramanga-ha-expulsado-a-153-extranjeros-delincuentes-en-menos-de-un-ano-rg10",
+  "fecha": "2026-10-27T07:16:54-05:00",
+  "palabras": "Bucaramanga, Migración Colombia, Blu Radio, Noticias de hoy",
+  "lead": "El alcalde Cristian Portilla sostuvo que Bucaramanga registra la mayor cantidad de expulsiones de extranjeros del país durante el periodo mencionado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cámaras y antecedentes familiares: autoridades investigan crimen de Miguel Castellanos en Cúcuta",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/camaras-y-antecedentes-familiares-autoridades-investigan-crimen-de-miguel-castellanos-en-cucuta-pr30",
+  "fecha": "2026-10-27T07:30:50-05:00",
+  "palabras": "Cúcuta, Norte de Santander, atentado terrorista",
+  "lead": "Según la información suministrada por las autoridades y corroborada con los familiares, Castellanos venía regresando de urgencia desde Bucaramanga, ciudad a la que se desplazó para acompañar a su hermano, el exsenador Jairo Castellanos, quien fue sometido a una cirugía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría pide garantizar participación de comunidades en decisiones sobre Santurbán",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/procuraduria-pide-garantizar-participacion-de-comunidades-en-decisiones-sobre-santurban-rg10",
+  "fecha": "2026-10-27T07:27:27-05:00",
+  "palabras": "Bucaramanga, Santander, Santurbán, Procuraduría General de la Nación, Blu Radio",
+  "lead": "El Ministerio Público solicitó al Tribunal Administrativo de Santander evaluar los estudios científicos y las órdenes judiciales antes de adoptar medidas cautelares sobre el complejo de páramos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Atentado con explosivos en Cúcuta: reportan detonación cerca del puente Francisco de Paula Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/atentado-con-explosivos-en-cucuta-reportan-detonacion-cerca-del-puente-francisco-de-paula-santander-rg10",
+  "fecha": "2026-10-27T07:43:05-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "La infraestructura queda localizada, además, cerca de instalaciones de la DIAN en la capital de Norte de Santander.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Megaoperativo en Medellín y Antioquia dejó 135 capturados y un cabecilla de las disidencias abatido",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/megaoperativo-en-medellin-y-antioquia-dejo-135-capturados-y-un-cabecilla-de-las-disidencias-abatido-rg10",
+  "fecha": "2026-10-27T07:52:29-05:00",
+  "palabras": "Abelardo De La Espriella, Antioquia, Noticias de hoy",
+  "lead": "Según el balance entregado por el presidente Abelardo de la Espriella, el muerto durante los operativos es alias Primo Sangre, segundo cabecilla de las disidencias en el Norte del departamento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bogotá cambiará la atención de pacientes en urgencias: Secretaría de Salud lo confirmó",
+  "enlace": "https://www.bluradio.com/regiones/bogota/bogota-cambiara-la-atencion-de-pacientes-en-urgencias-secretaria-de-salud-lo-confirmo-so35",
+  "fecha": "2026-10-27T07:50:12-05:00",
+  "palabras": "Salud, Secretaria de Salud",
+  "lead": "Los servicios de urgencias en Bogotá tendrán ajustes desde noviembre: medidas buscan mejorar la atención de los pacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Violento robo a mujer en Bucaramanga; terminó golpeada contra separador: “casi la matan”",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/violento-robo-a-mujer-en-bucaramanga-termino-golpeada-contra-separador-casi-la-matan-rg10",
+  "fecha": "2026-10-27T08:02:19-05:00",
+  "palabras": "Santander, Bucaramanga, Inseguridad, Blu Radio, Noticias de hoy",
+  "lead": "La mujer es arrastrada durante varios instantes y termina golpeándose contra un separador vial, en una maniobra que pudo haberle ocasionado lesiones de mayor gravedad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Se debe controlar la llegada de tropas de EE. UU. a Colombia? Congresistas debaten en 6AM W",
+  "enlace": "https://caracol.com.co/2026/10/27/se-debe-controlar-la-llegada-de-tropas-de-ee-uu-a-colombia-congresistas-debaten-en-6am-w/",
+  "fecha": "2026-10-27T07:59:30-05:00",
+  "palabras": "",
+  "lead": "La senadora Alejandra Omaña y el representante Alejandro Murcia debatieron sobre las operaciones conjuntas anunciadas por el Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jaime González es el responsable de toda la tragedia que hay en Coosalud: María José Navarro",
+  "enlace": "https://caracol.com.co/2026/10/27/jaime-gonzalez-es-el-responsable-de-toda-la-tragedia-que-hay-en-coosalud-maria-jose-navarro/",
+  "fecha": "2026-10-27T07:53:36-05:00",
+  "palabras": "",
+  "lead": "La exsuperintendente, María José Navarro habló en 6AM W sobre la intervención a Coosalud y lo que han podido encontrar en materia de cartera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atentado con explosivos contra la DIAN en zona de frontera con Venezuela",
+  "enlace": "https://caracol.com.co/2026/10/27/fuerte-explosion-cerca-del-puente-internacional-francisco-de-paula-santander-deja-varios-heridos/",
+  "fecha": "2026-10-27T07:37:26-05:00",
+  "palabras": "",
+  "lead": "El hecho dejó varios uniformados heridos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinan a jefe de Recursos Humanos de una empresa de aseo en Cali",
+  "enlace": "https://caracol.com.co/2026/10/27/asesinan-a-jefe-de-recursos-humanos-de-una-empresa-de-aseo-en-cali/",
+  "fecha": "2026-10-27T07:57:35-05:00",
+  "palabras": "",
+  "lead": "El hombre de 65 años fue atacado a disparos por un hombre en motocicleta cuando llegaba a su vivienda, en el oriente de la ciudad",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La historia de Nancy, la madre que recibirá ayuda para recuperar su salud dental",
+  "enlace": "https://caracol.com.co/2026/10/27/la-historia-de-nancy-la-madre-que-recibira-ayuda-para-recuperar-su-salud-dental/",
+  "fecha": "2026-10-27T07:54:05-05:00",
+  "palabras": "",
+  "lead": "Kelly buscaba ayuda para su mamá, Nancy, quien enfrenta una infección dental que le causa dolor y le impide comer con normalidad. El implantólogo Andrés Romero decidió donar el tratamiento que necesita.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reclasificación 2026: así van los cupos internacionales tras triunfo agónico de Santa Fe",
+  "enlace": "https://caracol.com.co/2026/10/27/reclasificacion-2026-asi-van-los-cupos-internacionales-tras-triunfo-agonico-de-santa-fe/",
+  "fecha": "2026-10-27T07:46:51-05:00",
+  "palabras": "",
+  "lead": "Al menos cinco de los ocho cupos a Libertadores y Sudamericana del próximo año se definen a través de dicha tabla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallazgo de presunto detrimento de $20.000 millones en Secretaría de Seguridad de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/27/hallazgos-fiscales-por-presunto-detrimento-patrimonial-en-sec-de-seguridad-por-20000-millones/",
+  "fecha": "2026-10-27T07:34:17-05:00",
+  "palabras": "",
+  "lead": "Informe revela atrasos y rezagos en obras como la URI de Suba, el Centro de Reclusión Especial de Puente Aranda, la Cárcel Distrital II y la adquisición de un predio para la ampliación de equipamientos de justicia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habrá restricción de parrillero moto en Bogotá por Halloween: conozca cómo será la medida",
+  "enlace": "https://caracol.com.co/2026/10/27/habra-restriccion-de-parrillero-moto-en-bogota-por-halloween-conozca-como-sera-la-medida/",
+  "fecha": "2026-10-27T07:41:20-05:00",
+  "palabras": "",
+  "lead": "La medida se toma para salvaguardar la seguridad vial en la capital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Renuncia masiva de médicos en Suárez, Cauca, tras ataque en hospital: “no hemos recibido apoyo”",
+  "enlace": "https://caracol.com.co/2026/10/27/renuncia-masiva-de-medicos-en-suarez-cauca-tras-ataque-en-hospital-no-hemos-recibido-apoyo/",
+  "fecha": "2026-10-27T07:17:23-05:00",
+  "palabras": "",
+  "lead": "La secretaria de Salud del Cauca, Carolina Camargo, aseguró que médicos están renunciando en Suárez tras ataque y denuncian falta de apoyo nacional",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rechazo de la dirigencia política al asesinato de Miguel Castellanos",
+  "enlace": "https://caracol.com.co/2026/10/27/rechazo-de-la-dirigencia-politica-al-asesinato-de-miguel-castellanos/",
+  "fecha": "2026-10-27T07:14:20-05:00",
+  "palabras": "",
+  "lead": "Diversos sectores se pronunciaron",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operativo en Medellín y Antioquia deja 135 capturas y un abatido de las disidencias",
+  "enlace": "https://caracol.com.co/2026/10/27/operativo-en-medellin-y-antioquia-deja-135-capturas-y-un-abatido-de-las-disidencias/",
+  "fecha": "2026-10-27T07:32:10-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo De La Espriella reportó 153 allanamientos, 98 expulsiones y la muerte de alias Primo Sangre, señalado como segundo cabecilla del Frente 36 de las disidencias de las FARC.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cae uno de los principales narcos españoles, ‘el tigre del hachís’, fugado en Marruecos",
+  "enlace": "https://caracol.com.co/2026/10/27/cae-uno-de-los-principales-narcos-espanoles-el-tigre-del-hachis-fugado-en-marruecos/",
+  "fecha": "2026-10-27T07:19:29-05:00",
+  "palabras": "",
+  "lead": "Se trata de la última fase del operativo iniciado en 2025 sobre una red asentada en España dedicada a introducir miles de kilos de droga al mes desde Marruecos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias ‘Harold’ es capturado en flagrancia, al parecer, pretendía hurtar local evacuado por terremoto",
+  "enlace": "https://caracol.com.co/2026/10/27/alias-harold-es-capturado-en-flagrancia-al-parecer-pretendia-hurtar-local-evacuado-por-terremoto/",
+  "fecha": "2026-10-27T07:01:45-05:00",
+  "palabras": "",
+  "lead": "El hombre de 25 años fue dejado a disposición de las autoridades competentes.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empresarios de Marinilla, Antioquia, se capacitarán para exportar a 29 mercados internacionales",
+  "enlace": "https://caracol.com.co/2026/10/27/empresarios-de-marinilla-antioquia-se-capacitaran-para-exportar-a-29-mercados-internacionales/",
+  "fecha": "2026-10-27T07:16:34-05:00",
+  "palabras": "",
+  "lead": "Durante este miércoles, 28 de octubre, se tendrá una jornada gratuita especial en el parque principal del municipio de Marinilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador de Antioquia pide al Gobierno Nacional centro de fusión tras fin del distrito minero",
+  "enlace": "https://caracol.com.co/2026/10/27/gobernador-de-antioquia-pide-al-gobierno-nacional-centro-de-fusion-tras-fin-del-distrito-minero/",
+  "fecha": "2026-10-27T07:14:15-05:00",
+  "palabras": "",
+  "lead": "Andrés Julián Rendón hizo la propuesta para combatir las finanzas de las organizaciones criminales que obtienen recursos del narcotráfico y la minería ilegal en el departamento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a ‘El Negro’, señalado de extorsiones en el barrio Santa María, en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/10/27/capturan-a-el-negro-senalado-de-extorsiones-en-el-barrio-santa-maria-en-barranquilla/",
+  "fecha": "2026-10-27T07:13:29-05:00",
+  "palabras": "",
+  "lead": "Durante su captura, le incautaron $30 millones en efectivo y varias armas de fuego.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bucaramanga recibirá a 1.200 hoteleros del país en el Congreso Nacional de Hotelería",
+  "enlace": "https://caracol.com.co/2026/10/27/bucaramanga-recibira-a-1200-hoteleros-del-pais-en-el-congreso-nacional-de-hoteleria/",
+  "fecha": "2026-10-27T07:12:53-05:00",
+  "palabras": "",
+  "lead": "El evento se realizará en Neomundo y la junta se hará este miércoles 28 de octubre en Topocoro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Putin advierte a Stubb y Støre que solo habrá paz si se respetan los intereses de Rusia",
+  "enlace": "https://caracol.com.co/2026/10/27/putin-advierte-a-stubb-y-store-que-solo-habra-paz-si-se-respetan-los-intereses-de-rusia/",
+  "fecha": "2026-10-27T07:12:19-05:00",
+  "palabras": "",
+  "lead": "La conversación también abordó la próxima reanudación de las negociaciones de paz con mediación de Estados Unidos, así como las garantías de seguridad que buscan acordarse para Rusia y Ucrania una vez terminen los combates.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Requisitos que pueden impedir ingreso de colombianos a otros países",
+  "enlace": "https://www.lafm.com.co/sociedad/visa-colombianos-requisitos-impedir-ingreso-otros-paises-415267",
+  "fecha": "2026-10-27T07:59:00-05:00",
+  "palabras": "Sociedad,Visa,Turismo,Viajes,Colombia",
+  "lead": "Una reserva de hotel o una carta de invitación de una persona residente en el destino deja ver a las autoridades que hay una acreditación dónde el visitant...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Tropas de EE. UU. combatirán a grupos armados en Colombia?",
+  "enlace": "https://www.lafm.com.co/orden-publico/tropas-estados-unidos-en-colombia-grupos-armados-escudo-de-las-americas-415281",
+  "fecha": "2026-10-27T07:57:00-05:00",
+  "palabras": "Orden Público,Estados Unidos,Militares,Combates,Colombia,América Latina",
+  "lead": "Luis Quiñones, veterano de la Marina de Guerra de Estados Unidos, explicó los alcances del denominado Escudo de las Américas, una iniciativa que pretende c...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Crimen de Miguel Castellanos: Investigan ataque o riña",
+  "enlace": "https://www.lafm.com.co/orden-publico/caso-miguel-castellanos-asesinato-investigacion-discusion-ataque-planeado-fiscalia-415270",
+  "fecha": "2026-10-27T07:47:00-05:00",
+  "palabras": "Orden Público,Cúcuta,Alcaldía de Cúcuta,sicario,atentado,Asesinato",
+  "lead": "El hecho ocurrió hacia las 6:00 p. m., cuando se desplazaba desde una zona rural hacia su lugar de residencia acompañado de su hijo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan hombre señalado de asesinar a su pareja en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/feminicidio-bogota-capturan-hombre-senalado-de-matar-su-pareja-suba-policia-metropolitana-415280",
+  "fecha": "2026-10-27T07:38:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Alcaldía de Bogotá,Bogotá,Policía Nacional,Suba",
+  "lead": "La mujer falleció en el Hospital de Suba después de ser trasladada con múltiples heridas, presuntamente causadas por su compañero sentimental.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atentado contra estación de policía de Cúcuta deja 3 heridos",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-estacion-de-policia-de-cucuta-tres-heridos-415279",
+  "fecha": "2026-10-27T07:38:00-05:00",
+  "palabras": "Orden Público,atentado,Policía Nacional,Heridos",
+  "lead": "El atentado se registró en inmediaciones del puente internacional Francisco de Paula Santander.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Asciende a 135 los capturados en megaoperativo en Medellín",
+  "enlace": "https://www.lafm.com.co/orden-publico/asciende-a-135-los-capturados-en-megaoperativo-de-abelardo-en-medellin-415277",
+  "fecha": "2026-10-27T07:30:00-05:00",
+  "palabras": "Orden Público,Capturas,Capturados,Delincuentes capturados,Medellín, Colombia,Abelardo de la Espriella",
+  "lead": "Los operativos, que se cumplieron durante la madrugada, fueron acompañados por el presidente Abelardo De La Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Min. Transporte propondrá activación de traspaso a persona indeterminada",
+  "enlace": "https://www.lafm.com.co/sociedad/ministerio-transporte-activaria-venta-a-persona-indeterminada-415273",
+  "fecha": "2026-10-27T06:54:00-05:00",
+  "palabras": "Sociedad,multa,Fotomultas,ventas,Autos,automóviles,Motociclistas,Sector automotor,Runt,Ministerio de Transporte,Abelardo de la Espriella,Gobierno,Presidencia de la República,Colombia",
+  "lead": "La ministra anunció que aplicará una nueva medida al proyecto de ley que pretende cambiar el Código Nacional de Tránsito.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Vicepresidente pide rechazar amenazas contra registrador Penagos",
+  "enlace": "https://www.lafm.com.co/politica/vicepresidente-jose-manuel-restrepo-plan-para-atentar-contra-el-registrador-registraduria-nacional-fiscalia-investiga-amenazas-registrador-esquema-de-seguridad-penagos-415269",
+  "fecha": "2026-10-27T06:49:00-05:00",
+  "palabras": "Política,Colombia,presidente de la República,Registrador,registrador nacional,Amenazas,Abelardo de la Espriella,José Manuel Restrepo,Fiscalía General de la Nación",
+  "lead": "El vicepresidente José Manuel Restrepo hizo un llamado a proteger la vida de todos los servidores públicos y a respaldar al registrador.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
