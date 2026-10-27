@@ -867,6 +867,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Se restringe la circulación de motocicletas en 19 corredores principales de Bogotá (NQS, Autonorte, Autosur, Calle 26, Carrera 50, etc.) desde las 8:00 p.m. hasta las 4:00 a.m. del 29 de octubre al 2 de noviembre.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:23",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El gobierno de Gustavo Petro y los sindicatos debaten un incremento salarial de dos dígitos para el salario mínimo vital, buscando cubrir las necesidades de los trabajadores.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:23",
+   "quien": "Nelson Alarcón, Presidente de la CUT",
+   "que": "La CUT señala que el salario mínimo vital es un principio constitucional sin parámetros claros y pide que se considere la inflación y la productividad en su incremento.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:25",
+   "quien": "Mateo Zapata, Periodista",
+   "que": "Operativo en Antioquia con el gobernador Andrés Julián Rendón y el alcalde Federico Gutiérrez reporta 135 capturados, 10 armas de fuego y 717 millones de pesos en efectivo incautados.",
+   "resaltar": false
   }
  ],
  "avisos": [
