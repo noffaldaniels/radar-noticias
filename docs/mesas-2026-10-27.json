@@ -930,6 +930,27 @@
    "quien": "Secretaria de Movilidad María Fernanda Ortiz",
    "que": "En Bogotá hay 515,865 motocicletas registradas.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:41",
+   "quien": "Juan José, Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Sala Civil de la Corte Suprema de Justicia recibió una tutela de Kiko Gómez para buscar tumbar su condena por el homicidio del exconcejal de Barrancas Luis López Peralta en 1997. Al señor Kiko Gómez se le está aplicando un derecho penal de autor y se le condena por ser él y no por las pruebas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:41",
+   "quien": "Cristian, Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En la jornada de hoy, el gobernador Henry Gutiérrez y su gabinete se reunirán en Bogotá con directivos de Bancoldex, el Sistema General de Regalías y la ministra de Salud para hablar sobre proyectos financiados, competitividad del eje cafetero y la crisis de la salud.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:41",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Mineros tradicionales de carbón de Socha salieron a marchar para pedir soluciones frente a las explotaciones de la vereda El Curital, tras el anuncio de que al menos 50 bocaminas serán cerradas por orden judicial. La medida amenaza 2.000 empleos directos y 5.000 indirectos.",
+   "resaltar": false
   }
  ],
  "avisos": [
