@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "Blu Radio",
+   "hora": "05:31",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Informó que 350 militares estadounidenses llegarán a la base militar de Tolemaida para realizar el ejercicio conjunto 'Vanguardia del Sur' con 400 uniformados colombianos contra el narcotráfico y la minería ilegal, donde permanecerán hasta el 11 de noviembre.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:33",
+   "quien": "Gabriel Guerrero, vicefiscal general de la Nación",
+   "que": "Confirmó que Daisy Jiménez será llamada a declarar como testigo en la indagación que adelanta la Fiscalía contra las exdirectoras del DAPRE, Angie Rodríguez y Laura Sarabia, por presuntos contratos asignados a cambio de servicios sexuales.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:33",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Reveló que el Ministerio de Salud denunció ante la Fiscalía presuntas irregularidades por más de 32.500 millones de pesos asignados a hospitales mediante cinco resoluciones expedidas entre el 24 de julio y el 5 de agosto.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
