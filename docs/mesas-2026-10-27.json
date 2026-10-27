@@ -524,6 +524,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El gobierno sueco bloqueó el acceso de sus empleados a las versiones de navegador de las herramientas de inteligencia artificial ChatGPT y Claude desde sus ordenadores de trabajo debido a preocupaciones de seguridad vinculadas con el tratamiento de datos de carácter delicado.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:11",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La guerra del Catatumbo entre el ELN y las disidencias ya se ha movido a la ciudad de Cúcuta, capital Norte de Santander.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:11",
+   "quien": "Profesor Santiago Tobón de la Universidad Eafit de Medellín",
+   "que": "En ciudades como Cúcuta y Barranquilla hay un recrudecimiento de la violencia debido a la existencia de distintos tipos de bandas que se disputan la hegemonía de los negocios ilegales.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:11",
+   "quien": "Presidente de la República, Abelardo de la Espriella",
+   "que": "En Barranquilla, la tendencia de homicidios se redujo en un 64%, cifra entregada tras un par de semanas comparando con el inicio de su gobierno.",
+   "resaltar": false
   }
  ],
  "avisos": [
