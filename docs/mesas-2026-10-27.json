@@ -741,6 +741,27 @@
    "quien": "Héctor (Gerente de EPM)",
    "que": "El presidente Abelardo de las Espriella confrontó a dos delincuentes, alias 'Risas' y alias 'Valenciano', señalados del grupo criminal La Roja, quienes robaban roles a los extranjeros.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:02",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se discute la posibilidad de cortes de energía programados en caso de que no se logre un acuerdo sobre el pago de la deuda con Afinia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:03",
+   "quien": "Doctor Maya",
+   "que": "EPM presenta el plan para los cortes de energía si no hay acuerdo frente al pago de la deuda, el cual sería viabilizado por XM.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:03",
+   "quien": "Doctor Maya",
+   "que": "La deuda que tienen las entidades públicas con Afinia ronda entre 400 y 450 mil millones de pesos.",
+   "resaltar": false
   }
  ],
  "avisos": [
