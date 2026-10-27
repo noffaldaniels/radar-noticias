@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "\"Me llena de alegría regresar al continente en el que he vivido tantos momentos de mi vida. Que este viaje sea una ocasión para abrir nuestros corazones los unos a los otros, fortalecer nuestra comunión como hermanos y hermanas, y renovar nuestro compromiso de anunciar el Evangelio con alegría\",…",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "Los dos nuevos espacios fueron habilitados en el búnker de la Fiscalía General de la Nación y en el barrio La Floresta, al occidente de Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "La entidad y Findeter socializaron con las comunidades el inicio de la fase II del proyecto, que busca mejorar la calidad del agua y optimizar los sistemas de bombeo para beneficiar a 19.399 habitantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "El mandatario departamental aseguró que los trámites requeridos ya fueron adelantados y se encuentra a la espera de la transferencia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -490,6 +490,215 @@
   "fecha": "2026-10-27T05:53:53-05:00",
   "palabras": "",
   "lead": "Mineros de Socha advierten que el cierre de 50 bocaminas en la vereda El Curital pondría en riesgo cerca de 7.000 empleos directos e indirectos.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tres hombres fueron asesinados en diferentes ataques sicariales en Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/tres-hombres-fueron-asesinados-en-diferentes-ataques-sicariales-en-santander-rg10",
+  "fecha": "2026-10-27T06:26:29-05:00",
+  "palabras": "Homicidios, Noticias de hoy, Blu Radio, Policía Nacional, Bucaramanga, Barrancabermeja, sicariato, Santander, Santander",
+  "lead": "Las autoridades adelantan las investigaciones para determinar los móviles de los ataques, establecer si existe alguna relación entre los hechos y dar con los responsables.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué el exsecretario de Gobierno de Cúcuta estaba sin sus escoltas? Esto se sabe del crimen",
+  "enlace": "https://www.bluradio.com/nacion/por-que-el-exsecretario-de-gobierno-de-cucuta-estaba-sin-sus-escoltas-esto-se-sabe-del-crimen-cb20",
+  "fecha": "2026-10-27T06:17:21-05:00",
+  "palabras": "Cúcuta, Asesinatos, Norte de Santander",
+  "lead": "La víctima, mayor retirado de la Policía Nacional, adelantaba actividades de precampaña para postularse a la Alcaldía de Cúcuta en los comicios de 2027, por lo que a principio de año renunció a su cargo como secretario de Gobierno en cumplimiento de la ley colombiana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mujer habría sido asesinada durante un cumpleaños en Suba: fue atacada por lo menos 10 veces",
+  "enlace": "https://www.bluradio.com/regiones/bogota/mujer-habria-sido-asesinada-durante-un-cumpleanos-en-suba-fue-atacada-por-lo-menos-10-veces-so35",
+  "fecha": "2026-10-27T06:36:42-05:00",
+  "palabras": "Inseguridad en Bogotá, Feminicidio",
+  "lead": "La víctima fue atacada con un arma blanca en un apartamento de Villa María y murió minutos después en el hospital de Suba.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caen cinco presuntos integrantes del Clan del Golfo en Puerto Wilches, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/caen-cinco-presuntos-integrantes-del-clan-del-golfo-en-puerto-wilches-santander-rg10",
+  "fecha": "2026-10-27T06:48:51-05:00",
+  "palabras": "Santander, Puerto Wilches, Clan del Golfo, Blu Radio, Noticias de hoy",
+  "lead": "Entre los detenidos está alias ‘Toro’, señalado como presunto cabecilla. Durante el operativo fueron incautadas seis armas de fuego, 261 municiones, equipos de comunicación y dos motocicletas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia entra en racionamiento programado de gas natural por reparación de la planta de gas SPEC",
+  "enlace": "https://caracol.com.co/2026/10/27/colombia-entra-en-racionamiento-programado-de-gas-natural-por-reparacion-de-la-planta-de-gas-spec/",
+  "fecha": "2026-10-27T06:42:36-05:00",
+  "palabras": "",
+  "lead": "Se priorizará atender a usuarios residenciales y pequeños comercios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Menor de edad era extorsionada mediante ‘sexting’: joven de 20 años fue capturado por este hecho",
+  "enlace": "https://caracol.com.co/2026/10/27/menor-de-edad-era-extorsionada-mediante-sexting-joven-de-20-anos-fue-capturado-por-este-hecho/",
+  "fecha": "2026-10-27T06:38:46-05:00",
+  "palabras": "",
+  "lead": "El capturado le exigía dinero a la adolescente a cambio de no difundir fotos íntimas y habría agredido sexualmente a la víctima ante su negativa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Por qué protestó encadenado un veedor de salud en la sede de sanidad de la Policía en Armenia?",
+  "enlace": "https://caracol.com.co/2026/10/27/por-que-protesto-encadenado-un-veedor-de-salud-en-la-sede-de-sanidad-de-la-policia-en-armenia/",
+  "fecha": "2026-10-27T06:33:16-05:00",
+  "palabras": "",
+  "lead": "No es la primera vez que los usuarios de salud de sanidad protestan en la capital del Quindío",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tenderos de Santa Marta reportan pérdidas por las lluvias",
+  "enlace": "https://caracol.com.co/2026/10/27/tenderos-de-santa-marta-reportan-perdidas-por-las-lluvias/",
+  "fecha": "2026-10-27T06:32:54-05:00",
+  "palabras": "",
+  "lead": "Además de las pérdidas económicas manifiestan su preocupación por el aumento en las tarifas de energía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Los recursos han llegado a Cali, Valle, Pereira y próximamente a Manizales”: Gerente Fondo Milagro",
+  "enlace": "https://caracol.com.co/2026/10/27/los-recursos-han-llegado-a-cali-valle-pereira-y-proximamente-a-manizales-gerente-fondo-milagro/",
+  "fecha": "2026-10-27T06:30:26-05:00",
+  "palabras": "",
+  "lead": "Resaltó el proceso de reconstrucción ejecutado en Manizales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja solicita mayor apoyo de la Nación y el departamento para financiar el PAE de 2027",
+  "enlace": "https://caracol.com.co/2026/10/27/tunja-solicita-mayor-apoyo-de-la-nacion-y-el-departamento-para-financiar-el-pae-de-2027/",
+  "fecha": "2026-10-27T06:29:01-05:00",
+  "palabras": "",
+  "lead": "Tunja busca aumentar los aportes de la UApA y recuperar el apoyo financiero de la Gobernación de Boyacá para garantizar el PAE en 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque con explosivos lanzados desde drones contra subestación de Policía en El Cairo, Valle",
+  "enlace": "https://caracol.com.co/2026/10/27/ataque-con-explosivos-lanzados-desde-drones-contra-subestacion-de-policia-en-el-cairo-valle/",
+  "fecha": "2026-10-27T06:27:54-05:00",
+  "palabras": "",
+  "lead": "Los artefactos explosivos fueron lanzados contra la subestación de Policía del corregimiento de Albán",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La mujer policía que protege a las mujeres de la violencia intrafamiliar",
+  "enlace": "https://caracol.com.co/2026/10/27/la-mujer-policia-que-protege-a-las-mujeres-de-la-violencia-intrafamiliar/",
+  "fecha": "2026-10-27T03:16:06-05:00",
+  "palabras": "",
+  "lead": "La subteniente Kelly Johanna Cabrera Mendoza: jefe de la patrulla púrpura, entre la psicología y el uniforme, una vocación para proteger a las mujeres",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Una bala perdida mató a un carpintero en La Esperanza y dejó herido a un niño",
+  "enlace": "https://caracol.com.co/2026/10/27/una-bala-perdida-mato-a-un-carpintero-en-la-esperanza-y-dejo-herido-a-un-nino/",
+  "fecha": "2026-10-27T06:24:48-05:00",
+  "palabras": "",
+  "lead": "Luis Eduardo Julio Silgado, de 35 años, recibió un disparo en la espalda cuando intentaba apartarse de un ataque armado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con las riendas en las manos y la vocación en el alma: la mujer que abrió caminos en la Policía de B",
+  "enlace": "https://caracol.com.co/2026/10/27/con-las-riendas-en-las-manos-y-la-vocacion-en-el-alma-la-mujer-que-abrio-caminos-en-la-policia-de-b/",
+  "fecha": "2026-10-27T03:11:42-05:00",
+  "palabras": "",
+  "lead": "La historia de la subteniente Liliana Marcela Leyva Lozano es un homenaje a quienes han hecho de la valentía, la sensibilidad y el servicio una manera de vivir",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría y Defensoría rechazan asesinato de Miguel Castellanos y exigen esclarecer el crimen",
+  "enlace": "https://caracol.com.co/2026/10/27/procuraduria-y-defensoria-rechazan-asesinato-de-miguel-castellanos-y-exigen-esclarecer-el-crimen/",
+  "fecha": "2026-10-27T06:17:25-05:00",
+  "palabras": "",
+  "lead": "Castellanos aspiraba a ser alcalde de Cúcuta.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque a bala en un estadero acabó con la vida de dos amigos en el sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/27/ataque-a-bala-en-un-estadero-acabo-con-la-vida-de-dos-amigos-en-el-sur-de-bolivar/",
+  "fecha": "2026-10-27T06:18:04-05:00",
+  "palabras": "",
+  "lead": "Edwin Nieto Moreno y Robinson Asprilla fueron asesinados mientras compartían con amigos en Santa Rosa del Sur",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cerca de 100 trabajadores denunciaron despidos y salarios atrasados en el Hospital de Bocagrande",
+  "enlace": "https://caracol.com.co/2026/10/27/cerca-de-100-trabajadores-denunciaron-despidos-y-salarios-atrasados-en-el-hospital-de-bocagrande/",
+  "fecha": "2026-10-27T06:14:30-05:00",
+  "palabras": "",
+  "lead": "Los extrabajadores aseguran que no han recibido sus liquidaciones ni el pago de varios meses de salarios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más que una elección, Netanyahu enfrenta un plebiscito a su gobierno",
+  "enlace": "https://caracol.com.co/2026/10/27/mas-que-una-eleccion-netanyahu-enfrenta-un-plebiscito-a-su-gobierno/",
+  "fecha": "2026-10-27T06:13:11-05:00",
+  "palabras": "",
+  "lead": "Benjamín Netanyahu llega a estas elecciones como el primer ministro que más tiempo ha gobernado Israel. Casi 19 años.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Beca de Harvard para profesionales de la salud: cómo aplicar",
+  "enlace": "https://www.lafm.com.co/sociedad/harvard-abre-beca-profesionales-de-la-salud-colombia-como-aplicar-415263",
+  "fecha": "2026-10-27T06:04:00-05:00",
+  "palabras": "Sociedad,becas,Harvard,Universidad de Harvard,universidades,Colombia,Salud,tips para estudiar en el exterior",
+  "lead": "Los interesados deben cumplir con requisitos específicos para poder aplicar a la oferta de educación.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
