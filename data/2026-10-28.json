@@ -546,7 +546,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Bello, Deslizamiento",
   "lead": "La Alcaldía de Bello declaró la urgencia manifiesta y la calamidad pública para atender la situación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Las autoridades recordaron que la defraudación de fluidos está tipificada como actividad delictiva en el Código Penal colombiano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Autoridades mantienen comunicación permanente con la Fuerza Pública para monitorear posibles amenazas en las provincias fronterizas de Boyacá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "La edición 26 del Festival de Brujas reunirá cultura y tradición del 30 de octubre al 2 de noviembre en La Jagua.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "El presunto cabecilla del ELN estaría relacionado con otros ataques en Norte de Santander.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "La decisión se tomó tras el atentado con explosivos en el barrio Nuevo Escobal y el homicidio del exsecretario de Gobierno, Miguel Castellanos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,6 +612,182 @@
   "palabras": "Orden Público,Bogotá,Mega operativo,Policía Nacional,Abelardo de la Espriella,Carlos Fernando Galán",
   "lead": "Las autoridades despliegan acciones simultáneas para combatir el delito, reforzar la seguridad ciudadana y recuperar el control de los sectores afectados p...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un rayo impactó sobre una finca y causó la muerte de 10 reses en Caucasia, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/un-rayo-impacto-sobre-una-finca-y-causo-la-muerte-de-10-reses-en-caucasia-antioquia-rg10",
+  "fecha": "2026-10-28T06:23:49-05:00",
+  "palabras": "Antioquia, Bajo Cauca, Animales",
+  "lead": "Asociaciones ganaderas en el Bajo Cauca antioqueño piden ayuda para poder hacer la disposición adecuada de los animales y evitar enfermedades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Continúan la búsqueda de joven de 23 años desaparecido en el río Suárez, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/continuan-la-busqueda-de-joven-de-23-anos-desaparecido-en-el-rio-suarez-santander-rg10",
+  "fecha": "2026-10-28T06:50:22-05:00",
+  "palabras": "Santander, Bucaramanga, Emergencias por lluvias, Blu Radio",
+  "lead": "Continúa la búsqueda de Jeider Johan Hernández, de 23 años, arrastrado por el río Suárez en Barbosa, Santander. El alcalde de Socorro pidió apoyo a los habitantes de las zonas ribereñas para hallarlo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Choque múltiple en la vía Bogotá-Girardot dejó cierre total: un camión terminó volcado",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/choque-multiple-en-la-via-bogota-girardot-dejo-cierre-total-un-camion-termino-volcado-so35",
+  "fecha": "2026-10-28T06:21:40-05:00",
+  "palabras": "Accidente de tránsito, Girardot, Vía Bogotá - Girardot",
+  "lead": "El siniestro ocurrió en el kilómetro 2 de la variante de Girardot, en inmediaciones de Flandes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lula da Silva califica como vergonzosa la salida de Flávio Bolsonaro: \"Debe alguna cosa\"",
+  "enlace": "https://www.bluradio.com/mundo/lula-da-silva-califica-como-vergonzosa-la-salida-de-flavio-bolsonaro-debe-alguna-cosa-cb20",
+  "fecha": "2026-10-28T06:21:18-05:00",
+  "palabras": "Flávio Bolsonaro, Lula Da Silva, Brasil",
+  "lead": "\"Lamento que haya salido de Brasil. Podría haberse quedado para probar que las acusaciones no son verdaderas\", dijo Lula sobre su rival derrotado en las elecciones del domingo, durante el festejo de sus 81 años, en su residencia en Brasilia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Trump dice que Venezuela debería ser un estado de EEUU y tener gobernador, no presidente",
+  "enlace": "https://www.bluradio.com/mundo/trump-dice-que-venezuela-deberia-ser-un-estado-de-eeuu-y-tener-gobernador-no-presidente-cb20",
+  "fecha": "2026-10-28T06:42:02-05:00",
+  "palabras": "Donald Trump, Estados Unidos, Venezuela",
+  "lead": "Durante su discurso, Trump agradeció al Gobierno de Venezuela la firma del acuerdo que otorga a la empresa North American Blue Energy Partners (NABEP) concesiones sobre 17 yacimientos petroleros del país.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lanzan granada contra la cárcel de Mujeres de Bucaramanga; investigan atentado",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/lanzan-granada-contra-la-carcel-de-mujeres-de-bucaramanga-investigan-atentado-rg10",
+  "fecha": "2026-10-28T06:40:53-05:00",
+  "palabras": "Blu Radio, Noticias de hoy, Inpec, Santander, Bucaramanga, Cárcel Modelo de Bucaramanga, Inseguridad, Bandas criminales, Bucaramanga",
+  "lead": "El artefacto explosivo detonó cerca de la garita 7 del centro penitenciario. Un funcionario del Inpec advirtió que las amenazas contra el personal carcelario han escalado en Santander.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan detalles del trágico choque de trenes en España: sería por un \"error humano\"",
+  "enlace": "https://www.bluradio.com/mundo/revelan-detalles-del-tragico-choque-de-trenes-en-espana-seria-por-un-error-humano-so35",
+  "fecha": "2026-10-28T06:52:36-05:00",
+  "palabras": "España, Accidente de tránsito",
+  "lead": "Las primeras hipótesis apuntan a una posible equivocación en el centro de control tras una avería del sistema automatizado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Accidente de trenes en Toledo: vecinos se movilizan para ayudar a los afectados con comida y refugio",
+  "enlace": "https://caracol.com.co/2026/10/28/accidente-de-trenes-en-toledo-vecinos-se-movilizan-para-ayudar-a-los-afectados-con-comida-y-refugio/",
+  "fecha": "2026-10-28T06:39:25-05:00",
+  "palabras": "",
+  "lead": "Llegan los primeros heridos leves a Urda y se moviliza asistencia médica desde Toledo, Ciudad Real, Madrid y Alcázar de San Juan.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Agredieron a un agente de tránsito cuando imponía un comparendo en  Itagüí",
+  "enlace": "https://caracol.com.co/2026/10/28/agredieron-a-un-agente-de-transito-cuando-imponia-un-comparendo-en-itagui/",
+  "fecha": "2026-10-28T06:50:45-05:00",
+  "palabras": "",
+  "lead": "El funcionario permanece bajo observación médica tras un posible trauma craneoencefálico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta temprana por inminencia de “guerra” entre ELN y disidencias Farc en Dagua, Valle del Cauca",
+  "enlace": "https://caracol.com.co/2026/10/28/alerta-temprana-de-inminencia-por-guerra-entre-eln-y-disidencia-farc-en-dagua-valle/",
+  "fecha": "2026-10-28T06:36:16-05:00",
+  "palabras": "",
+  "lead": "Según la Defensoría, la confrontación pone en riesgo a más de 60 mil habitantes de 17 corregimientos rurales, con amenazas de homicidios, desplazamientos y reclutamiento de menores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seis municipios de Boyacá se benefician con proyecto de la CAR que transformó buchón de agua",
+  "enlace": "https://caracol.com.co/2026/10/28/seis-municipios-de-boyaca-se-benefician-con-proyecto-de-la-car-que-transformo-buchon-de-agua/",
+  "fecha": "2026-10-28T06:35:50-05:00",
+  "palabras": "",
+  "lead": "La CAR entregó 4.000 toneladas de fertilizante orgánico producido a partir del buchón de agua de la laguna de Fúquene.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos son los proyectos que busca Santander priorizar ante el Ministerio de Transporte",
+  "enlace": "https://caracol.com.co/2026/10/28/estos-son-los-proyectos-que-busca-santander-priorizar-ante-el-ministerio-de-transporte/",
+  "fecha": "2026-10-28T06:28:44-05:00",
+  "palabras": "",
+  "lead": "La ministra Elsa Noguera estará este viernes en Bucaramanga.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Angie Rodríguez entregará pruebas de red de contratos sexuales",
+  "enlace": "https://www.lafm.com.co/politica/angie-rodriguez-entregara-pruebas-de-red-de-contratos-sexuales-petro-415396",
+  "fecha": "2026-10-28T06:46:00-05:00",
+  "palabras": "Política,Gustavo Petro,Fiscalía General de la Nación,Laura Sarabia,Colombia,Funcionarios denunciados",
+  "lead": "El mandatario enfrenta una nueva polémica tras salir de la Casa de Nariño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Kbeto Zuleta llegó a Barranquilla y permanece en UCI",
+  "enlace": "https://www.lafm.com.co/actualidad/kbeto-zuleta-traslado-barranquilla-hospital-cesar-avion-ambulancia-supervision-medica-415391",
+  "fecha": "2026-10-28T06:23:00-05:00",
+  "palabras": "Actualidad,Poncho Zuleta,Accidente,Siniestro vial,Barranquilla,Valledupar",
+  "lead": "La salud de Kbeto Zuleta mantiene en vilo al mundo vallenato: permanece en cuidados intensivos ahora en Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano | miércoles 28 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-miercoles-28-de-octubre-2026-415272",
+  "fecha": "2026-10-28T06:21:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este miércoles en La FM.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Santa Fe vs. Corinthians: ¿Cuándo y cómo ver el partido?",
+  "enlace": "https://www.lafm.com.co/deportes/copa-libertadores-fenemina-santa-fe-vs-corinthians-cuando-ver-el-partido-415389",
+  "fecha": "2026-10-28T06:08:00-05:00",
+  "palabras": "Deportes,Copa Libertadores,Independiente Santa Fe,Corinthians,Independiente Santa Fe Femenino,Colombia,Brasil,Fútbol femenino,Fútbol",
+  "lead": "'Las leonas' podrían jugar una final internacional, pero tendrán un reto complejo.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
