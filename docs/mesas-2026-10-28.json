@@ -111,6 +111,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Los trenes de Renfe involucrados en el accidente iban a 266 km/h, habiendo sido reducida su velocidad desde los 300 km/h.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:26",
+   "quien": "Juan (presidente de la República)",
+   "que": "Anunció una madrugada de operaciones militares y de seguridad con dos anuncios: la autorización de un bombardeo calificado como muy importante y estratégico contra la criminalidad, y la finalización de la operación Bosur Crato en Bogotá.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:26",
+   "quien": "Alex Alvarado",
+   "que": "El presidente Gustavo Petro viajó a la estrella acompañando a la Policía Metropolitana de Bogotá en una megatoma y dio la orden al ministro de Defensa, general en retiro Iván Velásquez, para que ejecutaran las fuerzas militares este bombardeo, tratándose de la sexta operación de alta precisión ordenada por el jefe de Estado desde su llegada a la casa de Nariño contra el ELN y disidencias de alias Iván Mordisco.",
+   "resaltar": false
   }
  ],
  "avisos": [
