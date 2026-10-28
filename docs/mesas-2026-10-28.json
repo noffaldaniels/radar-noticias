@@ -496,6 +496,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Se debaten las estrategias de seguridad en el país y la colaboración entre los gobiernos locales y nacional, aunque se señala que la capacidad de judicialización sigue siendo baja.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:08",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La justicia de Estados Unidos ha archivado el caso contra Corficolombiana tras cumplirse el acuerdo de 2023. El grupo informó que un tribunal ordenó el archivo definitivo de la acusación.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:09",
+   "quien": "David Cubides, economista jefe del Banco de Occidente",
+   "que": "Las tasas de interés ya se están sintiendo por los empresarios y se ubican por encima del 12%.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:14",
+   "quien": "David Cubides, economista jefe del Banco de Occidente",
+   "que": "El PIB ha venido creciendo en buena medida impulsado por gasto de gobierno y consumo de los hogares.",
+   "resaltar": false
   }
  ],
  "avisos": [
