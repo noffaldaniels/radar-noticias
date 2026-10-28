@@ -349,6 +349,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Se discute la reforma tributaria y la dificultad de aprobar nuevos impuestos o ajustes en el Congreso.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:27",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Un juez de Medellín admitió una denuncia contra el exalcalde Daniel Quintero por presunto soborno en actuación penal y tráfico de influencias, relacionada con la campaña de Federico Gutiérrez.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:27",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "A 79 días del terremoto, la mayoría de los damnificados en Dosquebradas y Risaralda siguen sin recibir ayuda del gobierno nacional; en dos municipios hay 8.100 familias afectadas y solo se han prometido 300 subsidios.",
+   "resaltar": false
   }
  ],
  "avisos": [
