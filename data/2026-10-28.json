@@ -7,7 +7,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería de la Cruz Roja, Resultado de loterías de hoy",
   "lead": "La Lotería de la Cruz Roja juega este martes por un premio mayor de $10.000 millones. Consulte los resultados completos del sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Lotería del Huila, Resultado de loterías de hoy",
   "lead": "La Lotería del Huila realiza este martes un nuevo sorteo por un premio mayor de $2.000 millones. Consulte los resultados completos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Jaime Esteban Moreno, Homicidios",
   "lead": "El padre aseguró que la condena de 37 años de prisión contra los responsables del asesinato de su hijo representa una respuesta institucional, pero consideró que no es realmente suficiente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Barranquilla, Vallenato, Atlántico",
   "lead": "El desplazamiento del cantante se coordinó mediante un avión ambulancia, que partió en la tarde de este martes desde el aeropuerto Alfonso López Pumarejo de Valledupar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Juanes, Chile",
   "lead": "El artista abrió su presentación con “Me enamora” y continuó con clásicos como “La paga”, “Mala gente” y “Volverte a ver”.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "",
   "lead": "El cantante reconoce que durante buena parte de su carrera exploró tendencias musicales para encontrar su identidad artística.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Reforma pensional, Cámara de Representantes, debate camara reforma pensional, pensiones, reforma pensional",
   "lead": "En la plenaria para subsanar los vicios de trámite hubo unanimidad en la votación. Solo en un artículo hubo un voto por el sí.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "El cantante trabaja para consolidar su proyecto en Bogotá mediante actividades promocionales, visitas a colegios y presentaciones en discotecas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Boyacá, Boyacá Chicó",
   "lead": "El cuadro ajedrezado regresa al Torneo BetPlay tras un 2026 muy irregular que lo regresa a segunda. El equipo de Boyacá estuvo solo un año en primera.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "MiLoto, Resultado MiLoto",
   "lead": "El sorteo número 631 de MiLoto dejó miles de ganadores en todo el país. Revise aquí la combinación ganadora y cómo quedó el nuevo acumulado millonario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Iván Cepeda, Ministerio de Agricultura, Congreso de la República",
   "lead": "Mientras Cepeda lanzó fuertes acusaciones contra el presidente Abelardo De La Espriella, Dangond aseguró que, si pudiera otorgar un subsidio, al primero que se lo daría es a Cepeda, “para ver si hace algo productivo en su vida”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Ecuador",
   "lead": "Tras la detención, se iniciaron las coordinaciones respectivas para \"continuar con el procedimiento de extradición pasiva\" solicitado por Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Benjamin Netanyahu, Donald Trump",
   "lead": "Con cerca del 42 % de los votos escrutados, el Likud de Netanyahu se sitúa en primer lugar con el 21,7 % de los sufragios, seguido de Yashar! de Gadi Eisenkot (15,7 %).",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Terremoto hoy, Filipinas",
   "lead": "Ambos sismos alcanzaron una intensidad de cuatro, calificada de \"moderadamente fuerte\" en la escala de diez niveles del Phivolcs, en el municipio de Sarangan.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "Flávio Bolsonaro, Brasil, Estados Unidos",
   "lead": "El hijo del expresidente Jair Bolsonaro no reconoció su derrota electoral tras el balotaje del domingo contra el presidente izquierdista Luiz Inácio Lula da Silva. Tenía orden judicial de no salir de su país por una investigacion por lavado de dinero.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "España",
   "lead": "Un alcance entre un tren de Iryo y otro de Renfe en Urda, Toledo, obligó a desplegar helicópteros y UVI móviles y suspendió la línea Madrid-Andalucía.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "Policía Nacional, Inseguridad en Bogotá, Abelardo De La Espriella",
   "lead": "El mandatario permaneció en la central de la Policía Metropolitana dirigiendo las acciones en tiempo real, y se espera que en las próximas horas dé a conocer el balance e informe oficial de los resultados de las intervenciones realizadas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "España, Europa, Accidente de tránsito",
   "lead": "Las imágenes del trágico accidente son impresionantes y ya empiezan a circular en redes sociales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Marihuana, Cimitarra, Santander, Policía Nacional, Blu Radio, Noticias de hoy, Blu Radio, Santander",
   "lead": "Un hombre de 26 años fue capturado en flagrancia cuando se movilizaba en un vehículo particular por la vía nacional. Un juez le impuso medida de aseguramiento en centro carcelario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Accidente de tránsito, Cota",
   "lead": "Una motociclista murió en La Conejera, Bogotá, tras ser golpeada por un camión cuando se dirigía hacia Cota. Las autoridades buscan al responsable.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Capacitan a manipuladoras de alimentos en técnicas culinarias para mejorar el sabor, la textura y la presentación de los menús escolares en Boyacá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "El empresario y dirigente político Fuad Char, se refirió al panorama electoral de cara a las elecciones regionales de 2027 y anticipó que su sector buscará fortalecer su representación política en el Atlántico y el resto del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "Medida cautelar prohíbe flexibilizar la protección ambiental de estos ecosistemas estratégicos mientras se toma una decisión definitiva dentro de la acción popular.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "Dos trenes de alta velocidad, uno de Renfe y otro de Iryo, colisionaron este miércoles a la altura de la estación de Urda, Toledo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "El excandidato de Fuerza Ciudadana, salió rumbo a Barranquilla para asistir a una reunión y desde entonces se desconoce su paradero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "El hombre tendría más de 15 años en la organización criminal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Colectivos de mujeres piden reforzar la seguridad dentro y fuera de los campus universitarios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Barrios Santa Fe y San Bernardo fueron intervenidos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "La directora de la ANT, Lina María Garrido, también anunció la titulación de 18 entidades públicas, en su mayoría escuelas rurales, para mejorar las condiciones de aprendizaje para los niños araucanos y se comprometió a buscar una solución para cerca de 300 indígenas desplazados que viven en condiciones precarias en Arauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "La colaboración, que será lanzada el 5 de noviembre, contempla una colección inspirada en la identidad del futbolista, con la que la marca caleña busca ampliar su alcance.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "El senador, derrotado en las elecciones de Brasil, estaría huyendo hacia Estados Unidos. Aunque diferentes versiones confirmaban que ya había llegado al país norteamericano, la nueva información indica que habría salido del país hasta la noche del martes 27 de octubre.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "El ciudadano de Estonia, requerido por Colombia por delitos relacionados con tráfico de drogas, será extradito por las autoridades ecuatorianas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "El debate está citado para el próximo 4 de noviembre en el legislativo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "El senador Ariel Ávila, de la Alianza Verde, radicó una solicitud de pérdida de investidura contra Gómez por presunta violación del régimen de conflicto de intereses. Según Ávila, el congresista presentó proposiciones al Presupuesto General de 2027, que fueron aprobadas, pese a estar impedido por ser hermano del ministro de Hacienda.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "El representante David Cote, denunció a los magistrados de la por presunto prevaricato por acción.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "El congresista del Pacto Histórico anunció acciones penales contra el jefe de la cartera y el presidente Abelardo de la Espriella. Por su parte, Dangond habló de un “fracaso” en la ejecución de la reforma agraria.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "El inicio de la jornada 5, que no se pudo jugar en agosto, dejó del descenso de Chicó y la ratificación de la eliminación del Junior.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "Resta por conocerse al otro equipo que perderá la categoría de cara al próximo año.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "Jhonier Alomía y Jesús Rivas marcaron los goles de un resultado que dejó consecuencias para ambos clubes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "Alo hicieron mediante una carta firmada por Intergremial y Fenalco Antioquia y enviada al gobernador Andrés Julián Rnedón.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "La plenaria de la Cámara de Representantes retomará este miércoles la votación de siete proposiciones pendientes, luego de que la Corte Constitucional ordenara corregir irregularidades en el trámite de la reforma pensional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "Los procedimientos se adelantaron cuando las unidades de atención policial realizaban controles",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "La ministra Ana María Vesga pidió la intervención de la Contraloría y la Procuraduría tras advertir que, al finalizar el Gobierno Petro, se asignaron $885.000 millones para infraestructura y equipos básicos de salud. Según denunció, $403.000 millones no tenían registro presupuestal al ser aprobados.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Orden Público,Fuerzas Militares,Abelardo de la Espriella,Ejército Nacional,Fuerza Aérea Colombiana,Policía Nacional,Grupos Armados Organizados",
   "lead": "Sobre la medianoche, el jefe de Estado le dio la orden al ministro de Defensa, general (r) Jorge Mora de ejecutar la operación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Internacional,Accidente,España,Tren",
   "lead": "El accidente motivó la suspensión de la ruta ferroviaria entre Madrid y Andalucía.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -533,6 +533,83 @@
   "enlace": "https://www.lafm.com.co/actualidad/presidente-dirige-megaoperativo-contra-el-crimen-en-bogota-415384",
   "fecha": "2026-10-28T03:02:00-05:00",
   "palabras": "Actualidad,Bogotá",
+  "lead": "Las autoridades despliegan acciones simultáneas para combatir el delito, reforzar la seguridad ciudadana y recuperar el control de los sectores afectados p...",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Deslizamiento dejó ocho viviendas afectadas en Bello, Antioquia; hay dos personas heridas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/deslizamiento-dejo-ocho-viviendas-afectadas-en-bello-antioquia-hay-dos-personas-heridas-rg10",
+  "fecha": "2026-10-28T06:12:13-05:00",
+  "palabras": "Antioquia, Valle de Aburrá, Bello, Deslizamiento",
+  "lead": "La Alcaldía de Bello declaró la urgencia manifiesta y la calamidad pública para atender la situación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El robo de servicios públicos en Antioquia le ha generado pérdidas a EPM por más de $1,2 billones",
+  "enlace": "https://caracol.com.co/2026/10/28/el-robo-de-servicios-publicos-en-antioquia-le-ha-generado-perdidas-a-epm-por-mas-de-12-billones/",
+  "fecha": "2026-10-28T06:14:18-05:00",
+  "palabras": "",
+  "lead": "Las autoridades recordaron que la defraudación de fluidos está tipificada como actividad delictiva en el Código Penal colombiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boyacá refuerza vigilancia en zonas fronterizas tras amenazas de las Farc en Casanare",
+  "enlace": "https://caracol.com.co/2026/10/28/boyaca-refuerza-vigilancia-en-zonas-fronterizas-tras-amenazas-de-las-farc-en-casanare/",
+  "fecha": "2026-10-28T06:10:27-05:00",
+  "palabras": "",
+  "lead": "Autoridades mantienen comunicación permanente con la Fuerza Pública para monitorear posibles amenazas en las provincias fronterizas de Boyacá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Jagua celebrará el Festival de Brujas con artesanías, comparsas, gastronomía y obras de teatro",
+  "enlace": "https://caracol.com.co/2026/10/28/la-jagua-celebrara-el-festival-de-brujas-con-artesanias-comparsas-gastronomia-y-obras-de-teatro/",
+  "fecha": "2026-10-28T06:08:17-05:00",
+  "palabras": "",
+  "lead": "La edición 26 del Festival de Brujas reunirá cultura y tradición del 30 de octubre al 2 de noviembre en La Jagua.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Buscan a alias ‘David’ por atentado con explosivos en la frontera de Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/28/buscan-a-alias-davidpor-atentado-con-explosivos-en-la-frontera-de-cucuta/",
+  "fecha": "2026-10-28T06:06:36-05:00",
+  "palabras": "",
+  "lead": "El presunto cabecilla del ELN estaría relacionado con otros ataques en Norte de Santander.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por alteración de orden público fue suspendida la caravana de Halloween 2026 en Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/28/por-alteracion-de-orden-publico-fue-suspendida-la-caravana-de-halloween-2026-en-cucuta/",
+  "fecha": "2026-10-28T06:02:21-05:00",
+  "palabras": "",
+  "lead": "La decisión se tomó tras el atentado con explosivos en el barrio Nuevo Escobal y el homicidio del exsecretario de Gobierno, Miguel Castellanos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente De La Espriella lidera operativos en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/presidente-dirige-megaoperativo-contra-el-crimen-en-bogota-415384",
+  "fecha": "2026-10-28T03:02:00-05:00",
+  "palabras": "Orden Público,Bogotá,Mega operativo,Policía Nacional,Abelardo de la Espriella,Carlos Fernando Galán",
   "lead": "Las autoridades despliegan acciones simultáneas para combatir el delito, reforzar la seguridad ciudadana y recuperar el control de los sectores afectados p...",
   "seccion": "politica",
   "nueva": true,
