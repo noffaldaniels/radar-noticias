@@ -4319,7 +4319,7 @@
   "palabras": "Ropa, Fuerzas Militares",
   "lead": "La firma especializada en seguridad personal que ha protegido a 51 mandatarios globales proyecta ventas por $150.000 millones de pesos y fortalece su infraestructura industrial con tecnología de punta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4330,7 +4330,7 @@
   "palabras": "Noticias de hoy, Alcaldía de Medellín, Federico Gutiérrez",
   "lead": "La mayoría de ellos fueron requeridos durante recientes megaoperativos encabezados por el presidente Abelardo de la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4341,7 +4341,7 @@
   "palabras": "Viral, Redes sociales, Indonesia, Menores de edad",
   "lead": "Las grabaciones de seguridad destaparon una situación que conmocionó a los padres de familia. La explicación de las trabajadoras y el estado de los pequeños agravaron la indignación.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4352,7 +4352,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Barrancabermeja, Inseguridad",
   "lead": "La Policía adelanta las investigaciones para identificar y ubicar a los responsables de este intento de hurto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4363,7 +4363,7 @@
   "palabras": "ONU, Cuba",
   "lead": "La Asamblea General de la ONU aprobó una resolución contra el embargo de EE. UU. a Cuba, con menos apoyos que en 2025 y sin el respaldo de Colombia, Ecuador y Costa Rica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4374,7 +4374,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4385,7 +4385,7 @@
   "palabras": "JEP, Congreso de la República",
   "lead": "La iniciativa recibió tres modificaciones impulsadas por la senadora María Clara Posada, del Centro Democrático. Los procesos que sigan pendientes al cierre de la Jurisdicción serían trasladados a la justicia ordinaria.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4396,7 +4396,7 @@
   "palabras": "Santander, Páramo de Santurbán, Minería Ilegal, Blu Radio, Noticias de hoy",
   "lead": "La operación se realizó en California y Suratá, Santander. Según el Ejército, las economías ilícitas afectadas generarían más de $1.200 millones mensuales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4407,7 +4407,7 @@
   "palabras": "Noticias de hoy, EPM, Medellín, Racionamiento de agua",
   "lead": "De acuerdo con el reporte de EPM, el sistema Piedras Blancas alcanzó un ahorro promedio de 46 litros diarios por hogar, frente a una meta de 92 litros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4418,7 +4418,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Super Astro Sol",
   "lead": "El sorteo del Super Astro Sol se realiza de lunes a sábado a las 4:00 p. m. Este miércoles 28 de octubre de 2026, los jugadores pueden consultar el número ganador, las cifras premiadas y el signo zodiacal correspondiente, así como revisar las condiciones para participar y reclamar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4429,7 +4429,7 @@
   "palabras": "Lamine Yamal, Balón de oro, Barcelona, Lamine Yamal, Mounir Nasraoui, padre de Lamine Yamal, publicación Mounir Nasraoui",
   "lead": "El hombre realizó una publicación en redes sociales que llamó la atención de los seguidores de la estrella del Barcelona.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4440,7 +4440,7 @@
   "palabras": "Congreso de la República, Reforma pensional",
   "lead": "La decisión tomada en el debate de plenaria de la Cámara de Representantes contó con gran mayoría de respaldo de los congresistas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4451,7 +4451,7 @@
   "palabras": "Nicolás Maduro, Estados Unidos, Venezuela, Juez Maduro, Maduro, Nicolás Maduro",
   "lead": "Este miércoles falleció el juez a sus 92 años; llevaba el caso del expresidente de Venezuela y su esposa, Cilia Flores.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4462,7 +4462,7 @@
   "palabras": "",
   "lead": "Los señalados estarían vinculados con labores de inteligencia para identificar comerciantes y posibles víctimas de extorsión en tres municipios del Huila.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "",
   "lead": "La jornada fue desarrollada por uniformados de la Seccional de Tránsito y Transporte",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "",
   "lead": "Conozca al detalle cada una de las seis maneras que puede implementar para dejar su cocina libre de grasa luego de usarla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "",
   "lead": "También se trabaja en la reapertura de servicios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "",
   "lead": "Según las fuerzas militares, esta actividad era ilegal y generaba recursos para el Clan del Golfo en esa subregión de Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "",
   "lead": "El allanamiento fue en la vereda Las Palomas, jurisdicción del municipio de Barranco de Loba",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "",
   "lead": "El senador defendió ejercer oposición política desde el extranjero asegurando que otros líderes, citando a Juan Guaidó y Edmundo González, también lo han hecho.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "",
   "lead": "El plan de infraestructura incluye la renovación de cinco kilómetros de vías, obras en el río Monquirá y la construcción de un edificio administrativo. La Alcaldía reconoce afectaciones en la movilidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "",
   "lead": "La cadena hotelera avanza en la transformación de sus alojamientos en cuatro destinos turísticos, con nuevas habitaciones y suites para mejorar la experiencia de los viajeros",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "",
   "lead": "La decisión judicial se relaciona con hechos registrados el 20 de enero de 2020 en un establecimiento público",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "",
   "lead": "Ministerio de Transporte y mandatarios locales definen la ruta jurídica para asegurar el presupuesto vial antes del vencimiento de la concesión.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "",
   "lead": "El entrenador rompió el silencio luego de su salida del equipo de Manizales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "",
   "lead": "El Bloque Operacional de Seguridad Urbana y Defensa anunciado por el presidente Abelardo De la Espriella busca coordinar a la Policía, la inteligencia y la Fiscalía para identificar estructuras criminales, realizar allanamientos y avanzar en capturas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "",
   "lead": "El encuentro “Guardianas de la Vida” reunió a 400 mujeres de 85 cuerpos de bomberos y reconoció su liderazgo, vocación de servicio y compromiso con la protección de las comunidades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "",
   "lead": "El volante anunció recientemente que se retirará en mayo del 2027 con la camiseta del Portland Timbers, club para el que ha jugado más de 500 partidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "",
   "lead": "La estrategia irá del 1 de noviembre al 8 de diciembre. Además, el 8 de noviembre se realizará un mercado campesino con productos de cuatro municipios de la provincia de La Libertad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "",
   "lead": "El evento se efectuará con motivo de los 100 años de la Federación Nacional de Cafeteros en el 2027",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "Orden Público,Ricardo Leyva,Fiscalía General de la Nación,Violencia de género,violencia intrafamiliar,Amenazas",
   "lead": "El empresario de conciertos es investigado por la Fiscalía por presunta violencia intrafamiliar y amenazas contra su exesposa, quien cuenta con medidas de ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "Actualidad,Lluvias,La Guajira,Inundaciones,Salud",
   "lead": "El deterioro del hospital de Manaure, La Guajira quedó en evidencia tras las fuertes lluvias que seguirán.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "Economía,Emisión de carbono,Minería,Ministerio de Minas y Energía,Inversiones",
   "lead": "El Gobierno busca atraer US$1.000 millones en inversión minera en 2026 y prepara incentivos tributarios y reglas estables para nuevos proyectos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "Actualidad,Valle del Cauca,Buenaventura,Unidad de Búsqueda de Personas Desaparecidas,desaparecido,Policía Nacional,Liberación",
   "lead": "Nelson Campaz señaló que el 11 de octubre su hijo salió de su vivienda para ir a una tienda ubicada a solo cuatro casas de distancia y desapareció.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "Sociedad,Trasnmilenio,Transporte público,RTVC",
   "lead": "En el marco de la celebración de los 22 años y el relanzamiento del medio de comunicación RTVC.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,6 +4704,380 @@
   "palabras": "Sociedad,aerolineas,Aviones,Avianca,Air Canada,Colombia,Viajar en avión,Viajes al extranjero,viaje,Latam",
   "lead": "Los viajeros tendrán nuevas alternativas para enlazar con ciudades de Canadá, Venezuela, Europa y Medio Oriente, además de ocho destinos nacionales desde B...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche: resultado del sorteo hoy miércoles 28 de septiembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-sorteo-hoy-miercoles-28-de-septiembre-de-2026-so35",
+  "fecha": "2026-10-28T17:12:00-05:00",
+  "palabras": "Paisita Noche, Resultados del chanche, Chances y Loterías",
+  "lead": "El Paisita Noche juega todos los días y cuenta con diferentes modalidades de apuesta. Los participantes pueden consultar el número ganador de este miércoles 28 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comenzó entrega de subsidios a 1.000 adultos mayores en Medellín: esto opinaron",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/comenzo-entrega-de-subsidios-a-1-000-adultos-mayores-en-medellin-esto-opinaron-rg10",
+  "fecha": "2026-10-28T17:00:57-05:00",
+  "palabras": "Prosperidad Social, Colombia Mayor, Noticias de hoy, Antioquia",
+  "lead": "Aunque las transferencias representan un apoyo fundamental para miles de beneficiarios en la ciudad, aunque tambien señalan que el monto sigue siendo insuficiente ante el costo de vida.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan cuál fue la posible causa del choque de trenes que deja más de 60 muertos en España",
+  "enlace": "https://www.bluradio.com/mundo/revelan-cual-fue-la-posible-causa-del-choque-de-trenes-que-deja-mas-de-60-muertos-en-espana-rs15",
+  "fecha": "2026-10-28T16:57:33-05:00",
+  "palabras": "España, Accidente de tránsito",
+  "lead": "Las primeras hipótesis apuntan a una falla en el sistema de señalización y a decisiones tomadas desde el centro de control ferroviario. Las autoridades investigan lo ocurrido.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "ISA reforma sus estatutos y elige nueva Junta Directiva para el periodo 2026-2028",
+  "enlace": "https://www.bluradio.com/nacion/isa-reforma-sus-estatutos-y-elige-nueva-junta-directiva-para-el-periodo-2026-2028-rg10",
+  "fecha": "2026-10-28T16:21:59-05:00",
+  "palabras": "ISA",
+  "lead": "Las decisiones de la Asamblea General Extraordinaria de Accionistas de Interconexión Eléctrica fueron adoptadas en una reunión no presencial con Ecopetrol como accionista mayoritario.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Red PaPaz hace llamado a moderar el consumo de dulces ultraprocesados durante Halloween",
+  "enlace": "https://www.bluradio.com/sociedad/red-papaz-hace-llamado-a-moderar-el-consumo-de-dulces-ultraprocesados-durante-halloween-rg10",
+  "fecha": "2026-10-28T16:26:33-05:00",
+  "palabras": "Halloween, Menores de edad, Halloween, dulces 31 de octubre, dulces Halloween",
+  "lead": "La organización recomienda priorizar los juegos, los disfraces y las preparaciones caseras durante esta celebración. También invita a las familias a revisar los dulces que reciben los menores y a estar alerta frente a la publicidad de comida chatarra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tres hombres fueron capturados en el barrio Alhambra en Bogotá tras intentar huir con licor robado",
+  "enlace": "https://www.bluradio.com/regiones/bogota/tres-hombres-fueron-capturados-en-el-barrio-alhambra-en-bogota-tras-intentar-huir-con-licor-robado-rg10",
+  "fecha": "2026-10-28T16:26:39-05:00",
+  "palabras": "Robos",
+  "lead": "Los capturados intentaron escapar después de hurtar botellas avaluadas en más de un millón de pesos en un local del barrio Alhambra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cali le apuesta a la música y los grandes eventos para reactivar su economía tras el terremoto",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/cali-le-apuesta-a-la-musica-y-los-grandes-eventos-para-reactivar-su-economia-tras-el-terremoto-rg10",
+  "fecha": "2026-10-28T16:36:57-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "El proyecto, que ya entró en operación, espera atraer 126 eventos al año a la ciudad y generar una derrama económica de $875.000 millones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "SIC pone la lupa sobre nueve generadoras térmicas ante los riesgos por el fenómeno de El Niño",
+  "enlace": "https://www.bluradio.com/nacion/sic-pone-la-lupa-sobre-nueve-generadoras-termicas-ante-los-riesgos-por-el-fenomeno-de-el-nino-rg10",
+  "fecha": "2026-10-28T16:37:25-05:00",
+  "palabras": "Fenómeno de El Niño, Superintendencia de Industria y Comercio, Energía eléctrica",
+  "lead": "La entidad busca verificar el cumplimiento de las normas de competencia en la generación y entrega de energía eléctrica, ante posibles incumplimientos durante el fenómeno de El Niño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Defensoría pide a la Corte priorizar investigación contra Petro por escándalo de “sexocontratos”",
+  "enlace": "https://www.bluradio.com/judicial/defensoria-pide-a-la-corte-priorizar-investigacion-contra-petro-por-escandalo-de-sexocontratos-rg10",
+  "fecha": "2026-10-28T16:37:21-05:00",
+  "palabras": "Gustavo Petro, Defensoría del Pueblo",
+  "lead": "La defensora del Pueblo también envió la solicitud a la Procuraduría y la Comisión de Acusaciones para que adopten medidas para garantizar la protección de la denunciante y los testigos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Llaneros denuncia persecución arbitral: 28 de octubre 2026 - Blog Deportivo programa completo",
+  "enlace": "https://www.bluradio.com/blog-deportivo/llaneros-denuncia-persecucion-arbitral-28-de-octubre-2026-blog-deportivo-programa-completo-pr30",
+  "fecha": "2026-10-28T17:15:59-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este miércoles.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caso de Los Pachencas: imputan a exjuez José Antonio Sastoque por prevaricato",
+  "enlace": "https://www.bluradio.com/judicial/imputan-a-exjuez-jose-antonio-sastoque-por-presunto-prevaricato-en-caso-de-los-pachencas-rg10",
+  "fecha": "2026-10-28T16:56:19-05:00",
+  "palabras": "Pachencas, jose antonio sastoque, los Pachencas",
+  "lead": "La imputación se fundamenta en que presuntamente omitió cumplir un acto propio de sus funciones y profirió decisiones que, de acuerdo con el ente acusador, desconocieron las normas de competencia judicial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comisión fronteriza pide a Cancillería aclarar los acuerdos de seguridad entre Colombia y Venezuela",
+  "enlace": "https://www.bluradio.com/nacion/comision-fronteriza-pide-a-cancilleria-aclarar-los-acuerdos-de-seguridad-entre-colombia-y-venezuela-rg10",
+  "fecha": "2026-10-28T17:09:44-05:00",
+  "palabras": "Venezuela, Cancillería",
+  "lead": "La Comisión Accidental de Asuntos Fronterizos anunció que solicitará un informe detallado sobre las relaciones diplomáticas y consulares entre ambos países. La iniciativa busca conocer los acuerdos vigentes en seguridad, defensa y cooperación económica.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "De La Espriella anunció la necesidad de implementar “un control militar” en Usme y el Sumapaz",
+  "enlace": "https://caracol.com.co/2026/10/28/de-la-espriella-anuncio-la-necesidad-de-aplicar-un-control-militar-en-usme-y-el-sumapaz/",
+  "fecha": "2026-10-28T17:07:18-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo De La Espriella lideró un consejo de seguridad este miércoles en Bogotá, después del operativo que realizaron en los barrios del centro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gaula alerta por tercerización de delitos de grupos como el Clan del Golfo en ciudades como Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/28/gaula-alerta-por-tercerizacion-de-delitos-de-grupos-como-el-clan-del-golfo-en-ciudades-como-bogota/",
+  "fecha": "2026-10-28T17:13:08-05:00",
+  "palabras": "",
+  "lead": "Las autoridades también han identificado el uso del sicariato para disputar espacios territoriales destinados a la distribución de sustancias psicoactivas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Colombia: la venta de carros eléctricos incrementa en el país",
+  "enlace": "https://caracol.com.co/2026/10/28/en-colombia-la-venta-de-carros-electricos-incrementa-en-el-pais/",
+  "fecha": "2026-10-28T17:12:26-05:00",
+  "palabras": "",
+  "lead": "Por cada un electrocargador hay 148 carros eléctricos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así es el libro sobre la vida de Malcolm Deas, el historiador inglés que se enamoró de Colombia",
+  "enlace": "https://caracol.com.co/2026/10/28/asi-es-el-libro-sobre-la-vida-de-malcolm-deas-el-historiador-ingles-que-se-enamoro-de-colombia/",
+  "fecha": "2026-10-28T17:08:18-05:00",
+  "palabras": "",
+  "lead": "En el Gimnasio Moderno en Bogotá, Diego Aretz, periodista e investigador colombiano, presentó su obra que retrata, desde una perspectiva humana inédita, la trayectoria del icónico historiador británico y su trabajo de seis décadas en el país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ISA cumple 59 años conectando a Colombia y la región",
+  "enlace": "https://caracol.com.co/2026/10/28/isa-cumple-59-anos-conectando-a-colombia-y-la-region/",
+  "fecha": "2026-10-28T17:08:05-05:00",
+  "palabras": "",
+  "lead": "Patricia Castaño, presidenta del grupo empresarial, habló sobre la trayectoria, los aportes y el futuro de la empresa, clave en el ecosistema energético colombiano.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Nueva anotación de Camilo Durán para mantener su racha goleadora con el Celtic de Escocia",
+  "enlace": "https://caracol.com.co/2026/10/28/video-nueva-anotacion-de-camilo-duran-para-mantener-su-racha-goleadora-con-el-celtic-de-escocia/",
+  "fecha": "2026-10-28T16:54:07-05:00",
+  "palabras": "",
+  "lead": "El colombiano queda como lider en solitario en la tabla de goleo de la Liga Escocesa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un juez abrió incidente de desacato contra el alcalde de Armenia por no cumplir fallo judicial",
+  "enlace": "https://caracol.com.co/2026/10/28/un-juez-abrio-incidente-de-desacato-contra-el-alcalde-de-armenia-por-no-cumplir-fallo-judicial/",
+  "fecha": "2026-10-28T16:44:57-05:00",
+  "palabras": "",
+  "lead": "La medida también cobija al director de planeación Diego Fernado Ramírez",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinTrabajo y MinCiencias alistan cambios en las inspecciones laborales con inteligencia artificial",
+  "enlace": "https://caracol.com.co/2026/10/28/mintrabajo-y-minciencias-alistan-cambios-en-las-inspecciones-laborales-con-inteligencia-artificial/",
+  "fecha": "2026-10-28T14:34:00-05:00",
+  "palabras": "",
+  "lead": "El proyectol además de incorporar inteligencia artificial y análisis de datos para fortalecer las inspecciones laborales, tendría acciones para facilitar la formalización del empleo y una hoja de ruta para identificar oportunidades laborales para mayores de 50 años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Menor de edad bolivarense fue asesinado en Soledad- Atlántico",
+  "enlace": "https://caracol.com.co/2026/10/28/menor-de-edad-bolivarense-fue-asesinado-en-soledad-atlantico/",
+  "fecha": "2026-10-28T16:20:12-05:00",
+  "palabras": "",
+  "lead": "El adolescente era natural de Hatoviejo- Bolívar",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Refuerzo militar en Dagua y otros municipios del Valle",
+  "enlace": "https://www.lafm.com.co/actualidad/ejercito-se-despliega-en-dagua-por-choque-entre-eln-y-disidencias-confirma-dilian-francisca-toro-415480",
+  "fecha": "2026-10-28T16:30:00-05:00",
+  "palabras": "Actualidad,Valle del Cauca,Buenaventura,Jamundí,Ejército Nacional,disidencias,ELN,Alerta",
+  "lead": "Anuncian refuerzo de operaciones militares en Dagua, Jamundí, Buenaventura y la Cordillera Central. La medida responde a la alerta de la Defensoría.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jabones íntimos y duchas vaginales generan infecciones",
+  "enlace": "https://www.lafm.com.co/sociedad/infeccion-urinaria-mujeres-causas-prevencion-infectologo-415484",
+  "fecha": "2026-10-28T16:28:00-05:00",
+  "palabras": "Sociedad,Salud,aseo personal,Partes íntimas",
+  "lead": "La mitad de las mujeres tendrá una infección urinaria en su vida. Según el infectólogo Hugo Páez Sardila, los jabones íntimos y la automedicación aumentan ...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Contrarreforma pensional fue radicada en el Congreso: senadores explican en qué consiste",
+  "enlace": "https://www.lafm.com.co/politica/contrarreforma-pensional-radicada-congreso-senadores-explican-en-que-consiste-415486",
+  "fecha": "2026-10-28T16:22:00-05:00",
+  "palabras": "Política,Reforma pensional,Congreso de la República,Centro Democrático,Senado de la República",
+  "lead": "El proyecto mantiene intacto el umbral de 2,3 salarios mínimos para cotizar el Colpensiones, pero le da al ciudadano la posibilidad de elegir.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SAE pide desocupar viviendas a familias damnificadas del sismo",
+  "enlace": "https://www.lafm.com.co/economia/sae-pide-desocupar-casas-a-familias-damnificadas-tras-sismo-415485",
+  "fecha": "2026-10-28T16:20:00-05:00",
+  "palabras": "Economía,Abelardo de la Espriella,Terremoto en Colombia,Alcaldía de Pereira",
+  "lead": "Cerca de 116 familias damnificadas por el terremoto del 10 de agosto en Pereira denuncian que la SAE les exige desocupar inmuebles en 20 días por presuntas...",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué impide a los bogotanos disfrutar más de la cultura?",
+  "enlace": "https://www.lafm.com.co/entretenimiento/bogotanos-practican-actividades-artisticas-y-culturales-encuesta-bienal-415483",
+  "fecha": "2026-10-28T16:13:00-05:00",
+  "palabras": "Entretenimiento,Bogotá,Cultura,Eventos presenciales,Arte,Idartes",
+  "lead": "El 13,9 % de los habitantes de Bogotá mayores de 13 años realiza actividades artísticas o creativas, frente al 11 % registrado en 2023.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Halloween impulsará el comercio en territorio antioqueño",
+  "enlace": "https://www.lafm.com.co/economia/halloween-antioquia-comercio-150000-pesos-415482",
+  "fecha": "2026-10-28T16:08:00-05:00",
+  "palabras": "Economía,Fenalco,Antioquia,Halloween,comercio",
+  "lead": "Halloween impulsará el comercio en Antioquia: el 77 % celebrará y más de la mitad gastará hasta $150.000",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dúo venezolano Chino y Nacho presentan su nuevo álbum",
+  "enlace": "https://www.lafm.com.co/entretenimiento/chino-nacho-album-radio-venezuela-fresco-volver-pais-concierto-415481",
+  "fecha": "2026-10-28T15:56:00-05:00",
+  "palabras": "Entretenimiento,música,cantantes de reguetón,Ritmos urbanos,Concierto,Artistas,Venezuela",
+  "lead": "Es un disco de 15 canciones que mezcla sonidos urbanos, tropicales y contemporáneos, con el que el dúo busca impulsar a nuevos artistas venezolanos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Flávio Bolsonaro dice que es \"el verdadero presidente\" de Brasil",
+  "enlace": "https://www.lafm.com.co/internacional/flavio-bolsonaro-presidente-brasil-desde-eeuu-415479",
+  "fecha": "2026-10-28T15:42:00-05:00",
+  "palabras": "Internacional,Brasil,Elecciones presidenciales,Lula da Silva",
+  "lead": "Bolsonaro se declaró este miércoles el \"verdadero presidente electo de Brasil\", en una carta abierta que divulgó en sus redes sociales donde explicó que tu...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Gobierno Nacional dará el aval para Tren de Cercanias?",
+  "enlace": "https://www.lafm.com.co/actualidad/gobierno-nacional-dara-luz-al-tren-de-cercanias-del-valle-415478",
+  "fecha": "2026-10-28T15:38:00-05:00",
+  "palabras": "Actualidad,Valle del Cauca,Gobernación del Valle,aeropuerto,Gobierno",
+  "lead": "Gobernación del Valle informó que esperan el aval del Gobierno Nacional para avanzar con la primera fase del proyecto del Tren de Cercanias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Solicitan reforzar la búsqueda del excandidato Luis Agudelo",
+  "enlace": "https://www.lafm.com.co/orden-publico/piden-fortalecer-busqueda-excandidato-alcaldia-santa-marta-desaparecido-415476",
+  "fecha": "2026-10-28T15:34:00-05:00",
+  "palabras": "Orden Público,desaparecido,Fiscalía General de la Nación,Barranquilla,Santa Marta",
+  "lead": "Senadora de la República, le pide a las autoridades intensificar las acciones de búsqueda del excandidato a la Alcaldía de Santa Marta.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Invima fortalecerá la farmacovigilancia en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/invima-alertas-sanitarias-salud-farmacovigilancia-colombia-inteligencia-artificial-retos-415474",
+  "fecha": "2026-10-28T15:33:00-05:00",
+  "palabras": "Sociedad,Ministerio de Salud,Invima,medidas sanitarias,Superintendencia de Salud,Banco de alimentos,Comida",
+  "lead": "La directora del Invima, Pahola Pulgarín, anunció que la entidad busca modernizar sus procesos de vigilancia mediante herramientas tecnológicas, inteligenc...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá: capturan falso policía que engañaba víctimas",
+  "enlace": "https://www.lafm.com.co/orden-publico/capturan-hombre-delinquia-falso-policia-asi-operaba-bogota-415472",
+  "fecha": "2026-10-28T15:28:00-05:00",
+  "palabras": "Orden Público,Policía Nacional,Capturados,Alcaldía de Bogotá,Carlos Fernando Galán",
+  "lead": "El hombre usaba chalecos, un brazalete de Transporte Masivo y una libreta militar para engañar a sus vitmas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Reforma pensional: Cámara subsanó trámite sin hacer cambios",
+  "enlace": "https://www.lafm.com.co/politica/camara-subsano-tramite-de-reforma-pensional-sin-cambios-corte-constitucional-415469",
+  "fecha": "2026-10-28T15:05:00-05:00",
+  "palabras": "Política,Reforma pensional,Congreso de la República,Cámara de Representantes,Corte Constitucional,Debate",
+  "lead": "La Cámara subsanó el trámite ordenado por la Corte Constitucional, sin modificar el texto, por lo que no habrá conciliación con el Senado.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
