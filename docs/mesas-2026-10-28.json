@@ -643,6 +643,13 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El alcalde mayor de Bogotá no puede ser candidato presidencial de manera inmediata.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:46",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Atribuyó el secuestro al Frente Gerónimo Galiano de las disidencias de las Farc.",
+   "resaltar": true
   }
  ],
  "avisos": [
