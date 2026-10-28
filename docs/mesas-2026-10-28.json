@@ -90,6 +90,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El Ministerio de Hacienda anunció la emisión de bonos de deuda externa por 5.200 millones de dólares para financiar el Presupuesto General de la Nación 2026.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:16",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El gobierno de Castilla-La Mancha ha anunciado que el número de fallecidos en el accidente de tren es de 30, ocurriendo nueve meses después de otro descarrilamiento en Adamuz.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:16",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "ADIF ha suspendido la circulación del corredor sur que une Andalucía y Madrid, y ha pedido a los viajeros que no acudan a las estaciones debido al accidente ferroviario.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:16",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Los trenes de Renfe involucrados en el accidente iban a 266 km/h, habiendo sido reducida su velocidad desde los 300 km/h.",
+   "resaltar": false
   }
  ],
  "avisos": [
