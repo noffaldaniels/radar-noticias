@@ -20,6 +20,27 @@
    "quien": "Coronel José Darío Rodríguez, comandante de la Quinta Brigada del Ejército",
    "que": "Informó la captura en Puerto Wilches (Santander) de seis presuntos miembros del Clan del Golfo, entre ellos alias 'Toro', dedicados a extorsionar palmicultores y amenazar a líderes sociales.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:37",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El senador Ariel Ávila radicó una demanda ante el Consejo de Estado para quitar la curul al senador Enrique Gómez por presunto conflicto de intereses, tras presentar proposiciones al presupuesto teniendo a su hermano como ministro de Hacienda.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:38",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Defensoría del Pueblo exigió una respuesta urgente tras el ataque de presuntas disidencias de las FARC entre Chaparral y Ataco, donde retuvieron a siete personas y asesinaron a dos, entre ellas una menor de 16 años. Se denunció que en solo una semana cinco personas han sido asesinadas en el sur del Tolima en medio de tensiones por minería ilegal.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:43",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Congresistas del Centro Democrático radicaron un proyecto de acto legislativo que busca inhabilitar a los alcaldes de Bogotá para aspirar a la Presidencia inmediatamente después de terminar su mandato.",
+   "resaltar": true
   }
  ],
  "avisos": []
