@@ -671,6 +671,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Se cuestiona que el Fondo Milagro maneje 30 billones de pesos para la reconstrucción de un terremoto sin que se conozca la experiencia o títulos profesionales del señor Uribe, quien manejó la campaña del presidente en Antioquia y es cercano a Fico Gutiérrez.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:57",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Gobernación del Tolima y la Universidad del Tolima invitan al Simposio Iberoamericano de Ingeniería de Pavimentos los días 4, 5 y 6 de noviembre.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:57",
+   "quien": "Cristian Amanisales, Reportero Caracol",
+   "que": "Fuertes lluvias y vendavales afectaron a más de 40 familias en Risaralda, Caldas (Tolima), dejando casas destechadas y con daños estructurales tras el reciente sismo.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:57",
+   "quien": "Mari Muñoz, Reportera Caracol",
+   "que": "La Gobernación de Córdoba anunció un paquete de apoyo por 600 millones de pesos para restablecer las condiciones de 120 familias rurales en Canalete y San Pelayo afectadas por la emergencia invernal.",
+   "resaltar": false
   }
  ],
  "avisos": [
