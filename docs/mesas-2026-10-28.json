@@ -538,6 +538,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Los casos de terrorismo en septiembre de 2025 fueron 196 y bajaron a 98 en 2026.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:14",
+   "quien": "Periodista de 6AM con Julio S&#225;nchez Cristo",
+   "que": "El exembajador israel&#237; en la ONU, Danny Danon, afirm&#243; que la percepci&#243;n general en Israel es que Netanyahu facilit&#243; la operaci&#243;n de Ham&#225;s debido a un exceso de confianza y complacencia previa.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:14",
+   "quien": "Danny Danon (Exembajador de Israel ante la ONU)",
+   "que": "Danon se&#241;al&#243; que no se puede descartar una posible acci&#243;n militar conjunta entre Israel y Estados Unidos contra Ir&#225;n despu&#233;s de las elecciones de medio t&#233;rmino en EE. UU.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:15",
+   "quien": "Danny Danon (Exembajador de Israel ante la ONU)",
+   "que": "Danon advirti&#243; que la polic&#237;a israel&#237; est&#225; apoyando el terror jud&#237;o en Cisjordania en lugar de detenerlo, calificando esta situaci&#243;n de inaceptable.",
+   "resaltar": false
   }
  ],
  "avisos": [
