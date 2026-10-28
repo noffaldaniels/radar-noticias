@@ -454,6 +454,27 @@
    "quien": "Aldair Rodríguez, Periodista de Noticias La FM con Juan Lozano",
    "que": "La estación Puerta de Atocha en Madrid se encuentra completamente cerrada tras el choque de trenes, afectando a cientos de personas que viajan hacia el sur del país.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:06",
+   "quien": "Diana Mateus (Periodista de Noticias La FM con Juan Lozano)",
+   "que": "El cabecilla del frente 33 de las FARC, alias 'El Mocho Olmedo', compareció por primera vez en la corte de Miami y se supo que su condición de gestor de paz le fue retirada por el gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:06",
+   "quien": "Juan (Periodista de Noticias La FM con Juan Lozano)",
+   "que": "La alcaldesa de Bogotá, Claudia López, declaró que el megaoperativo con más de 2.000 efectivos de la Policía, Ejército y Fiscalía dejó como resultado 190 personas capturadas y 10 estructuras criminales impactadas, entre ellas el 'Tren de Aragua'.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:06",
+   "quien": "Juan Alberto Londoño (ex viceministro de Hacienda)",
+   "que": "Sostuvo que aunque la reciente emisión de bonos demuestra que los mercados internacionales aún confían en el país, la medida no soluciona la crisis fiscal de fondo y advirtió que Colombia está en riesgo de quiebra.",
+   "resaltar": false
   }
  ],
  "avisos": [
