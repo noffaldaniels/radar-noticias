@@ -4880,7 +4880,7 @@
   "palabras": "Paisita Noche, Resultados del chance",
   "lead": "El Paisita Noche juega todos los días y cuenta con diferentes modalidades de apuesta. Los participantes pueden consultar el número ganador de este martes 27 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "Chontico Noche , Resultados del chance",
   "lead": "El Paisita Noche juega todos los días y cuenta con diferentes modalidades de apuesta. Los participantes pueden consultar el número ganador de este martes 27 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4902,7 +4902,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este martes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4913,7 +4913,7 @@
   "palabras": "Defensoría del Pueblo, Tolima, Secuestro",
   "lead": "La entidad pidió esclarecer los hechos, establecer el paradero de los posibles secuestrados y reforzar la protección de las comunidades en esta zona del país.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "Antioquia, Venecia",
   "lead": "Este municipio cuenta diferentes actividades dedicadas a la naturaleza que aumentan el interés de cientos de personas para este puente de Halloween.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "Pontificia Universidad Javeriana, Mujeres, Sistema de salud, mujeres y salud, salud, salud de las mujeres",
   "lead": "Un análisis del proyecto Mujeres por la Salud de las Mujeres, de la Universidad de Antioquia y la Pontificia Universidad Javeriana, encontró que las desigualdades en salud están relacionadas con factores como la educación, el territorio y el régimen de afiliación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4946,7 +4946,7 @@
   "palabras": "Unicef, Desnutrición infantil, Menores de edad, desnutrición, unicef",
   "lead": "En algunos territorios, las familias deben viajar hasta ocho horas para llegar a un centro de salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4957,7 +4957,7 @@
   "palabras": "ICBF",
   "lead": "La entidad busca que los nuevos acuerdos se ajusten a las normas de contratación estatal, mientras advierte sobre el riesgo de interrupción de los servicios para miles de niños y adolescentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4968,7 +4968,7 @@
   "palabras": "Metro de Bogotá, Energía eléctrica, Caribe",
   "lead": "El Ministerio de Hacienda busca destinar $750.000 millones liberados de la movilidad de Bogotá para liquidez del sector térmico en la Costa. La Secretaría de Hacienda del Distrito confirmó que los aportes totales del proyecto no se ven alterados.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4979,7 +4979,7 @@
   "palabras": "",
   "lead": "“Estados Unidos aplica sobre el valor total del producto y sin distinguir entre socios con TLC y sin él”, expresó el presidente Abelardo de la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4990,7 +4990,7 @@
   "palabras": "",
   "lead": "Conozca los detalles de lo que hubo detrás del interés por comprar al Embajador.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5001,7 +5001,7 @@
   "palabras": "",
   "lead": "Ante estos hechos, la fuerza pública desplegó operativos y operaciones militares en el departamento de Arauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5012,7 +5012,7 @@
   "palabras": "",
   "lead": "Tres establecimientos comerciales incumplieron las normas sanitarias durante operativos de inspección en el municipio. También fueron decomisados cinco litros de sabajón vencido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5023,7 +5023,7 @@
   "palabras": "Deportes,Copa Sudamericana",
   "lead": "Boca Juniors y Atlético Mineiro definirán el campeón el sábado 21 de noviembre. Los costos oscilan entre los 90 y los 250 dólares.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5034,7 +5034,7 @@
   "palabras": "Actualidad,Nequi,Fallas en sistema,Aplicaciones,Dinero,Bancos colombianos",
   "lead": "Esto es lo último que se sabe de Nequi, tras las fallas presentadas en la tarde del martes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5044,6 +5044,281 @@
   "fecha": "2026-10-27T16:59:00-05:00",
   "palabras": "Economía,Ministerio de Hacienda y Crédito Público,recursos públicos,Energía eléctrica,damnificados,Colombia",
   "lead": "MinHacienda solicitó al congreso modificar los recursos del presupuesto General de la Nación de 2026.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ya hay bancos dispuestos a prestar el dinero que requiere Afinia para evitar apagón en el Caribe",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/ya-hay-bancos-dispuestos-a-prestar-el-dinero-que-requiere-afinia-para-evitar-apagon-en-el-caribe-rg10",
+  "fecha": "2026-10-27T18:35:46-05:00",
+  "palabras": "Antioquia, Noticias de hoy, EPM, Aire y Afinia",
+  "lead": "El gerente de EPM confirmó que empréstito tendrá garantías por parte del Gobierno nacional y la misma compañía de servicios públicos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Atacaron a disparos a taxista en Bosa, sur de Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/atacaron-a-disparos-a-taxista-en-el-sur-de-bogota-le-dejaron-panfleto-rs15",
+  "fecha": "2026-10-27T18:20:28-05:00",
+  "palabras": "Inseguridad en Bogotá, Bosa, Taxis, Bosa, ataque en Bosa, inseguridad en bogotá, taxista",
+  "lead": "En el ataque, el conductor resultó herido en una de sus piernas por un impacto de bala.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía firma 10 preacuerdos con grupo “PPP” señalado de vandalismo y hechos violentos en Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/fiscalia-firma-10-preacuerdos-con-grupo-ppp-senalado-de-vandalismo-y-hechos-violentos-en-bogota-rg10",
+  "fecha": "2026-10-27T18:23:09-05:00",
+  "palabras": "",
+  "lead": "Los acuerdos contemplan penas de prisión que van desde los 4 años hasta los 7 años, de acuerdo con los términos reportados para cada uno de los procesados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Películas en Halloween: estas son las 10 mejores para ver y disponibles en streaming",
+  "enlace": "https://www.bluradio.com/sociedad/cultura/peliculas-en-halloween-estas-son-las-mejores-y-asi-puede-verlas-unas-son-de-terror-so35",
+  "fecha": "2026-10-27T18:29:11-05:00",
+  "palabras": "Viral, Cine,  Halloween, Netflix, HBO, Disney plus",
+  "lead": "El miedo y la fantasía hacen parte de la celebración de Halloween. Los que optan por quedarse en casa, deciden ver contenido relacionado con esta festividad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hacienda de Bogotá dice que recursos de metro y calle 13 están garantizados tras anuncio de Gobierno",
+  "enlace": "https://www.bluradio.com/regiones/bogota/hacienda-de-bogota-dice-que-recursos-de-metro-y-calle-13-estan-garantizados-tras-anuncio-de-gobierno-rg10",
+  "fecha": "2026-10-27T18:25:12-05:00",
+  "palabras": "Metro de Bogotá, Ministerio de Hacienda",
+  "lead": "La secretaria de Hacienda de Bogotá afirmó que los ajustes presupuestales que ascienden a $750.000 millones fueron acordados entre la Nación y el Distrito.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a un hombre por presunto abuso sexual durante megatoma en Tunjuelito, Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/capturan-a-un-hombre-por-presunto-abuso-sexual-durante-megatoma-en-tunjuelito-bogota-rg10",
+  "fecha": "2026-10-27T18:30:04-05:00",
+  "palabras": "Tunjuelito, Abuso sexual, Tunjuelito, bogotá",
+  "lead": "El operativo de seguridad en el sur de Bogotá dejó como resultado tres establecimientos suspendidos y un capturado por un delito sexual contra una menor de 14 años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella pide en MinComercio “recuperar plenamente las ventajas del TLC” con EEUU",
+  "enlace": "https://www.bluradio.com/economia/de-la-espriella-pide-en-mincomercio-recuperar-plenamente-las-ventajas-del-tlc-con-eeuu-rg10",
+  "fecha": "2026-10-27T18:35:42-05:00",
+  "palabras": "Abelardo De La Espriella, Ministerio de Comercio, Estados Unidos",
+  "lead": "El presidente Abelardo De La Espriella dijo en el Ministerio de Comercio que hay que eliminar los aranceles adicionales por parte de EEUU.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Arsenal, eliminado en la EFL Cup ante Fleetwood Town de la cuarta división le ganó en penales",
+  "enlace": "https://www.bluradio.com/deportes/futbol/humillante-eliminacion-del-arsenal-en-la-efl-cup-equipo-de-la-cuarta-division-le-gano-en-penales-cb20",
+  "fecha": "2026-10-27T18:54:44-05:00",
+  "palabras": "Arsenal, Fleetwood Town, Fleetwood Town vs arsenal, arsenal vs, arsenal vs Fleetwood Town, copa de la liga, efl cup",
+  "lead": "El DT español Mikel Arteta pagó el precio por dar prioridad a la visita el domingo a Liverpool en la Premier, sacando a un once plagado de habituales suplentes.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Álvaro Montero tendría una oferta para ir al fútbol de Europa: Boca Juniors analiza la situación",
+  "enlace": "https://caracol.com.co/2026/10/28/alvaro-montero-tendria-una-oferta-para-ir-al-futbol-de-europa-boca-juniors-analiza-la-situacion/",
+  "fecha": "2026-10-27T19:04:15-05:00",
+  "palabras": "",
+  "lead": "El arquero colombiano despertaría el interés de un club del Viejo Continente.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Belén Marín debuta en Cartagena con la Orquesta Sinfónica de Bolívar en el Teatro Adolfo Mejía",
+  "enlace": "https://caracol.com.co/2026/10/28/belen-marin-debuta-en-cartagena-con-la-orquesta-sinfonica-de-bolivar-en-el-teatro-adolfo-mejia/",
+  "fecha": "2026-10-27T19:01:55-05:00",
+  "palabras": "",
+  "lead": "La soprano mexicana expondrá toda su lírica el próximo 5 de noviembre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comunidad de Julio Zawady acude a la justicia por riesgos del río Frío y falta de agua",
+  "enlace": "https://caracol.com.co/2026/10/27/comunidad-de-julio-zawady-acude-a-la-justicia-por-riesgos-del-rio-frio-y-falta-de-agua-en-magdalena/",
+  "fecha": "2026-10-27T18:53:21-05:00",
+  "palabras": "",
+  "lead": "Habitantes de Julio Zawady socializaron una acción popular que busca medidas urgentes frente a la erosión de las riberas del río Frío, el riesgo para las viviendas y las afectaciones al abastecimiento de agua potable.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Realizan limpieza a canal El Bajo en Turbaco, Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/27/realizan-limpieza-a-canal-el-bajo-en-turbaco-bolivar/",
+  "fecha": "2026-10-27T18:54:57-05:00",
+  "palabras": "",
+  "lead": "La idea de esta intervención es prevenir inundaciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Oficina de Interpol en el Valle reporta 50 capturas de personas con Circular Roja",
+  "enlace": "https://caracol.com.co/2026/10/27/oficina-de-interpol-en-el-valle-reporta-50-capturas-de-personas-con-circular-roja/",
+  "fecha": "2026-10-27T18:51:37-05:00",
+  "palabras": "",
+  "lead": "De los 21 meses que lleva esta unidad, la Interpol Colombia, se han aumentado un 190% las capturas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ESE Hospital Local Turbaco pagará $939 millones en acreencias laborales",
+  "enlace": "https://caracol.com.co/2026/10/27/ese-hospital-local-turbaco-pagara-939-millones-en-acreencias-laborales/",
+  "fecha": "2026-10-27T18:49:40-05:00",
+  "palabras": "",
+  "lead": "49 trabajadores y extrabajadores recibirán los recursos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia y Países Bajos refuerzan alianza en agua y clima: Cartagena acogió un encuentro",
+  "enlace": "https://caracol.com.co/2026/10/27/colombia-y-paises-bajos-refuerzan-alianza-en-agua-y-clima-cartagena-acogio-un-encuentro/",
+  "fecha": "2026-10-27T18:43:39-05:00",
+  "palabras": "",
+  "lead": "Ambos gobiernos intercambiaron soluciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desde Frontino, el gobernador pidió a la comunidad que el crimen de Jhady Sofía no quede impune",
+  "enlace": "https://caracol.com.co/2026/10/27/desde-frontino-el-gobernador-pidio-a-la-comunidad-que-el-crimen-de-jhady-sofia-no-quede-impune/",
+  "fecha": "2026-10-27T18:40:15-05:00",
+  "palabras": "",
+  "lead": "Andrés Julián Rendón estuvo entregando el volante de la recompensa de 100 millones a la comunidad para capturar al responsable.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bajos niveles de agua afectan la pesca y el suministro a familias en Barrancabermeja, Santander",
+  "enlace": "https://caracol.com.co/2026/10/27/bajos-niveles-de-agua-afectan-la-pesca-y-el-suministro-a-familias-en-barrancabermeja-santander/",
+  "fecha": "2026-10-27T18:37:22-05:00",
+  "palabras": "",
+  "lead": "Más del 80 % de los habitantes de Ciénaga del Opón depende de la pesca, afectada por los bajos niveles de agua. La idea es llevar más de 14.000 litros de agua potable cada ocho días y entregar alimentos a más de 90 familias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hombre apareció sin vida en el Canal del Dique, cerca a Soplaviento",
+  "enlace": "https://caracol.com.co/2026/10/27/hombre-aparecio-sin-vida-en-el-canal-del-dique-cerca-a-soplaviento/",
+  "fecha": "2026-10-27T18:37:06-05:00",
+  "palabras": "",
+  "lead": "Testigos aseguraron que el fallecido había salido desde Santa Lucía- Atlántico, presuntamente, para conocer a una mujer",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salen a la venta las boletas para final de la Sudamericana en Barranquilla: precios y cómo comprar",
+  "enlace": "https://caracol.com.co/2026/10/27/salen-a-la-venta-las-boletas-para-final-de-la-sudamericana-en-barranquilla-precios-y-como-comprar/",
+  "fecha": "2026-10-27T18:32:37-05:00",
+  "palabras": "",
+  "lead": "El Metropolitano de Barranquilla acogerá la final entre Boca Juniors y Atlético Mineiro.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Veteranos de la Policía fueron reconocidos por el coronel Juan Pablo Ruiz en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/27/veteranos-de-la-policia-fueron-reconocidos-por-el-coronel-juan-pablo-ruiz-en-cartagena/",
+  "fecha": "2026-10-27T18:19:16-05:00",
+  "palabras": "",
+  "lead": "La jornada integró a los retirados con el personal activo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Bolívar, más de 159.000 beneficiarios recibirán octava transferencia de Colombia Mayor",
+  "enlace": "https://caracol.com.co/2026/10/27/en-bolivar-mas-de-159000-beneficiarios-recibiran-octava-transferencia-de-colombia-mayor/",
+  "fecha": "2026-10-27T18:14:30-05:00",
+  "palabras": "",
+  "lead": "Este ciclo de entregas finalizará el 13 de noviembre de 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caso UNGRD: otorgan la libertad condicional a Pedro Rodríguez Melo",
+  "enlace": "https://www.lafm.com.co/orden-publico/caso-ungrd-otorgan-libertad-condicional-pedro-rodriguez-melo-primer-condenado-por-el-escandalo-415361",
+  "fecha": "2026-10-27T18:02:00-05:00",
+  "palabras": "Orden Público,UNGRD,Condena,Corrupción,Irregularidades en contratos,Fondo de Emergencias",
+  "lead": "En su momento fue condenado a 4 años, 10 meses y 19 días de prisión por direccionar contratos y apropiarse de recursos de la UNGRD.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Distrito niega reducción de recursos para el Metro de Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/metro-de-bogota-distrito-calle-13-gobierno-nacional-aportes-dinero-415360",
+  "fecha": "2026-10-27T18:02:00-05:00",
+  "palabras": "Sociedad,Metro de Bogotá,Distrito,Gobierno,Ministerio de Hacienda y Crédito Público,Dinero,recursos públicos",
+  "lead": "Al respecto se pronunció la Secretaría de Hacienda del Ditrito.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "9.600 menores en riesgo de atención por amenazas al ICBF",
+  "enlace": "https://www.lafm.com.co/sociedad/menores-en-riesgo-de-atencion-por-amenazas-al-icbf-415357",
+  "fecha": "2026-10-27T17:25:00-05:00",
+  "palabras": "Sociedad,ICBF,CRIC,Menores,indígenas,Niños,contratos",
+  "lead": "El Instituto de Bienestar Familiar denunció presuntas amenazas y presiones del Consejo Regional Indígena del Cauca para mantener las condiciones actuales d...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Competitividad: Congreso retoma debate este miércoles",
+  "enlace": "https://www.lafm.com.co/politica/ley-competitividad-congreso-tramites-mauricio-gomez-amin-empresas-estado-415354",
+  "fecha": "2026-10-27T16:57:00-05:00",
+  "palabras": "Política,Congreso de la República,Gobierno,Empresas,Mauricio Gómez Amín,comercio",
+  "lead": "La Ley de Competitividad, presentada por el Gobierno para simplificar trámites entre empresas y el Estado, avanza en el Congreso y este miércoles 28 de oct...",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
