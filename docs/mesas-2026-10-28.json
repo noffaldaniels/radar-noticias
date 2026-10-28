@@ -601,6 +601,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Se reporta que el secretario general de las Naciones Unidas está profundamente alarmado por los desalojos y la violencia de colonos en Cisjordania.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:30",
+   "quien": "Alcalde de Urda",
+   "que": "Se están derivando hospitales de Tolima de la alcaldía de San Juan, de Ciudad Real y algunos también al hospital de Madrid. La emergencia está siendo atendida por el gobierno nacional y se han descargado muchísimos medios humanos y materiales y está prácticamente todo controlado.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:29",
+   "quien": "Paulina Estrada, Cónsul general de España en Madrid",
+   "que": "Explicó que acaba de habilitar los canales de atención y que la idea es recibir la información de los colombianos que viven en España que puedan tener sobre las afectaciones para que el gobierno pueda ayudar prestando esos servicios consulares sobre este accidente.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:30",
+   "quien": "Don Miguel Ángel Pérez, pasajero del tren accidentado",
+   "que": "Es uno de los pasajeros que iba en los trenes accidentados en Urda, en España. Recordamos la cifra: 64 personas muertas, más de 150 heridos. Ya se pronunció el ministro de Transporte, ya hay balance oficial del gobierno de Pedro Sánchez sobre esta tragedia.",
+   "resaltar": false
   }
  ],
  "avisos": [
