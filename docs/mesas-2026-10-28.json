@@ -146,6 +146,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Reportó un grave accidente ferroviario entre Madrid y Sevilla con un choque de dos trenes, dejando al menos 30 personas muertas y más de 20 heridas.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:19",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En Madrid hay una huelga de maquinistas y protestas de unos 500 tractores, además de enfrentamientos de policías con delegados policiales en el Ministerio del Interior por mejores condiciones y jubilaciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:19",
+   "quien": "Carlos Avengozar, Periodista de la Cadena Ser",
+   "que": "Desde Toledo reportó que continúan las labores para llegar a los heridos y los daños por el temporal en zonas como Toledo, Ciudad Real, Madrid y San Juan, con afectaciones en transporte y carreteras.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:19",
+   "quien": "Carlos (Corresponsal de Caracol Radio en Estados Unidos)",
+   "que": "Donald Trump volvió a sugerir que Venezuela podría convertirse en el estado número 51 de Estados Unidos, vinculándolo a la llegada de petróleo venezolano sin costo por operaciones militares.",
+   "resaltar": false
   }
  ],
  "avisos": [
