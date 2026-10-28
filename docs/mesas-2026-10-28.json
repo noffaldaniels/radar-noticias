@@ -335,6 +335,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Defensoría del Pueblo advirtió sobre la incursión del ELN en cuatro corregimientos de Dagua, en el Valle del Cauca.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:19",
+   "quien": "Juan Lozano, Director del programa",
+   "que": "Colombia es el país de América Latina con más gasto tributario, otorgando beneficios a los ciudadanos y empresas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:23",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se discute la reforma tributaria y la dificultad de aprobar nuevos impuestos o ajustes en el Congreso.",
+   "resaltar": false
   }
  ],
  "avisos": [
