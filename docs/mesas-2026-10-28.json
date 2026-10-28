@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "Blu Radio",
+   "hora": "05:39",
+   "quien": "John Maya, gerente de EPM",
+   "que": "Anunció una solución temporal para la deuda de 131.000 millones de pesos de Afinia mediante créditos con garantía de la Nación y contragarantía de EPM para evitar apagones en la Costa Caribe.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:41",
+   "quien": "Lucy García, gobernadora de Sucre",
+   "que": "Manifestó su preocupación por la crisis del servicio prestado por Afinia que amenaza la competitividad y el tejido social, señalando la urgencia de inversiones de fondo ante alzas de tarifas como la de Air-e del 7%.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:43",
+   "quien": "Coronel José Darío Rodríguez, comandante de la Quinta Brigada del Ejército",
+   "que": "Informó la captura en Puerto Wilches (Santander) de seis presuntos miembros del Clan del Golfo, entre ellos alias 'Toro', dedicados a extorsionar palmicultores y amenazar a líderes sociales.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
