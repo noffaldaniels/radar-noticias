@@ -623,7 +623,7 @@
   "palabras": "Antioquia, Bajo Cauca, Animales",
   "lead": "Asociaciones ganaderas en el Bajo Cauca antioqueño piden ayuda para poder hacer la disposición adecuada de los animales y evitar enfermedades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "Santander, Bucaramanga, Emergencias por lluvias, Blu Radio",
   "lead": "Continúa la búsqueda de Jeider Johan Hernández, de 23 años, arrastrado por el río Suárez en Barbosa, Santander. El alcalde de Socorro pidió apoyo a los habitantes de las zonas ribereñas para hallarlo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "Accidente de tránsito, Girardot, Vía Bogotá - Girardot",
   "lead": "El siniestro ocurrió en el kilómetro 2 de la variante de Girardot, en inmediaciones de Flandes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "Flávio Bolsonaro, Lula Da Silva, Brasil",
   "lead": "\"Lamento que haya salido de Brasil. Podría haberse quedado para probar que las acusaciones no son verdaderas\", dijo Lula sobre su rival derrotado en las elecciones del domingo, durante el festejo de sus 81 años, en su residencia en Brasilia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "Donald Trump, Estados Unidos, Venezuela",
   "lead": "Durante su discurso, Trump agradeció al Gobierno de Venezuela la firma del acuerdo que otorga a la empresa North American Blue Energy Partners (NABEP) concesiones sobre 17 yacimientos petroleros del país.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "Blu Radio, Noticias de hoy, Inpec, Santander, Bucaramanga, Cárcel Modelo de Bucaramanga, Inseguridad, Bandas criminales, Bucaramanga",
   "lead": "El artefacto explosivo detonó cerca de la garita 7 del centro penitenciario. Un funcionario del Inpec advirtió que las amenazas contra el personal carcelario han escalado en Santander.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "España, Accidente de tránsito",
   "lead": "Las primeras hipótesis apuntan a una posible equivocación en el centro de control tras una avería del sistema automatizado.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "Llegan los primeros heridos leves a Urda y se moviliza asistencia médica desde Toledo, Ciudad Real, Madrid y Alcázar de San Juan.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "El funcionario permanece bajo observación médica tras un posible trauma craneoencefálico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "Según la Defensoría, la confrontación pone en riesgo a más de 60 mil habitantes de 17 corregimientos rurales, con amenazas de homicidios, desplazamientos y reclutamiento de menores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "La CAR entregó 4.000 toneladas de fertilizante orgánico producido a partir del buchón de agua de la laguna de Fúquene.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "La ministra Elsa Noguera estará este viernes en Bucaramanga.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "Política,Gustavo Petro,Fiscalía General de la Nación,Laura Sarabia,Colombia,Funcionarios denunciados",
   "lead": "El mandatario enfrenta una nueva polémica tras salir de la Casa de Nariño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "Actualidad,Poncho Zuleta,Accidente,Siniestro vial,Barranquilla,Valledupar",
   "lead": "La salud de Kbeto Zuleta mantiene en vilo al mundo vallenato: permanece en cuidados intensivos ahora en Barranquilla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Estas son las noticias más importantes de este miércoles en La FM.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,6 +788,248 @@
   "palabras": "Deportes,Copa Libertadores,Independiente Santa Fe,Corinthians,Independiente Santa Fe Femenino,Colombia,Brasil,Fútbol femenino,Fútbol",
   "lead": "'Las leonas' podrían jugar una final internacional, pero tendrán un reto complejo.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 60.000 habitantes de la zona rural de Dagua, en riesgo por disputas entre disidencias y ELN",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/mas-de-60-000-habitantes-de-la-zona-rural-de-dagua-en-riesgo-por-disputas-entre-disidencias-y-eln-rg10",
+  "fecha": "2026-10-28T07:14:15-05:00",
+  "palabras": "Noticias de hoy, Dagua",
+  "lead": "La Defensoría del Pueblo pide acciones para proteger a las comunidades de 17 corregimientos, incluidos resguardos indígenas y consejos comunitarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Diputado de Santander investigado por presunto abuso a menor de edad hará parte de la mesa directiva",
+  "enlace": "https://caracol.com.co/2026/10/28/diputado-de-santander-investigado-por-presunto-abuso-a-menor-de-edad-hara-parte-de-la-mesa-directiva/",
+  "fecha": "2026-10-28T07:13:15-05:00",
+  "palabras": "",
+  "lead": "Orlando Niño Mateus quedó elegido como primer vicepresidente para el 2027.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Gobierno sueco bloqueó el acceso de sus empleados a ChatGPT y Claude",
+  "enlace": "https://caracol.com.co/2026/10/28/el-gobierno-sueco-bloqueo-el-acceso-de-sus-empleados-a-chatgpt-y-claude/",
+  "fecha": "2026-10-28T07:11:52-05:00",
+  "palabras": "",
+  "lead": "La decisión busca que los funcionarios utilicen únicamente herramientas de inteligencia artificial autorizadas por el Estado, mientras algunas dependencias podrán seguir accediendo mediante una plataforma especial desarrollada por las propias autoridades suecas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boris García llevó el sonido de San Diego a su nuevo sencillo ‘Me Encanta’",
+  "enlace": "https://caracol.com.co/2026/10/28/boris-garcia-llevo-el-sonido-de-san-diego-a-su-nuevo-sencillo-me-encanta/",
+  "fecha": "2026-10-28T07:11:35-05:00",
+  "palabras": "",
+  "lead": "El cantautor cartagenero fusionó ritmos caribeños y sonidos contemporáneos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Envían a la cárcel a implicado en el homicidio de líder trans en La Ceja",
+  "enlace": "https://caracol.com.co/2026/10/28/envian-a-la-carcel-a-implicado-en-el-homicidio-de-lider-trans-en-la-ceja/",
+  "fecha": "2026-10-28T07:10:55-05:00",
+  "palabras": "",
+  "lead": "El crimen ocurrió el 29 de diciembre de 2025, cuando Yuliza Orozco, de 46 años, fue encontrada sin vida en zona rural del oriente antioqueño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daniel Quintero denunció a Simón Molina ante la Corte por presunta interferencia en un proceso penal",
+  "enlace": "https://caracol.com.co/2026/10/28/daniel-quintero-denuncio-a-simon-molina-ante-la-corte-por-presunta-interferencia-en-un-proceso-penal/",
+  "fecha": "2026-10-28T07:10:25-05:00",
+  "palabras": "",
+  "lead": "El exalcalde de Medellín pidió investigar al representante a la Cámara por un posible soborno en la actuación penal y tráfico de influencias. La denuncia señala contactos con una testigo de la Fiscalía que declaró contra el hermano del exmandatario.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La orden del Tribunal no era cambiar de operador: Viviana León, exgerente de Imprenta por pasaportes",
+  "enlace": "https://caracol.com.co/2026/10/28/la-orden-del-tribunal-no-era-cambiar-de-operador-viviana-leon-exgerente-de-imprenta-por-pasaportes/",
+  "fecha": "2026-10-28T07:06:36-05:00",
+  "palabras": "",
+  "lead": "Viviana León, exgerente de la Imprenta Nacional, habló en 6AM W de Thomas Greg & Sons quiénes se encargarán de nuevo de los pasaportes del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Senado francés aprobó una ley más dura contra los saqueos y los disturbios",
+  "enlace": "https://caracol.com.co/2026/10/28/el-senado-frances-aprobo-una-ley-mas-dura-contra-los-saqueos-y-los-disturbios/",
+  "fecha": "2026-10-28T07:07:39-05:00",
+  "palabras": "",
+  "lead": "La principal medida contempla multas de hasta 10.000 euros por persona y permite incluso embargar determinadas ayudas sociales a quienes sean considerados responsables de daños durante disturbios.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta por incursión del ELN en cuatro corregimientos de Dagua y disputa con Disidencias FARC",
+  "enlace": "https://caracol.com.co/2026/10/28/alerta-por-incursion-del-eln-en-en-cuatro-corregimientos-de-dagua-y-disputa-con-disidencias-farc/",
+  "fecha": "2026-10-28T07:02:02-05:00",
+  "palabras": "",
+  "lead": "La Defensoría advierte que la disputa podría provocar un recrudecimiento de los combates sobre la antigua vía al mar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Neiva entrega recomendaciones para disfrutar Halloween con seguridad",
+  "enlace": "https://caracol.com.co/2026/10/28/neiva-entrega-recomendaciones-para-disfrutar-halloween-con-seguridad/",
+  "fecha": "2026-10-28T07:04:17-05:00",
+  "palabras": "",
+  "lead": "Salud municipal pide vigilar los dulces, prevenir accidentes viales y evitar el consumo irresponsable de alcohol.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Ha sido una experiencia horrible”: sobreviviente al accidente de trenes en Toledo, España",
+  "enlace": "https://caracol.com.co/2026/10/28/ha-sido-una-experiencia-horrible-sobreviviente-al-accidente-de-trenes-en-toledo-espana/",
+  "fecha": "2026-10-28T07:01:49-05:00",
+  "palabras": "",
+  "lead": "Juan Casares, una de las víctimas en el accidente entre dos trenes ocurrido en Castilla-La Mancha, dio su testimonio en 6AM W.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Medellín habrá ciclopaseo de Halloween este jueves, 29 de octubre.",
+  "enlace": "https://caracol.com.co/2026/10/28/en-medellin-habra-ciclopaseo-de-halloween-este-jueves-29-de-octubre/",
+  "fecha": "2026-10-28T07:03:50-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de Medellín invitó a la comunidad para que asista disfrazada a este recorrido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pasaportes actuales son una vergüenza, no los lee inmigración: exrepresentante Juana Londoño",
+  "enlace": "https://caracol.com.co/2026/10/28/pasaportes-actuales-son-una-verguenza-no-los-lee-inmigracion-excongresista-juana-londono/",
+  "fecha": "2026-10-28T07:00:50-05:00",
+  "palabras": "",
+  "lead": "La exrepresentanteJuana Carolina Londoño estuvo en entrevista con el director de 6AM W, Julio Sánchez Cristo, quien cuestionó el actual modelo de expedición de pasaportes en Colombia y la calidad del documento que se está entregando a los ciudadanos.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Miércoles 28 de octubre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/10/28/miercoles-28-de-octubre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-10-28T06:52:58-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pereira tendrá alumbrado navideño sin utilizar recursos del municipio, así lo anunció su alcalde",
+  "enlace": "https://caracol.com.co/2026/10/28/pereira-tendra-alumbrado-navideno-sin-utilizar-recursos-del-municipio-asi-lo-anuncio-su-alcalde/",
+  "fecha": "2026-10-28T06:56:36-05:00",
+  "palabras": "",
+  "lead": "La empresa Ilumina instalará el alumbrado navideño en el parque Olaya Herrera y la Plaza Cívica Ciudad Victoria, con el propósito de atraer visitantes al centro de Pereira e impulsar la reactivación económica y comercial durante la temporada decembrina.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DT del Chicó tras confirmarse el descenso: “No nos dejamos empatar... La tristeza nos invade”",
+  "enlace": "https://caracol.com.co/2026/10/28/dt-del-chico-tras-confirmarse-el-descenso-no-nos-dejamos-empatar-la-tristeza-nos-invade/",
+  "fecha": "2026-10-28T06:56:32-05:00",
+  "palabras": "",
+  "lead": "La ‘Flecha’ Gómez aseveró además que el equipo terminará el campeonato “de manera profesional” para que prevalezca el juego limpio.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "153 extranjeros expulsados de Bucaramanga en 2026: algunos con más de 130 anotaciones policiales",
+  "enlace": "https://caracol.com.co/2026/10/28/153-extranjeros-expulsados-de-bucaramanga-en-2026-algunos-con-mas-de-130-anotaciones-policiales/",
+  "fecha": "2026-10-28T06:55:48-05:00",
+  "palabras": "",
+  "lead": "Cinco extranjeros capturados en los últimos operativos sumaban más de 130 anotaciones policiales, según el alcalde Cristian Portilla.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Huellitas Doradas: el proyecto que busca transformar la atención social en Tunja",
+  "enlace": "https://caracol.com.co/2026/10/28/huellitas-doradas-el-proyecto-que-busca-transformar-la-atencion-social-en-tunja/",
+  "fecha": "2026-10-28T06:54:19-05:00",
+  "palabras": "",
+  "lead": "Gestora anunció que Huellitas Doradas contará con recursos de regalías y aportes para su construcción y dotación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Queman vehículo repartidor de pollos en Villa del Rosario, Área Metropolitana de Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/28/queman-vehiculo-repartidor-de-pollos-en-villa-del-rosario-area-metropolitana-de-cucuta/",
+  "fecha": "2026-10-28T06:53:43-05:00",
+  "palabras": "",
+  "lead": "El hecho solo dejó daños materiales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 50 microcuencas hidrográficas en Caldas están en riesgo de secarse por pico de ‘El niño’",
+  "enlace": "https://caracol.com.co/2026/10/28/mas-de-50-microcuencas-hidrograficas-en-caldas-estan-en-riesgo-de-secarse-por-pico-de-el-nino/",
+  "fecha": "2026-10-28T06:53:41-05:00",
+  "palabras": "",
+  "lead": "Advirtieron en la cuarta Cumbre por la Gobernanza del Agua en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DT del Cúcuta deja en duda su continuidad al frente del equipo: “No tengo más energía”",
+  "enlace": "https://caracol.com.co/2026/10/28/dt-del-cucuta-deja-en-duda-su-continuidad-al-frente-del-equipo-no-tengo-mas-energia/",
+  "fecha": "2026-10-28T06:52:47-05:00",
+  "palabras": "",
+  "lead": "Nicolás Chiesa expresó su desgaste luego de caer en casa ante Águilas Doradas, perdiendo la posibilidad de volver al grupo de los ocho.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caso de las 48 Corte Suprema citó a declarar a Deicy Jiménez",
+  "enlace": "https://www.lafm.com.co/orden-publico/caso-de-las-48-corte-suprema-declarar-deicy-jimenez-investigacion-gustavo-petro-maria-jose-pizarro-415397",
+  "fecha": "2026-10-28T06:52:00-05:00",
+  "palabras": "Orden Público,Corte Suprema de Justicia,Gustavo Petro,María José Pizarro,Relaciones interpersonales,Corrupción",
+  "lead": "La diligencia fue programada para este jueves 29 de octubre a las 8 y 30 de la mañana ante la Sala Especial de Instrucción.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
