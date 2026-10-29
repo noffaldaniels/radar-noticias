@@ -293,6 +293,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El presidente de la Esprilla aseguró que la Nación financiará con 450.000 millones de pesos la vía Suba Cota.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El accidente de enero demostró unas vías férreas deficientes. El gobierno aún no ha entregado, nueve meses después, el informe final. El de ayer fue consecuencia de una falla estructural que combina errores individuales y un deficiente funcionamiento en la coordinación, supervisión y dirección del sistema ferroviario.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El puente heredó una cartera cuyo antecesor, José Luis Ábalos, dejó el cargo tras acusaciones serias de corrupción y no estuvo a la altura.",
+   "resaltar": false
   }
  ],
  "avisos": [
