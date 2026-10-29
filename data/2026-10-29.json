@@ -711,7 +711,7 @@
   "palabras": "Bucaramanga, Santander, Pruebas Saber, Icfes, Blu Radio",
   "lead": "Con un puntaje de 404, la institución se ubicó en el primer puesto del listado nacional, que reúne a más de 14.000 colegios públicos y privados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "España, Accidente de tránsito",
   "lead": "En las grabaciones se escucha la comunicación entre el controlador ferroviario y los maquinistas, minutos antes del impacto.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Noticias de hoy, Nayib Bukele, El Salvador",
   "lead": "El Gobierno reveló la cifra de soldados desplegados, tras informar que el presidente de El Salvador, Nayib Bukele, conversó este miércoles por teléfono con el primer ministro de Haití.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "En el predio se construirá una sede de la Universidad Industrial de Santander, UIS.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "Las senadoras María Irma Noreña del Partido de la U e Isabel Zuleta del Pacto Histórico, hablaron en Caracol Radio sobre el polémico episodio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "El atacante de Atlético Nacional también desmintió una supuesta publicación en la que atacaba a la afición Verdolaga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "Los sujetos quedaron a disposición de las autoridades judiciales para responder por el delito de porte de arma de fuego.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "El Consejo Europeo deberá iniciar ahora el proceso para escoger a su sucesor, una decisión que podría abrir la puerta a candidatos como el español Pablo Hernández de Cos o el neerlandés Klaas Knot.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "Luis Rodrigo Espíndola Suárez, chef y electricista colombiano radicado en Washington, D. C., salió del centro de detención migratorio luego de que su familia pagara una fianza, informó su esposa, Anita Sandoval.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "Orden Público,Fallo judicial,Ministerio de Cultura,Carlos Pizarro,Museos,Bogotá",
   "lead": "La decisión fue emitida este miércoles 28 de octubre, y se debe a varias acciones de tutela que buscaban proteger derechos fundamentales sobre la libertad ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "Política,Elecciones en Colombia,alcaldes,Gustavo Petro,Claudia López",
   "lead": "La izquierda estaría planteando ganar las elecciones gubernamentales y de alcaldías para ejercer una oposición más fuerte.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,6 +832,303 @@
   "palabras": "Sociedad,Colombia,Halloween,Ideam,Lluvias,Temperatura,Bajas temperaturas,Calor",
   "lead": "La lluvia seguirá siendo protagonista en el occidente y el centro del país; pero también se registrará el aumento de la temperatura en algunos puntos.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente De La Espriella confirma captura de cinco disidentes de las Farc en el Valle del Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/presidente-de-la-espriella-confirma-captura-de-cinco-disidentes-de-las-farc-en-el-valle-del-cauca-rg10",
+  "fecha": "2026-10-29T07:19:37-05:00",
+  "palabras": "Noticias de hoy, Valle del Cauca, Disidencias Farc",
+  "lead": "Los enfrentamientos se han desarrollado en el sector de Venus, del corregimiento La Marina, zona rural de Tuluá.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevos cargos contra Mauricio Aguilar por presuntas irregularidades en la CDMB",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nuevos-cargos-contra-mauricio-aguilar-por-presuntas-irregularidades-en-la-cdmb-rg10",
+  "fecha": "2026-10-29T07:21:23-05:00",
+  "palabras": "Procuraduría General de la Nación, Mauricio Aguilar, Corporaciones Autónomas Regionales, Santander, Blu Radio",
+  "lead": "El exgobernador de Santander es investigado disciplinariamente por presuntas omisiones durante la elección del Consejo Directivo de la corporación ambiental en 2023.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comenzó la construcción del campus de la UIS en San Gil tras demolición de antiguo hotel",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/comenzo-la-construccion-del-campus-de-la-uis-en-san-gil-tras-demolicion-de-antiguo-hotel-rg10",
+  "fecha": "2026-10-29T08:15:19-05:00",
+  "palabras": "Universidad Industrial de Santander, Bucaramanga, San Gil, Santander, Ministerio de Educación, Colombia, Blu Radio, Noticias de hoy, Radio, UIS",
+  "lead": "La obra tendrá una inversión de más de $200.000 millones y contará con aulas, laboratorios, biblioteca, auditorio y un centro de convenciones. El proyecto busca beneficiar a 2.200 estudiantes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Operativo contra bandas en Bogotá no será el último, es el primero de muchos”: alcalde Galán",
+  "enlace": "https://www.bluradio.com/regiones/bogota/operativo-contra-bandas-en-bogota-no-sera-el-ultimo-es-el-primero-de-muchos-alcalde-galan-pr30",
+  "fecha": "2026-10-29T07:43:48-05:00",
+  "palabras": "Policía Nacional, Abelardo De La Espriella, Carlos Fernando Galán",
+  "lead": "Galán confirmó que la intervención desplegada conjuntamente entre la Alcaldía, la Policía Nacional, la Fiscalía General de la Nación y la Brigada 13 del Ejército es solo el comienzo de una ofensiva sostenida contra el crimen organizado en la ciudad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Inflar más las llantas aumenta el riesgo de pinchazos? Esto dicen los expertos",
+  "enlace": "https://www.bluradio.com/motor/inflar-mas-las-llantas-aumenta-el-riesgo-de-pinchazos-esto-dicen-los-expertos-so35",
+  "fecha": "2026-10-29T08:02:08-05:00",
+  "palabras": "Vehículos",
+  "lead": "Muchos conductores creen que \"un poquito más de aire\" protege la llanta, ¿qué tan cierto es?",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lobo atacó a una niña de 8 años durante una visita a un zoológico: esto se sabe",
+  "enlace": "https://www.bluradio.com/mundo/lobo-ataco-a-una-nina-de-8-anos-durante-una-visita-a-un-zoologico-esto-se-sabe-rs15",
+  "fecha": "2026-10-29T08:03:04-05:00",
+  "palabras": "Alemania, Menores de edad, Viral",
+  "lead": "Las autoridades locales iniciaron una investigacion para determinar las fallas de seguridad que permitieron el contacto con el animal en el recinto.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Torneo de Ascenso: Así quedó el Grupo B tras triunfo del Deportes Quindío",
+  "enlace": "https://caracol.com.co/2026/10/29/torneo-de-ascenso-asi-quedo-el-grupo-b-tras-triunfo-del-deportes-quindio/",
+  "fecha": "2026-10-29T08:09:38-05:00",
+  "palabras": "",
+  "lead": "Los cuadrangulares finales comenzaron este miércoles en Armenia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No va a retroceder”: abogado de Deicy Jiménez defiende valor de su testimonio en caso contra Petro",
+  "enlace": "https://caracol.com.co/2026/10/29/no-va-a-retroceder-abogado-de-deicy-jimenez-defiende-valor-de-su-testimonio-en-caso-contra-petro/",
+  "fecha": "2026-10-29T08:08:49-05:00",
+  "palabras": "",
+  "lead": "El abogado Andrés Felipe Caballero, abogado de Deicy Jiménez, habló de su declaración ante la Corte Suprema: “Deicy es una víctima, lo vamos a demostrar”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación de Cundinamarca anuncia atención de emergencias por lluvias Mosquera, Cucunubá y Soacha",
+  "enlace": "https://caracol.com.co/2026/10/29/gobernacion-de-cundinamarca-anuncia-atencion-de-emergencias-por-lluvias-mosquera-cucunuba-y-soacha/",
+  "fecha": "2026-10-29T08:03:42-05:00",
+  "palabras": "",
+  "lead": "Más de 10 familias se vieron afectadas por la difícil situación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estudiantes de Medellín crean casco inteligente que alerta a cuerpos de rescate en  emergencias",
+  "enlace": "https://caracol.com.co/2026/10/29/estudiantes-de-medellin-crean-casco-inteligente-que-alerta-a-cuerpos-de-rescate-en-emergencias/",
+  "fecha": "2026-10-29T08:02:40-05:00",
+  "palabras": "",
+  "lead": "Integrado con sensores e inteligencia móvil, el sistema emite una alerta sonora y notifica a las autoridades si el conductor no responde tras una caída.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué está pasando con la inteligencia militar en Colombia? General (r) José Luis Esparza responde",
+  "enlace": "https://caracol.com.co/2026/10/29/que-esta-pasando-con-la-inteligencia-militar-en-colombia-general-jose-luis-esparza-responde/",
+  "fecha": "2026-10-29T07:44:12-05:00",
+  "palabras": "",
+  "lead": "El general (r) José Luis Esparza habló en 6AM W sobre la inteligencia militar en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A partir del 2 de diciembre entrará a operar nueva aerolínea: Gobernador del Quindío",
+  "enlace": "https://caracol.com.co/2026/10/29/a-partir-del-2-de-diciembre-entrara-a-operar-nueva-aerolinea-gobernador-del-quindio/",
+  "fecha": "2026-10-29T07:54:21-05:00",
+  "palabras": "",
+  "lead": "El gobernador del Quindío confirmó que a partir del 2 de diciembre entrará a operar una nueva aerolínea para recuperar los vuelos internacionales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Amaranto Perea no se guardó nada tras errores de Kevin Mantilla en Inter vs Medellín: “Es infame”",
+  "enlace": "https://caracol.com.co/2026/10/29/amaranto-perea-no-se-guardo-nada-tras-errores-de-kevin-mantilla-en-inter-vs-medellin-es-infame/",
+  "fecha": "2026-10-29T07:51:52-05:00",
+  "palabras": "",
+  "lead": "El entrenador del DIM se mostró decepcionado por los errores cometidos en el Estadio Metropolitano de Techo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Megatoma en Palmira: van 28 capturados y siete armas de fuego incautadas",
+  "enlace": "https://caracol.com.co/2026/10/29/megatoma-en-palmira-van-28-capturados-y-siete-armas-de-fuego-incautadas/",
+  "fecha": "2026-10-29T07:51:40-05:00",
+  "palabras": "",
+  "lead": "La operación continúa durante todo el día con allanamientos, controles en sectores críticos e intervenciones en la cárcel de alta y media seguridad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja prepara medidas de seguridad para Halloween y anuncia detalles sobre el Día de los Niños",
+  "enlace": "https://caracol.com.co/2026/10/29/tunja-prepara-medidas-de-seguridad-para-halloween-y-anuncia-detalles-sobre-el-dia-de-los-ninos/",
+  "fecha": "2026-10-29T07:37:10-05:00",
+  "palabras": "",
+  "lead": "La restricción regirá entre las 5:00 de la tarde del 31 de octubre y las 5:00 de la mañana del día siguiente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pionyang lanzó más de 10 misiles balísticos al mar de Japón en plena tensión regional",
+  "enlace": "https://caracol.com.co/2026/10/29/pionyang-lanzo-mas-de-10-misiles-balisticos-al-mar-de-japon-en-plena-tension-regional/",
+  "fecha": "2026-10-29T07:30:07-05:00",
+  "palabras": "",
+  "lead": "La prueba armamentística ocurre poco más de un mes después de que tres soldados surcoreanos resultaran heridos por la explosión de minas en la frontera, un incidente que Seúl atribuyó a Pionyang y que elevó nuevamente las tensiones entre las dos Coreas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian disparos contra vehículo de rector de un colegio en Maicao, La Guajira: esto se sabe",
+  "enlace": "https://caracol.com.co/2026/10/29/denuncian-disparos-contra-vehiculo-de-rector-de-un-colegio-en-maicao-la-guajira-esto-se-sabe/",
+  "fecha": "2026-10-29T07:29:26-05:00",
+  "palabras": "",
+  "lead": "El vehículo fue baleado cuando se encontraba estacionado frente al establecimiento educativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Risaralda insiste ante la UNGRD abrir nuevas inscripciones para familias afectadas por el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/29/risaralda-insiste-ante-la-ungrd-abrir-nuevas-inscripciones-para-familias-afectadas-por-el-terremoto/",
+  "fecha": "2026-10-29T07:28:26-05:00",
+  "palabras": "",
+  "lead": "Al menos 6.000 familias damnificadas estarían por fuera del registro oficial y esperan una nueva jornada de inscripción para acceder a las ayudas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Intento de feminicidio en plena calle genera rechazo en Valledupar",
+  "enlace": "https://caracol.com.co/2026/10/29/intento-de-feminicidio-en-plena-calle-genera-rechazo-en-valledupar/",
+  "fecha": "2026-10-29T07:27:52-05:00",
+  "palabras": "",
+  "lead": "La víctima tenía una medida de protección que le prohibía a su agresor acercarse a ella.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consejo Colombiano de Construcción Sostenible apuesta a reconstrucción resiliente en el Eje Cafetero",
+  "enlace": "https://caracol.com.co/2026/10/29/consejo-colombiano-de-construccion-sostenible-apuesta-a-reconstruccion-resiliente-en-el-eje-cafetero/",
+  "fecha": "2026-10-29T07:21:52-05:00",
+  "palabras": "",
+  "lead": "Luego del terremoto, expertos y representantes del sector reflexionan sobre los aprendizajes y el papel de la construcción sostenible en el futuro de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Senador Enrique Gómez propone terminar la JEP en 2028",
+  "enlace": "https://www.lafm.com.co/politica/jep-propuesta-desaparecer-reparacion-victimas-senador-enrique-gomez-415537",
+  "fecha": "2026-10-29T08:13:00-05:00",
+  "palabras": "Política,JEP,Reparación de víctimas,Grupos terroristas,ELN,Disidentes de las Farc",
+  "lead": "La iniciativa, que superó su primer debate en la Comisión Primera del Senado, busca modificar el funcionamiento de la justicia transicional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Halloween 2026: el 74% de colombianos lo celebrará",
+  "enlace": "https://www.lafm.com.co/economia/halloween-dinamizara-ventas-comercio-colombia-2026-415540",
+  "fecha": "2026-10-29T08:01:00-05:00",
+  "palabras": "Economía,Disfraces para Halloween,Halloween,economía digital,comercio",
+  "lead": "Fenalco estima que la fecha impulsará las ventas de dulces, disfraces, centros comerciales y negocios de entretenimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nuevo incidente ferroviario en España: Tren queda detenido en un túnel con 454 pasajeros",
+  "enlace": "https://www.lafm.com.co/internacional/accidente-tren-espania-nuevo-incidente-detenido-454-pasajeros-tunel-415538",
+  "fecha": "2026-10-29T07:55:00-05:00",
+  "palabras": "Internacional,España,Tren,Accidente",
+  "lead": "El tren cubría la ruta entre Murcia y Valladolid y sufrió una falla eléctrica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ella es Analisa Torres, la juez que asume el caso de Maduro",
+  "enlace": "https://www.lafm.com.co/internacional/analisa-torres-juez-asume-caso-nicolas-maduro-estados-unidos-415525",
+  "fecha": "2026-10-29T07:44:00-05:00",
+  "palabras": "Internacional,Nicolás Maduro,Estados Unidos,Venezuela,juez,Narcotráfico,Terrorismo internacional",
+  "lead": "Con la llegada de Torres al caso, las audiencias previas al juicio, que están prevista para el 17 de noviembre y diciembre, están sujetas a determinación d...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombianos relatan cómo sobrevivieron al choque de trenes en España",
+  "enlace": "https://www.lafm.com.co/actualidad/accidente-trenes-espana-pareja-colombianos-relatan-como-sobrevivieron-415535",
+  "fecha": "2026-10-29T07:42:00-05:00",
+  "palabras": "Actualidad,España,Tren,Madrid,Accidente,Muertos,Heridos,Colombia",
+  "lead": "La magnitud del evento ha provocado la reacción de la población contra el Gobierno Sánchez.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Relato de la mujer que se salvó de un feminicidio en Valledupar",
+  "enlace": "https://www.lafm.com.co/actualidad/valledupar-intento-feminicido-joven-recibe-golpiza-via-publica-expareja-medida-alejamiento-415531",
+  "fecha": "2026-10-29T07:13:00-05:00",
+  "palabras": "Actualidad,Feminicidio,Valledupar,Cesar,actos violentos,Denuncia por acoso",
+  "lead": "Wanda Galindo asegura que denunció a su expareja por amenazas antes de sobrevivir a un ataque en Valledupar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Galán: “El Ejército apoyará la seguridad, pero no reemplazará a la Policía”",
+  "enlace": "https://www.lafm.com.co/orden-publico/galan-sobre-megaoperativo-en-bogota-el-ejercito-apoya-la-seguridad-pero-no-remplaza-a-la-policia-415530",
+  "fecha": "2026-10-29T07:10:00-05:00",
+  "palabras": "Orden Público,Abelardo de la Espriella,Carlos Fernando Galán,Alcaldía de Bogotá,Mega operativo,Bogotá,Colombia,Presidencia de la República",
+  "lead": "El mandatario se refirió a las capturas realizadas en el más reciente operativo. Se contabilizan alrededor de 30.000 personas capturadas.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
