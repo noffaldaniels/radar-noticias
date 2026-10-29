@@ -223,6 +223,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Solo 20 congresistas, senadores y representantes, dos republicanos, han realizado donaciones.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:55",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El fallo judicial ordena restituir las piezas del Museo Nacional en 48 horas tras anular las resoluciones de retiro y señalar la ausencia total de justificación técnica.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:58",
+   "quien": "Presidente Gustavo Petro",
+   "que": "Anunció que la Nación financiará con recursos del Fonde los estudios y diseños de la Línea 4 del Metro de Bogotá, desde la Calle 100 hasta la 245.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:58",
+   "quien": "Alcalde Carlos Fernando Galán",
+   "que": "Informó que en Bogotá hay más de 600.000 ciudadanos venezolanos, de los cuales más de 100.000 están en situación irregular.",
+   "resaltar": false
   }
  ],
  "avisos": [
