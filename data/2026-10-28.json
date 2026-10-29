@@ -5089,7 +5089,7 @@
   "palabras": "BYD, SUV, Carros eléctricos",
   "lead": "La BYD Ti7 es la nueva camioneta híbrida enchufable en el país. Combina potencia, tracción 4x4 y una autonomía que busca llamar la atención de los colombianos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5100,7 +5100,7 @@
   "palabras": "Noticias de hoy, Valledupar, Feminicidio, Policía Nacional",
   "lead": "Tanto la víctima como el capturado fueron trasladados a centros asistenciales para su valoración médica.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5111,7 +5111,7 @@
   "palabras": "Noticias de hoy, Emergencias por lluvias, Antioquia",
   "lead": "En el sector Coroncoro, al menos 30 niños llegan tarde a clases todos los días debido al deterioro del acceso fluvial, por lo que habitantes piden obras urgentes de infraestructura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5122,7 +5122,7 @@
   "palabras": "Pagos electrónicos",
   "lead": "La compañía de pagos digitales reportó un hito en la adopción del comercio electrónico en el país, impulsado por tecnologías de biometría que reducen el riesgo de fraude en transacciones web hasta en un 91 %.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5133,7 +5133,7 @@
   "palabras": "España, Madrid, Sevilla, Noticias de hoy, Tren, accidente España, accidente Madrid, accidente tren, accidentes de trenes, trenes",
   "lead": "Todavía siguen las investigaciones para determinar qué fue lo que sucedió y los responsables de esta tragedia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5144,7 +5144,7 @@
   "palabras": "",
   "lead": "La revisión estará a cargo de la Secretaría de Seguridad y Justicia, a través del equipo de Inspección, Vigilancia y Control. Posteriormente, un inspector de Paz y Convivencia evaluará el caso y definirá las acciones que correspondan según la normativa vigente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5155,7 +5155,7 @@
   "palabras": "Chontico Noche , Resultados del chance, Chances y Loterías",
   "lead": "El Chontico Noche juega todos los días y cuenta con diferentes modalidades de apuesta. Los participantes pueden consultar el número ganador de este miércoles 28 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5166,7 +5166,7 @@
   "palabras": "Venezuela, CIDH",
   "lead": "La Comisión Interamericana de Derechos Humanos y su Relatoría Especial para la Libertad de Expresión advirtieron que una reforma parcial de la Ley contra el Odio sería insuficiente y pidieron garantizar la participación de periodistas y organizaciones civiles en el proceso.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5177,7 +5177,7 @@
   "palabras": "Sumapaz, Abelardo De La Espriella, Carlos Fernando Galán, Alcaldía Mayor de Bogotá, De La Espriella, abelardo De La Espriella, carlos fernando galan, consejo de seguridad, consejo de seguridad en bogota, de la espriella y galan",
   "lead": "El presidente manifestó que el alcalde Carlos Fernando Galán lleva dos años \"solo\" combatiendo a los criminales, haciendo referencia al Gobierno nacional anterior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5188,7 +5188,7 @@
   "palabras": "Metro de Bogotá",
   "lead": "La meta es completar la fabricación de los 30 trenes antes de finalizar el 2026 y comenzar la operación comercial en marzo de 2028.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5199,7 +5199,7 @@
   "palabras": "Independiente Santa Fe, Copa Libertadores, Fútbol femenino, Corinthians, Copa Libertadores, Santa Fe, Santa Fe femenino, copa libertadores femenina, gol Daniela Garavito",
   "lead": "El sueño continental se sepultó en el segundo tiempo, cuando las brasileras remontaron el marcador.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5210,7 +5210,7 @@
   "palabras": "",
   "lead": "La mandataria advirtió sobre la disputa territorial entre tres facciones de las disidencias de las Farc en el sur del departamento.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5221,7 +5221,7 @@
   "palabras": "",
   "lead": "El gobernador Andrés Julián manifestó que esos ejercicios militares pueden fortalecer las acciones ofensivas contra los grupos terroristas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5232,7 +5232,7 @@
   "palabras": "",
   "lead": "La estrategia de la Fundación Valle del Lili acompaña a 425 hospitales de 27 departamentos del país. En entrevista con Caracol Radio, la doctora María Fernanda Escobar explicó cómo la capacitación médica y la telemedicina permiten fortalecer la atención en territorios apartados y reducir las muertes evitables.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5243,7 +5243,7 @@
   "palabras": "",
   "lead": "A partir de este miércoles 28 de octubre, Prosperidad Social inicia un nuevo ciclo de entregas de Colombia Mayor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5254,7 +5254,7 @@
   "palabras": "",
   "lead": "La medida aplicará desde el jueves 29 de octubre hasta la madrugada del 3 de noviembre por la celebración de Halloween. Conozca los horarios en los que no podrá circular.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5265,7 +5265,7 @@
   "palabras": "",
   "lead": "La Academia Latina de la Grabación anunció nuevos artistas para la gala del 12 de noviembre en Las Vegas, que también rendirá homenaje al centenario del nacimiento de José Alfredo Jiménez.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5276,7 +5276,7 @@
   "palabras": "",
   "lead": "Ambos equipos mantienen la ilusión de clasificar a los cuadrangulares finales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5287,7 +5287,7 @@
   "palabras": "",
   "lead": "La organización confirmó que la cuenta de Instagram de Isabella Daes ya fue recuperada y rechazó los señalamientos contra Salwa Maloof Habib.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5298,7 +5298,7 @@
   "palabras": "",
   "lead": "El conjunto Cardenal disputará el juego por el tercer puesto ante Olimpia o Cruzeiro, luego de perder en la semifinal.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5309,7 +5309,7 @@
   "palabras": "",
   "lead": "La denuncia pide revisar los soportes presupuestales y los retrasos en el proyecto de seguridad. Un veedor ciudadano solicitó la intervención de organismos de control para verificar la ejecución de los recursos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5320,7 +5320,7 @@
   "palabras": "",
   "lead": "Las labores incluyen mantenimiento de subestaciones, adecuación de redes y cambio de elementos eléctricos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5331,7 +5331,7 @@
   "palabras": "",
   "lead": "Conozca por qué Villavicencio se ha consolidado como una alternativa para vivir e invertir cerca de Bogotá y, además, qué buscan hoy las familias al elegir vivienda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5342,7 +5342,7 @@
   "palabras": "",
   "lead": "La Asociación Colombiana de Infectología advirtió que la falta de estos tratamientos puede dificultar la prevención de la transmisión del VIH de madre a hijo, la atención de menores víctimas de violencia sexual y el tratamiento de niños que viven con el virus.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5353,7 +5353,7 @@
   "palabras": "Política,Matador,Senado de la República,pelea",
   "lead": "El Pacto Histórico defendió la presencia del caricaturista en la plenaria, pero fue retirado con el apoyo de la Policía, luego de las denuncias sobre maltr...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5364,7 +5364,7 @@
   "palabras": "Deportes,Luis Díaz,Daniel Muñoz,Premier League de Inglaterra,Bundesliga,Selección Colombia,Boxeo",
   "lead": "El delantero colombiano habló con el streamer Ibai Llanos en la gala del Balón de Oro y dejó una llamativa declaración.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5375,7 +5375,7 @@
   "palabras": "Política,Abelardo de la Espriella,Bogotá,Inseguridad,Militares,Gobierno",
   "lead": "El jefe de Estado reveló además que en Bogotá hay 660.119 migrantes, de los cuales 148.000 se encuentran en condición irregular.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5386,7 +5386,7 @@
   "palabras": "Economía,Ministerio de Minas y Energía,Antioquia,Minería,Ministerio de Ambiente",
   "lead": "El suroeste antioqueño responde con firmas y exige ser escuchado sobre el proyecto minero Quebradona",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5397,7 +5397,7 @@
   "palabras": "Orden Público,Abelardo de la Espriella,Presidencia de la República,Capturados,Barranquilla",
   "lead": "La operación ‘Lanza Roja’, desarrollada por la Policía Nacional y el FBI, permitió la captura de dos y frustró el envío de cocaína a Estados Unidos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5408,6 +5408,182 @@
   "palabras": "Sociedad,Estadio Atanasio Girardot,Indeportes,Medellín, Colombia,Antioquia",
   "lead": "Atanasio Girardot se prepara para recibir más de 60.000 espectadores: la EDU alista la licitación",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Burger Fest Madrid: hamburgueserías artesanales de Cundinamarca competirán del 6 al 15 de noviembre",
+  "enlace": "https://www.bluradio.com/turismo/burger-fest-madrid-hamburgueserias-artesanales-de-cundinamarca-competiran-del-6-al-15-de-noviembre-so35",
+  "fecha": "2026-10-28T18:14:35-05:00",
+  "palabras": "Madrid",
+  "lead": "El municipio de la Sabana de Occidente reunirá durante diez días a nueve tiendas artesanales con creaciones exclusivas, ingredientes locales y panes horneados en la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Morat rindió homenaje a las víctimas del accidente ferroviario en España: \"Lo sentimos muy de cerca\"",
+  "enlace": "https://www.bluradio.com/entretenimiento/morat-rindio-homenaje-a-las-victimas-del-accidente-ferroviario-en-espana-lo-sentimos-muy-de-cerca-so35",
+  "fecha": "2026-10-28T18:24:34-05:00",
+  "palabras": "España, Morat",
+  "lead": "El grupo expresó su cercanía con las personas afectadas por el siniestro, en el que chocaron dos trenes, y destacó el vínculo que mantiene con España.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturaron en Barranquilla ‘La Patrona’ y ‘Pau’, enlaces del Cártel Jalisco y el Clan del Golfo",
+  "enlace": "https://www.bluradio.com/regiones/caribe/capturaron-en-barranquilla-la-patrona-y-pau-enlaces-del-cartel-jalisco-y-el-clan-del-golfo-rg10",
+  "fecha": "2026-10-28T18:57:27-05:00",
+  "palabras": "Noticias de hoy, Caribe, Barranquilla, Policía Nacional",
+  "lead": "Según los reportes, ambos tenían la función de dirigir y coordinar toda la cadena logística para el tráfico y transporte de drogas desde la costa Caribe hacia Centroamérica, Estados Unidos y Europa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Famoso presentador de televisión pateó dron y terminó golpeando en la cara a modelo colombiana",
+  "enlace": "https://www.bluradio.com/sociedad/famoso-presentador-de-television-pateo-dron-y-termino-golpeando-en-la-cara-a-modelo-colombiana-rs15",
+  "fecha": "2026-10-28T18:43:55-05:00",
+  "palabras": "Viral, México, Ernesto Chavana, es show, isabella la colombiana, isabella rojas, la colombiana, modelo colombiana",
+  "lead": "La joven tuvo que salir del escenario ante el golpe en su boca y fue auxiliada por sus compañeros durante algunos minutos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alertan en Cali por casos de personas desaparecidas: 143 siguen sin conocerse su paradero",
+  "enlace": "https://caracol.com.co/2026/10/29/alertan-en-cali-por-casos-de-personas-desaparecidas-143-siguen-sin-conocerse-su-paradero/",
+  "fecha": "2026-10-28T19:03:10-05:00",
+  "palabras": "",
+  "lead": "De las personas reportadas como desaparecidas en la Capital del Valle, 34 eran menores de edad y 114 mujeres.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo avanza la escombrera temporal habilitada tras el terremoto en Armenia?",
+  "enlace": "https://caracol.com.co/2026/10/28/como-avanza-la-escombrera-temporal-habilitada-tras-el-terremoto-en-armenia/",
+  "fecha": "2026-10-28T18:59:33-05:00",
+  "palabras": "",
+  "lead": "El punto temporal para el almacenamiento de escombros tras el terremoto en Armenia tiene un tiempo de funcionamiento estimado de seis meses con posibilidad de ampliación",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez no aceptó cargos por supuesto soborno de $1.200 millones que dejó en libertad a extraditable",
+  "enlace": "https://caracol.com.co/2026/10/28/juez-no-acepto-cargos-por-supuesto-soborno-de-1200-millones-que-dejo-en-libertad-a-extraditable/",
+  "fecha": "2026-10-28T18:40:00-05:00",
+  "palabras": "",
+  "lead": "Un funcionario del Complejo Judicial y una abogada también se declararon inocentes. La Fiscalía pedirá que sean enviados a la cárcel.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump evita comentar la autoproclamación presidencial de Flávio Bolsonaro",
+  "enlace": "https://caracol.com.co/2026/10/28/trump-evita-comentar-la-autoproclamacion-presidencial-de-flavio-bolsonaro/",
+  "fecha": "2026-10-28T18:55:41-05:00",
+  "palabras": "",
+  "lead": "El mandatario dijo que no intervendrá en la situación política de Brasil, pero sí comentó que las elecciones fueron “extrañas”.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno Nacional evalúa “nivelar la cancha” con impuestos a compras por Amazon, Shein y Temu",
+  "enlace": "https://caracol.com.co/2026/10/28/gobierno-nacional-evalua-nivelar-la-cancha-con-impuestos-a-compras-por-amazon-shein-y-temu/",
+  "fecha": "2026-10-28T18:52:34-05:00",
+  "palabras": "",
+  "lead": "Los tributos se fijarían en la Ley de Ajuste Fiscal",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El fútbol se beneficia por decisión de Sencia sobre conciertos: partidos que se jugarán en El Campín",
+  "enlace": "https://caracol.com.co/2026/10/28/el-futbol-se-beneficia-por-decision-de-sencia-sobre-conciertos-partidos-que-se-jugaran-en-el-campin/",
+  "fecha": "2026-10-28T18:49:06-05:00",
+  "palabras": "",
+  "lead": "La empresa dio a conocer modificaciones en conciertos en pro del fútbol en la capital.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caso contra Maduro en Estados Unidos ahora estará a cargo de la jueza Analisa Torres",
+  "enlace": "https://caracol.com.co/2026/10/28/caso-contra-maduro-en-estados-unidos-ahora-estara-a-cargo-de-la-jueza-analisa-torres/",
+  "fecha": "2026-10-28T18:49:01-05:00",
+  "palabras": "",
+  "lead": "El caso fue reasignado a la jueza Analisa Torres tras la muerte del magistrado Alvin K. Hellerstein, quien estaba liderando el juicio.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reserva Federal mantiene tasas de interés sin cambios antes de elecciones legislativas",
+  "enlace": "https://caracol.com.co/2026/10/28/reserva-federal-mantiene-tasas-de-interes-sin-cambios-antes-de-elecciones-legislativas/",
+  "fecha": "2026-10-28T18:42:20-05:00",
+  "palabras": "",
+  "lead": "Pese a los llamados del presidente Donald Trump de rebajar las tasas, la Fed optó por no variar la política monetaria para reducir la inflación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consejo de Estado admite tutela de Mikhail Krasnov contra la anulación de su elección en Tunja",
+  "enlace": "https://caracol.com.co/2026/10/28/consejo-de-estado-admite-tutela-de-mikhail-krasnov-contra-la-anulacion-de-su-eleccion-en-tunja/",
+  "fecha": "2026-10-28T18:28:07-05:00",
+  "palabras": "",
+  "lead": "La Sección Cuarta estudiará la solicitud por presuntas vulneraciones al debido proceso y al acceso a la justicia. La admisión no suspende el fallo que anuló su elección como alcalde.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salvavidas de la C.Constitucional permite a exgobernador de La Guajira recobrar su libertad",
+  "enlace": "https://caracol.com.co/2026/10/28/salvavidas-de-la-cconstitucional-permite-a-exgobernador-de-la-guajira-recobrar-su-libertad/",
+  "fecha": "2026-10-28T18:15:44-05:00",
+  "palabras": "",
+  "lead": "El exgobernador de La Guajira, Jorge Pérez Bernier, quedará en libertad mientras se define en la Sala de Casación Penal el proceso de corrupción por el cual fue condenado en primera instancia a 22 años de prisión.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "SIC requirió a 9 empresas por presuntos incumplimientos de entrega de energía en medio de El Niño",
+  "enlace": "https://caracol.com.co/2026/10/28/sic-requirio-a-9-empresas-por-presuntos-incumplimientos-de-entrega-de-energia-en-medio-de-el-nino/",
+  "fecha": "2026-10-28T18:13:49-05:00",
+  "palabras": "",
+  "lead": "La Superintendencia de Industria y Comercio hizo esta solicitud tras la petición del presidente Abelardo De la Espriella, quien pidió investigar a las generadoras térmicas de energía por posibles incumplimientos de entrega de energía firme, pese a recibir recursos del cargo por confiabilidad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SIC pide cuentas a generadoras de energía térmica",
+  "enlace": "https://www.lafm.com.co/sociedad/sic-generadoras-de-energia-el-nino-incumplimientos-415496",
+  "fecha": "2026-10-28T18:15:00-05:00",
+  "palabras": "Sociedad,Energía eléctrica,Superintendencia de Industria y Comercio,Ministerio de Minas y Energía",
+  "lead": "​La Superintendencia de Industria y Comercio quiere verificar si las empresas cumplen las reglas de libre competencia.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
