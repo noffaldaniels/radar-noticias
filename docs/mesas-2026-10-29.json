@@ -265,6 +265,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Discuten sobre la posible candidatura de Gustavo Petro a la alcaldía de Barranquilla y la de Claudia López en Bogotá para 2030.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:59",
+   "quien": "Juan Pablo (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "La Policía de Israel rechazó las afirmaciones del partido Likud de Benjamín Netanyahu sobre presunto fraude en las elecciones con votos de partidos árabes israelíes, señalando que no existen pruebas ni investigaciones que respalden tales acusaciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:59",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La senadora María Irma Noreña generó polémica tras su presencia en la plenaria del Senado, donde fue criticada por rechazar la presencia del caricaturista Matador y defender la legitimidad de las elecciones y la postura del Congreso frente al respeto político.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:59",
+   "quien": "Senadora María Irma Noreña",
+   "que": "La senadora defendió la presencia de sus fichas en el gobierno de Abelardo de la Espriella y rechazó las críticas sobre el uso de la figura de Matador, afirmando que su partido busca construir y no destruir las instituciones.",
+   "resaltar": false
   }
  ],
  "avisos": [
