@@ -5991,7 +5991,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 28 de octubre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6002,7 +6002,7 @@
   "palabras": "Sinuano noche, Chances y Loterías, Resultados del chance",
   "lead": "El chance Sinuano Noche realiza su sorteo los domingos a las 10:30 p. m. Este miércoles 28 de octubre de 2026 los participantes pueden revisar el resultado oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6013,7 +6013,7 @@
   "palabras": "Caribeña noche, Chances y Loterías, Resultados del chance",
   "lead": "El chance Caribeña Noche es uno de los juegos de azar más consultados por los apostadores. Este miércoles 28 de octubre de 2026 los participantes pueden consultar el resultado del sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6024,7 +6024,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Super Astro Luna",
   "lead": "El Super Astro Luna juega todos los días, incluidos domingos y festivos. Este miércoles 28 de octubre de 2026 los participantes pueden consultar el resultado del sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6035,7 +6035,7 @@
   "palabras": "Lotería del Meta, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Todos los premios completos y el mayor que entrega 1.800 millones de pesos de la Lotería del Meta en su último sorteo 3321.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6046,7 +6046,7 @@
   "palabras": "Lotería del Valle, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Conozca la lista de resultados que la Lotería del Valle realizó este miércoles 28 de octubre de 2026 por el sorteo 4872.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6057,7 +6057,7 @@
   "palabras": "Brasil, Elecciones Brasil, Flávio Bolsonaro",
   "lead": "El hijo mayor del expresidente Jair Bolsonaro compartió en su perfil de X dos cartas abiertas en un intervalo de 30 minutos, en las que denunció, sin pruebas, que hubo un supuesto \"fraude\" en la segunda vuelta electoral del domingo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6068,7 +6068,7 @@
   "palabras": "Noticias de hoy, Aranceles",
   "lead": "El ministro de Comercio espera que esto se pueda lograr antes del 31 de diciembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6079,7 +6079,7 @@
   "palabras": "Lotería de Manizales, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Conozca la lista de resultados que la Lotería de Manizales realizó este miércoles 28 de octubre de 2026 por el sorteo 4980.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6090,7 +6090,7 @@
   "palabras": "",
   "lead": "El exfuncionario es investigado por presunto prevaricato por acción y por omisión. La Fiscalía cuestiona que hubiera revocado la medida de aseguramiento sin resolver debidamente el conflicto de competencias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6101,7 +6101,7 @@
   "palabras": "",
   "lead": "Al menos cinco de los ocho cupos a Libertadores y Sudamericana del próximo año se definen a través de dicha tabla.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6112,7 +6112,7 @@
   "palabras": "",
   "lead": "Conozca los resultados de las loterías y el Baloto de este 28 de octubre 2026 y anote sus números de la suerte.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6123,7 +6123,7 @@
   "palabras": "",
   "lead": "La situación fue detectada de manera oportuna y al pacer; se hizo luego de que algunos aspirantes terminaron el examen y salieron de los salones). La UdeA niega que el cuadernillo se haya filtrado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6134,7 +6134,7 @@
   "palabras": "",
   "lead": "La persecución inició desde el barrio Arroz Barato",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6145,7 +6145,7 @@
   "palabras": "Deportes,Liga BetPlay,Independiente Santa Fe,Millonarios,Estadio El Campín,IDRD",
   "lead": "En el Concejo de Bogotá se ha planteado triplicar la capacidad del Estadio de Techo para recibir partidos de Santa Fe y Millonarios ante la ola de conciert...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6156,6 +6156,116 @@
   "palabras": "Actualidad,Alcaldía de Bogotá,Gobierno,Cultura ciudadana,Población vulnerable,convivencia",
   "lead": "En el conversatoeii participaron 35 expositores en 15 espacios diferentes, con la presencia de siete universidades.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Metro hasta la calle 100, estudios línea 4 y buses eléctricos: balance reunión Gobierno-Distrito",
+  "enlace": "https://www.bluradio.com/regiones/bogota/metro-hasta-la-calle-100-estudios-linea-4-y-buses-electricos-balance-reunion-gobierno-distrito-pr30",
+  "fecha": "2026-10-28T21:47:27-05:00",
+  "palabras": "Metro de Bogotá, Calle 13, Secretaría de Hacienda, Ministerio de Hacienda, Gobierno nacional, Entrevista, Metro, Metro de Bogotá",
+  "lead": "En este encuentro se realizó una radiografía de los proyectos claves para Bogotá y los acuerdos para que se ejecuten.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asesinaron con arma de fuego a dos jóvenes al salir de una cancha en Campamento, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/asesinaron-con-arma-de-fuego-a-dos-jovenes-al-salir-de-una-cancha-en-campamento-antioquia-rg10",
+  "fecha": "2026-10-28T21:28:28-05:00",
+  "palabras": "Fiscalía General de la Nación, Policía Nacional, Antioquia, Noticias de hoy",
+  "lead": "Según el reporte policial, los atacantes les dispararon sin mediar palabra. Uno de los jóvenes, identificado como Emmanuel Torres Sánchez, fue trasladado al hospital local La Sagrada Familia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Empleo en Bogotá: empresa ofrece más de 600 empleos para bachilleres en varias áreas",
+  "enlace": "https://www.bluradio.com/sociedad/empleo-en-bogota-empresa-ofrece-mas-de-600-empleos-para-bachilleres-en-varias-areas-so35",
+  "fecha": "2026-10-28T21:53:21-05:00",
+  "palabras": "Empleo, Trabajo, Ofertas de empleo, Chapinero",
+  "lead": "Entre las oportunidades hay empleos que no requieren experiencia, mientras que otras ofertas solicitan seis meses, un año o más de trayectoria laboral, según el cargo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinJusticia le respondió a Samper tras críticas al Gobierno: “Mida con la misma vara”",
+  "enlace": "https://caracol.com.co/2026/10/29/minjusticia-le-respondio-a-samper-tras-criticas-al-gobierno-mida-con-la-misma-vara/",
+  "fecha": "2026-10-28T21:46:16-05:00",
+  "palabras": "",
+  "lead": "El ministro de Justicia, Iván Cancino, le recordó al expresidente Ernesto Samper las dificultades que afrontó su gobierno para avanzar en su agenda tras el escándalo del proceso 8000.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente Abelardo anuncia recursos para la línea 4 del Metro de Bogotá y otros proyectos",
+  "enlace": "https://caracol.com.co/2026/10/29/presidente-abelardo-anuncia-recursos-para-la-linea-4-del-metro-de-bogota-y-otros-proyectos/",
+  "fecha": "2026-10-28T21:27:47-05:00",
+  "palabras": "",
+  "lead": "El mandatario anunció que financiará los estudios y diseños de la línea 4 del Metro a través del Fondes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recortes fiscales y reforma pensional",
+  "enlace": "https://caracol.com.co/2026/10/29/recortes-fiscales-y-reforma-pensional/",
+  "fecha": "2026-10-28T21:26:31-05:00",
+  "palabras": "",
+  "lead": "En Hora 20, los panelistas analizaron el complejo panorama que atraviesan las finanzas públicas y el futuro de las pensiones de los colombianos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo Lotería de Manizales: resultado premio mayor hoy 28 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-loteria-de-manizales-resultado-premio-mayor-hoy-28-de-octubre-415517",
+  "fecha": "2026-10-28T21:50:00-05:00",
+  "palabras": "Sociedad,Lotería de Manizales,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
+  "lead": "Ya hay número ganador del premio mayor este miércoles 28 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liga Betplay: cuentas de Santa Fe, Millonarios y DIM para clasificar",
+  "enlace": "https://www.lafm.com.co/deportes/liga-betplay-santafe-millonarios-medellin-cuadrangulares-cuentas-415516",
+  "fecha": "2026-10-28T21:46:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Independiente Santa Fe,Millonarios,Deportivo Independiente Medellín,América de Cali,Deportivo Cali,Cúcuta Deportivo,Atlético Nacional",
+  "lead": "A falta de tres jornadas y algunos partidos aplazados, la Liga Betplay define sus clasificados para el grupo de los 8. Hay varios equipos que hacen cuentas...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobernadora del Tolima hace llamado urgente al presidente",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobernadora-del-tolima-urge-al-gobierno-ante-hechos-de-violencia-415514",
+  "fecha": "2026-10-28T21:37:00-05:00",
+  "palabras": "Orden Público,Gobernación del Tolima,Asesinato,desaparición de personas,Minería,Abelardo de la Espriella",
+  "lead": "Recientemente fueron asesinados un menor y un adulto, quienes buscaban oro en Ataco.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los 10 mejores colegios de Colombia según los resultados de las pruebas Saber 11 - 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/diez-mejores-colegios-colombia-segun-resultados-prueba-icfes-2026-415513",
+  "fecha": "2026-10-28T21:32:00-05:00",
+  "palabras": "Sociedad,Icfes,Educación,Colegios",
+  "lead": "Conoce el ranking de las mejores instituciones educativas del país en 2026 y las regiones más destacadas en el Icfes.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
