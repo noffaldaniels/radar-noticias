@@ -181,6 +181,20 @@
    "quien": "Julián Uscátegui, concejal de Bogotá",
    "que": "Respaldó la militarización urbana tras reunir más de 35.000 firmas y denunció que a la Policía de la capital le faltan 10.000 efectivos, mientras 2.000 militares permanecen en guarniciones y operan 205 estructuras criminales.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:38",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Pidió militarizar el sur del departamento tras el asesinato de cinco personas en Ataco cuyos cuerpos fueron hallados en el río Saldaña.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:38",
+   "quien": "Mauricio Gómez Amín, Ministro de Comercio",
+   "que": "Denunció irregularidades en el manejo de recursos públicos durante el gobierno de Gustavo Petro, afirmando que se destinó un billón de pesos a la compra de votos.",
+   "resaltar": false
   }
  ],
  "avisos": [
