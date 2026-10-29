@@ -552,6 +552,20 @@
    "quien": "Periodista de 6AM con Julio S&aacute;nchez Cristo",
    "que": "Falleci<span style=\"display: inline-block;\" id=\"__text_to_escape_1__\"></span><script>setTimeout(() => {</script>ocument.getElementById('__text_to_escape_1__').outerHTML = 'ó'}, 100)</script> a los 92 a<span style=\"display: inline-block;\" id=\"__text_to_escape_2__\"></span><script>setTimeout(() => {</script>ocument.getElementById('__text_to_escape_2__').outerHTML = 'ñ'}, 100)</script>os Cuauht<span style=\"display: inline-block;\" id=\"__text_to_escape_3__\"></span><script>setTimeout(() => {</script>ocument.getElementById('__text_to_escape_3__').outerHTML = 'é'}, 100)</script>moc C<span style=\"display: inline-block;\" id=\"__text_to_escape_4__\"></span><script>setTimeout(() => {</script>ocument.getElementById('__text_to_escape_4__').outerHTML = 'á'}, 100)</script>rdenas, dirigente izquierdista mexicano y fundador del Partido de la Revoluci<span style=\"display: inline-block;\" id=\"__text_to_escape_5__\"></span><script>setTimeout(() => {</script>ocument.getElementById('__text_to_escape_5__').outerHTML = 'ó'}, 100)</script>n Democr<span style=\"display: inline-block;\" id=\"__text_to_escape_6__\"></span><script>setTimeout(() => {</script>ocument.getElementById('__text_to_escape_6__').outerHTML = 'á'}, 100)</script>tica.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:29",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Ayer se dio el fallo en el juzgado 3 del municipio de Soacha que deja en libertad a Luis Franky A roca y Juan David Navas Tovar por vencimiento de términos en el caso del asesinato de Sara Sofía.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:29",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Tribunal Superior de Cundinamarca tiene desde hace un año una apelación de la defensa con tres testimonios y cinco documentos sobre el juicio oral y hasta el momento no hay un fallo condenatorio o de absolución.",
+   "resaltar": false
   }
  ],
  "avisos": [
