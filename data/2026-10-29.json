@@ -7,7 +7,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 28 de octubre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Lotería del Valle, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Conozca la lista de resultados que la Lotería del Valle realizó este miércoles 28 de octubre de 2026 por el sorteo 4872.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Lotería de Manizales, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Conozca la lista de resultados que la Lotería de Manizales realizó este miércoles 28 de octubre de 2026 por el sorteo 4979.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Baloto, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Todos los resultados del sorteo 2.728 de Baloto y Revancha en Colombia del miércoles 28 de octubre de 2026. Consulte la combinación ganadora, la tabla de aciertos y los nuevos acumulados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Reforma pensional, Centro Democrático, Congreso de la República, Entrevista, centro democratico, contrarreforma pensional, pensiones, pensiones en colombia, reforma pensional",
   "lead": "Proponen que los trabajadores tengan la posibilidad de elegir si continúan cotizando en Colpensiones o si prefieren hacerlo en un fondo privado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Chevron, José Manuel Restrepo",
   "lead": "La multinacional estadounidense confirmó que destinará los recursos financieros durante los próximos años en el marco de la estrategia estatal \"Misión Crecer\".",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Álvaro Uribe Vélez",
   "lead": "Jaime Granados, abogado de Álvaro Uribe, pidió sancionar a del Río por divulgar información reservada sobre masacres en Antioquia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Abelardo De La Espriella, Migración Venezolana, Migración Colombia",
   "lead": "El jefe de Estado dio una instrucción tajante a Migración Colombia tras finalizar un Consejo de Seguridad junto al alcalde de la capital, Carlos Fernando Galán.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Gustavo Petro, Presidencia de la República, Ministerio de las TIC",
   "lead": "La decisión se conoce tras un balance que reportó 353 juntas en operación y 20.143 hogares conectados, con corte al 30 de septiembre de 2026, cifras inferiores a las metas contractuales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "España, Tren, Europa",
   "lead": "En este sentido, dijo que \"se tomarán todas las medidas que se consideren oportunas\" y \"con total contundencia\" para \"reconstruir\" la confianza en el sistema ferroviario español y garantizar \"aún más\" la seguridad de los viajeros.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Feminicidio, Bosa, Ojo de la noche",
   "lead": "Un familiar de la víctima reveló que ella ya había sufrido agresiones y que, días antes del crimen, buscó refugio en su casa junto a sus tres hijas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Robo celulares, Colombia, Santander, Bucaramanga, Policía Nacional, Fiscalía General de la Nación, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "Una denuncia ciudadana permitió a la Policía llegar hasta una vivienda del barrio Alfonso López, donde encontraron los equipos móviles reportados como hurtados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Flávio Bolsonaro, Estados Unidos, Elecciones Brasil",
   "lead": "\"No voy a hacer comentarios al respecto, pero sé que le dimos permiso para entrar al país\", aseguró Trump a los medios al ser preguntado sobre qué opinaba de la carta difundida poco antes en redes sociales por Bolsonaro.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Pico y placa, Bogotá, Movilidad, Vehículos",
   "lead": "La restricción vehicular aplica este jueves 29 de octubre para las placas terminadas en 6, 7, 8, 9, 0 en la capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "",
   "lead": "Varios establecimientos comerciales han sido sorprendidos en esta ciudad, bajo las mismas condiciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "Abelardo Carrillo, exdirector de alta velocidad española, afirmó que “una tecnología sea superada no significa que la primera no deba funcionar”:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "Si la Corte Constitucional avala el trámite en la Cámara la iniciativa empezaría a regir el 1 de abril de 2027",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "",
   "lead": "Su suegra aún permanece en cautiverio",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "“Juancho Kily” volverá a los estrados judiciales este jueves 29 de octubre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "El Grupo Argos avanza en su programa estratégico denominado Argos Convergence Effort, lanzado en agosto de este año, con el objetivo de cerrar la brecha entre el precio de mercado de sus acciones y el valor fundamental de la compañía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Autoridades avanzan en las investigaciones",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Hay más de 80 heridos por el trágico choque entre un AVE y un Iryo en Urda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "Ante esta cifra, el Ministerio de Salud y el Invima hacen un llamado a fortalecer la farmacovigilancia, detectar riesgos a tiempo y convertir estos reportes en acciones que prevengan daños y protejan la salud de los pacientes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "Una de las víctimas fue atacada después de dejar a su hijo en el colegio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "La ministra Alexandra Falla expuso la situación del programa que buscaba llevar internet a las zonas apartadas. Hay incumplimientos en cobertura y en calidad del servicio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "El predio será rehabilitado en dos meses para albergar las nuevas sedes del IPCC, la Corporación de Fiestas de Independencia y la Junta de Acción Comunal de Pie del Cerro",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "El también ministro del Interior (e), Iván Cancino, pidió sustentar con pruebas las denuncias. También anunció que presentarán ante la justicia las pruebas de los escándalos del Gobierno anterior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "El Presidente aseguró que la misión de los medios públicos es formar, alfabetizar y transformar vidas en todo el territorio nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Solicitó al Gobierno Nacional y al Ministerio de Defensa el envío de más tropas para recuperar el control territorial.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "La crisis de las disidencias en Antioquia de alias Calarcá habría comenzado con la alianza de Primo Gay y Macho Viejo con el Clan del Golfo. La captura de alias Lobo habría influido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "La entidad rechazó las amenazas denunciadas por Gregorio Eljach, solicitó esclarecer los hechos y verificar su alcance para garantizar la seguridad del procurador.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "Continúa el desarrollo de la fecha 5 de la Liga colombiana, que tuvo que ser postergada por el terremoto de agosto.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "Conozca los topes máximos por minuto fijados por el Decreto 026 de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Actualidad,Abelardo de la Espriella,Ministerio de Justicia,Iván Cepeda",
   "lead": "El ministro de Justicia defendió la presunción de inocencia del presidente, cuestionó los señalamientos del senador y aseguró que el Gobierno también tiene...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "Actualidad,Accidente,Cartagena,Playas,Medicina Legal",
   "lead": "Tragedia en Barú, cerca a Cartagena: joven antioqueño de 18 años murió tras accidente con motos acuáticas",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -424,6 +424,50 @@
   "fecha": "2026-10-28T22:04:00-05:00",
   "palabras": "Sociedad,Lluvias,Tormenta eléctrica,Inundaciones,Transmicable",
   "lead": "A las 7:30 p. m., el Idiger advirtió que las lluvias venían acompañadas de actividad eléctrica.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿De quién eran los explosivos y químicos hallados en la zona de Santurbán?",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/de-quien-eran-los-explosivos-y-quimicos-hallados-en-la-zona-de-santurban-rg10",
+  "fecha": "2026-10-29T06:18:16-05:00",
+  "palabras": "Páramo de Santurbán, Santurbán, California, Santander, Ejército Nacional, Bucaramanga, Minería Ilegal, Minería, Oro, Blu Radio",
+  "lead": "Allanamientos en California y Suratá permitieron decomisar 120 kilos de explosivos, 200 kilos de cianuro, mercurio y equipos para la extracción ilegal de oro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "María Corina Machado visita estado devastado por doble terremoto y se reúne con afectados",
+  "enlace": "https://www.bluradio.com/mundo/maria-corina-machado-visita-estado-devastado-por-doble-terremoto-y-se-reune-con-afectados-cb20",
+  "fecha": "2026-10-29T06:10:55-05:00",
+  "palabras": "María Corina Machado, Venezuela, Terremoto hoy",
+  "lead": "\"Desde el primer día, la prioridad de María Corina Machado era clara: estar en Vargas (antiguo nombre de La Guaira), al lado de su gente\", señaló el Comando con Venezuela.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Santa Marta se busca replicar modelo español de aprovechamiento de residuos",
+  "enlace": "https://caracol.com.co/2026/10/29/en-santa-marta-se-busca-replicar-modelo-espanol-de-aprovechamiento-de-residuos/",
+  "fecha": "2026-10-29T06:15:43-05:00",
+  "palabras": "",
+  "lead": "La prestación del servicio de aseo en Santa Marta tendrá un nuevo esquema a partir del 12 de marzo de 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desde Antioquia alertan por crisis en el sistema de salud de los maestros",
+  "enlace": "https://caracol.com.co/2026/10/29/desde-antioquia-alertan-por-crisis-en-el-sistema-de-salud-de-los-maestros/",
+  "fecha": "2026-10-29T06:12:16-05:00",
+  "palabras": "",
+  "lead": "La secretaria de Educación de Antioquia también advirtió de necesidades en infraestructura e incremento de recursos para el Programa de Alimentación Escolar, PAE.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
