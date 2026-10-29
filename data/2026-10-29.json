@@ -480,7 +480,7 @@
   "palabras": "Airbnb, Turismo, Vacaciones",
   "lead": "Estas estancias estarán dirigidas a personas desplazadas por motivos médicos y a personas supervivientes de violencia doméstica, operando en coordinación con su ONG Airbnb.org y otras organizaciones benéficas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Renault",
   "lead": "El fabricante francés aumentó sus ingresos un 1,5% gracias a alianzas como la de Geely en Brasil, mientras sus marcas vendieron un 6% menos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Noticias de hoy, Tibú, Homicidios",
   "lead": "El cuerpo presentaba siete impactos de arma de fuego en la región abdominal, según el reporte de las autoridades.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Vaticano, Mercedes Benz, Historia, Vehículos",
   "lead": "Una nueva exposición en el Vaticano recorre cien años de evolución tecnológica y simbólica de los vehículos utilizados por los papas para acercarse a los fieles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "Miguel Castellanos fue asesinado en el anillo vial",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "El concejal del Centro Democrático, Julián Uscétegui habló en 6AM W sobre la propuesta de militarizar zonas rurales cercanas a Bogotá para mejorar la seguridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "Hasta el momento, se ha inspeccionado 25 de las 31 plantas de tratamiento objeto de seguimiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Serán tres días de feria con ingreso gratuito para que los visitantes conozcan las características turísticas de cada región del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Considerado líder histórico de la izquierda, su trayectoria quedó ligada a la construcción de una oposición con capacidad de desafiar al sistema político dominante en México.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "La acción judicial busca anular la decisión del Ministerio de Ambiente que eliminó la protección de 48,3 millones de hectáreas frente a nuevas concesiones mineras y contratos de hidrocarburos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "El operativo estará enfocado en la protección de niños y adolescentes, la prevención de incidentes y el control en sectores de alta afluencia de familias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "El operativo se llevó a cabo bajo condiciones de seguridad, con el propósito de garantizar su protección y activar la ruta de restablecimiento de sus derechos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Las labores están dirigidas a recuperar los tramos críticos y facilitar los desplazamientos de las comunidades que dependen de este corredor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "La Policía anunció que las acciones se mantendrán hasta diciembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "Una de las víctimas quedó embarazada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "El operativo incluye inspecciones en la cárcel de alta y media seguridad, controles a extranjeros, allanamientos y cuatro capturas por tráfico de estupefacientes",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "De acuerdo con la información suministrada, el establecimiento completa cerca de tres años de deuda y presenta un consumo mensual cercano a los $9 millones de pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "César Restrepo, secretario de Seguridad de Bogotá, habla sobre la propuesta de militarizar varias zonas de la capital",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "La IPS que le brindaba la atención lo retiró del programa en los últimos días.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,6 +700,138 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Estas son las noticias más importantes de este jueves en La FM.",
   "seccion": "mesas",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colegio Bilingüe Divino Niño de Bucaramanga, primer lugar en pruebas Saber 11 del país",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/colegio-bilingue-divino-nino-de-bucaramanga-primer-lugar-en-pruebas-saber-11-del-pais-rg10",
+  "fecha": "2026-10-29T07:04:01-05:00",
+  "palabras": "Bucaramanga, Santander, Pruebas Saber, Icfes, Blu Radio",
+  "lead": "Con un puntaje de 404, la institución se ubicó en el primer puesto del listado nacional, que reúne a más de 14.000 colegios públicos y privados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan cuál fue la orden que desató el choque de trenes que dejó más de 60 muertos en España",
+  "enlace": "https://www.bluradio.com/mundo/revelan-cual-fue-la-orden-que-desato-el-choque-de-trenes-que-dejo-mas-de-60-muertos-en-espana-rs15",
+  "fecha": "2026-10-29T07:03:46-05:00",
+  "palabras": "España, Accidente de tránsito",
+  "lead": "En las grabaciones se escucha la comunicación entre el controlador ferroviario y los maquinistas, minutos antes del impacto.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bukele envía más de 2.000 militares a Haití en busca de salvadoreños emboscados",
+  "enlace": "https://www.bluradio.com/mundo/bukele-envia-mas-de-2-000-militares-a-haiti-en-busca-de-salvadorenos-emboscados-cb20",
+  "fecha": "2026-10-29T07:03:55-05:00",
+  "palabras": "Noticias de hoy, Nayib Bukele, El Salvador",
+  "lead": "El Gobierno reveló la cifra de soldados desplegados, tras informar que el presidente de El Salvador, Nayib Bukele, conversó este miércoles por teléfono con el primer ministro de Haití.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Adiós al hotel Bella Isla de San Gil, Santander. Demolieron uno de los íconos del turismo",
+  "enlace": "https://caracol.com.co/2026/10/29/adios-al-hotel-bella-isla-de-san-gil-santander-demolieron-uno-de-los-iconos-del-turismo/",
+  "fecha": "2026-10-29T07:07:01-05:00",
+  "palabras": "",
+  "lead": "En el predio se construirá una sede de la Universidad Industrial de Santander, UIS.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Se justifica la invitación del caricaturista ‘Matador’ al Senado? Congresistas debaten en 6AM W",
+  "enlace": "https://caracol.com.co/2026/10/29/se-justifica-la-invitacion-del-caricaturista-matador-al-senado-congresistas-debaten-en-6am-w/",
+  "fecha": "2026-10-29T07:03:04-05:00",
+  "palabras": "",
+  "lead": "Las senadoras María Irma Noreña del Partido de la U e Isabel Zuleta del Pacto Histórico, hablaron en Caracol Radio sobre el polémico episodio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kevin Parra ofreció disculpas, tras polémico video en TikTok: “Reconozco mis errores, me equivoqué”",
+  "enlace": "https://caracol.com.co/2026/10/29/kevin-parra-ofrecio-disculpas-tras-polemico-video-en-tik-tok-reconozco-mis-errores-me-equivoque/",
+  "fecha": "2026-10-29T07:00:05-05:00",
+  "palabras": "",
+  "lead": "El atacante de Atlético Nacional también desmintió una supuesta publicación en la que atacaba a la afición Verdolaga.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a dos hombres que amenazaron con armas a varias personas en una riña en Bello, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/29/capturan-a-dos-hombres-que-amenazaron-con-armas-a-varias-personas-en-una-rina-en-bello-antioquia/",
+  "fecha": "2026-10-29T07:08:19-05:00",
+  "palabras": "",
+  "lead": "Los sujetos quedaron a disposición de las autoridades judiciales para responder por el delito de porte de arma de fuego.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La presidenta del Banco Central Europeo, Christine Lagarde, dejará el cargo el 7 de febrero de 2027",
+  "enlace": "https://caracol.com.co/2026/10/29/la-presidenta-del-banco-central-europeo-christine-lagarde-dejara-el-cargo-el-7-de-febrero-de-2027/",
+  "fecha": "2026-10-29T07:02:43-05:00",
+  "palabras": "",
+  "lead": "El Consejo Europeo deberá iniciar ahora el proceso para escoger a su sucesor, una decisión que podría abrir la puerta a candidatos como el español Pablo Hernández de Cos o el neerlandés Klaas Knot.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombiano detenido por ICE cuando iba a trabajar al Capitolio de EE.UU sale del centro de detención",
+  "enlace": "https://caracol.com.co/2026/10/29/colombiano-detenido-por-ice-cuando-iba-a-trabajar-al-capitolio-de-eeuu-sale-del-centro-de-detencion/",
+  "fecha": "2026-10-29T07:02:03-05:00",
+  "palabras": "",
+  "lead": "Luis Rodrigo Espíndola Suárez, chef y electricista colombiano radicado en Washington, D. C., salió del centro de detención migratorio luego de que su familia pagara una fianza, informó su esposa, Anita Sandoval.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno de la Espriella tiene que restituir obras del Museo Nacional",
+  "enlace": "https://www.lafm.com.co/orden-publico/juzgado-orden-museo-nacional-colombia-devolver-obras-retiradas-pizarro-y-demas-415528",
+  "fecha": "2026-10-29T07:08:00-05:00",
+  "palabras": "Orden Público,Fallo judicial,Ministerio de Cultura,Carlos Pizarro,Museos,Bogotá",
+  "lead": "La decisión fue emitida este miércoles 28 de octubre, y se debe a varias acciones de tutela que buscaban proteger derechos fundamentales sobre la libertad ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Petro sería candidato a la alcaldía de Barranquilla y Claudia López de Bogotá?",
+  "enlace": "https://www.lafm.com.co/politica/petro-seria-candidato-a-la-alcaldia-de-barranquilla-y-claudia-de-bogota-415529",
+  "fecha": "2026-10-29T06:59:00-05:00",
+  "palabras": "Política,Elecciones en Colombia,alcaldes,Gustavo Petro,Claudia López",
+  "lead": "La izquierda estaría planteando ganar las elecciones gubernamentales y de alcaldías para ejercer una oposición más fuerte.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Lloverá el fin de semana de Halloween? esto dice IDEAM",
+  "enlace": "https://www.lafm.com.co/sociedad/halloween-pronostico-del-clima-fin-de-semana-en-colombia-415523",
+  "fecha": "2026-10-29T05:57:00-05:00",
+  "palabras": "Sociedad,Colombia,Halloween,Ideam,Lluvias,Temperatura,Bajas temperaturas,Calor",
+  "lead": "La lluvia seguirá siendo protagonista en el occidente y el centro del país; pero también se registrará el aumento de la temperatura en algunos puntos.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
