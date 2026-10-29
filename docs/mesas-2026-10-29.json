@@ -524,6 +524,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Chevrolet y Texaco anuncian inversiones por 100 millones de dólares para Colombia con el respaldo del Gobierno Nacional y el vicepresidente de la República, José Manuel Restrepo.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:10",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Entre 2022 y 2024, los fines de semana de Halloween se registraron aproximadamente 16 víctimas fatales por año, el 80% motociclistas. Se busca una reducción del 75% en víctimas fatales y 51% en heridos con las nuevas medidas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:12",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se menciona el decreto 472 de 2026 sobre restricciones de movilidad nocturna para parrilleros y motocicletas entre las 8:00 p.m. y las 4:00 a.m. en 19 corredores viales de Bogotá, con excepciones para emergencias, servicios públicos y seguridad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:18",
+   "quien": "Mauricio Collazos (Fiscalía)",
+   "que": "Se denuncia un caso de vencimiento de términos en un proceso de un año por el homicidio de un adolescente de 17 años en Sucha, Cundinamarca, donde los acusados quedarán en libertad.",
+   "resaltar": false
   }
  ],
  "avisos": [
