@@ -1140,7 +1140,7 @@
   "palabras": "Viral, Argentina, Muerte menores",
   "lead": "El pequeño permaneció varios días en cuidados intensivos tras sufrir graves lesiones. Su madre también relató las dificultades que enfrentó para conseguir ayuda durante la emergencia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "Medellín, Antioquia, Noticias de hoy",
   "lead": "MinDefensa, los comandantes de las Fuerzas Militares y la Policía Nacional fueron citados al encuentro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "España",
   "lead": "El sindicato exige la dimisión de Óscar Puente y sostiene que la tragedia en Toledo revela una crisis de gestión, no el error de un trabajador.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "Medellín, Accidente de tránsito, Noticias de hoy",
   "lead": "El señor Félix Arango Garcés, de 64 años de edad se movilizaba en bicicleta el pasado domingo cuando ocurrió el accidente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Noticias de hoy, Estados Unidos, Ejército Nacional",
   "lead": "Tras el anuncio de la llegada de 300 soldados de ese país, el gobernador Andrés Julián Rendón propuse que entrenamientos sean en suelo paisa",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Medellín, Noticias de hoy",
   "lead": "Su madre recorrió sectores de la Minorista, Santa Fe de Antioquia y otros puntos donde le han asegurado que lo vieron.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "La mujer se presentó voluntariamente en la vereda Quemadero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "El foro “Mercado Público de Cartagena, una transición histórica y cultural” reunió expertos para analizar el valor económico y cultural de los mercados públicos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "Aunque la Policía indicó que el conductor habría autorizado retirar la mercancía, la situación generó preocupación por el riesgo al que se expusieron las personas, en un corregimiento marcado por la tragedia de la explosión hace unos años de un camión cisterna donde más de 40 personas perdieron la vida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "El abogado Santiago Trespalacios se refirió a los recientes operativos de seguridad liderados por el presidente Abelardo de la Espriella: “está violando la Constitución”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Los hechos habrían ocurrido cuando la menor tenía 12 años y posteriormente fueron denunciados por la madre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "El general en retiro explicó que el despliegue de las Fuerzas Militares en las calles debe responder a circunstancias excepcionales y no convertirse en una medida ordinaria para enfrentar la inseguridad ciudadana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Abogado de la Universidad Externado de Colombia con más de 21 años de experiencia profesional",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "El último caso se registró en el barrio Bella Suiza de Ibagué donde fue víctima de feminicidio una mujer identificada como Alba Pérez de 53 años quien murió a manos presuntamente de su pareja identificado como Henry Salgado.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "Por ahora se desconoce el paradero de las otras dos personas que fueron retenidas por el grupo armado ilegal.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1304,6 +1304,391 @@
   "fecha": "2026-10-29T08:23:15-05:00",
   "palabras": "",
   "lead": "Las estaciones Calle 53 y Flores serán las alternativas ante el cierre de la estación temporal para la continuidad de las obras del Metro.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Niña murió tras ser arrollada por un motociclista en la Av. Boyacá de Bogotá: hay cierre vial",
+  "enlace": "https://www.bluradio.com/regiones/bogota/nina-murio-tras-ser-arrollada-por-un-motociclista-en-la-av-boyaca-de-bogota-hay-cierre-vial-rs15",
+  "fecha": "2026-10-29T08:50:37-05:00",
+  "palabras": "Accidente de tránsito, Movilidad, Avenida Boyacá, Muerte menores",
+  "lead": "Las autoridades de tránsito desplegaron unidades en la zona para atender la emergencia y orientar a los conductores. Recomiendan tomar la avenida Caracas hacia el norte como ruta alterna.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobernadora Adriana Matiz pide militarizar el departamento: \"El Tolima no puede esperar más\"",
+  "enlace": "https://www.bluradio.com/nacion/gobernadora-adriana-matiz-pide-militarizar-el-departamento-el-tolima-no-puede-esperar-mas-rg10",
+  "fecha": "2026-10-29T08:51:34-05:00",
+  "palabras": "Tolima, Seguridad ciudadana, Abelardo De La Espriella",
+  "lead": "La mandataria también solicitó el regreso de la Fuerza de Despliegue Rápido (FUDRA) al departamento para combatir diferentes delitos.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Familia de Juan José Correa exige condena tras libertad de acusados por vencimiento de términos",
+  "enlace": "https://www.bluradio.com/judicial/familia-de-juan-jose-correa-exige-condena-tras-libertad-de-acusados-por-vencimiento-de-terminos-rg10",
+  "fecha": "2026-10-29T09:12:37-05:00",
+  "palabras": "Soacha, Homicidios",
+  "lead": "El adolescente murió después de una discusión relacionada con el pago de 6.000 pesos por una mazamorra que les había vendido a los dos hombres. En medio del altercado, recibió una herida con arma blanca en el tórax que le causó la muerte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comercio electrónico e industria textil respaldan cobrar IVA a plataformas como Amazon, Shein y Temu",
+  "enlace": "https://www.bluradio.com/economia/comercio-electronico-e-industria-textil-respaldan-cobrar-iva-a-plataformas-como-amazon-shein-y-temu-pr30",
+  "fecha": "2026-10-29T09:20:09-05:00",
+  "palabras": "Comercio electrónico, Temu, IVA",
+  "lead": "En la actualidad, las compras internacionales que ingresan bajo la modalidad de tráfico postal y envíos urgentes por montos inferiores a los 200 dólares no pagan IVA, lo que genera una diferencia frente a los artículos adquiridos en establecimientos comerciales dentro del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo ataque con drones en El Tarra deja tres personas heridas en el Catatumbo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nuevo-ataque-con-drones-explosivos-en-el-tarra-deja-tres-personas-heridas-en-el-catatumbo-pr30",
+  "fecha": "2026-10-29T09:28:19-05:00",
+  "palabras": "Noticias de hoy, Catatumbo, Drones",
+  "lead": "El hecho se registró en el kilómetro 90 y las víctimas sufrieron lesiones leves, por lo que no requirieron traslado a centros asistenciales.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo fortalecer la cooperación entre la UE y Colombia para combatir las redes de crimen organizado?",
+  "enlace": "https://caracol.com.co/2026/10/29/como-fortalecer-la-cooperacion-entre-la-ue-y-colombia-para-combatir-las-redes-de-crimen-organizado/",
+  "fecha": "2026-10-29T09:29:33-05:00",
+  "palabras": "",
+  "lead": "Javier Zarzalejos, jefe de delegación y presidente de la Comisión de (LIBE) del Parlamento Europeo, se encuentra en Colombia para reforzar la cooperación entre la UE y Colombia para combatir las redes del crimen organizado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Frank Fabra tras derrota ante Internacional: “Vamos a ganar los tres partidos y a clasificar”",
+  "enlace": "https://caracol.com.co/2026/10/29/frank-fabra-tras-derrota-ante-internacional-vamos-a-ganar-los-tres-partidos-y-a-clasificar/",
+  "fecha": "2026-10-29T09:25:42-05:00",
+  "palabras": "",
+  "lead": "El experimentando lateral ofreció disculpas a los aficionados por la derrota y expresó su respaldo incondicional al DT.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carolina Figueredo Carrillo será la directora de la Comisión de Regulación de Comunicaciones (CRC)",
+  "enlace": "https://caracol.com.co/2026/10/29/carolina-figueredo-carrillo-sera-la-directora-de-la-comision-de-regulacion-de-comunicaciones-crc/",
+  "fecha": "2026-10-29T09:14:11-05:00",
+  "palabras": "",
+  "lead": "Su hoja de vida fue publicada en consulta pública por la entidad el 28 de octubre de 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Careos de De la Espriella afectan debido proceso de capturados? Abogado Francisco Bernate explica",
+  "enlace": "https://caracol.com.co/2026/10/29/careos-de-de-la-espriella-afectan-debido-proceso-de-capturados-abogado-francisco-bernate-explica/",
+  "fecha": "2026-10-29T09:05:55-05:00",
+  "palabras": "",
+  "lead": "El reconocido jurista estuvo en 6AM W de Caracol Radio explicando las consecuencias de los videos de operativos protagonizados por el presidente.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La CEOE confirma el fallecimiento de la exministra Fátima Báñez en el accidente ferroviario de Urda",
+  "enlace": "https://caracol.com.co/2026/10/29/la-ceoe-confirma-el-fallecimiento-de-la-exministra-fatima-banez-en-el-accidente-ferroviario-de-urda/",
+  "fecha": "2026-10-29T09:18:31-05:00",
+  "palabras": "",
+  "lead": "La patronal Confederación Española de Organizaciones Empresariales ha confirmado el fallecimiento de la exministra de Empleo y presidenta de la Fundación CEOE, Fátima Báñez, en el accidente ferroviario de Urda (Toledo).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Noah Wyle, actor de la serie “The Pitt”, fue nombrado como el hombre más sexy del mundo en 2026",
+  "enlace": "https://caracol.com.co/2026/10/29/noah-wyle-actor-de-la-serie-the-pitt-fue-nombrado-como-el-hombre-mas-sexy-del-mundo-en-2026/",
+  "fecha": "2026-10-29T09:15:10-05:00",
+  "palabras": "",
+  "lead": "“Pensé que se trataba de una broma; ni en un millón de años imaginé que recibiría un honor así”, confesó.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ryan Castro llegará a Bogotá este 31 de octubre con su espectáculo de Halloween Awooween",
+  "enlace": "https://caracol.com.co/2026/10/29/ryan-castro-llegara-a-bogota-este-31-de-octubre-con-su-espectaculo-de-halloween-awooween/",
+  "fecha": "2026-10-29T09:13:29-05:00",
+  "palabras": "",
+  "lead": "El artista colombiano se presentará en el estadio El Campín con una propuesta musical que coincide con la celebración de Halloween.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Histórico! Milwaukee Brewers conquistaron su primera Serie Mundial de la MLB",
+  "enlace": "https://caracol.com.co/2026/10/29/historico-milwaukee-brewers-conquistaron-su-primera-serie-mundial-de-la-mlb/",
+  "fecha": "2026-10-29T09:13:05-05:00",
+  "palabras": "",
+  "lead": "Tras 57 años de historia, Los Cerveceros vencieron 4-1 a los Tampa Bay Rays en el quinto partido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 29 de octubre 2026 en Colombia: la divisa internacional inicia la jornada al alza",
+  "enlace": "https://caracol.com.co/2026/10/29/dolar-hoy-29-de-octubre-2026-en-colombia-la-divisa-internacional-inicia-la-jornada-al-alza/",
+  "fecha": "2026-10-29T09:04:17-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este jueves 29 de octubre. Conozca el comportamiento del dólar estadounidense y canadiense, además del euro, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayó ‘Dimax’ en Medellín: habría fingido ser indígena para evadir prisión por homicidios en Cali",
+  "enlace": "https://caracol.com.co/2026/10/29/cayo-dimax-en-medellin-habria-fingido-ser-indigena-para-evadir-prision-por-homicidios-en-cali/",
+  "fecha": "2026-10-29T09:10:32-05:00",
+  "palabras": "",
+  "lead": "El cabecilla de la estructura criminal planeaba utilizar identidades suplantadas desde Panamá para abandonar el continente americano y establecerse en Países Bajos o Australia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cabildo Mayor abre convocatoria para participar de la elección de su representante",
+  "enlace": "https://caracol.com.co/2026/10/29/cabildo-mayor-abre-convocatoria-para-participar-de-la-eleccion-de-su-representante/",
+  "fecha": "2026-10-29T09:09:15-05:00",
+  "palabras": "",
+  "lead": "Las postulaciones para elegir representantes de las personas mayores, se encuentra abierta del 28 de octubre al 9 de noviembre para el periodo 2027-2031. Los mayores que deseen inscribirse para votar solo podrán el 29 de octubre y el 9 de noviembre, en los puntos habilitados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Panelo Valencia responde a los críticos del Once Caldas: “Este equipo tiene sentido de pertenencia”",
+  "enlace": "https://caracol.com.co/2026/10/29/panelo-valencia-responde-a-los-criticos-del-once-caldas-este-equipo-tiene-sentido-de-pertenencia/",
+  "fecha": "2026-10-29T09:06:44-05:00",
+  "palabras": "",
+  "lead": "El entrenador valoró el triunfo ante Alianza y confía en la clasificación a cuadrangulares.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unicartagena crea aplicativo de orientación psicológica permanente",
+  "enlace": "https://caracol.com.co/2026/10/29/unicartagena-crea-aplicativo-de-orientacion-psicologica-permanente/",
+  "fecha": "2026-10-29T09:05:54-05:00",
+  "palabras": "",
+  "lead": "La iniciativa, desarrollada en convenio con el Ministerio de Educación Nacional, busca fortalecer la salud mental, las competencias socioemocionales y la permanencia estudiantil",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía incauta 2.160 voladores que serían vendidos durante las fiestas patronales de Magangué",
+  "enlace": "https://caracol.com.co/2026/10/29/policia-incauta-2160-voladores-que-serian-vendidos-durante-las-fiestas-patronales-de-magangue/",
+  "fecha": "2026-10-29T09:03:09-05:00",
+  "palabras": "",
+  "lead": "El cargamento de pólvora fue descubierto en un puesto de control vial en Gambote",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“El voto de Colombia es atípico y genera confusión ante la comunidad internacional”: Arlene Tickner",
+  "enlace": "https://caracol.com.co/2026/10/29/el-voto-de-colombia-es-atipico-y-genera-confusion-ante-la-comunidad-internacional-arlene-tickner/",
+  "fecha": "2026-10-29T08:45:44-05:00",
+  "palabras": "",
+  "lead": "Arlene B Tickner, experta en relaciones internacionales, habla del voto de Colombia en contra de la resolución presentada por Cuba en la ONU contra el embargo de Washington",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aguas de Cartagena finalizó reparación de tubería de acueducto de 250 mm en San Fernando",
+  "enlace": "https://caracol.com.co/2026/10/29/aguas-de-cartagena-finalizo-reparacion-de-tuberia-de-acueducto-de-250-mm-en-san-fernando/",
+  "fecha": "2026-10-29T09:00:49-05:00",
+  "palabras": "",
+  "lead": "El servicio de agua potable se logró normalizar en los sectores que presentaron interrupciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena y The Ocean Cleanup unen fuerzas para proteger los cuerpos de agua y el mar Caribe",
+  "enlace": "https://caracol.com.co/2026/10/29/cartagena-y-the-ocean-cleanup-unen-fuerzas-para-proteger-los-cuerpos-de-agua-y-el-mar-caribe/",
+  "fecha": "2026-10-29T08:57:14-05:00",
+  "palabras": "",
+  "lead": "La alianza avanza en la definición de los diseños técnicos de las soluciones Interceptor para su despliegue en los canales que drenan hacia la Ciénaga de la Virgen",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recomendaciones para que los niños disfruten un Halloween seguro, saludable y feliz en Neiva",
+  "enlace": "https://caracol.com.co/2026/10/29/recomendaciones-para-que-los-ninos-disfruten-un-halloween-seguro-saludable-y-feliz-en-neiva/",
+  "fecha": "2026-10-29T08:55:33-05:00",
+  "palabras": "",
+  "lead": "Las autoridades invitan a padres y cuidadores a prevenir accidentes, revisar dulces y proteger a los menores durante la jornada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "General Esparza alerta por fallas de inteligencia y capacidad de los grupos armados",
+  "enlace": "https://caracol.com.co/2026/10/29/general-esparza-alerta-por-fallas-de-inteligencia-y-capacidad-de-los-grupos-armados/",
+  "fecha": "2026-10-29T08:53:56-05:00",
+  "palabras": "",
+  "lead": "Esparza señaló que las organizaciones armadas han desarrollado redes de información que les permiten estudiar el territorio y anticiparse a las operaciones de la Fuerza Pública.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Docentes de la Normal de Bucaramanga denuncian maltrato laboral: entregaron pruebas al alcalde",
+  "enlace": "https://caracol.com.co/2026/10/29/docentes-de-la-normal-de-bucaramanga-denuncian-maltrato-laboral-entregaron-pruebas-al-alcalde/",
+  "fecha": "2026-10-29T08:46:04-05:00",
+  "palabras": "",
+  "lead": "Los profesores aseguran que entregaron 760 folios al alcalde Cristian Portilla con evidencias de un clima laboral que califican de insostenible. Continúan pidiendo el traslado de la rectora.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades espera poner en servicio antes de finalizar el año la Unidad Permanente de Justicia",
+  "enlace": "https://caracol.com.co/2026/10/29/autoridades-espera-poner-en-servicio-antes-de-finalizar-el-ano-la-unidad-permanente-de-justicia/",
+  "fecha": "2026-10-29T08:45:56-05:00",
+  "palabras": "",
+  "lead": "La infraestructura fue recibida y dotada, ahora avanzan los trámites institucionales para iniciar su operación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Control a las caravanas o golpe a los motociclistas?",
+  "enlace": "https://www.lafm.com.co/politica/medidas-motociclistas-bogota-halloween-debate-en-la-capital-decision-galan-415550",
+  "fecha": "2026-10-29T08:58:00-05:00",
+  "palabras": "Política,Bogotá,Alcaldía de Bogotá,Inseguridad,vías,Caos vial,Congestión vial,Debate",
+  "lead": "Las medidas del mandatario han sido criticadas, pero hace un año las mismas tuvieron un espacio de tiempo más amplios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Benfica sale en defensa de Jhon Durán tras su expulsión",
+  "enlace": "https://www.lafm.com.co/deportes/benfica-defiende-jhon-duran-expulsion-partido-portugal-415536",
+  "fecha": "2026-10-29T08:57:00-05:00",
+  "palabras": "Deportes,Jhon Jáder Durán,Benfica,Fútbol,Deporte,Portugal",
+  "lead": "El delantero ha disputado 15 partidos con 'Las Águilas' durante la temporada 2026-2027. En la liga local ha jugado ocho partidos y ha anotado un gol.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Luz Stella Murgas cada vez más cerca de la ANDI",
+  "enlace": "https://www.lafm.com.co/economia/luz-stella-murgas-cada-vez-mas-cerca-de-la-andi-415549",
+  "fecha": "2026-10-29T08:57:00-05:00",
+  "palabras": "Economía,Cargos gerenciales,ANDI,Gobierno,Gustavo Petro,Laura Sarabia",
+  "lead": "De acuerdo con la información divulgada, otras personas que sonaron para el cargo, como Flavia Santoro y María Claudia Lacouture, no tendrían interés en at...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Christine Legarde abandonará la presidencia del Banco Central Europeo en febrero de 2027",
+  "enlace": "https://www.lafm.com.co/internacional/christine-legarde-dejara-presidencia-banco-central-europeo-febrero-2027-415548",
+  "fecha": "2026-10-29T08:48:00-05:00",
+  "palabras": "Internacional,Europa,Unión Europea,finanzas",
+  "lead": "Legarde abandonará nueve meses antes de la expiración de mandato el cargo, siendo la segunda persona en la historia en hacerlo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Contrabando técnico? Acusación contra TEMU y SHEIN en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/contrabando-tecnico-acusacion-negocio-temy-shein-colombia-415546",
+  "fecha": "2026-10-29T08:48:00-05:00",
+  "palabras": "Sociedad,compras,Internet,Temu,Cámara de Comercio,pagos digitales",
+  "lead": "La presidenta de la Cámara Colombiana de Comercio Electrónico indicó que esta situación no se limita a una ciudad. Según afirmó, se presenta en ciudades in...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Feminicidio de Yuli Yaneth en Bogotá: su familia pide justicia",
+  "enlace": "https://www.lafm.com.co/orden-publico/feminicidio-bogota-yuli-yaneth-aviles-bosa-familia-senala-expareja-policia-autoridades-investigan-415545",
+  "fecha": "2026-10-29T08:22:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Bogotá,Alcaldía de Bogotá,Policía Nacional",
+  "lead": "La mujer regresaba de trabajar, cuando fue atacada por un hombre con un arma blanca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Un nuevo planeta más allá de Plutón: ¿qué se sabe de ED138?",
+  "enlace": "https://www.lafm.com.co/sociedad/astronomos-descubren-planeta-enano-esto-se-sabe-de-ed138-415541",
+  "fecha": "2026-10-29T08:05:00-05:00",
+  "palabras": "Sociedad,Ciencia,Sistema Solar,espacio,Nasa,Planeta Tierra,sistema planetario,Planeta",
+  "lead": "La observación planetaria avanza conforme la tecnologías es más desarrollada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Las mujeres en la mira de las bandas criminales de Atlántico",
+  "enlace": "https://www.lafm.com.co/orden-publico/66-mujeres-muertas-quien-detiene-esta-violencia-en-el-atlantico-415539",
+  "fecha": "2026-10-29T07:59:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Atlántico,Baranoa,Barranquilla,Sicarios,Motociclistas",
+  "lead": "No cesa la violencia y el asesinato contra las mujeres en el Atlántico, dos fueron asesinadas en Galapa y Baranoa",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hallan muerto a odontólogo secuestrado en el Catatumbo",
+  "enlace": "https://www.lafm.com.co/orden-publico/hallan-muerto-reconocido-odontologo-secuestrado-catatumbo-norte-de-santander-medicina-legal-identifica-victima-autoridades-investigan-415532",
+  "fecha": "2026-10-29T07:17:00-05:00",
+  "palabras": "Orden Público,Secuestros,Homicidios,Catatumbo",
+  "lead": "De acuerdo con las primeras informaciones, la identidad del profesional de la salud fue determinada por peritos del Instituto Nacional de Medicina Legal, t...",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
