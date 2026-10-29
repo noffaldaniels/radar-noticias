@@ -3791,7 +3791,7 @@
   "palabras": "Fomag, Antioquia, Noticias de hoy",
   "lead": "Según la información conocida desde el Occidente antioqueño, hace varias semanas se había reportado una deuda de 360 millones de pesos que no fue pagada, por lo que el centro asistencial suspendió el servicio de consulta externa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3802,7 +3802,7 @@
   "palabras": "Noticias de hoy, Antioquia, Embarazo",
   "lead": "El caso científico excepcional ha generado gran expectativa entre especialistas médicos y habitantes del Bajo Cauca antioqueño por la baja probabilidad de ocurrencia de este fenómeno.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3813,7 +3813,7 @@
   "palabras": "California",
   "lead": "Stewart, fue famoso por dar vida al Profesor Charles Xavier en la saga cinematográfica de X-Men y al Capitán Jean-Luc Picard en el universo de Star Trek.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3824,7 +3824,7 @@
   "palabras": "Podcast",
   "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3835,7 +3835,7 @@
   "palabras": "Cúcuta, Abelardo De La Espriella, Ejército Nacional",
   "lead": "El objetivo del jefe de Estado es recuperar el control del orden público antes los diversos ataques que se han producido en la ciudad en las últimas semanas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3846,7 +3846,7 @@
   "palabras": "Gustavo Petro, Corte Suprema de Justicia",
   "lead": "Su abogado anunció que entregará un celular con chats y videos que respaldarían su testimonio y denunció presiones contra ella y su familia. Por su parte, Alejandro Carranza abogado de Gustavo a Petro anunció dos denuncias ante la Fiscalía, una contra Jiménez y otra contra el director del Dapre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3857,7 +3857,7 @@
   "palabras": "",
   "lead": "Los sujetos obligaron a los pasajeros a descender y secuestraron al conductor, quien permaneció retenido hasta la madrugada de este jueves, cuando fue liberado en una zona rural.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3868,7 +3868,7 @@
   "palabras": "Estados Unidos, Marco Rubio",
   "lead": "A través de una carta 19 miembros de la Cámara de Representantes de Estados Unidos, encabezados por Mark Pocan, le solicitaron al secretario de Estado, Marco Rubio, rechazar cualquier apoyo financiero, técnico o logístico para reanudar la fumigación con glifosato en Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3879,7 +3879,7 @@
   "palabras": "",
   "lead": "El Senado de la República debatirá a partir de este viernes 30 de octubre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3890,7 +3890,7 @@
   "palabras": "",
   "lead": "Lo grave es que muchos se tornan agresivos, violentos provocan daños además de agresiones verbales y físicas, desde la alcaldía invitan a denunciar estos hechos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3901,7 +3901,7 @@
   "palabras": "",
   "lead": "La convocatoria nacional fue presentada desde Bucaramanga y permitirá financiar estudios de pregrado y posgrado en Colombia y el exterior.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3912,7 +3912,7 @@
   "palabras": "",
   "lead": "El despliegue fue solicitado por el Servicio Secreto a pesar de que el presidente se encuentra en Carolina del Sur haciendo campaña.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3923,7 +3923,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo de la Espriella ordenó la militarización inmediata temporal de Cúcuta mientras estabilizan el orden público, con el propósito de fortalecer el control territorial y enfrentar a las estructura criminales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3934,7 +3934,7 @@
   "palabras": "",
   "lead": "Con su llegada a cuartos de final, el alemán se proclamará como el número 1 del ATP el próximo 2 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3945,7 +3945,7 @@
   "palabras": "",
   "lead": "El adolescente iba en moto al momento de los hechos",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3956,7 +3956,7 @@
   "palabras": "",
   "lead": "A los extraditados se suma un cabecilla de la banda de Los Choneros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3967,7 +3967,7 @@
   "palabras": "",
   "lead": "Los presuntos hechos se presentaron el pasado 20 de octubre en un consultorio de la sede de alta complejidad de la E.S.E. Universitaria del Atlántico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3978,7 +3978,7 @@
   "palabras": "",
   "lead": "Tenía 33 años y el vehículo era de alto cilindraje",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3989,7 +3989,7 @@
   "palabras": "",
   "lead": "La ‘Canarinha’ enfrentará en territorio asiático a Japón y Singapur.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4000,7 +4000,7 @@
   "palabras": "",
   "lead": "El Coronel Juan Pablo Ruiz atendió directamente las inquietudes en materia de seguridad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4011,7 +4011,7 @@
   "palabras": "Internacional,X Men,profesor,Hollywood,actor,estrellas",
   "lead": "Patrick Stewart falleció el miércoles, luego que su familia anunciara la noticia este jueves 29 de octubre.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4022,7 +4022,7 @@
   "palabras": "Política,Militares,Norte de Santander,Abelardo de la Espriella,Catatumbo",
   "lead": "El presidente Abelardo De La Espriella dio cuatro órdenes a la Fuerza Pública para recuperar la seguridad en la capital de Norte de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4033,7 +4033,7 @@
   "palabras": "Deportes,Liga BetPlay,Deportivo Independiente Medellín",
   "lead": "Lo directivos de Independiente Medellín estuvieron a escasos minutos de despedir al entrenador, pero los referentes del equipo pidieron otra oportunidad pa...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4044,7 +4044,7 @@
   "palabras": "Economía,Wall Street,Bolsa de valores,Google,caída,Nueva York",
   "lead": "El retroceso se produjo tras la publicación de sus cifras del tercer trimestre, afectadas por la desaceleración de su negocio de publicidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4055,7 +4055,7 @@
   "palabras": "Actualidad,Icetex,Carreras universitarias,universidades,Universidades de Colombia,Bucaramanga",
   "lead": "Desde Bucaramanga, el vicepresidente José Manuel Restrepo anuncia nuevas oportunidades de financiación educativa con el Icetex para 25.000 beneficiarios en...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4066,7 +4066,7 @@
   "palabras": "Internacional,Tren,España,Choque múltiple,Accidente",
   "lead": "La cifra reciente corresponde al último reporte oficial divulgado de forma conjunta por el gobierno regional y el ministerio.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4077,7 +4077,7 @@
   "palabras": "Sociedad,Emisión de carbono,Ministerio del Trabajo,Trabajadores,Corficolombiana",
   "lead": "El Ministerio del Trabajo destacó la necesidad de fortalecer la estabilidad laboral, la seguridad y la protección social, así como ampliar las oportunidade...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4088,7 +4088,7 @@
   "palabras": "Economía,Turismo,Ecoturismo,Hoteles de lujo,hotelería",
   "lead": "Cotelco pidió al Gobierno medidas contra la informalidad turística y actualizar el Registro Nacional de Turismo para nivelar la competencia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4099,7 +4099,7 @@
   "palabras": "Política,María Fernanda Cabal,Seguridad privada,Francisco Barbosa,Cartagena",
   "lead": "En Cartagena se realizó el panel “Recuperación del territorio y la institucionalidad”, dentro del Congreso Internacional de Seguridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4110,7 +4110,7 @@
   "palabras": "Orden Público,Corte Suprema de Justicia,Congreso de la República,Gustavo Petro",
   "lead": "La investigación podrá avanzar para esclarecer las presuntas irregularidades detrás de una actuación que generó una fuerte controversia política.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4121,7 +4121,7 @@
   "palabras": "Entretenimiento,actor,Cultura,Marvel,Cine,Hollywood,Arte",
   "lead": "El actor falleció a los 86 años en su residencia de Los Ángeles, tras enfrentar el Alzheimer.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4132,7 +4132,7 @@
   "palabras": "Actualidad,Poncho Zuleta,Barranquilla,Siniestro vial,Vallenato,Valledupar",
   "lead": "El maestro vallenato visitó a su hijo en la Clínica Iberoamérica de Barranquilla y confirmó que permanece en la Unidad de Cuidados Intensivos (UCI).",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4143,7 +4143,7 @@
   "palabras": "Economía,Salario Mínimo,Fenalco,Aumento salarial",
   "lead": "Desde Cartagena, el presidente del gremio, Jaime Alberto Cabal, anunció que regresarán a las mesas de concertación tras retirarse de las negociaciones de 2...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4154,6 +4154,270 @@
   "palabras": "Orden Público,ELN,Catatumbo,disidencias,Drones",
   "lead": "El Ejército desactivó una carga explosiva que había sido instalada en la misma jurisdicción por parte del ELN.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Joven epiléptico murió tras seguir plan de ChatGPT para reducir su medicación",
+  "enlace": "https://www.bluradio.com/tecnologia/joven-epileptico-murio-tras-seguir-plan-de-chatgpt-para-reducir-su-medicacion-cm25",
+  "fecha": "2026-10-29T16:23:52-05:00",
+  "palabras": "ChatGPT, Inteligencia Artificial, IA, Salud",
+  "lead": "La familia sostiene que ChatGPT le proporcionó instrucciones para reducir progresivamente su medicación sin supervisión médica, una decisión que precedió a una crisis fatal en febrero de 2026.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Casa Libertad, una nueva oportunidad para las personas en prisión",
+  "enlace": "https://www.bluradio.com/nacion/casa-libertad-una-nueva-oportunidad-para-las-personas-en-prision-rg10",
+  "fecha": "2026-10-29T16:22:50-05:00",
+  "palabras": "Noticias de hoy, Cárceles",
+  "lead": "El programa de la Secretaría Distrital de Seguridad ofrece orientación jurídica, apoyo psicológico, formación y asesoría para el emprendimiento a personas que cumplen prisión domiciliaria o que recuperaron su libertad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno busca levantar las alertas de viaje de EEUU sobre Colombia",
+  "enlace": "https://www.bluradio.com/nacion/gobierno-busca-levantar-las-alertas-de-viaje-de-eeuu-sobre-colombia-rg10",
+  "fecha": "2026-10-29T16:35:48-05:00",
+  "palabras": "Estados Unidos, Viajes",
+  "lead": "La estrategia busca responder a las alertas de viaje emitidas por Estados Unidos sobre Colombia, con el objetivo de evitar que disminuya la llegada de viajeros y el impacto económico en el sector turístico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Triplete de CR7: a 15 goles de los 1.000: 29 de octubre 2026 - Blog Deportivo programa completo",
+  "enlace": "https://www.bluradio.com/blog-deportivo/triplete-de-cr7-a-15-goles-de-los-1-000-29-de-octubre-2026-blog-deportivo-programa-completo-pr30",
+  "fecha": "2026-10-29T17:02:38-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este jueves.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Expansión a Estados Unidos: impuestos y costos que pueden reducir las utilidades",
+  "enlace": "https://www.bluradio.com/economia/expansion-a-estados-unidos-impuestos-y-costos-que-pueden-reducir-las-utilidades-so35",
+  "fecha": "2026-10-29T16:54:13-05:00",
+  "palabras": "Estados Unidos",
+  "lead": "Estados Unidos continúa siendo uno de los mercados más atractivos para las compañías colombianas que buscan internacionalizar sus productos y servicios.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué es la acondroplasia y cuáles son las complicaciones que pueden enfrentar los pacientes?",
+  "enlace": "https://www.bluradio.com/salud/que-es-la-acondroplasia-y-cuales-son-las-complicaciones-que-pueden-enfrentar-los-pacientes-rs15",
+  "fecha": "2026-10-29T16:56:38-05:00",
+  "palabras": "",
+  "lead": "Aunque suele asociarse con la baja estatura, esta condición genética puede causar complicaciones respiratorias, dolor crónico y dificultades de movilidad que requieren atención médica integral y oportuna.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sectores académicos rechazan nombramiento de Camilo Noguera Pardo como director del ICANH",
+  "enlace": "https://www.bluradio.com/nacion/sectores-academicos-rechazan-nombramiento-de-camilo-noguera-pardo-como-director-del-icanh-rg10",
+  "fecha": "2026-10-29T17:05:03-05:00",
+  "palabras": "Gobierno nacional, Abelardo De La Espriella",
+  "lead": "En una carta abierta dirigida al presidente Abelardo de la Espriella y a la ministra de Cultura, Paola Holguín, investigadores cuestionaron el perfil profesional del abogado y advirtieron sobre los retos científicos y patrimoniales que enfrenta la entidad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comerciantes afectados por obra del deprimido en Armenia siguen esperando las ayudas económicas",
+  "enlace": "https://caracol.com.co/2026/10/29/comerciantes-afectados-por-obra-del-deprimido-en-armenia-siguen-esperando-las-ayudas-economicas/",
+  "fecha": "2026-10-29T17:08:39-05:00",
+  "palabras": "",
+  "lead": "Desde la alcaldía de Armenia aseguran que ya está definido el auxilio económico que solo resta un tema jurídico para conocer cómo serán las entregas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Festival de las Flores 2026 en Madrid: programación gratuita hasta el 1 de noviembre",
+  "enlace": "https://caracol.com.co/2026/10/29/festival-de-las-flores-2026-en-madrid-programacion-gratuita-hasta-el-1-de-noviembre/",
+  "fecha": "2026-10-29T17:07:22-05:00",
+  "palabras": "",
+  "lead": "El municipio de Madrid, Cundinamarca, continúa con la edición número 18 del Festival de las Flores, que ofrece conciertos, cine, actividades culturales y eventos familiares",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "REVOO, el gigante de motos eléctricas que busca conquistar Expo2Ruedas 2026 con descuentos y premios",
+  "enlace": "https://caracol.com.co/2026/10/29/revoo-el-gigante-de-motos-electricas-que-busca-conquistar-expo2ruedas-2026-con-descuentos-y-premios/",
+  "fecha": "2026-10-29T17:06:01-05:00",
+  "palabras": "",
+  "lead": "La movilidad eléctrica se toma Expo2Ruedas 2026. REVOO llega a Corferias con motos eléctricas desde $1.550.000, pruebas de manejo, descuentos exclusivos y la oportunidad de ganar una moto Y06 o uno de los seis celulares que sorteará junto a itel.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concluye conteo electoral en Israel: ¿quién será el nuevo líder de gobierno?",
+  "enlace": "https://caracol.com.co/2026/10/29/concluye-conteo-electoral-en-israel-quien-sera-el-nuevo-lider-de-gobierno/",
+  "fecha": "2026-10-29T17:05:40-05:00",
+  "palabras": "",
+  "lead": "Si bien el partido del primer ministro fue el más votado, ninguna coalición ha obtenido las mayorías para liderar el gobierno.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Videos y audios que incriminarían a presunto agresor sexual de menor de 16 años en Puerto Colombia",
+  "enlace": "https://caracol.com.co/2026/10/29/videos-y-audios-que-incriminarian-a-presunto-agresor-sexual-de-menor-de-16-anos-en-puerto-colombia/",
+  "fecha": "2026-10-29T16:31:36-05:00",
+  "palabras": "",
+  "lead": "Caracol Radio revela en primicia audios y videos que comprometerían a Juan Fernando Álvarez Torres, conocido como Juancho Kily, imputado por acto sexual violento agravado contra una campeona de surf de 16 años, por hechos denunciados el 2 de octubre en Puerto Colombia, Atlántico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Centro Democrático estaría analizando una candidatura de María Claudia Tarazona al Concejo de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/29/centro-democratico-estaria-analizando-una-candidatura-de-maria-claudia-tarazona-al-concejo-de-bogota/",
+  "fecha": "2026-10-29T16:57:09-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con fuentes en el interior de ese partido, la viuda de Miguel Uribe Turbay podría ocupar la cabeza de lista para esa corporación en las elecciones de 2027.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Identifican a joven que murió en accidente de tránsito en el norte de Barranquilla",
+  "enlace": "https://caracol.com.co/2026/10/29/identifican-a-joven-que-murio-en-accidente-de-transito-en-el-norte-de-barranquilla/",
+  "fecha": "2026-10-29T16:55:54-05:00",
+  "palabras": "",
+  "lead": "La víctima, de 19 años, falleció en el lugar de los hechos tras colisionar con un automóvil y caer hacia un bus que transitaba por la carrera 46 con calle 82.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cristiano Ronaldo anota triplete en triunfo de Al Nassr ¿Cuántos goles le faltan para los 1.000?",
+  "enlace": "https://caracol.com.co/2026/10/29/cristiano-ronaldo-anota-triplete-en-triunfo-de-al-nassr-cuantos-goles-le-faltan-para-los-1000/",
+  "fecha": "2026-10-29T16:53:25-05:00",
+  "palabras": "",
+  "lead": "¿Alcazará el portugués el objetivo en lo que resta del 2026? Estos partidos le quedan.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las regiones se destacan en las Saber 11: nueve de los 10 mejores colegios están fuera de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/29/las-regiones-se-destacan-en-las-saber-11-nueve-de-los-10-mejores-colegios-estan-fuera-de-bogota/",
+  "fecha": "2026-10-29T16:52:34-05:00",
+  "palabras": "",
+  "lead": "Bucaramanga lideró el ranking nacional con 404 puntos sobre 500. Boyacá obtuvo el mejor promedio territorial de calendario A.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía de Tunja confirma que habrá Aguinaldo Boyacense, pero bajo criterios de austeridad",
+  "enlace": "https://caracol.com.co/2026/10/29/alcaldia-de-tunja-confirma-que-habra-aguinaldo-boyacense-pero-bajo-criterios-de-austeridad/",
+  "fecha": "2026-10-29T16:49:34-05:00",
+  "palabras": "",
+  "lead": "El alcalde Rafael Guillermo Acevedo Pedroza aseguró que la celebración continuará. La Administración definirá las medidas de seguridad de acuerdo con las características de cada evento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sogamoso se transforma con la apuesta en infraestructura más ambiciosa de su historia",
+  "enlace": "https://caracol.com.co/2026/10/29/sogamoso-se-transforma-con-la-apuesta-en-infraestructura-mas-ambiciosa-de-su-historia/",
+  "fecha": "2026-10-29T16:46:33-05:00",
+  "palabras": "",
+  "lead": "Entre los proyectos, que suman una inversión de más de $350 mil millones de pesos, se incluye un moderno edificio administrativo y la recuperación del espacio público, así como la construcción de ejes viales estratégicos y convenios solidarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría de Medellín halló presunta irregularidad en EPM de $700 millones en la compra de Afinia",
+  "enlace": "https://caracol.com.co/2026/10/29/contraloria-de-medellin-hallo-presunta-irregularidad-en-epm-de-700-millones-en-la-compra-de-afinia/",
+  "fecha": "2026-10-29T16:46:32-05:00",
+  "palabras": "",
+  "lead": "Según el ente de control, durante el proceso de compra que finalizó en 2020 se estableció un incumplimiento en los indicadores de recaudo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DT de Boyacá Chicó reveló difícil situación del equipo: “Hay una ruptura entre las partes”",
+  "enlace": "https://caracol.com.co/2026/10/29/dt-de-boyaca-chico-revelo-dificil-situacion-del-equipo-hay-una-ruptura-entre-las-partes/",
+  "fecha": "2026-10-29T16:23:10-05:00",
+  "palabras": "",
+  "lead": "Jaime ‘La Flecha’ Gómez se refirió a la relación entre el club y las entidades gubernamentales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caldas busca reactivar el turismo tras el terremoto de agosto",
+  "enlace": "https://www.lafm.com.co/economia/caldas-busca-reactivar-el-turismo-tras-el-terremoto-415632",
+  "fecha": "2026-10-29T16:49:00-05:00",
+  "palabras": "Economía,Ecoturismo,Turismo,Terremoto en Colombia",
+  "lead": "Caldas busca atraer turistas para fin de año tras reparar la infraestructura afectada por el terremoto del 10 de agosto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Whatsapp: ya se pueden programar mensajes en estas cuentas",
+  "enlace": "https://www.lafm.com.co/sociedad/whatsapp-enviar-mensajes-programados-cuentas-beta-415629",
+  "fecha": "2026-10-29T16:40:00-05:00",
+  "palabras": "Sociedad,WhatsApp,mensajes",
+  "lead": "WhatsApp prueba una nueva función para programar mensajes y enviarlos automáticamente a una hora determinada, aunque por ahora solo está disponible para al...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia recibió reconocimiento de la ONU por restauración de Ciénaga de Mallorquín",
+  "enlace": "https://www.lafm.com.co/sociedad/minambiente-colombia-recibe-reconocimiento-onu-cienaga-mallorquin-415627",
+  "fecha": "2026-10-29T16:32:00-05:00",
+  "palabras": "Sociedad,Medio ambiente,Barranquilla,Ministerio de Ambiente,Proyectos ambientales",
+  "lead": "La iniciativa busca recuperar 740 hectáreas antes de 2030 y fue elegida entre más de 200 propuestas por la Década de la ONU para la Restauración ecológica.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Megatoma deja 32 capturados en Palmira, Valle del Cauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/megatoma-en-palmira-deja-32-capturados-golpe-a-banda-los-300-415602",
+  "fecha": "2026-10-29T14:38:00-05:00",
+  "palabras": "Orden Público,Capturas,Palmira,Gobernación del Valle,Mega operativo,Delitos graves",
+  "lead": "megatoma contra estructuras delincuenciales señaladas de homicidios, hurtos y extorsiones, dejó 32 personas capturadas en Palmira",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
