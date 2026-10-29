@@ -436,7 +436,7 @@
   "palabras": "Páramo de Santurbán, Santurbán, California, Santander, Ejército Nacional, Bucaramanga, Minería Ilegal, Minería, Oro, Blu Radio",
   "lead": "Allanamientos en California y Suratá permitieron decomisar 120 kilos de explosivos, 200 kilos de cianuro, mercurio y equipos para la extracción ilegal de oro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "María Corina Machado, Venezuela, Terremoto hoy",
   "lead": "\"Desde el primer día, la prioridad de María Corina Machado era clara: estar en Vargas (antiguo nombre de La Guaira), al lado de su gente\", señaló el Comando con Venezuela.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "La prestación del servicio de aseo en Santa Marta tendrá un nuevo esquema a partir del 12 de marzo de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,6 +469,237 @@
   "palabras": "",
   "lead": "La secretaria de Educación de Antioquia también advirtió de necesidades en infraestructura e incremento de recursos para el Programa de Alimentación Escolar, PAE.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Las reservas en Airbnb impulsarán estancias gratuitas para quienes más lo necesitan: así funcionará",
+  "enlace": "https://www.bluradio.com/turismo/las-reservas-en-airbnb-impulsaran-estancias-gratuitas-para-quienes-mas-lo-necesitan-asi-funcionara-so35",
+  "fecha": "2026-10-29T06:49:00-05:00",
+  "palabras": "Airbnb, Turismo, Vacaciones",
+  "lead": "Estas estancias estarán dirigidas a personas desplazadas por motivos médicos y a personas supervivientes de violencia doméstica, operando en coordinación con su ONG Airbnb.org y otras organizaciones benéficas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Renault Group eleva su facturación a €11.600 millones en tercer trimestre pese a la caída de ventas",
+  "enlace": "https://www.bluradio.com/motor/renault-group-eleva-su-facturacion-a-11-600-millones-en-tercer-trimestre-pese-a-la-caida-de-ventas-so35",
+  "fecha": "2026-10-29T06:37:29-05:00",
+  "palabras": "Renault",
+  "lead": "El fabricante francés aumentó sus ingresos un 1,5% gracias a alianzas como la de Geely en Brasil, mientras sus marcas vendieron un 6% menos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asesinan a odontólogo secuestrado en Tibú, Norte de Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/asesinan-a-odontologo-secuestrado-en-tibu-norte-de-santander-rs15",
+  "fecha": "2026-10-29T06:52:10-05:00",
+  "palabras": "Noticias de hoy, Tibú, Homicidios",
+  "lead": "El cuerpo presentaba siete impactos de arma de fuego en la región abdominal, según el reporte de las autoridades.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un siglo de papamóvil: la historia del carro que se convirtió en símbolo de las visitas papales",
+  "enlace": "https://www.bluradio.com/motor/un-siglo-de-papamovil-la-historia-del-carro-que-se-convirtio-en-simbolo-de-las-visitas-papales-so35",
+  "fecha": "2026-10-29T06:56:46-05:00",
+  "palabras": "Vaticano, Mercedes Benz, Historia, Vehículos",
+  "lead": "Una nueva exposición en el Vaticano recorre cien años de evolución tecnológica y simbólica de los vehículos utilizados por los papas para acercarse a los fieles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad Especial de Dijin y Fiscalía apoyan investigación por asesinato de ex secretario de gobierno",
+  "enlace": "https://caracol.com.co/2026/10/29/unidad-especial-de-dijin-y-fiscalia-apoyan-investigacion-por-asesinato-de-ex-secretario-de-gobierno/",
+  "fecha": "2026-10-29T06:39:08-05:00",
+  "palabras": "",
+  "lead": "Miguel Castellanos fue asesinado en el anillo vial",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La militarización es una medida legal, el hampón se va a disuadir”: Julián Uscátegui, concejal",
+  "enlace": "https://caracol.com.co/2026/10/29/la-militarizacion-es-una-medida-legal-el-hampon-se-va-a-disuadir-julian-uscategui-concejal/",
+  "fecha": "2026-10-29T06:35:53-05:00",
+  "palabras": "",
+  "lead": "El concejal del Centro Democrático, Julián Uscétegui habló en 6AM W sobre la propuesta de militarizar zonas rurales cercanas a Bogotá para mejorar la seguridad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades inspeccionan plantas de tratamiento de agua del Atlántico: verifican calidad",
+  "enlace": "https://caracol.com.co/2026/10/29/autoridades-inspeccionan-plantas-de-tratamiento-de-agua-del-atlantico-verifican-calidad/",
+  "fecha": "2026-10-29T06:55:13-05:00",
+  "palabras": "",
+  "lead": "Hasta el momento, se ha inspeccionado 25 de las 31 plantas de tratamiento objeto de seguimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este jueves, 29 de octubre, arranca Colombia Travel Expo 2026 en Plaza Mayor Medellín",
+  "enlace": "https://caracol.com.co/2026/10/29/este-jueves-29-de-octubre-arranca-colombia-travel-expo-2026-en-plaza-mayor-medellin/",
+  "fecha": "2026-10-29T06:54:47-05:00",
+  "palabras": "",
+  "lead": "Serán tres días de feria con ingreso gratuito para que los visitantes conozcan las características turísticas de cada región del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió a los 92 años Cuauhtémoc Cárdenas, líder histórico de la izquierda mexicana",
+  "enlace": "https://caracol.com.co/2026/10/29/murio-a-los-92-anos-cuauhtemoc-cardenas-lider-historico-de-la-izquierda-mexicana/",
+  "fecha": "2026-10-29T06:53:40-05:00",
+  "palabras": "",
+  "lead": "Considerado líder histórico de la izquierda, su trayectoria quedó ligada a la construcción de una oposición con capacidad de desafiar al sistema político dominante en México.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Santander demandan ante el Consejo de Estado la revocatoria de reserva ambiental de la Amazonía",
+  "enlace": "https://caracol.com.co/2026/10/29/en-santander-demandan-ante-el-consejo-de-estado-la-revocatoria-de-reserva-ambiental-de-la-amazonia/",
+  "fecha": "2026-10-29T06:31:20-05:00",
+  "palabras": "",
+  "lead": "La acción judicial busca anular la decisión del Ministerio de Ambiente que eliminó la protección de 48,3 millones de hectáreas frente a nuevas concesiones mineras y contratos de hidrocarburos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 800 policías reforzarán la seguridad en Pereira durante la celebración de Halloween",
+  "enlace": "https://caracol.com.co/2026/10/29/mas-de-800-policias-reforzaran-la-seguridad-en-pereira-durante-la-celebracion-de-halloween/",
+  "fecha": "2026-10-29T06:45:34-05:00",
+  "palabras": "",
+  "lead": "El operativo estará enfocado en la protección de niños y adolescentes, la prevención de incidentes y el control en sectores de alta afluencia de familias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jueves 29 de octubre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/10/29/jueves-29-de-octubre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-10-29T06:31:35-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Activan ruta de protección para adolescente desvinculado de grupo armado en Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/29/activan-ruta-de-proteccion-para-adolescente-desvinculado-de-grupo-armado-en-antioquia/",
+  "fecha": "2026-10-29T06:41:51-05:00",
+  "palabras": "",
+  "lead": "El operativo se llevó a cabo bajo condiciones de seguridad, con el propósito de garantizar su protección y activar la ruta de restablecimiento de sus derechos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mejoran vía rural en El Banco, Magdalena para facilitar la movilidad durante las lluvias",
+  "enlace": "https://caracol.com.co/2026/10/29/mejoran-via-rural-en-el-banco-magdalena-para-facilitar-la-movilidad-durante-las-lluvias/",
+  "fecha": "2026-10-29T06:41:22-05:00",
+  "palabras": "",
+  "lead": "Las labores están dirigidas a recuperar los tramos críticos y facilitar los desplazamientos de las comunidades que dependen de este corredor.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla se blinda para Halloween: 1.200 policías para la seguridad y prohíben las rodadas",
+  "enlace": "https://caracol.com.co/2026/10/29/barranquilla-se-blinda-para-halloween-1200-policias-para-la-seguridad-y-prohiben-las-rodadas/",
+  "fecha": "2026-10-29T06:36:39-05:00",
+  "palabras": "",
+  "lead": "La Policía anunció que las acciones se mantendrán hasta diciembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Judicializan hombre señalado de abusar sexualmente de dos menores en Norte de Santander",
+  "enlace": "https://caracol.com.co/2026/10/29/judicializan-hombre-senalado-de-abusar-sexualmente-de-dos-menores-en-norte-de-santander/",
+  "fecha": "2026-10-29T06:36:15-05:00",
+  "palabras": "",
+  "lead": "Una de las víctimas quedó embarazada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Megatoma en Palmira: más de 500 uniformados intervienen cárcel y sectores críticos",
+  "enlace": "https://caracol.com.co/2026/10/29/megatoma-en-palmira-mas-de-500-uniformados-intervienen-carcel-y-sectores-criticos/",
+  "fecha": "2026-10-29T06:33:26-05:00",
+  "palabras": "",
+  "lead": "El operativo incluye inspecciones en la cárcel de alta y media seguridad, controles a extranjeros, allanamientos y cuatro capturas por tráfico de estupefacientes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Air-e Intervenida retiró transformador a hotel en Taganga",
+  "enlace": "https://caracol.com.co/2026/10/29/air-e-intervenida-retiro-transformador-a-hotel-en-taganga/",
+  "fecha": "2026-10-29T06:23:45-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la información suministrada, el establecimiento completa cerca de tres años de deuda y presenta un consumo mensual cercano a los $9 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Militarización se activa si la Policía es superada en sus capacidades: sec. de Seguridad de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/29/militarizacion-se-activa-si-la-policia-es-superada-en-sus-capacidades-sec-de-seguridad-de-bogota/",
+  "fecha": "2026-10-29T06:22:17-05:00",
+  "palabras": "",
+  "lead": "César Restrepo, secretario de Seguridad de Bogotá, habla sobre la propuesta de militarizar varias zonas de la capital",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Menor de ocho años se quedó sin hospitalización domiciliaria y requiere ventilación asistida",
+  "enlace": "https://caracol.com.co/2026/10/29/menor-de-ocho-anos-se-quedo-sin-hospitalizacion-domiciliaria-y-requiere-ventilacion-asistida/",
+  "fecha": "2026-10-29T06:19:52-05:00",
+  "palabras": "",
+  "lead": "La IPS que le brindaba la atención lo retiró del programa en los últimos días.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano | jueves 29 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-jueves-29-de-octubre-2026-415524",
+  "fecha": "2026-10-29T06:51:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este jueves en La FM.",
+  "seccion": "mesas",
   "nueva": true,
   "tambien": []
  }
