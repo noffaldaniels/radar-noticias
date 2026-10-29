@@ -307,6 +307,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El puente heredó una cartera cuyo antecesor, José Luis Ábalos, dejó el cargo tras acusaciones serias de corrupción y no estuvo a la altura.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:19",
+   "quien": "Laura Daniela (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "El presidente de Avelardo de la Espriella anunció recursos para la línea 4 del metro de Bogotá.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:19",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Murió Andrescito, jefe de sicarios de la banda Los Ingenieros, durante la operación Kratos en la madrugada anterior.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:19",
+   "quien": "Cristine Lagarde",
+   "que": "Anunció que se va del Banco Central Europeo.",
+   "resaltar": false
   }
  ],
  "avisos": [
