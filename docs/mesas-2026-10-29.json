@@ -671,6 +671,27 @@
    "quien": "Francisco Bernate",
    "que": "Abogado penalista, afirmó que la presencia del presidente en videos de operativos no invalida las capturas ni afecta las garantías procesales.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:50",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La senadora Zuleta presentó la contrareforma pensional en el Congreso con cambios considerados necesarios desde el centro democrático.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:50",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se ha dicho que Angy Rodríguez estaría citada hoy a la Fiscalía y que también Laura Sarabia. Sin embargo, no hay una fecha exacta para ello.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:53",
+   "quien": "Adriana Soto, Secretaria de Ambiente de Bogotá",
+   "que": "Se anunció una donación histórica de 145.000 millones de pesos del Fondo Verde para el clima, liderada por el Distrito.",
+   "resaltar": false
   }
  ],
  "avisos": [
