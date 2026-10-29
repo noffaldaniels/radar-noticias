@@ -2570,7 +2570,7 @@
   "palabras": "Noticias de hoy,  Halloween",
   "lead": "Además, se activará la alerta amarilla hospitalaria, habrá cierres viales por eventos de celebración y estarán prohibidas las rodadas o caravanas de autos y motos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2581,7 +2581,7 @@
   "palabras": "Maltrato animal, Animales",
   "lead": "El proyecto de ley busca organizar estos eventos en todo el país, con controles para los animales, condiciones claras para los participantes y mayor vigilancia de las autoridades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2592,7 +2592,7 @@
   "palabras": "Estados Unidos, Viral",
   "lead": "Nevada Pierre se volvió viral por su habilidad con el balón, pero una discusión durante un partido infantil terminó dando un giro inesperado a su historia.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2603,7 +2603,7 @@
   "palabras": "Noticias de hoy, Antioquia, Gobierno nacional",
   "lead": "Mientras miles de consumidores aprovechan las ofertas de comercio electrónico, empresarios y gremios locales aseguran que la importación masiva sin aranceles amenaza la supervivencia del sector.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2614,7 +2614,7 @@
   "palabras": "Motos,  Halloween",
   "lead": "El Distrito advierte sobre los riesgos de accidentalidad y violencia durante las celebraciones, mientras líderes del gremio piden diálogo y soluciones que no afecten a quienes viven de su moto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2625,7 +2625,7 @@
   "palabras": "Noticias de hoy, Energía eléctrica, Valledupar",
   "lead": "Energua empezó cortándole el servicio a industriales y comerciales que acumulan una deuda de más de $3.400 millones de pesos y ahora van por los usuarios residenciales de los estratos altos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2636,7 +2636,7 @@
   "palabras": "España, Accidente de tránsito",
   "lead": "La Comisión de Investigación de Accidentes Ferroviarios entregó el primer balance oficial del siniestro, mientras los equipos de emergencia continúan atendiendo a las víctimas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2647,7 +2647,7 @@
   "palabras": "Noticias de hoy, Violencia Contra la mujer, Medellín",
   "lead": "La víctima sufrió quemaduras graves en el rostro y el cuerpo. Las autoridades capturaron al agresor, quien quedó a disposición de la Fiscalía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Chontico Día juega todos los días a las 1 p. m.. Revise aquí el número ganador hoy jueves 29 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "Antioquia, Universidad de Antioquia, Noticias de hoy",
   "lead": "Solamente de la Facultad de Medicina son cinco maestros que son citados por expertos en todo el planeta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "Nayib Bukele, El Salvador, Haití",
   "lead": "El anuncio del envío masivo de tropas salvadoreñas se dio tras el reporte sobre el supuesto secuestro de cuatro efectivos militares en territorio haitiano.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2691,7 +2691,7 @@
   "palabras": "Medellín, Noticias de hoy",
   "lead": "La cuenta total, de acuerdo con la denuncia, superó los 4 millones de pesos. En ella incluyeron un cobro de $337.500 etiquetado como comisión por pago con datáfono.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2702,7 +2702,7 @@
   "palabras": "Paisita día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Paisita Día juega todos los días después del mediodía. Consulte aquí el número ganador del sorteo de hoy, jueves 29 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2713,7 +2713,7 @@
   "palabras": "Pensiones, Gobierno nacional",
   "lead": "Los recursos aparecen cuando más se necesitan: en un año en el que la crisis fiscal ha dejado sin financiación a Colpensiones y al programa Colombia Mayor.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "Miguel Uribe Turbay, JEP",
   "lead": "La Jurisdicción Especial para la Paz le revocó la libertad condicionada a Kendry Téllez Álvarez por incumplir sus obligaciones de comparecencia y mantenerse localizable.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "",
   "lead": "De acuerdo con la investigación, alias ‘Masmela’ habría conducido la motocicleta utilizada por los atacantes",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "",
   "lead": "La orden fue emitida por una Fiscalía especializada en Bogotá, bajo la ley 600 por el homicidio de un hombre en Sincelejo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,7 +2757,7 @@
   "palabras": "",
   "lead": "Ejército mantiene controles en el área",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2768,7 +2768,7 @@
   "palabras": "",
   "lead": "La medida operará de 8:00 p. m. a 5:00 a. m. hasta la madrugada del lunes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2779,7 +2779,7 @@
   "palabras": "",
   "lead": "Desde el 31 de octubre, los ciudadanos podrán inscribir su documento en las sedes de la Registraduría para cambiar su puesto de votación. También comienza la recolección de firmas para las candidaturas respaldadas por grupos significativos de ciudadanos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "",
   "lead": "El equipo mexicano quiere reforzar su mediocampo y el colombiano del Real Betis vuelve a aparecer entre sus opciones para el próximo mercado.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "",
   "lead": "Andrés Forero aseguró que la oposición busca romper el “monopolio” de Colpensiones, y Jaime Raúl Salamanca admitió que hay “dos micos” en la ley",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "",
   "lead": "La iniciativa contará con una agenda académica, muestra de ciencia interactiva, conferencias, entre otros en los municipios de Timbío, Popayán y Santander de Quilichao en el Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "",
   "lead": "Familiares de Grey Noralba Sanmartín Villalba, oriunda de Aracataca, Magdalena, exigieron celeridad en las investigaciones para esclarecer su muerte, ocurrida en Italia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "",
   "lead": "En diálogo con Caracol Radio, Ernesto Castro, jefe de la Oficina de Tránsito y Transporte del Magdalena, confirmó el despliegue de más de 100 personas en operativos de control y anunció restricciones a motocicletas en municipios como Ciénaga y Plato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "",
   "lead": "Los señalados tendrán 20 días hábiles para aceptar o no la responsabilidad en los hechos que no pueden recibir un perdón judicial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "",
   "lead": "El alcalde Alejandro Eder informó que se completarán los desembolsos pendientes del primer corte y avanzará el segundo pago para beneficiar a 21.000 personas que permanecen fuera de sus viviendas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "",
   "lead": "El operativo representa una afectación económica cercana a los 250 millones de pesos para las finanzas ilegales del grupo delincuencial El Mesa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "",
   "lead": "El hecho se registró el 21 de octubre en el nuevo semáforo de la glorieta de la calle 63 con carrera 50.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "",
   "lead": "El hecho se registra en la vereda Kilómetro 90.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "",
   "lead": "Talentos de China, México, Venezuela y Argentina se unen a 130 artistas locales en Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "",
   "lead": "Estas son las condiciones y requisitos para participar en el programa que apoya a las familias en proceso de adquirir vivienda en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "",
   "lead": "En “In My Own Time: A Memoir”, confesó que consumió cocaína por primera vez a las puertas de un club de comedia en Los Ángeles durante la década de 1970.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2933,7 +2933,7 @@
   "palabras": "Orden Público,Fiscalía General de la Nación,Audiencia judicial,pruebas",
   "lead": "Fuentes le confirmaron a La FM que se está buscando concretar otra audiencia para declarar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2944,7 +2944,7 @@
   "palabras": "Política,Congreso de la República,Senado de la República,Ministerio de Justicia,Proyecto de ley,Defensoría del Pueblo,Fiscalía General de la Nación",
   "lead": "La Defensoría, la Fiscalía y el Ministerio de Justicia participaron en un foro previo al último debate del proyecto, en el que reiteraron su respaldo a la ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2955,7 +2955,7 @@
   "palabras": "Internacional,Crucero,Asia,Gasolina",
   "lead": "El gasto mensual de combustible por camarote en algunas zonas de Asia pasó de 1.800 a 8.000 dólares.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2966,7 +2966,7 @@
   "palabras": "Sociedad,música,Arte,Vallenato,Carlos Vives,contrato,Cultura,La Guajira",
   "lead": "La empresa aseguró que cumplió con los aportes a seguridad social durante los periodos en que contrató al acordeonero",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2976,6 +2976,391 @@
   "fecha": "2026-10-29T12:04:00-05:00",
   "palabras": "Sociedad,Animales,Halloween,Disfraces para Halloween,Colombia,Veterinario",
   "lead": "Cada año, miles de animales son disfrazados, pero es importante tener en cuenta algunos datos de relevancia.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ordenan enviar de nuevo a la cárcel al hijo de La Gata por asesinato de líder social",
+  "enlace": "https://www.bluradio.com/regiones/caribe/orden-enviar-de-nuevo-a-la-carcel-al-hijo-de-la-gata-por-asesinato-de-lider-social-rg10",
+  "fecha": "2026-10-29T14:02:40-05:00",
+  "palabras": "Noticias de hoy, Asesinato líderes sociales",
+  "lead": "El exalcalde de Magangué fue notificado de esta nueva medida de aseguramiento por el asesinado del líder campesino Guillermo León Montero Carpio ocurrido en 1997. El traslado a una cárcel no se ha cumplido pues nuevamente está hospitalizado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caravanas de Halloween no serán prohibidas en Cali: autoridades anunciaron controles",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/caravanas-de-halloween-no-seran-prohibidas-en-cali-autoridades-anunciaron-controles-rg10",
+  "fecha": "2026-10-29T13:34:40-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "Ya se han definido dos rutas que recorrerán el oeste, el sur y el oriente de la ciudad, y el punto de encuentro es el puente de Los Mil Días.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella delega en ministros algunas funciones administrativas de la Presidencia",
+  "enlace": "https://www.bluradio.com/nacion/de-la-espriella-delega-en-ministros-algunas-funciones-administrativas-de-la-presidencia-rg10",
+  "fecha": "2026-10-29T13:24:59-05:00",
+  "palabras": "Abelardo De La Espriella, Presidencia de la República",
+  "lead": "Por medio de un decreto el mandatario delegó algunas funciones en sus ministros de Interior, Defensa y en el Canciller, entre otros.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ataque con dron en El Tarra deja tres civiles heridos y enciende las alarmas en el Catatumbo",
+  "enlace": "https://www.bluradio.com/nacion/ataque-con-dron-en-el-tarra-deja-tres-civiles-heridos-y-enciende-las-alarmas-en-el-catatumbo-rg10",
+  "fecha": "2026-10-29T13:47:06-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "El alto consejero de Paz de Norte de Santander, Fernando Niño, confirmó que entre las víctimas se encuentran un adulto mayor y dos jóvenes, mientras las autoridades hallaron una bandera del ELN cerca del lugar del atentado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Feminicidio en La Modelo: recluso aceptó haber asesinado a su pareja durante una visita en la cárcel",
+  "enlace": "https://www.bluradio.com/regiones/bogota/feminicidio-en-la-modelo-recluso-acepto-haber-asesinado-a-su-pareja-durante-una-visita-en-la-carcel-rg10",
+  "fecha": "2026-10-29T13:39:41-05:00",
+  "palabras": "Cárcel La Modelo, Feminicidio",
+  "lead": "El crimen ocurrió el pasado 22 de agosto, cuando la mujer acudió al centro penitenciario para visitar a Martínez Alvarino, con quien sostenía una relación sentimental hace cinco años.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Trompetas de Niche en Cali siguen pintadas de rosado: esto explicó la Alcaldía",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/trompetas-de-niche-en-cali-siguen-pintadas-de-rosado-esto-explico-la-alcaldia-rg10",
+  "fecha": "2026-10-29T14:02:06-05:00",
+  "palabras": "",
+  "lead": "Lo que han indicado las autoridades es que ya se inició la gestión para adquirir los derechos de propiedad del monumento, para evitar que en el futuro se repita este tipo de episodios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Clínica Bolivariana en Medellín tiene sobreocupación de 216 % en servicios de obstetricia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/clinica-bolivariana-en-medellin-tiene-sobreocupacion-de-216-en-servicios-de-obstetricia-rg10",
+  "fecha": "2026-10-29T13:59:24-05:00",
+  "palabras": "Antioquia, Salud, Medellín,  Savia Salud",
+  "lead": "Además, en el Hospital Nuestra Señora de Guarne ya no se entregarán medicamentos a pacientes de Savia Salud por inconvenientes en un convenio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Le prometí una iglesia al pueblo que sacó a mi hijo del río\": Poncho Zuleta tras accidente de Kbeto",
+  "enlace": "https://www.bluradio.com/regiones/caribe/le-prometi-una-iglesia-al-pueblo-que-saco-a-mi-hijo-del-rio-poncho-zuleta-tras-accidente-de-kbeto-rg10",
+  "fecha": "2026-10-29T14:23:41-05:00",
+  "palabras": "Noticias de hoy, Accidente de tránsito",
+  "lead": "A las afueras de la Clínica Iberoamérica en Barranquilla, el 'Pulmón de Oro' expresó su gratitud con la comunidad de Ariguaní que socorrió a la agrupación vallenata, envió condolencias a las familias de los fallecidos y confirmó que la condición médica del artista se mantiene estable.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día hoy, resultado del último sorteo jueves 29 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-hoy-resultado-del-ultimo-sorteo-jueves-29-de-octubre-de-2026-so35",
+  "fecha": "2026-10-29T13:44:28-05:00",
+  "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, jueves 29 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día hoy, resultado del último sorteo jueves 29 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-hoy-resultado-del-ultimo-sorteo-jueves-29-de-octubre-de-2026-so35",
+  "fecha": "2026-10-29T13:47:16-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy jueves 29 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras múltiples críticas, retiraron escultura de Celia Cruz del barrio Obrero en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/tras-multiples-criticas-retiraron-escultura-de-celia-cruz-del-barrio-obrero-en-cali-rg10",
+  "fecha": "2026-10-29T14:04:14-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "La maestra Rosana Lombana, autora de la obra, realizará ajustes en las expresiones faciales para representar con mayor fidelidad a la Celia de los años 70.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Plan de choque en salud: Famisanar y Sanitas avanzan, mientras Nueva EPS sigue con pendientes",
+  "enlace": "https://www.bluradio.com/salud/plan-de-choque-en-salud-famisanar-y-sanitas-avanzan-mientras-nueva-eps-sigue-con-pendientes-rg10",
+  "fecha": "2026-10-29T14:13:29-05:00",
+  "palabras": "EPS Famisanar, Nueva EPS, EPS Sanitas",
+  "lead": "Los reportes de seguimiento al plan de choque del Gobierno de Abelardo de la Espriella muestran avances en el cierre de registros pendientes de medicamentos y procedimientos en varias EPS intervenidas. Sin embargo, las cifras de Nueva EPS evidencian que todavía hay una gran cantidad de solicitudes…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En El Santuario y Urrao prohibieron el parrillero en moto y las rodadas grupales para Halloween",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-el-santuario-y-urrao-prohibieron-el-parrillero-en-moto-y-las-rodadas-grupales-para-halloween-rg10",
+  "fecha": "2026-10-29T14:27:22-05:00",
+  "palabras": "Medellín,  Halloween, Noticias de hoy",
+  "lead": "Las autoridades están en alerta por las convocatorias para un recorrido hacia San Jerónimo, Sopetrán y Santa Fe de Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bucaramanga restringirá el parrillero en moto durante el puente festivo de Halloween",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/bucaramanga-restringira-el-parrillero-en-moto-durante-el-puente-festivo-de-halloween-rg10",
+  "fecha": "2026-10-29T14:29:13-05:00",
+  "palabras": "Bucaramanga, Motos,  Halloween, Blu Radio, Noticias de hoy",
+  "lead": "La estrategia también contempla la presencia de uniformados en puntos estratégicos del área metropolitana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Artistas españoles se pronunciaron en redes tras el accidente de trenes en Toledo: ¿Qué dijeron?",
+  "enlace": "https://caracol.com.co/2026/10/29/artistas-espanoles-se-pronunciaron-en-redes-tras-el-accidente-de-trenes-en-toledo-que-dijeron/",
+  "fecha": "2026-10-29T14:15:01-05:00",
+  "palabras": "",
+  "lead": "Julio Iglesias y Miguel Bosé son algunos de los artistas que usaron sus redes para expresarse sobre la tragedia que enluta a España.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Está evolucionando lentamente”: Poncho Zuleta habla sobre el estado de salud de su hijo Kbeto",
+  "enlace": "https://caracol.com.co/2026/10/29/esta-evolucionando-lentamente-poncho-zuleta-habla-sobre-el-estado-de-salud-de-su-hijo-kbeto/",
+  "fecha": "2026-10-29T14:06:39-05:00",
+  "palabras": "",
+  "lead": "El artista prometió donar una iglesia en Ariguaní.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ley de Competitividad del gobierno De la Espriella fue aprobada en primer debate",
+  "enlace": "https://caracol.com.co/2026/10/29/ley-de-competitividad-del-gobierno-de-la-espriella-fue-aprobada-en-primer-debate/",
+  "fecha": "2026-10-29T14:06:19-05:00",
+  "palabras": "",
+  "lead": "Las comisiones sextas del Congreso le dieron el visto bueno al proyecto que ahora será debatido en las plenarias de Senado y Cámara.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Casos de cáncer podrían aumentar 60 % para 2040: Gobierno fija nuevas metas de prevención",
+  "enlace": "https://caracol.com.co/2026/10/29/casos-de-cancer-podrian-aumentar-60-para-2040-gobierno-fija-nuevas-metas-de-prevencion/",
+  "fecha": "2026-10-29T13:56:31-05:00",
+  "palabras": "",
+  "lead": "El Plan Decenal para el Control del Cáncer 2026-2035 busca ampliar la detección temprana, reducir los tiempos de diagnóstico y mejorar el acceso a los tratamientos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja busca recuperar recursos tras la cancelación del Centro Potencia",
+  "enlace": "https://caracol.com.co/2026/10/29/tunja-busca-recuperar-recursos-tras-la-cancelacion-del-centro-potencia/",
+  "fecha": "2026-10-29T13:54:24-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía gestiona ante el Gobierno Nacional la posibilidad de financiar otro proyecto. Mientras tanto, los puntos de Wi-Fi gratuito seguirán operando y se proyecta ampliar su cobertura.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Armada recibe tres motores de la Gobernación para reforzar la vigilancia marítima en el Magdalena",
+  "enlace": "https://caracol.com.co/2026/10/29/armada-recibe-tres-motores-de-la-gobernacion-para-reforzar-la-vigilancia-maritima-en-el-magdalena/",
+  "fecha": "2026-10-29T13:50:00-05:00",
+  "palabras": "",
+  "lead": "Los equipos serán utilizados por la Armada Nacional para reforzar las operaciones de vigilancia y control en las zonas marítimas, fluviales y costeras del departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Halloween en Cali: identifican siete caravanas de motos y una tendrá acompañamiento policial",
+  "enlace": "https://caracol.com.co/2026/10/29/halloween-en-cali-identifican-siete-caravanas-de-motos-y-una-tendra-acompanamiento-policial/",
+  "fecha": "2026-10-29T13:38:09-05:00",
+  "palabras": "",
+  "lead": "Más de 1.600 uniformados, según la Secretaría de Seguridad, estarán en el dispositivo para controlar los recorridos, prevenir accidentes y evitar alteraciones del orden público.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia capacitará a autoridades indígenas de 20 comunidades en administración de recursos",
+  "enlace": "https://caracol.com.co/2026/10/29/antioquia-capacitara-a-autoridades-indigenas-de-20-comunidades-en-administracion-de-recursos/",
+  "fecha": "2026-10-29T13:26:45-05:00",
+  "palabras": "",
+  "lead": "La iniciativa cuenta con una inversión superior a los $457 millones y beneficiará a más de 3.000 indígenas de Urabá y el Nordeste antioqueño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Audiencia sancionatoria contra Sencia fue aplazada: un garante no fue citado",
+  "enlace": "https://caracol.com.co/2026/10/29/audiencia-sancionatoria-contra-sencia-fue-aplazada-un-garante-no-fue-citado/",
+  "fecha": "2026-10-29T13:21:51-05:00",
+  "palabras": "",
+  "lead": "El IDRD instaló la audiencia pública y expuso los hechos que sustentan el presunto incumplimiento contractual. La diligencia continuará el 9 de noviembre, garantizando el debido proceso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Precio del euro en Colombia hoy 29 de octubre de 2026",
+  "enlace": "https://www.lafm.com.co/economia/euro-precio-cotizacion-colombia-hoy-jueves-29-octubre-2026-415599",
+  "fecha": "2026-10-29T14:26:00-05:00",
+  "palabras": "Economía,Euros,Tasas de interés,Casas de cambio",
+  "lead": "Durante la última semana, el euro registra una disminución del 1,19 %, mientras que en el último mes acumula una caída del 6,65 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así es el nuevo proyecto de Carlos 'la Roca' Sánchez",
+  "enlace": "https://www.lafm.com.co/deportes/carlos-sanchez-canchas-internacionales-gestion-deportiva-nuevo-proyecto-415584",
+  "fecha": "2026-10-29T14:07:00-05:00",
+  "palabras": "Deportes,Fútbol,Deporte,Carlos Sánchez",
+  "lead": "El mediocampista desarrolló su carrera en países como Argentina, Uruguay, Francia, España, Italia e Inglaterra.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ICBF no hará efectivos acuerdos con el CRIC en el Cauca",
+  "enlace": "https://www.lafm.com.co/sociedad/icbf-indigenas-cauca-gobierno-contratos-cuidado-menores-415596",
+  "fecha": "2026-10-29T14:01:00-05:00",
+  "palabras": "Sociedad,ICBF,CRIC,indígenas,contratos",
+  "lead": "La entidad cuestionó las reglas sobre aportes, pólizas y supervisión, mientras define cómo garantizar la atención de los niños y niñas del Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El gabinete de De La Espriella asume funciones del presidente",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-decreto-gabinete-funciones-presidente-415595",
+  "fecha": "2026-10-29T13:59:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,jefe de gabinete,Ministerio del interior,decreto",
+  "lead": "Las carteras de Interior, Defensa y Cancillería concentran las principales facultades que delega la Casa de Nariño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Deicy Jiménez está dispuesta a entregar un dispositivo ante la Corte Suprema",
+  "enlace": "https://www.lafm.com.co/orden-publico/deicy-jimenez-entregara-dispositivo-electronico-corte-suprema-declaraciones-415590",
+  "fecha": "2026-10-29T13:57:00-05:00",
+  "palabras": "Orden Público,Audiencia judicial,Corte Suprema de Justicia,Gustavo Petro,María José Pizarro",
+  "lead": "Alejandro Carranza, abogado de Gustavo Petro y María José Pizarro, anunciará una denuncia penal contra Jiménez por presuntas falsedades en documentos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Recluso que asesinó a su pareja durante una visita conyugal en la cárcel La Modelo se declaró culpable",
+  "enlace": "https://www.lafm.com.co/orden-publico/recluso-asesino-pareja-durante-visita-conyugal-en-carcel-la-modelo-se-declaro-culpable-415591",
+  "fecha": "2026-10-29T13:45:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Cárcel La Modelo,Audiencia judicial,imputan cargos",
+  "lead": "William Martínez, ya tenía otra condena por intento de feminicidio. La víctima tenía tres hijos y se estableció que venía siendo sometido un ciclo de viole...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "HIC realiza cirugía cerebral contra la depresión",
+  "enlace": "https://www.lafm.com.co/actualidad/santander-cirugia-depresion-tratamiento-electrodos-hic-415554",
+  "fecha": "2026-10-29T13:42:00-05:00",
+  "palabras": "Actualidad,Tratamiento médico,telemedicina,Científicos,Bucaramanga",
+  "lead": "Bucaramanga: el HIC marca un hito médico con su primera cirugía de estimulación cerebral profunda para tratar la depresión resistente a tratamientos conven...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá se prepara para vivir el futuro del sector automotor: llega el primer ANDEMOS FEST junto al IV Congreso ANDEMOS",
+  "enlace": "https://www.lafm.com.co/economia/bogota-se-prepara-para-vivir-el-futuro-del-sector-automotor-llega-el-primer-andemos-fest-junto-al-iv-congreso-andemos-415583",
+  "fecha": "2026-10-29T13:37:00-05:00",
+  "palabras": "Economía,Contenido patrocinado,Bogotá,automóviles,vehículos,auto eléctrico,Energía eléctrica",
+  "lead": "Contenido patrocinado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "IDRD abrió proceso sancionatorio a Sencia por el Campín",
+  "enlace": "https://www.lafm.com.co/orden-publico/sencia-audiencia-por-campin-gramilla-noviembre-eventos-responsabilidad-415587",
+  "fecha": "2026-10-29T13:36:00-05:00",
+  "palabras": "Orden Público,Estadio El Campín,IDRD,Proceso disciplinario,Procesos judiciales,Alcaldía de Bogotá",
+  "lead": "Aunque la audiencia no se alcanzó a terminar, el IDRD expuso los hechos que sustentan un presunto incumplimiento contractual.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Santa Fe fue afectado en la semifinal de la Copa Libertadores Femenina?",
+  "enlace": "https://www.lafm.com.co/deportes/copa-libertadores-femenina-santa-fe-fue-perjudicado-415581",
+  "fecha": "2026-10-29T13:09:00-05:00",
+  "palabras": "Deportes,Copa Libertadores,Fútbol,Fútbol femenino,Colombia,Ecuador,Brasil,Corinthians,Independiente Santa Fe,Independiente Santa Fe Femenino,polémica",
+  "lead": "Aunque el partido estaba a punto de finalizar, la juez central no pitó una falta clara.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aumentan las cifras de violencia contra la mujer en el Huila",
+  "enlace": "https://www.lafm.com.co/orden-publico/violencia-mujer-feminicidio-huila-415575",
+  "fecha": "2026-10-29T12:29:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Secretaría de la Mujer,Huila,armas",
+  "lead": "En el departamento se han reportado más de 3.070 agresiones contra mujeres, de las cuales 1.524 corresponden a violencia física.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Criptomonedas en Colombia: ¿qué falta para regularlas?",
+  "enlace": "https://www.lafm.com.co/economia/colombia-criptomonedas-regulacion-mercado-415573",
+  "fecha": "2026-10-29T12:15:00-05:00",
+  "palabras": "Economía,Criptomonedas,Colombia,Fintech",
+  "lead": "Entre julio de 2025 y junio de este año, Colombia registró US$29.100 millones en actividad cripto y se consolidó como el quinto mercado en América Latina.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
