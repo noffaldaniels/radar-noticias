@@ -118,6 +118,27 @@
    "quien": "César Restrepo, Secretario de Seguridad de Bogotá",
    "que": "Informó una reducción de más de 80 homicidios en Bogotá y reportó que la Operación Kratos dejó 172 capturas y más de 113 allanamientos en dos días.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:15",
+   "quien": "Adriana Matiz, Gobernadora del Tolima",
+   "que": "Exigió al Gobierno militarizar de inmediato Ataco y los corredores del sur del Tolima, reforzar la fuerza pública y devolver la FUDRA al departamento frente al asedio de las disidencias de alias Iván Mordisco.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:13",
+   "quien": "Sandra Bernal, Senadora del Centro Democrático",
+   "que": "Presentó una contrarreforma pensional radicada por su bancada con 17 artículos (14 modificatorios y 2 derogatorios) sobre la Ley 2381, asegurando que se respetará el régimen de transición.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:13",
+   "quien": "Miguel Gómez Amín, Ministro de Comercio",
+   "que": "Anunció que en la ley de ajuste fiscal se revisará el beneficio tributario a compras menores de 200 dólares en plataformas como Temu, Shein y Amazon para que paguen IVA y no compitan en desventaja con el comercio nacional.",
+   "resaltar": false
   }
  ],
  "avisos": [
