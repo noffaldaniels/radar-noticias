@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "Blu Radio",
+   "hora": "05:38",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Informó que la Sala de Instrucción de la Corte Suprema citó a declarar a Daisy Jiménez por denuncias sobre presuntos contratos estatales a cambio de favores sexuales que involucran a la senadora María José Pizarro, caso en el que afirma que más de 30 mujeres habrían sido vinculadas bajo condiciones similares.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:39",
+   "quien": "Gregorio Eljach, procurador general de la Nación",
+   "que": "Denunció que permaneció varias semanas sin asistir a su despacho por amenazas de muerte contra él y su familia, e insinuó que personal dentro del Ministerio Público podría estar involucrado en estos hechos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:40",
+   "quien": "Hernán Penagos, registrador nacional del Estado Civil",
+   "que": "Afirmó que la Fiscalía investiga amenazas de muerte en su contra originadas desde un centro carcelario y confirmó que continuará con el desarrollo del calendario electoral para los próximos comicios.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
