@@ -5419,7 +5419,7 @@
   "palabras": "Madrid",
   "lead": "El municipio de la Sabana de Occidente reunirá durante diez días a nueve tiendas artesanales con creaciones exclusivas, ingredientes locales y panes horneados en la región.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5430,7 +5430,7 @@
   "palabras": "España, Morat",
   "lead": "El grupo expresó su cercanía con las personas afectadas por el siniestro, en el que chocaron dos trenes, y destacó el vínculo que mantiene con España.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5441,7 +5441,7 @@
   "palabras": "Noticias de hoy, Caribe, Barranquilla, Policía Nacional",
   "lead": "Según los reportes, ambos tenían la función de dirigir y coordinar toda la cadena logística para el tráfico y transporte de drogas desde la costa Caribe hacia Centroamérica, Estados Unidos y Europa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5452,7 +5452,7 @@
   "palabras": "Viral, México, Ernesto Chavana, es show, isabella la colombiana, isabella rojas, la colombiana, modelo colombiana",
   "lead": "La joven tuvo que salir del escenario ante el golpe en su boca y fue auxiliada por sus compañeros durante algunos minutos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5463,7 +5463,7 @@
   "palabras": "",
   "lead": "De las personas reportadas como desaparecidas en la Capital del Valle, 34 eran menores de edad y 114 mujeres.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5474,7 +5474,7 @@
   "palabras": "",
   "lead": "El punto temporal para el almacenamiento de escombros tras el terremoto en Armenia tiene un tiempo de funcionamiento estimado de seis meses con posibilidad de ampliación",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5485,7 +5485,7 @@
   "palabras": "",
   "lead": "Un funcionario del Complejo Judicial y una abogada también se declararon inocentes. La Fiscalía pedirá que sean enviados a la cárcel.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5496,7 +5496,7 @@
   "palabras": "",
   "lead": "El mandatario dijo que no intervendrá en la situación política de Brasil, pero sí comentó que las elecciones fueron “extrañas”.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5507,7 +5507,7 @@
   "palabras": "",
   "lead": "Los tributos se fijarían en la Ley de Ajuste Fiscal",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5518,7 +5518,7 @@
   "palabras": "",
   "lead": "La empresa dio a conocer modificaciones en conciertos en pro del fútbol en la capital.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5529,7 +5529,7 @@
   "palabras": "",
   "lead": "El caso fue reasignado a la jueza Analisa Torres tras la muerte del magistrado Alvin K. Hellerstein, quien estaba liderando el juicio.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5540,7 +5540,7 @@
   "palabras": "",
   "lead": "Pese a los llamados del presidente Donald Trump de rebajar las tasas, la Fed optó por no variar la política monetaria para reducir la inflación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5551,7 +5551,7 @@
   "palabras": "",
   "lead": "La Sección Cuarta estudiará la solicitud por presuntas vulneraciones al debido proceso y al acceso a la justicia. La admisión no suspende el fallo que anuló su elección como alcalde.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5562,7 +5562,7 @@
   "palabras": "",
   "lead": "El exgobernador de La Guajira, Jorge Pérez Bernier, quedará en libertad mientras se define en la Sala de Casación Penal el proceso de corrupción por el cual fue condenado en primera instancia a 22 años de prisión.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5573,7 +5573,7 @@
   "palabras": "",
   "lead": "La Superintendencia de Industria y Comercio hizo esta solicitud tras la petición del presidente Abelardo De la Espriella, quien pidió investigar a las generadoras térmicas de energía por posibles incumplimientos de entrega de energía firme, pese a recibir recursos del cargo por confiabilidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5583,6 +5583,402 @@
   "fecha": "2026-10-28T18:15:00-05:00",
   "palabras": "Sociedad,Energía eléctrica,Superintendencia de Industria y Comercio,Ministerio de Minas y Energía",
   "lead": "​La Superintendencia de Industria y Comercio quiere verificar si las empresas cumplen las reglas de libre competencia.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel presunto implicado en homicidio de lideresa LGBTIQ+ en La Ceja, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/a-la-carcel-presunto-implicado-en-homicidio-de-lideresa-lgbtiq-en-la-ceja-antioquia-rg10",
+  "fecha": "2026-10-28T20:00:36-05:00",
+  "palabras": "Comunidad LGBTI, Homicidios, Noticias de hoy, Antioquia",
+  "lead": "La captura se dio tras operativos apoyados en pistas recolectadas durante la investigación. El transfeminicidio de Yulisa ocurrió en diciembre de 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "28 de octubre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/28-de-octubre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-10-28T19:51:48-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 28 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Novia casi sale volando durante la sesión de fotos de su boda por culpa de unos globos en Turquía",
+  "enlace": "https://www.bluradio.com/mundo/novia-casi-sale-volando-durante-la-sesion-de-fotos-de-su-boda-por-culpa-de-unos-globos-en-turquia-so35",
+  "fecha": "2026-10-28T19:56:33-05:00",
+  "palabras": "Viral, Turquía",
+  "lead": "En video quedó el momento en que una novia por poco termina volando a causa de una gran cantidad de globos que no logró sostener con sus manos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ley de Ajuste Fiscal revisará pago de impuesto de plataformas como Shein y Temu, anunció Mincomercio",
+  "enlace": "https://www.bluradio.com/economia/ley-de-ajuste-fiscal-revisara-pago-de-impuesto-de-plataformas-como-shein-y-temu-anuncio-mincomercio-rg10",
+  "fecha": "2026-10-28T19:57:26-05:00",
+  "palabras": "Noticias de hoy, Ministerio de Comercio, Temu, Internet",
+  "lead": "El ministro Goméz Amín señaló que no es posible que el comercio nacional cargue con todos los impuestos y dichas plataformas no.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Halloween en Chapinero tendrá controles especiales en zonas de rumba y alta afluencia",
+  "enlace": "https://www.bluradio.com/regiones/bogota/halloween-en-chapinero-tendra-controles-especiales-en-zonas-de-rumba-y-alta-afluencia-rg10",
+  "fecha": "2026-10-28T20:02:07-05:00",
+  "palabras": "Halloween, Chapinero, Policía Nacional",
+  "lead": "Las autoridades reforzarán la presencia en sectores de actividad nocturna y entregaron recomendaciones sobre dulces, licor, disfraces, maquillaje y transporte seguro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Quieren crear el Día Nacional de la Biblia: sería el 31 de octubre",
+  "enlace": "https://www.bluradio.com/politica/presentaran-proyecto-de-ley-para-crear-el-dia-nacional-de-la-biblia-seria-el-31-de-octubre-pr30",
+  "fecha": "2026-10-28T20:13:35-05:00",
+  "palabras": "Noticias de hoy, Biblia, Biblia, Día Nacional de la Biblia, Día Nacional de la Biblia en Colombia, Halloween, que se celebra el 31 de octubre",
+  "lead": "La iniciativa también abrió una discusión sobre el papel de la religión en la política y los límites entre las creencias personales y las decisiones del Estado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Juez ordena al Museo Nacional restituir en 48 horas las piezas retiradas el 15 de octubre",
+  "enlace": "https://www.bluradio.com/nacion/juez-ordena-al-museo-nacional-restituir-en-48-horas-las-piezas-retiradas-el-15-de-octubre-rg10",
+  "fecha": "2026-10-28T20:21:23-05:00",
+  "palabras": "Noticias de hoy, Museo Nacional",
+  "lead": "La decisión resuelve de fondo la acción de tutela presentada por el representante a la Cámara Gabriel Becerra Yáñez, del Pacto Histórico, junto a los colectivos León Zuleta y Revolución en Rosa.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella devuelve el nombre a RTVC tras cambio en Gobierno Petro",
+  "enlace": "https://www.bluradio.com/nacion/los-medios-del-estado-no-estaran-al-servicio-del-wokismo-de-la-espriella-en-rtvc-rg10",
+  "fecha": "2026-10-28T20:34:39-05:00",
+  "palabras": "RTVC, Abelardo De La Espriella, Gobierno nacional, RTVC, de la espriella, gobierno petro",
+  "lead": "El mandatario también denunció presuntas irregularidades en la contratación en RTVC durante el Gobierno anterior.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más recursos para las ligas deportivas en el presupuesto de 2027 de Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/29/mas-recursos-para-las-ligas-deportivas-en-el-presupuesto-de-2027-de-bolivar/",
+  "fecha": "2026-10-28T20:25:41-05:00",
+  "palabras": "",
+  "lead": "Esa fue la petición de los diputados Zaith Adechine, Juan Mejía y Victor Mendoza en la asamblea departamental",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "De la Espriella confirmó que bombardeo en Chocó ha dejado 6 muertos y 1 capturado hasta el momento",
+  "enlace": "https://caracol.com.co/2026/10/29/de-la-espriella-confirmo-que-bombardeo-en-choco-ha-dejado-6-muertos-y-1-capturado-hasta-el-momento/",
+  "fecha": "2026-10-28T19:36:26-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella advirtió que las cifras podrían incrementar.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez ordenó restituir en 48 horas las piezas de exhibición retiradas del Museo Nacional",
+  "enlace": "https://caracol.com.co/2026/10/29/juez-ordeno-restituir-en-48-horas-las-piezas-de-exhibicion-retiradas-del-museo-nacional/",
+  "fecha": "2026-10-28T20:08:39-05:00",
+  "palabras": "",
+  "lead": "De está manera amparó los derechos a la libertad de expresión, al acceso a la cultura, a la educación y a la memoria histórica de los acciones entre ellos el congresista Gabriel Becerra.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Cartagena Fenalco pidió derogar arancel del 40% a prendas de vestir",
+  "enlace": "https://caracol.com.co/2026/10/29/en-cartagena-fenalco-pidio-derogar-arancel-del-40-a-prendas-de-vestir/",
+  "fecha": "2026-10-28T20:19:11-05:00",
+  "palabras": "",
+  "lead": "Otro de los planteamientos al Gobierno Nacional estuvo relacionado con la carga tributaria que soportan las tiendas de barrio",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En medio de combates capturan a cinco integrantes del frente ‘Yair Bermúdez’ en Valle del Cauca",
+  "enlace": "https://caracol.com.co/2026/10/29/en-medio-de-combates-capturan-a-cinco-integrantes-del-frente-yair-bermudez-en-valle-del-cauca/",
+  "fecha": "2026-10-28T20:18:49-05:00",
+  "palabras": "",
+  "lead": "Según el reporte militar, con estas capturas se habría desarticulado una comisión armada de esta estructura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Choque de trenes en España: los audios que demuestran el error del centro de control",
+  "enlace": "https://caracol.com.co/2026/10/29/choque-de-trenes-en-espana-los-audios-que-demuestran-el-error-del-centro-de-control/",
+  "fecha": "2026-10-28T20:16:08-05:00",
+  "palabras": "",
+  "lead": "Las grabaciones de la comunicación entre el controlador de Atocha y los maquinistas revelan la falta de decisiones para evitar el choque.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así fue el choque en la plenaria del Senado por la presencia del caricaturista “Matador”",
+  "enlace": "https://caracol.com.co/2026/10/29/asi-fue-el-choque-en-la-plenaria-del-senado-por-la-presencia-del-caricaturista-matador/",
+  "fecha": "2026-10-28T19:07:33-05:00",
+  "palabras": "",
+  "lead": "La senadora Isabel Zuleta, del Pacto Histórico, pidió que la plenaria lo escuchara, lo que desató una fuerte molestia de la bancada oficialista.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a dos mexicanos señalados de articular alianza entre el CJNG y el Clan del Golfo",
+  "enlace": "https://caracol.com.co/2026/10/29/capturan-a-dos-mexicanos-senalados-de-articular-alianza-entre-el-cjng-y-el-clan-del-golfo/",
+  "fecha": "2026-10-28T20:01:37-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella anunció el resultado de la operación ‘Lanza Roja’, realizada en coordinación entre la Policía Nacional y el FBI.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Campamento asesinaron a dos jóvenes luego de salir de una cancha; uno haría parte del frente 36",
+  "enlace": "https://caracol.com.co/2026/10/29/en-campamento-asesinaron-a-dos-jovenes-luego-de-salir-de-una-cancha-uno-haria-parte-del-frente-36/",
+  "fecha": "2026-10-28T19:44:06-05:00",
+  "palabras": "",
+  "lead": "Los jóvenes de 22 años fueron atacados a tiros con armas de largo alcance en la periferia de la población en la vía hacia Yarumal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Distrito mejora respuesta a lluvias y reporta más de 700 toneladas de residuos extraídos en canales",
+  "enlace": "https://caracol.com.co/2026/10/29/distrito-mejora-respuesta-a-lluvias-y-reporta-mas-de-700-toneladas-de-residuos-extraidos-en-canales/",
+  "fecha": "2026-10-28T19:43:00-05:00",
+  "palabras": "",
+  "lead": "Las intervenciones se desarrollan de manera simultánea en 17 sectores de Cartagena con maquinaria amarilla",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Inter de Bogotá vs Medellín por Liga Colombiana 2026-ll: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/29/en-vivo-inter-de-bogota-vs-medellin-por-liga-colombiana-2026-ll-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-10-28T19:34:51-05:00",
+  "palabras": "",
+  "lead": "El ‘Poderoso’ en búsqueda de dar un paso más en la clasificación a los ocho.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mesas de Diálogo en el IPCC como parte de la rendición de cuentas 2026",
+  "enlace": "https://caracol.com.co/2026/10/29/mesas-de-dialogo-en-el-ipcc-como-parte-de-la-rendicion-de-cuentas-2026/",
+  "fecha": "2026-10-28T19:33:29-05:00",
+  "palabras": "",
+  "lead": "Invitación se extiende a artistas, gestores culturales y representantes de las diferentes áreas artísticas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mesa Amplia de Mujeres alerta por 65 mujeres asesinadas en el Atlántico durante 2026",
+  "enlace": "https://caracol.com.co/2026/10/29/mesa-amplia-de-mujeres-alerta-por-65-mujeres-asesinadas-en-el-atlantico-durante-2026/",
+  "fecha": "2026-10-28T19:25:55-05:00",
+  "palabras": "",
+  "lead": "La organización solicitó una reunión con el presidente Abelardo de la Espriella para articular acciones frente a esta problemática.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inmovilizaron vehículo que atropelló a un ciclista; una mujer fue vinculada a la investigación",
+  "enlace": "https://caracol.com.co/2026/10/29/inmovilizaron-vehiculo-que-atropello-a-un-ciclista-una-mujer-fue-vinculada-a-la-investigacion/",
+  "fecha": "2026-10-28T19:18:39-05:00",
+  "palabras": "",
+  "lead": "El accidente ocurrió el pasado 25 de octubre en la autopista sur con la calle 10. El carro también fue inmovilizado.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Chile: Congreso piden destituir ministro que rebajó pena a pederastas",
+  "enlace": "https://caracol.com.co/2026/10/29/chile-congreso-piden-destituir-ministro-que-rebajo-pena-a-pederastas/",
+  "fecha": "2026-10-28T19:17:58-05:00",
+  "palabras": "",
+  "lead": "La Cámara de Diputados aprobó una resolución que pide al gobierno de José Antonio Kast destituir al ministro Fernando Rabat por autorizar la rebaja de penas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cali apuesta por 126 eventos al año para generar ingresos y recuperarse del terremoto",
+  "enlace": "https://caracol.com.co/2026/10/29/cali-apuesta-por-126-eventos-al-ano-para-generar-ingresos-y-recuperarse-del-terremoto/",
+  "fecha": "2026-10-28T19:17:34-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de las Culturas, el Ministerio de Comercio, la Alcaldía de Cali y Billboard Colombia se aliaron con empresarios del entretenimiento para atraer visitantes, impulsar el turismo y generar empleo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bucaramanga: por primera vez realizan cirugía cerebral para tratar la depresión resistente en el HIC",
+  "enlace": "https://caracol.com.co/2026/10/29/bucaramanga-por-primera-vez-realizan-cirugia-cerebral-para-tratar-la-depresion-resistente-en-el-hic/",
+  "fecha": "2026-10-28T19:14:56-05:00",
+  "palabras": "",
+  "lead": "El Hospital Internacional de Colombia realizó su primera cirugía de estimulación cerebral para tratar a un paciente con depresión resistente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena debuta este jueves en cuadrangulares: tres jugadores siguen en recuperación",
+  "enlace": "https://caracol.com.co/2026/10/29/real-cartagena-debuta-este-jueves-en-cuadrangulares-tres-jugadores-siguen-en-recuperacion/",
+  "fecha": "2026-10-28T19:14:06-05:00",
+  "palabras": "",
+  "lead": "La primera fecha del Grupo B, se disputará desde las 4:00 de la tarde en el estadio Metropolitano de Techo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quién permitió el ingreso de ‘Matador’ al Congreso?",
+  "enlace": "https://www.lafm.com.co/politica/matador-senado-de-la-republica-trifulca-congreso-ingreso-415508",
+  "fecha": "2026-10-28T20:16:00-05:00",
+  "palabras": "Política,Matador,Congreso de la República,Senado de la República,pelea",
+  "lead": "Hubo trifulca en la plenaria del Senado por la presencia del caricaturista.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Camilo Enciso denuncia a Petro por el caso de las 48",
+  "enlace": "https://www.lafm.com.co/politica/caso-48-mujeres-contratos-petro-denuncia-415507",
+  "fecha": "2026-10-28T20:10:00-05:00",
+  "palabras": "Política,Gustavo Petro,Corrupción,Corte Suprema de Justicia,Delitos sexuales",
+  "lead": "El exsecretario de Transparencia Camilo Enciso denunció a Petro por tráfico de influencias, concusión y peculado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Por qué es puente festivo en Colombia este lunes 2 de noviembre de 2026?",
+  "enlace": "https://www.lafm.com.co/sociedad/porque-puente-festivo-2noviembre-lunes-colombia-415504",
+  "fecha": "2026-10-28T19:47:00-05:00",
+  "palabras": "Sociedad,Días festivos,Colombia,puente festivo de noviembre",
+  "lead": "El primer puente festivo de noviembre coincide con la festividad de Halloween. Conozca todos los detalles y recomendaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Registraduría lanzó el calendario para las elecciones regionales del 2027: estas son las fechas clave",
+  "enlace": "https://www.lafm.com.co/politica/elecciones-regionales-2027-registraduria-lanzo-calendario-electoral-fechas-claves-415503",
+  "fecha": "2026-10-28T19:43:00-05:00",
+  "palabras": "Política,Elecciones en Colombia,Registraduría Nacional del Estado Civil,Hernán Penagos,Jurados de votación,Votación,alcaldes,concejales,Diputados",
+  "lead": "El 31 de octubre de 2027 los colombianos acudirán a las urnas para elegir alcaldes, gobernadores, concejales y diputados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno anuncia millonaria inversión para proteger el agua",
+  "enlace": "https://www.lafm.com.co/politica/de-la-espriella-proteccion-agua-millones-de-personas-146-mil-millones-415501",
+  "fecha": "2026-10-28T19:39:00-05:00",
+  "palabras": "Política,Agua,páramo,Abelardo de la Espriella,Ministerio de Ambiente,Protección",
+  "lead": "Los recursos financiarán la conservación y restauración del corredor de páramos Chingaza – Sumapaz – Guerrero – Guacheneque.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "América de Cali: alivio en el TAS vs grave crisis económica",
+  "enlace": "https://www.lafm.com.co/deportes/america-cali-alivio-tas-crisis-economica-liga-betplay-415500",
+  "fecha": "2026-10-28T19:38:00-05:00",
+  "palabras": "Deportes,América de Cali,Liga BetPlay",
+  "lead": "El equipo escarlata vive dos realidades distintas a pocas semanas de afrontar la recta final de Liga y Copa Betplay, soñando con alcanzar los dos títulos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinJusticia Iván Cancino arremetió contra Ernesto Samper",
+  "enlace": "https://www.lafm.com.co/politica/ministro-justicia-ernesto-samper-ivan-cancino-enfrenamiento-justicia-415499",
+  "fecha": "2026-10-28T19:28:00-05:00",
+  "palabras": "Política,Gobierno,Ernesto Samper,Ministerio de Justicia,Injusticia",
+  "lead": "El ministro recordó que no se puede transformar una nación en un periodo de cien días.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jose Manuel Restrepo se presentó ante comerciantes de Fenalco",
+  "enlace": "https://www.lafm.com.co/actualidad/jose-manuel-restrepo-fenalco-cartagena-discurso-415495",
+  "fecha": "2026-10-28T19:13:00-05:00",
+  "palabras": "Actualidad,Fenalco,José Manuel Restrepo,Cartagena,Gustavo Petro,Gobierno",
+  "lead": "Durante la Convención Internacional de Fenalco, el alto funcionari señaló que el país registró el peor dato de inversión a PIB en más de 51 años.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "María Lesmes renunció a la secretaría de Salud del Valle y suena para la Gobernación",
+  "enlace": "https://www.lafm.com.co/politica/maria-cristina-lesmes-renuncia-secretaria-salud-aspria-gobernacion-valle-415497",
+  "fecha": "2026-10-28T18:22:00-05:00",
+  "palabras": "Política,Valle del Cauca,Cali, Colombia,Gobernación del Valle,renuncia,funcionario público,funcionarios",
+  "lead": "María Cristina Lesmes lideró la Secretaría de Salud del Valle desde el 1 de enero de 2016. Duró 13 años en el cargo ¿aspirará a la Gobernación?",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella y Galán anunciaron recursos para obras",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobierno-de-la-espriella-revelo-resultados-operativos-bogota-junto-alcalde-galan-anunciaron-recursos-para-obras-415493",
+  "fecha": "2026-10-28T17:48:00-05:00",
+  "palabras": "Orden Público,Inseguridad,Abelardo de la Espriella,Carlos Fernando Galán,Alcaldía de Bogotá,Capturas,Operativos militares",
+  "lead": "Revelaron que fueron desarticuladas cerca de diez bandas en Bogotá tras la captura de 172 personas.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
