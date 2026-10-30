@@ -776,6 +776,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Se revelaron las placas de la camioneta involucrada en el accidente: Bogotá ZV272 y BZV272, un Toyota Sumo Prado, modelo 2007. El accidente ocurrió el pasado martes 27 de octubre a las 5:58 p.m.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:34",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En el artículo del Financial Times sobre elecciones en España se destaca el caso de Luisa Quiñones, una colombiana inmigrante ilegal en España, cuyo reportaje cuenta cómo le cambió la vida tras el proceso de amnistía de Pedro Sánchez.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:37",
+   "quien": "Don Luis (Oyente y economista)",
+   "que": "Los fondos privados tienen 520 billones de pesos y 270.000 pensionados, mientras Colpensiones tiene 1.5 millones y 1.8 millones de pensionados, debiendo sacar el gobierno 70 billones del presupuesto.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:40",
+   "quien": "Julio Sánchez Cristo (Director de 6AM)",
+   "que": "El presupuesto de la Nación incluye 155 billones de servicios de deuda externa, cuestionando la destinación de recursos frente a las pensiones.",
+   "resaltar": false
   }
  ],
  "avisos": [
