@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "05:45",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó la militarización de Cúcuta ante la crisis de orden público y reportó que ya son 256 los colombianos fallecidos en la guerra entre Ucrania y Rusia.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:47",
+   "quien": "Federico Gutiérrez, alcalde de Medellín",
+   "que": "Anunció que la Contraloría Distrital configuró un hallazgo fiscal por más de 700.000 millones de pesos relacionado con la compra de Afinia por parte de EPM.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:48",
+   "quien": "Fabio Arjona, ministro de Ambiente",
+   "que": "Anunció que en febrero próximo iniciarán las obras del Canal del Dique, proyecto que estuvo frenado durante cerca de 4 años por exigencias ambientales.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
