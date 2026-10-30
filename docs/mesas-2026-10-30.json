@@ -41,6 +41,27 @@
    "quien": "Héctor Santamaría, periodista de Mañanas Blu",
    "que": "Informó sobre el hallazgo fiscal de la Contraloría de Medellín por un presunto detrimento de más de 700.000 millones de pesos en EPM debido a irregularidades en la adquisición de Afinia.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:45",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó que la presidencia de la Cámara de Representantes convocó a plenaria el lunes festivo para el último debate del proyecto de ley de sometimiento a la justicia, el cual debe quedar aprobado a más tardar el 4 de noviembre ante el vencimiento de la Ley de Orden Público.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:40",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó que la Octava Brigada del Ejército Nacional desplegó nuevos pelotones en el corredor vial y zonas rurales entre Risaralda y Chocó para frenar intenciones de incursión del ELN y el Clan del Golfo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:43",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó que la Gobernación del Valle del Cauca elevó a 50 millones de pesos la recompensa por información que permita rescatar a Lizeth Alejandra Castaño, secuestrada en una panadería en Guacarí.",
+   "resaltar": false
   }
  ],
  "avisos": []
