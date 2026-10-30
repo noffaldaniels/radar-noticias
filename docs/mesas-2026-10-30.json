@@ -419,6 +419,27 @@
    "quien": "Senador Álvaro Monedero",
    "que": "Señaló que las reformas tributarias no son populares, criticó el aumento de los gastos inflexibles, los programas sociales y el incremento del subsidio que supera el IPC, generando una presión fiscal muy grande sobre el presupuesto.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:24",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Hay muchas discusiones en el Congreso sobre la reforma tributaria y se van a estudiar cambios para lograr consensos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:30",
+   "quien": "Claudia Camila (Periodista)",
+   "que": "El Ministerio de Transporte anunció restricciones para la circulación de vehículos de carga de 3.4 toneladas o más durante el puente festivo en las salidas de Bogotá y en los corredores hacia Cundinamarca, Fusagasugá, Melgar, Ibagué y Calarcá.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:30",
+   "quien": "Héctor Parra (Periodista)",
+   "que": "Renunció la directora de la Unidad Nacional de Servicios Penitenciarios y Carcelarios (Uspec), Isadora Fernández Posada, tras dos meses de posesionarse. En su lugar fue nombrada Vivian Lilith Libed Bernal.",
+   "resaltar": false
   }
  ],
  "avisos": [
