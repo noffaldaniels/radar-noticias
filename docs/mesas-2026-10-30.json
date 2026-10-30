@@ -62,6 +62,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Informó que la Gobernación del Valle del Cauca elevó a 50 millones de pesos la recompensa por información que permita rescatar a Lizeth Alejandra Castaño, secuestrada en una panadería en Guacarí.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:05",
+   "quien": "Yamit Noé Hurtado, Representante a la Cámara (Alianza Verde)",
+   "que": "Anunció su voto negativo a los artículos de la ley de rescate económico que incrementen los costos de la producción agropecuaria, presionen el precio de los alimentos o afecten el acceso a la salud.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:07",
+   "quien": "Lisandro Junco, exdirector de la DIAN",
+   "que": "Advirtió sobre la gravedad del déficit fiscal del país, señalando que de cada tres pesos que ingresan al Estado, uno se destina exclusivamente a pagar el servicio de la deuda.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:09",
+   "quien": "Lisandro Junco, exdirector de la DIAN",
+   "que": "Confirmó que la reforma plantea cobrar parafiscales a empresas desde 2 salarios mínimos (antes 10), reduce rentas laborales exentas de 41 a 32 millones y obliga a declarar renta a ingresos anuales superiores a $37.709.000.",
+   "resaltar": false
   }
  ],
  "avisos": [
