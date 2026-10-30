@@ -1173,7 +1173,7 @@
   "palabras": "Año Nuevo, Navidad, Turismo",
   "lead": "Las reservas de los colombianos para las celebraciones de Año Nuevo superan en un 32 % a las de Navidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Bucaramanga, Gobernación de Santander, Santander, Congreso de la República, Política, Santander",
   "lead": "El dirigente político santandereano falleció en Bogotá. Fue gobernador de Santander, senador de la República, representante a la Cámara y docente universitario.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Santander, Accidente de tránsito, Motociclistas , Menores de edad, Blu Radio, Noticias de hoy",
   "lead": "Las autoridades avanzan en la identificación de los responsables del accidente. Según el director de Tránsito, hay videos que permitirían establecer cómo ocurrió el hecho.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Ejército Nacional, Disidencias Farc, Putumayo",
   "lead": "El material pertenecería presuntamente a la estructura Raúl Reyes de las disidencias de las Farc y también incluía 81 kilos de ANFO, explosivo utilizado en minería, cordón detonante y baterías que podrían utilizarse para fabricar y activar bombas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Santander, California, Páramo de Santurbán, Minería Ilegal, Minería, Blu Radio, Noticias de hoy",
   "lead": "La Alcaldía de California, ubicado en la zona de influencia del páramo de Santurbán, solicitó una mesa interinstitucional para avanzar en la formalización de los pequeños mineros tradicionales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "ANDI, Bruce Mac Master",
   "lead": "A los ciudadanos se les advierte tener especial precaución sobre ofertas laborales en el exterior, especialmente aquellas relacionadas con actividades militares, de seguridad o de apoyo operativo, e invitó a los ciudadanos a verificar las condiciones y los riesgos antes de aceptar cualquier…",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "El alcalde de Samacá, Wilson Castiblanco anunció las novedades que tendrá este año la séptima edición del Family Fest.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "La representante a la Cámara habló en 6AM W sobre las medidas que propone el gobierno en el proyecto de ley.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "La firma ubicó al reconocido abogado Fabio Humar como número uno en cumplimiento normativo y defensa de delitos de cuello blanco",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Las comunicaciones entre los maquinistas y el centro de control ferroviario de Madrid revelaron fallos en el sistema de seguridad minutos antes de la colisión que dejó al menos 69 muertos en Toledo",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Fabio Obando González, de 62 años, fue señalado de coordinar operaciones para el ‘Cártel del Norte del Valle’. Estuvo 10 años preso en Estados Unidos",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "Un alto el fuego está en vigor en este territorio desde hace más de tres días",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "",
   "lead": "El senador Álvaro Monedero habla sobre la ley de ajuste fiscal que radicó el Gobierno De la Esprilellla ante el Congreso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "",
   "lead": "En interceptación legal ordenada por la Corte Suprema, el llamado abogánster admitió que ofreció favores jurídicos al testigo preso Juan Guillermo Monsalve",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "",
   "lead": "Las autoridades intervinieron las comunas 6, 8, 9 y 10, donde también incautaron estupefacientes y 40 armas cortopunzantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "",
   "lead": "El mandatario reconoció que el accidente ha quebrado la confianza ciudadana en el sistema ferroviario español.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "",
   "lead": "El equipo bogotano cayó 2-0 en su visita al estadio Atanasio Girardot.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "En desarrollo...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "Las autoridades reforzaron la vigilancia desde la noche del jueves para prevenir incidentes y garantizar la seguridad durante el puente festivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "Su redactor jefe culpó a los servicios especiales; cesará operaciones el 9 de noviembre tras 30 años.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "La institución emitió un comunicado informando que el agresor fue una persona ajena a la comunidad universitaria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "Mientras que los motociclistas en redes sociales anuncian que saldrán este viernes 30 de octubre a rodar disfrazados por las calles de la capital del Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "El Grupo de Investigación GENTE de la Facultad Seccional Duitama, diseñó un vehículo para operar en aguas dulces y recolectar muestras de agua con el fin de realizar análisis de calidad ambiental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "215 de los 558 pasajeros recibieron atención médica y 155 resultaron ilesos. Las causas del accidente siguen bajo investigación judicial.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "La Sala Penal del Tribunal resolvió las consideraciones de la Corte Constitucional y ordenó la recaptura de Dayana Jassir.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "",
   "lead": "En Armenia instalarán puesto de mando unificado con el fin de hacer seguimiento a las actividades de Halloween y garantizar el orden público",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "Autoridades aumentan presencia en corredores viales nacionales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "El ciudadano, cansado de los constantes rebosamientos y de las afectaciones que esta situación genera en la comunidad, utilizó esta particular forma de protesta para llamar la atención de los cabildantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "El mandatario Danilo Valbuena se pronunció tras los operativos del 27 de octubre y pidió acuerdos concretos para avanzar en la formalización minera.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "El gastrobar anunció algunas medidas en su servicio tras la controversia en redes sociales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "158 Restaurantes participantes en nueve municipios del Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "Al menos nueve cuerpos policiales del Reino Unido investigan los vínculos del expríncipe Andrés con Epstein. El hermano del rey Carlos III, despojado de sus títulos reales en 2025, fue detenido en febrero de este año y continúa bajo investigación, aunque hasta ahora no ha sido acusado formalmente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "Las autoridades desplegaron equipos de rescate por tierra y aire y ordenaron suspender preventivamente las operaciones de la compañía responsable del vuelo. Por el momento, se desconoce el estado de los ocupantes y las causas del accidente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "Las autoridades elevaron la alerta volcánica al nivel 3 de 5 ante el riesgo de nuevas erupciones y suspendieron las clases en toda la provincia de Albay hasta nuevo aviso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "Orden Público,Alteración al orden público,Cúcuta,Ejército Nacional,Gobierno,Abelardo de la Espriella",
   "lead": "El alcalde confirmó que la próxima semana llegarán entre 320 y 330 integrantes del Ejército y 150 uniformados de la Policía para reforzar las operaciones d...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Internacional,Papa León XIV,Votaciones,Estados Unidos,Vaticano",
   "lead": "Siendo cardenal y sacerdote, Robert Prevost ha votado al menos en siete elecciones desde 2012.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Economía,Proyecto de ley,Economistas,Colombia,finanzas,alivios financieros,Ministerio de Hacienda y Crédito Público",
   "lead": "El proyecto de Ley busca recortar el Estado, aumentar impuestos en diferentes productos y proteger la economía nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Sociedad,Animales,Halloween,chocolate,Colombia,Salud,Veterinario",
   "lead": "La salud de los animales también pasa por la alimentación que tengan; evitar químicos es importante.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,6 +1591,105 @@
   "palabras": "Sociedad,Tocancipá,Cortes de agua",
   "lead": "Más de 20.000 habitantes resultaron afectados en los último días debido a la contigencia.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cotelco pide recuperar la seguridad en las regiones para impulsar el turismo en Colombia",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/cotelco-pide-recuperar-la-seguridad-en-las-regiones-para-impulsar-el-turismo-en-colombia-rg10",
+  "fecha": "2026-10-30T08:26:05-05:00",
+  "palabras": "Bucaramanga, Cotelco, Seguridad ciudadana, Santander, Blu Radio",
+  "lead": "Durante el Congreso Nacional de Cotelco en Bucaramanga, el gremio advirtió que la inseguridad y las alertas de viaje afectan la confianza de turistas y pidió acciones para recuperar el orden público.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias provocan inundaciones en Zapatoca: 11 familias resultaron afectadas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/lluvias-provocan-inundaciones-en-zapatoca-11-familias-resultaron-afectadas-rg10",
+  "fecha": "2026-10-30T08:14:15-05:00",
+  "palabras": "Bucaramanga, Zapatoca, Emergencias por lluvias, Lluvias en Colombia, Santander, Emergencias, Blu Radio, Noticias de hoy",
+  "lead": "Las fuertes precipitaciones ocasionaron inundaciones en el casco urbano de Zapatoca, Santander, y una creciente de la quebrada La Uchuala.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan el cuarto cuerpo de la masacre de Ataco: Gobierno Nacional prepara intervención",
+  "enlace": "https://caracol.com.co/2026/10/30/hallan-el-cuarto-cuerpo-de-la-masacre-de-ataco-gobierno-nacional-prepara-intervencion/",
+  "fecha": "2026-10-30T08:30:56-05:00",
+  "palabras": "",
+  "lead": "Organismos de socorro informaron que la cuarta víctima fue ubicada, atada de pies y manos, en aguas del río Saldaña.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Floridablanca ya instaló el alumbrado público navideño. ¿Cuándo se enciende?",
+  "enlace": "https://caracol.com.co/2026/10/30/floridablanca-ya-instalo-el-alumbrado-publico-navideno-cuando-se-enciende/",
+  "fecha": "2026-10-30T08:16:50-05:00",
+  "palabras": "",
+  "lead": "El municipio es el primero que le “madruga” a la temporada de fin de año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En un mes se conocerá qué obras de Vías del Samán podrán ejecutarse en Risaralda",
+  "enlace": "https://caracol.com.co/2026/10/30/en-un-mes-se-conocera-que-obras-de-vias-del-saman-podran-ejecutarse-en-risaralda/",
+  "fecha": "2026-10-30T08:12:04-05:00",
+  "palabras": "",
+  "lead": "La revisión del convenio permitirá establecer los recursos disponibles y el alcance de las intervenciones viales previstas para el departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La hinchada de Nacional, para mí la mejor”: Iván Hurtado recordó su paso por Colombia",
+  "enlace": "https://caracol.com.co/2026/10/30/la-hinchada-de-nacional-para-mi-la-mejor-ivan-hurtado-recordo-su-paso-por-colombia/",
+  "fecha": "2026-10-30T08:10:52-05:00",
+  "palabras": "",
+  "lead": "El exdefensor ecuatoriano, campeón con Atlético Nacional en 2008 y jugador de Millonarios en 2009, habló sobre su experiencia en el fútbol colombiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El papa León XIV votó por correo para los comicios de mitad de mandato en Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/10/30/el-papa-leon-xiv-voto-por-correo-para-los-comicios-de-mitad-de-mandato-en-estados-unidos/",
+  "fecha": "2026-10-30T08:09:54-05:00",
+  "palabras": "",
+  "lead": "León XIV ejerció su derecho al voto como ciudadano de los Estados Unidos “siempre que tuvo la oportunidad”, explicó el Vaticano",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Accidente de trenes en España: Ministro de Transportes descarta renunciar y Sánchez le respalda: \"No sería justo\"",
+  "enlace": "https://www.lafm.com.co/internacional/oscar-puente-ministro-transportes-espana-descarta-renunciar-accidente-trenes-415688",
+  "fecha": "2026-10-30T08:32:00-05:00",
+  "palabras": "Internacional,España,Tren,Accidente,Pedro Sánchez",
+  "lead": "El jefe de la oposición, Alberto Núñez Feijóo, dijo que si no dimiten, \"les haremos dimitir en las urnas\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cómo un grupo de hackers norcoreanos orquestaron el robo de criptomonedas más grande de la historia",
+  "enlace": "https://www.lafm.com.co/internacional/mayor-robo-historia-bitcoins-hackers-norcoreanos-415685",
+  "fecha": "2026-10-30T08:06:00-05:00",
+  "palabras": "Internacional,Criptomonedas,Corea del Norte,Bitcoin,Estados Unidos",
+  "lead": "Binance, el mayor operador de criptomonedas, reportó un robo de 6.300 millones de dólares en criptomonedas.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
