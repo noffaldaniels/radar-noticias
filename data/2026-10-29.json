@@ -5551,7 +5551,7 @@
   "palabras": "Halloween, Rappi",
   "lead": "El 82 % de las ventas de trajes para la temporada se concentró en los últimos días de octubre. Los usuarios prefirieron adquirir elementos puntuales como maquillaje y sangre artificial antes que trajes completos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5562,7 +5562,7 @@
   "palabras": "Bancolombia, Ahorro de dinero, Inversiones",
   "lead": "En el marco del Día Mundial del Ahorro, la entidad financiera compartió una guía de análisis para que los usuarios evalúen sus gastos, deudas y reservas de emergencia antes de buscar rentabilidad en el mercado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5573,7 +5573,7 @@
   "palabras": "Viral, Polonia, Tren",
   "lead": "La situación ocurrió en medio de un trancón, cuando el vehículo no logró atravesar completamente las vías antes del cierre de las barreras de seguridad.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5584,7 +5584,7 @@
   "palabras": "IVA, Aumento IVA",
   "lead": "El Gobierno propuso eliminar el tratamiento diferencial en IVA de diversos productos y servicios, una medida que iría acompañada de una devolución amarrada al pago con factura electrónica.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5595,7 +5595,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo De la Espriella anunciará durante el evento «Milagro del Agua» la nueva propuesta del Gobierno Nacional para enfrentar la crisis de abastecimiento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5606,7 +5606,7 @@
   "palabras": "",
   "lead": "La alcaldía de esta población del Nordeste de Antioquia informó que la restricción para los menores es desde las 11 p. m. y hasta las 5 a. m.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5617,7 +5617,7 @@
   "palabras": "",
   "lead": "En Proyecto Colombia en Hora 20, los panelistas pusieron sobre la mesa algunas propuestas para preservar los ecosistemas e impulsar la economía ambiental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5628,7 +5628,7 @@
   "palabras": "",
   "lead": "Se trataría de material documental y bibliográfico sobre las relaciones internacionales de nuestro país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5639,7 +5639,7 @@
   "palabras": "",
   "lead": "Entérese como expedir este documento si se encuentra en territorio colombiano",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5650,7 +5650,7 @@
   "palabras": "",
   "lead": "Algunas autoridades locales en el país han anunciado medidas especiales, entre ellas restricciones y toques de queda para menores.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5661,7 +5661,7 @@
   "palabras": "",
   "lead": "Noticia en desarrollo...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5672,7 +5672,7 @@
   "palabras": "",
   "lead": "Bucaramanga y otros 11 municipios están en situación de brote.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5683,7 +5683,7 @@
   "palabras": "",
   "lead": "La entidad contradijo las cifras presentadas por la concejal Diana Diago, quien advirtió que el 36,6 % de las cámaras del sistema no funcionaba.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5694,7 +5694,7 @@
   "palabras": "",
   "lead": "El brasileño no estuvo en el triunfo del equipo Escarlata 2-1 sobre Fortaleza.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5705,7 +5705,7 @@
   "palabras": "Sociedad,Lotería de Bogotá,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
   "lead": "Ya hay número ganador del premio mayor este jueves.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5716,7 +5716,7 @@
   "palabras": "Entretenimiento,Halloween,Disfraces para Halloween",
   "lead": "Natalia Barrera, alquimista de la escuela Nefer, habló en La FM sobre las raíces celtas de Halloween, su relación con la muerte y las antiguas tradiciones ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5727,7 +5727,7 @@
   "palabras": "Economía,déficit fiscal,Comité de Regla Fiscal,Reforma tributaria,Ministerio de Hacienda y Crédito Público,José Manuel Restrepo,reforma",
   "lead": "El proyecto, radicado este jueves en el Congreso, recorta el gasto del Estado, amplía el IVA con una devolución para los más pobres, sube los aportes a sal...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5738,6 +5738,127 @@
   "palabras": "Deportes,Egan Bernal,equipo Ineos,Nairo Quintana,Ciclismo",
   "lead": "Egan Bernal encendió las alarmas empezando el mes de octubre por una versión sobre su retiro. El ciclista aduce un desgaste físico y mental para competir y...",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy jueves 29 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-jueves-29-de-octubre-de-2026-so35",
+  "fecha": "2026-10-29T21:42:54-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche realiza su sorteo los domingos a las 10:30 p. m. Este jueves 29 de octubre de 2026 los participantes pueden revisar el resultado oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy jueves 29 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-jueves-29-de-octubre-de-2026-so35",
+  "fecha": "2026-10-29T21:43:06-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche es uno de los juegos de azar más consultados por los apostadores. Este jueves 29 de octubre de 2026 los participantes pueden consultar el resultado del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del último sorteo hoy jueves 29 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-ultimo-sorteo-hoy-jueves-29-de-octubre-de-2026-so35",
+  "fecha": "2026-10-29T21:43:30-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna juega todos los días, incluidos domingos y festivos. Este jueves 29 de octubre de 2026 los participantes pueden consultar el resultado del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Bogotá, resultados del último sorteo hoy jueves 29 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-bogota-resultados-del-ultimo-sorteo-hoy-jueves-29-de-octubre-de-2026-so35",
+  "fecha": "2026-10-29T21:42:42-05:00",
+  "palabras": "Lotería de Bogotá, Resultado de loterías de hoy",
+  "lead": "Consulte todos los resultados de la Lotería de Bogotá del 29 de octubre de 2026 en su sorteo 2870.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dayro Moreno, el futbolistas colombiano con más partidos de la historia",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/dayro-moreno-rompio-otro-record-historico-en-el-futbol-profesional-colombiano-so35",
+  "fecha": "2026-10-29T21:59:21-05:00",
+  "palabras": "Dayro Moreno, Once Caldas",
+  "lead": "El tolimense quedará para siempre en la historia del fútbol profesional colombiano, no solo como el máximo goleador, sino para todos los futbolistas colombianos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cómo ingresar a la Infantería de Marina de Colombia: Requisitos, pasos para inscribirse y más",
+  "enlace": "https://caracol.com.co/2026/10/30/como-ingresar-a-la-infanteria-de-marina-de-colombia-requisitos-pasos-para-inscribirse-y-mas/",
+  "fecha": "2026-10-29T21:58:45-05:00",
+  "palabras": "",
+  "lead": "Conozca aquí cuáles son los requisitos para ingresar a la Infantería de Marina de Colombia:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con reforma tributaria De la Espriella pagarían renta quienes ganan alrededor de $3 millones al mes",
+  "enlace": "https://caracol.com.co/2026/10/30/con-reforma-tributaria-de-la-espriella-pagarian-renta-quienes-ganan-alrededor-de-3-millones-al-mes/",
+  "fecha": "2026-10-29T21:32:11-05:00",
+  "palabras": "",
+  "lead": "Más colombianos pagarían impuesto de renta, según la reforma tributaria del Gobierno de Abelardo de la Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Allanamiento en Turbaco permitió incautación de armas, dinero y drones: hay un detenido",
+  "enlace": "https://caracol.com.co/2026/10/30/allanamiento-en-turbaco-permitio-incautacion-de-armas-dinero-y-drones-hay-un-detenido/",
+  "fecha": "2026-10-29T21:43:48-05:00",
+  "palabras": "",
+  "lead": "Las indagaciones también buscan establecer la posible relación de la plata incautada con rentas criminales",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro máquinas de bomberos atendieron incendio frente a La Plazuela",
+  "enlace": "https://caracol.com.co/2026/10/30/cuatro-maquinas-de-bomberos-atendieron-incendio-frente-a-la-plazuela/",
+  "fecha": "2026-10-29T21:37:44-05:00",
+  "palabras": "",
+  "lead": "Más de 15 unidades fueron necesarias para controlar las llamas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Realizan Mesa de Diálogo Ciudad Conectada y Sostenible en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/30/realizan-mesa-de-dialogo-ciudad-conectada-y-sostenible-en-cartagena/",
+  "fecha": "2026-10-29T21:27:42-05:00",
+  "palabras": "",
+  "lead": "Se trata de un espacio de encuentro entre la administración distrital y los ciudadanos para conocer los avances institucionales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones Israel: Netanyahu queda a la cabeza, pero no logra mayoría",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-israel-natanyahu-lidera-sin-mayoria-415655",
+  "fecha": "2026-10-29T21:25:00-05:00",
+  "palabras": "Internacional,Reelección de Netanyahu,israel",
+  "lead": "Aunque la coalición de Netanyahu obtuvo la mayor votación en las elecciones israelíes, los resultados no le garantizan la mayoría parlamentaria necesaria p...",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
