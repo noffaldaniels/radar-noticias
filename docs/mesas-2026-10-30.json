@@ -321,6 +321,27 @@
    "quien": "Presidente Gustavo Petro",
    "que": "El presidente Petro habló sobre el tema de los paquetes que entran al país sin pagar impuestos, mencionando que son más de 100 millones este año, y destacó la importancia de mantener la calma y discutir la situación.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:05",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Fuerza Pública mantiene los operativos en el Valle del Cauca para dar con la joven de 19 años secuestrada el pasado martes en una panadería de Guacarí.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:10",
+   "quien": "Valeska Alvarado, corresponsal permanente en Washington",
+   "que": "En el departamento de Chocó se reportó el abatimiento y captura de 6 miembros de una estructura criminal del Clan del Golfo durante operativos militares.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:10",
+   "quien": "César Pabón, director ejecutivo de Investigaciones Económicas de Corficolombiana",
+   "que": "El proyecto de rescate económico contempla que el 70% de los recursos provendrán del recorte del gasto público.",
+   "resaltar": false
   }
  ],
  "avisos": [
