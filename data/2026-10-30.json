@@ -1602,7 +1602,7 @@
   "palabras": "Bucaramanga, Cotelco, Seguridad ciudadana, Santander, Blu Radio",
   "lead": "Durante el Congreso Nacional de Cotelco en Bucaramanga, el gremio advirtió que la inseguridad y las alertas de viaje afectan la confianza de turistas y pidió acciones para recuperar el orden público.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "Bucaramanga, Zapatoca, Emergencias por lluvias, Lluvias en Colombia, Santander, Emergencias, Blu Radio, Noticias de hoy",
   "lead": "Las fuertes precipitaciones ocasionaron inundaciones en el casco urbano de Zapatoca, Santander, y una creciente de la quebrada La Uchuala.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "Organismos de socorro informaron que la cuarta víctima fue ubicada, atada de pies y manos, en aguas del río Saldaña.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "El municipio es el primero que le “madruga” a la temporada de fin de año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "",
   "lead": "La revisión del convenio permitirá establecer los recursos disponibles y el alcance de las intervenciones viales previstas para el departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "El exdefensor ecuatoriano, campeón con Atlético Nacional en 2008 y jugador de Millonarios en 2009, habló sobre su experiencia en el fútbol colombiano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "León XIV ejerció su derecho al voto como ciudadano de los Estados Unidos “siempre que tuvo la oportunidad”, explicó el Vaticano",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "Internacional,España,Tren,Accidente,Pedro Sánchez",
   "lead": "El jefe de la oposición, Alberto Núñez Feijóo, dijo que si no dimiten, \"les haremos dimitir en las urnas\".",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,6 +1690,314 @@
   "palabras": "Internacional,Criptomonedas,Corea del Norte,Bitcoin,Estados Unidos",
   "lead": "Binance, el mayor operador de criptomonedas, reportó un robo de 6.300 millones de dólares en criptomonedas.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "JD Vance, Pete Hegseth y gral. Dan Caine: los hombres más poderosos de Trump estarán en Colombia",
+  "enlace": "https://www.bluradio.com/nacion/jd-vance-pete-hegseth-y-gral-dan-caine-los-hombres-mas-poderosos-de-trump-estaran-en-colombia-rg10",
+  "fecha": "2026-10-30T09:01:02-05:00",
+  "palabras": "Donald Trump, Narcotráfico, Estados Unidos",
+  "lead": "Tres visitas con objetivos diferentes, pero conectadas por una misma estrategia: combatir el narcotráfico, fortalecer la seguridad regional y ampliar la influencia estadounidense en América Latina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Combates entre Ejército y Clan del Golfo dejan un delincuente abatido en Nechí, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/combates-entre-ejercito-y-clan-del-golfo-dejan-un-delincuente-abatido-en-nechi-antioquia-rg10",
+  "fecha": "2026-10-30T08:51:37-05:00",
+  "palabras": "Antioquia, Ejército Nacional, Clan del Golfo, Bajo Cauca",
+  "lead": "El golpe afectó al círculo más cercano de alias 'Hugo', cabecilla pseudopolítico de grupo armado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Puente festivo del 2 de noviembre: los mejores destinos en Colombia para una escapada de tres días",
+  "enlace": "https://www.bluradio.com/turismo/puente-festivo-del-2-de-noviembre-los-mejores-destinos-en-colombia-para-una-escapada-de-tres-dias-so35",
+  "fecha": "2026-10-30T09:22:49-05:00",
+  "palabras": "Días Festivos Colombia, Viajes",
+  "lead": "Siete municipios de distintas regiones del país tendrán festivales, ferias y actividades culturales entre el 29 de octubre y el 2 de noviembre para atraer a viajeros durante el fin de semana largo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Miguel Quintero seguirá en su finca de Copacabana o irá a la cárcel? Juez definirá apelación",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/miguel-quintero-seguira-en-su-finca-de-copacabana-o-ira-a-la-carcel-juez-definira-apelacion-rg10",
+  "fecha": "2026-10-30T09:19:22-05:00",
+  "palabras": "Daniel Quintero, Federico Gutiérrez, Medellín",
+  "lead": "El alcalde Federico Gutiérrez aseguró que con todas las pruebas que ha presentado el Distrito, espera que sea enviado a prisión.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Si reforma Carrasquilla se hubiera hecho, no estarían en estas, dice exviceministro Juan A. Londoño",
+  "enlace": "https://www.bluradio.com/economia/si-reforma-carrasquilla-se-hubiera-hecho-no-estarian-en-estas-dice-exviceministro-juan-a-londono-pr30",
+  "fecha": "2026-10-30T09:06:00-05:00",
+  "palabras": "Reforma tributaria, IVA, Mauricio Cárdenas, Alberto Carrasquilla",
+  "lead": "Por su parte, el exministro de Hacienda Mauricio Cárdenas expresó su respaldo a la presentación de la norma por parte del Ejecutivo, al considerar que previene un colapso financiero de proporciones mayores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos muertos son del Gobierno: portavoz sindical responsabilizó al MinTransporte por choque en Urda",
+  "enlace": "https://caracol.com.co/2026/10/30/estos-muertos-son-del-gobierno-portavoz-sindical-responsabilizo-al-mintransporte-por-choque-en-urda/",
+  "fecha": "2026-10-30T09:27:21-05:00",
+  "palabras": "",
+  "lead": "Antonio García, portavoz nacional de la Central Sindical Independiente y de Funcionarios (CSIF) en Renfe, aseguró que había advertencias previas sobre fallas ferroviarias en Urda",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército Nacional ubica y destruye laboratorio para el procesamiento de pasta base de coca en Norosí",
+  "enlace": "https://caracol.com.co/2026/10/30/ejercito-nacional-ubica-y-destruye-laboratorio-para-el-procesamiento-de-pasta-base-de-coca-en-norosi/",
+  "fecha": "2026-10-30T09:22:42-05:00",
+  "palabras": "",
+  "lead": "Tropas del Batallón de Infantería de Selva No. 4 Antonio Nariño, unidad orgánica de la Décima Novena Brigada del Ejército Nacional, llegaron hasta la vereda San Pedro Medio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "IVA en tributaria de De La Espriella aportaría cerca de $80 billones a ajuste fiscal: Luis F. Mejía",
+  "enlace": "https://caracol.com.co/2026/10/30/iva-en-tributaria-de-la-espriella-aportaria-cerca-de-80-billones-a-ajuste-fiscal-luis-f-mejia/",
+  "fecha": "2026-10-30T09:13:55-05:00",
+  "palabras": "",
+  "lead": "En 6AMW de Caracol Radio, estuvo Luis Fernando Mejía, presidente de Lumen Economic Intelligence, quien analizó los alcances de la Ley de Rescate Fiscal propuesta por el Gobierno de Abelardo De la Espriella y advirtió sobre algunos de sus componentes, particularmente los beneficios tributarios contemplados para atraer grandes inversiones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Richard Ríos se perderá los amistosos con Colombia ante Chile? Se marchó lesionado en el Al Ittihad",
+  "enlace": "https://caracol.com.co/2026/10/30/richard-rios-se-perdera-los-amistosos-con-colombia-ante-chile-se-marcho-lesionado-en-el-al-ittihad/",
+  "fecha": "2026-10-30T09:19:49-05:00",
+  "palabras": "",
+  "lead": "El volante colombiano apenas pudo disputar 4 minutos en la visita de su equipo ante el Abha.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 30 de octubre de 2026",
+  "enlace": "https://caracol.com.co/2026/10/30/precio-y-cotizacion-del-dolar-en-venezuela-hoy-30-de-octubre-de-2026/",
+  "fecha": "2026-10-30T09:19:08-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en el dólar y otras divisas del mundo, y cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jovanna Villamizar es ‘Niña Colombia Cultura 2026’ y representa al país en República Dominicana",
+  "enlace": "https://caracol.com.co/2026/10/30/jovanna-villamizar-es-nina-colombia-cultura-2026-y-representa-al-pais-en-republica-dominicana/",
+  "fecha": "2026-10-30T09:18:34-05:00",
+  "palabras": "",
+  "lead": "Colombia es tierra de reinas y en ese entendido, Bolívar y Cartagena así lo han demostrado como potencia a nivel nacional con 7 coronas obtenidas por el departamento y 2 titulaciones por parte del distrito como Señoritas Colombia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Silvestre Dangond celebra el amor en todas sus manifestaciones con su nuevo sencillo “Hay amores”",
+  "enlace": "https://caracol.com.co/2026/10/30/silvestre-dangond-celebra-el-amor-en-todas-sus-manifestaciones-con-su-nuevo-sencillo-hay-amores/",
+  "fecha": "2026-10-30T09:14:26-05:00",
+  "palabras": "",
+  "lead": "“‘Hay amores’ invita a reconocer esos amores que dejan huella en nuestras vidas”, dice Dangond.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se controló incendio de grandes proporciones en La Concepción en el sur de Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/30/se-controlo-incendio-de-grandes-proporciones-en-la-concepcion-en-el-sur-de-cartagena/",
+  "fecha": "2026-10-30T09:14:18-05:00",
+  "palabras": "",
+  "lead": "Tras un trabajo articulado con seis máquinas del Cuerpo de Bomberos de Cartagena, toda la articulación distrital, alcaldías municipales cercanas, Gobernación y diversos aliados",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación de Bolívar desplegó organismos de socorro de cuatro municipios para controlar incendio",
+  "enlace": "https://caracol.com.co/2026/10/30/gobernacion-de-bolivar-desplego-organismos-de-socorro-de-cuatro-municipios-para-controlar-incendio/",
+  "fecha": "2026-10-30T09:07:16-05:00",
+  "palabras": "",
+  "lead": "Bomberos de Turbaco, Turbana, Santa Rosa y Arjona, junto con varios carrotanques, apoyaron las labores de emergencia que permitieron controlar las llamas y evitar que el fuego se propagara a otras viviendas y establecimientos comerciales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 30 de octubre 2026 en Colombia: la divisa extranjera inicia la jornada cerca de los $3.200",
+  "enlace": "https://caracol.com.co/2026/10/30/dolar-hoy-30-de-octubre-2026-en-colombia-la-divisa-extranjera-inicia-la-jornada-cerca-de-los-3200/",
+  "fecha": "2026-10-30T09:05:28-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este viernes 30 de octubre. Conozca el comportamiento del dólar estadounidense y australiano, además del euro, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades de Medellín activan plan de seguridad para el fin de semana de Halloween",
+  "enlace": "https://caracol.com.co/2026/10/30/autoridades-de-medellin-activan-plan-de-seguridad-para-el-fin-de-semana-de-halloween/",
+  "fecha": "2026-10-30T09:01:43-05:00",
+  "palabras": "",
+  "lead": "Las autoridades priorizaron la vigilancia en estaciones del Metro, centros comerciales y parques principales para prevenir delitos y garantizar la convivencia ciudadana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estas son las restricciones para vehículos de carga durante el puente festivo",
+  "enlace": "https://caracol.com.co/2026/10/30/estas-son-las-restricciones-para-vehiculos-de-carga-durante-el-puente-festivo/",
+  "fecha": "2026-10-30T08:57:04-05:00",
+  "palabras": "",
+  "lead": "Se destaca la restricción total en la vía Bogotá–Villavicencio el lunes 2 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia vs. Chile: confirmados los precios de la boletería para el amistoso en Cali",
+  "enlace": "https://caracol.com.co/2026/10/30/seleccion-colombia-vs-chile-confirmados-los-precios-de-la-boleteria-para-el-amistoso-en-cali/",
+  "fecha": "2026-10-30T08:53:28-05:00",
+  "palabras": "",
+  "lead": "El compromiso se disputará el próximo viernes 13 de noviembre en el estadio Olímpico Pascual Guerrero de Cali y tendrá un componente solidario para apoyar a las comunidades afectadas por el terremoto del pasado 10 de agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia confirma tres casos importados de sarampión procedentes de Perú",
+  "enlace": "https://caracol.com.co/2026/10/30/colombia-confirma-tres-casos-importados-de-sarampion-procedentes-de-peru/",
+  "fecha": "2026-10-30T08:47:38-05:00",
+  "palabras": "",
+  "lead": "Según las autoridades, hasta el momento no se ha identificado transmisión del virus en la población colombiana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un muerto deja accidente de tránsito en la Calle 30, en Soledad",
+  "enlace": "https://caracol.com.co/2026/10/30/un-muerto-deja-accidente-de-transito-en-la-calle-30-en-soledad/",
+  "fecha": "2026-10-30T08:44:24-05:00",
+  "palabras": "",
+  "lead": "La víctima fue identificada como Yosimir Cervera. El accidente involucró a un vehículo particular y una volqueta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un muerto y un capturado dejan combates entre Ejército y Clan del Golfo en Nechí",
+  "enlace": "https://caracol.com.co/2026/10/30/un-muerto-y-un-capturado-dejan-combates-entre-ejercito-y-clan-del-golfo-en-nechi/",
+  "fecha": "2026-10-30T08:35:47-05:00",
+  "palabras": "",
+  "lead": "En los operativos se incautó un arsenal de guerra del grupo criminal en el Bajo Cauca antioqueño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EE. UU. expulsó a un diplomático cubano tras un altercado en la ONU, según el New York Times",
+  "enlace": "https://caracol.com.co/2026/10/30/ee-uu-expulso-a-un-diplomatico-cubano-tras-un-altercado-en-la-onu-segun-el-new-york-times/",
+  "fecha": "2026-10-30T08:34:12-05:00",
+  "palabras": "",
+  "lead": "La decisión se produce en medio de nuevas tensiones entre Washington y La Habana, después de que una resolución de las Naciones Unidas contra el embargo estadounidense a Cuba recibiera el respaldo de 130 países, su nivel más bajo en dos décadas y 35 votos menos que el año pasado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Condenan a la Policía por joven que perdió un ojo en marchas",
+  "enlace": "https://www.lafm.com.co/orden-publico/condenan-a-policia-por-disparo-de-un-agente-esmad-a-joven-protestas-2021-415673",
+  "fecha": "2026-10-30T09:23:00-05:00",
+  "palabras": "Orden Público,Esmad,Policía Nacional,Condena,Justicia y Paz,Manifestaciones,Manifestantes",
+  "lead": "La sentencia concluye que el daño es imputable a la Policía por falla en el servicio, debido a un uso excesivo y desproporcionado de la fuerza.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá contará con su primer Festival de Carranga 2026",
+  "enlace": "https://www.lafm.com.co/entretenimiento/bogota-primer-festival-de-carranga-2026-entrada-gratis-fechas-artistas-invitados-415681",
+  "fecha": "2026-10-30T09:01:00-05:00",
+  "palabras": "Entretenimiento,Bogotá,Idartes,música,Concierto,IDRD",
+  "lead": "La carranga nació en la década de los años 70 en Boyacá, impulsada por uno de sus referentes, Jorge Velosa, junto a la agrupación Los Carrangueros de Ráqui...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Polémica por proyecto de Ley que busca un día nacional de la Biblia",
+  "enlace": "https://www.lafm.com.co/sociedad/proyecto-busca-que-la-biblia-tenga-un-dia-nacional-en-colombia-415690",
+  "fecha": "2026-10-30T08:46:00-05:00",
+  "palabras": "Sociedad,Religión,Debate,Proyecto de ley,Biblia,Colombia,Senado de la República,Congreso de la República,Cámara de Representantes",
+  "lead": "La discusión dejó entrever las ideas políticas de los sectores en el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Conozca los partidazos para ver este fin de semana",
+  "enlace": "https://www.lafm.com.co/deportes/bayern-dortmund-milan-inter-partidazos-para-fin-de-semana-415672",
+  "fecha": "2026-10-30T08:45:00-05:00",
+  "palabras": "Deportes,Fútbol,Liga Española,Premier League,Bundesliga,Liga italiana,Liga BetPlay,Bayern Múnich,Borussia Dortmund,Inter de Milán,AC Milan,Manchester United,Manchester City,Liverpool,Arsenal,Chelsea,América de Cali,Atlético Nacional,Millonarios,Independiente Santa Fe",
+  "lead": "En Latinoamérica se disputará el clásico más importante de la región. En Argentina, desde la 1:00 p.m., Boca recibe a River en La Bombonera.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Invima alerta por venta de productos Oreo fraudulentos en Colombia: conozca cuáles son",
+  "enlace": "https://www.lafm.com.co/sociedad/invima-galletas-oreo-fraudulentos-comercializacion-alerta-sanitaria-415689",
+  "fecha": "2026-10-30T08:41:00-05:00",
+  "palabras": "Sociedad,Invima,dulces,Ministerio de Salud,Comida",
+  "lead": "La autoridad sanitaria advirtió sobre la distribución de tres productos identificados como fraudulentos: “OREO-Trozos de galleta medianos”, “OREO-Trozos de...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Dónde reclamar medicamentos de EPS Sanitas en Bogotá?",
+  "enlace": "https://www.lafm.com.co/sociedad/reclamar-medicamentos-eps-sanitas-nuevos-puntos-de-atencion-415686",
+  "fecha": "2026-10-30T08:13:00-05:00",
+  "palabras": "Sociedad,Salud,medicamentos,Bogotá,EPS,IPS",
+  "lead": "La Entidad Prestadora de Salud indicó en dónde se podrán reclamar los medicamentos de sus",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
