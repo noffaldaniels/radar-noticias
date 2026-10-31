@@ -370,7 +370,7 @@
   "palabras": "Halloween, Elecciones en Colombia 2026",
   "lead": "Jaime Suárez explicó cuándo se inscribirán los candidatos y cómo avanzan los preparativos en las zonas afectadas por el terremoto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Noticias de la Mañana del sábado, 31 de octubre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "Se realizó el lanzamiento de la campaña ‘Todos somos catedral’ para reunir aportes que permitan restaurar el templo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "Estamos hablando de la IPS Horisoes que suspendió los servicios de primer nivel para el magisterio del departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "El IDEAM pronostica precipitaciones en varias zonas del departamento y las autoridades piden evitar las quemas abiertas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "El director de la entidad, Juan Camilo Ostos, también anunció un contrato de gestión vial integral por $150.000 millones para atender el corredor durante cuatro años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "El delantero de Once Caldas superó a un histórico del fútbol colombiano tras el duelo frente a Alianza Valledupar.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "La víctima fue identificada como Luis Francisco Ramírez. Las autoridades adelantan las investigaciones para esclarecer el crimen y dar con los responsables.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El exalcalde de Medellín indicó que su hermano está siendo tratado como un delincuente sin haber sido condenado por la justicia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "Según los voceros del gremio, son obligados a atender casos de pacientes psiquiátricos que terminan dañando los equipos de las ambulancias y agrediendo al personal médico.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "En las últimas horas se llevó a cabo un consejo extraordinario de seguridad con el fin de definir las medidas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,6 +491,94 @@
   "palabras": "Orden Público,Ejército Nacional,Chocó,Clan del Golfo,Policía Nacional,Militares,Grupos Armados Organizados,Quibdó",
   "lead": "Información de inteligencia señala que alias Kevin sería el hombre de confianza de alias Chuky y alias Pacho Keita, cabecillas de Los Mexicanos.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturaron en Medellín a galés requerido por la justicia de su país: tenía pistola y municiones",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/capturaron-en-medellin-a-gales-requerido-por-la-justicia-de-su-pais-tenia-pistola-y-municiones-rg10",
+  "fecha": "2026-10-31T08:13:17-05:00",
+  "palabras": "Antioquia, Medellín, Gales, Noticias de hoy",
+  "lead": "El extranjero presuntamente había incumplido la libertad condicional tras ser condenado en 2020 por tráfico de drogas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Atacan con explosivos por segunda vez, peaje en la vía Panamericana en La Sierra, Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/atacan-con-explosivos-por-segunda-vez-peaje-en-la-via-panamericana-en-la-sierra-cauca-rg10",
+  "fecha": "2026-10-31T08:14:58-05:00",
+  "palabras": "Vía panamericana, Cauca, atentado terrorista",
+  "lead": "El alcalde del municipio indicó que hoy la comunidad vecina del peaje pide que este no siga funcionado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Neiva y Pitalito reunirán a los comunales del Huila para celebrar su día y exaltar su labor social",
+  "enlace": "https://caracol.com.co/2026/10/31/neiva-y-pitalito-reuniran-a-los-comunales-del-huila-para-celebrar-su-dia-y-exaltar-su-labor-social/",
+  "fecha": "2026-10-31T08:24:38-05:00",
+  "palabras": "",
+  "lead": "Los encuentros serán el 27 y 28 de noviembre para reconocer el liderazgo de quienes trabajan por sus comunidades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 300 empresas de transporte están bajo vigilancia por viajes de menores de edad",
+  "enlace": "https://caracol.com.co/2026/10/31/mas-de-320-empresas-de-transporte-estan-bajo-vigilancia-por-viajes-de-menores-de-edad/",
+  "fecha": "2026-10-31T08:19:51-05:00",
+  "palabras": "",
+  "lead": "La Superintendencia de Transporte reforzó las inspecciones en terminales ante el aumento de viajeros por la temporada de fin de año y recordó los requisitos para los niños que viajan solos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Jugamos por amor a la camiseta y por la ciudad”: Walmer Pacheco tras victoria del Pereira",
+  "enlace": "https://caracol.com.co/2026/10/31/jugamos-por-amor-a-la-camiseta-y-por-la-ciudad-walmer-pacheco-tras-victoria-del-pereira/",
+  "fecha": "2026-10-31T08:14:50-05:00",
+  "palabras": "",
+  "lead": "El plantel acompañó a José Alexis Márquez en rueda de prensa, donde analizaron el triunfo y hablaron de la situación del club.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Huila desplegará más de 1.200 policías para garantizar la seguridad durante el Día Dulce",
+  "enlace": "https://caracol.com.co/2026/10/31/huila-desplegara-mas-de-1200-policias-para-garantizar-la-seguridad-durante-el-dia-dulce/",
+  "fecha": "2026-10-31T08:15:28-05:00",
+  "palabras": "",
+  "lead": "La Policía reforzará los controles y patrullajes en varios municipios para proteger a niños y familias durante la celebración.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Pido perdón”: Juan Carlos González, condenado por el crimen de Jaime Esteban Moreno",
+  "enlace": "https://caracol.com.co/2026/10/31/pido-perdon-juan-carlos-gonzalez-condenado-por-la-muerte-de-jaime-esteban-moreno/",
+  "fecha": "2026-10-31T08:00:46-05:00",
+  "palabras": "",
+  "lead": "Juan Carlos González fue condenado a 37 años de prisión por el presunto homicidio de Juan Esteban Moreno en Bogotá en octubre de 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Daniel Quintero rechazó traslado de su hermano a Boyacá",
+  "enlace": "https://www.lafm.com.co/politica/daniel-quintero-hermano-miguel-carcel-combita-boyaca-medellin-ex-alcalde-415779",
+  "fecha": "2026-10-31T07:47:00-05:00",
+  "palabras": "Política,Daniel Quintero,Cárcel,Medellín, Colombia,Corrupción,Lucha anticorrupción,polémica",
+  "lead": "El pronunciamiento llega después de que el presidente Abelardo de la Espriella publicara un video en el que se ve a Miguel Quintero esposado.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
