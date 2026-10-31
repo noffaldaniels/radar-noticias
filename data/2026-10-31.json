@@ -1151,7 +1151,7 @@
   "palabras": "Viral, Estados Unidos",
   "lead": "Un hombre de Estados Unidos llevaba varias semanas con unos boletos guardados en su billetera. Una compra cotidiana terminó convirtiéndose en una sorpresa inesperada.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "Estilo de vida, Tratamientos",
   "lead": "El Dr. Pedro Cristancho explicó en qué consiste este procedimiento, cuáles son los síntomas que tiene en cuenta y qué resultados asegura haber observado en sus pacientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Blu Jeans del sábado, 31 de octubre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Sony, Black Friday",
   "lead": "El tipo de diseño, la batería, la conectividad y la calidad del micrófono son factores que conviene revisar antes de comprar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Cáncer, Viral",
   "lead": "La falta de apetito y los cambios en el gusto pueden afectar la nutrición de los pacientes. Expertos explican qué nutrientes priorizar y cómo adaptar la alimentación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Pacientes Colombia, CIDH, Salud",
   "lead": "La organización respalda el plan de acción del Gobierno, pero pide transparencia en las cifras de pacientes con medicamentos pendientes y recursos suficientes para el sistema.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Haga de su casa un hogar en Casa Blu este sábado, 31 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Panamá, Sismo hoy",
   "lead": "El Servicio Geológico Colombiano reportó una profundidad menor a 30 kilómetros.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Quibdó, Abelardo De La Espriella",
   "lead": "El plan contempla cuatro líneas de apoyo: demoliciones, mejoramiento de viviendas, créditos condonables para pequeños negocios y construcción de nuevas casas. Una de las líneas todavía está por definirse.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "El temor volvió a apoderarse este sábado de los panameños tras un sismo de magnitud 5,9, con epicentro a veinte kilómetros al noreste de Tonosí, en la provincia de Los Santos, que se sintió en distintos puntos del país, incluida la capital, donde el Metro de Panamá desalojó a sus pasajeros como parte de sus protocolos de seguridad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Los volantes contenían información sobre la Línea 107, un canal gratuito que funciona las 24 horas del día para recibir información de la ciudadanía",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Giovanni Castaño, tío de la joven, aseguró que no han recibido comunicaciones sobre su sobrina. La comunidad ha realizado velatones y movilizaciones para exigir su liberación, mientras las autoridades mantienen los operativos de búsqueda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "El extranjero estaría siendo buscado por autoridades internacionales por una condena de tráfico de estupefacientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "Una menor de 9 años de edad falleció tras varios días de estar hospitalizada por un trágico accidente de tránsito en vías del Quindío",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Orden Público,Incendio,Muere menor de edad,Santa Marta,Cuerpo de Bomberos,Magdalena",
   "lead": "Incendio en el barrio Santa Cruz en Santa Marta, dejó tres muertos: una pastora y dos niños. 17 bomberos atendieron el caso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Sociedad,Avianca,Vuelos,Aviones,Estados Unidos",
   "lead": "No podrá abordar el avión. Avianca advirtió que la presentación del comprobante, ya sea digital o físico.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Actualidad,Cundinamarca,Soacha,Accidente,Bus,vehículos,Heridos",
   "lead": "Un accidente de tránsito en la vía Soacha-El Colegio dejó ocho personas lesionadas, entre ellas tres menores de edad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,6 +1338,204 @@
   "palabras": "Sociedad,Terror,Peliculas online,atención psicológica,trastorno psicológico,Cine",
   "lead": "El médico psiquiatra y psicoanalista Sergio Castro explicó qué mecanismos pueden estar detrás de esta afición.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Condenan a 5 años y 4 meses de prisión a exgerente del Acueducto de Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/condenan-a-5-anos-y-4-meses-de-prision-a-exgerente-del-acueducto-de-bucaramanga-rg10",
+  "fecha": "2026-10-31T13:00:40-05:00",
+  "palabras": "Bucaramanga, Noticias de hoy, Blu Radio, Santander",
+  "lead": "Ludwig Stünkel García fue hallado responsable del delito de interés indebido en la celebración de contratos por el proceso de contratación de las obras de las plantas Los Angelinos y Bosconia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Madre, hermana y sobrino de edil mueren en incendio en Santa Marta",
+  "enlace": "https://www.bluradio.com/regiones/caribe/madre-hermana-y-sobrino-de-edil-mueren-en-incendio-en-santa-marta-rg10",
+  "fecha": "2026-10-31T12:27:11-05:00",
+  "palabras": "Noticias de hoy, Santa Marta, Incendio, Caribe, Magdalena",
+  "lead": "Entre las víctimas se encuentran dos menores de edad, confirmó la Alcaldía de Santa Marta. Cuatro personas más resultaron heridas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día, resultado del último sorteo de hoy sábado 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-de-hoy-sabado-31-de-octubre-de-2026-so35",
+  "fecha": "2026-10-31T12:14:41-05:00",
+  "palabras": "Paisita día, Chances y Loterías, Resultados del chance, Ganador del chance Paisita Día, Paisita Día, Resultados del chance , Resultados hoy",
+  "lead": "El chance Paisita Día juega todos los días después del mediodía. Consulte aquí el número ganador del sorteo de hoy, sábado 31 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día, resultado del último sorteo hoy sábado 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-resultado-del-ultimo-sorteo-hoy-sabado-31-de-octubre-de-2026-so35",
+  "fecha": "2026-10-31T12:23:06-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Día, Ganador Chontico Día, Resultados Chontico Día, Resultados del chance , Resultados hoy Chontico Día",
+  "lead": "El chance Chontico Día juega todos los días a las 1 p. m.. Revise aquí el número ganador hoy sábado 31 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué la deficiencia de hierro afecta a mujeres y adultos mayores? OMS advierte riesgo de anemia",
+  "enlace": "https://www.bluradio.com/salud/por-que-la-deficiencia-de-hierro-afecta-a-mujeres-y-adultos-mayores-oms-advierte-riesgo-de-anemia-so35",
+  "fecha": "2026-10-31T12:49:41-05:00",
+  "palabras": "OMS, Embarazo",
+  "lead": "La menstruación, el embarazo, la alimentación y algunas enfermedades pueden influir en los niveles de hierro y hemoglobina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No participamos en los preparativos que hizo”: Marco Rubio sobre huída de Bolsonaro de Brasil",
+  "enlace": "https://www.bluradio.com/mundo/no-participamos-en-los-preparativos-que-hizo-marco-rubio-sobre-huida-de-bolsonaro-de-brasil-rg10",
+  "fecha": "2026-10-31T13:02:32-05:00",
+  "palabras": "Marco Rubio, Estados Unidos, Flávio Bolsonaro, Brasil",
+  "lead": "Rubio señaló que la única intervención del presidente Donald Trump fue autorizar su ingreso a Estados Unidos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad para las Víctimas España: Más de 700 connacionales recibieron atención y orientación integral",
+  "enlace": "https://caracol.com.co/2026/10/31/unidad-para-las-victimas-espana-mas-de-700-connacionales-recibieron-atencion-y-orientacion-integral/",
+  "fecha": "2026-10-31T13:03:16-05:00",
+  "palabras": "",
+  "lead": "Durante una jornada realizada del 15 al 27 de octubre de 2026, la entidad gestionó más de 1.607 solicitudes de víctimas residentes en Madrid, Sevilla, Valencia y Barcelona.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se han presentado 10 accidentes viales en Cundinamarca durante el puente festivo",
+  "enlace": "https://caracol.com.co/2026/10/31/se-han-presentado-10-accidentes-viales-en-cundinamarca-durante-el-puente-festivo/",
+  "fecha": "2026-10-31T12:54:21-05:00",
+  "palabras": "",
+  "lead": "La mayoría de accidentes se han presentado por exceso de velocidad y por adelantar en lugares prohibidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno redujo $192.000 millones del presupuesto de la Presidencia y entidades adscritas",
+  "enlace": "https://caracol.com.co/2026/10/31/gobierno-redujo-192000-millones-del-presupuesto-de-la-presidencia-y-entidades-adscritas/",
+  "fecha": "2026-10-31T12:50:46-05:00",
+  "palabras": "",
+  "lead": "La reducción hace parte de un ajuste presupuestal superior a los $267.000 millones que ejecutó el Gobierno como parte de su estrategia para disminuir los gastos del Estado y priorizar recursos para otros sectores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinTransporte rechaza nuevo atentado en el Cauca y anuncia medidas para proteger las vías",
+  "enlace": "https://caracol.com.co/2026/10/31/mintransporte-rechaza-nuevo-atentado-en-el-cauca-y-anuncia-medidas-para-proteger-las-vias/",
+  "fecha": "2026-10-31T12:42:59-05:00",
+  "palabras": "",
+  "lead": "Tras el segundo ataque en menos de un mes contra el peaje El Mango, la cartera de Transporte anunció que prepara el despliegue del Plan Meteoro en la vía Panamericana y otros corredores estratégicos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría pide proteger la vida de la población civil en sur del Tolima",
+  "enlace": "https://caracol.com.co/2026/10/31/procuraduria-pide-a-autoridades-del-tolima-proteger-la-vida-de-la-poblacion-en-sur-del-departamento/",
+  "fecha": "2026-10-31T12:37:21-05:00",
+  "palabras": "",
+  "lead": "La petición del organismo de control se basa en la compleja situación de violencia que viven municipios como Ataco donde existe una disputa territorial entre las disidencias de las Farc.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maryory Ortiz cuestiona nuevo empréstito anunciado por el gobernador de Boyacá",
+  "enlace": "https://caracol.com.co/2026/10/31/maryory-ortiz-cuestiona-nuevo-emprestito-anunciado-por-el-gobernador-de-boyaca/",
+  "fecha": "2026-10-31T12:30:59-05:00",
+  "palabras": "",
+  "lead": "La diputada advirtió sobre posibles riesgos para las finanzas departamentales y cuestionó la planeación de las inversiones. Aseguró que aún no conoce el monto de la nueva deuda.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombiano conquista el bronce en el Mundial de Levantamiento de Pesas",
+  "enlace": "https://caracol.com.co/2026/10/31/colombiano-conquista-el-bronce-en-el-mundial-de-levantamiento-de-pesas/",
+  "fecha": "2026-10-31T12:24:05-05:00",
+  "palabras": "",
+  "lead": "Hugo Fernando Montes se subió al podio en la modalidad de arrancada de los 75 kilogramos y terminó cuarto en el total olímpico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ainhoa Rubio, investigadora de la Universidad de Antioquia, convierte residuos de palma en biocarbón",
+  "enlace": "https://caracol.com.co/2026/10/31/ainhoa-rubio-investigadora-de-la-universidad-de-antioquia-convierte-residuos-de-palma-en-biocarbon/",
+  "fecha": "2026-10-31T12:19:56-05:00",
+  "palabras": "",
+  "lead": "La profesora desarrolla en Urabá un proyecto que aprovecha los desechos de la industria palmicultora para producir un material que puede utilizarse en el tratamiento de aguas y la recuperación de suelos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Cómo funciona el método de los sobres para sus ahorros?",
+  "enlace": "https://www.lafm.com.co/economia/metodo-sobres-distribuir-ingresos-finanzas-personales-415797",
+  "fecha": "2026-10-31T12:49:00-05:00",
+  "palabras": "Economía,finanzas,Dinero,economía digital,productos financieros",
+  "lead": "Aunque las cuentas no son iguales para todas las personas, se debe tener en cuenta los ingresos y gastos que tiene.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dos años de violencia contra niño de 7 años en Barranquilla",
+  "enlace": "https://www.lafm.com.co/orden-publico/menor-de-7-anos-era-torturado-por-su-madre-enviaron-a-carcel-415794",
+  "fecha": "2026-10-31T12:18:00-05:00",
+  "palabras": "Orden Público,Tortura,Niños,Cárcel,Fiscalía General de la Nación,Barranquilla",
+  "lead": "Casi dos años de golpes y torturas: el infierno que habría vivido un niño de 7 años en Barranquilla y Soledad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Regresaron las obras y objetos retirados del Museo Nacional",
+  "enlace": "https://www.lafm.com.co/sociedad/regresaron-obras-objetos-retirados-museo-nacional-decision-judicial-415799",
+  "fecha": "2026-10-31T12:12:00-05:00",
+  "palabras": "Sociedad,Cultura,Ministerio de Cultura,Arte,Museos,Fallo judicial",
+  "lead": "El Juzgado Veinticuatro de Familia de Bogotá ordenó su restitución tras estudiar varias acciones de tutela.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tragedia en Santa Marta: tres muertos por incendio en casa",
+  "enlace": "https://www.lafm.com.co/orden-publico/incendio-tres-personas-muertas-santa-marta-magdalena-415798",
+  "fecha": "2026-10-31T12:00:00-05:00",
+  "palabras": "Orden Público,Incendio,Muere menor de edad,Santa Marta,Cuerpo de Bomberos,Magdalena",
+  "lead": "Incendio en el barrio Santa Cruz en Santa Marta, dejó tres muertos: una pastora y dos niños. 17 bomberos atendieron el caso.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
