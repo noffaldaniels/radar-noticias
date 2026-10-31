@@ -1833,7 +1833,7 @@
   "palabras": "Madrid, España",
   "lead": "Se adjudican como \"victorias\" la convocatoria de elecciones anticipadas, la \"aprobación de dos Reales Decretos en materia de vivienda\" así como \"movilizar todo el discurso público en torno al problema habitacional\".",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "James Rodríguez, Edwin Cardona, Mateus Uribe, Atlético Nacional,  Halloween",
   "lead": "Los futbolistas del equipo antioqueño llegaron a la sede deportiva de Llanogrande con atuendos que llamaron la atención antes del partido contra Atlético Bucaramanga.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "",
   "lead": "Según el ministro de Vivienda, Jaime Andrés Beltrán, el presidente Abelardo de la Espriella será quién presentará en diciembre las obras que recibirán recursos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "",
   "lead": "Con la eliminación del visado de corta estadía, los colombianos pueden viajar a los países de Europa por más tiempo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "Internacional,Estados Unidos,Donald Trump,Brasil,Lula da Silva,Jair Bolsonaro,Marco Rubio",
   "lead": "Luego de conocerse los resultados de las elecciones en Brasil, Trump las ha calificado de \"vergonzosas\".",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "Actualidad,Cundinamarca,Accidente,puente festivo de noviembre,Jorge Emilio Rey,Vías cerradas",
   "lead": "El gobernador Jorge Emilio Rey reportó seis siniestros viales, al menos diez personas lesionadas y cuatro motociclistas fallecidos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1898,6 +1898,248 @@
   "fecha": "2026-10-31T14:03:00-05:00",
   "palabras": "Sociedad,Halloween,Disfraces para Halloween,Nasa,Estación Espacial Internacional,Seres humanos",
   "lead": "Aunque están a más de 4.000 kilómetros de distancia, los astronautas también celebran la festividad.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno nacional priorizará ofensiva contra grupos criminales en cuatro subregiones de Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobierno-nacional-priorizara-ofensiva-contra-grupos-criminales-en-cuatro-subregiones-de-antioquia-rg10",
+  "fecha": "2026-10-31T15:23:41-05:00",
+  "palabras": "Antioquia, Seguridad ciudadana, Noticias de hoy",
+  "lead": "Tras un consejo de seguridad, el ministro de Defensa manifestó que buscan frenar la expansión de ilegales y aumentar el pie de fuerza policial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Adoptan medidas preventivas en el Golfo de Urabá ante posibles lluvias y fuerte oleaje",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/adoptan-medidas-preventivas-en-el-golfo-de-uraba-ante-posibles-lluvias-y-fuerte-oleaje-rg10",
+  "fecha": "2026-10-31T16:06:39-05:00",
+  "palabras": "Antioquia, Noticias de hoy, Urabá, Emergencias por lluvias",
+  "lead": "Mientras se implementan acciones para evitar inundaciones, la capitanía emite advertencias para embarcaciones en la Costa Caribe.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Tarde, resultado del último sorteo hoy sábado 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-tarde-resultado-del-ultimo-sorteo-hoy-sabado-31-de-octubre-de-2026-so35",
+  "fecha": "2026-10-31T15:28:47-05:00",
+  "palabras": "Dorado Tarde, Resultados del chance, Chances y Loterías, Dorado Tarde, Ganador Dorado Tarde, Resultados del chance, Resultados del chance Dorado Tarde",
+  "lead": "El chance Dorado Tarde juega de lunes a sábado a las 3:30 p.m. Revise aquí el número ganador hoy sábado 31 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Sol, resultado del último sorteo hoy sábado 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-sol-resultado-del-ultimo-sorteo-hoy-sabado-31-de-octubre-de-2026-so35",
+  "fecha": "2026-10-31T16:03:33-05:00",
+  "palabras": "Super Astro Sol, Resultados del chance, Chances y Loterías, Ganador Super Astro Sol, Resultados del chance, Resultados del chance Super Astro Sol, Resultados hoy",
+  "lead": "El chance Super Astro Sol juega de lunes a sábado a las 4 p. m.. Revise aquí el número ganador hoy 31 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Minjusticia pide celeridad en investigación sobre asesinato de dragoneante de la cárcel de Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/minjusticia-pide-celeridad-en-investigacion-sobre-asesinato-de-dragoneante-de-la-carcel-de-cali-rg10",
+  "fecha": "2026-10-31T16:01:58-05:00",
+  "palabras": "Cali, Ministerio de Justicia, Inpec",
+  "lead": "La víctima fue atacada a disparos cuando se movilizaba en el oriente de Cali tras haber finalizado su turno en la cárcel de Villahermosa.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Autoridades en el Cauca fortalecen seguridad en la vía Panamericana tras atentado terrorista",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/autoridades-en-el-cauca-fortalecen-seguridad-en-la-via-panamericana-tras-atentado-terrorista-rg10",
+  "fecha": "2026-10-31T15:52:12-05:00",
+  "palabras": "Cauca, Vía panamericana, atentado terrorista",
+  "lead": "La Gobernación del departamento nuevamente pide la presencia del gobierno nacional en este territorio.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Defensoría pide reforzar vigilancia sobre Reforma Rural tras cambios en la Misión de Verificación",
+  "enlace": "https://www.bluradio.com/nacion/defensoria-pide-reforzar-vigilancia-sobre-reforma-rural-tras-cambios-en-la-mision-de-verificacion-rg10",
+  "fecha": "2026-10-31T15:33:14-05:00",
+  "palabras": "Defensoría del Pueblo",
+  "lead": "La entidad recordó que la Reforma Rural Integral es uno de los componentes fundamentales del Acuerdo de Paz y que, por esa razón, las instituciones gubernamentales deben reforzar sus mecanismos de seguimiento para garantizar su debido cumplimiento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "DIAN prepara nuevas medidas contra la evasión y el contrabando en Colombia",
+  "enlace": "https://www.bluradio.com/economia/dian-prepara-nuevas-medidas-contra-la-evasion-y-el-contrabando-en-colombia-rg10",
+  "fecha": "2026-10-31T15:42:39-05:00",
+  "palabras": "Dian, Contrabando",
+  "lead": "La Dirección de Impuestos y Aduana también reportó que ha retenido mercancía ilegal por más de 151.000 millones de pesos, un aumento del 82,6 % frente al mismo periodo del gobierno anterior.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ofrecen hasta $50 millones por información sobre joven desaparecido en Buenaventura",
+  "enlace": "https://caracol.com.co/2026/10/31/ofrecen-hasta-50-millones-por-informacion-sobre-joven-desaparecido-en-buenaventura/",
+  "fecha": "2026-10-31T15:58:10-05:00",
+  "palabras": "",
+  "lead": "Dylan Campaz Naboyán está desaparecido desde el pasado 10 de octubre, cuando fue visto por última vez en el barrio La Unión de Vivienda, en Buenaventura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Venezuela recibió 87 máquinas y 1.800 viviendas de China para atender a damnificados por terremotos",
+  "enlace": "https://caracol.com.co/2026/10/31/venezuela-recibio-87-maquinas-y-1800-viviendas-de-china-para-atender-a-damnificados-por-terremotos/",
+  "fecha": "2026-10-31T16:06:47-05:00",
+  "palabras": "",
+  "lead": "Un buque llegó con maquinaria pesada y viviendas prefabricadas para los afectados en La Guaira.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump y Putin podrían reunirse en noviembre durante la cumbre del APEC en China",
+  "enlace": "https://caracol.com.co/2026/10/31/trump-y-putin-podrian-reunirse-en-noviembre-durante-la-cumbre-del-apec-en-china/",
+  "fecha": "2026-10-31T15:57:15-05:00",
+  "palabras": "",
+  "lead": "Marco Rubio confirmó que habló con Serguéi Lavrov sobre un posible encuentro entre los mandatarios.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Llegan más de 300 militares a Cúcuta para reforzar la seguridad de la ciudad",
+  "enlace": "https://caracol.com.co/2026/10/31/llegan-mas-de-300-militares-a-cucuta-para-reforzar-la-seguridad-de-la-ciudad/",
+  "fecha": "2026-10-31T15:39:36-05:00",
+  "palabras": "",
+  "lead": "En las próximas horas los uniformados se desplegarán por puntos estratégicos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Posible vela encendida como origen del incendio que dejó tres muertos en Santa Marta: Bomberos",
+  "enlace": "https://caracol.com.co/2026/10/31/posible-vela-encendida-como-origen-del-incendio-que-dejo-tres-muertos-en-santa-marta-bomberos/",
+  "fecha": "2026-10-31T15:51:19-05:00",
+  "palabras": "",
+  "lead": "El comandante del Cuerpo de Bomberos, Ricardo Chain lamentó lo ocurrido e hizo un llamado a las familias samarias para reforzar las medidas de prevención en sus viviendas, especialmente ante la proximidad de la temporada navideña.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Indetur gestiona respaldo nacional para reactivar el turismo en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/10/31/indetur-gestiona-respaldo-nacional-para-reactivar-turismo-en-santa-marta/",
+  "fecha": "2026-10-31T15:49:00-05:00",
+  "palabras": "",
+  "lead": "Se lideró un encuentro que permitió exponer las principales dificultades del sector y plantear soluciones para impulsar la reactivación económica de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maluma y Yami Safdie presentan ‘Felicidades’, una canción sobre el amor propio y las rupturas",
+  "enlace": "https://caracol.com.co/2026/10/31/maluma-y-yami-safdie-presentan-felicidades-una-cancion-sobre-el-amor-propio-y-las-rupturas/",
+  "fecha": "2026-10-31T15:47:42-05:00",
+  "palabras": "",
+  "lead": "El artista colombiano se une por primera vez con la cantante argentina en una colaboración que combina cumbia y pop y aborda el final de una relación tóxica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Obras con Amor”: La fundación FANA que busca recaudar $130 millones para niños y adolescentes",
+  "enlace": "https://caracol.com.co/2026/10/31/obras-con-amor-la-fundacion-fana-que-busca-recaudar-130-millones-para-ninos-y-adolescentes/",
+  "fecha": "2026-10-31T15:46:15-05:00",
+  "palabras": "",
+  "lead": "El 19 de noviembre se llevará a cabo la tercera edición de la subasta “Obras con Amor”, en la que participará por tercer año consecutivo el escultor colombiano Christian Albarracín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bayern, sin Luis Díaz, empata en el clásico ante Dortmund: resumen del partidazo por Bundesliga",
+  "enlace": "https://caracol.com.co/2026/10/31/bayern-sin-luis-diaz-empata-en-el-clasico-ante-dortmund-resumen-del-partidazo-por-bundesliga/",
+  "fecha": "2026-10-31T15:29:54-05:00",
+  "palabras": "",
+  "lead": "Fabio Silva encontró el tanto del empate en los minutos finales de Der Klassiker. Harry Kane falló un penal.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DT del Pereira sobre la situación del club: “Es difícil que resulte dinero de la noche a la mañana”",
+  "enlace": "https://caracol.com.co/2026/10/31/dt-del-pereira-sobre-la-situacion-del-club-es-dificil-que-resulte-dinero-de-la-noche-a-la-manana/",
+  "fecha": "2026-10-31T15:19:53-05:00",
+  "palabras": "",
+  "lead": "Alexis Márquez se refirió a la situación económica que vive el equipo Matecaña y que ha impedido pagar 2 meses de salarios a los jugadores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "DIAN anuncia medidas contra la evasión y el contrabando",
+  "enlace": "https://www.lafm.com.co/economia/dian-anuncia-medidas-contra-evasion-impuestos-contrabando-colombia-415813",
+  "fecha": "2026-10-31T15:17:00-05:00",
+  "palabras": "Economía,contrabando,Operativo anticontrabando,Dian,Ministerio de Hacienda y Crédito Público",
+  "lead": "La DIAN prepara nuevas normas contra la evasión y reporta mercancías aprehendidas por más de $151.000 millones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bayern no pudo con Dortmund: Luis Díaz se perdió el clásico",
+  "enlace": "https://www.lafm.com.co/deportes/bayern-munich-dortmund-resultado-goles-luis-diaz-goleadores-jugadores-destacados-415807",
+  "fecha": "2026-10-31T15:09:00-05:00",
+  "palabras": "Deportes,Bayern Múnich,Borussia Dortmund,Bundesliga,Alemania,Luis Díaz",
+  "lead": "El empate del conjunto bávaro no solo representó un golpe deportivo para su máximo rival, sino que también modificó el panorama de la lucha por el título ...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así se disfrazaron James Rodríguez, Karol G y otras celebridades",
+  "enlace": "https://www.lafm.com.co/entretenimiento/halloween-disfraz-james-rodriguez-karol-g-kim-kardashian-paris-hilton-famosos-415812",
+  "fecha": "2026-10-31T15:04:00-05:00",
+  "palabras": "Entretenimiento,Halloween,James Rodríguez,Disfraces para Halloween,Karol G,Kim Kardashian,Paris Hilton",
+  "lead": "Algunos ya habían aparecido caracterizados en presentaciones y eventos previos a estas fechas, pero todo esto giró en torno a esta celebración casi mundial...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Por qué la Reina Camila no fue al Caribe con la realeza?",
+  "enlace": "https://www.lafm.com.co/entretenimiento/la-reina-camila-no-estuvo-por-el-caribe-esta-es-la-razon-415811",
+  "fecha": "2026-10-31T14:53:00-05:00",
+  "palabras": "Entretenimiento,Rey Carlos III,Inglaterra,Reino Unido,Realeza inglesa,Caribe,Mar Caribe",
+  "lead": "El máximo líder de la realeza inglesa está en una gira por los países del Caribe atlántico.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
