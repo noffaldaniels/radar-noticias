@@ -326,7 +326,7 @@
   "palabras": "Cali, Inpec",
   "lead": "Se trata de esclarecer si el hecho estaría relacionado con otros ataques a trabajadores del Inpec en el resto del país.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Atlético Bucaramanga aseguró su clasificación a los cuadrangulares semifinales de la Liga tras alcanzar los 28 puntos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Según la respuesta del Ministerio del Deporte, hay 9 convenios a los que se les giró el 100 % de los recursos, pero no tienen construida ni la mitad de la obra",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,6 +359,138 @@
   "palabras": "Orden Público,ataque explosivo,Vía Panamericana,Cauca,atentado,Orden de detención",
   "lead": "Atentado en la vía Panamericana entre Nariño y Cauca en el sector del peaje de El Mango deja afectaciones materiales sin reporte de personas heridas.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Elecciones regionales de 2027 serán en pleno Halloween: \"Es una disposición legal\"",
+  "enlace": "https://www.bluradio.com/nacion/elecciones-regionales-de-2027-seran-en-pleno-halloween-es-una-disposicion-legal-so35",
+  "fecha": "2026-10-31T07:24:02-05:00",
+  "palabras": "Halloween, Elecciones en Colombia 2026",
+  "lead": "Jaime Suárez explicó cuándo se inscribirán los candidatos y cómo avanzan los preparativos en las zonas afectadas por el terremoto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Arranca calendario electoral para 2027: Noticias de la Mañana, 31 de octubre 2026",
+  "enlace": "https://www.bluradio.com/noticias-de-la-manana/arranca-calendario-electoral-para-2027-noticias-de-la-manana-31-de-octubre-2026-pr30",
+  "fecha": "2026-10-31T07:42:14-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Noticias de la Mañana del sábado, 31 de octubre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Iniciará desmonte de la torre de la catedral de Manizales afectada por el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/31/iniciara-desmonte-de-la-torre-de-la-catedral-de-manizales-afectada-por-el-terremoto/",
+  "fecha": "2026-10-31T07:35:47-05:00",
+  "palabras": "",
+  "lead": "Se realizó el lanzamiento de la campaña ‘Todos somos catedral’ para reunir aportes que permitan restaurar el templo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "IPS suspende servicios a los docentes en el Quindío por falta de pagos de la Fiduprevisora",
+  "enlace": "https://caracol.com.co/2026/10/31/ips-suspende-servicios-a-los-docentes-en-el-quindio-por-falta-de-pagos-de-la-fiduprevisora/",
+  "fecha": "2026-10-31T07:51:02-05:00",
+  "palabras": "",
+  "lead": "Estamos hablando de la IPS Horisoes que suspendió los servicios de primer nivel para el magisterio del departamento",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Huila tendrá un puente festivo con lluvias ligeras, pero persiste la alerta por incendios forestales",
+  "enlace": "https://caracol.com.co/2026/10/31/huila-tendra-un-puente-festivo-con-lluvias-ligeras-pero-persiste-la-alerta-por-incendios-forestales/",
+  "fecha": "2026-10-31T07:50:39-05:00",
+  "palabras": "",
+  "lead": "El IDEAM pronostica precipitaciones en varias zonas del departamento y las autoridades piden evitar las quemas abiertas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Invías anuncia $100.000 millones para la Transversal de Boyacá en 2027",
+  "enlace": "https://caracol.com.co/2026/10/31/invias-anuncia-100000-millones-para-la-transversal-de-boyaca-en-2027/",
+  "fecha": "2026-10-31T07:44:07-05:00",
+  "palabras": "",
+  "lead": "El director de la entidad, Juan Camilo Ostos, también anunció un contrato de gestión vial integral por $150.000 millones para atender el corredor durante cuatro años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dayro Moreno hizo historia: superó una marca que parecía inalcanzable en el fútbol colombiano",
+  "enlace": "https://caracol.com.co/2026/10/31/dayro-moreno-hizo-historia-supero-una-marca-que-parecia-inalcanzable-en-el-futbol-colombiano/",
+  "fecha": "2026-10-31T07:27:29-05:00",
+  "palabras": "",
+  "lead": "El delantero de Once Caldas superó a un histórico del fútbol colombiano tras el duelo frente a Alianza Valledupar.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinan a dragoneante del INPEC en inmediaciones de la cárcel de Villahermosa, en Cali",
+  "enlace": "https://caracol.com.co/2026/10/31/asesinan-a-dragoneante-del-inpec-en-inmediaciones-de-la-carcel-de-villahermosa-en-cali/",
+  "fecha": "2026-10-31T07:33:49-05:00",
+  "palabras": "",
+  "lead": "La víctima fue identificada como Luis Francisco Ramírez. Las autoridades adelantan las investigaciones para esclarecer el crimen y dar con los responsables.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Gobierno autoritario y fascista”:Daniel Quintero rechaza traslado de su hermano a cárcel de Cómbita",
+  "enlace": "https://caracol.com.co/2026/10/31/gobierno-autoritario-y-fascistadaniel-quintero-rechaza-traslado-de-su-hermano-a-carcel-de-combita/",
+  "fecha": "2026-10-31T07:29:50-05:00",
+  "palabras": "",
+  "lead": "El exalcalde de Medellín indicó que su hermano está siendo tratado como un delincuente sin haber sido condenado por la justicia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gremio de ambulancias de Ibagué protestó: piden garantías ante agresiones de pacientes",
+  "enlace": "https://caracol.com.co/2026/10/31/gremio-de-ambulancias-de-ibague-protesto-piden-garantias-ante-agresiones-de-pacientes/",
+  "fecha": "2026-10-31T07:27:14-05:00",
+  "palabras": "",
+  "lead": "Según los voceros del gremio, son obligados a atender casos de pacientes psiquiátricos que terminan dañando los equipos de las ambulancias y agrediendo al personal médico.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "1.000 uniformados entre Policía y Ejército garantizarán la seguridad por Halloween en el Quindío",
+  "enlace": "https://caracol.com.co/2026/10/31/1000-uniformados-entre-policia-y-ejercito-garantizaran-la-seguridad-por-halloween-en-el-quindio/",
+  "fecha": "2026-10-31T07:12:05-05:00",
+  "palabras": "",
+  "lead": "En las últimas horas se llevó a cabo un consejo extraordinario de seguridad con el fin de definir las medidas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así cayó alias Kevin, cabecilla de Los Mexicanos en Chocó",
+  "enlace": "https://www.lafm.com.co/orden-publico/abatido-alias-kevin-cabecilla-los-mexicanos-ejercito-choco-colombia-415777",
+  "fecha": "2026-10-31T08:02:00-05:00",
+  "palabras": "Orden Público,Ejército Nacional,Chocó,Clan del Golfo,Policía Nacional,Militares,Grupos Armados Organizados,Quibdó",
+  "lead": "Información de inteligencia señala que alias Kevin sería el hombre de confianza de alias Chuky y alias Pacho Keita, cabecillas de Los Mexicanos.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
