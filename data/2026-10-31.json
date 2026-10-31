@@ -590,7 +590,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Inpec, Girón, Santander",
   "lead": "El cambio de mando se produce en medio de la preocupación por las amenazas contra guardianes del Inpec y la llegada de internos de alta peligrosidad a la cárcel de Palogordo, en Girón.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "Policía Nacional, Secretaría de seguridad, Tolima",
   "lead": "Una inspección policial a un taxi en el sur de Bogotá permitió descubrir un cargamento que supuestamente contenía frutas y verduras. Los equipos están avaluados en $105 millones.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "Pensiones, Prima navideña",
   "lead": "La Ley 100 de 1993 y el Acto Legislativo 01 de 2005 establecen condiciones específicas para acceder a la mesada 13.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional, Policía de Tránsito",
   "lead": "Cuatro municipios tendrán ferias y fiestas, mientras que otros 36 eventos culturales, deportivos y actividades del Día Dulce contarán con acompañamiento de las autoridades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Subió cuatro puestos en el escalafón alcanzando 280 puntos, uno de los mejores registrados en los últimos 10 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "Las autoridades lograron recuperar 80 bultos que contenían 2.000 paquetes rectangulares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "La Fiscalía señaló a Guillermo Samir Morales Anchico, alias Memo, como presunto cabecilla de la organización",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "El comercio santandereano espera un impulso en las ventas durante este fin de semana. Según Fenalco Santander, los ciudadanos destinarán entre $100.000 y $200.000 para la celebración.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Ambos equipos ya están clasificados a los octavos de final de la Liga y se enfrentarán este domingo 1 de noviembre en La Bombonera.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "Se alerta por el uso indebido de los elementos de identificación institucional que llevaba el automotor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "Las nuevas tarifas empezaran a regir desde el 1 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "El Gobierno Nacional firmó un convenio con la alcaldía de Barranquilla para adelantar estas obras.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Orden Público,Narcotráfico,Armada Nacional,Abelardo de la Espriella,Operación antidrogas,Estados Unidos,cocaína,Infantes de Marina,Caribe",
   "lead": "El resultado representa una afectación superior a los 92 millones de dólares a las finanzas de los grupos criminales, según las autoridades.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Actualidad,mercado,Halloween,Disfraces para Halloween,Prendas de vestir,Mercados internacionales,Aranceles",
   "lead": "Juan de la Espriella, gerente general de Cachivaches, explicó cómo ha cambiado el comportamiento de los consumidores y los desafíos que enfrenta la industr...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Sociedad,Halloween,Disfraces para Halloween,Niños,dulces,ICBF,Policía Nacional",
   "lead": "La Policía Nacional y el ICBF desplegarán acciones de vigilancia, prevención y acompañamiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,6 +755,226 @@
   "palabras": "Sociedad,Asesinato,bares,Bogotá,Injusticia,Asesinado,Halloween",
   "lead": "Uno de los asuntos centrales de la entrevista con el padre, Jaime Alberto Moreno, también fue el arrepentimiento que expresó Juan Carlos Suárez Ortiz en el...",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias dejan más de 10.000 damnificados y el 70 % del casco urbano inundado en Acandí, Chocó",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/lluvias-dejan-mas-de-10-000-damnificados-y-el-70-del-casco-urbano-inundado-en-acandi-choco-rg10",
+  "fecha": "2026-10-31T09:43:26-05:00",
+  "palabras": "Chocó, Emergencias por lluvias, Noticias de hoy",
+  "lead": "Mientras avanza la llegada de ayudas por parte del departamento, solicitan asistencia del Gobierno nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sanitas cambia de dispensador de medicamentos desde el 1 de noviembre: puntos y horarios de entrega",
+  "enlace": "https://www.bluradio.com/regiones/bogota/sanitas-cambia-de-dispensador-de-medicamentos-desde-el-1-de-noviembre-estos-son-los-de-entrega-so35",
+  "fecha": "2026-10-31T09:34:13-05:00",
+  "palabras": "Colsubsidio, EPS Sanitas",
+  "lead": "Colsubsidio asumirá la entrega de medicamentos a los afiliados en Bogotá. Consulte las sedes, horarios y requisitos para reclamar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Armada incauta más de 2 toneladas de cocaína en el mar Caribe",
+  "enlace": "https://www.bluradio.com/regiones/caribe/armada-incauta-mas-de-2-toneladas-de-cocaina-en-el-mar-caribe-rg10",
+  "fecha": "2026-10-31T10:08:10-05:00",
+  "palabras": "Noticias de hoy, Caribe, Tráfico de cocaína, Abelardo De La Espriella, Armada Nacional de Colombia",
+  "lead": "El cargamento tenía un valor de 92 millones de dólares. La información fue confirmada por el presidente Abelardo De La Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "XM advierte riesgos para el suministro de energía en Colombia entre febrero y abril de 2027",
+  "enlace": "https://www.bluradio.com/nacion/xm-advierte-riesgos-para-el-suministro-de-energia-en-colombia-entre-febrero-y-abril-de-2027-rg10",
+  "fecha": "2026-10-31T09:52:24-05:00",
+  "palabras": "Energía eléctrica, Fenómeno de El Niño, Racionamiento de energía, Comisión de Regulación de Energía y Gas",
+  "lead": "Los aportes hídricos llevan seis meses bajo el promedio y en octubre apenas alcanzaron 60,77 %, mientras que las térmicas generaron 32,2 GWh diarios menos de lo comprometido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia refuerza seguridad por Halloween: cinco municipios con medidas para evitar rodadas",
+  "enlace": "https://caracol.com.co/2026/10/31/antioquia-refuerza-seguridad-por-halloween-prohiben-rodadas-de-motocicletas/",
+  "fecha": "2026-10-31T10:05:53-05:00",
+  "palabras": "",
+  "lead": "Los planes de seguridad buscan prevenir accidentes de tránsito y evitar alteraciones del orden público durante el puente festivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jorge Luis Alfonso López denuncia amenazas de muerte y hace señalamientos",
+  "enlace": "https://caracol.com.co/2026/10/31/jorge-luis-alfonso-lopez-denuncia-amenazas-de-muerte-y-hace-senalamientos/",
+  "fecha": "2026-10-31T10:05:54-05:00",
+  "palabras": "",
+  "lead": "El exalcalde de Magangué había sido detenido esta semana en Barranquilla",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Envían a la cárcel a mujer señalada de torturar a su hijo de siete años: el menor sufrió deformidad",
+  "enlace": "https://caracol.com.co/2026/10/31/envian-a-la-carcel-a-mujer-senalada-de-torturar-a-su-hijo-de-siete-anos-el-menor-sufrio-deformidad/",
+  "fecha": "2026-10-31T09:57:43-05:00",
+  "palabras": "",
+  "lead": "Las dos mujeres también fueron imputadas por los delitos de tortura y lesiones personales, ambas conductas agravadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevo atentado terrorista contra peaje de la vía Panamericana en Cauca",
+  "enlace": "https://caracol.com.co/2026/10/31/nuevo-atentado-terrorista-contra-peaje-de-la-via-panamericana-en-cauca/",
+  "fecha": "2026-10-31T08:00:00-05:00",
+  "palabras": "",
+  "lead": "Una motocicleta cargada con explosivos fue activada en el peaje El Mango. Es el segundo atentado terrorista contra esta infraestructura en menos de un mes.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos menores fueron judicializados por homicidio en el Centro Comercial La Isla en Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/10/31/dos-menores-fueron-judicializados-por-homicidio-en-el-centro-comercial-la-isla-en-bucaramanga/",
+  "fecha": "2026-10-31T09:45:10-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía les imputó homicidio agravado y porte ilegal de armas de fuego; ambos aceptaron los cargos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Valledupar pide extender horario del aeropuerto Alfonso López Pumarejo: esta es la razón",
+  "enlace": "https://caracol.com.co/2026/10/31/alcalde-de-valledupar-pide-extender-horario-del-aeropuerto-alfonso-lopez-pumarejo-esta-es-la-razon/",
+  "fecha": "2026-10-31T09:39:25-05:00",
+  "palabras": "",
+  "lead": "El alcalde pidió que el horario se extienda hasta las 10:59 p.m.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "‘El Gatico’, hijo de Enilce López, ‘La Gata’, denuncia que tres empresarios lo quieren matar",
+  "enlace": "https://caracol.com.co/2026/10/31/el-gatico-hijo-de-enilce-lopez-la-gata-denuncia-que-tres-empresarios-lo-quieren-matar/",
+  "fecha": "2026-10-31T09:36:39-05:00",
+  "palabras": "",
+  "lead": "Alias ‘El Gatico’ también aseguró que varias personas tienen documentos, audios y videos que contendrían información.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estas son las restricción para vehículos de carga en la vía Bucaramanga-Cúcuta durante el festivo",
+  "enlace": "https://caracol.com.co/2026/10/31/estas-son-las-restriccion-para-vehiculos-de-carga-en-la-via-bucaramanga-cucuta-durante-el-festivo/",
+  "fecha": "2026-10-31T09:34:07-05:00",
+  "palabras": "",
+  "lead": "La medida aplicará para este puente festivo de Todos los Santos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Lo único que quiero es que esta tortura se acabe”, padre de joven desaparecido en Buenaventura",
+  "enlace": "https://caracol.com.co/2026/10/31/lo-unico-que-quiero-es-que-esta-tortura-se-acabe-padre-de-joven-desaparecido-en-buenaventura/",
+  "fecha": "2026-10-31T09:31:32-05:00",
+  "palabras": "",
+  "lead": "Dylan Campaz Naboyan, de 18 años, completa más de 20 días desaparecido. Su familia sigue esperando respuestas sobre su paradero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía alerta por estafas digitales con falsos concursos y promociones durante Halloween",
+  "enlace": "https://caracol.com.co/2026/10/31/policia-alerta-por-estafas-digitales-con-falsos-concursos-y-promociones-durante-halloween/",
+  "fecha": "2026-10-31T09:26:21-05:00",
+  "palabras": "",
+  "lead": "La Policía recomendó verificar que las promociones provengan de cuentas oficiales y sitios web legítimos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Pereira a colombiano buscado por Perú con circular roja de Interpol por narcotráfico",
+  "enlace": "https://caracol.com.co/2026/10/31/capturan-en-pereira-a-colombiano-buscado-por-peru-con-circular-roja-de-interpol-por-narcotrafico/",
+  "fecha": "2026-10-31T09:15:23-05:00",
+  "palabras": "",
+  "lead": "La investigación de las autoridades peruanas lo señala de presuntamente liderar una organización criminal",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desde la frontera piden coordinación entre Colombia y Venezuela ante hechos de inseguridad en Cúcuta",
+  "enlace": "https://caracol.com.co/2026/10/31/desde-la-frontera-piden-coordinacion-entre-colombia-y-venezuela-ante-hechos-de-inseguridad-en-cucuta/",
+  "fecha": "2026-10-31T09:14:57-05:00",
+  "palabras": "",
+  "lead": "Advierten sobre la necesidad de fortalecer la cooperación binacional en materia de seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El United cae ante Chelsea y se acerca a la zona de descenso",
+  "enlace": "https://www.lafm.com.co/deportes/manchester-united-pierde-chelsea-zona-del-descenso-resultados-premier-league-tabla-de-posiciones-415790",
+  "fecha": "2026-10-31T10:00:00-05:00",
+  "palabras": "Deportes,Premier League,Manchester United,Chelsea,tabla de posiciones,resultados",
+  "lead": "El conjunto de Michael Carrick prolongó su mal momento y continúa comprometido en la zona baja de la tabla.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Disidencias de Mordisco, responsables del atentado en Cauca",
+  "enlace": "https://www.lafm.com.co/orden-publico/cauca-el-bordo-peaje-atentado-motobomba-alias-mordico-415785",
+  "fecha": "2026-10-31T09:51:00-05:00",
+  "palabras": "Orden Público,atentado,Vía Panamericana,Ejército Nacional,Cauca,Nariño,disidencias,ataque explosivo,Alias Mordisco",
+  "lead": "Las tropas fueron desplegadas con el fin de neutralizar cualquier amenaza y ya se normalizó la movilidad por la vía Panamericana.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Se alejará el voto latino de Trump? Claves de la elección",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-eeuu-donald-trump-voto-latino-republicanos-cambio-congreso-venezuela-415787",
+  "fecha": "2026-10-31T09:41:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Donald Trump,Elecciones en el exterior,Venezuela,Delcy Rodríguez",
+  "lead": "El abogado venezolano y analista internacional César Báez explicó que estos asuntos podrían afectar al Partido Republicano y tener consecuencias para la si...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "“Le va a dar un yeyo a Caicedo”: abrazo de Abelardo",
+  "enlace": "https://www.lafm.com.co/actualidad/abelardo-de-la-espriella-santa-marta-magdalena-gobernadora-abrazo-carlos-caicedo-415784",
+  "fecha": "2026-10-31T08:59:00-05:00",
+  "palabras": "Actualidad,Santa Marta,Agua,megaproyecto,presidente de la República,Gobernación de Magdalena",
+  "lead": "El presidente abrazó a la gobernadora del Magdalena y anunció inversiones para llevar agua a Santa Marta.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
