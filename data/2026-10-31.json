@@ -251,5 +251,71 @@
   "seccion": "otras",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Regresa el Tren de la Navidad: desde cuánto puede subirse y precios",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/regresa-el-tren-de-la-navidad-desde-cuanto-puede-subirse-y-precios-so35",
+  "fecha": "2026-10-31T06:33:48-05:00",
+  "palabras": "Tren, Bogotá, Navidad",
+  "lead": "El servicio tendrá como punto de salida el costado occidental del centro comercial Gran Estación y pasará por la estación Usaquén antes de llegar a La Caro, en Chía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Vías principales en Antioquia están habilitadas para el puente festivo de Todos los Santos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/vias-principales-en-antioquia-estan-habilitadas-para-el-puente-festivo-de-todos-los-santos-rg10",
+  "fecha": "2026-10-31T06:46:07-05:00",
+  "palabras": "Antioquia, Movilidad, Días Festivos, Noticias de hoy",
+  "lead": "Autoridades mantienen labores con maquinaria en 19 puntos que registran algún tipo de afectación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tendrá que responderle a Medellín: Área Metropolitana tras envío a prisión de Miguel Quintero",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/tendra-que-responderle-a-medellin-area-metropolitana-tras-envio-a-prision-de-miguel-quintero-rg10",
+  "fecha": "2026-10-31T06:44:11-05:00",
+  "palabras": "Antioquia, Medellín, Valle de Aburrá, Daniel Quintero",
+  "lead": "La directora de la autoridad ambiental, víctima en el proceso, pidió al imputado respuestas por dineros públicos que se habrían malversado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Distrito de Santa Marta restringe la circulación de motos durante Halloween",
+  "enlace": "https://caracol.com.co/2026/10/31/distrito-de-santa-marta-restringe-la-circulacion-de-motos-durante-halloween/",
+  "fecha": "2026-10-31T06:39:45-05:00",
+  "palabras": "",
+  "lead": "La disposición contempla la prohibición de circulación de motocicletas, motocarros, mototriciclos y cuatrimotos en todo el perímetro urbano del Distrito",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cierran seis minas ilegales de carbón que contaminaban ríos del municipio de Cucunubá",
+  "enlace": "https://caracol.com.co/2026/10/31/cierran-seis-minas-ilegales-de-carbon-que-contaminaban-rios-del-municipio-de-cucunuba/",
+  "fecha": "2026-10-31T06:29:42-05:00",
+  "palabras": "",
+  "lead": "Las explotaciones operaban sin los instrumentos ambientales requeridos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cerca de mil policías estarán en el Magdalena este puente festivo de Halloween",
+  "enlace": "https://caracol.com.co/2026/10/31/cerca-de-mil-policias-estaran-en-el-magdalena-este-puente-festivo-de-halloween/",
+  "fecha": "2026-10-31T06:26:45-05:00",
+  "palabras": "",
+  "lead": "El despliegue institucional estará hasta el 2 de noviembre, enfocado en la protección especialmente de los menores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
  }
 ]
