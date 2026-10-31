@@ -2152,7 +2152,7 @@
   "palabras": "Antioquia, Noticias de hoy, Seguridad ciudadana",
   "lead": "La medida cobija más de 10 zonas de alta y media mixtura en comunas como El Poblado, Guayabal, Manrique y Aranjuez.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2163,7 +2163,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche, Ganador Paisita Noche, Paisita Noche, Resultados del chance , Resultados del chance Paisita Noche, Resultados hoy Paisita Noche",
   "lead": "El Paisita Noche juega todos los días y cuenta con diferentes modalidades de apuesta. Los participantes pueden consultar el número ganador de este sábado 31 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2174,7 +2174,7 @@
   "palabras": "",
   "lead": "La propuesta incorpora sérums y brumas adaptados al pH fisiológico, mientras promueve una conversación abierta sobre la salud vulvovaginal y el autocuidado femenino.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2185,7 +2185,7 @@
   "palabras": "Arauca, Martina La Peligrosa",
   "lead": "Arauca llevará a cabo la séptima Feria Internacional del Libro del 3 al 8 de noviembre con escritores invitados, conciertos y actividades gratuitas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "CAR, Gobernación de Cundinamarca, Minería Ilegal",
   "lead": "Autoridades ambientales identificaron varias explotaciones de carbón que estaban generando afectaciones sobre el entorno natural y representaban un riesgo para importantes fuentes de agua de la región.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "Santa Marta, Gobierno nacional",
   "lead": "La estrategia busca reducir las pérdidas de agua del 60 % al 20 % y garantizar 20 horas diarias de servicio en un plazo de cuatro años y busca una solución regional de abastecimiento desde el río Magdalena.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "",
   "lead": "Con la renovación del mandato de la Misión de Verificación del Acuerdo de Paz, la entidad pide aumentar los esfuerzos institucionales para acompañar la Reforma Rural Integral.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "",
   "lead": "Los detenidos fueron identificados como Israel David Solís Reyes, alias ‘David’, y Willinton Lafaurie Vargas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "",
   "lead": "Las manifestaciones se realizaron días antes de que el Tribunal Supremo revise la prohibición del grupo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "",
   "lead": "El magistrado del Consejo Nacional Electoral, José Antonio Parra Fandiño, explicó que la entidad adelanta la estrategia “CNE en tu Territorio” para llevar capacitación a las regiones y enfrentar los desafíos de las nuevas tecnologías y las redes sociales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "",
   "lead": "La lista reúne clásicos y éxitos de diferentes generaciones. ‘Monster Mash’, de Bobby ‘Boris’ Pickett, ocupa el primer lugar, mientras que ‘Thriller’, de Michael Jackson, aparece en la posición 19.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "Internacional,Donald Trump,Jeffrey Epstein,demanda,Medios de comunicación,periodismo investigativo,Investigaciones",
   "lead": "El juez no aprobó la demanda del mandatario estadounidense.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "Actualidad,Reforma agraria,ONU,Gobierno",
   "lead": "Defensoría pidió al Gobierno reforzar seguimiento a la reforma rural tras quedar fuera de la verificación de la ONU.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2294,6 +2294,314 @@
   "fecha": "2026-10-31T15:42:00-05:00",
   "palabras": "Orden Público,Asesinato,bares,Bogotá,Halloween",
   "lead": "Suárez reconoció que, desde un principio, existieron otras alternativas para actuar frente a lo ocurrido.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan por qué el terremoto en Venezuela fue tan destructivo: alcanzó velocidades supersísmicas",
+  "enlace": "https://www.bluradio.com/mundo/revelan-por-que-el-terremoto-en-venezuela-fue-tan-destructivo-alcanzo-velocidades-supersismicas-so35",
+  "fecha": "2026-10-31T17:29:52-05:00",
+  "palabras": "Terremoto hoy, Venezuela, Sismo hoy",
+  "lead": "Se trata de la primera publicación científica centrada en la caracterización física de este terremoto, un análisis que permitió identificar la complejidad de la ruptura y sus implicaciones para la evaluación del riesgo sísmico.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ejército venezolano habría bombardeado un campamento del ELN en la frontera con Colombia",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ejercito-venezolano-habria-bombardeado-un-campamento-del-eln-en-la-frontera-con-colombia-rg10",
+  "fecha": "2026-10-31T17:42:40-05:00",
+  "palabras": "ELN, Venezuela",
+  "lead": "Un reporte preliminar señala que al menos 19 personas habrían muerto y otras resultarían heridas. Según las denuncias, algunos afectados habrían llegado a territorio colombiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Advierten periodo de mareas astronómicas en Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/31/advierten-periodo-de-mareas-astronomicas-en-cartagena/",
+  "fecha": "2026-10-31T18:00:46-05:00",
+  "palabras": "",
+  "lead": "Las autoridades recomiendan extremar las medidas de precaución en playas y diferentes zonas del litoral costero",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "16 accidentes de tránsito en los últimos días, asociados a fallas en los sistemas por la marea",
+  "enlace": "https://caracol.com.co/2026/10/31/16-accidentes-de-transito-en-los-ultimos-dias-asociados-a-fallas-en-los-sistemas-por-la-marea/",
+  "fecha": "2026-10-31T17:56:41-05:00",
+  "palabras": "",
+  "lead": "DATT emite recomendaciones a conductores ante condiciones de marea alta en Cartagena",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Turbaco prohiben caravanas en Halloween",
+  "enlace": "https://caracol.com.co/2026/10/31/en-turbaco-prohiben-caravanas-en-halloween/",
+  "fecha": "2026-10-31T17:53:08-05:00",
+  "palabras": "",
+  "lead": "Autoridades activan medidas especiales, PMU y recomendaciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "‘Pulso Democrático’: U. Sabana lanza plataforma para analizar comportamiento de votantes",
+  "enlace": "https://caracol.com.co/2026/10/31/pulso-democratico-u-sabana-lanza-plataforma-para-analizar-comportamiento-de-votantes/",
+  "fecha": "2026-10-31T17:53:07-05:00",
+  "palabras": "",
+  "lead": "Esta semana se presentó en la Universidad de La Sabana ‘Pulso Democrático’, una nueva plataforma digital de datos electorales. La iniciativa busca aportar al análisis del comportamiento de los ciudadanos y de los desafíos de los procesos democráticos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dadis y PES, lideraron mesa de Seguridad Humana en diálogos de Superciudad",
+  "enlace": "https://caracol.com.co/2026/10/31/dadis-y-pes-lideraron-mesa-de-seguridad-humana-en-dialogos-de-superciudad/",
+  "fecha": "2026-10-31T17:27:50-05:00",
+  "palabras": "",
+  "lead": "Infraestructura hospitalaria y mayor cobertura en salud, dinámica familiar y educación entre los resultados destacados por el Distrito en Mesa de Seguridad Humana",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a dos extorsionistas del Clan del Golfo en Cáceres, Antioquia",
+  "enlace": "https://caracol.com.co/2026/10/31/capturan-a-dos-extorsionistas-del-clan-del-golfo-en-caceres-antioquia/",
+  "fecha": "2026-10-31T17:49:37-05:00",
+  "palabras": "",
+  "lead": "Los sujetos harían parte de la subestructura Yeison Leudo Chaverra en el Bajo Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bolívar refuerza llamado a prevenir el dengue ante el aumento de casos en el país",
+  "enlace": "https://caracol.com.co/2026/10/31/bolivar-refuerza-llamado-a-prevenir-el-dengue-ante-el-aumento-de-casos-en-el-pais/",
+  "fecha": "2026-10-31T17:49:24-05:00",
+  "palabras": "",
+  "lead": "En Bolivar, con corte a septiembre de 2026, la letalidad por dengue se redujo un 30,8 % frente a 2025, al pasar de 0,13 % a 0,09 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez de EE. UU. desestima definitivamente demanda de Trump contra The Wall Street Journal",
+  "enlace": "https://caracol.com.co/2026/10/31/juez-de-ee-uu-desestima-definitivamente-demanda-de-trump-contra-the-wall-street-journal/",
+  "fecha": "2026-10-31T17:46:16-05:00",
+  "palabras": "",
+  "lead": "El mandatario reclamaba 10.000 millones de dólares por un artículo que lo vinculaba con una carta dirigida a Epstein.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jornadas de salud recorren los barrios de Turbaco, Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/31/jornadas-de-salud-recorren-los-barrios-de-turbaco-bolivar/",
+  "fecha": "2026-10-31T17:42:59-05:00",
+  "palabras": "",
+  "lead": "Hacerle frente al dengue",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Decretan toque de queda y ley seca en el municipio de Ataco, Tolima",
+  "enlace": "https://caracol.com.co/2026/10/31/decretan-toque-de-queda-y-ley-seca-en-el-municipio-de-ataco-tolima/",
+  "fecha": "2026-10-31T17:41:47-05:00",
+  "palabras": "",
+  "lead": "Las medidas implementadas buscan evitar que se registren hechos de violencia como los ocurridos en la última semana en los que han asesinado 8 personas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump respalda a María Elvira Salazar en la recta final de la campaña electoral en Florida",
+  "enlace": "https://caracol.com.co/2026/10/31/trump-respalda-a-maria-elvira-salazar-en-la-recta-final-de-la-campana-electoral-en-florida/",
+  "fecha": "2026-10-31T17:41:00-05:00",
+  "palabras": "",
+  "lead": "El mandatario pidió votar por la congresista republicana, pese a las diferencias que habían tenido por su política migratoria.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EPA Cartagena acompaña el manejo del arbolado en las obras para el control de inundaciones",
+  "enlace": "https://caracol.com.co/2026/10/31/epa-cartagena-acompana-el-manejo-del-arbolado-en-las-obras-para-el-control-de-inundaciones/",
+  "fecha": "2026-10-31T17:40:18-05:00",
+  "palabras": "",
+  "lead": "Los arbustos y ejemplares arbóreos juveniles con diámetro inferior a 10 centímetros no requieren autorización de aprovechamiento forestal y podrán ser conservados o trasladados con fines paisajísticos y ornamentales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Llaneros vs Junior por Liga Colombiana 2026-ll: minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/10/31/en-vivo-llaneros-vs-junior-por-liga-colombiana-2026-ll-minuto-a-minuto/",
+  "fecha": "2026-10-31T17:35:01-05:00",
+  "palabras": "",
+  "lead": "El equipo de Villavicencio busca un triunfo pensando en la tabla del descenso del 2027.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué explica la reducción de la pobreza monetaria en Cartagena?",
+  "enlace": "https://caracol.com.co/2026/10/31/que-explica-la-reduccion-de-la-pobreza-monetaria-en-cartagena/",
+  "fecha": "2026-10-31T17:31:49-05:00",
+  "palabras": "",
+  "lead": "Instituto IDEEAS de la Universidad Tecnológica de Bolívar (UTB) y Cartagena Cómo Vamos analizan el papel de los ingresos laborales, las rentas no laborales y la protección social entre 2024 y 2025",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Menor de edad murió en Mariquita, Tolima durante las caravanas de motos de Halloween",
+  "enlace": "https://caracol.com.co/2026/10/31/menor-de-edad-murio-en-mariquita-tolima-durante-las-caravanas-de-motos-de-halloween/",
+  "fecha": "2026-10-31T17:21:38-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de este municipio advirtió que previo a la realización del evento se había comunicado que este tipo de actividades no contaban con la autorización de las autoridades de tránsito.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Premier League 2026: tabla de posiciones tras la derrota del Manchester City y victoria del Chelsea",
+  "enlace": "https://caracol.com.co/2026/10/31/premier-league-2026-tabla-de-posiciones-tras-la-derrota-del-manchester-city-y-victoria-del-chelsea/",
+  "fecha": "2026-10-31T17:26:33-05:00",
+  "palabras": "",
+  "lead": "Los Citiziens suman dos derrotas al hilo y ponen en riesgo su liderato.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Soy Voz, Soy Cultura 2026 en Cartagena y Bolívar",
+  "enlace": "https://caracol.com.co/2026/10/31/soy-voz-soy-cultura-2026-en-cartagena-y-bolivar/",
+  "fecha": "2026-10-31T17:25:11-05:00",
+  "palabras": "",
+  "lead": "Las juventudes construyen propuestas para transformar sus territorios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Clúster de Turismo Alternativo en el Corredor Universitario y la Zona GEE de Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/31/cluster-de-turismo-alternativo-en-el-corredor-universitario-y-la-zona-gee-de-cartagena/",
+  "fecha": "2026-10-31T17:21:15-05:00",
+  "palabras": "",
+  "lead": "Las universidades se consolidan como aliados principales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rooftop Urania by Sophia Hotel, entre el 10% de los restaurantes más populares del mundo",
+  "enlace": "https://caracol.com.co/2026/10/31/rooftop-urania-by-sophia-hotel-entre-el-10-de-los-restaurantes-mas-populares-del-mundo/",
+  "fecha": "2026-10-31T17:17:13-05:00",
+  "palabras": "",
+  "lead": "Sólo el 1% de los perfiles en Tripadvisor alcanzan este galardón",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gustavo Alvarado, “El Cabo”, fortalece su trayectoria musical y consolida a ENBLESS Records",
+  "enlace": "https://caracol.com.co/2026/10/31/gustavo-alvarado-el-cabo-fortalece-su-trayectoria-musical-y-consolida-a-enbless-records/",
+  "fecha": "2026-10-31T17:14:32-05:00",
+  "palabras": "",
+  "lead": "Tras una década en la industria",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Últimos días para postular películas al FICCI 66 con tarifa Early Bird",
+  "enlace": "https://caracol.com.co/2026/10/31/ultimos-dias-para-postular-peliculas-al-ficci-66-con-tarifa-early-bird/",
+  "fecha": "2026-10-31T17:11:53-05:00",
+  "palabras": "",
+  "lead": "La convocatoria del FICCI 66 cerrará definitivamente el 29 de noviembre de 2026 y contempla una bolsa global de hasta USD 100.000 en premios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jorge “Yoyo” Benedetti celebra respaldo del presidente De la Espriella a Cartagena",
+  "enlace": "https://caracol.com.co/2026/10/31/jorge-yoyo-benedetti-celebra-respaldo-del-presidente-de-la-espriella-a-cartagena/",
+  "fecha": "2026-10-31T17:09:21-05:00",
+  "palabras": "",
+  "lead": "“Es momento de que prevalezca la cartagenidad”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Santa Fe, a pura garra! Triunfo agónico para quedarse con el tercer puesto de Libertadores Femenina",
+  "enlace": "https://caracol.com.co/2026/10/31/santa-fe-a-pura-garra-triunfo-agonico-para-quedarse-con-el-tercer-puesto-de-libertadores-femenina/",
+  "fecha": "2026-10-31T17:06:58-05:00",
+  "palabras": "",
+  "lead": "Las cardenales estuvieron 2-0, luego lo pasaron a perder 2-3 y terminaron ganando con dos goles sobre el final ante Olimpia.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Megaland 2026 cambia de fecha y escenario: esto se sabe",
+  "enlace": "https://www.lafm.com.co/entretenimiento/megaland-bacano-2026-cambia-fecha-escenario-vive-claro-bogota-415822",
+  "fecha": "2026-10-31T17:59:00-05:00",
+  "palabras": "Entretenimiento,Concierto,La Mega,Megaland",
+  "lead": "Megaland Bacano 2026 se traslada a Vive Claro, en Bogotá, el 19 de noviembre. Las entradas adquiridas seguirán vigentes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mujer muere tras seguir consejos de ChatGPT para tratar epilepsia",
+  "enlace": "https://www.lafm.com.co/internacional/mujer-pidio-a-chatgpt-plan-para-abandonar-tratamiento-contra-epilepsia-y-murio-al-seguirlo-415819",
+  "fecha": "2026-10-31T17:13:00-05:00",
+  "palabras": "Internacional,Inteligencia artificial,Estados Unidos,ChatGPT,Empresas,demanda,Tecnología,enfermedades",
+  "lead": "La familia de la afectada demandó a Open AI; el caso abre cuestiones sobre el uso de la IA para estos temas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "CDT en noviembre, las entidades con las mejores tasas",
+  "enlace": "https://www.lafm.com.co/economia/cdt-noviembre-entidades-mejores-tasas-415816",
+  "fecha": "2026-10-31T16:10:00-05:00",
+  "palabras": "Economía,CDT,CDT Digital,inversión",
+  "lead": "Las inversiones en CDT están hechas para personas más conservadoras.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
