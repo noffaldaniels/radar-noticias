@@ -1547,7 +1547,7 @@
   "palabras": "Antioquia, Noticias de hoy, JEP, Presupuesto Nacional",
   "lead": "Desde Medellín el magistrado Alejando Ramelli confirmó que en los próximos días habrá una reunión para definir el funcionamiento de la entidad. Reconoció que falta de recursos pueden afectar procesos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Antioquia, Fomag, Noticias de hoy, Profesores, Salud, Medellín",
   "lead": "Algunos docentes y beneficiarios denuncian esperas de hasta seis horas para recibir sus tratamientos, muchas veces incompletos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Halloween, Nutrición, Menores de edad",
   "lead": "Vanessa Mateus Martínez explicó cómo organizar el consumo de golosinas durante Halloween y qué deberían revisar los padres antes de que los niños empiecen a comerlas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Sinuano día, Ganador hoy , Resultados Sinuano Día, Resultados del chance , Resultados del chance Sinuano Día, Sinuano Día",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, sábado 31 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "Antioquia, Medellín, Seguridad ciudadana,  Halloween",
   "lead": "Piden vigilar desplazamientos, asegurar objetos personales en lugares concurridos y revisar cuidadosamente dulces antes de consumirlos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "Noticias de hoy, Puerto Colombia, Abuso sexual, Barranquilla, Abuso sexual Menores de Edad",
   "lead": "El empresario Juan Álvarez iría a la Cárcel Distrital El Bosque. El abogado de la víctima dice que la familia habría recibido amenazas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "Caribeña día, Resultados del chance, Chances y Loterías, Caribeña Día, Ganador de Caribeña Día, Resultados Caribeña Día, Resultados del chance Caribeña Día",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy 31 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La pasión por el mundo de los vehículos en Autos y Motos del 31 de octubre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Estados Unidos, Educación, Emprendimiento",
   "lead": "La convocatoria estará abierta hasta el 8 de noviembre y ofrece una experiencia de formación en Estados Unidos con todos los gastos cubiertos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Fomag, Profesores, Fiduprevisora",
   "lead": "El sindicato pide proteger los servicios de salud y el pago de prestaciones de los maestros. También reclama una auditoría forense para establecer responsabilidades por las irregularidades en el fondo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "‘El Señor de la A’ sería responsable de transportar cargamentos de cocaína desde la costa Caribe colombiana hacia países de Centroamérica y Estados Unidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "El director de la entidad anunció que, junto con el Ministerio de Hacienda, presentará iniciativas para fortalecer los controles tributarios y combatir las economías ilegales. También reveló los resultados de los operativos adelantados en el país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "En una casa del barrio La Pola, Martha Bajaire conserva las recetas que heredó de su abuelo y que hoy comparte con sus hijas y nietos. Su restaurante también está nominado a los Premios La Barra 2026.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "Rusia confirmó que recibió la advertencia y desplegó operaciones de seguridad en la zona.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Si una persona necesita solicitar la terminación de la cuota alimentaria, obligatoriamente debe demostrar que las circunstancias que dieron origen a la obligación han cambiado o que existe una causal legal que permita exonerarla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "El equipo del colombiano no levanta cabeza y ocupa el penúltimo puesto de la Premier League.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "El secretario de Estado aseguró que Trump solo autorizó su ingreso temporal a Estados Unidos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "El cadáver fue encontrado por habitantes del sector del malecón. Según autoridades no se evidenciaron heridas ni signos de violencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "La Central Unitaria de Trabajadores (CUT) anunció una jornada de movilización nacional para rechazar los cambios tributarios que, según la organización, aumentarían la carga de impuestos para los trabajadores y beneficiarían a los sectores de mayores ingresos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "El artista colombiano exhibe Tempus Meum en el Museo de Arte Contemporáneo y tiene instalada la escultura Renascitur cerca del Museo Nacional. Ambas propuestas exploran la memoria, el paso del tiempo y la transformación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "Economía,Lluvias,Verano,Embalses,Energía eléctrica,Generación de energía",
   "lead": "Los aportes de agua están en el 60,77 % del promedio histórico. XM advierte riesgos para el suministro y pide asegurar generación térmica y ahorrar energía...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "Orden Público,Cali, Colombia,Valle del Cauca,Inpec,Sistema carcelario,Asesinato,Policía Nacional",
   "lead": "El INPEC expresó su rechazo frente a este crimen que enluta a la institución, sus compañeros y seres queridos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "Sociedad,Metro de Bogotá,puente,obras en vías,Vías cerradas,Secretaría de Movilidad",
   "lead": "Con corte a septiembre de 2026, el proyecto principal de la Línea 1 registra un avance general del 83,73%",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "Orden Público,La gata,Chance,Barranquilla,Amenazas,Órdenes de captura",
   "lead": "Desde una clínica en Barranquilla, el hijo de Enilce López ‘La Gata’ lanzó una advertencia: “Me quieren matar”",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "Orden Público,Capturados,Capturas,extranjeros,Medellín, Colombia,Gales,Narcotráfico",
   "lead": "Las autoridades competentes ya iniciaron los trámites correspondientes que podrían derivar en la extradición del hombre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1821,6 +1821,83 @@
   "fecha": "2026-10-31T13:00:00-05:00",
   "palabras": "Orden Público,Fiscalía General de la Nación,Bogotá,banda desarticulada,Bandas de crimen organizado,Extorsión,desplazados,Desplazamiento forzado",
   "lead": "La entidad investigativa indicó que el grupo de 14 personas intimidaba a los comerciantes de dos localidades.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Organizadores de la acampada en la Puerta del Sol se disuelven, pero preparan huelga general",
+  "enlace": "https://www.bluradio.com/mundo/organizadores-de-la-acampada-en-la-puerta-del-sol-se-disuelven-pero-preparan-huelga-general-cb20",
+  "fecha": "2026-10-31T14:55:23-05:00",
+  "palabras": "Madrid, España",
+  "lead": "Se adjudican como \"victorias\" la convocatoria de elecciones anticipadas, la \"aprobación de dos Reales Decretos en materia de vivienda\" así como \"movilizar todo el discurso público en torno al problema habitacional\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "James Rodríguez, Edwin Cardona y Mateus Uribe la sacaron del estadio con sus disfraces de Halloween",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/james-rodriguez-edwin-cardona-y-mateus-uribe-la-sacaron-del-estadio-con-sus-disfraces-de-halloween-so35",
+  "fecha": "2026-10-31T15:08:11-05:00",
+  "palabras": "James Rodríguez, Edwin Cardona, Mateus Uribe, Atlético Nacional,  Halloween",
+  "lead": "Los futbolistas del equipo antioqueño llegaron a la sede deportiva de Llanogrande con atuendos que llamaron la atención antes del partido contra Atlético Bucaramanga.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno Nacional anunciará a fin de año las obras viales que financiará en Santander",
+  "enlace": "https://caracol.com.co/2026/10/31/gobierno-nacional-anunciara-a-fin-de-ano-las-obras-viales-que-financiara-en-santander/",
+  "fecha": "2026-10-31T14:30:00-05:00",
+  "palabras": "",
+  "lead": "Según el ministro de Vivienda, Jaime Andrés Beltrán, el presidente Abelardo de la Espriella será quién presentará en diciembre las obras que recibirán recursos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuántos días puede estar un colombiano en la Unión Europea con pasaporte: Norma de la Cancillería",
+  "enlace": "https://caracol.com.co/2026/10/31/cuantos-dias-puede-estar-un-colombiano-en-la-union-europea-con-pasaporte-norma-de-la-cancilleria/",
+  "fecha": "2026-10-31T14:19:49-05:00",
+  "palabras": "",
+  "lead": "Con la eliminación del visado de corta estadía, los colombianos pueden viajar a los países de Europa por más tiempo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿EEUU estuvo detrás de la huida de Flávio Bolsonaro?",
+  "enlace": "https://www.lafm.com.co/internacional/marco-rubio-aclara-si-ee-uu-estuvo-detras-de-la-huida-de-flavio-bolsonaro-415810",
+  "fecha": "2026-10-31T14:43:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Donald Trump,Brasil,Lula da Silva,Jair Bolsonaro,Marco Rubio",
+  "lead": "Luego de conocerse los resultados de las elecciones en Brasil, Trump las ha calificado de \"vergonzosas\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cundinamarca da balance vial en inicio del puente festivo",
+  "enlace": "https://www.lafm.com.co/actualidad/cundinamarca-reporta-seis-accidentes-cuatro-muertos-inicio-puente-festivo-415806",
+  "fecha": "2026-10-31T14:20:00-05:00",
+  "palabras": "Actualidad,Cundinamarca,Accidente,puente festivo de noviembre,Jorge Emilio Rey,Vías cerradas",
+  "lead": "El gobernador Jorge Emilio Rey reportó seis siniestros viales, al menos diez personas lesionadas y cuatro motociclistas fallecidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nasa revela cómo se celebra Halloween en la EEI",
+  "enlace": "https://www.lafm.com.co/sociedad/halloween-los-astronautas-tambien-celebran-la-fecha-desde-el-espacio-415809",
+  "fecha": "2026-10-31T14:03:00-05:00",
+  "palabras": "Sociedad,Halloween,Disfraces para Halloween,Nasa,Estación Espacial Internacional,Seres humanos",
+  "lead": "Aunque están a más de 4.000 kilómetros de distancia, los astronautas también celebran la festividad.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
