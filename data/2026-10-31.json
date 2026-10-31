@@ -260,7 +260,7 @@
   "palabras": "Tren, Bogotá, Navidad",
   "lead": "El servicio tendrá como punto de salida el costado occidental del centro comercial Gran Estación y pasará por la estación Usaquén antes de llegar a La Caro, en Chía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "Antioquia, Movilidad, Días Festivos, Noticias de hoy",
   "lead": "Autoridades mantienen labores con maquinaria en 19 puntos que registran algún tipo de afectación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "Antioquia, Medellín, Valle de Aburrá, Daniel Quintero",
   "lead": "La directora de la autoridad ambiental, víctima en el proceso, pidió al imputado respuestas por dineros públicos que se habrían malversado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "La disposición contempla la prohibición de circulación de motocicletas, motocarros, mototriciclos y cuatrimotos en todo el perímetro urbano del Distrito",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "Las explotaciones operaban sin los instrumentos ambientales requeridos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,6 +315,50 @@
   "palabras": "",
   "lead": "El despliegue institucional estará hasta el 2 de noviembre, enfocado en la protección especialmente de los menores.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigan asesinato de dragoneante del INPEC en el oriente de Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/investigan-asesinato-de-dragoneante-del-inpec-en-el-oriente-de-cali-rg10",
+  "fecha": "2026-10-31T06:53:45-05:00",
+  "palabras": "Cali, Inpec",
+  "lead": "Se trata de esclarecer si el hecho estaría relacionado con otros ataques a trabajadores del Inpec en el resto del país.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Nos interesa seguir sumando para entrar a Sudamericana”: Javier Tetes tras victoria frente a Pasto",
+  "enlace": "https://caracol.com.co/2026/10/31/nos-interesa-seguir-sumando-para-entrar-a-sudamericana-javier-tetes-tras-victoria-frente-a-pasto/",
+  "fecha": "2026-10-31T07:04:58-05:00",
+  "palabras": "",
+  "lead": "Atlético Bucaramanga aseguró su clasificación a los cuadrangulares semifinales de la Liga tras alcanzar los 28 puntos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinDeporte ya pagó $70.550 millones, pero las obras no aparecen",
+  "enlace": "https://caracol.com.co/2026/10/31/mindeporte-ya-pago-70550-millones-pero-las-obras-no-aparecen/",
+  "fecha": "2026-10-31T07:00:00-05:00",
+  "palabras": "",
+  "lead": "Según la respuesta del Ministerio del Deporte, hay 9 convenios a los que se les giró el 100 % de los recursos, pero no tienen construida ni la mitad de la obra",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nuevo atentado con motobomba en la vía Panamericana",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-motobomba-explosivos-via-panamericana-peaje-el-mango-cauca-415778",
+  "fecha": "2026-10-31T07:05:00-05:00",
+  "palabras": "Orden Público,ataque explosivo,Vía Panamericana,Cauca,atentado,Orden de detención",
+  "lead": "Atentado en la vía Panamericana entre Nariño y Cauca en el sector del peaje de El Mango deja afectaciones materiales sin reporte de personas heridas.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
