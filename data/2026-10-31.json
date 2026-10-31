@@ -986,7 +986,7 @@
   "palabras": "Levantamiento de pesas, China, Comité Olímpico Colombiano",
   "lead": "El colombiano se destacó entre los mejores del mundo en China, pocas semanas después de conquistar tres medallas de oro en el Campeonato Panamericano de México.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "Vía panamericana, Cauca, Ataque terrorista",
   "lead": "La ministra ratificó que esta acción terrorista fue perpetrada por la estructura 'Carlos Patiño' de las disidencias de las Farc.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
   "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 31 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Accidente de tránsito, Soacha, Movilidad",
   "lead": "El accidente ocurrió en la mañana de este sábado, 31 de octubre, en plena celebración de Halloween.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "La Conmebol modificó la programación del partido en Barranquilla. ¿Por qué se cambió la hora?",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "El oficial del Inpec confirmó su salida de la dirección del centro penitenciario a través de un mensaje público. Ya está definido quien asume el cargo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "Las Leonas tendrán un último desafío en Quito para despedirse del torneo continental y buscar una posición histórica.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "La Secretaría de Seguridad y Justicia de Cali adelanta el proceso por presuntas irregularidades que incluyen incrementos unilaterales en los cánones de arrendamiento, terminación de contratos y cobros por inmuebles que no pueden ser habitados.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "Dos niños y una mujer perdieron la vida durante un incendio registrado en la madrugada de este sábado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "El hecho se registró este viernes, 30 de octubre. El taxista fue identificado como Edwin Alfonso Valbuena Del Valle.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "Los computadores habían sido robados en el departamento del Tolima.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Fueron incautadas 12 armas cortopunzantes, un arma traumática y estupefacientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "Orden Público,Cúcuta,Norte de Santander,Militares,Abelardo de la Espriella,ELN,disidencias,Ejército Nacional,Fuerza Aérea Colombiana,Policía Nacional,Fuerzas Militares",
   "lead": "Este sábado 31 de octubre llegará un nuevo contingente que va a fortalecer uno de los batallones de Fuerzas Especiales en la zona.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "Internacional,espacio,Estados Unidos,China",
   "lead": "En su primera misión, que fue en 2020, estuvo dos días en órbita.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,6 +1140,204 @@
   "palabras": "Orden Público,Cúcuta,Control en fronteras,Militares,Abelardo de la Espriella",
   "lead": "La estrategia comenzará este martes, en medio de las reacciones de sectores políticos y académicos frente a la militarización de la ciudad.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre guardó un boleto de lotería casi dos meses sin saber que había ganado un millón de dólares",
+  "enlace": "https://www.bluradio.com/mundo/hombre-guardo-un-boleto-de-loteria-casi-dos-meses-sin-saber-que-habia-ganado-un-millon-de-dolares-so35",
+  "fecha": "2026-10-31T11:33:03-05:00",
+  "palabras": "Viral, Estados Unidos",
+  "lead": "Un hombre de Estados Unidos llevaba varias semanas con unos boletos guardados en su billetera. Una compra cotidiana terminó convirtiéndose en una sorpresa inesperada.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Terapia neuromedular: ¿cómo funciona y cuándo puede evitar una cirugía de columna?",
+  "enlace": "https://www.bluradio.com/salud/terapia-neuromedular-como-funciona-y-cuando-puede-evitar-una-cirugia-de-columna-so35",
+  "fecha": "2026-10-31T11:12:12-05:00",
+  "palabras": "Estilo de vida, Tratamientos",
+  "lead": "El Dr. Pedro Cristancho explicó en qué consiste este procedimiento, cuáles son los síntomas que tiene en cuenta y qué resultados asegura haber observado en sus pacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué es la terapia neuromedular y cómo puede evitar una cirugía?: En Blu Jeans 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/que-es-la-terapia-neuromedular-y-como-puede-evitar-una-cirugia-en-blu-jeans-31-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-31T12:03:38-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Blu Jeans del sábado, 31 de octubre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Cómo elegir los mejores audífonos si va a comprar en Black Friday?: esto es lo que debe saber",
+  "enlace": "https://www.bluradio.com/tecnologia/como-elegir-los-mejores-audifonos-si-va-a-comprar-en-black-friday-esto-es-lo-que-debe-saber-so35",
+  "fecha": "2026-10-31T11:19:18-05:00",
+  "palabras": "Sony, Black Friday",
+  "lead": "El tipo de diseño, la batería, la conectividad y la calidad del micrófono son factores que conviene revisar antes de comprar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estos alimentos pueden ayudar a mantener la masa muscular durante el tratamiento contra el cáncer",
+  "enlace": "https://www.bluradio.com/salud/estos-alimentos-pueden-ayudar-a-mantener-la-masa-muscular-durante-el-tratamiento-contra-el-cancer-so35",
+  "fecha": "2026-10-31T11:41:08-05:00",
+  "palabras": "Cáncer, Viral",
+  "lead": "La falta de apetito y los cambios en el gusto pueden afectar la nutrición de los pacientes. Expertos explican qué nutrientes priorizar y cómo adaptar la alimentación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pacientes Colombia pide acompañamiento de la CIDH ante la crisis del sistema de salud",
+  "enlace": "https://www.bluradio.com/salud/pacientes-colombia-pide-acompanamiento-de-la-cidh-ante-la-crisis-del-sistema-de-salud-rg10",
+  "fecha": "2026-10-31T11:46:21-05:00",
+  "palabras": "Pacientes Colombia, CIDH, Salud",
+  "lead": "La organización respalda el plan de acción del Gobierno, pero pide transparencia en las cifras de pacientes con medicamentos pendientes y recursos suficientes para el sistema.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cómo manejar los dulces de Halloween con los niños: Casa Blu del 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/casa-blu/como-manejar-los-dulces-de-halloween-con-los-ninos-casa-blu-del-31-de-octubre-de-2026-pr30",
+  "fecha": "2026-10-31T12:10:39-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Haga de su casa un hogar en Casa Blu este sábado, 31 de octubre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El Servicio Geológico Colombiano reportó fuerte sismo de 5,2: ¿dónde se sintió?",
+  "enlace": "https://www.bluradio.com/mundo/el-servicio-geologico-colombiano-reporto-fuerte-sismo-de-5-2-donde-se-sintio-so35",
+  "fecha": "2026-10-31T11:55:04-05:00",
+  "palabras": "Panamá, Sismo hoy",
+  "lead": "El Servicio Geológico Colombiano reportó una profundidad menor a 30 kilómetros.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fondo Milagro prepara subsidios de hasta $30 millones y créditos para damnificados en Quibdó",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/fondo-milagro-prepara-subsidios-de-hasta-30-millones-y-creditos-para-damnificados-en-quibdo-rg10",
+  "fecha": "2026-10-31T12:07:53-05:00",
+  "palabras": "Quibdó, Abelardo De La Espriella",
+  "lead": "El plan contempla cuatro líneas de apoyo: demoliciones, mejoramiento de viviendas, créditos condonables para pequeños negocios y construcción de nuevas casas. Una de las líneas todavía está por definirse.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Temblor HOY 31 de octubre en Panamá: magnitud y epicentro",
+  "enlace": "https://caracol.com.co/2026/10/31/temblor-hoy-31-de-octubre-en-panama-magnitud-y-epicentro/",
+  "fecha": "2026-10-31T12:06:11-05:00",
+  "palabras": "",
+  "lead": "El temor volvió a apoderarse este sábado de los panameños tras un sismo de magnitud 5,9, con epicentro a veinte kilómetros al noreste de Tonosí, en la provincia de Los Santos, que se sintió en distintos puntos del país, incluida la capital, donde el Metro de Panamá desalojó a sus pasajeros como parte de sus protocolos de seguridad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Cúcuta, EJC lanzó desde helicóptero volantes con la imagen de Antonio García y otros cabecillas",
+  "enlace": "https://caracol.com.co/2026/10/31/en-cucuta-ejc-lanzo-desde-helicoptero-volantes-con-la-imagen-de-antonio-garcia-y-otros-cabecillas/",
+  "fecha": "2026-10-31T11:49:21-05:00",
+  "palabras": "",
+  "lead": "Los volantes contenían información sobre la Línea 107, un canal gratuito que funciona las 24 horas del día para recibir información de la ciudadanía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Crece la incertidumbre por el paradero de Alejandra Castaño, secuestrada en Guacarí",
+  "enlace": "https://caracol.com.co/2026/10/31/crece-la-incertidumbre-por-el-paradero-de-alejandra-castano-secuestrada-en-guacari/",
+  "fecha": "2026-10-31T11:12:33-05:00",
+  "palabras": "",
+  "lead": "Giovanni Castaño, tío de la joven, aseguró que no han recibido comunicaciones sobre su sobrina. La comunidad ha realizado velatones y movilizaciones para exigir su liberación, mientras las autoridades mantienen los operativos de búsqueda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Galés fue capturado en el Parque Lleras en Medellín por porte de armas",
+  "enlace": "https://caracol.com.co/2026/10/31/gales-fue-capturado-en-el-parque-lleras-en-medellin-por-porte-de-armas/",
+  "fecha": "2026-10-31T11:11:39-05:00",
+  "palabras": "",
+  "lead": "El extranjero estaría siendo buscado por autoridades internacionales por una condena de tráfico de estupefacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Una menor de 9 años de edad falleció por un trágico accidente de tránsito en vías del Quindío",
+  "enlace": "https://caracol.com.co/2026/10/31/una-menor-de-9-anos-de-edad-fallecio-por-un-tragico-accidente-de-transito-en-vias-del-quindio/",
+  "fecha": "2026-10-31T11:10:23-05:00",
+  "palabras": "",
+  "lead": "Una menor de 9 años de edad falleció tras varios días de estar hospitalizada por un trágico accidente de tránsito en vías del Quindío",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Santa Marta: Incendio en vivienda deja 3 personas muertas",
+  "enlace": "https://www.lafm.com.co/orden-publico/incendio-vivienda-tres-personas-muertas-santa-marta-415798",
+  "fecha": "2026-10-31T12:10:00-05:00",
+  "palabras": "Orden Público,Incendio,Muere menor de edad,Santa Marta,Cuerpo de Bomberos,Magdalena",
+  "lead": "Incendio en el barrio Santa Cruz en Santa Marta, dejó tres muertos: una pastora y dos niños. 17 bomberos atendieron el caso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nuevo requisito para viajar a Estados Unidos desde noviembre",
+  "enlace": "https://www.lafm.com.co/sociedad/nuevo-requisito-pasajeros-destino-eeuu-conexion-desde-noviembre-415795",
+  "fecha": "2026-10-31T12:00:00-05:00",
+  "palabras": "Sociedad,Avianca,Vuelos,Aviones,Estados Unidos",
+  "lead": "No podrá abordar el avión. Avianca advirtió que la presentación del comprobante, ya sea digital o físico.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Vía Soacha - El Colegio: accidente deja ocho heridos",
+  "enlace": "https://www.lafm.com.co/actualidad/accidente-via-soacha-el-colegio-ocho-heridos-415796",
+  "fecha": "2026-10-31T11:53:00-05:00",
+  "palabras": "Actualidad,Cundinamarca,Soacha,Accidente,Bus,vehículos,Heridos",
+  "lead": "Un accidente de tránsito en la vía Soacha-El Colegio dejó ocho personas lesionadas, entre ellas tres menores de edad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Disfrutar las películas de terror es señal de algún trastorno? Psiquiatra explica qué hay detrás",
+  "enlace": "https://www.lafm.com.co/sociedad/halloween-peliculas-terror-trastorno-psicotico-psiquiatra-explica-que-hay-detras-efecto-copycat-415792",
+  "fecha": "2026-10-31T11:34:00-05:00",
+  "palabras": "Sociedad,Terror,Peliculas online,atención psicológica,trastorno psicológico,Cine",
+  "lead": "El médico psiquiatra y psicoanalista Sergio Castro explicó qué mecanismos pueden estar detrás de esta afición.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
