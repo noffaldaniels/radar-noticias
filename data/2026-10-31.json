@@ -502,7 +502,7 @@
   "palabras": "Antioquia, Medellín, Gales, Noticias de hoy",
   "lead": "El extranjero presuntamente había incumplido la libertad condicional tras ser condenado en 2020 por tráfico de drogas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Vía panamericana, Cauca, atentado terrorista",
   "lead": "El alcalde del municipio indicó que hoy la comunidad vecina del peaje pide que este no siga funcionado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "Los encuentros serán el 27 y 28 de noviembre para reconocer el liderazgo de quienes trabajan por sus comunidades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "La Superintendencia de Transporte reforzó las inspecciones en terminales ante el aumento de viajeros por la temporada de fin de año y recordó los requisitos para los niños que viajan solos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "El plantel acompañó a José Alexis Márquez en rueda de prensa, donde analizaron el triunfo y hablaron de la situación del club.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "La Policía reforzará los controles y patrullajes en varios municipios para proteger a niños y familias durante la celebración.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Juan Carlos González fue condenado a 37 años de prisión por el presunto homicidio de Juan Esteban Moreno en Bogotá en octubre de 2025.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,6 +579,182 @@
   "palabras": "Política,Daniel Quintero,Cárcel,Medellín, Colombia,Corrupción,Lucha anticorrupción,polémica",
   "lead": "El pronunciamiento llega después de que el presidente Abelardo de la Espriella publicara un video en el que se ve a Miguel Quintero esposado.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo director asume el mando de la cárcel de Palogordo, en Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nuevo-director-asume-el-mando-de-la-carcel-de-palogordo-en-santander-rg10",
+  "fecha": "2026-10-31T08:42:10-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Inpec, Girón, Santander",
+  "lead": "El cambio de mando se produce en medio de la preocupación por las amenazas contra guardianes del Inpec y la llegada de internos de alta peligrosidad a la cárcel de Palogordo, en Girón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a presunto taxista con 45 computadores robados: están avaluados en más de 100 millones",
+  "enlace": "https://www.bluradio.com/regiones/bogota/capturan-a-presunto-taxista-con-45-computadores-robados-estan-avaluados-en-mas-de-100-millones-so35",
+  "fecha": "2026-10-31T08:43:27-05:00",
+  "palabras": "Policía Nacional, Secretaría de seguridad, Tolima",
+  "lead": "Una inspección policial a un taxi en el sur de Bogotá permitió descubrir un cargamento que supuestamente contenía frutas y verduras. Los equipos están avaluados en $105 millones.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A estos pensionados no se les pagaría prima en diciembre: ley confirma la decisión",
+  "enlace": "https://www.bluradio.com/economia/a-estos-pensionados-no-se-les-pagaria-prima-en-diciembre-ley-confirma-la-decision-so35",
+  "fecha": "2026-10-31T08:28:26-05:00",
+  "palabras": "Pensiones, Prima navideña",
+  "lead": "La Ley 100 de 1993 y el Acto Legislativo 01 de 2005 establecen condiciones específicas para acceder a la mesada 13.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 1.400 policías estarán desplegados en Santander durante Halloween y el puente festivo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/mas-de-1-400-policias-estaran-desplegados-en-santander-durante-halloween-y-el-puente-festivo-rg10",
+  "fecha": "2026-10-31T08:51:50-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional, Policía de Tránsito",
+  "lead": "Cuatro municipios tendrán ferias y fiestas, mientras que otros 36 eventos culturales, deportivos y actividades del Día Dulce contarán con acompañamiento de las autoridades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Manizales se ubica entre las primeras cinco ciudades con mayor puntaje de las Pruebas Saber",
+  "enlace": "https://caracol.com.co/2026/10/31/manizales-se-ubica-entre-las-primeras-cinco-ciudades-con-mayor-puntaje-de-las-pruebas-saber/",
+  "fecha": "2026-10-31T09:07:38-05:00",
+  "palabras": "",
+  "lead": "Subió cuatro puestos en el escalafón alcanzando 280 puntos, uno de los mejores registrados en los últimos 10 años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Armada de Colombia incautó dos toneladas de cocaína en operación combinada con EEUU en el Caribe",
+  "enlace": "https://caracol.com.co/2026/10/31/armada-incauto-dos-toneladas-de-cocaina-en-operacion-combinada-con-eeuu-en-el-caribe/",
+  "fecha": "2026-10-31T09:06:59-05:00",
+  "palabras": "",
+  "lead": "Las autoridades lograron recuperar 80 bultos que contenían 2.000 paquetes rectangulares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía judicializó a 14 integrantes de banda que amenazaba y desplazaba a habitantes de Bogotá",
+  "enlace": "https://caracol.com.co/2026/10/31/fiscalia-judicializo-a-14-integrantes-de-banda-que-amenazaba-y-desplazaba-a-habitantes-de-bogota/",
+  "fecha": "2026-10-31T09:01:20-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía señaló a Guillermo Samir Morales Anchico, alias Memo, como presunto cabecilla de la organización",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El 74% de los santandereanos celebra Halloween: disfraces y planes familiares marcan la tendencia",
+  "enlace": "https://caracol.com.co/2026/10/31/el-74-de-los-santandereanos-celebra-halloween-disfraces-y-planes-familiares-marcan-la-tendencia/",
+  "fecha": "2026-10-31T08:58:53-05:00",
+  "palabras": "",
+  "lead": "El comercio santandereano espera un impulso en las ventas durante este fin de semana. Según Fenalco Santander, los ciudadanos destinarán entre $100.000 y $200.000 para la celebración.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boca vs. River por Liga Argentina: prográmese con el último superclásico del año",
+  "enlace": "https://caracol.com.co/2026/10/31/boca-vs-river-por-liga-argentina-programese-con-el-ultimo-superclasico-del-ano/",
+  "fecha": "2026-10-31T08:52:22-05:00",
+  "palabras": "",
+  "lead": "Ambos equipos ya están clasificados a los octavos de final de la Liga y se enfrentarán este domingo 1 de noviembre en La Bombonera.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fue hurtado un vehículo que transportaba al equipo de una organización humanitaria en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/10/31/fue-hurtado-un-vehiculo-que-transportaba-al-equipo-de-una-organizacion-humanitaria-en-el-catatumbo/",
+  "fecha": "2026-10-31T08:53:26-05:00",
+  "palabras": "",
+  "lead": "Se alerta por el uso indebido de los elementos de identificación institucional que llevaba el automotor.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cambian las tarifas para taxistas que prestan sus servicios desde la Terminal de Salitre",
+  "enlace": "https://caracol.com.co/2026/10/31/cambian-las-tarifas-para-taxistas-que-prestan-sus-servicios-desde-la-terminal-de-salitre/",
+  "fecha": "2026-10-31T08:47:15-05:00",
+  "palabras": "",
+  "lead": "Las nuevas tarifas empezaran a regir desde el 1 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "De la Espriella anunció que obras del aeropuerto Ernesto Cortissoz estarán listas en 15 días",
+  "enlace": "https://caracol.com.co/2026/10/31/de-la-espriella-anuncio-que-obras-del-aeropuerto-ernesto-cortissoz-estaran-listas-en-15-dias/",
+  "fecha": "2026-10-31T08:40:25-05:00",
+  "palabras": "",
+  "lead": "El Gobierno Nacional firmó un convenio con la alcaldía de Barranquilla para adelantar estas obras.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Armada y De la Espriella confirman golpe al narcotráfico",
+  "enlace": "https://www.lafm.com.co/orden-publico/abelardo-de-la-espriella-armada-colombia-cocaina-caribe-estados-unidos-415781",
+  "fecha": "2026-10-31T09:13:00-05:00",
+  "palabras": "Orden Público,Narcotráfico,Armada Nacional,Abelardo de la Espriella,Operación antidrogas,Estados Unidos,cocaína,Infantes de Marina,Caribe",
+  "lead": "El resultado representa una afectación superior a los 92 millones de dólares a las finanzas de los grupos criminales, según las autoridades.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fabricantes colombianos exigen igualdad frente a plataformas",
+  "enlace": "https://www.lafm.com.co/actualidad/halloween-mercado-venta-disfraces-fabricantes-colombianos-igualdad-plataformas-digitales-415782",
+  "fecha": "2026-10-31T09:06:00-05:00",
+  "palabras": "Actualidad,mercado,Halloween,Disfraces para Halloween,Prendas de vestir,Mercados internacionales,Aranceles",
+  "lead": "Juan de la Espriella, gerente general de Cachivaches, explicó cómo ha cambiado el comportamiento de los consumidores y los desafíos que enfrenta la industr...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medidas para proteger a los niños este 31 de octubre",
+  "enlace": "https://www.lafm.com.co/sociedad/halloween-bogota-seguro-medidas-proteger-ninos-octubre-415783",
+  "fecha": "2026-10-31T08:54:00-05:00",
+  "palabras": "Sociedad,Halloween,Disfraces para Halloween,Niños,dulces,ICBF,Policía Nacional",
+  "lead": "La Policía Nacional y el ICBF desplegarán acciones de vigilancia, prevención y acompañamiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Asesinato de Jaime Esteban Moreno: su padre hace llamado",
+  "enlace": "https://www.lafm.com.co/sociedad/caso-jaime-esteban-moreno-padre-hace-llamado-mujer-profuga-justicia-415780",
+  "fecha": "2026-10-31T08:44:00-05:00",
+  "palabras": "Sociedad,Asesinato,bares,Bogotá,Injusticia,Asesinado,Halloween",
+  "lead": "Uno de los asuntos centrales de la entrevista con el padre, Jaime Alberto Moreno, también fue el arrepentimiento que expresó Juan Carlos Suárez Ortiz en el...",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
