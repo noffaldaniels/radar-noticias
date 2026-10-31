@@ -766,7 +766,7 @@
   "palabras": "Chocó, Emergencias por lluvias, Noticias de hoy",
   "lead": "Mientras avanza la llegada de ayudas por parte del departamento, solicitan asistencia del Gobierno nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Colsubsidio, EPS Sanitas",
   "lead": "Colsubsidio asumirá la entrega de medicamentos a los afiliados en Bogotá. Consulte las sedes, horarios y requisitos para reclamar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "Noticias de hoy, Caribe, Tráfico de cocaína, Abelardo De La Espriella, Armada Nacional de Colombia",
   "lead": "El cargamento tenía un valor de 92 millones de dólares. La información fue confirmada por el presidente Abelardo De La Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Energía eléctrica, Fenómeno de El Niño, Racionamiento de energía, Comisión de Regulación de Energía y Gas",
   "lead": "Los aportes hídricos llevan seis meses bajo el promedio y en octubre apenas alcanzaron 60,77 %, mientras que las térmicas generaron 32,2 GWh diarios menos de lo comprometido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "Los planes de seguridad buscan prevenir accidentes de tránsito y evitar alteraciones del orden público durante el puente festivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "El exalcalde de Magangué había sido detenido esta semana en Barranquilla",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "Las dos mujeres también fueron imputadas por los delitos de tortura y lesiones personales, ambas conductas agravadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "Una motocicleta cargada con explosivos fue activada en el peaje El Mango. Es el segundo atentado terrorista contra esta infraestructura en menos de un mes.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "La Fiscalía les imputó homicidio agravado y porte ilegal de armas de fuego; ambos aceptaron los cargos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "El alcalde pidió que el horario se extienda hasta las 10:59 p.m.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "Alias ‘El Gatico’ también aseguró que varias personas tienen documentos, audios y videos que contendrían información.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "La medida aplicará para este puente festivo de Todos los Santos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "Dylan Campaz Naboyan, de 18 años, completa más de 20 días desaparecido. Su familia sigue esperando respuestas sobre su paradero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "La Policía recomendó verificar que las promociones provengan de cuentas oficiales y sitios web legítimos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "La investigación de las autoridades peruanas lo señala de presuntamente liderar una organización criminal",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "Advierten sobre la necesidad de fortalecer la cooperación binacional en materia de seguridad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "Deportes,Premier League,Manchester United,Chelsea,tabla de posiciones,resultados",
   "lead": "El conjunto de Michael Carrick prolongó su mal momento y continúa comprometido en la zona baja de la tabla.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "Orden Público,atentado,Vía Panamericana,Ejército Nacional,Cauca,Nariño,disidencias,ataque explosivo,Alias Mordisco",
   "lead": "Las tropas fueron desplegadas con el fin de neutralizar cualquier amenaza y ya se normalizó la movilidad por la vía Panamericana.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "Internacional,Estados Unidos,Donald Trump,Elecciones en el exterior,Venezuela,Delcy Rodríguez",
   "lead": "El abogado venezolano y analista internacional César Báez explicó que estos asuntos podrían afectar al Partido Republicano y tener consecuencias para la si...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -974,6 +974,171 @@
   "fecha": "2026-10-31T08:59:00-05:00",
   "palabras": "Actualidad,Santa Marta,Agua,megaproyecto,presidente de la República,Gobernación de Magdalena",
   "lead": "El presidente abrazó a la gobernadora del Magdalena y anunció inversiones para llevar agua a Santa Marta.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El colombiano Hugo Montes se subió al podio del Mundial de Levantamiento de Pesas",
+  "enlace": "https://www.bluradio.com/deportes/el-colombiano-hugo-montes-se-subio-al-podio-del-mundial-de-levantamiento-de-pesas-cb20",
+  "fecha": "2026-10-31T10:29:15-05:00",
+  "palabras": "Levantamiento de pesas, China, Comité Olímpico Colombiano",
+  "lead": "El colombiano se destacó entre los mejores del mundo en China, pocas semanas después de conquistar tres medallas de oro en el Campeonato Panamericano de México.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mintransporte anuncia 'Plan Meteoro' en vía Panamericana tras ataque terrorista en La Sierra, Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/mintransporte-anuncia-plan-meteoro-en-via-panamericana-tras-ataque-terrorista-en-la-sierra-cauca-rg10",
+  "fecha": "2026-10-31T10:22:16-05:00",
+  "palabras": "Vía panamericana, Cauca, Ataque terrorista",
+  "lead": "La ministra ratificó que esta acción terrorista fue perpetrada por la estructura 'Carlos Patiño' de las disidencias de las Farc.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana, resultado del último sorteo hoy sábado 31 de octubre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-hoy-sabado-31-de-octubre-de-2026-so35",
+  "fecha": "2026-10-31T10:17:22-05:00",
+  "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 31 de octubre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video captó el momento exacto del violento choque entre un bus y un carro en vía Soacha - Mesitas",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/video-capto-el-momento-exacto-del-violento-choque-entre-un-bus-y-un-carro-en-via-soacha-mesitas-rs15",
+  "fecha": "2026-10-31T11:07:56-05:00",
+  "palabras": "Accidente de tránsito, Soacha, Movilidad",
+  "lead": "El accidente ocurrió en la mañana de este sábado, 31 de octubre, en plena celebración de Halloween.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Copa Sudamericana: horarios confirmados para la final entre Boca Juniors y Atlético Mineiro",
+  "enlace": "https://caracol.com.co/2026/10/31/copa-sudamericana-horarios-confirmados-para-la-final-entre-boca-juniors-y-atletico-mineiro/",
+  "fecha": "2026-10-31T10:45:03-05:00",
+  "palabras": "",
+  "lead": "La Conmebol modificó la programación del partido en Barranquilla. ¿Por qué se cambió la hora?",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trasladan al director de la cárcel de Palogordo en Girón, Santander. ¿Quién asume el mando?",
+  "enlace": "https://caracol.com.co/2026/10/31/trasladan-al-director-de-la-carcel-de-palogordo-en-giron-santander-quien-asume-el-mando/",
+  "fecha": "2026-10-31T10:49:00-05:00",
+  "palabras": "",
+  "lead": "El oficial del Inpec confirmó su salida de la dirección del centro penitenciario a través de un mensaje público. Ya está definido quien asume el cargo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Fe busca cerrar su Libertadores en el podio: se enfrenta a Olimpia por el tercer lugar",
+  "enlace": "https://caracol.com.co/2026/10/31/santa-fe-busca-cerrar-su-libertadores-en-el-podio-se-enfrenta-a-olimpia-por-el-tercer-lugar/",
+  "fecha": "2026-10-31T11:01:23-05:00",
+  "palabras": "",
+  "lead": "Las Leonas tendrán un último desafío en Quito para despedirse del torneo continental y buscar una posición histórica.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inmobiliaria en Cali podría ser sancionada por presuntos abusos en arriendos tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/10/31/inmobiliaria-en-cali-podria-ser-sancionada-por-presuntos-abusos-en-arriendos-tras-el-terremoto/",
+  "fecha": "2026-10-31T10:58:10-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Seguridad y Justicia de Cali adelanta el proceso por presuntas irregularidades que incluyen incrementos unilaterales en los cánones de arrendamiento, terminación de contratos y cobros por inmuebles que no pueden ser habitados.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incendio en vivienda de Santa Marta deja tres personas fallecidas y cuatro heridas",
+  "enlace": "https://caracol.com.co/2026/10/31/incendio-en-vivienda-de-santa-marta-deja-tres-personas-fallecidas-y-cuatro-heridas/",
+  "fecha": "2026-10-31T10:57:02-05:00",
+  "palabras": "",
+  "lead": "Dos niños y una mujer perdieron la vida durante un incendio registrado en la madrugada de este sábado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Taxista fue asesinado en el barrio Santo Domingo en Barranquilla: sicarios se movilizaban en moto",
+  "enlace": "https://caracol.com.co/2026/10/31/taxista-fue-victima-en-el-barrio-santo-domingo-en-barranquilla-sicarios-se-movilizaban-en-moto/",
+  "fecha": "2026-10-31T10:11:35-05:00",
+  "palabras": "",
+  "lead": "El hecho se registró este viernes, 30 de octubre. El taxista fue identificado como Edwin Alfonso Valbuena Del Valle.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Usme a un hombre que transportaba más de 40 computadores robados",
+  "enlace": "https://caracol.com.co/2026/10/31/capturan-en-usme-a-un-hombre-que-transportaba-mas-de-40-computadores-robados/",
+  "fecha": "2026-10-31T10:39:07-05:00",
+  "palabras": "",
+  "lead": "Los computadores habían sido robados en el departamento del Tolima.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sellan falsos sindicatos en la localidad de Kennedy: más de 20 menores de edad fueron sorprendidos",
+  "enlace": "https://caracol.com.co/2026/10/31/sellan-falsos-sindicatos-en-la-localidad-de-kennedy-mas-de-20-menores-de-edad-fueron-sorprendidos/",
+  "fecha": "2026-10-31T10:15:14-05:00",
+  "palabras": "",
+  "lead": "Fueron incautadas 12 armas cortopunzantes, un arma traumática y estupefacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Más de mil uniformados han sido desplegados en Cúcuta",
+  "enlace": "https://www.lafm.com.co/orden-publico/militarizacion-cucuta-norte-santander-mil-soldados-ejercito-de-la-espriella-colombia-415791",
+  "fecha": "2026-10-31T11:10:00-05:00",
+  "palabras": "Orden Público,Cúcuta,Norte de Santander,Militares,Abelardo de la Espriella,ELN,disidencias,Ejército Nacional,Fuerza Aérea Colombiana,Policía Nacional,Fuerzas Militares",
+  "lead": "Este sábado 31 de octubre llegará un nuevo contingente que va a fortalecer uno de los batallones de Fuerzas Especiales en la zona.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿China tiene avión para operaciones militares en órbita?",
+  "enlace": "https://www.lafm.com.co/internacional/china-avion-espacial-operaciones-militares-orbita-415788",
+  "fecha": "2026-10-31T09:22:00-05:00",
+  "palabras": "Internacional,espacio,Estados Unidos,China",
+  "lead": "En su primera misión, que fue en 2020, estuvo dos días en órbita.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Advierten que militarización no es la única opción en Cúcuta",
+  "enlace": "https://www.lafm.com.co/orden-publico/cucuta-militarizacion-abelardo-de-la-espriella-seguridad-415786",
+  "fecha": "2026-10-31T09:09:00-05:00",
+  "palabras": "Orden Público,Cúcuta,Control en fronteras,Militares,Abelardo de la Espriella",
+  "lead": "La estrategia comenzará este martes, en medio de las reacciones de sectores políticos y académicos frente a la militarización de la ciudad.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
