@@ -7,7 +7,7 @@
   "palabras": "Lotería de Boyacá, Resultado de loterías de hoy, Loterías de hoy, resultado de la Lotería de Boyacá hoy",
   "lead": "El sorteo 4648 de la Lotería de Boyacá del sábado 31 de octubre de 2026 entregó el premio mayor de $15.000 millones; revise su billete.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería del Cauca, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "El número 1355 de la serie 147 ganó el premio mayor en el sorteo 2635. Consulte los secos y la lista completa de números ganadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Baloto, Loterías de hoy, Resultado de loterías de hoy",
   "lead": "Todos los resultados del sorteo 2.729 de Baloto y Revancha en Colombia del sábado 31 de octubre de 2026. Consulte la combinación ganadora, la tabla de aciertos y los nuevos acumulados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Estados Unidos, México, ICE, Inés Gómez Mont",
   "lead": "La base de datos del Servicio de Inmigración y Control de Aduanas (ICE) indicó que la presentadora se encuentra en el Broward Transitional Center, situado en Pompano Beach, Florida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Extra de Colombia, Resultado de loterías de hoy, Loterías de hoy",
   "lead": "Extra de Colombia realizó su sorteo del 31 de octubre de 2026. Conozca el número ganador del premio mayor, secos, bonos y recambio ganador.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Huila",
   "lead": "Una motocicleta acondicionada con explosivos fue detonada en la zona rosa de Algeciras, Huila, mientras uniformados hacían labores de vigilancia.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Lotería de Boyacá, Lotería del Cauca, Extra de Colombia, Loterías de hoy, Resultado de loterías de hoy, Baloto",
   "lead": "La Lotería de Boyacá cayó en el 5748, serie 202. El Extra de Colombia, en el 8259, serie 320. El Cauca, en el 1355, serie 147. El Baloto salió con 10-19-21-29-39 y súper balota 12. Revise aquí todos los resultados del sábado",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "",
   "lead": "La información de la ciudadanía, a través de la red de apoyo, llevó a la Policía hasta la residencia de uno de los que cometieron el hurto",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "Tres policías y varios civiles habrían resultado afectados tras la detonación registrada en plena zona rosa.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "",
   "lead": "El Ministerio de Salud y el INS anunciaron que adelantan las acciones de vigilancia epidemiológica en el Valle del Cauca.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "La operación fue coordinada por la Policía Nacional, el INPEC y la Fuerza Aérea Colombiana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "",
   "lead": "Según el ministro Jorge Mora, ya se presentaron 41 denuncias ante las autoridades.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "",
   "lead": "Preliminarmente se reportan 9 muertos, aunque la cifra podría ser mayor.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "",
   "lead": "Las emergencias se registraron en Alameda del Jardín y el barrio Los Corales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Orden Público,atentado,Muertos,Policía Nacional,Atlético Huila",
   "lead": "Los hechos ocurrieron durante la celebración de Halloween. Entre los afectados habrían algunos civiles.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,6 +172,39 @@
   "palabras": "Orden Público,Corrupción,Ministerio de Defensa,Investigaciones,contratos,Helicóptero,Gustavo Petro",
   "lead": "El ministro Jorge Mora reveló que actualmente hay 82 alertas por presuntos hechos irregulares en el Ministerio cometidos bajo la administración de Gustavo ...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asobares ve positiva la militarización en Cúcuta y esperan un repunte en las ventas del comercio",
+  "enlace": "https://caracol.com.co/2026/11/01/asobares-ve-positiva-la-militarizacion-en-cucuta-y-esperan-un-repunte-en-las-ventas-del-comercio/",
+  "fecha": "2026-11-01T06:08:00-05:00",
+  "palabras": "",
+  "lead": "Indican que las medidas de seguridad pueden generar mayor confianza entre los ciudadanos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La terminal de regasificación de Cartagena restableció su capacidad de 533 mpcd",
+  "enlace": "https://caracol.com.co/2026/11/01/la-terminal-de-regasificacion-de-cartagena-restablecio-su-capacidad-de-533-mpcd/",
+  "fecha": "2026-11-01T06:05:23-05:00",
+  "palabras": "",
+  "lead": "SPEC LNG recuperó su capacidad disponible de 533 millones de pies cúbicos por día, después de concluir los trabajos correctivos en uno de los cuatro trenes de regasificación",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salen al mercado 100 millones de barriles de petróleo que había prometido el G7",
+  "enlace": "https://caracol.com.co/2026/11/01/salen-al-mercado-100-millones-de-barriles-de-petroleo-que-habia-prometido-el-g7/",
+  "fecha": "2026-11-01T06:04:01-05:00",
+  "palabras": "",
+  "lead": "Otros países europeos se han sumado a la operación para estabilizar el mercado.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
