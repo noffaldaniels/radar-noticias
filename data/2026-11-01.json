@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Casi la mitad del gasto por esterilización se fue en las cirugías y un segundo convenio, firmado en 2025 con Corpoboyacá por $618 millones, sigue en ejecución sin resultados informados. Esta es la historia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,6 +260,94 @@
   "palabras": "",
   "lead": "El colombiano logró su segundo triunfo en la temporada 2026 de la segunda categoría del motociclismo.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desde Antioquia proponen al Gobierno reducción a siete ministerios para afrontar crisis fiscal",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/desde-antioquia-proponen-al-gobierno-reduccion-a-siete-ministerios-para-afrontar-crisis-fiscal-rg10",
+  "fecha": "2026-11-01T08:00:09-05:00",
+  "palabras": "Gobierno nacional, Andrés Julián Rendón, Presupuesto Nacional",
+  "lead": "Durante un reciente encuentro, Andrés Julián Rendón planteó al presidente Abelardo De La Espriella tres iniciativas que permitirían aliviar la situación financiera del país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Hay casos de ébola en el Valle del Cauca? Esto responden autoridades sanitarias",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/hay-casos-de-ebola-en-el-valle-del-cauca-esto-responden-autoridades-sanitarias-rg10",
+  "fecha": "2026-11-01T07:32:23-05:00",
+  "palabras": "Ébola, Cali",
+  "lead": "Las autoridades sostendrán una reunión para revisar pacientes provenientes de África y tomas los protocolos necesarios respecto al ébola.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dos sismos golpearon a Colombia este domingo: ¿dónde se sintieron?",
+  "enlace": "https://www.bluradio.com/nacion/dos-sismos-golpearon-a-colombia-este-domingo-en-donde-se-sintieron-so35",
+  "fecha": "2026-11-01T07:50:39-05:00",
+  "palabras": "Temblor hoy, Océano Pacífico, Santander",
+  "lead": "El Servicio Geológico Colombiano reportó movimientos telúricos en varias regiones del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian atrasados de hasta siete meses de salarios en la Clínica de Especialistas de Sogamoso",
+  "enlace": "https://caracol.com.co/2026/11/01/denuncian-atrasados-de-hasta-siete-meses-de-salarios-en-la-clinica-de-especialistas-de-sogamoso/",
+  "fecha": "2026-11-01T07:56:09-05:00",
+  "palabras": "",
+  "lead": "El veedor de salud Fabio Andrés Olarte señaló que cerca de 200 trabajadores estarían afectados y pidió la intervención de los ministerios de Trabajo y Salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En un 86% avanza la cosecha cafetera del segundo semestre del año en el Quindío",
+  "enlace": "https://caracol.com.co/2026/11/01/en-un-86-avanza-la-cosecha-cafetera-del-segundo-semestre-del-ano-en-el-quindio/",
+  "fecha": "2026-11-01T07:29:12-05:00",
+  "palabras": "",
+  "lead": "La proyección es de 8 millones de kilos de café de pergamino seco",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ningún grupo armado ilegal tiene derecho a decidir quién puede trabajar: gobernadora del Tolima",
+  "enlace": "https://caracol.com.co/2026/11/01/ningun-grupo-armado-ilegal-tiene-derecho-a-decidir-quien-puede-trabajar-gobernadora-del-tolima/",
+  "fecha": "2026-11-01T07:13:34-05:00",
+  "palabras": "",
+  "lead": "Adriana Matiz advirtió que no se puede permitir que en los territorios que durante décadas sufrieron por la guerra terminen sometidos a nuevas formas de criminalidad que atentan contra la tranquilidad de los pobladores en algunos municipios.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jugador de Nacional salió a explicar su disfraz de Halloween tras polémica: “Me dicen guerrillero”",
+  "enlace": "https://caracol.com.co/2026/11/01/jugador-de-nacional-salio-a-explicar-su-disfraz-de-halloween-tras-polemica-me-dicen-guerrillero/",
+  "fecha": "2026-11-01T07:11:35-05:00",
+  "palabras": "",
+  "lead": "Nicolás Rodríguez recibió críticas en redes sociales por utilizar un atuendo camuflado durante la celebración del equipo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gira del papa León  XIV por Sudamérica: Perú parada final",
+  "enlace": "https://www.lafm.com.co/internacional/gira-del-papa-leon-xiv-por-sudamerica-peru-parada-final-415832",
+  "fecha": "2026-11-01T07:41:00-05:00",
+  "palabras": "Internacional,Papa León XIV,sudamerica,Vaticano,Perú,Iglesia Católica",
+  "lead": "El papa encabezará más de 50 actos en Uruguay, Argentina y Perú.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
