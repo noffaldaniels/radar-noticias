@@ -931,7 +931,7 @@
   "palabras": "Medellín,  Halloween",
   "lead": "Con el caso que involucra a un habitante en situación de calle, la ciudad alcanzó las 200 muertes violentas en lo corrido de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "Paisita día, Resultados del chanche, Chances y Loterías",
   "lead": "El chance Paisita Día juega de lunes a sábado a la 1:00 p. m. y los domingos y festivos a las 2:00 p. m. Consulte aquí el resultado de hoy.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "Sinuano día, Resultados del chanche, Chances y Loterías",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador de hoy, domingo 1 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "Caribeña día, Chances y Loterías, Resultados del chance",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 4:00 p. m. Consulte aquí el número ganador del último sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "En Blu Jeans del domingo, 1 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "El futbolista reconoció los problemas defensivos y la falta de contundencia del equipo barranquillero.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Según la información suministrada por el personal médico, recibirá atención médica especializada por las quemaduras que presenta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "En la conflagración murió un perro que no pudo ser rescatado en medio del incendio estructural.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "El ex vicepresidente Humberto de la Calle advirtió que existen similitudes entre la forma de hacer política de Gustavo Petro y Abelardo de la Espriella, pues consideró que ambos comparten una visión “caudillista” y la intención de impulsar una refundación del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "Los químicos presuntamente serían destinados al procesamiento de narcóticos en vías del departamento del Meta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "FundaREDES aseguró que el bombardeo ejecutado por el Ejército de Venezuela dejó al menos nueve muertos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "En el mismo hecho una menor de 6 años también resultó lesionada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "La ministra del Deporte, Juliana Gutiérrez Zuluaga, estuvo presente en la entrega del escenario deportivo, la cancha de fútbol Cristo Rey.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "Entretenimiento,Navidad,Mariah Carey,Diciembre,música,Colombia",
   "lead": "Con el paso del tiempo, Carey relacionó la Navidad como parte de su identidad artística.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "Economía,Colpensiones,Pensión en Colombia,Reforma pensional,Gobierno",
   "lead": "Si el trabajador opta por sentirse más cómodo y tener mayor tranquilidad, puede hacer aportaciones de forma individual.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "Internacional,Rusia,Ucrania,conflicto armado,Conflicto diplomático,Guerra,Desaparecidos",
   "lead": "La oferta contemplaba un salario mensual cercano a los 16 millones de pesos y un bono de aproximadamente 100 millones de pesos al finalizar un contrato de ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1106,6 +1106,226 @@
   "fecha": "2026-11-01T11:13:00-05:00",
   "palabras": "Actualidad,Bogotá,TransMilenio,Movilidad sostenible,Secretaría de Movilidad",
   "lead": "La Policía de Tránsito impuso 326 órdenes de comparendo e inmovilizó 101 motocicletas en Bogotá",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La batalla más fuerte del ser humano, su mente: reflexión del pastor César Castellanos",
+  "enlace": "https://www.bluradio.com/sociedad/religion/la-batalla-mas-fuerte-del-ser-humano-su-mente-reflexion-del-pastor-cesar-castellanos-so35",
+  "fecha": "2026-11-01T12:21:03-05:00",
+  "palabras": "Oraciones, Reflexión del día",
+  "lead": "En su reflexión dominical, dijo que la relación sólida con Dios se refleja directamente en el amor y el perdón hacia el prójimo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Expertos exponen los riesgos de la Ley de Rescate Económico: “La parte del IVA hay que hacerla\"",
+  "enlace": "https://www.bluradio.com/economia/expertos-exponen-los-riesgos-de-la-ley-de-rescate-economico-la-parte-del-iva-hay-que-hacerla-so35",
+  "fecha": "2026-11-01T12:26:50-05:00",
+  "palabras": "Reforma tributaria",
+  "lead": "Marcela Eslava y Óscar Darío Pérez fijaron su postura ante la Ley de Rescate Económico impulsada por el Gobierno De La Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia podría dejar de pagar pensiones, salud y salarios si entra en 'default': ex viceministro",
+  "enlace": "https://www.bluradio.com/economia/colombia-podria-dejar-de-pagar-pensiones-salud-y-salarios-si-entra-en-default-ex-viceministro-so35",
+  "fecha": "2026-11-01T12:36:58-05:00",
+  "palabras": "Pensiones, Salud, Reforma tributaria",
+  "lead": "En declaraciones con Blu radio, El exviceministro de Hacienda Juan Alberto Londoño, respaldó las advertencias del vicepresidente y el ministro de Hacienda, sobre las dificultades para financiar el Presupuesto General, además, planteó reparos a algunos puntos del proyecto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El panorama que se avecina tras la Ley de Rescate Económico: Sala de Prensa Blu, 1 de noviembre",
+  "enlace": "https://www.bluradio.com/sala-de-prensa-blu/el-panorama-que-se-avecina-tras-la-ley-de-rescate-economico-sala-de-prensa-blu-1-de-noviembre-so35",
+  "fecha": "2026-11-01T12:57:41-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 1 de noviembre de 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La presencia de Dios para mover el espíritu: la reflexión de monseñor Rafael de Brigard",
+  "enlace": "https://www.bluradio.com/sociedad/religion/la-presencia-de-dios-para-mover-el-espiritu-la-reflexion-de-monsenor-rafael-de-brigard-so35",
+  "fecha": "2026-11-01T13:05:38-05:00",
+  "palabras": "Reflexión del día, Oraciones",
+  "lead": "Monseñor Rafael de Brigard sostuvo que la verdadera hoja de vida ante Dios no se basa en logros mundanos, sino en una fe profunda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abogado de Petro denunció que funcionaria del DAPRE fue requisada desnuda en la Casa de Nariño",
+  "enlace": "https://caracol.com.co/2026/11/01/abogado-de-petro-denuncio-que-funcionaria-del-dapre-fue-requisada-desnuda-en-la-casa-de-narino/",
+  "fecha": "2026-11-01T12:43:44-05:00",
+  "palabras": "",
+  "lead": "Alejandro Carranza pidió una investigación penal y disciplinaria contra los involucrados y no descartó que algunos participantes podrían tener vínculos con la Dirección Nacional de Inteligencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dobla Jam, el karaoke de películas y series que llegó a Colombia y en el que no se canta",
+  "enlace": "https://caracol.com.co/2026/11/01/dobla-jam-el-karaoke-de-peliculas-y-series-que-llego-a-colombia-y-en-el-que-no-se-canta/",
+  "fecha": "2026-11-01T13:01:12-05:00",
+  "palabras": "",
+  "lead": "Creado por el argentino Sebastián Casciani, este formato invita a los participantes a interpretar escenas de películas y telenovelas. Después de llegar a Chía, el proyecto prepara su expansión a Bogotá, Medellín y Cali.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empawer, el restaurante de empanadas en Bogotá que combina sabores del mundo y arte local.",
+  "enlace": "https://caracol.com.co/2026/11/01/empawer-el-restaurante-de-empanadas-en-bogota-que-combina-sabores-del-mundo-y-arte-local/",
+  "fecha": "2026-11-01T12:55:14-05:00",
+  "palabras": "",
+  "lead": "Ubicado en el barrio Modelia, este emprendimiento ofrece desde empanadas de sushi hasta opciones dulces, vegetarianas y veganas. Además, cuenta con una galería y espacios para promover el trabajo de artistas y emprendedores locales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevos ataques israelíes en la Franja de Gaza han dejado ocho muertos",
+  "enlace": "https://caracol.com.co/2026/11/01/nuevos-ataques-israelies-en-la-franja-de-gaza-han-dejado-ocho-muertos/",
+  "fecha": "2026-11-01T12:56:24-05:00",
+  "palabras": "",
+  "lead": "Los bombardeos se registraron en Jan Yunis y la ciudad de Gaza, según los servicios de emergencia palestinos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jaider Enrique Castañeda, el policía de 42 años que falleció en Turbaco, recibió ascenso póstumo",
+  "enlace": "https://caracol.com.co/2026/11/01/jaider-enrique-castaneda-el-policia-de-42-anos-que-fallecio-en-turbaco-recibio-ascenso-postumo/",
+  "fecha": "2026-11-01T12:53:07-05:00",
+  "palabras": "",
+  "lead": "El 23 de septiembre de 2026, el uniformado murió a los 42 años en su vivienda del barrio La Cruz",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuarto toque de queda en Ecuador para reducir la criminalidad",
+  "enlace": "https://caracol.com.co/2026/11/01/cuarto-toque-de-queda-en-ecuador-para-reducir-la-criminalidad/",
+  "fecha": "2026-11-01T12:38:13-05:00",
+  "palabras": "",
+  "lead": "Inicia el cuarto toque de queda del año en el país para combatir la criminalidad en 24 provincias del territorio",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 50 motos inmovilizadas en Barranquilla por incumplir restricciones en Halloween",
+  "enlace": "https://caracol.com.co/2026/11/01/mas-de-50-motos-inmovilizadas-en-barranquilla-por-incumplir-restricciones-en-halloween/",
+  "fecha": "2026-11-01T12:32:57-05:00",
+  "palabras": "",
+  "lead": "Los conductores estaban realizando maniobras peligrosas y violando restricciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ana María Baquero, la ciclista colombiana que recorre Sudamérica en bicicleta rumbo a Ushuaia",
+  "enlace": "https://caracol.com.co/2026/11/01/ana-maria-baquero-la-ciclista-colombiana-que-recorre-sudamerica-en-bicicleta-rumbo-a-ushuaia/",
+  "fecha": "2026-11-01T12:30:47-05:00",
+  "palabras": "",
+  "lead": "Conocida en redes sociales como La Musiclera, la viajera continúa su travesía desde Bolivia hacia Argentina y Chile, con el objetivo de llegar al extremo sur del continente. En el camino también comparte sus experiencias para motivar a otras mujeres a viajar en bicicleta.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogoshorts 2026: más de 300 cortometrajes llegarán a Bogotá del 1 al 8 de diciembre",
+  "enlace": "https://caracol.com.co/2026/11/01/bogoshorts-2026-mas-de-300-cortometrajes-llegaran-a-bogota-del-1-al-8-de-diciembre/",
+  "fecha": "2026-11-01T12:19:12-05:00",
+  "palabras": "",
+  "lead": "La edición 24 del festival reunirá producciones nacionales e internacionales de ficción, animación, documental, terror y ciencia ficción. Entre los seleccionados hay cortometrajes que han pasado por festivales como Venecia y Sitges.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consejo de Seguridad presidencial en Santa Marta para enfrentar la extorsión y el multicrimen",
+  "enlace": "https://caracol.com.co/2026/11/01/consejo-de-seguridad-presidencial-en-santa-marta-para-enfrentar-la-extorsion-y-el-multicrimen/",
+  "fecha": "2026-11-01T12:13:16-05:00",
+  "palabras": "",
+  "lead": "El encuentro, que se prolongó durante varias horas, dejó como prioridad el fortalecimiento de las capacidades del Estado para enfrentar la extorsión y las diferentes manifestaciones del multicrimen, mediante la coordinación de las autoridades y el despliegue de acciones estratégicas en el territorio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Joven de 23 años murió tras ser herido con arma blanca en discoteca de la zona rosa de Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/11/01/joven-de-23-anos-murio-tras-ser-herido-con-arma-blanca-en-discoteca-de-la-zona-rosa-de-bucaramanga/",
+  "fecha": "2026-11-01T12:08:27-05:00",
+  "palabras": "",
+  "lead": "La víctima fue identificada como Jerson Fabián Villalba Murillo. El hecho ocurrió durante una riña al interior de la discoteca Géminis, en el barrio Mejoras Públicas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Frenan transporte de insumos para el narcotráfico",
+  "enlace": "https://www.lafm.com.co/orden-publico/villavicencio-barranca-narcotrafico-insumos-415853",
+  "fecha": "2026-11-01T12:11:00-05:00",
+  "palabras": "Orden Público,Cundinamarca,Meta,vías,Policía Nacional,Narcotráfico",
+  "lead": "El hallazgo se produjo en el kilómetro 65+200 de la vía Villavicencio–Barranca de Upía, en jurisdicción de Paratebueno.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así será el pico y placa regional en Bogotá este puente",
+  "enlace": "https://www.lafm.com.co/sociedad/pico-y-placa-regional-bogota-medidas-primer-puente-noviembre-norma-parrilleros-motos-415852",
+  "fecha": "2026-11-01T12:10:00-05:00",
+  "palabras": "Sociedad,pico y placa en Bogotá,Secretaría de Movilidad,Pico y placa,Motocicletas,Piloto",
+  "lead": "Se impondrán comparendos de $633.200 COP. Según las entidades de seguridad, se impusieron 49 comparendos con inmovilización del vehículo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El Metro de Medellín fue amenazado por las disidencias Farc",
+  "enlace": "https://www.lafm.com.co/orden-publico/medellin-metro-farc-extorsion-epm-hidroituango-415851",
+  "fecha": "2026-11-01T12:09:00-05:00",
+  "palabras": "Orden Público,Amenazas,EPM,junta directiva de EPM,Metrolínea,Medellín, Colombia,disidencias,Disidentes de las Farc",
+  "lead": "Las disidencias de las Farc exigencias llegaron a 5.000 millones de pesos de entrada y 500 millones mensuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Reporte médico: un policía en UCI tras bomba en Algeciras",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-algeciras-huila-reporte-medico-policias-hospital-neiva-415850",
+  "fecha": "2026-11-01T12:09:00-05:00",
+  "palabras": "Orden Público,Parte médico,atentado,Bombas,UCI",
+  "lead": "Hospital de Neiva entrega reporte oficial sobre los dos policías remitidos tras atentado en Algeciras, Huila",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
