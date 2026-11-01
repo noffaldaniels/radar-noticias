@@ -1811,7 +1811,7 @@
   "palabras": "Minería Ilegal, Extorsión",
   "lead": "En el departamento se estima que solamente la minería ilegal genera recursos para grupos armados por más de 5.000 millones de dólares al año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "Ébola, Virus ébola",
   "lead": "Dos casos de malaria fueron confirmados y uno de los pacientes murió el 31 de octubre; otros dos contagios sospechosos siguen bajo seguimiento médico en Valle del Cauca, Cali y Palmira.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "",
   "lead": "El ataque ocurrió hacia las 11:49 de la noche del sábado 31 de octubre, cuando policías adelantaban actividades de registro y control.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "",
   "lead": "El 31 de octubre de 2026 concluyó la 17ª Conferencia de las Partes del Convenio sobre la Diversidad Biológica (COP17) con un acuerdo entre varios países para reactivar los esfuerzos mundiales y proteger la naturaleza.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "",
   "lead": "Tras los casos de presunto feminicidio en Puerto Wilches y violencia sexual contra una niña en Barbosa, las autoridades recuerdan las líneas de denuncia y atención disponibles para las víctimas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "",
   "lead": "Durante los operativos de seguridad, la Policía también incautó cuatro armas de fuego, recuperó cinco motocicletas que habían sido reportadas como hurtadas y aplicó 318 medidas correctivas por comportamientos contrarios a la convivencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "",
   "lead": "La estación policial fue atacada el 14 de julio de 2026 con artefactos explosivos. El atentado dejó tres personas asesinadas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "",
   "lead": "El equipo vallecaucano, ya clasificado, busca asegurar el punto invisible y escalar posiciones en la tabla.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "Internacional,Estados Unidos,Avión,Accidente,vías,explosión",
   "lead": "De acuerdo con los primeros reportes de medios locales, se trataría de un jet privado Learjet 60.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "Internacional,Papa León XIV,Iglesia Católica,Iglesia,Latinoamerica,Argentina,Uruguay,Perú",
   "lead": "El sumo pontífice llega a una región en la que la confialbilidad en la Iglesía Católica ha disminuído en el paso de los años: ¿buscará mejorar su relación ...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,7 +1932,7 @@
   "palabras": "Deportes,Boca Juniors,River Plate,Álvaro Montero,La Bombonera",
   "lead": "Álvaro Montero fue titular en el arco de Boca y completó otro partido sin recibir goles desde su llegada al club.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1943,7 +1943,7 @@
   "palabras": "Economía,Black Friday,compras,Navidad,regalos,SIC",
   "lead": "La SIC exige que las promociones cuenten con la información clara y completa para los compradores",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,7 +1954,7 @@
   "palabras": "Internacional,música,Muertos,México,Estados Unidos",
   "lead": "El artista culminaría 2026 con presentaciones en Estados Unidos y Europa.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Actualidad,Cali, Colombia,Valle del Cauca,malaria,República Democrática del Congo,Palmira,enfermedades",
   "lead": "Las autoridades sostendrán una reunión para revisar pacientes provenientes de África y tomas los protocolos necesarios respecto al ébola.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,6 +1976,83 @@
   "palabras": "Actualidad,Cundinamarca,Alcaldía de Bogotá,Bogotá,vías,Puentes festivo",
   "lead": "La Gobernación de Cundinamarca proyecta la llegada de cerca de 300.000 vehículos por las carreteras del departamento,",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Captan un gigantesco tornado en el mar frente a famosa isla italiana",
+  "enlace": "https://www.bluradio.com/mundo/captan-un-gigantesco-tornado-en-el-mar-frente-a-famosa-isla-italiana-so35",
+  "fecha": "2026-11-01T17:05:59-05:00",
+  "palabras": "Italia, Viral, Clima",
+  "lead": "La enorme columna de agua y viento apareció frente a las costas de Ponza, una isla ubicada en el mar Tirreno, en Italia. Varios testigos lograron registrar el fenómeno.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tragedia aérea en Florida: nueve personas mueren tras estrellarse un avión privado Learjet 60",
+  "enlace": "https://www.bluradio.com/mundo/tragedia-aerea-en-florida-nueve-personas-mueren-tras-estrellarse-un-avion-privado-learjet-60-so35",
+  "fecha": "2026-11-01T16:29:49-05:00",
+  "palabras": "Estados Unidos, Accidentes aéreos, Florida, accidente en Palm Beach, avión Learjet 60",
+  "lead": "La aeronave se precipitó sobre un vecindario cerca de Cresthaven hacia las 12:50 p. m. de este domingo, poco después de despegar de Austin, Texas, con destino a las Bahamas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En octubre se vendieron 123.214 motos nuevas en Colombia: estas fueron las marcas más compradas",
+  "enlace": "https://www.bluradio.com/motor/en-octubre-se-vendieron-123-214-motos-nuevas-en-colombia-estas-fueron-las-marcas-mas-compradas-so35",
+  "fecha": "2026-11-01T16:52:36-05:00",
+  "palabras": "Motos, Motociclistas , ANDI, Fenalco",
+  "lead": "El informe de ANDI y Fenalco reveló cuáles fueron las marcas de motos con más registros en octubre en el país, así como los departamentos que concentraron la mayor cantidad de motocicletas nuevas registradas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ibagué será sede del Concurso Nacional Cacao de Oro del 18 al 19 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/01/ibague-sera-sede-del-concurso-nacional-cacao-de-oro-del-18-al-19-de-noviembre/",
+  "fecha": "2026-11-01T16:57:38-05:00",
+  "palabras": "",
+  "lead": "En el Tolima tiene cerca de 5 mil productores que cosechan 3.732 toneladas de cacao en grano, lo que refleja la importancia de este renglón para la economía rural y el sustento de las familias campesinas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno de Perú exigió explicaciones a Rusia por ciudadanos reclutados para la guerra en Ucrania",
+  "enlace": "https://caracol.com.co/2026/11/01/gobierno-de-peru-exigio-explicaciones-a-rusia-por-ciudadanos-reclutados-para-la-guerra-en-ucrania/",
+  "fecha": "2026-11-01T16:56:46-05:00",
+  "palabras": "",
+  "lead": "Lima busca información sobre peruanos engañados para combatir junto a las tropas rusas en Ucrania.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Director de la Policía Nacional encabezó operativo de seguridad en Algeciras tras ataque terrorista",
+  "enlace": "https://caracol.com.co/2026/11/01/director-de-la-policia-nacional-encabezo-operativo-de-seguridad-en-algeciras-tras-ataque-terrorista/",
+  "fecha": "2026-11-01T16:47:12-05:00",
+  "palabras": "",
+  "lead": "El alto oficial coordinó acciones con autoridades y visitó en Neiva a los policías heridos durante el atentado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Rescate: MinHacienda advierte una crisis y pide discutirla",
+  "enlace": "https://www.lafm.com.co/economia/ley-de-rescate-fiscal-miguel-gomez-petro-crisis-finanzas-publicas-415869",
+  "fecha": "2026-11-01T17:00:00-05:00",
+  "palabras": "Economía,déficit fiscal,Ministerio de Hacienda y Crédito Público,IVA,Impuesto de Renta",
+  "lead": "El ministro de Hacienda advirtió sobre una crisis si no se ajustan las finanzas públicas y defendió los recortes y cambios tributarios del proyecto.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
