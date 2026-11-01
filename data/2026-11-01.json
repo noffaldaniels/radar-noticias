@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "El exministro de Defensa aclaró que no pertenece ni respalda partidos políticos y aseguró que, por ahora, su prioridad es dedicar tiempo a su familia y a su crecimiento personal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "El tiro con arco tiene importantes deportivas en el departamento, lo lamentable es que según Barbosa, no pueden representar al Tolima en Juegos Nacionales por la falta de la creación liga por parte de Indeportes.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "Los operativos de movilidad dejaron más de 3.000 comparendos y 350 vehículos inmovilizados durante la noche del 31 de octubre y la madrugada del primero de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "El Ministerio de Defensa anunció que la capital antioqueña reunirá a 19 países para luchar contra el crimen.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Sociedad,enfermedades,malaria,Coronavirus,desinfección,Enfermeras",
   "lead": "El médico infectólogo y epidemiólogo Carlos Arturo Álvarez Moreno explicó cuáles son las condiciones para detectar un caso de ébola en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,6 +414,182 @@
   "palabras": "Orden Público,atentado,Bombas,ataque explosivo,Halloween",
   "lead": "Atentado con motobomba en la zona rosa de Algeciras (Huila) deja un policía sin vida y siete heridos",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 300 motocicletas inmovilizadas durante los controles de Halloween en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/mas-de-300-motocicletas-inmovilizadas-durante-los-controles-de-halloween-en-bucaramanga-rg10",
+  "fecha": "2026-11-01T08:48:43-05:00",
+  "palabras": "Bucaramanga,  Halloween",
+  "lead": "Las autoridades también reportaron más de 2.000 personas registradas, un vehículo inmovilizado y una motocicleta hurtada recuperada. Los operativos se extendieron a Floridablanca, Girón, Piedecuesta y Lebrija.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un hombre murió tras el desplome de un árbol durante fiestas en Santo Domingo, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/una-persona-murio-tras-el-desplome-de-un-arbol-durante-fiestas-en-santo-domingo-antioquia-rg10",
+  "fecha": "2026-11-01T08:39:26-05:00",
+  "palabras": "Seguridad ciudadana",
+  "lead": "Versiones indican que ya había reportes sobre el riesgo que representaba este ejemplar, mientras que la Alcaldía indicó que avanzaba en intervenciones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Los 20 carros más vendidos en Colombia en junio de 2026: Kia K3 lídero la lista",
+  "enlace": "https://www.bluradio.com/motor/los-20-carros-mas-vendidos-en-colombia-en-octubre-de-2026-so35",
+  "fecha": "2026-11-01T08:44:16-05:00",
+  "palabras": "Kia, Tesla, Renault, Fenalco, Toyota",
+  "lead": "El mercado automotor colombiano se mantiene fuerte en octubre con un total de 32 175 vehículos nuevos, a pesar de su decremento con respecto a septiembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumentó a 85 el número de edificaciones que serán demolidas en Cali tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/11/01/aumento-a-85-el-numero-de-edificaciones-que-seran-demolidas-en-cali-tras-el-terremoto/",
+  "fecha": "2026-11-01T09:05:04-05:00",
+  "palabras": "",
+  "lead": "Las intervenciones avanzan en diferentes sectores de la ciudad y se prepara la implosión de los edificios Laureles y Ana Pilar.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kbeto Zuleta despertó y reconoció a varias personas: “fue extubado exitosamente”",
+  "enlace": "https://caracol.com.co/2026/11/01/kbeto-zuleta-desperto-y-reconocio-a-varias-personas-desperto-espontaneamente-y-fue-extubado/",
+  "fecha": "2026-11-01T08:57:58-05:00",
+  "palabras": "",
+  "lead": "El artista vallenato permanece en una Unidad de Cuidados Intensivos en una clínica en Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno francés confirmó que se produjeron 779 arrestos en las protestas del 31 de octubre",
+  "enlace": "https://caracol.com.co/2026/11/01/gobierno-frances-confirmo-que-se-produjeron-779-arrestos-en-las-protestas-del-31-de-octubre/",
+  "fecha": "2026-11-01T08:59:18-05:00",
+  "palabras": "",
+  "lead": "Las cifras definitivas las ofreció el ministerio de Interior francés y son bastante inferiores a los 1.314 arrestos de las movilizaciones del sábado de la semana pasada.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DT de Santa Fe Femenino, crítico con Conmebol: “Esto no es una Libertadores, es un Sudamericano”",
+  "enlace": "https://caracol.com.co/2026/11/01/dt-de-santa-fe-femenino-critico-con-conmebol-esto-no-es-una-libertadores-es-un-sudamericano/",
+  "fecha": "2026-11-01T08:58:11-05:00",
+  "palabras": "",
+  "lead": "Omar Ramírez aseguró que Conmebol debe cambiar el formato de la competición para que haya crecimiento en el fútbol femenino de la región.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "España aprobará ayudas a afectados por accidente ferroviario en Toledo que dejó 69 muertos",
+  "enlace": "https://caracol.com.co/2026/11/01/espana-aprobara-ayudas-a-afectados-por-accidente-ferroviario-en-toledo-que-dejo-69-muertos/",
+  "fecha": "2026-11-01T08:53:16-05:00",
+  "palabras": "",
+  "lead": "De las 69 víctimas mortales del accidente de Urda, que involucró a dos trenes en los que viajaban un total de 525 personas, 56 ya han sido identificadas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Halloween en Bogotá: más de 300 comparendos y reducción de homicidios en 50%",
+  "enlace": "https://caracol.com.co/2026/11/01/halloween-en-bogota-mas-de-300-comparendos-y-reduccion-de-homicidios-en-50/",
+  "fecha": "2026-11-01T08:40:07-05:00",
+  "palabras": "",
+  "lead": "Bogotá cerro el mes de octubre con 20 homicidios menos, comparado con el año 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía judicializó a 10 integrantes de ‘Los Boyacos’, señalados de homicidios en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/01/fiscalia-judicializo-a-10-integrantes-de-los-boyacos-senalados-de-homicidios-en-bogota/",
+  "fecha": "2026-11-01T08:39:43-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía también identificó un componente sicarial que estaría bajo las órdenes de alias ‘Carramán’ y ‘Drilococo’.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Disidencias, responsables del atentado en Algeciras, Huila",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-motobomba-algeciras-huila-disiencias-farc-un-muerto-nueve-heridos-colombia-415834",
+  "fecha": "2026-11-01T09:10:00-05:00",
+  "palabras": "Orden Público,disidencias,Policía Nacional,atentado,ataque explosivo,Huila,Iván Mordisco,Calarcá,Ministerio de Defensa",
+  "lead": "La Policía Nacional rechazó este ataque terrorista de los grupos armados y lamentó el asesinato del patrullero Julián Smith Castaño López.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "David Alonso conquista el GP de Malasia; segunda victoria",
+  "enlace": "https://www.lafm.com.co/deportes/david-alonso-triunfa-moto2-malasia-segunda-victoria-2026-415839",
+  "fecha": "2026-11-01T09:09:00-05:00",
+  "palabras": "Deportes,Moto GP,Motociclistas,Motocicletas,Carreras,GP",
+  "lead": "El colombiano confirmó su buen momento deportivo con una victoria que le permitió demostrar su capacidad para competir bajo presión.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Operativo en Kennedy deja seis establecimientos cerrados",
+  "enlace": "https://www.lafm.com.co/orden-publico/bogota-menores-encontrados-establecimientos-clandestinos-fachada-sindical-415814",
+  "fecha": "2026-11-01T09:00:00-05:00",
+  "palabras": "Orden Público,Bogotá,Operación,Policía Nacional,Ministerio del Trabajo",
+  "lead": "La intervención se llevó a cabo en la localidad de Kennedy, en el sector de la avenida Primero de Mayo",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Antioquia propone reducir a 7 los ministerios para ahorrar",
+  "enlace": "https://www.lafm.com.co/sociedad/antioquia-gobernador-propone-abelardo-de-la-espriella-reducir-ministerios-415838",
+  "fecha": "2026-11-01T08:22:00-05:00",
+  "palabras": "Sociedad,Gobernación de Antioquia,administración de recursos,Abelardo de la Espriella,Antioquia",
+  "lead": "Según el mandatario, la Nación, los departamentos y los municipios tienen hoy funciones duplicadas, y deberían eliminarlas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SPEC recupera capacidad de regasificación tras falla de gas",
+  "enlace": "https://www.lafm.com.co/economia/spec-planta-cartagena-racionamiento-gas-415837",
+  "fecha": "2026-11-01T08:17:00-05:00",
+  "palabras": "Economía,Gas natural,Ministerio de Minas y Energía,Desabastecimiento de gas natural,Racionamiento de energía,Cartagena",
+  "lead": "La planta regasificadora confirmó que la terminal volvió a operar con una capacidad de 533 millones de pies cúbicos diarios, los trabajos terminaron antes ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "KBeto Zuleta da señales de recuperación, lo extubaron",
+  "enlace": "https://www.lafm.com.co/actualidad/kbeto-zuleta-muestra-senales-recuperacion-accidente-vallenato-poncho-zuleta-415836",
+  "fecha": "2026-11-01T08:17:00-05:00",
+  "palabras": "Actualidad,Poncho Zuleta,Vallenato,Cantante de Vallenato,Accidente,Barranquilla",
+  "lead": "\"Es un milagro\": KBeto Zuleta comienza a reaccionar y su familia rompe el silencio sobre su recuperación",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
