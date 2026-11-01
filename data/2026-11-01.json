@@ -425,7 +425,7 @@
   "palabras": "Bucaramanga,  Halloween",
   "lead": "Las autoridades también reportaron más de 2.000 personas registradas, un vehículo inmovilizado y una motocicleta hurtada recuperada. Los operativos se extendieron a Floridablanca, Girón, Piedecuesta y Lebrija.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Seguridad ciudadana",
   "lead": "Versiones indican que ya había reportes sobre el riesgo que representaba este ejemplar, mientras que la Alcaldía indicó que avanzaba en intervenciones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "Kia, Tesla, Renault, Fenalco, Toyota",
   "lead": "El mercado automotor colombiano se mantiene fuerte en octubre con un total de 32 175 vehículos nuevos, a pesar de su decremento con respecto a septiembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "Las intervenciones avanzan en diferentes sectores de la ciudad y se prepara la implosión de los edificios Laureles y Ana Pilar.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "El artista vallenato permanece en una Unidad de Cuidados Intensivos en una clínica en Barranquilla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "Las cifras definitivas las ofreció el ministerio de Interior francés y son bastante inferiores a los 1.314 arrestos de las movilizaciones del sábado de la semana pasada.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "Omar Ramírez aseguró que Conmebol debe cambiar el formato de la competición para que haya crecimiento en el fútbol femenino de la región.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "De las 69 víctimas mortales del accidente de Urda, que involucró a dos trenes en los que viajaban un total de 525 personas, 56 ya han sido identificadas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "Bogotá cerro el mes de octubre con 20 homicidios menos, comparado con el año 2025.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "La Fiscalía también identificó un componente sicarial que estaría bajo las órdenes de alias ‘Carramán’ y ‘Drilococo’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Orden Público,disidencias,Policía Nacional,atentado,ataque explosivo,Huila,Iván Mordisco,Calarcá,Ministerio de Defensa",
   "lead": "La Policía Nacional rechazó este ataque terrorista de los grupos armados y lamentó el asesinato del patrullero Julián Smith Castaño López.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "Deportes,Moto GP,Motociclistas,Motocicletas,Carreras,GP",
   "lead": "El colombiano confirmó su buen momento deportivo con una victoria que le permitió demostrar su capacidad para competir bajo presión.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "Orden Público,Bogotá,Operación,Policía Nacional,Ministerio del Trabajo",
   "lead": "La intervención se llevó a cabo en la localidad de Kennedy, en el sector de la avenida Primero de Mayo",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "Sociedad,Gobernación de Antioquia,administración de recursos,Abelardo de la Espriella,Antioquia",
   "lead": "Según el mandatario, la Nación, los departamentos y los municipios tienen hoy funciones duplicadas, y deberían eliminarlas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "Economía,Gas natural,Ministerio de Minas y Energía,Desabastecimiento de gas natural,Racionamiento de energía,Cartagena",
   "lead": "La planta regasificadora confirmó que la terminal volvió a operar con una capacidad de 533 millones de pies cúbicos diarios, los trabajos terminaron antes ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,6 +590,116 @@
   "palabras": "Actualidad,Poncho Zuleta,Vallenato,Cantante de Vallenato,Accidente,Barranquilla",
   "lead": "\"Es un milagro\": KBeto Zuleta comienza a reaccionar y su familia rompe el silencio sobre su recuperación",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santa Marta: cuestionan a la red de ambulancias por muerte de dos niños en un incendio",
+  "enlace": "https://www.bluradio.com/regiones/caribe/santa-marta-cuestionan-a-la-red-de-ambulancias-por-muerte-de-dos-ninos-en-un-incendio-rg10",
+  "fecha": "2026-11-01T09:18:35-05:00",
+  "palabras": "Santa Marta, Magdalena, Incendio, Ambulancias",
+  "lead": "La secretaria de Movilidad, Sara Vives, pidió investigar a las unidades de asistencia médica que presuntamente no atendieron oportunamente el incendio donde tres personas murieron.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estados Unidos exigirá nuevo documento obligatorio a viajeros: no podrán ni subir al avión",
+  "enlace": "https://www.bluradio.com/turismo/estados-unidos-exigira-nuevo-documento-obligatorio-a-viajeros-los-podrian-bajar-del-avion-so35",
+  "fecha": "2026-11-01T09:38:32-05:00",
+  "palabras": "Estados Unidos, Ébola, Viajes",
+  "lead": "La declaración deberá diligenciarse de manera individual y su ausencia podría ocasionar sanciones desde el 3 de noviembre.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Condenadas a 25 años dos personas involucradas en el asesinato de Alessandro Coatti en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/01/condenadas-a-25-anos-dos-personas-involucradas-en-el-asesinato-de-alessandro-coatti-en-santa-marta/",
+  "fecha": "2026-11-01T09:48:09-05:00",
+  "palabras": "",
+  "lead": "Los dos hombres aceptaron su responsabilidad en el crimen, cometido en abril de 2025. La víctima fue contactada mediante una red social, trasladada en medio de engaños a una vivienda y agredida hasta causarle la muerte.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a cuatro integrantes de ‘La Terraza’, ‘Caicedo’ y ‘El Mesa’ en Medellín y Bello",
+  "enlace": "https://caracol.com.co/2026/11/01/capturan-a-cuatro-integrantes-de-la-terraza-caicedo-y-el-mesa-en-medellin-y-bello/",
+  "fecha": "2026-11-01T09:45:41-05:00",
+  "palabras": "",
+  "lead": "Los procesados deberán responder por los delitos de hurto y tráfico de sustancias estupefacientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fecode llama al magisterio a mantenerse en máxima alerta por cambios en el FOMAG",
+  "enlace": "https://caracol.com.co/2026/11/01/fecode-llama-al-magisterio-a-mantenerse-en-maxima-alerta-por-cambios-en-el-fomag/",
+  "fecha": "2026-11-01T09:34:24-05:00",
+  "palabras": "",
+  "lead": "La Federación Colombiana de Trabajadores de la Educación pidió garantizar la continuidad de los servicios médicos y las prestaciones sociales de los docentes, ante la próxima liquidación del contrato fiduciario del FOMAG.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sin novedades se realizó la caravana de moteros en Armenia por la celebración de Halloween",
+  "enlace": "https://caracol.com.co/2026/11/01/sin-novedades-se-realizo-la-caravana-de-moteros-en-armenia-por-la-celebracion-de-halloween/",
+  "fecha": "2026-11-01T09:18:46-05:00",
+  "palabras": "",
+  "lead": "Las autoridades entregaron un balance positivo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades de salud en Caldas invierten más de $ 2.000 millones en hospital afectado por terremoto",
+  "enlace": "https://caracol.com.co/2026/11/01/autoridades-de-salud-en-caldas-invierten-mas-de-2000-millones-en-hospital-afectado-por-terremoto/",
+  "fecha": "2026-11-01T09:14:29-05:00",
+  "palabras": "",
+  "lead": "La Dirección Territorial de Salud de Caldas (DTSC), invirtió más de $ 2.504.383.370 para fortalecer la capacidad de atención de la E.S.E. Hospital Departamental Universitario Santa Sofía de Caldas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Las señales de desgaste de Trump antes de las midterms 2026",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-medio-termino-eeuu-donald-trump-pierde-respaldo-votantes-hispanos-415844",
+  "fecha": "2026-11-01T10:04:00-05:00",
+  "palabras": "Internacional,Elecciones presidenciales,Donald Trump,conteo de votos,Recuento de votos,Estados Unidos",
+  "lead": "En esta jornada se renovarán los 435 escaños de la Cámara de Representantes y 35 de los 100 puestos del Senado, además de disputarse diferentes cargos esta...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Deben prohibirse los criaderos de animales en Colombia?",
+  "enlace": "https://www.lafm.com.co/sociedad/criaderos-animales-domesticos-prohibicion-total-colombia-repercusiones-415841",
+  "fecha": "2026-11-01T09:40:00-05:00",
+  "palabras": "Sociedad,Animales,Congreso de la República,decreto,Bienes inmuebles,Senado de la República",
+  "lead": "Julio Olaya, presidente de AMEVEC, manifestó su preocupación por uno de los artículos de la denominada Ley 02 de 2025, que contempla la prohibición de todo...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría exige proteger Ataco tras hallazgo de 5 muertos",
+  "enlace": "https://www.lafm.com.co/orden-publico/ataco-tolima-muertos-secuestrados-procuraduria-llamado-415843",
+  "fecha": "2026-11-01T09:29:00-05:00",
+  "palabras": "Orden Público,Tolima,Disidentes de las Farc,Secuestros,Procuraduría General de la Nación",
+  "lead": "Procuraduría requiere a la fuerza pública por violencia en Ataco (Tolima) tras confirmarse la muerte de cinco secuestrados",
+  "seccion": "tolima",
   "nueva": true,
   "tambien": []
  }
