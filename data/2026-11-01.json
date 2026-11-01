@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "Indican que las medidas de seguridad pueden generar mayor confianza entre los ciudadanos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "SPEC LNG recuperó su capacidad disponible de 533 millones de pies cúbicos por día, después de concluir los trabajos correctivos en uno de los cuatro trenes de regasificación",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -204,6 +204,39 @@
   "fecha": "2026-11-01T06:04:01-05:00",
   "palabras": "",
   "lead": "Otros países europeos se han sumado a la operación para estabilizar el mercado.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fenalco Norte de Santander pide equidad en incentivos tributarios para empresarios de Cúcuta",
+  "enlace": "https://caracol.com.co/2026/11/01/fenalco-norte-de-santander-pide-equidad-en-incentivos-tributarios-para-empresarios-de-cucuta/",
+  "fecha": "2026-11-01T06:35:00-05:00",
+  "palabras": "",
+  "lead": "El gremio respalda la propuesta de la Alcaldía de otorgar beneficios en los impuestos Predial e Industria y Comercio a las nuevas empresas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las autoridades intervienen seis minas ilegales de oro al occidente de Caldas, hubo cinco capturas",
+  "enlace": "https://caracol.com.co/2026/11/01/las-autoridades-intervienen-seis-minas-ilegales-de-oro-al-occidente-de-caldas-hubo-cinco-capturas/",
+  "fecha": "2026-11-01T06:23:58-05:00",
+  "palabras": "",
+  "lead": "La operación afectó economías ilícitas de aproximadamente 89 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La terminal de regasificación de Cartagena restableció su capacidad",
+  "enlace": "https://caracol.com.co/2026/11/01/la-terminal-de-regasificacion-de-cartagena-restablecio-su-capacidad/",
+  "fecha": "2026-11-01T06:05:23-05:00",
+  "palabras": "",
+  "lead": "SPEC LNG recuperó su capacidad disponible de 533 millones de pies cúbicos por día, después de concluir los trabajos correctivos en uno de los cuatro trenes de regasificación",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
