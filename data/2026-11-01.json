@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "El gremio respalda la propuesta de la Alcaldía de otorgar beneficios en los impuestos Predial e Industria y Comercio a las nuevas empresas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "La operación afectó economías ilícitas de aproximadamente 89 millones de pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -237,6 +237,28 @@
   "fecha": "2026-11-01T06:05:23-05:00",
   "palabras": "",
   "lead": "SPEC LNG recuperó su capacidad disponible de 533 millones de pies cúbicos por día, después de concluir los trabajos correctivos en uno de los cuatro trenes de regasificación",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La costosa herencia de Escobar: $1.427 millones y solo 20 hipopótamos esterilizados",
+  "enlace": "https://caracol.com.co/2026/10/30/la-costosa-herencia-de-escobar-1427-millones-y-solo-20-hipopotamos-esterilizados/",
+  "fecha": "2026-11-01T07:00:00-05:00",
+  "palabras": "",
+  "lead": "Casi la mitad del gasto por esterilización se fue en las cirugías y un segundo convenio, firmado en 2025 con Corpoboyacá por $618 millones, sigue en ejecución sin resultados informados. Esta es la historia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "David Alonso puso a sonar el himno de Colombia en el GP de Malasia: así fue su victoria en Moto2",
+  "enlace": "https://caracol.com.co/2026/11/01/david-alonso-puso-a-sonar-el-himno-de-colombia-en-el-gp-de-malasia-asi-fue-su-victoria-en-moto2/",
+  "fecha": "2026-11-01T06:51:03-05:00",
+  "palabras": "",
+  "lead": "El colombiano logró su segundo triunfo en la temporada 2026 de la segunda categoría del motociclismo.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
