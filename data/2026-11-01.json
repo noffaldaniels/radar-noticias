@@ -601,7 +601,7 @@
   "palabras": "Santa Marta, Magdalena, Incendio, Ambulancias",
   "lead": "La secretaria de Movilidad, Sara Vives, pidió investigar a las unidades de asistencia médica que presuntamente no atendieron oportunamente el incendio donde tres personas murieron.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "Estados Unidos, Ébola, Viajes",
   "lead": "La declaración deberá diligenciarse de manera individual y su ausencia podría ocasionar sanciones desde el 3 de noviembre.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Los dos hombres aceptaron su responsabilidad en el crimen, cometido en abril de 2025. La víctima fue contactada mediante una red social, trasladada en medio de engaños a una vivienda y agredida hasta causarle la muerte.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Los procesados deberán responder por los delitos de hurto y tráfico de sustancias estupefacientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "La Federación Colombiana de Trabajadores de la Educación pidió garantizar la continuidad de los servicios médicos y las prestaciones sociales de los docentes, ante la próxima liquidación del contrato fiduciario del FOMAG.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Las autoridades entregaron un balance positivo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "La Dirección Territorial de Salud de Caldas (DTSC), invirtió más de $ 2.504.383.370 para fortalecer la capacidad de atención de la E.S.E. Hospital Departamental Universitario Santa Sofía de Caldas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "Internacional,Elecciones presidenciales,Donald Trump,conteo de votos,Recuento de votos,Estados Unidos",
   "lead": "En esta jornada se renovarán los 435 escaños de la Cámara de Representantes y 35 de los 100 puestos del Senado, además de disputarse diferentes cargos esta...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Sociedad,Animales,Congreso de la República,decreto,Bienes inmuebles,Senado de la República",
   "lead": "Julio Olaya, presidente de AMEVEC, manifestó su preocupación por uno de los artículos de la denominada Ley 02 de 2025, que contempla la prohibición de todo...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,6 +700,226 @@
   "palabras": "Orden Público,Tolima,Disidentes de las Farc,Secuestros,Procuraduría General de la Nación",
   "lead": "Procuraduría requiere a la fuerza pública por violencia en Ataco (Tolima) tras confirmarse la muerte de cinco secuestrados",
   "seccion": "tolima",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Condenan a mujer de 68 años por extorsionar a agricultor de Lebrija; exigía $350 millones",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/condenan-a-mujer-de-68-anos-por-extorsionar-a-agricultor-de-lebrija-exigia-350-millones-rg10",
+  "fecha": "2026-11-01T10:43:18-05:00",
+  "palabras": "Bucaramanga, CTI de la Fiscalía, Extorsión",
+  "lead": "La víctima y sus familiares recibieron llamadas de personas que se identificaban como integrantes de ‘Los Pajaritos’. Una de las exigencias llegó por medio de una carta entregada a una de sus hijas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Baranoa: restringen circulación vehicular por desfile del Día de los Angelitos",
+  "enlace": "https://www.bluradio.com/regiones/caribe/baranoa-restringen-circulacion-vehicular-por-desfile-del-dia-de-los-angelitos-rg10",
+  "fecha": "2026-11-01T10:29:19-05:00",
+  "palabras": "Baranoa, Atlántico, Carnaval de Barranquilla, Barranquilla",
+  "lead": "La Banda de Baranoa encabeza el desfile que parte hoy a las 11:00 de la mañana. La restricción vehicular va de 10 de la mañana, hasta las 2:00 de la tarde en el municipio y sus corregimientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan en Medellín y Bello a presuntos integrantes de las bandas Caicedo, La Terraza y El Mesa",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/capturan-en-medellin-y-bello-a-presuntos-integrantes-de-las-bandas-caicedo-la-terraza-y-el-mesa-rg10",
+  "fecha": "2026-11-01T10:33:44-05:00",
+  "palabras": "Bello, Medellín, Dijín",
+  "lead": "Estas personas son señaladas de conductas como defraudación de fluidos, tráfico de estupefacientes y hurtos a extranjeros en El Poblado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Deslizamiento de rocas obligó a modificar el Giro de Rigo: corredores tomaron ruta alterna",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/deslizamiento-de-rocas-obligo-a-modificar-el-giro-de-rigo-corredores-debieron-tomar-ruta-alterna-rg10",
+  "fecha": "2026-11-01T10:15:26-05:00",
+  "palabras": "Giro de Rigo, Cali, Valle del Cauca",
+  "lead": "Se espera que la carrera finalice alrededor del mediodía, con la llegada de la totalidad de los participantes al centro de eventos Valle del Pacifico, en el municipio de Yumbo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murió joven apuñalado en riña en discoteca de Bucaramanga en la noche de Halloween",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/murio-joven-apunalado-en-rina-en-discoteca-de-bucaramanga-en-la-noche-de-halloween-rg10",
+  "fecha": "2026-11-01T11:01:36-05:00",
+  "palabras": "Bucaramanga, Policía Nacional,  Halloween",
+  "lead": "La víctima recibió una herida en el cuello durante una riña en una discoteca, ubicada en el barrio Mejoras Públicas. Un hombre que vestía un buzo blanco con capota es señalado de atacarlo con cuchillo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia podría entrar en default en 2027 si no se aprueba la Ley de Rescate Económico: Gobierno",
+  "enlace": "https://www.bluradio.com/nacion/colombia-podria-entrar-en-default-en-2027-si-no-se-aprueba-la-ley-de-rescate-economico-gobierno-rg10",
+  "fecha": "2026-11-01T10:40:18-05:00",
+  "palabras": "José Manuel Restrepo, Reforma tributaria",
+  "lead": "El vicepresidente y el ministro de Hacienda aseguran que, de no aprobarse el proyecto fiscal, el próximo año habrá dificultades para financiar el Presupuesto General y mantener la operación del Estado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ministerio de Defensa reporta 82 casos de presunta corrupción por $155.000 millones",
+  "enlace": "https://www.bluradio.com/nacion/ministerio-de-defensa-reporta-82-casos-de-presunta-corrupcion-por-155-000-millones-rg10",
+  "fecha": "2026-11-01T10:55:40-05:00",
+  "palabras": "Ministerio de Defensa, Corrupción",
+  "lead": "El ministro de Defensa aseguró que de los 82 reportes de presuntas irregularidades en el sector, 41 ya fueron trasladados a las autoridades como denuncias formales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día: resultado del último sorteo hoy domingo 1 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-resultado-del-ultimo-sorteo-hoy-domingo-1-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-01T11:10:16-05:00",
+  "palabras": "Chontico Día, Resultados del chanche, Chances y Loterías",
+  "lead": "El chance Chontico Día juega todos los días a la 1:00 p. m. Consulte aquí el número ganador de hoy, domingo 1 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mis Preguntas, con Roberto Pombo: ¿Qué pasa si se reduce el Estado?",
+  "enlace": "https://caracol.com.co/2026/11/01/mis-preguntas-con-roberto-pombo-que-pasa-si-se-reduce-el-estado/",
+  "fecha": "2026-11-01T11:00:00-05:00",
+  "palabras": "",
+  "lead": "En el episodio 214 de Mis Preguntas, con Roberto Pombo, hablamos sobre el recorte del Estado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Halloween en Medellín dejó más de 2.100 comparendos y 500 motos inmovilizadas",
+  "enlace": "https://caracol.com.co/2026/11/01/halloween-en-medellin-dejo-mas-de-2100-comparendos-y-500-motos-inmovilizadas/",
+  "fecha": "2026-11-01T10:55:34-05:00",
+  "palabras": "",
+  "lead": "Las autoridades realizaron operativos de tránsito y seguridad en diferentes sectores de Medellín durante la celebración de Halloween.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel fue enviado un presunto abusador serial de menores de edad en el Quindío",
+  "enlace": "https://caracol.com.co/2026/11/01/a-la-carcel-fue-enviado-un-presunto-abusador-serial-de-menores-de-edad-en-el-quindio/",
+  "fecha": "2026-11-01T10:38:00-05:00",
+  "palabras": "",
+  "lead": "En uno de los casos, el procesado habría asesinado a un menor de 12 años",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "VIDEO | Operativos en Halloween en Bucaramanga dejan 4 capturados y más de 200 motos inmovilizadas",
+  "enlace": "https://caracol.com.co/2026/11/01/video-operativos-en-halloween-en-bucaramanga-dejan-4-capturados-y-mas-de-200-motos-inmovilizadas/",
+  "fecha": "2026-11-01T10:21:45-05:00",
+  "palabras": "",
+  "lead": "Una mujer fue capturada tras arrollar a policías cuando intentaba evadir un puesto de control.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos toneladas de clorhidrato de cocaína incautadas en operación combinada con Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/11/01/dos-toneladas-de-clorhidrato-de-cocaina-incautadas-en-operacion-combinada-con-estados-unidos/",
+  "fecha": "2026-11-01T10:23:05-05:00",
+  "palabras": "",
+  "lead": "Armada Nacional dio Golpe al narcotráfico en aguas del Caribe colombiano",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cero accidentes fatales en la noche de Halloween en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/01/cero-accidentes-fatales-en-la-noche-de-halloween-en-cartagena/",
+  "fecha": "2026-11-01T10:19:16-05:00",
+  "palabras": "",
+  "lead": "Más de 307 comparendos y 253 vehículos inmovilizados deja el balance de los controles realizados en Cartagena durante la noche de los niños",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por segundo año consecutivo, Cartagena vivió un Halloween sin ‘Rodada del Terror’",
+  "enlace": "https://caracol.com.co/2026/11/01/por-segundo-ano-consecutivo-cartagena-vivio-un-halloween-sin-rodada-del-terror/",
+  "fecha": "2026-11-01T10:15:24-05:00",
+  "palabras": "",
+  "lead": "Alcalde Dumek Turbay agradece compromiso del gremio motero",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Rosa de Lima participó por segundo año consecutivo en Colombia Travel Expo 2026",
+  "enlace": "https://caracol.com.co/2026/11/01/santa-rosa-de-lima-participo-por-segundo-ano-consecutivo-en-colombia-travel-expo-2026/",
+  "fecha": "2026-11-01T10:12:06-05:00",
+  "palabras": "",
+  "lead": "El municipio llevó una muestra de su gastronomía tradicional, artesanías en caña flecha y expresiones culturales para promover su identidad y atraer nuevos visitantes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tutela le permitirá a egresada de la UPTC votar electrónicamente en elección de rector",
+  "enlace": "https://caracol.com.co/2026/11/01/tutela-le-permitira-a-egresada-de-la-uptc-votar-electronicamente-en-eleccion-de-rector/",
+  "fecha": "2026-11-01T10:08:28-05:00",
+  "palabras": "",
+  "lead": "Emma Ávila Garavito obtuvo una medida provisional que ordena a la universidad definir, en un plazo de 48 horas, el mecanismo para garantizarle el voto electrónico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 5.000 niños disfrutaron del Día de los Niños con Dulce y Aventura en Clemencia",
+  "enlace": "https://caracol.com.co/2026/11/01/mas-de-5000-ninos-disfrutaron-del-dia-de-los-ninos-con-dulce-y-aventura-en-clemencia/",
+  "fecha": "2026-11-01T10:08:21-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía llevó la celebración a los corregimientos de Piñique y Las Caras, así como a El Socorro y la cabecera municipal, para garantizar que los niños y niñas de todo el territorio disfrutaran de tres días de alegría, recreación y diversión",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Estrategia BOSUR golpea a los Caicedo, La Terraza y El Mesa",
+  "enlace": "https://www.lafm.com.co/orden-publico/bosur-capturados-caicedo-mesa-terraza-policia-antioquia-colombia-415842",
+  "fecha": "2026-11-01T10:33:00-05:00",
+  "palabras": "Orden Público,Interpol,Dijín,Policía Nacional,Antioquia,Narcotráfico,hurto,Extorsión",
+  "lead": "La Dirección de Investigación Criminal e Interpol capturó a cuatro integrantes pertenecientes a estos tres grupos delincuenciales organizados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Una mujer y una niña fueron halladas sin vida en Chocó",
+  "enlace": "https://www.lafm.com.co/orden-publico/choco-san-jose-del-palmar-feminicidio-mujer-nina-415847",
+  "fecha": "2026-11-01T10:25:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Chocó,Secretaría de la Mujer,actos violentos,Asesinato",
+  "lead": "Por su parte, la Personería calificó lo sucedido como un acto atroz que deja dos víctimas fatales y una lesionada.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
