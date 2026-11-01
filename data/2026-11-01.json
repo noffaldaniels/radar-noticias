@@ -271,7 +271,7 @@
   "palabras": "Gobierno nacional, Andrés Julián Rendón, Presupuesto Nacional",
   "lead": "Durante un reciente encuentro, Andrés Julián Rendón planteó al presidente Abelardo De La Espriella tres iniciativas que permitirían aliviar la situación financiera del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "Ébola, Cali",
   "lead": "Las autoridades sostendrán una reunión para revisar pacientes provenientes de África y tomas los protocolos necesarios respecto al ébola.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "Temblor hoy, Océano Pacífico, Santander",
   "lead": "El Servicio Geológico Colombiano reportó movimientos telúricos en varias regiones del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "El veedor de salud Fabio Andrés Olarte señaló que cerca de 200 trabajadores estarían afectados y pidió la intervención de los ministerios de Trabajo y Salud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "La proyección es de 8 millones de kilos de café de pergamino seco",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Adriana Matiz advirtió que no se puede permitir que en los territorios que durante décadas sufrieron por la guerra terminen sometidos a nuevas formas de criminalidad que atentan contra la tranquilidad de los pobladores en algunos municipios.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Nicolás Rodríguez recibió críticas en redes sociales por utilizar un atuendo camuflado durante la celebración del equipo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,6 +348,72 @@
   "palabras": "Internacional,Papa León XIV,sudamerica,Vaticano,Perú,Iglesia Católica",
   "lead": "El papa encabezará más de 50 actos en Uruguay, Argentina y Perú.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pedro Sánchez descarta aspirar a la Gobernación de Boyacá: “No tengo aspiraciones políticas”",
+  "enlace": "https://caracol.com.co/2026/11/01/pedro-sanchez-descarta-aspirar-a-la-gobernacion-de-boyaca-no-tengo-aspiraciones-politicas/",
+  "fecha": "2026-11-01T08:14:10-05:00",
+  "palabras": "",
+  "lead": "El exministro de Defensa aclaró que no pertenece ni respalda partidos políticos y aseguró que, por ahora, su prioridad es dedicar tiempo a su familia y a su crecimiento personal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daniel Barbosa, un médico veterinario que lucha por el tiro con arco en el Tolima",
+  "enlace": "https://caracol.com.co/2026/11/01/daniel-barbosa-un-medico-veterinario-que-lucha-por-el-tiro-con-arco-en-el-tolima/",
+  "fecha": "2026-11-01T08:12:38-05:00",
+  "palabras": "",
+  "lead": "El tiro con arco tiene importantes deportivas en el departamento, lo lamentable es que según Barbosa, no pueden representar al Tolima en Juegos Nacionales por la falta de la creación liga por parte de Indeportes.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Masiva caravana de motociclistas marcó la noche de Halloween en Cali",
+  "enlace": "https://caracol.com.co/2026/11/01/masiva-caravana-de-motociclistas-marco-la-noche-de-halloween-en-cali/",
+  "fecha": "2026-11-01T08:05:00-05:00",
+  "palabras": "",
+  "lead": "Los operativos de movilidad dejaron más de 3.000 comparendos y 350 vehículos inmovilizados durante la noche del 31 de octubre y la madrugada del primero de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín será sede de cumbre contra carteles de las Américas liderada por Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/11/01/medellin-sera-sede-de-cumbre-contra-carteles-de-las-americas-liderada-por-estados-unidos/",
+  "fecha": "2026-11-01T08:04:34-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Defensa anunció que la capital antioqueña reunirá a 19 países para luchar contra el crimen.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Puede llegar el ébola a Colombia? Esto dice un infectólogo",
+  "enlace": "https://www.lafm.com.co/sociedad/ebola-brote-colombia-es-posible-caso-palmira-malaria-claves-415835",
+  "fecha": "2026-11-01T08:21:00-05:00",
+  "palabras": "Sociedad,enfermedades,malaria,Coronavirus,desinfección,Enfermeras",
+  "lead": "El médico infectólogo y epidemiólogo Carlos Arturo Álvarez Moreno explicó cuáles son las condiciones para detectar un caso de ébola en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Un policía muerto y 7 heridos tras atentado en Algeciras",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-motobomba-algeciras-huila-policia-muerto-heridos-415833",
+  "fecha": "2026-11-01T07:29:00-05:00",
+  "palabras": "Orden Público,atentado,Bombas,ataque explosivo,Halloween",
+  "lead": "Atentado con motobomba en la zona rosa de Algeciras (Huila) deja un policía sin vida y siete heridos",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
