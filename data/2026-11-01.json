@@ -1987,7 +1987,7 @@
   "palabras": "Italia, Viral, Clima",
   "lead": "La enorme columna de agua y viento apareció frente a las costas de Ponza, una isla ubicada en el mar Tirreno, en Italia. Varios testigos lograron registrar el fenómeno.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Estados Unidos, Accidentes aéreos, Florida, accidente en Palm Beach, avión Learjet 60",
   "lead": "La aeronave se precipitó sobre un vecindario cerca de Cresthaven hacia las 12:50 p. m. de este domingo, poco después de despegar de Austin, Texas, con destino a las Bahamas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "Motos, Motociclistas , ANDI, Fenalco",
   "lead": "El informe de ANDI y Fenalco reveló cuáles fueron las marcas de motos con más registros en octubre en el país, así como los departamentos que concentraron la mayor cantidad de motocicletas nuevas registradas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "",
   "lead": "En el Tolima tiene cerca de 5 mil productores que cosechan 3.732 toneladas de cacao en grano, lo que refleja la importancia de este renglón para la economía rural y el sustento de las familias campesinas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "",
   "lead": "Lima busca información sobre peruanos engañados para combatir junto a las tropas rusas en Ucrania.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "El alto oficial coordinó acciones con autoridades y visitó en Neiva a los policías heridos durante el atentado.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,6 +2053,215 @@
   "palabras": "Economía,déficit fiscal,Ministerio de Hacienda y Crédito Público,IVA,Impuesto de Renta",
   "lead": "El ministro de Hacienda advirtió sobre una crisis si no se ajustan las finanzas públicas y defendió los recortes y cambios tributarios del proyecto.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, consulte el número ganador del último sorteo de hoy 1 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-consulte-el-numero-ganador-del-ultimo-sorteo-de-hoy-1-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-01T17:57:17-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
+  "lead": "El chance Paisita Noche realiza sorteos todos los días, después de las 6:00 p. m. Este domingo 1 de noviembre de 2026, los jugadores pueden consultar el resultado oficial, verificar las cifras ganadoras y conocer las opciones disponibles para participar y reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Falleció el exconstituyente Antonio Navarro Wolff a los 78 años",
+  "enlace": "https://www.bluradio.com/nacion/murio-antonio-navarro-wolff-a-los-78-anos-de-edad-su-familia-confirmo-el-fallecimiento-so35",
+  "fecha": "2026-11-01T17:20:45-05:00",
+  "palabras": "Antonio Navarro Wolff",
+  "lead": "Antonio Navarro Wolff, exconstituyente, exgobernador de Nariño y uno de los firmantes de la paz del M-19, murió este domingo 1 de noviembre a los 78 años. Su familia confirmó el fallecimiento a través de un comunicado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así reaccionó el sector politicó tras la muerte de Antonio Navarro Wolff",
+  "enlace": "https://www.bluradio.com/nacion/asi-reacciono-el-sector-politico-tras-la-muerte-de-antonio-navarro-wolff-so35",
+  "fecha": "2026-11-01T17:44:09-05:00",
+  "palabras": "Antonio Navarro Wolff",
+  "lead": "Tras conocerse el comunicado de su fallecimiento, personajes del sector político comenzaron a reaccionar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Quién fue Antonio Navarro Wolff?, de la guerrilla del M-19 a la política colombiana",
+  "enlace": "https://www.bluradio.com/nacion/quien-fue-antonio-navarro-wolff-de-la-guerrilla-del-m-19-a-la-politica-colombiana-so35",
+  "fecha": "2026-11-01T17:43:17-05:00",
+  "palabras": "Antonio Navarro Wolff",
+  "lead": "El fallecido político de izquierda fue integrante del M-19, sobrevivió a un atentado en 1985 y participó en la Asamblea Constituyente que redactó la Constitución de 1991.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así reaccionaron los sectores políticos a la muerte del exconstituyente Antonio Navarro Wolff",
+  "enlace": "https://caracol.com.co/2026/11/01/asi-reaccionaron-los-sectores-politicos-a-la-muerte-del-exconstituyente-antonio-navarro-wolff/",
+  "fecha": "2026-11-01T17:42:36-05:00",
+  "palabras": "",
+  "lead": "La familia de Antonio Navarro Wolff confirmó que el dirigente político falleció este domingo 1 de noviembre a las 2:42 de la tarde.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los XXX Juegos Interescuelas de Cadetes 2026 se despidieron de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/01/los-xxx-juegos-interescuelas-de-cadetes-2026-se-despidieron-de-cartagena/",
+  "fecha": "2026-11-01T18:04:35-05:00",
+  "palabras": "",
+  "lead": "En una ceremonia realizada en el campo de paradas de la Escuela Naval de Cadetes “Almirante Padilla”, en Cartagena, se llevó a cabo la clausura de las Fuerzas Militares y la Policía Nacional",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Independiente Medellín vs Alianza Valledupar por Liga HOY: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/01/en-vivo-independiente-medellin-vs-alianza-valledupar-por-liga-hoy-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-11-01T18:00:03-05:00",
+  "palabras": "",
+  "lead": "Partido clave para el ‘Poderoso’, que busca afianzarse dentro de los ocho.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Quién era Antonio Navarro Wolf? Perfil, edad y últimos días del político",
+  "enlace": "https://caracol.com.co/2026/11/01/quien-era-antonio-navarro-wolff-excombatiente-del-m-19-y-copresidente-de-la-constituyente-de-1991/",
+  "fecha": "2026-11-01T17:46:59-05:00",
+  "palabras": "",
+  "lead": "La familia de Antonio Navarro Wolff confirmó que el dirigente político falleció este domingo 1 de noviembre a las 2:42 de la tarde.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuál fue el papel de Antonio Navarro Wolf en la construcción de la Constitución de 1991?",
+  "enlace": "https://caracol.com.co/2026/11/01/cual-fue-el-papel-de-antonio-navarro-wolf-en-la-construccion-de-la-constitucion-de-1991/",
+  "fecha": "2026-11-01T17:55:35-05:00",
+  "palabras": "",
+  "lead": "Antonio Navarro Wolff fue uno de los tres copresidentes de la Asamblea Nacional Constituyente de 1991, junto con Horacio Serpa y Álvaro Gómez Hurtado, representando la Alianza Democrática M-19, que obtuvo 19 de los 70 escaños elegidos, convirtiéndose en uno de los principales referentes del tránsito de esa organización de las armas a la política.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ángeles somos, tradiciones que fortalecen la convivencia",
+  "enlace": "https://caracol.com.co/2026/11/01/angeles-somos-tradiciones-que-fortalecen-la-convivencia/",
+  "fecha": "2026-11-01T17:53:52-05:00",
+  "palabras": "",
+  "lead": "La Policía Nacional protege las tradiciones de Cartagena",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Paciente congolés permanece en estado crítico por malaria, autoridades descartan ébola en Cali",
+  "enlace": "https://caracol.com.co/2026/11/01/paciente-congoles-permanece-en-estado-critico-por-malaria-autoridades-descartan-ebola-en-cali/",
+  "fecha": "2026-11-01T17:48:56-05:00",
+  "palabras": "",
+  "lead": "Las autoridades de salud de Cali aclararon que, aunque hasta el momento no existe un diagnóstico de ébola, se activaron los protocolos epidemiológicos para descartar esta enfermedad, debido a los antecedentes de un brote registrado en la República del Congo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kimi Antonelli, campeón de la F1: el más joven de la historia",
+  "enlace": "https://caracol.com.co/2026/11/01/kimi-antonelli-campeon-de-la-f1-el-mas-joven-de-la-historia/",
+  "fecha": "2026-11-01T17:28:18-05:00",
+  "palabras": "",
+  "lead": "El italiano de Mercedes aseguró el título mundial de 2026 en el Gran Premio de México y superó el récord que Sebastian Vettel ostentaba desde 2010.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Afinia detecta conexión no autorizada en una pescadería en inmediaciones del mercado de Bazurto",
+  "enlace": "https://caracol.com.co/2026/11/01/afinia-detecta-conexion-no-autorizada-en-una-pescaderia-en-inmediaciones-del-mercado-de-bazurto/",
+  "fecha": "2026-11-01T17:47:04-05:00",
+  "palabras": "",
+  "lead": "La energía no registrada asociada a la conexión fue estimada en 8.316 kWh mensuales, con un valor aproximado de $10.311.000",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió Antonio Navarro Wolff: su familia confirmó el fallecimiento este 1 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/01/murio-a-los-78-anos-de-edad-el-exconstituyente-y-exgobernador-de-narino-antonio-navarro-wolff/",
+  "fecha": "2026-11-01T17:24:38-05:00",
+  "palabras": "",
+  "lead": "A través de un comunicado, sus familiares informaron que realizarán su despedida en la intimidad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Armada incautó más de dos toneladas de cocaína en el Pacífico sur que serían enviadas a México",
+  "enlace": "https://caracol.com.co/2026/11/01/la-armada-incauto-mas-de-dos-toneladas-de-cocaina-en-el-pacifico-sur-que-serian-enviadas-a-mexico/",
+  "fecha": "2026-11-01T17:29:51-05:00",
+  "palabras": "",
+  "lead": "El cargamento, que estaría avaluado en 104 millones de dólares, era transportado en una embarcación tipo flipper que, según las autoridades, tendría como destino México.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así fue la captura en Bucaramanga de una mujer de 68 años señalada de extorsión: pedía $350 millones",
+  "enlace": "https://caracol.com.co/2026/11/01/asi-fue-la-captura-en-bucaramanga-de-una-mujer-de-68-anos-senalada-de-extorsion-pedia-350-millones/",
+  "fecha": "2026-11-01T17:16:21-05:00",
+  "palabras": "",
+  "lead": "La mujer es acusada de participar en las amenazas contra una familia a la que le exigían $350 millones mediante llamadas intimidatorias y una carta escrita a mano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hemos perdido muchos soldados”: Juan Manuel López sobre el pesado calendario de Envigado",
+  "enlace": "https://caracol.com.co/2026/11/01/hemos-perdido-muchos-soldados-juan-manuel-lopez-sobre-el-pesado-calendario-de-envigado/",
+  "fecha": "2026-11-01T17:12:58-05:00",
+  "palabras": "",
+  "lead": "El entrenador también analizó el proceso del equipo antioqueño y su apuesta por la formación de talentos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario mínimo de 2027: Gobierno adelantaría la negociación",
+  "enlace": "https://www.lafm.com.co/economia/salario-minimo-2027-gobierno-adelantaria-negociacion-empresarios-revelan-tope-415872",
+  "fecha": "2026-11-01T17:19:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Gobierno,Ministerio del Trabajo,Unión Sindical Obrera,Colombia",
+  "lead": "La Ley 278 de 1996 establece que se debe llegar a un acuerdo antes del 15 de diciembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Murió Antonio Navarro Wolff: este fue su recorrido político",
+  "enlace": "https://www.lafm.com.co/politica/murio-navarro-wolff-familia-comunico-la-noticia-415871",
+  "fecha": "2026-11-01T17:09:00-05:00",
+  "palabras": "Política,Antonio Navarro Wolff,Muertos,Constitución Política,Políticos,Colombia",
+  "lead": "El político tuvo una larga carrera y es uno de los rostros de la Constitución de 1991",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
