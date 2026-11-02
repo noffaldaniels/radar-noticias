@@ -711,7 +711,7 @@
   "palabras": "Extorsión, Bosa, Extorsión",
   "lead": "La red exigía cuotas mensuales de $13 millones a propietarios de vehículos en siete rutas de Bosa. Seis presuntos integrantes fueron judicializados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Antioquia, Falsificación de dinero, Noticias de hoy, Medellín",
   "lead": "Las autoridades incautaron en un taller clandestino armas, celulares, computadores y más de 600 mil dólares falsos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Ministerio de Salud, Tolima, atentado terrorista",
   "lead": "El Ministerio advirtió que el ataque con explosivos afectó la prestación de los servicios médicos y obligó a evacuar uno de los espacios de atención. También pidió respetar y proteger la misión médica.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Noticias de hoy, Abelardo De La Espriella, Barranquilla, Presidencia de la República, Atlántico",
   "lead": "“Trabajamos sin descanso, con compromiso y resultados”, escribió el mandatario en sus redes sociales sobre el encuentro con los ministros en la sede presidencial del Batallón Paraíso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "Noticias de hoy, Innovación, Tecnología",
   "lead": "El invento integra sensores que detectan impactos fuertes. Si el casco registra una caída, la aplicación en el celular le pregunta al usuario si se encuentra bien.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "Boyacá, Música, Bogotá, Viral",
   "lead": "Frente a la oferta de grandes eventos en la ciudad como Rock al Parque, Salsa al Parque, Jazz al Parque y Popular al Parque, subrayan la necesidad de darle su propio espacio a la música campesina.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Noticias de hoy, Urrao, Gobernación de Antioquia",
   "lead": "El lugar está a más de 15 horas de camino y es uno de los corregimientos más alejados de Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "Los artefactos explosivos fueron ubicados en la vereda El Hoyo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "Desde la asamblea hacen un llamado a las autoridades a revisar la capacidad institucional de atención.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "El juzgado puso en contramarcha a un ciudadano que buscaba tumbar un evento que es abierto al público",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "El empleado de una empresa contratista de Ecopetrol fue atacado con arma de fuego en inmediaciones del pozo 2086, del corregimiento El Centro.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "Se compulsaron copias a la Fiscalía y Procuraduría luego de que la JEP identificara que el exmandatario tenía conocimiento de las acciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "Vigencia del lunes 02 de noviembre de 2026 hasta el viernes 27 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "La educación publica de la ciudad da un gran salto en calidad educativa con nueve instituciones que mejoraron su clasificación",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "El cadáver fue hallado en la entrada del barrio Las Malvinas en la madrugada de este lunes festivo, 2 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "De acuerdo con el reporte entregado por las autoridades, el comportamiento ciudadano fue ejemplar y permitió que la jornada concluyera sin incidentes de consideración",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "El equipo vive una situación adversa en cuanto a lesiones. En el último juego perdió a dos jugadores clave en ataque.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "El Juzgado Once Administrativo de Tunja advirtió que persisten los problemas estructurales y sanitarios en la Institución Educativa Técnico Comercial Sagrado Corazón de Jesús, pese a las medidas de contingencia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "Los explosivos lanzados desde una volqueta y drones cayeron sobre las instalaciones de la farmacia del hospital e impactaron viviendas de varios barrios.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "El hecho de sangre se presentó en un establecimiento comercial.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "El hecho se registró en la noche de este domingo, 1 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "La Defensoría explicó que esta situación “ha evolucionado negativamente recientemente debido a la expansión de la extracción ilícita de minerales en el sur del departamento, especialmente en Ataco.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Se estima que se necesitan más de 4.5 billones de pesos para la recuperación del departamento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Debe evaluarse de manera técnica la viabilidad de la Planta Desalinizadora de que trata el documento CONPES 4159 de 2025.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Según Iris Valencia, defensora del Pueblo, estos hechos se registran en un contexto advertido en la Alerta Temprana 016 de 2022, debido a la disputa entre las disidencias de Mordisco y la Segunda Marquetalia.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "El operativo se cumplió en el municipio de Milán, donde incautaron armas, drones, equipos de comunicación y dinero en efectivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "Orden Público,atentado,Actos terroristas,Disidentes de las Farc,explosión,Gobernación del Tolima,Tolima",
   "lead": "“Sentimos impotencia de ver cómo el terrorismo acaba con las familias”: desgarrador relato de habitante de Planadas",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Orden Público,Tolemaida,Fuerzas Militares,Estados Unidos,Ejército Nacional,Abelardo de la Espriella,Ministerio de Defensa,Militares",
   "lead": "Con la presencia de más de 800 militares, 350 de ellos norteamericanos, harán ejercicios de operaciones simuladas para fortalecer la seguridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Internacional,Venezuela,Nicolás Maduro,Delcy Rodríguez,Diosdado Cabello,María Corina Machado",
   "lead": "En medio de ese panorama, la libertad de expresión sigue siendo uno de los asuntos centrales de la transición.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "Sociedad,Ministerio de Transporte,vías,vehículos,Licencia de conducción",
   "lead": "Es una propuesta para asignarle a cada conductor un puntaje que disminuiría cada vez que cometa una infracción de tránsito.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "Actualidad,Rio Magdalena,Barranquilla,Menores,Ahogado,Puente Pumarejo",
   "lead": "Un juego en el río Magdalena terminó en angustia: buscan a niño de 13 años que desapareció en Barranquilla",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,6 +1052,270 @@
   "palabras": "Orden Público,Control en fronteras,ELN,Venezuela,Militares,Operaciones aéreas",
   "lead": "Javier Tarazona, director de la ONG, reclamó una política pública que garantice educación, salud y seguridad a las comunidades fronterizas.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En Envigado le madrugaron a diciembre con campaña para prevenir quemados con pólvora",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-envigado-le-madrugaron-a-diciembre-con-campana-para-prevenir-quemados-con-polvora-rg10",
+  "fecha": "2026-11-02T11:14:28-05:00",
+  "palabras": "Antioquia, Envigado, Quemados con pólvora, Diciembre, Noticias de hoy",
+  "lead": "El objetivo de la administración local es llevar a cero el registro de quemados por este tipo de artefactos durante la temporada que se extiende hasta comienzos de enero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En este antiguo edificio de Colombia dicen que asustan: se escuchan voces extrañas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-este-antiguo-edificio-de-colombia-dicen-que-asustan-se-escuchan-voces-extranas-so35",
+  "fecha": "2026-11-02T10:33:00-05:00",
+  "palabras": "Viral, Itagüí, Fenómenos paranormales",
+  "lead": "La propiedad permanece bajo administración de la SAE, mientras vecinos cuentan que han visto sombras y escuchado voces extrañas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ofrecen $20 millones por información para capturar a extorsionistas en Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ofrecen-20-millones-por-informacion-para-capturar-a-extorsionistas-en-barrancabermeja-rg10",
+  "fecha": "2026-11-02T11:32:24-05:00",
+  "palabras": "Santander, Barrancabermeja, Policía Nacional, Noticias de hoy, Blu Radio",
+  "lead": "Las autoridades buscan identificar y capturar a los integrantes de bandas criminales que estarían exigiendo las llamadas ‘vacunas’ a propietarios de negocios, especialmente en la comuna 3.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "EEUU aprueba versión genérica de tratamiento preventivo contra el VIH",
+  "enlace": "https://www.bluradio.com/salud/eeuu-aprueba-version-generica-de-tratamiento-preventivo-contra-el-vih-cb20",
+  "fecha": "2026-11-02T10:34:48-05:00",
+  "palabras": "",
+  "lead": "La aprobación de las autoridades estadounidenses fue anunciada por Dr. Reddy's Laboratories, farmacéutica india que fabrica la versión genérica del lenacapavir, y por Unitaid, iniciativa internacional para suministrar medicamentos en países de ingresos bajos y medios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Momento exacto del ataque con explosivos y drones que dejó cuatro muertos en Planadas, Tolima",
+  "enlace": "https://www.bluradio.com/nacion/momento-exacto-del-ataque-con-explosivos-y-drones-que-dejo-cuatro-muertos-en-planadas-tolima-so35",
+  "fecha": "2026-11-02T11:02:38-05:00",
+  "palabras": "Tolima, Ataque terrorista, Disidencias Farc",
+  "lead": "El hecho violento ocurrió en las cercanías de una base militar de la zona, una jurisdicción en la que operan diversas disidencias de la desmovilizada guerrilla de las Farc.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Cuál carga emocional es más difícil de soltar? En Blu Jeans, 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/cual-carga-emocional-es-mas-dificil-de-soltar-en-blu-jeans-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T11:08:09-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Blu Jeans del lunes, 2 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fuerte sismo en Perú: Servicio Geológico Colombiano reportó temblor de 5,1",
+  "enlace": "https://www.bluradio.com/mundo/servicio-geologico-colombiano-reporto-fuerte-temblor-de-5-1-donde-se-sintio-so35",
+  "fecha": "2026-11-02T11:20:49-05:00",
+  "palabras": "Servicio Geológico Colombiano - SGC, Perú, Temblor hoy",
+  "lead": "El SGC reportó un sismo de magnitud 5,1 este lunes 2 de noviembre, con una profundidad de 67 kilómetros.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habitantes en La Dorada están preocupados por posibles multas si sobrepasan consumo de energía",
+  "enlace": "https://caracol.com.co/2026/11/02/habitantes-en-la-dorada-estan-preocupados-por-posibles-multas-si-sobrepasan-consumo-de-energia/",
+  "fecha": "2026-11-02T11:28:23-05:00",
+  "palabras": "",
+  "lead": "Consideran que las altas temperaturas en el municipio obligan a una mayor demanda del servicio. Desde la CHEC afirman que la medida incentiva al ahorro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a alias “Joel Piraña”, segundo cabecilla de ‘La Nueva Generación del Freseo’",
+  "enlace": "https://caracol.com.co/2026/11/02/capturan-a-alias-joel-pirana-segundo-cabecilla-de-la-nueva-generacion-del-freseo/",
+  "fecha": "2026-11-02T11:19:03-05:00",
+  "palabras": "",
+  "lead": "La captura se llevó a cabo en Cali y fue confirmada por el presidente Abelardo De la Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumenta la movilidad durante el festivo del Día de Todos Los Santos",
+  "enlace": "https://caracol.com.co/2026/11/02/aumenta-la-movilidad-durante-el-festivo-dia-de-todos-los-santos/",
+  "fecha": "2026-11-02T11:00:12-05:00",
+  "palabras": "",
+  "lead": "Para garantizar la seguridad y movilidad, la Policía Nacional desplegó más de 5.000 hombres y mujeres en las vías nacionales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rawayana celebró Halloween en Nueva York con Cheo Pardo y Yorghaki como invitados",
+  "enlace": "https://caracol.com.co/2026/11/02/rawayana-celebro-halloween-en-nueva-york-con-cheo-pardo-y-yorghaki-como-invitados/",
+  "fecha": "2026-11-02T11:09:34-05:00",
+  "palabras": "",
+  "lead": "La banda venezolana reunió a cerca de 12.000 personas en el Barclays Center de Brooklyn, donde ofreció un concierto con disfraces, música y una celebración de la cultura de su país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación de Santander respalda al Inpec tras el cambio de director de la cárcel de Palogordo",
+  "enlace": "https://caracol.com.co/2026/11/02/gobernacion-de-santander-respalda-al-inpec-tras-el-cambio-de-director-de-la-carcel-de-palogordo/",
+  "fecha": "2026-11-02T10:37:15-05:00",
+  "palabras": "",
+  "lead": "Tras la salida del capitán Eleasid Durán Sánchez, desde la administración departamental aseguran que el nuevo director deberá dar continuidad a las estrategias de seguridad en el penal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió Juan Atkins, referente del techno y cofundador de Cybotron, a los 64 años",
+  "enlace": "https://caracol.com.co/2026/11/02/murio-juan-atkins-referente-del-techno-y-cofundador-de-cybotron-a-los-64-anos/",
+  "fecha": "2026-11-02T10:56:32-05:00",
+  "palabras": "",
+  "lead": "El productor estadounidense fue una de las figuras que impulsó el desarrollo del techno en Detroit durante los años 80. Su fallecimiento fue confirmado por su agencia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Proyección de más de 46 mil vehículos movilizándose por carreteras de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/02/proyeccion-de-mas-de-46-mil-vehiculos-movilizandose-por-carreteras-de-bolivar/",
+  "fecha": "2026-11-02T10:47:18-05:00",
+  "palabras": "",
+  "lead": "La Policía Nacional avanza con dispositivo para el Plan Retorno en el departamento",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cero afectaciones por lluvias y 2.239 toneladas de residuos extraídos en 24 frentes en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/02/cero-afectaciones-por-lluvias-y-2239-toneladas-de-residuos-extraidos-en-24-frentes-en-cartagena/",
+  "fecha": "2026-11-02T10:43:43-05:00",
+  "palabras": "",
+  "lead": "El mantenimiento de 17 canales y las limpiezas preventivas de basura han garantizado el flujo del agua",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desarticulan red que desviaba insumos químicos para producir cocaína en Norte de Santander y Cesar",
+  "enlace": "https://caracol.com.co/2026/11/02/desarticulan-red-que-desviaba-insumos-quimicos-para-producir-cocaina-en-norte-de-santander-y-cesar/",
+  "fecha": "2026-11-02T10:41:17-05:00",
+  "palabras": "",
+  "lead": "Seis personas fueron judicializadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sicarios asesinaron un hombre en el suroriente de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/02/sicarios-asesinaron-un-hombre-en-el-suroriente-de-cartagena/",
+  "fecha": "2026-11-02T10:36:41-05:00",
+  "palabras": "",
+  "lead": "Los hechos ocurrieron en el sector Zarabanda y la víctima registra cinco anotaciones judiciales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos fueron los mejores futbolistas colombianos de octubre, según las estadísticas",
+  "enlace": "https://caracol.com.co/2026/11/02/estos-fueron-los-mejores-futbolistas-colombianos-de-octubre-segun-las-estadisticas/",
+  "fecha": "2026-11-02T10:35:28-05:00",
+  "palabras": "",
+  "lead": "Dos jugadores del fútbol colombiano entre los cinco mejores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un menor de edad muerto y una mujer herida en el suroccidente de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/02/un-menor-de-edad-muerto-y-una-mujer-herida-en-el-suroccidente-de-cartagena/",
+  "fecha": "2026-11-02T10:29:35-05:00",
+  "palabras": "",
+  "lead": "Al parecer los hechos se habrían presentado en medio de una discusión",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Entre lágrimas un habitante de Planadas, Tolima pide apoyo tras atentado que dejó 4 muertos",
+  "enlace": "https://caracol.com.co/2026/11/02/entre-lagrimas-un-habitante-de-planadas-tolima-pide-apoyo-tras-atentado-que-dejo-4-muertos/",
+  "fecha": "2026-11-02T10:25:14-05:00",
+  "palabras": "",
+  "lead": "Según José Perdomo, líder social de esta población ubicada al sur del Tolima, algunos de los explosivos cayeron sobre las viviendas del barrio Jardín, otros cerca a la base militar.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Diseñadora colombiana que conquistó a la mamá de Elon Musk",
+  "enlace": "https://www.lafm.com.co/entretenimiento/disenadora-colombiana-joyas-maye-musk-modelo-madre-elon-musk-historia-415902",
+  "fecha": "2026-11-02T11:10:00-05:00",
+  "palabras": "Entretenimiento,artesanías,joyas,Elon Musk,Modelo,Arte",
+  "lead": "Esa es la historia de Sandra Roldán, diseñadora antioqueña que logró que sus creaciones llegaran hasta Maye Musk, modelo de 77 años y madre del empresario ...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Visita de papa León XIV a Sudamérica: países y reuniones",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-xiv-visita-sudamerica-lo-que-hara-en-su-gira-uruguay-argentina-peru-415897",
+  "fecha": "2026-11-02T10:47:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Argentina,Uruguay,Perú,sudamerica,Javier Milei",
+  "lead": "Periodistas de las tres naciones explicaron cómo se alistan para recibirlo y cuáles serán los principales momentos de la gira, incluyendo la incertidumbre ...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Más de 3,2 millones de vehículos movilizados en el festivo",
+  "enlace": "https://www.lafm.com.co/actualidad/mas-32-millones-vehiculos-movilizado-puente-festivo-415901",
+  "fecha": "2026-11-02T10:34:00-05:00",
+  "palabras": "Actualidad,Puentes festivo,Ministerio de Transporte,Medios de transporte,Policía Nacional,vías",
+  "lead": "Desde el viernes 30 de octubre han circulado 3.202.000 vehículos por los principales peajes de Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Órganos de control condenan atentado terrorista en Planadas",
+  "enlace": "https://www.lafm.com.co/orden-publico/procuraduria-defensoria-rechazan-atentado-planadas-tolima-415900",
+  "fecha": "2026-11-02T10:33:00-05:00",
+  "palabras": "Orden Público,Procuraduría General de la Nación,Defensoría del Pueblo,ataque explosivo,Disidentes de las Farc",
+  "lead": "Procuraduría y Defensoría rechazan atentado en Planadas y exigen respuesta urgente del Gobierno Nacional",
+  "seccion": "tolima",
   "nueva": true,
   "tambien": []
  }
