@@ -181,6 +181,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Antonio Navarro Wolff, exalcalde de Pasto y exgobernador de Nariño, falleció tras una enfermedad. Destacaron su liderazgo político e iniciativas en materia deportiva, social y de infraestructura para el suroccidente colombiano.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:21",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Las encuestas finales muestran un aumento azul y podemos confiar en ellas, dice el New York Times.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:27",
+   "quien": "Ramón Marín (Periodista de Noticias La FM con Juan Lozano en Pereira)",
+   "que": "La capital risaraldense amanece con una temperatura de 19 grados, operando sin inconvenientes en el Aeropuerto Internacional Matecaña.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:28",
+   "quien": "Ramón Marín (Periodista de Noticias La FM con Juan Lozano en Pereira)",
+   "que": "El avance de las disidencias de las FARC hacia el Chocó y su alianza con el clan del Golfo para enfrentar al ELN enciende alarmas de confrontación en el occidente de Risaralda.",
+   "resaltar": false
   }
  ],
  "avisos": [
