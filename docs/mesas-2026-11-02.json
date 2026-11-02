@@ -202,6 +202,27 @@
    "quien": "Ramón Marín (Periodista de Noticias La FM con Juan Lozano en Pereira)",
    "que": "El avance de las disidencias de las FARC hacia el Chocó y su alianza con el clan del Golfo para enfrentar al ELN enciende alarmas de confrontación en el occidente de Risaralda.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:24",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Cuatro personas murieron, entre ellas una bebé de dos meses, y otras 20 personas están muy graves heridas tras un atentado terrorista en el municipio de Planadas, Tolima. Las disidencias FARC habrían usado drones y una volqueta cargada con explosivos que cayeron sobre la zona de farmacia del hospital y viviendas de barrios Simón Bolívar, Ciudad Jardín y el aeropuerto.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:28",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Defensoría del Pueblo expresó su preocupación por el desplazamiento de unos 500 indígenas de la comunidad de Villanueva el pasado 1 de noviembre en el corregimiento de Jurubidá, municipio de Nuquí, Chocó, por la disputa entre grupos armados en la zona.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:31",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Tribunal de Westminster podría decidir hoy la extradición de Zulma Guzmán, la colombiana que huyó al Reino Unido donde intentó suicidarse, tras su vinculación a un terrible caso de envenenamiento de dos niñas con talio.",
+   "resaltar": false
   }
  ],
  "avisos": [
