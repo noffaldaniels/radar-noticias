@@ -377,6 +377,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Recordaron a la cantante y actriz mexicana Toña La Negra, nacida en 1912, considerada una de las mayores cancioneras de todos los tiempos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:11",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se registró una fuerte congestión vehicular en la vía Buga - Buenaventura debido a un derrumbe que mantiene restringida la movilidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:11",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El despliegue militar en Planadas, Tolima, comenzó tras el atentado terrorista de esta madrugada que dejó cuatro personas asesinadas, incluyendo un bebé de dos meses.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:11",
+   "quien": "Alcalde Hugo Kerguelén García",
+   "que": "En el operativo del sábado 31 de octubre se desplegaron 422 policías en Montería y se impusieron 112 comparendos por violar la restricción de circulación.",
+   "resaltar": false
   }
  ],
  "avisos": [
