@@ -7,7 +7,7 @@
   "palabras": "Lotería de Boyacá, Resultado de loterías de hoy, Loterías de hoy, resultado de la Lotería de Boyacá hoy",
   "lead": "El sorteo 4648 de la Lotería de Boyacá del sábado 31 de octubre de 2026 entregó el premio mayor de $15.000 millones; revise su billete.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Salud, Movilidad",
   "lead": "Escuche las mejores historias, conversaciones y recomendaciones de Encuentros Blu en la emisión de este domingo, 1 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "ELN, Clan del Golfo, Chocó",
   "lead": "La comunidad de Villa Nueva permanece temporalmente en Jurubirá, mientras la Defensoría del Pueblo alerta sobre el riesgo de nuevos desplazamientos en la zona.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Tolima",
   "lead": "Explosiones cerca de una base militar dejaron heridos, viviendas dañadas y un incendio. La Alcaldía decretó toque de queda y evacuó un centro de salud.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "",
   "lead": "Una verificación de antecedentes permitió hacer efectiva una orden judicial vigente contra un hombre de 48 años de edad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "",
   "lead": "Mientras avanzan los trabajos para retirar el material que cayó de la montaña, los vehículos transitan por turnos mediante pare y siga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "",
   "lead": "Fenalco Norte de Santander espera participar en la mesa de trabajo que se realizará este martes 3 de noviembre en la capital de Norte de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "",
   "lead": "La disputa territorial entre el ELN y el Clan del Golfo está poniendo en riesgo a las autoridades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "Según la información preliminar, se trató de una volqueta cargada con explosivos que fue detonada en el barrio Aeropuerto cerca a la base militar del municipio.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "",
   "lead": "El atentado ocurrió en el casco urbano del municipio. Aún no se reportan heridos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "El fuerte hostigamiento generó temor y zozobra entre la población civil, que volvió a quedar en medio del fuego cruzado. La Fuerza Pública adelanta operaciones en la zona.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Orden Público,atentado,Bombas,Muertos,Heridos,Tolima",
   "lead": "La acción criminal se registró en el barrio Aeropuerto. La gobernadora Adriana Magali Matiz rechazó la arremetida y exigió una respuesta contundente de las...",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Orden Público,ataque explosivo,atentado,Disidentes de las Farc,Cauca",
   "lead": "Una motocicleta acondicionada con artefactos explosivos detonó dejando hasta el momento únicamente daños materiales en Balboa, Cauca.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -149,6 +149,28 @@
   "fecha": "2026-11-01T22:45:00-05:00",
   "palabras": "Orden Público,Defensoría,Desplazamiento forzado,Chocó,combates entre grupos armados,Alerta",
   "lead": "Los combates entre grupos ilegales generaron la emergencia humanitaria. Por ahora, no se reportan heridos.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Metro y Alcaldía de Medellín estuvieron en la mira de disidencias Farc por extorsiones a EPM",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/metro-y-alcaldia-de-medellin-estuvieron-en-la-mira-de-disidencias-farc-por-extorsiones-a-epm-rg10",
+  "fecha": "2026-11-02T06:28:53-05:00",
+  "palabras": "Antioquia, Noticias de hoy, Disidencias Farc, Calarcá, EPM, Alcaldía de Medellín, Metro de Medellín",
+  "lead": "Un informe de seguridad de la compañía reveló que a inicios de este año el grupo armado, al mando de 'Calarcá', exigió millonarias extorsiones para no atentar contra estas entidades ni Hidroituango.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Se vienen nuevos racionamientos de agua en Medellín? Metas de ahorro siguen sin cumplirse",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/se-vienen-nuevos-racionamientos-de-agua-en-medellin-metas-de-ahorro-siguen-sin-cumplirse-rg10",
+  "fecha": "2026-11-02T06:21:21-05:00",
+  "palabras": "Antioquia, Medellín, EPM, Racionamiento de agua, Fenómeno de El Niño",
+  "lead": "En las próximas horas EPM anunciará cómo operará la medida hasta el 9 de noviembre, tras una semana sin cortes programados del servicio.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
