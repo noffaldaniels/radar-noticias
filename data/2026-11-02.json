@@ -183,7 +183,7 @@
   "palabras": "Cauca, atentado terrorista",
   "lead": "La comunidad en el departamento del Cauca permanece en alerta e incertidumbre, teniendo en cuenta la escalada de violencia que se ha registrado en la región durante el fin de semana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "Buenaventura",
   "lead": "En la tarde de este lunes festivo habrá pico y placa para ingresar a la ciudad de Cali, desde el kilómetro 18.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "",
   "lead": "La autoridad ambiental en el Quindío activó plan de contingencia por el derrame de hidrocarburo y sus posibles efectos en los afluentes hídricos tras un accidente de tránsito en la vía La Línea",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "María Fernanda Cabal cuestionó que el ajuste fiscal recaiga sobre las personas, el consumo y el trabajo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "En el año 2024, 506 de los 1.006 municipios con vigilancia del país recibieron agua no apta para el consumo humano, según un derecho de petición que respondió el Instituto Nacional de Salud a Caracol Radio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Según cifras del Ministerio de Ambiente e IDEAM, el 95 % de los incendios forestales en Colombia son provocados por actividades humanas, situación que se agrava durante el Fenómeno de El Niño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,6 +249,28 @@
   "palabras": "",
   "lead": "Atlético Nacional es el líder absoluto de esta clasificación. La lucha por los cupos a Libertadores y Sudamericana está cada vez más ajustada.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No hay que ver solo lo negativo”: Repetto tras la eliminación de Santa Fe ante Once Caldas por Copa",
+  "enlace": "https://caracol.com.co/2026/11/02/no-hay-que-ver-solo-lo-negativo-repetto-tras-la-eliminacion-de-santa-fe-ante-once-caldas-por-copa/",
+  "fecha": "2026-11-02T07:13:22-05:00",
+  "palabras": "",
+  "lead": "El técnico analizó el buen año del equipo a pesar de la derrota en condición de local.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Piden al Congreso sesionar en Cúcuta por hechos violentos",
+  "enlace": "https://www.lafm.com.co/orden-publico/cucuta-congreso-sesion-descentralizada-violencia-415840",
+  "fecha": "2026-11-02T07:18:00-05:00",
+  "palabras": "Orden Público,Cúcuta,Operativos militares,plan de seguridad nacional,Abelardo de la Espriella",
+  "lead": "La iniciativa busca reunir a las autoridades militares, policiales y civiles para analizar la crisis de seguridad que enfrenta la región.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
