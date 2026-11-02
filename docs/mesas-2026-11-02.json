@@ -314,6 +314,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Gustavo Petro tiene un doctorado hecho en el Reino Unido.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:54",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La huelga convocada por sindicatos de servicios públicos y entidades estatales comenzó a la medianoche, afectando a empleados centrales, regionales, locales e instituciones públicas. Exigen tarjetas de alimentación para empleados públicos con asignación diaria de 10,21 euros exenta de impuestos, revisión de evaluación de desempeño, complementos por riesgo, actualización de convenios colectivos y contratación de más trabajadores.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:54",
+   "quien": "Daniel Alfonso Morales (Coordinador de Vivienda de la Edur)",
+   "que": "Los procesos de vivienda para afectados por el sismo son totalmente gratuitos, no requieren intermediarios y el propósito es brindar una unidad habitacional a las personas más afectadas para darles esperanza a las familias risaraldenses.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:56",
+   "quien": "Alejandro Alzate (Secretario de Hacienda de Caldas)",
+   "que": "A la fecha se han distribuido cerca de 3.000 millones de pesos en subsidios de arrendamiento a más de 20.000 beneficiarios por el terremoto en Caldas. Han identificado cuentas de financiamiento por 240.000 millones de pesos, es decir, aproximadamente el 5% del valor de la reconstrucción, y solicitan al nivel central concurrir a la cofinanciación para evitar que la ejecución sea a largo plazo.",
+   "resaltar": false
   }
  ],
  "avisos": [
