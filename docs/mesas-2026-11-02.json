@@ -104,6 +104,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "La Superintendencia Nacional de Salud anunció que acatará la decisión del Tribunal Administrativo de Bolívar que ordenó suspender la intervención forzosa administrativa de Coosalud EPS.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Atentado terrorista en Planadas, Tolima, deja cuatro personas muertas y por lo menos 20 heridos. Las disidencias de las Farc usaron drones y una volqueta desde la que lanzaron cilindros cargados con explosivos.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:03",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Falleció en Bogotá a los 78 años el líder político nariñense Antonio Navarro Wolf. Nació en Pasto el 9 de julio de 1948, fue congresista, alcalde de Pasto y en 1990 firmó el acuerdo de paz como líder del M-19.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:07",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El 4 de julio de 1991 se promulgó la nueva Constitución de Colombia en coro, con la participación de figuras como Antonio Navarro Wolf y Carlos Pizarro.",
+   "resaltar": false
   }
  ],
  "avisos": [
