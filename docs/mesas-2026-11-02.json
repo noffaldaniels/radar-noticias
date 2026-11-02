@@ -230,6 +230,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El fenómeno del Niño llegó, es pronosticado como extremadamente intenso y tenemos probabilidad de vivir 10 sequías e incendios forestales con impacto en el agua, la energía, la salud y los cultivos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:30",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La gobernadora del Tolima, Adriana Magali Matiz, encabeza un consejo de seguridad para salvaguardar la integridad de los heridos en una zona condicionada que hace parte de un colegio, tras lo ocurrido en Planadas.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:31",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el departamento del Huila se registró un atentado terrorista en el municipio de Algeciras con una motobomba, dejando un saldo de 9 personas heridas y un fallecido, entre ellos un uniformado de la Policía Nacional. Dos de los heridos fueron trasladados al Hospital Universitario Erasmo Meoz en Cúcuta; uno de 36 años se encuentra en estado crítico y pronóstico reservado, mientras que el segundo agente, de 25 años, permanece estable tras intervención quirúrgica por quemaduras y múltiples fracturas.",
+   "resaltar": false
   }
  ],
  "avisos": [
