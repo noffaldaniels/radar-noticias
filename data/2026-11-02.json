@@ -1943,7 +1943,7 @@
   "palabras": "Viral, Medellín",
   "lead": "El hombre quedó en el piso tras recibir el impacto y la reacción del oficial ha desatado diversas opiniones si actúo o no de manera correcta en esta situación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,7 +1954,7 @@
   "palabras": "",
   "lead": "Las autoridades encontraron 78 artefactos explosivos artesanales en un vehículo que se movilizaba por la vía Panamericana. El material tendría como destino el peaje Cano Bajo, en el municipio de Chachagüí.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Viral, El Salvador",
   "lead": "El creador de contenido fue despedido entre amigos, familiares y allegados en su pueblo natal en El Salvador tras vivir varios años en México.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "Noticias de hoy, Atletismo",
   "lead": "La mayor contribución al medallero antioqueño llegó desde las pruebas de velocidad, relevos y vallas, en las que los deportistas consiguieron 11 preseas.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "",
   "lead": "El mandatario distrital dio a conocer que durante ese mes se registraron 25 casos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "",
   "lead": "El hecho se registró en el barrio Santos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "",
   "lead": "Se investiga una posible falta de señalización por parte del motorizado que quedó varado en la vía",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "",
   "lead": "La denuncia fue presentada por Pablo Bustos ante la Fiscalía. Señala a Gloria Inés Ramírez, Ricardo Bonilla y Aurora Vergara por decisiones que habrían contribuido a una crisis que afecta a más de 300.000 docentes y cuyo déficit se estima en $2,7 billones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "",
   "lead": "El presidente de Boca Juniors destacó el nivel del extremo colombiano, quien fue determinante en la victoria frente a River Plate.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "El adolescente se estaba bañando junto a otros amigos debajo del antiguo puente Pumarejo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "El departamento duplicó el número de instituciones educativas en esta clasificación, al pasar de tres a seis, en comparación con los resultados de 2023",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "Internacional,Largas caminatas,Running,Deporte,Inglaterra,Natación",
   "lead": "Su historia no solo está marcada por la distancia recorrida, sino también por las reglas que se impuso, los obstáculos que debió superar y el reencuentro c...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,6 +2075,226 @@
   "palabras": "Internacional,Miami,Estados Unidos,Avión,Accidente,audio",
   "lead": "En la tarde del 1 de noviembre de 2026 hubo conmoción en el Estado de Florida por la caída de un aparato.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Una avioneta se cayó un minuto después de despegar en México e impactó en una avenida",
+  "enlace": "https://www.bluradio.com/mundo/una-avioneta-se-cayo-un-minuto-despues-de-despegar-en-pachuca-e-impacto-en-una-avenida-cb20",
+  "fecha": "2026-11-02T15:25:25-05:00",
+  "palabras": "México, Accidentes aéreos",
+  "lead": "Dos personas murieron al estrellarse e incendiarse una avioneta en zona urbana de Pachuca, México. La autoridad aeronáutica inició la investigación.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así quedó la cancha de El Campín tras concierto de Ryan Castro: ¿apta para fútbol?",
+  "enlace": "https://www.bluradio.com/regiones/bogota/asi-quedo-la-cancha-de-el-campin-tras-concierto-de-ryan-castro-apta-para-futbol-so35",
+  "fecha": "2026-11-02T15:50:09-05:00",
+  "palabras": "Estadio El Campín, Ryan Castro",
+  "lead": "Un gran montaje que volvió a poner en la lupa el estadio y Sencia, su administradora, del cuidado que se le ha dado a la cancha y si podrá estar lista o no.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ryan Castro celebró Halloween con más de 40.000 personas en mega concierto en Bogotá",
+  "enlace": "https://www.bluradio.com/entretenimiento/ryan-castro-celebro-halloween-con-mas-de-40-000-personas-en-megaconcierto-en-bogota-so35",
+  "fecha": "2026-11-02T16:01:43-05:00",
+  "palabras": "Ryan Castro, Estadio El Campín, Concierto",
+  "lead": "El 'Cantante del Guetto' se convirtió en el primero en llenar los tres grandes escenarios de Bogotá con 'sould out' total. Solo le falta el Vive Claro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Refuerzan la seguridad y asistencia humanitaria en Planadas, Tolima, tras atentado",
+  "enlace": "https://www.bluradio.com/nacion/refuerzan-la-seguridad-y-asistencia-humanitaria-en-planadas-tolima-tras-atentado-rg10",
+  "fecha": "2026-11-02T16:19:15-05:00",
+  "palabras": "Tolima, Ministerio de Defensa",
+  "lead": "Por orden del presidente De La Espriella, el Ministerio de Defensa confirmó la intensificación de ofensiva militar y despliegue operacional en Planadas, Tolima.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Expulsan a 44 hondureños de Colombia por presunta pesca ilegal en aguas de San Andrés",
+  "enlace": "https://www.bluradio.com/nacion/expulsan-a-44-hondurenos-de-colombia-por-presunta-pesca-ilegal-en-aguas-de-san-andres-rg10",
+  "fecha": "2026-11-02T16:07:12-05:00",
+  "palabras": "Migración Colombia, Abelardo De La Espriella, San Andrés y Providencia",
+  "lead": "El presidente Abelardo De La Espriella confirmó que los extranjeros fueron puestos a disposición de Migración Colombia y enviados de regreso a Honduras.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Magdalena fortalece estrategias para garantizar la atención en salud a la población migrante",
+  "enlace": "https://caracol.com.co/2026/11/02/magdalena-fortalece-estrategias-para-garantizar-la-atencion-en-salud-a-la-poblacion-migrante/",
+  "fecha": "2026-11-02T16:20:57-05:00",
+  "palabras": "",
+  "lead": "A través de una mesa técnica departamental, se articularon acciones institucionales para mejorar el acceso a los servicios de salud, eliminar barreras de atención y proteger los derechos de esta población.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En una riña en Turbaco resultó muerto un hombre con un cuchillo",
+  "enlace": "https://caracol.com.co/2026/11/02/en-una-rina-en-turbaco-resulto-muerto-un-hombre-con-un-cuchillo/",
+  "fecha": "2026-11-02T16:15:20-05:00",
+  "palabras": "",
+  "lead": "Las autoridades buscan a los dos presuntos responsables",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump lleva a la Corte Suprema disputa por más de 20.000 votos en California",
+  "enlace": "https://caracol.com.co/2026/11/02/trump-lleva-a-la-corte-suprema-disputa-por-mas-de-20000-votos-en-california/",
+  "fecha": "2026-11-02T16:13:25-05:00",
+  "palabras": "",
+  "lead": "El Gobierno estadounidense busca impedir que se contabilicen papeletas de electores cuya ciudadanía está bajo sospecha, a pocos días de las elecciones.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a alias el ‘Gordo’ y ‘Venecia’ por presunta extorsión a comerciantes en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/02/capturan-a-alias-el-gordo-y-venecia-por-presunta-extorsion-a-comerciantes-en-santa-marta/",
+  "fecha": "2026-11-02T16:12:31-05:00",
+  "palabras": "",
+  "lead": "Los capturados serían presuntos integrantes de las Autodefensas Conquistadores de la Sierra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Taxi involucrado en siniestro vial con víctima fatal tenía licencia de conducción vencida desde 2014",
+  "enlace": "https://caracol.com.co/2026/11/02/taxi-involucrado-en-siniestro-vial-con-victima-fatal-tenia-licencia-de-conduccion-vencida-desde-2014/",
+  "fecha": "2026-11-02T16:10:38-05:00",
+  "palabras": "",
+  "lead": "Adicionalmente, el conductor presenta 28 comparendos y obligaciones pendientes con una deuda que asciende a los 25 millones de pesos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exequias de Antonio Navarro Wolff se realizarán este martes 3 de noviembre en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/02/exequias-de-antonio-navarro-wolff-se-realizaran-este-martes-3-de-noviembre-en-bogota/",
+  "fecha": "2026-11-02T16:03:20-05:00",
+  "palabras": "",
+  "lead": "Antonio Navarro Wolff murió el pasado 1 de noviembre a los 78 años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "107 motocicletas fueron inmovilizadas durante la noche de Halloween en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/02/107-motocicletas-fueron-inmovilizadas-durante-la-noche-de-halloween-en-santa-marta/",
+  "fecha": "2026-11-02T16:00:04-05:00",
+  "palabras": "",
+  "lead": "Los procedimientos se concentraron en diferentes sectores de la ciudad para controlar las caravanas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Perú, Ecuador, Chile y Costa Rica se apartan del acuerdo internacional que prohíbe caza de tiburones",
+  "enlace": "https://caracol.com.co/2026/11/02/cuatro-paises-latinoamericanos-se-apartan-del-acuerdo-internacional-que-prohibe-la-caza-de-tiburones/",
+  "fecha": "2026-11-02T15:55:49-05:00",
+  "palabras": "",
+  "lead": "Se trata del acuerdo para la conservación de cinco especies de tiburones zorro y martillo, adoptado en la COP15 sobre la Convención sobre las Especies Migratorias de Animales Silvestres (CMS).",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desmantelan red de falsificadores de dinero en Antioquia: incautaron más de 600.000 dólares falsos",
+  "enlace": "https://caracol.com.co/2026/11/02/desmantelan-red-de-falsificadores-de-dinero-en-antioquia-incautaron-mas-de-600000-dolares-falsos/",
+  "fecha": "2026-11-02T15:28:18-05:00",
+  "palabras": "",
+  "lead": "Cuatro personas fueron capturadas en los allanamientos realizados en Medellín y Sopetrán.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Águilas vs. Fortaleza por Liga Colombiana 2026-II: minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/02/en-vivo-aguilas-vs-fortaleza-por-liga-colombiana-2026-ii-minuto-a-minuto/",
+  "fecha": "2026-11-02T15:26:37-05:00",
+  "palabras": "",
+  "lead": "El conjunto antioqueño recibirá a los ‘Amix’ con el objetivo de meterse entre los ocho mejores del campeonato.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría formuló pliego de cargos contra el exalcalde de Valledupar, Mello Castro",
+  "enlace": "https://caracol.com.co/2026/11/02/procuraduria-formulo-pliego-de-cargos-contra-el-exalcalde-de-valledupar-mello-castro/",
+  "fecha": "2026-11-02T15:24:06-05:00",
+  "palabras": "",
+  "lead": "La Procuraduría calificó la acción como falta grave, a título de culpa gravísima.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 15.000 pasajeros se han movilizado en 2.000 vehículos desde la terminal en Manizales",
+  "enlace": "https://caracol.com.co/2026/11/02/mas-de-15000-pasajeros-se-han-movilizado-en-2000-vehiculos-desde-la-terminal-en-manizales/",
+  "fecha": "2026-11-02T15:18:34-05:00",
+  "palabras": "",
+  "lead": "La Terminal de Transportes Los Cámbulos se articulan con la Policía Nacional para que se efectúe sin contratiempo el plan retorno.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Este es Kimi Antonelli, el piloto más joven en ganar la F1",
+  "enlace": "https://www.lafm.com.co/deportes/kimi-antonelli-piloto-campeon-formula-1-415919",
+  "fecha": "2026-11-02T15:25:00-05:00",
+  "palabras": "Deportes,Formula 1,Carreras de automovilismo,México,Lewis Hamilton,Max Verstappen",
+  "lead": "Antonelli fue el elegido para ocupar el segundo lugar de Mercedes en la parrilla de la F1 en 2025.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tren de la Navidad en Bogotá: fechas y horarios para viajar",
+  "enlace": "https://www.lafm.com.co/sociedad/tren-de-la-navidad-bogota-fechas-horarios-para-viajar-precios-tiquetes-415918",
+  "fecha": "2026-11-02T15:12:00-05:00",
+  "palabras": "Sociedad,Tren,Navidad,precios,Costo pasaje,horarios",
+  "lead": "La temporada tendrá una novedad para quienes esperan este plan cada fin de año, y es que comenzará casi tres semanas antes que la edición anterior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El telescopio de la Nasa que podría caer en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/telescopio-swift-de-la-nasa-podria-caer-en-colombia-415917",
+  "fecha": "2026-11-02T14:59:00-05:00",
+  "palabras": "Sociedad,espacio,Colombia,Nasa,satélite,Sistema Solar",
+  "lead": "La agencia espacial estadounidense intentó salvar el aparato, pero fracasaron en un intento.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
