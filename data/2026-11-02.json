@@ -282,7 +282,7 @@
   "palabras": "Cali, África",
   "lead": "El secretario de Salud de Cali reiteró el llamado a la calma a la ciudadanía, asegurando que no hay riesgo de ébola en la ciudad ni en la región.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Ahogados, Río Magdalena, Defensa Civil",
   "lead": "Según las autoridades, el adolescente de 13 años se encontraba nadando con unos amigos a la altura del antiguo Puente Pumarejo cuando fue arrastrado por la corriente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "Accidentes aéreos, Florida",
   "lead": "La grabación registra los llamados de emergencia de la tripulación del Learjet 60, que perdió altura de forma abrupta antes del impacto.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "En la víspera, el mandatario norteamericano había declarado que su país había destruido gran parte de las capacidades militares de Irán, aunque todavía debía ocuparse \"de uno o dos\" objetivos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "Antioquia, Noticias de hoy, Habitantes de calle, Noticias de hoy",
   "lead": "Las autoridades en la capital antioqueña adelantan retornos humanitarios y mantienen intervenciones en sectores críticos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "El Blanco Blanco enfrentará a Atlético Nacional en la semifinal de la Copa Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Los cuatro atentados, registrados entre el 31 de octubre y el 1 de noviembre, mantienen en alerta a las autoridades.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "Las tropas de la sexta brigada, adelantan, operaciones militares en la zona de Planadas, Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "El técnico venezolano también se refirió al primer gol de Carlos Bacca con la institución.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "Según Juan Camilo Hueje, alcalde de Planadas, la volqueta cargada con explosivos fue ubicada hacia la base militar, pero los artefactos lanzados impactaron contra la sede del hospital y las viviendas de civiles.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "El equipo vallecaucano llegó a las 33 unidades tras 17 fechas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "Operativo interinstitucional dejó un motociclista muerto, una persona herida y controles en toda la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "Orden Público,atentado,Gobernación del Tolima,Tolima,Ataque a la fuerza publica,ataque explosivo",
   "lead": "La gobernadora del Tolima, Adriana Magali Matiz, atribuyó preliminarmente el ataque a las disidencias de las Farc y advirtió que existen alertas sobre posi...",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "Orden Público,atentado,Actos terroristas,ataque explosivo,Disidentes de las Farc",
   "lead": "Cuatro muertos, entre ellos un bebé, y 15 heridos deja atentado terrorista con camión bomba en Planadas, Tolima",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,6 +436,61 @@
   "palabras": "Internacional,Ciberataques global,Supermercados,Suiza",
   "lead": "En octubre, un ciberataque hizo subir las temperaturas en las instalaciones frigoríficas de cientos de supermercados en Francia, lo que obligó a las cadena...",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a hombre por feminicidio de joven en Pinchote, Santander, la atacó con un cuchillo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/capturan-a-hombre-por-feminicidio-de-joven-en-pinchote-santander-la-ataco-con-un-cuchillo-rg10",
+  "fecha": "2026-11-02T08:29:36-05:00",
+  "palabras": "Santander, Policía Nacional, Feminicidio, Blu Radio, Noticias de hoy",
+  "lead": "Paula Carley Coca Murcia fue atacada con arma cortopunzante mientras trabajaba en un café de la vía San Gil–Socorro.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministerio de Salud rechaza ataque con explosivos contra la misión médica en Planadas, Tolima",
+  "enlace": "https://caracol.com.co/2026/11/02/ministerio-de-salud-rechaza-ataque-con-explosivos-contra-la-mision-medica-en-planadas-tolima/",
+  "fecha": "2026-11-02T08:44:10-05:00",
+  "palabras": "",
+  "lead": "El ataque con explosivos obligó a evacuar un espacio donde se prestaban servicios médicos y a habilitar un lugar alternativo para atender a los heridos, mientras las autoridades territoriales continúan verificando el balance definitivo de víctimas y daños.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Yeison López ganó medallas de plata y oro en el Mundial de Levantamiento de Pesas 2026",
+  "enlace": "https://caracol.com.co/2026/11/02/yeison-lopez-gano-medallas-de-plata-y-oro-en-el-mundial-de-levantamiento-de-pesas-2026/",
+  "fecha": "2026-11-02T08:41:05-05:00",
+  "palabras": "",
+  "lead": "El colombiano no pudo retener el título mundial en el total y el nuevo campeón es el egipcio Elsayed Abdelrahman.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Falleció en Bogotá Manuel Vicente Barrera, exgerente de Veolia Aguas de Tunja",
+  "enlace": "https://caracol.com.co/2026/11/02/fallecio-en-tunja-manuel-vicente-barrera-exgerente-de-veolia-aguas-de-tunja/",
+  "fecha": "2026-11-02T08:37:37-05:00",
+  "palabras": "",
+  "lead": "El administrador boyacense tuvo una trayectoria de más de 20 años en el sector de servicios públicos y estuvo al frente de Veolia Aguas de Tunja durante 15 años.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Adiós a la paz total? El proyecto que debate el Congreso",
+  "enlace": "https://www.lafm.com.co/politica/ley-de-sometimiento-desmontar-paz-total-cambios-que-plantea-el-congreso-415888",
+  "fecha": "2026-11-02T08:44:00-05:00",
+  "palabras": "Política,Paz total,Senado de la República,Ley de Garantías,Fiscalía General de la Nación,Congreso de la República,Cámara de Representantes",
+  "lead": "El proyecto representa una discusión sobre el rumbo de la política de seguridad y los mecanismos de sometimiento de estructuras armadas en Colombia.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
