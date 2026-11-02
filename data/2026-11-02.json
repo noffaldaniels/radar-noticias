@@ -1712,7 +1712,7 @@
   "palabras": "Tolima, Ataque terrorista, FARC",
   "lead": "Asimismo, aclaró que por la fuerza y la secuencia de las explosiones supieron de inmediato que no se trataba de un ataque con drones, lo que desató el pánico entre los habitantes al no saber dónde buscar refugio.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "Medellín, Seguros",
   "lead": "La compañía busca fortalecer su relación con empresarios y más de 400 asesores de seguros en Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "Este hombre sería el responsable de la retención de nueve volquetas, ocurrida días atrás en el centro del Valle.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "Fórmula 1, Mercedes Benz, Andrea Kimi Antonelli, Ferrari",
   "lead": "Rechazado por Maranello a los 11 años y formado bajo la tutela de Toto Wolff en Mercedes, el joven prodigio boloñés pasó de estrellarse en su debut en Monza a convertirse en el heredero de Lewis Hamilton.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "Viral, Blessd, Chile",
   "lead": "Los beneficiarios son familias que no cuentan con una conexión formal y permanente a la red de agua potable y que deben almacenar el suministro recibido mediante camiones aljibe.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "Noticias de hoy, Cauca",
   "lead": "Las autoridades confirmaron que los responsables de lo ocurrido en Balboa serían integrantes del frente 'Carlos Patiño' de las disidencias de alias 'Iván Mordisco',",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "Canasta familiar, Alimentos",
   "lead": "Esta mantequilla no fue la única marca adquirida: la operación incluye otras 18 marcas con presencia en Centroamérica y el Caribe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "",
   "lead": "El Pulso del Fútbol analiza las posibilidades de los equipos que luchan por un cupo entre los ocho.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "",
   "lead": "El Ministerio puso en conocimiento de la Contraloría, la Fiscalía y la Procuraduría presuntas irregularidades detectadas en contratos entre noviembre de 2024 y julio de 2026. También anunció la suspensión de pagos y el freno a nuevas adiciones presupuestales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "",
   "lead": "De acuerdo con la programación oficial publicada por el Distrito el 1 de noviembre, el Pico y Placa para vehículos particulares opera de lunes a viernes, entre las 6:00 de la mañana y las 9:00 de la noche.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "",
   "lead": "Estas son las cinco ciudades con más habitantes del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "",
   "lead": "Las promociones y los descuentos dinamizaron el consumo en septiembre. El 34% de los comerciantes reportó un crecimiento en sus ventas frente al mismo mes de 2025 y hay expectativas favorables para la temporada de fin de año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "",
   "lead": "Suecia, Bélgica, Estonia, Finlandia y Luxemburgo reportaron fallas que elevaron la temperatura de cámaras frigoríficas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "",
   "lead": "Teherán condiciona la reapertura de la vía marítima a un alto el fuego regional y al levantamiento de sanciones.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "",
   "lead": "El gobernador aseguró que mantiene una relación cordial con el Gobierno nacional y planteó la necesidad de discutir nuevas fuentes de financiación para los departamentos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "",
   "lead": "El gobernador aún no define el monto del crédito que presentará ante la Asamblea. También confirmó la salida de tres funcionarios por aspiraciones políticas y el nombramiento de María Ortiz en la Licorera de Boyacá.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "Orden Público,Fiscalía General de la Nación,Reino Unido,Asesinato",
   "lead": "La notificación de la Fiscalía General de Colombia sobre la nueva audiencia de imputación hizo que el juez británico frenara la diligencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "Deportes,Champions League,Grandes Ligas,Bundesliga,Liga de España,Premier League,Barcelona,Paris Saint-Germain,Manchester United",
   "lead": "A medida que avance la jornada, comenzarán a perfilarse los principales candidatos al título, así como los equipos que podrían convertirse en revelaciones ...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "Economía,Alianza Petrolera,Gasolina,Venta de acciones",
   "lead": "GeoPark anunció su ingreso a Venezuela y confirmó que el Grupo Gilinski tendrá el 56,3% de la compañía.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "Actualidad,Agua,Presidencia de la República,Abelardo de la Espriella,Santa Marta,Magdalena",
   "lead": "El presidente denunció una presunta mafia de carrotanques en Santa Marta y afirmó que entregó pruebas a Fiscalía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,6 +1932,149 @@
   "palabras": "Deportes,Liga BetPlay,Jackson Martínez,DIM,Radamel Falcao,Millonarios,Teófilo Gutiérrez,Deportivo Cali,Carlos Bacca,Dayro Moreno,América de Cali,Hugo Rodallega,Junior,Fútbol",
   "lead": "El jugador del DIM anotó en su debut para darle la victoria al equipo paisa y, de paso, se convirtió en uno de los pocos en celebrar con una edad avanzada.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Policías frenaron de un golpe a motociclista que intentó evadir un retén en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/policias-frenaron-de-un-golpe-a-motociclista-que-intento-evadir-un-reten-en-medellin-rs15",
+  "fecha": "2026-11-02T14:33:18-05:00",
+  "palabras": "Viral, Medellín",
+  "lead": "El hombre quedó en el piso tras recibir el impacto y la reacción del oficial ha desatado diversas opiniones si actúo o no de manera correcta en esta situación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Frustran atentado en Nariño: incautaron 117 kilos de explosivos y capturaron a presunto guerrillero",
+  "enlace": "https://www.bluradio.com/nacion/frustran-atentado-en-narino-incautaron-117-kilos-de-explosivos-y-capturaron-a-presunto-guerrillero-rg10",
+  "fecha": "2026-11-02T14:43:40-05:00",
+  "palabras": "",
+  "lead": "Las autoridades encontraron 78 artefactos explosivos artesanales en un vehículo que se movilizaba por la vía Panamericana. El material tendría como destino el peaje Cano Bajo, en el municipio de Chachagüí.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan imágenes y videos del funeral de 'Komanche' en El Salvador: todo lo transmitieron",
+  "enlace": "https://www.bluradio.com/sociedad/revelan-imagenes-y-videos-del-funeral-de-komanche-en-el-salvador-todo-lo-transmitieron-rs15",
+  "fecha": "2026-11-02T15:06:43-05:00",
+  "palabras": "Viral, El Salvador",
+  "lead": "El creador de contenido fue despedido entre amigos, familiares y allegados en su pueblo natal en El Salvador tras vivir varios años en México.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Antioquia ganó el Campeonato Nacional de Atletismo por segundo año consecutivo: logró 30 medallas",
+  "enlace": "https://www.bluradio.com/deportes/antioquia-gano-el-campeonato-nacional-de-atletismo-por-segundo-ano-consecutivo-logro-30-medallas-so35",
+  "fecha": "2026-11-02T15:16:34-05:00",
+  "palabras": "Noticias de hoy, Atletismo",
+  "lead": "La mayor contribución al medallero antioqueño llegó desde las pruebas de velocidad, relevos y vallas, en las que los deportistas consiguieron 11 preseas.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Octubre, el mes con menos homicidios en Barranquilla durante el 2026”: Alcalde Alejandro Char",
+  "enlace": "https://caracol.com.co/2026/11/02/octubre-el-mes-con-menos-homicidios-en-barranquilla-durante-el-2026-char/",
+  "fecha": "2026-11-02T15:09:25-05:00",
+  "palabras": "",
+  "lead": "El mandatario distrital dio a conocer que durante ese mes se registraron 25 casos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Motociclista falleció al caer a una quebrada en Manizales; su acompañante resultó gravemente herido",
+  "enlace": "https://caracol.com.co/2026/11/02/motociclista-fallece-al-caer-a-una-quebrada-en-manizales-su-acompanante-resulto-gravemente-herido/",
+  "fecha": "2026-11-02T14:36:59-05:00",
+  "palabras": "",
+  "lead": "El hecho se registró en el barrio Santos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Una mujer muerta y un motociclista herido dejó un siniestro vial entre Clemencia y Bayunca",
+  "enlace": "https://caracol.com.co/2026/11/02/una-mujer-muerta-y-un-motociclista-herido-dejo-un-siniestro-vial-entre-clemencia-y-bayunca/",
+  "fecha": "2026-11-02T14:46:45-05:00",
+  "palabras": "",
+  "lead": "Se investiga una posible falta de señalización por parte del motorizado que quedó varado en la vía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian penalmente a tres exministros por crisis de salud de los maestros en el FOMAG",
+  "enlace": "https://caracol.com.co/2026/11/02/denuncian-penalmente-a-tres-exministros-por-crisis-de-salud-de-los-maestros-en-el-fomag/",
+  "fecha": "2026-11-02T14:46:36-05:00",
+  "palabras": "",
+  "lead": "La denuncia fue presentada por Pablo Bustos ante la Fiscalía. Señala a Gloria Inés Ramírez, Ricardo Bonilla y Aurora Vergara por decisiones que habrían contribuido a una crisis que afecta a más de 300.000 docentes y cuyo déficit se estima en $2,7 billones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan Román Riquelme sobre Sebastián Villa: “Es el mejor jugador del fútbol argentino”",
+  "enlace": "https://caracol.com.co/2026/11/02/juan-roman-riquelme-sobre-sebastian-villa-es-el-mejor-jugador-del-futbol-argentino/",
+  "fecha": "2026-11-02T14:45:44-05:00",
+  "palabras": "",
+  "lead": "El presidente de Boca Juniors destacó el nivel del extremo colombiano, quien fue determinante en la victoria frente a River Plate.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Organismos de socorro buscan a menor de 13 años desaparecido en el río Magdalena",
+  "enlace": "https://caracol.com.co/2026/11/02/organismos-de-socorro-buscan-a-menor-de-13-anos-desaparecido-en-el-rio-magdalena/",
+  "fecha": "2026-11-02T14:38:21-05:00",
+  "palabras": "",
+  "lead": "El adolescente se estaba bañando junto a otros amigos debajo del antiguo puente Pumarejo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bolívar alcanza por primera vez seis colegios oficiales en la categoría A de las Pruebas Saber 11",
+  "enlace": "https://caracol.com.co/2026/11/02/bolivar-alcanza-por-primera-vez-seis-colegios-oficiales-en-la-categoria-a-de-las-pruebas-saber-11/",
+  "fecha": "2026-11-02T14:31:57-05:00",
+  "palabras": "",
+  "lead": "El departamento duplicó el número de instituciones educativas en esta clasificación, al pasar de tres a seis, en comparación con los resultados de 2023",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así fue travesía de Karl Bushby durante 28 años por el mundo",
+  "enlace": "https://www.lafm.com.co/internacional/karl-bushby-hombre-que-recorrio-el-mundo-caminando-durante-28-anos-415916",
+  "fecha": "2026-11-02T14:49:00-05:00",
+  "palabras": "Internacional,Largas caminatas,Running,Deporte,Inglaterra,Natación",
+  "lead": "Su historia no solo está marcada por la distancia recorrida, sino también por las reglas que se impuso, los obstáculos que debió superar y el reencuentro c...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Accidente aéreo en Florida: se conocen audios antes del choque",
+  "enlace": "https://www.lafm.com.co/internacional/accidente-aereo-en-florida-revelan-audios-antes-del-choque-415915",
+  "fecha": "2026-11-02T13:52:00-05:00",
+  "palabras": "Internacional,Miami,Estados Unidos,Avión,Accidente,audio",
+  "lead": "En la tarde del 1 de noviembre de 2026 hubo conmoción en el Estado de Florida por la caída de un aparato.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
