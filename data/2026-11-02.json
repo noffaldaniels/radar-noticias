@@ -1063,7 +1063,7 @@
   "palabras": "Antioquia, Envigado, Quemados con pólvora, Diciembre, Noticias de hoy",
   "lead": "El objetivo de la administración local es llevar a cero el registro de quemados por este tipo de artefactos durante la temporada que se extiende hasta comienzos de enero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "Viral, Itagüí, Fenómenos paranormales",
   "lead": "La propiedad permanece bajo administración de la SAE, mientras vecinos cuentan que han visto sombras y escuchado voces extrañas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "Santander, Barrancabermeja, Policía Nacional, Noticias de hoy, Blu Radio",
   "lead": "Las autoridades buscan identificar y capturar a los integrantes de bandas criminales que estarían exigiendo las llamadas ‘vacunas’ a propietarios de negocios, especialmente en la comuna 3.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "La aprobación de las autoridades estadounidenses fue anunciada por Dr. Reddy's Laboratories, farmacéutica india que fabrica la versión genérica del lenacapavir, y por Unitaid, iniciativa internacional para suministrar medicamentos en países de ingresos bajos y medios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "Tolima, Ataque terrorista, Disidencias Farc",
   "lead": "El hecho violento ocurrió en las cercanías de una base militar de la zona, una jurisdicción en la que operan diversas disidencias de la desmovilizada guerrilla de las Farc.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Blu Jeans del lunes, 2 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "Servicio Geológico Colombiano - SGC, Perú, Temblor hoy",
   "lead": "El SGC reportó un sismo de magnitud 5,1 este lunes 2 de noviembre, con una profundidad de 67 kilómetros.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "Consideran que las altas temperaturas en el municipio obligan a una mayor demanda del servicio. Desde la CHEC afirman que la medida incentiva al ahorro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "La captura se llevó a cabo en Cali y fue confirmada por el presidente Abelardo De la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "Para garantizar la seguridad y movilidad, la Policía Nacional desplegó más de 5.000 hombres y mujeres en las vías nacionales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "La banda venezolana reunió a cerca de 12.000 personas en el Barclays Center de Brooklyn, donde ofreció un concierto con disfraces, música y una celebración de la cultura de su país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "Tras la salida del capitán Eleasid Durán Sánchez, desde la administración departamental aseguran que el nuevo director deberá dar continuidad a las estrategias de seguridad en el penal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "El productor estadounidense fue una de las figuras que impulsó el desarrollo del techno en Detroit durante los años 80. Su fallecimiento fue confirmado por su agencia.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "La Policía Nacional avanza con dispositivo para el Plan Retorno en el departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "El mantenimiento de 17 canales y las limpiezas preventivas de basura han garantizado el flujo del agua",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "Seis personas fueron judicializadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "Los hechos ocurrieron en el sector Zarabanda y la víctima registra cinco anotaciones judiciales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Dos jugadores del fútbol colombiano entre los cinco mejores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Al parecer los hechos se habrían presentado en medio de una discusión",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Según José Perdomo, líder social de esta población ubicada al sur del Tolima, algunos de los explosivos cayeron sobre las viviendas del barrio Jardín, otros cerca a la base militar.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "Entretenimiento,artesanías,joyas,Elon Musk,Modelo,Arte",
   "lead": "Esa es la historia de Sandra Roldán, diseñadora antioqueña que logró que sus creaciones llegaran hasta Maye Musk, modelo de 77 años y madre del empresario ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Internacional,Papa León XIV,Argentina,Uruguay,Perú,sudamerica,Javier Milei",
   "lead": "Periodistas de las tres naciones explicaron cómo se alistan para recibirlo y cuáles serán los principales momentos de la gira, incluyendo la incertidumbre ...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Actualidad,Puentes festivo,Ministerio de Transporte,Medios de transporte,Policía Nacional,vías",
   "lead": "Desde el viernes 30 de octubre han circulado 3.202.000 vehículos por los principales peajes de Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,6 +1316,226 @@
   "palabras": "Orden Público,Procuraduría General de la Nación,Defensoría del Pueblo,ataque explosivo,Disidentes de las Farc",
   "lead": "Procuraduría y Defensoría rechazan atentado en Planadas y exigen respuesta urgente del Gobierno Nacional",
   "seccion": "tolima",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caen en Cali alias 'Joel Piraña' y 'Rulay' cabecillas de peligrosa estructura criminal del Caribe",
+  "enlace": "https://www.bluradio.com/nacion/caen-en-cali-alias-joel-pirana-y-rulay-cabecillas-de-peligrosa-estructura-criminal-del-caribe-rg10",
+  "fecha": "2026-11-02T12:17:30-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "La captura de estos delincuentes fue confirmada por el presidente Abelardo de la Espriella, quien aseguró que no importa donde se escondan los criminales, serán encontrados y llevados a la justicia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por segunda semana consecutiva no habrá cortes de agua para el nororiente de Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/por-segunda-semana-consecutiva-no-habra-cortes-de-agua-para-el-nororiente-de-medellin-rg10",
+  "fecha": "2026-11-02T11:41:38-05:00",
+  "palabras": "Antioquia, EPM, Racionamiento de agua, Medellín, Noticias de hoy",
+  "lead": "EPM indicó que mantiene esta disposición, al menos hasta el próximo 8 de noviembre, teniendo en cuenta los pronósticos climáticos y el seguimiento permanente a las fuentes de abastecimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Campesinos del páramo de Berlín en Santander alertan por posible impuesto a la cebolla",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/campesinos-del-paramo-de-berlin-en-santander-alertan-por-posible-impuesto-a-la-cebolla-rg10",
+  "fecha": "2026-11-02T11:47:35-05:00",
+  "palabras": "Santander, Gobierno nacional, Noticias de hoy, Blu Radio",
+  "lead": "Los productores en Tona aseguran que actualmente venden la cebolla junca por debajo de los costos de producción. Ahora temen que el impuesto incluido en la reforma económica agrave la situación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "GeoPark adelanta operación petrolera en Venezuela: Grupo Gilinski es el accionista principal",
+  "enlace": "https://www.bluradio.com/economia/geopark-adelanta-operacion-petrolera-en-venezuela-grupo-gilinski-es-el-accionista-principal-rg10",
+  "fecha": "2026-11-02T11:44:18-05:00",
+  "palabras": "Petróleo, Grupo Gilinski, Venezuela",
+  "lead": "El acuerdo por 25 años le da a GeoPark el 65% de participación en el bloque Bare. Gilinski tendrá cerca del 56,3% de la compañía tras pagar la compra con acciones.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día: resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T11:51:23-05:00",
+  "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Chontico Día juega todos los días a la 1:00 p. m. Consulte aquí el número ganador de hoy, lunes 2 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día: resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T11:59:10-05:00",
+  "palabras": "Paisita día, Chances y Loterías, Resultados del chance",
+  "lead": "El chance Paisita Día juega de lunes a sábado a la 1:00 p. m. y los domingos y festivos a las 2:00 p. m. Consulte aquí el número ganador de hoy.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día: resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T12:03:46-05:00",
+  "palabras": "Sinuano día, Chances y Loterías, Resultados del chance",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador de hoy, lunes 2 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día: resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T12:10:37-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 4:00 p. m. Consulte aquí el número ganador del último sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inmovilizaron lujoso Corvette tras choque en Medellín: conductor tenía ocho multas de tránsito",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/inmovilizaron-lujoso-corvette-tras-choque-en-medellin-conductor-tenia-ocho-multas-de-transito-rs15",
+  "fecha": "2026-11-02T12:21:49-05:00",
+  "palabras": "Noticias de hoy, Movilidad, Medellín",
+  "lead": "El accidente se dio luego de que el vehículo de alta gama no lograra frenar ante un puesto de control en la comuna 15 Guayabal y chocara por detrás a otro carro, dejando 3 lesionados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Felipe De Brigard, colombiano ganador de la beca MacArthur 2026, investiga cómo el perdón transforma",
+  "enlace": "https://caracol.com.co/2026/11/02/felipe-de-brigard-colombiano-ganador-de-la-beca-macarthur-2026-investiga-como-el-perdon-transforma/",
+  "fecha": "2026-11-02T12:21:25-05:00",
+  "palabras": "",
+  "lead": "El filósofo y neurocientífico recibió un reconocimiento de 800.000 dólares por sus investigaciones sobre la memoria y la imaginación. Su trabajo con víctimas del conflicto armado colombiano busca comprender cómo el perdón puede cambiar las emociones asociadas a experiencias dolorosas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abelardo De La Espriella rechazó atentados y reiteró ofensiva militar contra grupos armados",
+  "enlace": "https://caracol.com.co/2026/11/02/abelardo-de-la-espriella-rechazo-atentados-y-reitero-ofensiva-militar-contra-grupos-armados/",
+  "fecha": "2026-11-02T12:14:12-05:00",
+  "palabras": "",
+  "lead": "El presidente aseguró que los ataques contra la población civil no quedarán impunes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "107 Policías están desplegados en el plan retorno en las salidas y entradas de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/02/107-policias-estan-desplegados-en-el-plan-retorno-en-las-salidas-y-entradas-de-cartagena/",
+  "fecha": "2026-11-02T12:12:28-05:00",
+  "palabras": "",
+  "lead": "Más de 46 mil vehículos se han movilizado por las vías de Bolívar durante el puente festivo de Todos Los Santos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Cali a dos presuntos cabecillas de estructura criminal de la Costa Caribe",
+  "enlace": "https://caracol.com.co/2026/11/02/capturan-en-cali-a-dos-presuntos-cabecillas-de-estructura-criminal-de-la-costa-caribe/",
+  "fecha": "2026-11-02T12:10:17-05:00",
+  "palabras": "",
+  "lead": "Los capturados son Alias “Joel Piraña” y alias “Rulay”, quienes según el presidente Abelardo de la Espriella, estarían vinculados con homicidios, extorsiones y narcotráfico en Barranquilla y el municipio de Soledad, Atlántico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Familia bogotana que llegó de turista a Cali fue víctima de hurto en el sur de la ciudad",
+  "enlace": "https://caracol.com.co/2026/11/02/familia-bogotana-que-llego-de-turista-a-cali-fue-victima-de-hurto-en-el-sur-de-la-ciudad/",
+  "fecha": "2026-11-02T12:02:22-05:00",
+  "palabras": "",
+  "lead": "En un video quedó registrado el momento en el que varios delincuentes armados interceptaron a los integrantes de la familia, que se movilizaban en una camioneta. Según las autoridades, les robaron varias joyas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rehabilitaron vía en el Urabá antioqueño que quedó afectada por el terremoto de Panamá",
+  "enlace": "https://caracol.com.co/2026/11/02/rehabilitaron-via-en-el-uraba-antioqueno-que-quedo-afectada-por-el-terremoto-de-panama/",
+  "fecha": "2026-11-02T11:58:00-05:00",
+  "palabras": "",
+  "lead": "Con estas obras se recuperó el tránsito por este corredor, utilizado por aproximadamente 15 mil personas de la región.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aviación del Ejército condecoró a pilotos de la Policía",
+  "enlace": "https://www.lafm.com.co/orden-publico/asonada-ejercito-putumayo-militares-quemados-condecoracion-colombia-415140",
+  "fecha": "2026-11-02T12:15:00-05:00",
+  "palabras": "Orden Público,Ejército Nacional,Helicóptero,Policía Nacional,Militares,Putumayo,Grupos Armados Organizados",
+  "lead": "Los miembros de la Policía fueron los encargados de trasladar al subteniente Miguel Ángel Mejía Gutiérrez, desde Villagarzón hasta un centro médico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Estos países tienen la licencia de conducción por puntos",
+  "enlace": "https://www.lafm.com.co/sociedad/licencia-conduccion-puntos-paises-tienen-sistema-415906",
+  "fecha": "2026-11-02T11:53:00-05:00",
+  "palabras": "Sociedad,Ministerio de Transporte,licencia de conducir,vehículos",
+  "lead": "En Europa, la mayoría cuenta con el sistema, destacándose España, Italia, Reino Unido, Francia, Alemania, entre otros.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así reclutan las bandas criminales a menores en Barranquilla",
+  "enlace": "https://www.lafm.com.co/orden-publico/grupos-criminales-reclutan-menores-de-edad-en-barranquilla-atlantico-415899",
+  "fecha": "2026-11-02T11:50:00-05:00",
+  "palabras": "Orden Público,Reclutamiento forzoso,Menores,Niños,Barranquilla,Atlántico,Los costeños,Clan del Golfo,estructuras criminales",
+  "lead": "Les ofrecen una vida de lujos y terminan amenazándolos de muerte: el drama del reclutamiento infantil",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Denuncian ante a exministros por la salud de maestros",
+  "enlace": "https://www.lafm.com.co/orden-publico/denuncian-fiscalia-exministros-presuntas-irregularidades-salud-de-los-maestros-415904",
+  "fecha": "2026-11-02T11:08:00-05:00",
+  "palabras": "Orden Público,Salud,Maestros,profesores,Fiscalía General de la Nación,Funcionarios denunciados,Ministerio de Educación,Ministerio del Trabajo",
+  "lead": "Pablo Bustos Sánchez, presidente de la Red de Veedurías Ciudadanas de Colombia (Red Ver), presentó una denuncia penal ante la Fiscalía General",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bajaj lideró octubre con 19.227 motocicletas registradas",
+  "enlace": "https://www.lafm.com.co/sociedad/octubre-registro-motos-bajaj-lidero-mercado-415898",
+  "fecha": "2026-11-02T09:55:00-05:00",
+  "palabras": "Sociedad,Motocicletas,ANDI,Fenalco,ventas",
+  "lead": "Tres departamentos representan 46% del total del mercado de motocicletas del país.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
