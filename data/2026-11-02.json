@@ -447,7 +447,7 @@
   "palabras": "Santander, Policía Nacional, Feminicidio, Blu Radio, Noticias de hoy",
   "lead": "Paula Carley Coca Murcia fue atacada con arma cortopunzante mientras trabajaba en un café de la vía San Gil–Socorro.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El ataque con explosivos obligó a evacuar un espacio donde se prestaban servicios médicos y a habilitar un lugar alternativo para atender a los heridos, mientras las autoridades territoriales continúan verificando el balance definitivo de víctimas y daños.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "El colombiano no pudo retener el título mundial en el total y el nuevo campeón es el egipcio Elsayed Abdelrahman.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "El administrador boyacense tuvo una trayectoria de más de 20 años en el sector de servicios públicos y estuvo al frente de Veolia Aguas de Tunja durante 15 años.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,6 +491,215 @@
   "palabras": "Política,Paz total,Senado de la República,Ley de Garantías,Fiscalía General de la Nación,Congreso de la República,Cámara de Representantes",
   "lead": "El proyecto representa una discusión sobre el rumbo de la política de seguridad y los mecanismos de sometimiento de estructuras armadas en Colombia.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Delante de sus compañeros, asesinaron a trabajador de contratista de Ecopetrol en Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/delante-de-sus-companeros-asesinaron-a-trabajador-de-contratista-de-ecopetrol-en-barrancabermeja-rg10",
+  "fecha": "2026-11-02T09:14:22-05:00",
+  "palabras": "Santander, Blu Radio, Policía Nacional, Barrancabermeja, Ecopetrol, Noticias de hoy",
+  "lead": "Según información preliminar, hombres armados llegaron hasta el pozo 2086 y le dispararon. Autoridades investigan.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Rehabilitan vía afectada en zona rural de Turbo, Antioquia, tras terremoto en Panamá",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/rehabilitan-via-afectada-en-zona-rural-de-turbo-antioquia-tras-terremoto-en-panama-rg10",
+  "fecha": "2026-11-02T09:24:00-05:00",
+  "palabras": "Turbo, Panamá, Noticias de hoy, Antioquia",
+  "lead": "Más de 15 mil habitantes estaban incomunicados por el sismo que reactivó diapiros de lodo en la región.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Turista sufrió un lamentable momento en Airbnb: encontró una fea sorpresa en Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/turista-sufrio-un-lamentable-momento-en-airbnb-encontro-una-fea-sorpresa-en-bogota-so35",
+  "fecha": "2026-11-02T08:57:28-05:00",
+  "palabras": "Viral, Airbnb, Robos, Chile",
+  "lead": "Ricardo Miranda encontró una ventana rota y sus maletas abiertas. El rastreo de su computador arrojó una ubicación en el occidente de la capital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Irán afirma que si EEUU acepta sus condiciones podría reabrir Ormuz en dos días",
+  "enlace": "https://www.bluradio.com/mundo/iran-afirma-que-si-eeuu-acepta-sus-condiciones-podria-reabrir-ormuz-en-dos-dias-cb20",
+  "fecha": "2026-11-02T08:53:51-05:00",
+  "palabras": "",
+  "lead": "El diplomático aseveró que todo “depende por completo de la voluntad y la decisión de Washington”.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santander rechaza el crimen contra una mujer en Pinchote y pide resultados en la investigación",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/santander-rechaza-el-crimen-contra-una-mujer-en-pinchote-y-pide-resultados-en-la-investigacion-rg10",
+  "fecha": "2026-11-02T09:17:01-05:00",
+  "palabras": "Santander, Noticias de hoy, Blu Radio, Gobernación de Santander, Policía Nacional, Feminicidio",
+  "lead": "Waleska Quintero Jaimes, secretaria de la Mujer y Equidad de Género, expresó su solidaridad con la familia de la víctima y pidió a las autoridades esclarecer el crimen en el menor tiempo posible. Por este caso fue capturado un hombre de 63 años, quien quedó a disposición de la Fiscalía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Esta semana inician demoliciones financiadas por el fondo milagro en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/esta-semana-inician-demoliciones-financiadas-por-el-fondo-milagro-en-cali-rg10",
+  "fecha": "2026-11-02T09:21:44-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "A 85 ascendió el número de edificios que deben ser demolidos en Cali, al quedar gravemente afectados por el terremoto del 10 de agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Radican ante el Concejo el Proyecto de Presupuesto de 2027 por $42,7 billones",
+  "enlace": "https://caracol.com.co/2026/11/02/radican-ante-el-concejo-el-proyecto-de-presupuesto-de-2027-por-427-billones/",
+  "fecha": "2026-11-02T09:30:48-05:00",
+  "palabras": "",
+  "lead": "Educación, Movilidad y Salud serán los sectores con mayor inversión.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Licencia de conducción por puntos: así funcionaría sistema que podría quitar el pase a infractores",
+  "enlace": "https://caracol.com.co/2026/11/02/licencia-de-conduccion-por-puntos-asi-funcionaria-sistema-que-podria-quitar-el-pase-a-infractores/",
+  "fecha": "2026-11-02T09:27:37-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Transporte presentó esta propuesta como parte de la reforma al Código Nacional de Tránsito. Los conductores perderían puntos por cometer infracciones y podrían quedarse sin licencia si agotan su saldo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carro deportivo de lujo protagonizó aparatoso accidente en Medellín: tres quedaron lesionados",
+  "enlace": "https://caracol.com.co/2026/11/02/carro-deportivo-de-lujo-protagonizo-aparatoso-accidente-en-medellin-tres-quedaron-lesionados/",
+  "fecha": "2026-11-02T09:23:07-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Movilidad informó que en lo corrido de 2026 se han impuesto 2.218 comparendos por emisiones contaminantes y generación de ruido en vehículos en Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Deja un legado de paz”: Líder sindical santandereano recordó su lucha junto a Antonio Navarro Wolff",
+  "enlace": "https://caracol.com.co/2026/11/02/deja-un-legado-de-paz-lider-sindical-santandereano-recordo-su-lucha-junto-a-antonio-navarro-wolff/",
+  "fecha": "2026-11-02T09:11:42-05:00",
+  "palabras": "",
+  "lead": "Isaías Tristancho, quien compartió durante décadas con el dirigente político recordó el atentado en el que perdió una de sus piernas, destacó su papel en la historia política de Colombia y lamentó su fallecimiento este 1 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a joven reincidente armado en el centro de Bogotá, ocultaba una granada en su ropa",
+  "enlace": "https://caracol.com.co/2026/11/02/capturan-a-joven-reincidente-armado-en-el-centro-de-bogota-ocultaba-una-granada-en-su-ropa/",
+  "fecha": "2026-11-02T09:02:16-05:00",
+  "palabras": "",
+  "lead": "El capturado tiene antecedentes por delitos de violencia intrafamiliar y fabricación, tráfico y porte de armas de uso privativo de las Fuerzas Armadas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Judicializan a seis integrantes de la banda ‘Satanás’ que extorsionaban a conductores en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/02/fiscalia-judicializa-a-seis-integrantes-de-la-banda-satanas-que-extorsionaban-a-conductores-en-bog/",
+  "fecha": "2026-11-02T08:57:07-05:00",
+  "palabras": "",
+  "lead": "La investigación estableció que las extorsiones afectaban a conductores que cubrían las rutas Bosa Estación, Bosa El Recreo, Bosa Porvenir, Bosa Santafé, Bosa San Bernardino, Bosa Brasil y Parques de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cornare abrió investigación por caída de árbol que dejó un muerto en Santo Domingo, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/02/cornare-abrio-investigacion-por-caida-de-arbol-que-dejo-un-muerto-en-santo-domingo-antioquia/",
+  "fecha": "2026-11-02T08:54:35-05:00",
+  "palabras": "",
+  "lead": "La autoridad ambiental revisará estudios que determinaban un riesgo bajo de desplome.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Gobierno Petro hizo fiesta con la contratación pública”: MinCIT denuncia irregularidades en Fontur",
+  "enlace": "https://caracol.com.co/2026/11/02/gobierno-petro-hizo-fiesta-con-la-contratacion-publica-mincit-denuncia-irregularidades-en-fontur/",
+  "fecha": "2026-11-02T08:53:54-05:00",
+  "palabras": "",
+  "lead": "El ministro Mauricio Gómez Amín confirmó que los hallazgos relacionados con 148 contratos por más de $125.000 millones ya fueron denunciados ante la Fiscalía. La información también será remitida a la Contraloría y la Procuraduría.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué diferenció a Antonio Navarro Wolff de Gustavo Petro?",
+  "enlace": "https://www.lafm.com.co/politica/muerte-navarro-wolf-exmilitante-m19-diferencias-politicas-gustavo-petro-415886",
+  "fecha": "2026-11-02T09:22:00-05:00",
+  "palabras": "Política,Antonio Navarro Wolff,Gustavo Petro,M-19,Doble militancia,Fuerza política",
+  "lead": "Everth Bustamante, abogado, exmilitante del M-19 y exsenador del Centro Democrático, recordó el legado de Navarro y destacó su decisión de mantener el cami...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Luis Pérez estaba informado de operaciones en la Comuna 13",
+  "enlace": "https://www.lafm.com.co/sociedad/jep-medellin-exalcalde-luis-perez-comuna-13-operaciones-415892",
+  "fecha": "2026-11-02T09:01:00-05:00",
+  "palabras": "Sociedad,JEP,Luis Pérez,Medellín, Colombia,actos violentos,conflicto armado,Paramilitares,Farc EP",
+  "lead": "En la comuna 13 de Medellín, la JEP documentó 951 hechos victimizantes, entre ellos 87 desapariciones forzadas y 80 homicidios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atentados en Cauca, Huila y Tolima: 5 muertos y 12 heridos",
+  "enlace": "https://www.lafm.com.co/orden-publico/escalada-terrorista-disidencias-atentados-cauca-algeciras-planadas-muertos-colombia-415882",
+  "fecha": "2026-11-02T09:01:00-05:00",
+  "palabras": "Orden Público,ataque explosivo,disidencias,atentado,Cauca,Tolima,Huila,Drones,Muertos,Iván Mordisco,Policía Nacional",
+  "lead": "Ante los ataques, la Fuerza Pública mantiene los despliegues en cada una de las regiones, a la vez que avanzan con las investigaciones.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cae banda que extorsionadba a transporte informal en Bosa",
+  "enlace": "https://www.lafm.com.co/actualidad/bosa-bogota-banda-cobraba-transporte-informal-extorsion-transporte-informal-415891",
+  "fecha": "2026-11-02T08:44:00-05:00",
+  "palabras": "Actualidad,Bogotá,actividad criminal,Transporte informal,Extorsión,Fiscalía General de la Nación",
+  "lead": "Los presuntos integrantes exigían a conductores de transporte informal de Bosa el pago colectivo de 13 millones de pesos mensuales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan a joven que ocultaba una granada en Bogotá",
+  "enlace": "https://www.lafm.com.co/actualidad/bogota-captura-joven-granada-de-fragmentacion-casa-415890",
+  "fecha": "2026-11-02T08:36:00-05:00",
+  "palabras": "Actualidad,Bogotá,Policía Nacional,Capturas,Incautación de explosivos,incautan explosivos,Granada",
+  "lead": "El procedimiento se realizó en la carrera 12 con calle 13, en la localidad de Santa Fe, en el centro de Bogotá.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
