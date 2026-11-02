@@ -2306,7 +2306,7 @@
   "palabras": "Accidentes aéreos, Florida, Estados Unidos",
   "lead": "Investigadores de la NTSB indagan si el hielo y las turbulencias provocaron que el Learjet 60 comenzara a desintegrarse a 35.000 pies de altura antes de impactar en Palm Beach.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "Viral, Maluma",
   "lead": "No solo en Bogotá, sino que el antioqueño ha dejado pistas en países como Estados Unidos y Argentina que aumentaron la expectativa de una posible gira.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "Cocaína, Ejército Nacional, Cesar",
   "lead": "El Ejército destruyó en San Alberto, Cesar, un laboratorio de cocaína que pertenecería a las Autodefensas Conquistadoras de la Sierra y tenía capacidad para producir 600 kilos de droga al mes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "",
   "lead": "El colombiano se impuso en la prueba de 1 kilómetro bialetas senior y subió a lo más alto del podio en el Mundial de Aguas Abiertas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "",
   "lead": "El hospital de este municipio sufrió afectaciones del 80% en su infraestructura confirmó la Alcaldía.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "",
   "lead": "Los explosivos lanzados cayeron sobre las instalaciones de la farmacia del hospital del municipio e impactaron viviendas de los barrios Simón Bolívar, Ciudad Jardín y el Aeropuerto.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "Sociedad,Movilidad sostenible,Secretaría de Movilidad,Patinetas eléctricas,Bicicleta,Ministerio de Transporte,Colombia",
   "lead": "El casco siempre debe usarse mientras que las prendas retrorreflectivas tendrán un horario específico.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "Actualidad,Políticos,Partido político,Antonio Navarro Wolff,Constituyente,Colombia",
   "lead": "La ceremonia religiosa se realizará este martes 3 de noviembre, a las 9:00 de la mañana, en el cementerio Jardines del Recuerdo, en Bogotá.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,6 +2394,72 @@
   "palabras": "Orden Público,atentado,Alteración al orden público,Disidentes de las Farc,Víctimas",
   "lead": "Identifican a las cuatro víctimas mortales del atentado con volqueta bomba en Planadas (Tolima), entre ellas una bebé de dos meses.",
   "seccion": "tolima",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Accidente de tren en España: identifican a los 69 muertos",
+  "enlace": "https://www.bluradio.com/mundo/accidente-tren-espana-identifican-fallecidos-victimas-cb20",
+  "fecha": "2026-11-02T17:45:13-05:00",
+  "palabras": "España, Tren",
+  "lead": "Equipos forenses completaron la identificación de las 69 víctimas de la tragedia ferroviaria mediante huellas y ADN para entregarlas a sus familias.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "FMI respalda Ley de Rescate Fiscal presentada por el Gobierno",
+  "enlace": "https://www.bluradio.com/economia/fmi-respalda-ley-de-rescate-fiscal-presentada-por-el-gobierno-rg10",
+  "fecha": "2026-11-02T17:59:13-05:00",
+  "palabras": "FMI",
+  "lead": "El Fondo Monetario Internacional define la propuesta de ajuste como “un paso significativo hacia el abordaje de los desafíos fiscales heredados por la nueva administración”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corea del Norte rechaza acusaciones de EE.UU. por millonario robo cibernético a Binance",
+  "enlace": "https://caracol.com.co/2026/11/02/corea-del-norte-rechaza-acusaciones-de-eeuu-por-millonario-robo-cibernetico-a-binance/",
+  "fecha": "2026-11-02T18:12:38-05:00",
+  "palabras": "",
+  "lead": "Kim Yo Jong calificó de provocación política las acusaciones del FBI que vinculan a Pyongyang con el robo de 6.000 millones de dólares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Agente de Jhon Lucumí sobre su llegada a Juventus: “Sabía que iba a llegar a un grande”",
+  "enlace": "https://caracol.com.co/2026/11/02/agente-de-jhon-lucumi-sobre-su-llegada-a-juventus-sabia-que-iba-a-llegar-a-un-grande/",
+  "fecha": "2026-11-02T17:32:05-05:00",
+  "palabras": "",
+  "lead": "Simone Rondanini, representante del defensor colombiano, habló sobre el camino que llevó al futbolista a Turín y sus expectativas en el club italiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Corea del Norte rechaza acusaciones del FBI sobre hackeo a Binance",
+  "enlace": "https://www.lafm.com.co/internacional/corea-del-norte-rechaza-acusaciones-del-fbi-sobre-hackeo-binance-415924",
+  "fecha": "2026-11-02T18:02:00-05:00",
+  "palabras": "Internacional,Corea del Norte,FBI,Estados Unidos,Estafa,Intento de hackeo",
+  "lead": "El ataque cibernético significó pérdidas millonarias; el FBI culpa a hackers de norcorea.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario mínimo 2027: las cifras que ya están sobre la mesa",
+  "enlace": "https://www.lafm.com.co/economia/salario-minimo-2027-cifras-sobre-la-mesa-y-fecha-clave-del-aumento-415923",
+  "fecha": "2026-11-02T17:08:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Colombia,Gobierno,PIB,IPC,CUT,OIT",
+  "lead": "La mesa tripartita podría estar más cerca de instalarse, porque podría iniciarse el 18 de noviembre.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
