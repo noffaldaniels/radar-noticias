@@ -125,6 +125,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El 4 de julio de 1991 se promulgó la nueva Constitución de Colombia en coro, con la participación de figuras como Antonio Navarro Wolf y Carlos Pizarro.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Un atentado con camión bomba en Planadas, Tolima, deja un saldo parcial de cuatro muertos, incluyendo un bebé de dos meses, varios heridos y daños en viviendas.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:01",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Calificó lo ocurrido en Planadas como un acto vil y criminal que hay que rechazar con absoluta contundencia.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:05",
+   "quien": "Paula Rodríguez, Periodista de Noticias La FM en Ibagué",
+   "que": "Un atentado terrorista con un vehículo tipo volqueta cargado con explosivos en Planadas, Tolima, cerca de la base militar, dejó un saldo preliminar de 15 personas heridas, cuatro fallecidos (incluyendo un bebé) y severos daños en múltiples viviendas.",
+   "resaltar": true
   }
  ],
  "avisos": [
