@@ -419,6 +419,27 @@
    "quien": "Senador Hernán Cadavid del Centro Democrático",
    "que": "El gobierno anterior empezó con 15 mil hombres en armas y al finalizar llegó a 28 mil, con la creación de figuras como gestores de paz. Se busca un nuevo enfoque en materia de seguridad y orden público.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:30",
+   "quien": "Renán Fontalvo, Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el barrio La Chinita en Barranquilla, un menor de 13 años llamado Evan Jorday Niebles Blanco cayó al río Magdalena desde el puente Pumarejo tras jugar con amigos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:30",
+   "quien": "Ron DeSantis, Gobernador de Florida",
+   "que": "Un jet ejecutivo que despegó de Austin, Texas, con destino a Las Bahamas se estrelló cerca de las 12:50 del mediodía en una zona residencial del condado de Palm Beach en Florida.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:30",
+   "quien": "Cruz Roja",
+   "que": "La Cruz Roja realizó la primera atención a 132 supervivientes de una embarcación con 12 mujeres que naufragó en aguas del Atlántico rumbo a la isla de Lanzarote en el archipiélago de Canarias, registrándose además 7 fallecidos.",
+   "resaltar": false
   }
  ],
  "avisos": [
