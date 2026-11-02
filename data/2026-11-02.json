@@ -161,7 +161,7 @@
   "palabras": "Antioquia, Noticias de hoy, Disidencias Farc, Calarcá, EPM, Alcaldía de Medellín, Metro de Medellín",
   "lead": "Un informe de seguridad de la compañía reveló que a inicios de este año el grupo armado, al mando de 'Calarcá', exigió millonarias extorsiones para no atentar contra estas entidades ni Hidroituango.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,6 +172,83 @@
   "palabras": "Antioquia, Medellín, EPM, Racionamiento de agua, Fenómeno de El Niño",
   "lead": "En las próximas horas EPM anunciará cómo operará la medida hasta el 9 de noviembre, tras una semana sin cortes programados del servicio.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Activan motocicleta bomba a pocos metros del hospital de Balboa, Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/activan-motocicleta-bomba-a-pocos-metros-del-hospital-de-balboa-cauca-rg10",
+  "fecha": "2026-11-02T06:35:52-05:00",
+  "palabras": "Cauca, atentado terrorista",
+  "lead": "La comunidad en el departamento del Cauca permanece en alerta e incertidumbre, teniendo en cuenta la escalada de violencia que se ha registrado en la región durante el fin de semana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Persiste restricción en la vía a Buenaventura por derrumbes en Loboguerrero",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/persiste-restriccion-en-la-via-a-buenaventura-por-derrumbes-en-loboguerrero-rg10",
+  "fecha": "2026-11-02T06:40:55-05:00",
+  "palabras": "Buenaventura",
+  "lead": "En la tarde de este lunes festivo habrá pico y placa para ingresar a la ciudad de Cali, desde el kilómetro 18.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridad ambiental en Quindío activó plan de contingencia por derrame de ACPM en La Línea",
+  "enlace": "https://caracol.com.co/2026/11/02/autoridad-ambiental-en-quindio-activo-plan-de-contingencia-por-derrame-de-acpm-en-la-linea/",
+  "fecha": "2026-11-02T07:01:55-05:00",
+  "palabras": "",
+  "lead": "La autoridad ambiental en el Quindío activó plan de contingencia por el derrame de hidrocarburo y sus posibles efectos en los afluentes hídricos tras un accidente de tránsito en la vía La Línea",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Partido Republicano rechazó nuevos impuestos y propuso recortes al gasto público en Colombia",
+  "enlace": "https://caracol.com.co/2026/11/02/partido-republicano-rechazo-nuevos-impuestos-y-propuso-recortes-al-gasto-publico-en-colombia/",
+  "fecha": "2026-11-02T06:59:10-05:00",
+  "palabras": "",
+  "lead": "María Fernanda Cabal cuestionó que el ajuste fiscal recaiga sobre las personas, el consumo y el trabajo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "506 municipios de Colombia reciben agua no apta para el consumo humano",
+  "enlace": "https://caracol.com.co/2026/11/02/506-municipios-de-colombia-reciben-agua-no-apta-para-el-consumo-humano/",
+  "fecha": "2026-11-02T07:00:00-05:00",
+  "palabras": "",
+  "lead": "En el año 2024, 506 de los 1.006 municipios con vigilancia del país recibieron agua no apta para el consumo humano, según un derecho de petición que respondió el Instituto Nacional de Salud a Caracol Radio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mala disposición de residuos podría aumentar incendios forestales y escasez de agua en Cundinamarca",
+  "enlace": "https://caracol.com.co/2026/11/02/mala-disposicion-de-residuos-podria-aumentar-incendios-forestales-y-escasez-de-agua-en-cundinamarca/",
+  "fecha": "2026-11-02T06:51:10-05:00",
+  "palabras": "",
+  "lead": "Según cifras del Ministerio de Ambiente e IDEAM, el 95 % de los incendios forestales en Colombia son provocados por actividades humanas, situación que se agrava durante el Fenómeno de El Niño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reclasificación 2026: así quedó la lucha por cupos a torneos Conmebol tras victorias de Cali y DIM",
+  "enlace": "https://caracol.com.co/2026/11/02/reclasificacion-2026-asi-quedo-la-lucha-por-cupos-a-torneos-conmebol-tras-victorias-de-cali-y-dim/",
+  "fecha": "2026-11-02T06:41:48-05:00",
+  "palabras": "",
+  "lead": "Atlético Nacional es el líder absoluto de esta clasificación. La lucha por los cupos a Libertadores y Sudamericana está cada vez más ajustada.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
