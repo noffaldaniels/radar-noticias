@@ -6,6 +6,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Reporta un atentado en el municipio de Planadas, Tolima, que dejó cuatro personas fallecidas, entre ellas una bebé de dos meses de nacida.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:03",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Reportó un atentado terrorista perpetrado con drones y explosivos en Planadas, Tolima, que dejó cuatro personas muertas, entre ellas una bebé de dos meses de edad.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:05",
+   "quien": "Stefany Toledo, periodista de Mañanas Blu",
+   "que": "Informó sobre dos atentados en el departamento del Cauca: la detonación de una moto bomba cerca del hospital de Balboa y un ataque contra la Policía en Totoró.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:06",
+   "quien": "Danilo Arias, periodista de Mañanas Blu",
+   "que": "Reveló un informe de seguridad de EPM que denuncia extorsiones millonarias durante cerca de seis meses por parte del Frente 36 de las disidencias de las FARC para no atentar contra Hidroituango, el Metro o la Alcaldía de Medellín.",
+   "resaltar": false
   }
  ],
  "avisos": [
