@@ -398,6 +398,27 @@
    "quien": "Alcalde Hugo Kerguelén García",
    "que": "En el operativo del sábado 31 de octubre se desplegaron 422 policías en Montería y se impusieron 112 comparendos por violar la restricción de circulación.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:20",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Cámara de Representantes retomará hoy la discusión de la ley de sometimiento, que pondría fin a la paz total del gobierno anterior. El senador Hernán Cadavid es uno de los ponentes.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:20",
+   "quien": "Senador Hernán Cadavid del Centro Democrático",
+   "que": "Explicó que la ley es una prórroga a la orden público, donde cada gobierno le ha puesto nombre y apellido a estas prórrogas. El gobierno anterior la llamó de paz total.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:20",
+   "quien": "Senador Hernán Cadavid del Centro Democrático",
+   "que": "El gobierno anterior empezó con 15 mil hombres en armas y al finalizar llegó a 28 mil, con la creación de figuras como gestores de paz. Se busca un nuevo enfoque en materia de seguridad y orden público.",
+   "resaltar": true
   }
  ],
  "avisos": [
