@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Entre martes y miércoles se realizara el pago tanto del segundo corte completo, como el primer pago para quienes aún no lo habían recibido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Noticias de hoy, Movilidad, Accidente de tránsito, Antioquia",
   "lead": "Un total de 483.894 vehículos se movilizaron por las carreteras de Antioquia desde el pasado 30 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Santander, Gobernación de Santander, Noticias de hoy, Blu Radio",
   "lead": "La emergencia se registró en la vereda Pangote, en jurisdicción de San Andrés, provincia de García Rovira. Aunque el corredor ya está habilitado, Gestión del Riesgo pidió conducir con precaución.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Florida, Accidentes aéreos, Viral",
   "lead": "Obtuvo su licencia de piloto a los 17 años y acumulaba más de 1.300 horas de vuelo cuando ocurrió el accidente.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "La historia de una madre de 90 años y su hija de 60, quien ha dedicado gran parte de su vida a cuidarla, combina la comedia con situaciones inquietantes. La puesta en escena tendrá sus últimas funciones el 6 y 7 de noviembre en el Teatro Petra, en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "El gobernador de Boyacá recordó su trabajo junto al dirigente en la copresidencia de la Alianza Verde y resaltó su capacidad para tramitar las diferencias con serenidad y buscar consensos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "La gobernadora del Tolima, Adriana Matiz, catalogó este hecho como “terrorismo puro y duro de las mafias de la minería ilegal y la droga, que se disfrazan con brazaletes de revolucionarios”.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "Franco Pérez fue incluido en la convocatoria de César Torres para un torneo amistoso en Estados Unidos. Conozca las novedades.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "La instalación del artista colombiano Sebastián Gómez Vargas se encuentra en el Jardín Botánico de Honda, Tolima, donde conecta la memoria del río, el trabajo de los pescadores y la recuperación del bosque seco tropical.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "",
   "lead": "El exjefe de la cartera del Interior reapareció tras su salida y se refirió al debate por la radicación de la ley de rescate fiscal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "Los hechos ocurrieron en el barrio de Crespo",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "La publicación del SENA, liderada por el chef e investigador Ricardo Malagón, reúne ocho años de trabajo sobre las tradiciones gastronómicas del país y fue nominada en cuatro categorías de los Gourmand World Cookbook Awards 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "Miguel Lourido y la Fundación Afrocultural de Esgrima de Machete y Bordón trabajan para preservar esta práctica, transmitida de generación en generación y vinculada a la historia de las comunidades afrodescendientes del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "Economía,Funcionarios denunciados,Fontur,Abelardo de la Espriella,Corrupción",
   "lead": "El ministro Mauricio Gómez Amín denunció presuntas irregularidades en contratos firmados antes de la ley de garantías.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,6 +1701,237 @@
   "palabras": "Sociedad,Bogotá,Estadio El Campín,Concierto,Ryan Castro,Eventos presenciales",
   "lead": "Durante tres días se realizarán trabajos de riego controlado, aireación, peinado y corte del césped",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Nos devolvimos 30 años\": habitante de Planadas, tras ataque con explosivos que dejó cuatro muertos",
+  "enlace": "https://www.bluradio.com/nacion/nos-devolvimos-30-anos-habitante-de-planadas-tras-ataque-con-explosivos-que-dejo-cuatro-muertos-pr30",
+  "fecha": "2026-11-02T14:24:20-05:00",
+  "palabras": "Tolima, Ataque terrorista, FARC",
+  "lead": "Asimismo, aclaró que por la fuerza y la secuencia de las explosiones supieron de inmediato que no se trataba de un ataque con drones, lo que desató el pánico entre los habitantes al no saber dónde buscar refugio.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Seguros BMI llegará a Medellín desde esta fecha: ¿qué coberturas ofrecen para empresas?",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/seguros-bmi-llegara-a-medellin-desde-esta-fecha-que-coberturas-ofrecen-para-empresas-so35",
+  "fecha": "2026-11-02T13:36:50-05:00",
+  "palabras": "Medellín, Seguros",
+  "lead": "La compañía busca fortalecer su relación con empresarios y más de 400 asesores de seguros en Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Este era alias 'J.J', cabecilla de las disidencias de las Farc abatido en El Cerrito, Valle",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/este-era-alias-j-j-cabecilla-de-las-disidencias-de-las-farc-abatido-en-el-cerrito-valle-rg10",
+  "fecha": "2026-11-02T14:22:34-05:00",
+  "palabras": "",
+  "lead": "Este hombre sería el responsable de la retención de nueve volquetas, ocurrida días atrás en el centro del Valle.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Quién es Andrea Kimi Antonelli: perfil del joven campeón del mundo de F1",
+  "enlace": "https://www.bluradio.com/motor/quien-es-andrea-kimi-antonelli-biografia-perfil-campeon-formula-1-so35",
+  "fecha": "2026-11-02T13:56:18-05:00",
+  "palabras": "Fórmula 1, Mercedes Benz, Andrea Kimi Antonelli, Ferrari",
+  "lead": "Rechazado por Maranello a los 11 años y formado bajo la tutela de Toto Wolff en Mercedes, el joven prodigio boloñés pasó de estrellarse en su debut en Monza a convertirse en el heredero de Lewis Hamilton.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Blessd llevó agua potable a más de 200 familias en Chile: \"Qué bonito ayudar\"",
+  "enlace": "https://www.bluradio.com/sociedad/blessd-llevo-agua-potable-a-mas-de-200-familias-en-chile-que-bonito-ayudar-rs15",
+  "fecha": "2026-11-02T14:17:48-05:00",
+  "palabras": "Viral, Blessd, Chile",
+  "lead": "Los beneficiarios son familias que no cuentan con una conexión formal y permanente a la red de agua potable y que deben almacenar el suministro recibido mediante camiones aljibe.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Trasladaron a Popayán a una de las cinco personas lesionadas en atentado de Balboa, Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/trasladaron-a-popayan-a-una-de-las-cinco-personas-lesionadas-en-atentado-de-balboa-cauca-rg10",
+  "fecha": "2026-11-02T14:28:32-05:00",
+  "palabras": "Noticias de hoy, Cauca",
+  "lead": "Las autoridades confirmaron que los responsables de lo ocurrido en Balboa serían integrantes del frente 'Carlos Patiño' de las disidencias de alias 'Iván Mordisco',",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Querida marca de mantequilla tiene nuevo dueño: advierten novedades para los consumidores",
+  "enlace": "https://www.bluradio.com/economia/querida-marca-de-mantequilla-tiene-nuevo-dueno-advierten-novedades-para-los-consumidores-so35",
+  "fecha": "2026-11-02T14:20:15-05:00",
+  "palabras": "Canasta familiar, Alimentos",
+  "lead": "Esta mantequilla no fue la única marca adquirida: la operación incluye otras 18 marcas con presencia en Centroamérica y el Caribe.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Pulso del Fútbol, 2 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/02/el-pulso-del-futbol-2-de-noviembre-de-2026/",
+  "fecha": "2026-11-02T14:27:25-05:00",
+  "palabras": "",
+  "lead": "El Pulso del Fútbol analiza las posibilidades de los equipos que luchan por un cupo entre los ocho.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinCiencias denuncia presuntas irregularidades por $9.800 millones en contratos del gobierno pasado",
+  "enlace": "https://caracol.com.co/2026/11/02/minciencias-denuncia-presuntas-irregularidades-por-9800-millones-en-contratos-del-gobierno-pasado/",
+  "fecha": "2026-11-02T14:22:39-05:00",
+  "palabras": "",
+  "lead": "El Ministerio puso en conocimiento de la Contraloría, la Fiscalía y la Procuraduría presuntas irregularidades detectadas en contratos entre noviembre de 2024 y julio de 2026. También anunció la suspensión de pagos y el freno a nuevas adiciones presupuestales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así funciona el Pico y Placa en Bogotá en noviembre de 2026: restricciones, alternativas y sanciones",
+  "enlace": "https://caracol.com.co/2026/11/02/asi-funciona-el-pico-y-placa-en-bogota-en-noviembre-de-2026-restricciones-alternativas-y-sanciones/",
+  "fecha": "2026-11-02T14:21:44-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la programación oficial publicada por el Distrito el 1 de noviembre, el Pico y Placa para vehículos particulares opera de lunes a viernes, entre las 6:00 de la mañana y las 9:00 de la noche.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "5 capitales más pobladas de Colombia ¿Medellín en la lista?: Tienen más de 2 millones de habitantes",
+  "enlace": "https://caracol.com.co/2026/11/02/5-capitales-mas-pobladas-de-colombia-medellin-en-la-lista-tienen-mas-de-2-millones-de-habitantes/",
+  "fecha": "2026-11-02T14:02:10-05:00",
+  "palabras": "",
+  "lead": "Estas son las cinco ciudades con más habitantes del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comercio colombiano toma impulso: promociones y descuentos aumentaron las ventas, según Fenalco",
+  "enlace": "https://caracol.com.co/2026/11/02/comercio-colombiano-toma-impulso-promociones-y-descuentos-aumentaron-las-ventas-segun-fenalco/",
+  "fecha": "2026-11-02T13:54:25-05:00",
+  "palabras": "",
+  "lead": "Las promociones y los descuentos dinamizaron el consumo en septiembre. El 34% de los comerciantes reportó un crecimiento en sus ventas frente al mismo mes de 2025 y hay expectativas favorables para la temporada de fin de año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ciberataques afectan sistemas de refrigeración de supermercados en cinco países europeos",
+  "enlace": "https://caracol.com.co/2026/11/02/ciberataques-afectan-sistemas-de-refrigeracion-de-supermercados-en-cinco-paises-europeos/",
+  "fecha": "2026-11-02T13:51:19-05:00",
+  "palabras": "",
+  "lead": "Suecia, Bélgica, Estonia, Finlandia y Luxemburgo reportaron fallas que elevaron la temperatura de cámaras frigoríficas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Irán ofrece reabrir el estrecho de Ormuz mientras intensifica contactos con Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/11/02/iran-ofrece-reabrir-el-estrecho-de-ormuz-mientras-intensifica-contactos-con-estados-unidos/",
+  "fecha": "2026-11-02T13:42:52-05:00",
+  "palabras": "",
+  "lead": "Teherán condiciona la reapertura de la vía marítima a un alto el fuego regional y al levantamiento de sanciones.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Amaya espera visita presidencial a Boyacá y pide diálogo sobre el rescate fiscal",
+  "enlace": "https://caracol.com.co/2026/11/02/amaya-espera-visita-presidencial-a-boyaca-y-pide-dialogo-sobre-el-rescate-fiscal/",
+  "fecha": "2026-11-02T13:42:09-05:00",
+  "palabras": "",
+  "lead": "El gobernador aseguró que mantiene una relación cordial con el Gobierno nacional y planteó la necesidad de discutir nuevas fuentes de financiación para los departamentos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Amaya habla de los cambios en su gabinete y prepara nuevo empréstito para Boyacá",
+  "enlace": "https://caracol.com.co/2026/11/02/amaya-habla-de-los-cambios-en-su-gabinete-y-prepara-nuevo-emprestito-para-boyaca/",
+  "fecha": "2026-11-02T13:30:45-05:00",
+  "palabras": "",
+  "lead": "El gobernador aún no define el monto del crédito que presentará ante la Asamblea. También confirmó la salida de tres funcionarios por aspiraciones políticas y el nombramiento de María Ortiz en la Licorera de Boyacá.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Frenan audiencia de extradición de Zulma Guzmán en Londres",
+  "enlace": "https://www.lafm.com.co/orden-publico/frenan-audiencia-de-extradicion-de-zulma-guzman-en-londres-415914",
+  "fecha": "2026-11-02T14:12:00-05:00",
+  "palabras": "Orden Público,Fiscalía General de la Nación,Reino Unido,Asesinato",
+  "lead": "La notificación de la Fiscalía General de Colombia sobre la nueva audiencia de imputación hizo que el juez británico frenara la diligencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fecha 4 de Champions: partidos, horarios y programación",
+  "enlace": "https://www.lafm.com.co/deportes/champions-league-fecha-cuatro-horarios-programacion-oficial-415908",
+  "fecha": "2026-11-02T13:31:00-05:00",
+  "palabras": "Deportes,Champions League,Grandes Ligas,Bundesliga,Liga de España,Premier League,Barcelona,Paris Saint-Germain,Manchester United",
+  "lead": "A medida que avance la jornada, comenzarán a perfilarse los principales candidatos al título, así como los equipos que podrían convertirse en revelaciones ...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "GeoPark entra a Venezuela y operará bloque Bare por 25 años",
+  "enlace": "https://www.lafm.com.co/economia/geopark-completa-entrada-venezuela-operacion-bloque-bare-2026-415913",
+  "fecha": "2026-11-02T13:29:00-05:00",
+  "palabras": "Economía,Alianza Petrolera,Gasolina,Venta de acciones",
+  "lead": "GeoPark anunció su ingreso a Venezuela y confirmó que el Grupo Gilinski tendrá el 56,3% de la compañía.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quién gana con la escasez de agua potable en Santa Marta?",
+  "enlace": "https://www.lafm.com.co/actualidad/denuncia-carrotanques-agua-santa-marta-presidente-415912",
+  "fecha": "2026-11-02T13:21:00-05:00",
+  "palabras": "Actualidad,Agua,Presidencia de la República,Abelardo de la Espriella,Santa Marta,Magdalena",
+  "lead": "El presidente denunció una presunta mafia de carrotanques en Santa Marta y afirmó que entregó pruebas a Fiscalía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jackson Martínez y los de 40 años que han hecho gol en Liga Betplay",
+  "enlace": "https://www.lafm.com.co/deportes/liga-betplay-jackson-martinez-jugadores-que-han-hecho-col-con-40-anos-415910",
+  "fecha": "2026-11-02T13:00:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Jackson Martínez,DIM,Radamel Falcao,Millonarios,Teófilo Gutiérrez,Deportivo Cali,Carlos Bacca,Dayro Moreno,América de Cali,Hugo Rodallega,Junior,Fútbol",
+  "lead": "El jugador del DIM anotó en su debut para darle la victoria al equipo paisa y, de paso, se convirtió en uno de los pocos en celebrar con una edad avanzada.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
