@@ -1,5 +1,27 @@
 {
- "puntos": [],
+ "puntos": [
+  {
+   "medio": "Blu Radio",
+   "hora": "06:01",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se reporta un sismo de magnitud 5.6 con epicentro en el límite del Tolima y Valle del Cauca, generando temores y daños leves en fachadas de municipios como Chaparral, sin dejar heridos.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:04",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Congreso de la República intenta aprobar la ley de sometimiento antes del 4 de noviembre, fecha en que vence la vigencia de la Ley 418 de orden público.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:06",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Ministerio de Hacienda confirmó que la tarifa de medicina prepagada subirá en Colombia debido a que se le impondrá un IVA del 19%.",
+   "resaltar": false
+  }
+ ],
  "avisos": [
   "Caracol Radio: la IA no respondió de 05:48 a 05:58 (sí hubo audio)",
   "La FM: la IA no respondió de 05:48 a 05:58 (sí hubo audio)",
