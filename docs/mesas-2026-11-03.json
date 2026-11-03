@@ -405,6 +405,20 @@
    "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
    "que": "Reiteró el acompañamiento de la Gobernación a todos los municipios y comunidades del Tolima.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:08",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Policía investiga el asesinato de una mujer de 41 años y su hija de apenas 5 años en zona rural de San José del Palmar, en Chocó; otra menor de 7 años resultó herida.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:08",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "La Gobernadora del Tolima calificó los hechos de violencia en la región como terrorismo puro.",
+   "resaltar": true
   }
  ],
  "avisos": [
