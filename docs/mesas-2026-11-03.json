@@ -83,6 +83,20 @@
    "quien": "Eduardo Grajales, alcalde de Roncesvalles",
    "que": "Se han activado protocolos de verificación en la cabecera municipal y vehículos de emergencia han recorrido los barrios sin encontrar novedades. El municipio se encuentra sin energía desde la madrugada, lo que conlleva a no tener datos móviles.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Un temblor de 5,4 grados de intensidad, registrado a las 4:13 de la madrugada de este martes con epicentro en Chaparral, Tolima, despertó a varias regiones del país.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Una nueva escalada de violencia en el país deja ocho muertos y 28 heridos. El ataque más grave ocurrió en Planadas, Tolima, donde una volqueta bomba dejó cuatro víctimas mortales.",
+   "resaltar": true
   }
  ],
  "avisos": [
