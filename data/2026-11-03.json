@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "Este nuevo evento telúrico ocurre casi tres meses después del terremoto de magnitud 7,4 del pasado 10 de agosto, cuyo epicentro estuvo en San José del Palmar (Chocó).",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Tren, Chapinero",
   "lead": "El hallazgo se produjo en la calle 97 con NQS. Las autoridades buscan establecer la identidad de la víctima y las circunstancias de su muerte.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "El objetivo es mejorar la atención en los servicios de salud para el magisterio antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El jefe de Estado llega a evaluar la respuesta de las autoridades a la inseguridad en el AMC",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,6 +469,193 @@
   "palabras": "",
   "lead": "Este ciudadano es requerido por autoridades de Perú y tenía circular roja de Interpol.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Autoridades revisan edificaciones con riesgo de colapso en Cali tras sismo de esta madrugada",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/autoridades-revisan-edificaciones-con-riesgo-de-colapso-en-cali-tras-sismo-de-esta-madrugada-rg10",
+  "fecha": "2026-11-03T06:36:10-05:00",
+  "palabras": "Cali, Noticias de hoy, Terremoto hoy",
+  "lead": "En cuanto al resto del Valle del Cauca, tampoco se reportan novedades ni afectaciones con este último temblor, especialmente los municipios que limitan directamente con el departamento del Tolima.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Millonaria recompensa por asesinos de trabajador en campo petrolero de Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/millonaria-recompensa-por-asesinos-de-trabajador-en-campo-petrolero-de-barrancabermeja-rg10",
+  "fecha": "2026-11-03T06:33:22-05:00",
+  "palabras": "Santander, Blu Radio, Homicidios, Ecopetrol, Barrancabermeja, Blu Radio, Noticias de hoy",
+  "lead": "La preocupación de las autoridades también está relacionada con los asesinatos de dos líderes sociales ocurridos durante los últimos dos meses en ese mismo sector.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Daniel Quintero, a juicio disciplinario por entrevista en TikTok durante segunda vuelta presidencial",
+  "enlace": "https://www.bluradio.com/nacion/daniel-quintero-a-juicio-disciplinario-por-entrevista-en-tiktok-durante-segunda-vuelta-presidencial-so35",
+  "fecha": "2026-11-03T06:43:05-05:00",
+  "palabras": "Daniel Quintero, Procuraduría General de la Nación, Elecciones en Colombia 2026",
+  "lead": "El ente de control calificó provisionalmente la conducta como falta gravísima a título de dolo. La investigación se basa en un video de una entrevista que circuló en TikTok.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un niño accidentado y una joven bajo protección tras caravanas de Halloween en Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/un-nino-accidentado-y-una-joven-bajo-proteccion-tras-caravanas-de-halloween-en-santander-rg10",
+  "fecha": "2026-11-03T06:54:53-05:00",
+  "palabras": "Bucaramanga, Gobernación de Santander,  Halloween, Blu Radio",
+  "lead": "El niño cayó de una motocicleta y el conductor habría abandonado el lugar. En otro procedimiento, una adolescente fue puesta a disposición de la Comisaría de Familia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El último mensaje que envió la copiloto a su novio antes de estrellarse en Florida",
+  "enlace": "https://www.bluradio.com/mundo/el-ultimo-mensaje-que-envio-la-copiloto-a-su-novio-antes-de-estrellarse-en-florida-so35",
+  "fecha": "2026-11-03T06:55:28-05:00",
+  "palabras": "Viral, Florida, Accidentes aéreos",
+  "lead": "La joven de 20 años habría advertido a su novio sobre las condiciones del vuelo unos diez minutos antes del impacto.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ÚLTIMA HORA 🔴 ¿Cómo van las elecciones intermedias en Estados Unidos HOY?: Resultados EN VIVO",
+  "enlace": "https://caracol.com.co/2026/11/03/ultima-hora-como-van-las-elecciones-intermedias-en-estados-unidos-hoy-resultados-en-vivo/",
+  "fecha": "2026-11-03T06:52:24-05:00",
+  "palabras": "",
+  "lead": "Este martes 3 de noviembre están llamados a votar más de 250 millones de electores en Estados Unidos. Siga EN VIVO el minuto a minuto de la jornada:",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gaona está confundido, hizo el ridículo: Santos por declaraciones del embajador sobre acuerdo de paz",
+  "enlace": "https://caracol.com.co/2026/11/03/gaona-esta-confundido-hizo-el-ridiculo-santos-por-declaraciones-del-embajador-sobre-acuerdo-de-paz/",
+  "fecha": "2026-11-03T06:51:34-05:00",
+  "palabras": "",
+  "lead": "El expresidente Juan Manuel Santos, expresidente de la República, conversó en 6AM W, con Julio Sánchez Cristo, acerca de las declaraciones que dio el embajador de Colombia ante la ONU, Mauricio Gaona, sobre el acuerdo de paz. A propósito, aseguró que el representante del país ante las Naciones Unidas “está confundido” e “hizo el ridículo”.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Culminó la VIII Feria Internacional del Libro, las Artes y la Cultura de Santa Marta, FilSMar 2026",
+  "enlace": "https://caracol.com.co/2026/11/03/culmino-la-viii-feria-internacional-del-libro-las-artes-y-la-cultura-de-santa-marta-filsmar-2026/",
+  "fecha": "2026-11-03T06:37:12-05:00",
+  "palabras": "",
+  "lead": "Este año rindió homenaje a la Ciénaga Grande de Santa Marta, con una amplia participación de visitantes y más de 170 actividades",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La primera dama de la Nación llegó a Dosquebradas y anunció la construcción de nuevas viviendas",
+  "enlace": "https://caracol.com.co/2026/11/03/la-primera-dama-de-la-nacion-llego-a-dosquebradas-y-anuncio-la-construccion-de-nuevas-viviendas/",
+  "fecha": "2026-11-03T06:32:10-05:00",
+  "palabras": "",
+  "lead": "Ana Lucía Pineda confirmó que se entregarán ayudas para la remodelación de casas y el inicio de nuevos proyectos con soluciones habitacionales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reportan viviendas y locales afectados por sismo de 5.6 en Chaparral",
+  "enlace": "https://caracol.com.co/2026/11/03/reportan-viviendas-y-locales-afectados-por-sismo-de-56-en-chaparral/",
+  "fecha": "2026-11-03T06:33:21-05:00",
+  "palabras": "",
+  "lead": "Los organismos de socorro verifican con las instituciones educativas para establecer posibles daños en las sedes escolares.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Perdimos en cuatro años lo que logramos en 30”: gobernadora del Tolima tras atentado en Planadas",
+  "enlace": "https://caracol.com.co/2026/11/03/perdimos-en-cuatro-anos-lo-que-logramos-en-30-gobernadora-del-tolima-tras-ataque-en-planadas/",
+  "fecha": "2026-11-03T06:28:38-05:00",
+  "palabras": "",
+  "lead": "Adriana Magali, gobernadora del Tolima, denunció violación a los DD. HH. por parte de disidencias de las FARC y señala a alias ‘Amazonas’ tras atentado en Tolima.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lucas González, tras el empate de Nacional: “Nos equivocamos en una acción puntual”",
+  "enlace": "https://caracol.com.co/2026/11/03/lucas-gonzalez-tras-el-empate-de-nacional-nos-equivocamos-en-una-accion-puntual/",
+  "fecha": "2026-11-03T06:33:58-05:00",
+  "palabras": "",
+  "lead": "Alfredo Morelos destacó la importancia de sumar minutos para llegar en óptimas condiciones a los cuadrangulares.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Martes 3 de noviembre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/11/03/martes-3-de-noviembre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-11-03T06:35:57-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla recibirá al Consejo de la CONMEBOL y a los líderes del fútbol sudamericano",
+  "enlace": "https://caracol.com.co/2026/11/03/barranquilla-recibira-al-consejo-de-la-conmebol-y-a-los-lideres-del-futbol-sudamericano/",
+  "fecha": "2026-11-03T06:31:19-05:00",
+  "palabras": "",
+  "lead": "Así lo anunció el alcalde Alejandro Char, tras una visita del presidente de la Federación Colombiana de Fútbol, Ramón Jesurun, a las obras del Supermetro.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hasta $40 millones de recompensa tras asesinato de contratista de Ecopetrol en Barrancabermeja",
+  "enlace": "https://caracol.com.co/2026/11/03/hasta-40-millones-de-recompensa-tras-asesinato-de-contratista-de-ecopetrol-en-barrancabermeja/",
+  "fecha": "2026-11-03T06:29:31-05:00",
+  "palabras": "",
+  "lead": "La medida fue anunciada después de un consejo extraordinario de seguridad por los recientes homicidios en el distrito. En el corregimiento El Centro también han sido asesinados dos líderes sociales en los últimos dos meses.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ataque con drones explosivos deja un soldado herido en Tibú",
+  "enlace": "https://www.lafm.com.co/orden-publico/tibu-catatumbo-ataque-drones-explosivos-militares-soldado-herido-415940",
+  "fecha": "2026-11-03T06:35:00-05:00",
+  "palabras": "Orden Público,Ataque a uniformados,Militares,Tibú,Catatumbo,ELN,Disidentes de las Farc",
+  "lead": "El uniformado fue atacado mientras tropas de la Brigada 30 adelantaban operaciones en el sector conocido como La Llana.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Futbolista de segunda división murió tras choque con arquero",
+  "enlace": "https://www.lafm.com.co/deportes/jesus-de-miguel-accidente-choque-portero-andorra-de-que-murio-415941",
+  "fecha": "2026-11-03T06:30:00-05:00",
+  "palabras": "Deportes,Liga de España,Fútbol,España,Copa del Rey",
+  "lead": "Aunque los servicios médicos consiguieron reanimarlo tras una parada cardiorrespiratoria, su estado de salud se deterioró durante la madrugada.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
