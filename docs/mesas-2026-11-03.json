@@ -510,6 +510,20 @@
    "quien": "Miguel Gómez Martínez, Ministro de Hacienda",
    "que": "Anunció que a 19 millones de colombianos se les devolverá el IVA pagado a través de devolución.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:35",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el hockey de los Estados Unidos se presentó una acción fuerte accidental donde un jugador le cortó el cuello a su rival con un cuchillo de patín.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:38",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Confirmó que son dos las personas heridas por el sismo de magnitud 5.6 con epicentro en Chaparral, además de daños estructurales en viviendas de Ibagué y del cañón de Las Hermosas.",
+   "resaltar": true
   }
  ],
  "avisos": [
