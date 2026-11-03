@@ -1173,7 +1173,7 @@
   "palabras": "Bandas criminales, Fiscalía General de la Nación",
   "lead": "Las organizaciones intervenidas estarían relacionadas principalmente con homicidios, hurtos y tráfico local de estupefacientes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Asesinatos, Santa Fe",
   "lead": "El cuerpo fue encontrado en el segundo piso de un hotel, ubicado en la carrera Décima con calle 22, en el centro de Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Reclutamiento de menores, Disidencias Farc, FARC, Bombardeo",
   "lead": "El presidente Abelardo De La Espriella, el ministro de Defensa y el comandante de las Fuerzas Militares tendrán dos días para demostrar que han cumplido las órdenes judiciales. El juzgado negó la suspensión general de los bombardeos mientras estudia el presunto desacato.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Abelardo De La Espriella, Gobierno nacional, Congreso, ELN, FARC, Disidencias Farc",
   "lead": "El presidente Abelardo De La Espriella ordenó una ofensiva por parte de las Fuerzas Militares en contra de los integrantes de los grupos criminales responsables de la oleada terrorista de este fin de semana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "El delantero convirtió más de 70 goles entre clubes de tercera y segunda división de España.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "Jorge Argüelles, manifestó su preocupación por una situación que, según relató, se presentó en inmediaciones del Concejo Distrital.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "La Fiscalía presentó este martes 3 de noviembre de 2026 historial de búsqueda de veneno en el caso de Zulma Guzmán.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Siete allanamientos permitieron la captura de dos presuntos líderes delincuenciales requeridos por extorsión, hurto y desplazamiento forzado en el oriente de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Esta infraestructura ha sido blanco de dos ataques con vehículos acondicionados con explosivos, registrados el 12 y el 31 de octubre. Los habitantes de La Sierra, en sur del Cauca aseguran que es ‘una bomba de tiempo’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Tras las últimas lluvias en Córdoba, habitantes de Cotocá Arriba en Lorica, advirtieron que el boquete en Nueva Colombia está en riesgo de desbordamiento y piden apoyo a la UNGRD.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Las autoridades reportaron capturas, incautación de armas y recuperación de motocicletas durante los operativos realizados en la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Orden Público,ataque explosivo,Gobernación del Tolima,Tolima,atentado,Gobierno",
   "lead": "La gobernadora del Tolima, Adriana Magali Matiz, calificó el hecho como un acto terrorista y responsabilizó presuntamente al frente Jerónimo Galeano, de la...",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Internacional,España,Liga Española,Accidente",
   "lead": "El futbolista falleció tras un fuerte choque con el arquero del FC Andorra en pleno partido.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Deportes,Fútbol,Muertos",
   "lead": "El 27 de agosto de 2024, el defensa uruguayo Juan Izquierdo sufre un problema cardíaco durante un partido de la Copa Libertadores.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Actualidad,Cortes de agua,Sopó,Zipaquirá,Tocancipá,Cundinamarca,Agua",
   "lead": "La suspensión arrancará este miércoles 4 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,6 +1338,160 @@
   "palabras": "Economía,Bolsa,Tecnología,semiconductores",
   "lead": "Por otro lado, las empresas tecnológicas también han sufrido presión, destacándose Microsoft (-2,8%) y Apple (-1,8%).",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Leapmotor llega a Colombia: Astara distribuirá sus carros eléctricos respaldados por Stellantis",
+  "enlace": "https://www.bluradio.com/motor/leapmotor-llega-a-colombia-astara-distribuira-sus-carros-electricos-respaldados-por-stellantis-so35",
+  "fecha": "2026-11-03T08:52:49-05:00",
+  "palabras": "Vehículos",
+  "lead": "La marca china de vehículos eléctricos y de rango extendido se presentará en el Salón del Automóvil de Bogotá y empezará a comercializarse en noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Las 10 motos más vendidas en octubre: estos son los modelos más preferidos por los colombianos",
+  "enlace": "https://www.bluradio.com/motor/las-10-motos-mas-vendidas-en-octubre-estos-son-los-modelos-mas-preferidos-por-los-colombianos-so35",
+  "fecha": "2026-11-03T09:14:09-05:00",
+  "palabras": "Motos, Autos y Motos, Motociclistas",
+  "lead": "Conozca cuáles fueron las 10 motos más vendidas en Colombia en octubre de 2026, sus marcas, modelos con más registros durante el décimo mes del año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Eva Ferrer se queja en Fiscalía: visita de Euclides Torres a Casa de Nariño se registró a su nombre",
+  "enlace": "https://www.bluradio.com/judicial/eva-ferrer-se-queja-en-fiscalia-visita-de-euclides-torres-a-casa-de-narino-se-registro-a-su-nombre-so35",
+  "fecha": "2026-11-03T09:12:43-05:00",
+  "palabras": "Eva Ferrer, Gustavo Petro",
+  "lead": "La exfuncionaria del gobierno Petro aseguró ante la Fiscalía que una visita del empresario Euclides Torres a Palacio quedó registrada como si se hubiera hecho en su despacho.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia tiene amigos en el congreso, pero debe estrechar relaciones con los partidos: Brian Nichols",
+  "enlace": "https://caracol.com.co/2026/11/03/colombia-tiene-amigos-en-el-congreso-pero-debe-estrechar-relaciones-con-los-partidos-brian-nichols/",
+  "fecha": "2026-11-03T08:59:12-05:00",
+  "palabras": "",
+  "lead": "Brian Nichols, diplomático estadounidense habló en 6AM W de cómo influyen las elecciones intermedias en América Latina y de cómo sería el voto de los latinos en estas elecciones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Fue una persona valiente y generosa”: exconsejero de paz Otty Patiño sobre Antonio Navarro Wolff",
+  "enlace": "https://caracol.com.co/2026/11/03/fue-una-persona-valiente-y-generosa-exconsejero-de-paz-otty-patino-sobre-antonio-navarro-wolff/",
+  "fecha": "2026-11-03T09:08:42-05:00",
+  "palabras": "",
+  "lead": "Otty Patiño contó en Caracol Radio cómo conoció a Antonio Navarro durante su militancia en el M-19 y lamentó su fallecimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín impulsa modelo de justicia y atención a víctimas de delitos de alto impacto",
+  "enlace": "https://caracol.com.co/2026/11/03/medellin-impulsa-modelo-de-justicia-y-atencion-a-victimas-de-delitos-de-alto-impacto/",
+  "fecha": "2026-11-03T09:19:04-05:00",
+  "palabras": "",
+  "lead": "Con 325 procesos activos y más de 100 audiencias realizadas en 2026, la iniciativa hace frente a delitos complejos como el secuestro, la extorsión y el desplazamiento forzado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevo sismo en Pereira no deja daños reportados, según balance preliminar de las autoridades",
+  "enlace": "https://caracol.com.co/2026/11/03/nuevo-sismo-en-pereira-no-deja-danos-reportados-segun-balance-preliminar-de-las-autoridades/",
+  "fecha": "2026-11-03T09:16:30-05:00",
+  "palabras": "",
+  "lead": "Las autoridades realizaron recorridos por diferentes comunas, vías y edificaciones estratégicas, entre ellas el Hospital San Jorge, el Aeropuerto Matecaña y el estadio Hernán Ramírez Villegas, para verificar posibles afectaciones tras el temblor.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades mantienen monitoreo en Cali y el Valle tras fuerte sismo con epicentro en Tolima",
+  "enlace": "https://caracol.com.co/2026/11/03/autoridades-mantienen-monitoreo-en-cali-y-el-valle-tras-fuerte-sismo-con-epicentro-en-tolima/",
+  "fecha": "2026-11-03T09:14:18-05:00",
+  "palabras": "",
+  "lead": "De manera preliminar, no se reportan emergencias ni afectaciones en Cali ni en otros municipios del Valle del Cauca.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo impactan las elecciones intermedias en Estados Unidos a Colombia?",
+  "enlace": "https://caracol.com.co/2026/11/03/como-impactan-las-elecciones-intermedias-en-estados-unidos-a-colombia/",
+  "fecha": "2026-11-03T09:01:53-05:00",
+  "palabras": "",
+  "lead": "El histórico apoyo bipartidista de Republicanos y Demócratas al país podría ponerse a prueba.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hoy Irán no tiene un arma nuclear”:  Rafael Grossi, director de la OIEA, en 6AM W",
+  "enlace": "https://caracol.com.co/2026/11/03/hoy-iran-no-tiene-un-arma-nuclear-rafael-grossi-director-de-la-oiea-en-6am-w/",
+  "fecha": "2026-11-03T08:56:31-05:00",
+  "palabras": "",
+  "lead": "Grossi fue claro: “hoy Irán no tiene un arma nuclear”. Sin embargo, señaló que hay varias alertas sobre el programa nuclear de Irán.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Karol G llegó a México para celebrar su nuevo álbum y preparar seis conciertos del Tropitour",
+  "enlace": "https://caracol.com.co/2026/11/03/karol-g-llego-a-mexico-para-celebrar-su-nuevo-album-y-preparar-seis-conciertos-del-tropitour/",
+  "fecha": "2026-11-03T09:11:40-05:00",
+  "palabras": "",
+  "lead": "La cantante colombiana realizará un evento especial el 4 de noviembre en Ciudad de México, antes de reencontrarse con sus seguidores en Monterrey y la capital mexicana con su gira Viajando por el Mundo Tropitour.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Frontier anuncia vuelos directos diarios entre Medellín y Orlando desde diciembre",
+  "enlace": "https://caracol.com.co/2026/11/03/frontier-anuncia-vuelos-directos-diarios-entre-medellin-y-orlando-desde-diciembre/",
+  "fecha": "2026-11-03T09:05:47-05:00",
+  "palabras": "",
+  "lead": "La aerolínea estadounidense comenzará a operar la ruta el 10 de diciembre. El trayecto tendrá una duración aproximada de cuatro horas y contará con conexiones en ambos sentidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 3 de noviembre de 2026 en Colombia: la divisa internacional comienza la jornada al alza",
+  "enlace": "https://caracol.com.co/2026/11/03/dolar-hoy-3-de-noviembre-de-2026-en-colombia-la-divisa-internacional-comienza-la-jornada-al-alza/",
+  "fecha": "2026-11-03T08:50:41-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este martes 3 de noviembre. Conozca el comportamiento del dólar estadounidense, real brasileño, peso chileno, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cuatro aviones afectados en Europa por amenaza de bomba",
+  "enlace": "https://www.lafm.com.co/internacional/cuatro-aviones-afectados-en-europa-por-amenaza-de-bomba-415965",
+  "fecha": "2026-11-03T08:54:00-05:00",
+  "palabras": "Internacional,Europa,Avión,Bombas",
+  "lead": "Los incidentes registrados fueron en Polonia, Bulgaria y España.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
