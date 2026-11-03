@@ -391,6 +391,20 @@
    "quien": "Periodista de Ma\u0010anas Blu",
    "que": "La medicina prepagada pasa del IVA del 19%, y es la raz\u0010n por la que si se aprueba la tributaria va a subir la medicina prepagada.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:56",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Anunció la suspensión de clases presenciales en instituciones educativas del departamento, pasando a modalidad en casa mientras se evalúa la infraestructura educativa.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:56",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Reiteró el acompañamiento de la Gobernación a todos los municipios y comunidades del Tolima.",
+   "resaltar": true
   }
  ],
  "avisos": [
