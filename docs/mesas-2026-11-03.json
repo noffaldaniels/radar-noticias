@@ -181,6 +181,27 @@
    "quien": "Maria Camila Roa, Periodista",
    "que": "Las elecciones de medio término en Estados Unidos se encuentran en desarrollo con encuestas que muestran un escenario donde el Partido Demócrata podría darle paliza a Donald Trump, logrando ser mayoría tanto en Cámara como en Senado.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Varias viviendas y establecimientos comerciales resultaron afectados tras el sismo de magnitud 5.6 registrado a las 4:13 de la madrugada, con epicentro en Chaparral, sur del Tolima. Se reportaron daños en las veredas Río Negro y Argentina en los corregimientos Las Hermosas, Calarma y Yaragua, así como en el centro de Chaparral y el barrio El Edén.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:05",
+   "quien": "Daniel Briceño, Congresista del Centro Democrático",
+   "que": "Estamos en un esfuerzo contrarreloj; la fecha de radicación de ponencia se hizo sobre el 4 de noviembre y tenemos hasta el día de mañana para aprobar tanto en Cámara, Senado, hacer una conciliación y que el presidente de la República la sancione. En Cámara y en Senado estamos haciendo todo lo que está en nuestras manos para sacarla hoy antes de medianoche.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:06",
+   "quien": "Heráclito Landinez, Representante a la Cámara",
+   "que": "Tiene la mayoría del gobierno para que pase. Sin embargo, tiene muchos vicios de procedimiento y vicios de fondo que seguramente la Corte Constitucional lo va a tumbar, lo va a tumbar cuando se expida esta ley. En primer lugar, por ejemplo, no se hizo la consulta previa que es obligatoria para este tipo de leyes de intervenciones territoriales con los pueblos indígenas de ese país.",
+   "resaltar": false
   }
  ],
  "avisos": [
