@@ -545,6 +545,27 @@
    "quien": "Viceministro",
    "que": "Se reducirá 50% las órdenes de prestación de servicios, contratación temporal y de corto plazo.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:42",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El exsenador Héctor Olimpo Espinosa, empresario nacional del chance, y otros implicados son mencionados en un caso de presuntos delitos e investigación judicial.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:45",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Ministro del Interior entrante, Alejandro Ordóñez, se posesionará en los próximos días y se espera su gestión ante el reto de la aprobación de la ley de rescate financiero.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:46",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La audiencia de extradición de Zulma Guzmán y su posible imputación por delitos de homicidio se ha pospuesto para el próximo lunes, mientras el caso sigue su curso.",
+   "resaltar": false
   }
  ],
  "avisos": [
