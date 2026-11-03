@@ -667,7 +667,7 @@
   "palabras": "Néstor Morales",
   "lead": "El director de Mañanas Blu volvió este martes a los micrófonos después de dos meses de ausencia.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "Cortes de agua, Acueducto de Bogotá",
   "lead": "Los trabajos comenzarán a las 8:00 de la mañana del miércoles 4 de noviembre y se extenderán durante 48 horas. Zonas rurales de Zipaquirá y Tocancipá estarán sin servicio, mientras que Gachancipá y Sopó podrían presentar intermitencias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Santander, Feminicidio, San Gil, Violencia Contra la mujer, Blu Radio, Noticias de hoy",
   "lead": "Dolor y exigencia de justicia en el sepelio de Paula Carley Coca Murcia, víctima de feminicidio en Pinchote, Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "Tolima, atentado terrorista",
   "lead": "La gobernadora Adriana Magali Matiz aseguró que los explosivos iban dirigidos a la base militar, pero cayeron en barrios vecinos: 177 viviendas resultaron afectadas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "Halloween, Bucaramanga, Alcaldía de Bucaramanga, Santander, Bucaramanga, Homicidios, Blu Radio, Noticias de hoy, Radio, Policía Nacional",
   "lead": "La Secretaría de Salud de Bucaramanga ordenó el cierre temporal de la discoteca Géminis, ubicada en el barrio Mejoras Públicas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Bucaramanga, Gobernación de Santander, Bandas criminales, Blu Radio",
   "lead": "Los recursos beneficiarán a ciudadanos que entregaron datos clave para seis operaciones de las autoridades en Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "España, Fútbol, Resultado de loterías de hoy, Liga BBVA",
   "lead": "El delantero del Tenerife falleció tras sufrir una parada cardiorrespiratoria luego de chocar con el portero Jesús Owono.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Tolima, Temblor hoy, Sismo hoy, Chaparral",
   "lead": "La Oficina de Gestión del Riesgo se encuentra tabulando los datos recibidos mediante juntas de acción comunal y grupos de WhatsApp para consolidar un censo oficial que será elevado al Gobierno nacional y departamental.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "Cárceles, Cárcel La Picota, Bogotá, Abelardo De La Espriella",
   "lead": "Tras megaoperativo en la cárcel La Picota de Bogotá, el presidente, Abelardo De La Espriella, confirmó el hallazgo de 6 antenas starlikn y más de 30 modems, presuntamente de internet, con el que apartenteme algunos internos delinquían mientras cumplen la condena.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "Bogotá, Pico y placa, Movilidad, Transporte público",
   "lead": "La restricción vehicular aplica este martes 3 de noviembre para las placas terminadas en 6, 7, 8, 9 y 0 en la capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Medellín, Pico y placa",
   "lead": "La restricción vehicular aplica este martes de 5:00 a.m. a 8:00 p.m. para las placas terminadas en 1 y 4 en la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "6AM W conoció las razones por las que el embajador de Colombia ante la ONU, Mauricio Gaona, pidió el traslado de los cinco funcionarios de carrera.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "Juan Verde, consultor internacional y experto en relaciones económicas internacionales, anticipó la derrota republicana: “los demócratas van a ganar el Congreso y hay una muy buena posibilidad también de que controlen el Senado”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "El hombre sería el responsable de varios robos y homicidios en el municipio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "El movimiento de viajeros representó 2.329 despachos de buses que entraron y salieron de la Terminal desde el viernes 30 hasta última hora del lunes 2 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "Delegaciones de Rusia, Ucrania y Estados Unidos se reunirán el 10 y 11 de noviembre para intentar reactivar una salida diplomática al conflicto.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "El equipo samario rescató un punto en la última jugada del partido.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "Fabián Sambueza destacó la reacción del equipo ante Atlético Nacional y reconoció que deben mejorar la efectividad.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "La Gobernación de Antioquia avanza con esta estrategia en las diferentes subregiones antioqueñas para afectar las rentas ilícitas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "Según Humberto Leal, secretario de Ambiente y Gestión del Riesgo de Ibagué, en la ciudad se suspendieron clases en los colegios públicos por precaución.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "Eileen Higgins habló en Caracol Radio sobre las consecuencias de la política migratoria en las elecciones de medio término de Estados Unidos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "En 6AM W hablaron congresistas de diferentes partidos políticos sobre la Ley de sometimiento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "Los militares encontraron 10 granadas de alto poder y cuatro de mediano poder, adaptadas para ser utilizadas mediante drones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "En redes sociales, ciudadanos grabaron la caída de material de la torre de la basílica menor y confirmada por la gestión del riesgo del Quindío.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "La medida impactará de manera positiva sobre el Parque Nacional Tayrona, el Vía Parque Isla de Salamanca, el Santuario de Flora y Fauna Ciénaga Grande de Santa Marta y el parque Sierra Nevada de Santa Marta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "Los delincuentes se llevaron cámaras y otros equipos de alto valor. Las autoridades adelantan las investigaciones para identificar a los responsables y recuperar los elementos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "La Procuraduría formuló pliego de cargos contra Daniel Quintero Calle, en su condición de superintendente nacional de Salud (2026), por su presunta participación indebida en la actividad política, en el marco de los comicios de segunda vuelta presidencial de 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Las elecciones regionales en Colombia serán el domingo 31 de octubre de 2.027.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "El procedimiento se cumplió por una orden judicial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "La Unidad de Búsqueda recuperó más de 300 contenedores con cuerpos que permanecían desde hace más de 30 años en el cementerio central. Veinticinco podrían corresponder a personas desaparecidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Una fundación solicitó ampliar las medidas de protección al Parque Natural Iguaque y cuestionó que se proyecte su reapertura turística sin contar con estudios actualizados sobre la recuperación ambiental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "Los recursos serán destinados a ciudadanos que aportaron información para seis operaciones policiales. Entre los resultados están ocho homicidios esclarecidos y seis capturas relacionadas con una banda criminal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "Se mantiene el despliegue militar y policial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "El deceso se produjo por complicaciones de salud",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "Casi 39 millones de latinos podrán ejercer su derecho al voto en las elecciones de medio mandato en Estados Unidos. La inmigración y la economía, los temas que más les preocupan.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "En la Cámara baja se renuevan los 435 escaños. Y en el Senado, se eligen 35 de las 100 sillas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "La unió sindical cuestionó la falta de acción para proteger a la ciudadanía en el Magdalena Medio.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "La valoración estará a cargo de un jurado calificador integrado por tres profesionales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "Internacional,Elecciones en el exterior,Estados Unidos,Donald Trump,Casa Blanca",
   "lead": "Los demócratas llegan con ventaja en las encuestas y buscan recuperar el control de la Cámara de Representantes.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "Internacional,Florida,Accidente,Miami",
   "lead": "Al parecer, las condiciones meteorológicas contribuyeron a que el avión se estrellara en plena vía de Palm Beach.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "Internacional,Estados Unidos,Elecciones presidenciales,conteo de votos,Recuento de votos,Votaciones",
   "lead": "Mientras los demócratas anticipan avances importantes en la Cámara de Representantes, los republicanos confían en conservar el respaldo de sus votantes.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "Sociedad,enfermedades,Ministerio de Salud,República del Congo,República Democrática del Congo,pacientes,Atención a pacientes",
   "lead": "El Instituto Nacional de Salud (INS) activó de forma preventiva la vigilancia frente al virus del ébola luego que se confirmara que cuatro personas tienen ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "Internacional,ELN,Venezuela,combates entre grupos armados,Grupos delincuenciales",
   "lead": "El hecho podría reflejar un cambio en la política de seguridad venezolana y una ruptura en la relación entre las estructuras estatales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "Actualidad,Juan Carlos Echeverry,Bancos colombianos,renuncia",
   "lead": "Echeverry cuenta con una trayectoria en el sector público y empresarial. Fue ministro y presidente de Ecopetrol.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "Actualidad,Temblor,Chaparral,Emergencia",
   "lead": "Se realiza un censo para determinar la cifra total de las familias afectadas con los daños en sus lugares de residencia.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,6 +1162,182 @@
   "palabras": "Política,Daniel Quintero,Procuraduría General de la Nación,Supersalud,Redes sociales",
   "lead": "Daniel Quintero enfrentará juicio disciplinario por presunta participación política a raíz de una entrevista en TikTok",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía reporta 391 capturas tras megaoperativos del Gobierno contra más de 40 bandas criminales",
+  "enlace": "https://www.bluradio.com/judicial/fiscalia-reporta-391-capturas-tras-megaoperativos-del-gobierno-contra-mas-de-40-bandas-criminales-rg10",
+  "fecha": "2026-11-03T08:24:18-05:00",
+  "palabras": "Bandas criminales, Fiscalía General de la Nación",
+  "lead": "Las organizaciones intervenidas estarían relacionadas principalmente con homicidios, hurtos y tráfico local de estupefacientes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hallan cuerpo de un hombre en hotel del centro de Bogotá: investigan presunto caso de homicidio",
+  "enlace": "https://www.bluradio.com/regiones/bogota/hallan-cuerpo-de-un-hombre-en-hotel-del-centro-de-bogota-investigan-presunto-caso-de-homicidio-so35",
+  "fecha": "2026-11-03T08:39:02-05:00",
+  "palabras": "Asesinatos, Santa Fe",
+  "lead": "El cuerpo fue encontrado en el segundo piso de un hotel, ubicado en la carrera Décima con calle 22, en el centro de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Piden explicaciones al Gobierno por protocolo de protección de menores en operaciones de bombardeos",
+  "enlace": "https://www.bluradio.com/nacion/piden-explicaciones-al-gobierno-por-protocolo-de-proteccion-de-menores-en-operaciones-de-bombardeos-rg10",
+  "fecha": "2026-11-03T08:33:52-05:00",
+  "palabras": "Reclutamiento de menores, Disidencias Farc, FARC, Bombardeo",
+  "lead": "El presidente Abelardo De La Espriella, el ministro de Defensa y el comandante de las Fuerzas Militares tendrán dos días para demostrar que han cumplido las órdenes judiciales. El juzgado negó la suspensión general de los bombardeos mientras estudia el presunto desacato.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Disidencias y ELN buscan presionar al Gobierno mientras avanza ley de sometimiento en el Congreso",
+  "enlace": "https://www.bluradio.com/opinion/disidencias-y-eln-buscan-presionar-al-gobierno-mientras-avanza-ley-de-sometimiento-en-el-congreso-pr30",
+  "fecha": "2026-11-03T08:40:54-05:00",
+  "palabras": "Abelardo De La Espriella, Gobierno nacional, Congreso, ELN, FARC, Disidencias Farc",
+  "lead": "El presidente Abelardo De La Espriella ordenó una ofensiva por parte de las Fuerzas Militares en contra de los integrantes de los grupos criminales responsables de la oleada terrorista de este fin de semana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trayectoria de Jesús de Miguel, el jugador que perdió la vida tras un fuerte gol en un partido",
+  "enlace": "https://caracol.com.co/2026/11/03/trayectoria-de-jesus-de-miguel-el-jugador-que-perdio-la-vida-tras-un-fuerte-gol-en-un-partido/",
+  "fecha": "2026-11-03T08:39:21-05:00",
+  "palabras": "",
+  "lead": "El delantero convirtió más de 70 goles entre clubes de tercera y segunda división de España.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente del Concejo de Santa Marta denuncia que motorizados sospechosos lo venían siguiendo",
+  "enlace": "https://caracol.com.co/2026/11/03/presidente-del-concejo-de-santa-marta-denuncia-que-motorizados-sospechosos-lo-venian-siguiendo/",
+  "fecha": "2026-11-03T08:44:49-05:00",
+  "palabras": "",
+  "lead": "Jorge Argüelles, manifestó su preocupación por una situación que, según relató, se presentó en inmediaciones del Concejo Distrital.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Audiencia de extradición de Zulma Guzmán en Londres se aplazaría para 2027: estas serían las razones",
+  "enlace": "https://caracol.com.co/2026/11/03/audiencia-de-extradicion-de-zulma-guzman-en-londres-se-aplazaria-para-2027-estas-serian-las-razones/",
+  "fecha": "2026-11-03T08:37:38-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía presentó este martes 3 de noviembre de 2026 historial de búsqueda de veneno en el caso de Zulma Guzmán.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caen presuntos cabecillas dedicados a la extorsión y tráfico de drogas en la comuna 8 de Medellín",
+  "enlace": "https://caracol.com.co/2026/11/03/caen-presuntos-cabecillas-dedicados-a-la-extorsion-y-trafico-de-drogas-en-la-comuna-8-de-medellin/",
+  "fecha": "2026-11-03T08:40:22-05:00",
+  "palabras": "",
+  "lead": "Siete allanamientos permitieron la captura de dos presuntos líderes delincuenciales requeridos por extorsión, hurto y desplazamiento forzado en el oriente de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comunidades exigen reubicar el peaje de El Mango, en La Sierra, Cauca, por riesgos de ataques",
+  "enlace": "https://caracol.com.co/2026/11/03/comunidades-exigen-reubicar-el-peaje-de-el-mango-en-la-sierra-cauca-por-riesgos-de-ataques/",
+  "fecha": "2026-11-03T08:26:45-05:00",
+  "palabras": "",
+  "lead": "Esta infraestructura ha sido blanco de dos ataques con vehículos acondicionados con explosivos, registrados el 12 y el 31 de octubre. Los habitantes de La Sierra, en sur del Cauca aseguran que es ‘una bomba de tiempo’.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boca Nueva Colombia, punto crítico del río Sinú en Córdoba, se debilita cada vez más",
+  "enlace": "https://caracol.com.co/2026/11/03/boca-nueva-colombia-punto-critico-del-rio-sinu-en-cordoba-se-debilita-cada-vez-mas/",
+  "fecha": "2026-11-03T08:28:09-05:00",
+  "palabras": "",
+  "lead": "Tras las últimas lluvias en Córdoba, habitantes de Cotocá Arriba en Lorica, advirtieron que el boquete en Nueva Colombia está en riesgo de desbordamiento y piden apoyo a la UNGRD.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nueve capturados y tres menores aprehendidos durante el puente festivo en Neiva",
+  "enlace": "https://caracol.com.co/2026/11/03/nueve-capturados-y-tres-menores-aprehendidos-durante-el-puente-festivo-en-neiva/",
+  "fecha": "2026-11-03T08:23:01-05:00",
+  "palabras": "",
+  "lead": "Las autoridades reportaron capturas, incautación de armas y recuperación de motocicletas durante los operativos realizados en la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobernadora del Tolima habla sobre crisis de seguridad",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobernadora-tolima-alerta-crisis-seguridad-pide-refuerzo-militar-415958",
+  "fecha": "2026-11-03T08:43:00-05:00",
+  "palabras": "Orden Público,ataque explosivo,Gobernación del Tolima,Tolima,atentado,Gobierno",
+  "lead": "La gobernadora del Tolima, Adriana Magali Matiz, calificó el hecho como un acto terrorista y responsabilizó presuntamente al frente Jerónimo Galeano, de la...",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Esto es el 'Commotio cordis', la probable causa de muerte del futbolista del Tenerife Jesús de Miguel",
+  "enlace": "https://www.lafm.com.co/internacional/muerte-futbolista-jesus-de-miguel-tenerife-choque-arquero-futbol-espana-segunda-division-415961",
+  "fecha": "2026-11-03T08:26:00-05:00",
+  "palabras": "Internacional,España,Liga Española,Accidente",
+  "lead": "El futbolista falleció tras un fuerte choque con el arquero del FC Andorra en pleno partido.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Diez futbolistas que murieron durante un partido profesional",
+  "enlace": "https://www.lafm.com.co/deportes/diez-futbolistas-murieron-partido-415960",
+  "fecha": "2026-11-03T08:24:00-05:00",
+  "palabras": "Deportes,Fútbol,Muertos",
+  "lead": "El 27 de agosto de 2024, el defensa uruguayo Juan Izquierdo sufre un problema cardíaco durante un partido de la Copa Libertadores.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Suspensión de agua en cuatro municipios de Cundinamarca",
+  "enlace": "https://www.lafm.com.co/actualidad/corte-agua-toncaipa-zipaquira-ganchacipa-sopo-mantenimiento-planta-tibitoc-415959",
+  "fecha": "2026-11-03T08:15:00-05:00",
+  "palabras": "Actualidad,Cortes de agua,Sopó,Zipaquirá,Tocancipá,Cundinamarca,Agua",
+  "lead": "La suspensión arrancará este miércoles 4 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Hasta dónde puede caer el Nasdaq? Así está el mercado",
+  "enlace": "https://www.lafm.com.co/economia/hasta-donde-puede-caer-nasdaq-niveles-mercado-415943",
+  "fecha": "2026-11-03T06:42:00-05:00",
+  "palabras": "Economía,Bolsa,Tecnología,semiconductores",
+  "lead": "Por otro lado, las empresas tecnológicas también han sufrido presión, destacándose Microsoft (-2,8%) y Apple (-1,8%).",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
