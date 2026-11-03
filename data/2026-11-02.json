@@ -2405,7 +2405,7 @@
   "palabras": "España, Tren",
   "lead": "Equipos forenses completaron la identificación de las 69 víctimas de la tragedia ferroviaria mediante huellas y ADN para entregarlas a sus familias.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "FMI",
   "lead": "El Fondo Monetario Internacional define la propuesta de ajuste como “un paso significativo hacia el abordaje de los desafíos fiscales heredados por la nueva administración”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "",
   "lead": "Kim Yo Jong calificó de provocación política las acusaciones del FBI que vinculan a Pyongyang con el robo de 6.000 millones de dólares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,7 +2438,7 @@
   "palabras": "",
   "lead": "Simone Rondanini, representante del defensor colombiano, habló sobre el camino que llevó al futbolista a Turín y sus expectativas en el club italiano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2449,7 +2449,7 @@
   "palabras": "Internacional,Corea del Norte,FBI,Estados Unidos,Estafa,Intento de hackeo",
   "lead": "El ataque cibernético significó pérdidas millonarias; el FBI culpa a hackers de norcorea.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2459,6 +2459,127 @@
   "fecha": "2026-11-02T17:08:00-05:00",
   "palabras": "Economía,Salario Mínimo,Colombia,Gobierno,PIB,IPC,CUT,OIT",
   "lead": "La mesa tripartita podría estar más cerca de instalarse, porque podría iniciarse el 18 de noviembre.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T18:47:32-05:00",
+  "palabras": "Paisita Noche, Resultados del chance",
+  "lead": "El chance Paisita Noche realiza sorteos todos los días, después de las 6:00 p. m. Este lunes 2 de noviembre de 2026 los jugadores pueden consultar el resultado oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T18:47:44-05:00",
+  "palabras": "Chontico Noche",
+  "lead": "El chance Chontico Noche realiza sorteos todos los días, con horarios que varían según la jornada. Este lunes 2 de noviembre podrá conocer todos los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T18:48:20-05:00",
+  "palabras": "Sinuano noche, Resultado de loterías de hoy",
+  "lead": "El chance Sinuano Noche realiza su sorteo todos los días a las 8:30 p. m. Este lunes 2 de noviembre de 2026 los apostadores pueden consultar las cifras ganadoras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T18:48:30-05:00",
+  "palabras": "Caribeña noche, Resultado de loterías de hoy",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Este lunes 2 de noviembre de 2026 los jugadores pueden consultar los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T18:51:48-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Este lunes 2 de noviembre de 2026 los jugadores pueden consultar el resultado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Noche, resultado del último sorteo hoy lunes 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-noche-resultado-del-ultimo-sorteo-hoy-lunes-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-02T18:51:59-05:00",
+  "palabras": "Dorado Noche, Resultados del chance",
+  "lead": "El chance Dorado Noche tiene sorteos los fines de semana y días festivos. Este lunes 2 de noviembre de 2026 los apostadores pueden consultar el resultado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video de seguridad registró homicidio de veterinario en municipio en Magdalena",
+  "enlace": "https://www.bluradio.com/regiones/caribe/video-de-seguridad-registro-homicidio-de-veterinario-en-municipio-en-magdalena-rs15",
+  "fecha": "2026-11-02T18:33:57-05:00",
+  "palabras": "Magdalena, Homicidios",
+  "lead": "El hombre se hizo pasar por un comprador para que el veterinario bajara al guardia y cuando se dio la vuelta fue que lo atacó.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Marco Rubio y el nuevo canciller venezolano conversaron sobre ruta hacia elecciones libres",
+  "enlace": "https://www.bluradio.com/mundo/marco-rubio-y-el-nuevo-canciller-venezolano-conversaron-sobre-ruta-hacia-elecciones-libres-cb20",
+  "fecha": "2026-11-02T18:51:34-05:00",
+  "palabras": "Marco Rubio, Venezuela",
+  "lead": "En su primer encuentro en Washington, ambos diplomáticos discutieron reformas institucionales y la liberación de presos políticos, en medio del proceso de transición política que atraviesa Venezuela.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Marco Rubio exigió a Venezuela continuar la liberación de presos políticos",
+  "enlace": "https://caracol.com.co/2026/11/03/marco-rubio-exigio-a-venezuela-continuar-la-liberacion-de-presos-politicos/",
+  "fecha": "2026-11-02T19:04:02-05:00",
+  "palabras": "",
+  "lead": "El secretario de Estado estadounidense se reunió en Washington con el nuevo canciller venezolano, Oliver Blanco, para abordar la transición política y las reformas institucionales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por las lluvias y el ahorro de agua, EPM anuncia otra semana sin racionamiento en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/03/por-las-lluvias-y-el-ahorro-de-agua-epm-anuncia-otra-semana-sin-racionamiento-en-medellin/",
+  "fecha": "2026-11-02T19:00:00-05:00",
+  "palabras": "",
+  "lead": "La medida estará vigente entre el lunes 2 y el domingo 8 de noviembre, gracias a las condiciones favorables registradas en los últimos días.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ONU modificó mandato de la Misión de Verificación",
+  "enlace": "https://www.lafm.com.co/politica/de-la-espriella-mision-de-verificacion-onu-colombia-seguridad-415927",
+  "fecha": "2026-11-02T18:26:00-05:00",
+  "palabras": "Política,ONU,Acuerdo de paz,Abelardo de la Espriella,desmovilizados",
+  "lead": "\"Colombia necesita una paz con seguridad, justicia, instituciones fuertes y presencia efectiva del Estado en todo el territorio nacional\", afirmó el presid...",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
