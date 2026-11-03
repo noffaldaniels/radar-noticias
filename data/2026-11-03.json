@@ -1503,7 +1503,7 @@
   "palabras": "Bucaramanga, Santander, Emergencias por lluvias, UNGRD, Blu Radio",
   "lead": "La UNGRD entregó siete equipos a los dos municipios de Charta y Suratá en Santander, con una inversión superior a los $4.583 millones, mediante el programa Obras por Impuestos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "Noticias de hoy, Cali",
   "lead": "La estrategia comenzará con una prueba piloto de tres meses. Durante este periodo, los participantes podrán desarrollar sus propuestas sin pagar por el aprovechamiento económico del espacio público.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "Turismo, Deportes",
   "lead": "Para quienes planifican vacaciones de esquí, esto implica que el futuro del sector dependerá de una planificación consciente y basada en datos precisos sobre el entorno natural.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Dorado Mañana",
   "lead": "El sorteo de Dorado Mañana se realiza de lunes a sábado a las 11:00 a. m. Este martes 3 de noviembre de 2026, los apostadores pueden consultar el resultado, revisar las últimas cifras y conocer el plan de premios de este chance.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "Noticias de hoy, atentado terrorista, Huila",
   "lead": "El policía había sido trasladado durante la madrugada del domingo al Hospital Universitario de Neiva",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Antonio Navarro Wolff, Viral",
   "lead": "El histórico episodio ocurrido durante la campaña presidencial de 1994 resurgió en la memoria periodística, revelando los pormenores de la irrupción del líder político en plena transmisión en vivo",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Suba, Policía Nacional, Embarazo",
   "lead": "La madre se encontraba en trabajo de parto en el sector de El Rincón. Ambos fueron trasladados al Hospital de Suba.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Santander, Electrificadora de Santander, Energía eléctrica, Blu Radio, Noticias de hoy",
   "lead": "La Electrificadora de Santander explicó cómo funciona la resolución que establece cobros adicionales a los usuarios que superen sus metas individuales de consumo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "Antonio Navarro Wolff",
   "lead": "Su familia, dirigentes y figuras de distintos sectores políticos llegaron al cementerio Jardines del Recuerdo para participar en la ceremonia de despedida del exsenador Antonio Navarro Wolff.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "Noticias de hoy, Orden público, atentado terrorista, Policía Nacional",
   "lead": "La reacción inmediata a los agentes de la Policía que a esa hora hacían guardia desde la estación, permitió responder al hostigamiento.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "El periodista Daniel Samper Ospina ya ha donado a la campaña de Caracol Radio cerca de 72 millones de pesos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "En medio de reportes de turbulencia y hielo, una de las pilotos advirtió que la aeronave estaba fuera de control y que se estrellarían.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "La alianza entre la Universidad Icesi y el grupo Tecnoquímicas ha destinado cerca de $21.000 millones en los últimos cinco años para ampliar las oportunidades de acceso a la educación superior y apoyar la formación profesional de jóvenes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "",
   "lead": "Además de las cuatro víctimas fatales del atentado en Planadas, otras cuatro personas fueron asesinadas en hechos que son materia de investigación.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "La colombiana subió al podio en arranque y total olímpico de la categoría de los 69 kilogramos, en el certamen que se disputa en Ningbo, China.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "Ana María Ramírez Cetina, de 23 años, viajaba con la familia para la que trabajaba como niñera. En el avión también iban un empresario tecnológico, su esposa, sus dos hijos pequeños, dos amigas de la pareja y los dos pilotos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "Era una noticia que esperaban los docentes en Caldas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "El recinto adelanta proyectos de climatización, renovación de equipos audiovisuales y actualización de sus espacios. Las intervenciones hacen parte de un plan de inversión de $50.000 millones para el periodo 2024-2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Angie Ramírez Cetina, hermana de Anita María Cetina, víctima del avión privado que se estrelló en Florida, habló sobre el accidente y la última comunicación que tuvieron",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "Tres tripulaciones controlaron la emergencia registrada en la madrugada de este martes. No hubo personas lesionadas y se desconocen las causas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "Manifestó que el tema de la inmigración no será tan importante y señaló a los demócratas de convertirse en el partido socialista en Estados Unidos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "Una representante sindical alertó ante el Concejo de Tunja sobre presuntas afectaciones a la salud mental, sobrecarga laboral y falta de garantías de seguridad para las trabajadoras.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "Ambas agrupaciones interpretaron todos sus éxitos en un concierto de casi tres horas en el Movistar Arena de Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "Cuatro hombres enmascarados habrían intentado robarle sus pertenencias y dinero cuando departía con otras personas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "",
   "lead": "Conozca cómo está el precio del bolívar en el dólar y otras divisas del mundo, y cómo ha sido su movimiento en los últimos días.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "",
   "lead": "La tecnología propone sustituir materias primas tradicionales en la construcción, impulsando un modelo circular en las obras públicas y privadas de la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "",
   "lead": "Según el Ejército, pertenecería a la estructura Edgar Madrid Benjumea y estaría vinculado con actividades de extracción ilegal de hidrocarburos en el departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "",
   "lead": "La ceremonia de la XVII edición del galardón se realizará este 4 de noviembre, a las 7:00 p. m., en el teatro José Consuegra Higgins de la Universidad Simón Bolívar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "",
   "lead": "La Alcaldía Municipal ofrece $20 millones de recompensa por información sobre el asesinato del veterinario Hernán Lopera.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "Política,Fiscalía General de la Nación,Principio de oportunidad,Políticos,La gata",
   "lead": "Alfonso López aseguró que su vida corre peligro a raíz de una negociación que, según dijo, hizo su madre con unos empresarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "Sociedad,atentado,Alteración al orden público,ataque explosivo",
   "lead": "El gremio rechazó el atentado en Planadas que dejó cuatro familiares de un representante cafetero muertos y pidió seguridad.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "Actualidad,Parto,Policía Nacional,Suba,Bogotá",
   "lead": "La mujer y el bebé fueron remitidos a un centro asistencial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "Economía,déficit fiscal,Fallo fiscal,Reforma política,Economistas,Incentivos tributarios,Recaudo tributario",
   "lead": "Colombia necesita recuperar la confianza de los mercados internacionales y evitar un escenario de crisis fiscal que podría tener efectos graves.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "Internacional,El Salvador,Haití,Militares,Fuerzas Militares",
   "lead": "Los soldados salvadoreños están en la búsqueda de cuatro militares desaparecidos por pandilleros haitianos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "Política,Cárcel La Picota,Abelardo de la Espriella,Mega operativo,armas,Colombia,Bogotá,Incautación de explosivos,Cárcel",
   "lead": "La intervención en la cárcel de Bogotá llega acompañada de la orden presidencial de trasladar a los presos lejos de las ciudades donde cometen sus delitos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "Sociedad,Alerta,Temblor,Android,Google",
   "lead": "En Colombia, Google ofrece el servicio de alertas de terremotos para dispositivos Android.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "Internacional,Donald Trump,israel,Estados Unidos,Militares",
   "lead": "Según Trump, la decisión llega después de haber tenido un acuerdo con Benjamín Netanyahu.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "Internacional,Miami,Estados Unidos,Aviones,Accidente",
   "lead": "Aunque la Junta Nacional de Seguridad en el Transporte y la FAA siguen investigando las causas del accidente aéreo, preliminarmente se considera que el cli...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "Sociedad,Medio ambiente,Ministerio de Ambiente,Parques Nacionales Naturales de Colombia,Santa Marta",
   "lead": "Cámaras trampa y recorridos de campo han permitido identificar mamíferos y aves amenazadas en los ecosistemas del área protegida de la Sierra Nevada local",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,6 +1932,336 @@
   "palabras": "Sociedad,mal clima,Ideam,Lluvias,Cambio climático,Fenómeno de El Niño",
   "lead": "El Ideam advierte sobre riesgos de crecientes súbitas, inundaciones y deslizamientos, mientras Bogotá tendrá una temperatura máxima de 21 grados y posibles...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bla Bla Blu, programa completo del 2 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/bla-bla-blu/bla-bla-blu-programa-completo-del-2-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T11:08:52-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 2 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Medicina Legal sigue sin entregar cadáver de periodista asesinado en Anorí: se cumple un mes",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/medicina-legal-sigue-sin-entregar-cadaver-de-periodista-asesinado-en-anori-se-cumple-un-mes-rg10",
+  "fecha": "2026-11-03T10:45:09-05:00",
+  "palabras": "Noticias de hoy, Antioquia, Homicidios, Seguridad ciudadana",
+  "lead": "Autoridades locales indicaron que avanzan en gestiones para agilizar trámites ante la entidad con la Defensoría del Pueblo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigan estado de árbol que cayó y mató a una persona en fiestas de Santo Domingo, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/investigan-estado-de-arbol-que-cayo-y-mato-a-una-persona-en-fiestas-de-santo-domingo-antioquia-rg10",
+  "fecha": "2026-11-03T10:59:48-05:00",
+  "palabras": "Antioquia, Noticias de hoy",
+  "lead": "Autoridades ambientales habían catalogado el ejemplar con “riesgo bajo de volcamiento”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigan posible homicidio involuntario por muerte de Jesús de Miguel, jugador del Tenerife",
+  "enlace": "https://www.bluradio.com/deportes/futbol/investigan-posible-homicidio-involuntario-por-muerte-de-jesus-de-miguel-jugador-del-tenerife-cb20",
+  "fecha": "2026-11-03T11:17:30-05:00",
+  "palabras": "España, Liga BBVA",
+  "lead": "La Policía española abrió diligencias tras el fallecimiento de Jesús de Miguel, quien sufrió un fuerte choque con el arquero del Andorra durante un partido de Segunda División.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Con tutela buscan traslado de Miguel Quintero a cárcel en Antioquia desde Boyacá",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/con-tutela-buscan-traslado-de-miguel-quintero-a-carcel-en-antioquia-desde-boyaca-rg10",
+  "fecha": "2026-11-03T11:01:41-05:00",
+  "palabras": "Daniel Quintero, Medellín, Noticias de hoy",
+  "lead": "El nuevo abogado del imputado pidió considerar un cambio de establecimiento penitenciario por su lejanía con su círculo familiar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La Ley de Sometimiento enfrenta su día decisivo en el Congreso",
+  "enlace": "https://www.bluradio.com/politica/la-ley-de-sometimiento-enfrenta-su-dia-decisivo-en-el-congreso-pr30",
+  "fecha": "2026-11-03T11:02:54-05:00",
+  "palabras": "Ley de sometimiento, Congreso, Abelardo De La Espriella",
+  "lead": "A pesar de las apretadas agendas legislativas y las trabas en el trámite, Briceño confirmó que en la última sesión se lograron destrabar aspectos fundamentales: “Logramos aprobar tres artículos, pero ojo, logramos salir de un número grande de proposiciones que pedían suprimir todos los artículos,…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Niñera colombiana murió en accidente de jet en Palm Beach: su hermana revela su última videollamada",
+  "enlace": "https://www.bluradio.com/nacion/ninera-colombiana-murio-en-accidente-de-jet-en-palm-beach-su-hermana-revela-su-ultima-videollamada-so35",
+  "fecha": "2026-11-03T11:16:55-05:00",
+  "palabras": "Miami",
+  "lead": "Angie Alejandra Ramírez recordó a Ana María, ingeniera biomédica que cuidaba a dos niños, y pidió a Colombia y EE. UU. agilizar la entrega de sus restos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En video: mujer persiguió en moto a la supuesta amante de su esposo; la sacó a golpes",
+  "enlace": "https://www.bluradio.com/mundo/en-video-mujer-persiguio-en-moto-a-la-supuesta-amante-de-su-esposo-y-la-agarro-a-golpes-so35",
+  "fecha": "2026-11-03T11:06:48-05:00",
+  "palabras": "Viral, Perú",
+  "lead": "Una cámara de seguridad registró la persecución y la agresión en plena calle contra la amante.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gianni Infantino se pronuncia tras la muerte de Jesús de Miguel, delantero del Tenerife",
+  "enlace": "https://www.bluradio.com/deportes/futbol/gianni-infantino-se-pronuncia-tras-la-muerte-de-jesus-de-miguel-delantero-del-tenerife-cb20",
+  "fecha": "2026-11-03T11:11:09-05:00",
+  "palabras": "Gianni Infantino",
+  "lead": "Jesús de Miguel recibió un fuerte golpe en el pecho, tras el cual entró en parada cardiorrespiratoria. El incidente obligó a suspender definitivamente el encuentro en el minuto 108, con el fin de facilitar el acceso al terreno de juego de los servicios sanitarios.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consulado de papel creado por Petro gastó $500 millones y deja deuda por una sede que nunca se usó",
+  "enlace": "https://caracol.com.co/2026/11/03/consulado-de-papel-creado-por-petro-gasto-500-millones-y-deja-deuda-por-una-sede-que-nunca-se-uso/",
+  "fecha": "2026-11-03T11:01:49-05:00",
+  "palabras": "",
+  "lead": "El canciller Luis Gilberto Murillo lo creó hace dos años, pero nunca abrió sus puertas. Rosa Villavicencio nombró cónsul a Maryory Pabón, cuya designación en Canadá había sido anulada y quien cobró 14.700 dólares mensuales entre enero y octubre de este año. El ministro Omar Bula le pondrá fin al fallido proyecto de Gustavo Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "LATAM retomará vuelos directos entre Medellín y Cartagena desde enero de 2027",
+  "enlace": "https://caracol.com.co/2026/11/03/latam-retomara-vuelos-directos-entre-medellin-y-cartagena-desde-enero-de-2027/",
+  "fecha": "2026-11-03T11:13:22-05:00",
+  "palabras": "",
+  "lead": "La operación se realizará en aviones Airbus A320, con capacidad para 170 pasajeros, y ofrecerá horarios en la mañana y la tarde.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno radicaría proyecto para eliminar Fomag: salud quedaría en Nueva EPS, revela Fecode",
+  "enlace": "https://caracol.com.co/2026/11/03/gobierno-radicaria-proyecto-para-eliminar-fomag-salud-quedaria-en-nueva-eps-revela-fecode/",
+  "fecha": "2026-11-03T11:14:24-05:00",
+  "palabras": "",
+  "lead": "El proyecto contempla un periodo de transición hasta por dos años, y la salud de los maestros quedaría a manos de la Nueva EPS.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuánto cuesta la realización de un evento exclusivo en la Catedral de Sal de Zipaquirá?",
+  "enlace": "https://caracol.com.co/2026/11/03/cuanto-cuesta-la-realizacion-de-un-evento-exclusivo-en-la-catedral-de-sal-de-zipaquira/",
+  "fecha": "2026-11-03T11:11:39-05:00",
+  "palabras": "",
+  "lead": "Los precios de alquiler dependen del cierre total o parcial de los",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El gremio cafetero en Caldas ve con preocupación posible imposición de IVA del 19 %",
+  "enlace": "https://caracol.com.co/2026/11/03/el-gremio-cafetero-en-caldas-ve-con-preocupacion-posible-imposicion-de-iva-del-19/",
+  "fecha": "2026-11-03T11:08:25-05:00",
+  "palabras": "",
+  "lead": "Indican que la bebida insignia de Colombia sería inalcanzable para muchos ciudadanos que la consumen a diario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador de Antioquia espera respuesta del Gobierno a propuestas para el rescate fiscal",
+  "enlace": "https://caracol.com.co/2026/11/03/gobernador-de-antioquia-espera-respuesta-del-gobierno-a-propuestas-para-el-rescate-fiscal/",
+  "fecha": "2026-11-03T11:06:57-05:00",
+  "palabras": "",
+  "lead": "El mandatario departamental aseguró el presidente Abelardo de la Espriella vio con buenos ojos las propuestas para ahorrar entre 26 y 28 billones de pesos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cali registra 114 mujeres desaparecidas en 2026: 40 siguen sin aparecer y 12 fueron halladas muertas",
+  "enlace": "https://caracol.com.co/2026/11/03/cali-registra-114-mujeres-desaparecidas-en-2026-40-siguen-sin-aparecer-y-12-fueron-halladas-muertas/",
+  "fecha": "2026-11-03T11:05:02-05:00",
+  "palabras": "",
+  "lead": "La Personería lanzó una alerta por los casos reportados en la ciudad. Entre las desaparecidas hay menores de edad y mujeres que llevan semanas sin que sus familias conozcan su paradero",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja anuncia medidas para proteger el centro histórico y prepara el Aguinaldo Boyacense",
+  "enlace": "https://caracol.com.co/2026/11/03/tunja-anuncia-medidas-para-proteger-el-centro-historico-y-prepara-el-aguinaldo-boyacense/",
+  "fecha": "2026-11-03T11:04:45-05:00",
+  "palabras": "",
+  "lead": "El alcalde Rafael Acevedo entregó un balance de las restricciones durante Halloween, anunció revisiones a estructuras en riesgo y señaló que la pavimentación de la avenida Olímpica es responsabilidad de la Gobernación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Eva Ferrer comparece ante la Fiscalía: habló sobre Euclides Torres",
+  "enlace": "https://caracol.com.co/2026/11/03/eva-ferrer-comparece-ante-la-fiscalia-hablo-sobre-euclides-torres/",
+  "fecha": "2026-11-03T10:58:50-05:00",
+  "palabras": "",
+  "lead": "La española rinde nuevamente declaración ante la Fiscalía sobre su examiga Verónica Alcocer.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daddy Yankee regresa con ‘La Postal’, un álbum que reúne a Cardi B, Bizarrap y Danny Ocean",
+  "enlace": "https://caracol.com.co/2026/11/03/daddy-yankee-regresa-con-la-postal-un-album-que-reune-a-cardi-b-bizarrap-y-danny-ocean/",
+  "fecha": "2026-11-03T10:58:56-05:00",
+  "palabras": "",
+  "lead": "El artista puertorriqueño lanzó una producción de 15 canciones que tiene al amor como eje central y reúne a figuras de diferentes géneros musicales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo saber si tembló? Fuentes oficiales en Colombia para saber fecha, hora y magnitud de sismos",
+  "enlace": "https://caracol.com.co/2026/11/03/como-saber-si-temblo-fuentes-oficiales-en-colombia-para-saber-fecha-hora-y-magnitud-de-sismos/",
+  "fecha": "2026-11-03T10:53:47-05:00",
+  "palabras": "",
+  "lead": "Le contamos cuáles páginas puede consultar para saber si tembló, cuándo, a qué hora y dónde fue el epicentro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía Nacional abre una investigación por la muerte de Jesús de Miguel tras choque con Jesús Owono",
+  "enlace": "https://caracol.com.co/2026/11/03/policia-nacional-abre-una-investigacion-por-la-muerte-de-jesus-de-miguel-tras-choque-con-jesus-owono/",
+  "fecha": "2026-11-03T10:51:27-05:00",
+  "palabras": "",
+  "lead": "El guardameta del Andorra es investigado por un posible delito de homicidio imprudente menos grave, luego del fallecimiento del delantero del Tenerife.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policías asistieron el nacimiento de un bebé dentro de un taxi en Suba",
+  "enlace": "https://caracol.com.co/2026/11/03/policias-asistieron-el-nacimiento-de-un-bebe-dentro-de-un-taxi-en-suba/",
+  "fecha": "2026-11-03T10:50:25-05:00",
+  "palabras": "",
+  "lead": "Tanto la madre como el bebé se encuentran con buen estado de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Desconocemos amenazas contra Hidroituango, el Metro o la Alcaldía”: Gobernación de Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/03/desconocemos-amenazas-contra-hidroituango-el-metro-o-la-alcaldia-gobernacion-de-antioquia/",
+  "fecha": "2026-11-03T10:42:04-05:00",
+  "palabras": "",
+  "lead": "El frente 36 de las disidencias de las Farc habría exigido $5.000 millones como pago inicial y $500 millones mensuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colegio Médico Colombiano rechaza ataque en Planadas y denuncia violación a la Misión Médica",
+  "enlace": "https://caracol.com.co/2026/11/03/colegio-medico-colombiano-rechaza-ataque-en-planadas-y-denuncia-violacion-a-la-mision-medica/",
+  "fecha": "2026-11-03T10:38:15-05:00",
+  "palabras": "",
+  "lead": "La organización recordó que las instituciones de salud, los hospitales y el personal sanitario deben permanecer al margen de cualquier confrontación armada.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué pasará con salud de maestros tras fin de contrato con Fiduprevisora? Esto dicen FOMAG y Fecode",
+  "enlace": "https://caracol.com.co/2026/11/03/que-pasara-con-salud-de-maestros-tras-fin-de-contrato-con-fiduprevisora-esto-dicen-fomag-y-fecode/",
+  "fecha": "2026-11-03T10:36:21-05:00",
+  "palabras": "",
+  "lead": "Martha Alfonso, de Fecode, señaló en Caracol Radio que el Gobierno radicaría un proyecto de ley para acabar con el FOMAG como hoy se le conoce.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Shakira habría viajado de urgencia a Barranquilla por la salud de su padre",
+  "enlace": "https://caracol.com.co/2026/11/03/shakira-habria-viajado-de-urgencia-a-barranquilla-por-la-salud-de-su-padre/",
+  "fecha": "2026-11-03T10:31:31-05:00",
+  "palabras": "",
+  "lead": "William Mebarak, de 95 años, habría sido hospitalizado nuevamente en la capital del Atlántico. La cantante estaría acompañando a su familia ante este nuevo quebranto de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "JEP imputa al general (r) Mario Montoya por la Comuna 13",
+  "enlace": "https://www.lafm.com.co/orden-publico/mario-montoya-imputacion-jep-comuna-13-415971",
+  "fecha": "2026-11-03T10:58:00-05:00",
+  "palabras": "Orden Público,JEP,Fiscalía General de la Nación,Ejército Nacional,imputan cargos",
+  "lead": "La Jurisdicción también compulsó copias a la Fiscalía General de la Nación y pide investigar a Luis Pérez",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cómo recuperar el seno años después de una mastectomía",
+  "enlace": "https://www.lafm.com.co/sociedad/mastectomia-cancer-mama-recuperacion-operacion-tratamiendo-cirugia-seno-mujeres-colombia-415984",
+  "fecha": "2026-11-03T10:54:00-05:00",
+  "palabras": "Sociedad,Salud,Supersalud,salud mental,productos cancerígenos,Secretaría de la Mujer,pacientes,Tecnología",
+  "lead": "Las mujeres que han superado un cáncer de mama y no accedieron a una reconstrucción inmediata pueden considerar este procedimiento incluso varios años desp...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "FMI llega a Colombia: Gobierno busca US$5.000 millones en 2026",
+  "enlace": "https://www.lafm.com.co/economia/fmi-llega-a-colombia-gobierno-busca-5000-millones-de-dolares-415983",
+  "fecha": "2026-11-03T10:50:00-05:00",
+  "palabras": "Economía,FMI,Ministerio de Hacienda y Crédito Público,Abelardo de la Espriella,déficit fiscal",
+  "lead": "La misión del FMI iniciará esta semana su agenda privada, mientras el Gobierno evalúa un posible préstamo de hasta US$5.000 millones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Mohamed Salah jugaría con la Selección Turca? Esto se sabe",
+  "enlace": "https://www.lafm.com.co/deportes/mohamed-salah-jugara-para-turquia-rumores-y-distincion-en-egipto-415967",
+  "fecha": "2026-11-03T10:30:00-05:00",
+  "palabras": "Deportes,Liga de Turquía,Mohamed Salah,Fútbol,Mundial 2026,Egipto,Turquía",
+  "lead": "El egipcio se llevará la \"Medalla de Servicios Distinguidos del Estado\" de Turquía; ¿Esto implicaría que \"El Faraón\" estaría habilitado para jugar con la s...",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
