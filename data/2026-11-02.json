@@ -2757,7 +2757,7 @@
   "palabras": "MiLoto, Resultado MiLoto",
   "lead": "Números ganadores de MiLoto del lunes 2 de noviembre de 2026: sorteo #634 deja un nuevo acumulado de $400 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2768,7 +2768,7 @@
   "palabras": "Baloto, Resultados del chance",
   "lead": "Todos los resultados del sorteo 2.730 de Baloto y Revancha en Colombia del lunes, 2 de noviembre de 2026. Consulte la combinación ganadora, la tabla de aciertos y los nuevos acumulados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2779,7 +2779,7 @@
   "palabras": "ColorLoto",
   "lead": "Conozca la combinación completa y el premio mayor de ColorLoto que sube a $2.270 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "",
   "lead": "El hecho se presentó horas previas a la llegada del presidente de la República a la región.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "",
   "lead": "La CONMEBOL confirmó las fechas del campeonato juvenil, que entregará cuatro cupos directos al Mundial Sub-20.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "",
   "lead": "Un vuelo de la aerolínea World2Fly, que cubría la ruta entre Cali y Madrid, tuvo que ser reprogramado debido a dificultades técnicas presentadas en la aeronave, situación que mantiene afectados a cientos de pasajeros en el aeropuerto Alfonso Bonilla Aragón.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "",
   "lead": "Ante esta situación, el Comando Aéreo de Combate N.° 4 dispuso sobrevuelos, escoltas aéreas, patrullajes y misiones de reconocimiento.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "Orden Público,Ejército Nacional,Drones,Alteración al orden público,ELN,Combates",
   "lead": "La Brigada habló de ataques constantes con aeronaves no tripuladas que, según su versión, fueron perpetrados por esa guerrilla.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  }
 ]
