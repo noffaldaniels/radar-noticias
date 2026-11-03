@@ -664,6 +664,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Tesla lidera los más vendidos con 17.530 unidades, seguido por Toyota con 14.214, Suzuki con 13.347.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:59",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Anuncio publicitario institucional de Tepsat sobre su aporte al desarrollo energético del país desde el Atlántico.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:59",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La Fiscalía General de la Nación recibe declaraciones esta mañana de Eva Ferrer, exfuncionaria del gobierno y exasesora de campaña de Gustavo Petro, sobre presuntas irregularidades y secretos de la casa de Nariño.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:00",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Eva Ferrer rinde declaración ante la Fiscalía a propósito de una denuncia interpuesta por el Centro Democrático sobre audios filtrados que señalan presuntas irregularidades en el gobierno Petro.",
+   "resaltar": true
   }
  ],
  "avisos": [
