@@ -2471,7 +2471,7 @@
   "palabras": "Paisita Noche, Resultados del chance",
   "lead": "El chance Paisita Noche realiza sorteos todos los días, después de las 6:00 p. m. Este lunes 2 de noviembre de 2026 los jugadores pueden consultar el resultado oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2482,7 +2482,7 @@
   "palabras": "Chontico Noche",
   "lead": "El chance Chontico Noche realiza sorteos todos los días, con horarios que varían según la jornada. Este lunes 2 de noviembre podrá conocer todos los resultados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2493,7 +2493,7 @@
   "palabras": "Sinuano noche, Resultado de loterías de hoy",
   "lead": "El chance Sinuano Noche realiza su sorteo todos los días a las 8:30 p. m. Este lunes 2 de noviembre de 2026 los apostadores pueden consultar las cifras ganadoras.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2504,7 +2504,7 @@
   "palabras": "Caribeña noche, Resultado de loterías de hoy",
   "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Este lunes 2 de noviembre de 2026 los jugadores pueden consultar los resultados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2515,7 +2515,7 @@
   "palabras": "Super Astro Luna, Resultados del chance",
   "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Este lunes 2 de noviembre de 2026 los jugadores pueden consultar el resultado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "Dorado Noche, Resultados del chance",
   "lead": "El chance Dorado Noche tiene sorteos los fines de semana y días festivos. Este lunes 2 de noviembre de 2026 los apostadores pueden consultar el resultado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "Magdalena, Homicidios",
   "lead": "El hombre se hizo pasar por un comprador para que el veterinario bajara al guardia y cuando se dio la vuelta fue que lo atacó.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,7 +2548,7 @@
   "palabras": "Marco Rubio, Venezuela",
   "lead": "En su primer encuentro en Washington, ambos diplomáticos discutieron reformas institucionales y la liberación de presos políticos, en medio del proceso de transición política que atraviesa Venezuela.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2559,7 +2559,7 @@
   "palabras": "",
   "lead": "El secretario de Estado estadounidense se reunió en Washington con el nuevo canciller venezolano, Oliver Blanco, para abordar la transición política y las reformas institucionales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2570,7 +2570,7 @@
   "palabras": "",
   "lead": "La medida estará vigente entre el lunes 2 y el domingo 8 de noviembre, gracias a las condiciones favorables registradas en los últimos días.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2580,6 +2580,171 @@
   "fecha": "2026-11-02T18:26:00-05:00",
   "palabras": "Política,ONU,Acuerdo de paz,Abelardo de la Espriella,desmovilizados",
   "lead": "\"Colombia necesita una paz con seguridad, justicia, instituciones fuertes y presencia efectiva del Estado en todo el territorio nacional\", afirmó el presid...",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Qué se elige en las elecciones de EE. UU.: escaños del Congreso y estados",
+  "enlace": "https://www.bluradio.com/mundo/elecciones-eeuu-que-se-elige-que-se-vota-congreso-senado-camara-so35",
+  "fecha": "2026-11-02T19:46:36-05:00",
+  "palabras": "Elecciones Estados Unidos, Donald Trump, Partido Republicano, Partido Demócrata",
+  "lead": "Los ciudadanos estadounidenses acuden a las urnas para renovar la totalidad de la Cámara de Representantes, un tercio del Senado y decenas de gobernaciones en una votación que determinará la gobernabilidad del país.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Franco Pérez, hijo de Omar Pérez, fue convocado con la Selección Colombia: \"Para mí es un orgullo\"",
+  "enlace": "https://www.bluradio.com/deportes/futbol/hijo-de-omar-perez-fue-convocado-con-la-seleccion-colombia-para-mi-es-un-orgullo-so35",
+  "fecha": "2026-11-02T19:26:28-05:00",
+  "palabras": "Ómar Pérez",
+  "lead": "El hijo de la leyenda de Independiente Santa Fe se ha formado mayormente en Argentina, pero es oriundo de Medellín y viste con orgullo la camiseta Tricolor.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bucaramanga vs. Atlético Nacional HOY: EN VIVO y online la Liga BetPlay 2026",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/bucaramanga-vs-atletico-nacional-hoy-en-vivo-y-online-la-liga-betplay-2026-so35",
+  "fecha": "2026-11-02T19:50:43-05:00",
+  "palabras": "Atlético Bucaramanga, Atlético Nacional, en vivo, Señal en vivo, Partidos de hoy, Liga BetPlay, nacional hoy",
+  "lead": "Los leopardos reciben al cuadro verdolaga en un nuevo choque de la Liga BetPlay con la necesidad de ganar y poder lograr la clasificación a cuadrangulares.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Recuperan a adolescente que había sido reclutado por las disidencias de las Farc en el Catatumbo",
+  "enlace": "https://www.bluradio.com/nacion/paz/recuperan-a-adolescente-que-habia-sido-reclutado-por-las-disidencias-de-las-farc-en-el-catatumbo-rg10",
+  "fecha": "2026-11-02T20:16:14-05:00",
+  "palabras": "Disidencias Farc, Catatumbo",
+  "lead": "También se desmovilizaron dos integrantes de la estructura 33, quienes se entregaron de manera voluntaria, informó el Ejército nacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos soldados asesinados y cinco militares heridos en medio de ataque del ELN en Chocó",
+  "enlace": "https://caracol.com.co/2026/11/03/dos-soldados-asesinados-y-cinco-militares-heridos-tras-ataque-del-eln-en-choco/",
+  "fecha": "2026-11-02T20:22:45-05:00",
+  "palabras": "",
+  "lead": "El hecho se suma a la escalada terrorista en varias zonas del país en las últimas horas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "María Eugenia Carreño será viceministra de Diálogo Social de Alejandro Ordóñez",
+  "enlace": "https://caracol.com.co/2026/11/03/maria-eugenia-carreno-sera-viceministra-de-dialogo-social-de-alejandro-ordonez/",
+  "fecha": "2026-11-02T20:24:31-05:00",
+  "palabras": "",
+  "lead": "Estuvo al frente del seguimiento a la adjudicación de la Ruta del Sol, proyecto que desató un escándalo de corrupción relacionado con los sobornos de Odebrecht.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro accidentes fatales marcaron el balance vial del puente festivo en el Huila",
+  "enlace": "https://caracol.com.co/2026/11/03/cuatro-accidentes-fatales-marcaron-el-balance-vial-del-puente-festivo-en-el-huila/",
+  "fecha": "2026-11-02T20:15:27-05:00",
+  "palabras": "",
+  "lead": "La Policía reportó cuatro personas fallecidas y siete lesionadas en siniestros viales, durante un fin de semana en el que se movilizaron cerca de 99.000 vehículos por el departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad para las Víctimas avanza en ayudas humanitarias para familias indígenas desplazadas en Nuquí",
+  "enlace": "https://caracol.com.co/2026/11/03/unidad-para-las-victimas-avanza-en-ayudas-humanitarias-para-familias-indigenas-desplazadas-en-nuqui/",
+  "fecha": "2026-11-02T19:29:45-05:00",
+  "palabras": "",
+  "lead": "El primero de noviembre de 2026 aproximadamente 500 miembros indígenas de la comunidad de Villa Nueva fueron desplazados por las disputas entre grupos armados ilegales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Bucaramanga vs. Nacional por Liga Colombiana 2026-II: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/03/en-vivo-bucaramanga-vs-nacional-por-liga-colombiana-2026-ii-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-11-02T20:42:05-05:00",
+  "palabras": "",
+  "lead": "El conjunto verdolaga busca acercarse al punto invisible, mientras que los leopardos quieren asegurar su clasificación a los cuadrangulares.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones en EEUU: estos estados podrían definir el poder",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-de-medio-termino-en-eeuu-estados-deciden-rumbo-415925",
+  "fecha": "2026-11-02T19:56:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Donald Trump,Elecciones en el exterior,Colombia,Casa Blanca",
+  "lead": "Las votaciones anticipadas superan los 50 millones antes del 3 de noviembre. Estados Unidos está a la espera de los resultados que definirán el Congreso y ...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinDefensa adopta primeras medidas tras atentado en Planadas",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-planadas-ministro-de-defensa-terrorismo-415931",
+  "fecha": "2026-11-02T19:40:00-05:00",
+  "palabras": "Orden Público,atentado,Terrorismo,actos violentos,disidencias,Disidentes de las Farc,Tolima",
+  "lead": "El Gobierno Nacional ordenó el desplazamiento de más de 160 soldados del Ejército Nacional tras este atentado.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno ADLE defiende Ley de ajuste fiscal: ¿Colombia en default?",
+  "enlace": "https://www.lafm.com.co/economia/ley-de-ajuste-fiscal-gobierno-abelardo-de-la-espriella-415930",
+  "fecha": "2026-11-02T19:35:00-05:00",
+  "palabras": "Economía,Colombia,Proyecto de ley,Recaudo fiscal,José Manuel Restrepo,Congreso de la República,Senado de la República,Cámara de Representantes",
+  "lead": "El vicepresidente y el ministro de Hacienda justificaron decisiones tributarias para \"rescatar\" la situación fiscal de Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Shein y Temu en Colombia: secreto detrás de precios bajos",
+  "enlace": "https://www.lafm.com.co/economia/shein-temu-precios-bajos-colombia-preocupacion-empresarios-415928",
+  "fecha": "2026-11-02T19:30:00-05:00",
+  "palabras": "Economía,comercio,China,IVA,Impuestos,precios",
+  "lead": "Los expertos revelan que \"China no está produciendo para China, está produciendo para el mundo\".",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mujer antioqueña fue víctima de feminicidio en Noruega",
+  "enlace": "https://www.lafm.com.co/sociedad/mujer-antioquena-fue-victima-de-presunto-feminicidio-en-noruega-415929",
+  "fecha": "2026-11-02T19:16:00-05:00",
+  "palabras": "Sociedad,Feminicidio,Noruega,Antioquia,familia,Homicidios,Secretaría de la Mujer",
+  "lead": "De acuerdo con lo que la familia ha conocido por la prensa noruega, la mujer fue hallada en una cama dentro de la vivienda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El legado político de Navarro Wolff en Colombia",
+  "enlace": "https://www.lafm.com.co/politica/antonio-navarro-wolff-y-su-legado-politico-en-colombia-y-sus-diferencias-con-petro-415926",
+  "fecha": "2026-11-02T18:25:00-05:00",
+  "palabras": "Política,Antonio Navarro Wolff,Constitución Política,participación política,Colombia,Políticos,Elecciones en Colombia,Periodismo",
+  "lead": "El exsenador y excongresista fue condecorado como el mejor alcalde en la década de 1990, tras su paso por Pasto.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
