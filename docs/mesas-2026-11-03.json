@@ -461,6 +461,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Falleció Antonio Navarro Wolf, excomandante del M-19, copresidente de la Asamblea Constituyente, exministro de Salud, exgobernador de Nariño y exalcalde de Pasto.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:09",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Un sismo de magnitud 3,4 sacudió al municipio de Sapuyes en el sur de Nariño, según el Servicio Geológico Colombiano, con una profundidad superficial de 10 kilómetros.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:10",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La visita del Papa León XIV a Uruguay, Argentina y Perú entre el 6 y el 16 de noviembre generará un impacto económico de 500 millones de dólares.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:10",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El ejército neutralizó una amenaza de ataque con drones y explosivos del clan del Golfo en Segovia, Antioquia, encontrando 10 granadas de alto poder y cuatro de mediano poder adaptadas para drones.",
+   "resaltar": false
   }
  ],
  "avisos": [
