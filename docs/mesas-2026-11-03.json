@@ -216,6 +216,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Obono, jugador del Tenerife de 25 años, tuvo un choque en el partido donde el arquero del equipo rival le impactó el pecho a Jesús de Miguel.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:18",
+   "quien": "Alcalde de Chaparral",
+   "que": "El temblor ocurrió hace 7 horas y 16 minutos, hace 3 horas y 3 minutos, con una escala de 5.6, escala internacional y sacudió a Chaparral. Hay temor e incertidumbre, viviendas y casas afectadas y destruidas.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:18",
+   "quien": "Alcalde de Chaparral",
+   "que": "En el barrio Libertador se cayó un muro que golpeó a una señora, cuya ambulancia la recogió y la trajo al hospital San Juan Bautista, donde fue atendida y está fuera de peligro.",
+   "resaltar": true
   }
  ],
  "avisos": [
