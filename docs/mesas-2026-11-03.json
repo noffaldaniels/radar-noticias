@@ -41,6 +41,27 @@
    "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
    "que": "Los atacantes provienen del Cauca y buscan arrasar todo a su paso, violando derechos humanos y el derecho internacional humanitario.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:28",
+   "quien": "Miguel Gómez Martínez, Ministro de Hacienda",
+   "que": "Las compras por debajo de 200 dólares que están hoy en día exentas han hecho mucho daño al comercio y producción local, con volúmenes cada vez más grandes, estimando un recaudo potencial de alrededor de 2 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:28",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Cuatro atentados terroristas en Tolima perpetrados en Cauca, Nariño, Huila, Tolima y Valle, dejando cuatro personas muertas y 18 heridas, incluyendo un bebé de dos meses en Cauca y ataques con drones en Norte de Santander.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:28",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El centro hospitalario en Planadas quedó prácticamente destruido tras un ataque con explosivos, obligando a evacuar servicios médicos y habilitar un lugar alterno, según denunció la ministra de Salud, Ana María Bésliga.",
+   "resaltar": true
   }
  ],
  "avisos": [
