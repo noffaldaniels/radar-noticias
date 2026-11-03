@@ -480,7 +480,7 @@
   "palabras": "Cali, Noticias de hoy, Terremoto hoy",
   "lead": "En cuanto al resto del Valle del Cauca, tampoco se reportan novedades ni afectaciones con este último temblor, especialmente los municipios que limitan directamente con el departamento del Tolima.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Santander, Blu Radio, Homicidios, Ecopetrol, Barrancabermeja, Blu Radio, Noticias de hoy",
   "lead": "La preocupación de las autoridades también está relacionada con los asesinatos de dos líderes sociales ocurridos durante los últimos dos meses en ese mismo sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Daniel Quintero, Procuraduría General de la Nación, Elecciones en Colombia 2026",
   "lead": "El ente de control calificó provisionalmente la conducta como falta gravísima a título de dolo. La investigación se basa en un video de una entrevista que circuló en TikTok.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Bucaramanga, Gobernación de Santander,  Halloween, Blu Radio",
   "lead": "El niño cayó de una motocicleta y el conductor habría abandonado el lugar. En otro procedimiento, una adolescente fue puesta a disposición de la Comisaría de Familia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Viral, Florida, Accidentes aéreos",
   "lead": "La joven de 20 años habría advertido a su novio sobre las condiciones del vuelo unos diez minutos antes del impacto.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "Este martes 3 de noviembre están llamados a votar más de 250 millones de electores en Estados Unidos. Siga EN VIVO el minuto a minuto de la jornada:",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "El expresidente Juan Manuel Santos, expresidente de la República, conversó en 6AM W, con Julio Sánchez Cristo, acerca de las declaraciones que dio el embajador de Colombia ante la ONU, Mauricio Gaona, sobre el acuerdo de paz. A propósito, aseguró que el representante del país ante las Naciones Unidas “está confundido” e “hizo el ridículo”.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Este año rindió homenaje a la Ciénaga Grande de Santa Marta, con una amplia participación de visitantes y más de 170 actividades",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Ana Lucía Pineda confirmó que se entregarán ayudas para la remodelación de casas y el inicio de nuevos proyectos con soluciones habitacionales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "Los organismos de socorro verifican con las instituciones educativas para establecer posibles daños en las sedes escolares.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "Adriana Magali, gobernadora del Tolima, denunció violación a los DD. HH. por parte de disidencias de las FARC y señala a alias ‘Amazonas’ tras atentado en Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Alfredo Morelos destacó la importancia de sumar minutos para llegar en óptimas condiciones a los cuadrangulares.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Así lo anunció el alcalde Alejandro Char, tras una visita del presidente de la Federación Colombiana de Fútbol, Ramón Jesurun, a las obras del Supermetro.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "La medida fue anunciada después de un consejo extraordinario de seguridad por los recientes homicidios en el distrito. En el corregimiento El Centro también han sido asesinados dos líderes sociales en los últimos dos meses.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "Orden Público,Ataque a uniformados,Militares,Tibú,Catatumbo,ELN,Disidentes de las Farc",
   "lead": "El uniformado fue atacado mientras tropas de la Brigada 30 adelantaban operaciones en el sector conocido como La Llana.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,6 +656,512 @@
   "palabras": "Deportes,Liga de España,Fútbol,España,Copa del Rey",
   "lead": "Aunque los servicios médicos consiguieron reanimarlo tras una parada cardiorrespiratoria, su estado de salud se deterioró durante la madrugada.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Néstor Morales regresa a Mañanas Blu y habla de su recuperación tras cirugía",
+  "enlace": "https://www.bluradio.com/nacion/nestor-morales-regresa-a-mananas-blu-y-habla-de-su-recuperacion-tras-cirugia-so35",
+  "fecha": "2026-11-03T07:05:55-05:00",
+  "palabras": "Néstor Morales",
+  "lead": "El director de Mañanas Blu volvió este martes a los micrófonos después de dos meses de ausencia.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Habrá cortes de agua en cuatro municipios de Cundinamarca por obras en la planta Tibitoc",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/habra-cortes-de-agua-en-cuatro-municipios-de-cundinamarca-por-obras-en-la-planta-tibitoc-rg10",
+  "fecha": "2026-11-03T07:06:46-05:00",
+  "palabras": "Cortes de agua, Acueducto de Bogotá",
+  "lead": "Los trabajos comenzarán a las 8:00 de la mañana del miércoles 4 de noviembre y se extenderán durante 48 horas. Zonas rurales de Zipaquirá y Tocancipá estarán sin servicio, mientras que Gachancipá y Sopó podrían presentar intermitencias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un hombre de 63 años la habría acosado hasta matarla en un café: exigen justicia por Paula",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/un-hombre-de-63-anos-la-habria-acosado-hasta-matarla-en-un-cafe-exigen-justicia-por-paula-rg10",
+  "fecha": "2026-11-03T07:16:16-05:00",
+  "palabras": "Santander, Feminicidio, San Gil, Violencia Contra la mujer, Blu Radio, Noticias de hoy",
+  "lead": "Dolor y exigencia de justicia en el sepelio de Paula Carley Coca Murcia, víctima de feminicidio en Pinchote, Santander.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Atribuyen atentado en Planadas, Tolima, al frente Jerónimo Galeano de disidencias de las Farc",
+  "enlace": "https://www.bluradio.com/nacion/atribuyen-atentado-en-planadas-tolima-al-frente-jeronimo-galeano-de-disidencias-de-las-farc-pr30",
+  "fecha": "2026-11-03T07:29:19-05:00",
+  "palabras": "Tolima, atentado terrorista",
+  "lead": "La gobernadora Adriana Magali Matiz aseguró que los explosivos iban dirigidos a la base militar, pero cayeron en barrios vecinos: 177 viviendas resultaron afectadas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cierran por 10 días discoteca en Bucaramanga donde murió joven tras una riña en Halloween",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/cierran-por-10-dias-discoteca-en-bucaramanga-donde-murio-joven-tras-una-rina-en-halloween-rg10",
+  "fecha": "2026-11-03T07:41:48-05:00",
+  "palabras": "Halloween, Bucaramanga, Alcaldía de Bucaramanga, Santander, Bucaramanga, Homicidios, Blu Radio, Noticias de hoy, Radio, Policía Nacional",
+  "lead": "La Secretaría de Salud de Bucaramanga ordenó el cierre temporal de la discoteca Géminis, ubicada en el barrio Mejoras Públicas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santander pagará $137 millones a quienes dieron información contra bandas criminales",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/santander-pagara-137-millones-a-quienes-dieron-informacion-contra-bandas-criminales-rg10",
+  "fecha": "2026-11-03T07:32:44-05:00",
+  "palabras": "Bucaramanga, Gobernación de Santander, Bandas criminales, Blu Radio",
+  "lead": "Los recursos beneficiarán a ciudadanos que entregaron datos clave para seis operaciones de las autoridades en Santander.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Esta fue la jugada que le costó la vida a Jesús de Miguel: el jugador murió esta madrugada",
+  "enlace": "https://www.bluradio.com/deportes/esta-fue-la-jugada-que-le-costo-la-vida-a-jesus-de-miguel-el-jugador-murio-esta-madrugada-so35",
+  "fecha": "2026-11-03T07:50:46-05:00",
+  "palabras": "España, Fútbol, Resultado de loterías de hoy, Liga BBVA",
+  "lead": "El delantero del Tenerife falleció tras sufrir una parada cardiorrespiratoria luego de chocar con el portero Jesús Owono.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué está pasando en Chaparral? Este es el balance tras el sismo de 5.6 que sacudió al país",
+  "enlace": "https://www.bluradio.com/nacion/que-esta-pasando-en-chaparral-este-es-el-balance-tras-el-sismo-de-5-6-que-sacudio-al-pais-pr30",
+  "fecha": "2026-11-03T07:46:08-05:00",
+  "palabras": "Tolima, Temblor hoy, Sismo hoy, Chaparral",
+  "lead": "La Oficina de Gestión del Riesgo se encuentra tabulando los datos recibidos mediante juntas de acción comunal y grupos de WhatsApp para consolidar un censo oficial que será elevado al Gobierno nacional y departamental.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Encontraron seis antenas Starlink en La Picota de Bogotá: confirma el presidente tras megaoperativo",
+  "enlace": "https://www.bluradio.com/nacion/encontraron-seis-antenas-starlink-en-la-picota-de-bogota-confirma-el-presidente-tras-megaoperativo-rg10",
+  "fecha": "2026-11-03T08:12:53-05:00",
+  "palabras": "Cárceles, Cárcel La Picota, Bogotá, Abelardo De La Espriella",
+  "lead": "Tras megaoperativo en la cárcel La Picota de Bogotá, el presidente, Abelardo De La Espriella, confirmó el hallazgo de 6 antenas starlikn y más de 30 modems, presuntamente de internet, con el que apartenteme algunos internos delinquían mientras cumplen la condena.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pico y placa en Bogotá: tenga en cuenta las restricciones para el martes 3 de noviembre",
+  "enlace": "https://www.bluradio.com/regiones/bogota/pico-y-placa-en-bogota-tenga-en-cuenta-las-restricciones-para-el-martes-3-de-noviembre-cb20",
+  "fecha": "2026-11-03T07:28:11-05:00",
+  "palabras": "Bogotá, Pico y placa, Movilidad, Transporte público",
+  "lead": "La restricción vehicular aplica este martes 3 de noviembre para las placas terminadas en 6, 7, 8, 9 y 0 en la capital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hoy martes se aplica el pico y placa en Medellín para vehículos con placas terminadas en 1 y 4",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/hoy-martes-se-aplica-el-pico-y-placa-en-medellin-para-vehiculos-con-placas-terminadas-en-1-y-4-cb20",
+  "fecha": "2026-11-03T07:26:34-05:00",
+  "palabras": "Medellín, Pico y placa",
+  "lead": "La restricción vehicular aplica este martes de 5:00 a.m. a 8:00 p.m. para las placas terminadas en 1 y 4 en la capital antioqueña.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos son los cinco diplomáticos que serán trasladados tras solicitud del embajador Mauricio Gaona",
+  "enlace": "https://caracol.com.co/2026/11/03/estos-son-los-cinco-diplomaticos-que-seran-trasladados-tras-solicitud-del-embajador-mauricio-gaona/",
+  "fecha": "2026-11-03T07:55:28-05:00",
+  "palabras": "",
+  "lead": "6AM W conoció las razones por las que el embajador de Colombia ante la ONU, Mauricio Gaona, pidió el traslado de los cinco funcionarios de carrera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“EEUU tendrá un Congreso hostil”: experto anticipa derrota republicana en las elecciones intermedias",
+  "enlace": "https://caracol.com.co/2026/11/03/eeuu-tendra-un-congreso-hostil-experto-anticipa-derrota-republicana-en-las-elecciones-intermedias/",
+  "fecha": "2026-11-03T07:48:51-05:00",
+  "palabras": "",
+  "lead": "Juan Verde, consultor internacional y experto en relaciones económicas internacionales, anticipó la derrota republicana: “los demócratas van a ganar el Congreso y hay una muy buena posibilidad también de que controlen el Senado”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan al segundo al mando de la banda ‘Solo Vale’, alias ‘Peralta’, quien delinquía en Girardot",
+  "enlace": "https://caracol.com.co/2026/11/03/capturan-al-segundo-al-mando-de-la-banda-solo-vale-alias-peralta-actuaba-en-girardot/",
+  "fecha": "2026-11-03T07:20:14-05:00",
+  "palabras": "",
+  "lead": "El hombre sería el responsable de varios robos y homicidios en el municipio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "50 mil pasajeros  movilizó  la Terminal de Transporte de Santa Marta durante el puente festivo",
+  "enlace": "https://caracol.com.co/2026/11/03/50-mil-pasajeros-movilizaron-la-terminal-de-transporte-de-santa-marta-durante-el-puente-festivo/",
+  "fecha": "2026-11-03T08:04:50-05:00",
+  "palabras": "",
+  "lead": "El movimiento de viajeros representó 2.329 despachos de buses que entraron y salieron de la Terminal desde el viernes 30 hasta última hora del lunes 2 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rusia confirma nuevas negociaciones trilaterales sobre Ucrania en Abu Dabi",
+  "enlace": "https://caracol.com.co/2026/11/03/rusia-confirma-nuevas-negociaciones-trilaterales-sobre-ucrania-en-abu-dabi/",
+  "fecha": "2026-11-03T08:05:25-05:00",
+  "palabras": "",
+  "lead": "Delegaciones de Rusia, Ucrania y Estados Unidos se reunirán el 10 y 11 de noviembre para intentar reactivar una salida diplomática al conflicto.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Torneo de Ascenso: Así quedó el Grupo A, tras empate entre Unión Magdalena y Envigado",
+  "enlace": "https://caracol.com.co/2026/11/03/torneo-de-ascenso-asi-quedo-el-grupo-a-tras-empate-entre-union-magdalena-y-envigado/",
+  "fecha": "2026-11-03T07:08:27-05:00",
+  "palabras": "",
+  "lead": "El equipo samario rescató un punto en la última jugada del partido.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pablo Peirano, tras el empate de Bucaramanga: “Merecíamos más del empate”",
+  "enlace": "https://caracol.com.co/2026/11/03/pablo-peirano-tras-el-empate-de-bucaramanga-mereciamos-mas-del-empate/",
+  "fecha": "2026-11-03T07:59:45-05:00",
+  "palabras": "",
+  "lead": "Fabián Sambueza destacó la reacción del equipo ante Atlético Nacional y reconoció que deben mejorar la efectividad.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ya son 85 inmuebles derribados en Antioquia por ser posibles focos de inseguridad",
+  "enlace": "https://caracol.com.co/2026/11/03/ya-son-85-inmuebles-derribados-en-antioquia-por-ser-posibles-focos-de-inseguridad/",
+  "fecha": "2026-11-03T07:55:48-05:00",
+  "palabras": "",
+  "lead": "La Gobernación de Antioquia avanza con esta estrategia en las diferentes subregiones antioqueñas para afectar las rentas ilícitas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Organismos de socorro atienden afectaciones generadas por el sismo en edificaciones de Ibagué",
+  "enlace": "https://caracol.com.co/2026/11/03/organismos-de-socorro-atienden-afectaciones-generadas-por-el-sismo-en-edificaciones-de-ibague/",
+  "fecha": "2026-11-03T07:49:28-05:00",
+  "palabras": "",
+  "lead": "Según Humberto Leal, secretario de Ambiente y Gestión del Riesgo de Ibagué, en la ciudad se suspendieron clases en los colegios públicos por precaución.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La gente va a decir ya basta”: alcaldesa de Miami sobre voto latino en elecciones intermedias",
+  "enlace": "https://caracol.com.co/2026/11/03/la-gente-va-a-decir-ya-basta-alcaldesa-de-miami-sobre-voto-latino-en-elecciones-intermedias/",
+  "fecha": "2026-11-03T07:19:21-05:00",
+  "palabras": "",
+  "lead": "Eileen Higgins habló en Caracol Radio sobre las consecuencias de la política migratoria en las elecciones de medio término de Estados Unidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Pasa o no pasa la Ley de sometimiento? Esto opinan los diferentes sectores políticos",
+  "enlace": "https://caracol.com.co/2026/11/03/pasa-o-no-pasa-la-ley-de-sometimiento-esto-opinan-los-diferentes-sectores-politicos/",
+  "fecha": "2026-11-03T07:13:36-05:00",
+  "palabras": "",
+  "lead": "En 6AM W hablaron congresistas de diferentes partidos políticos sobre la Ley de sometimiento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército neutralizó amenaza de ataques con drones explosivos del Clan del Golfo en Segovia",
+  "enlace": "https://caracol.com.co/2026/11/03/ejercito-neutralizo-amenaza-de-ataques-con-drones-explosivos-del-clan-del-golfo-en-segovia/",
+  "fecha": "2026-11-03T07:23:31-05:00",
+  "palabras": "",
+  "lead": "Los militares encontraron 10 granadas de alto poder y cuatro de mediano poder, adaptadas para ser utilizadas mediante drones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reportan desprendimiento de partes de la torre de la iglesia de Quimbaya, Quindío, por sismo de 5.6",
+  "enlace": "https://caracol.com.co/2026/11/03/reportan-desprendimiento-de-partes-de-la-torre-de-la-iglesia-de-quimbaya-quindio-por-el-sismo/",
+  "fecha": "2026-11-03T06:58:04-05:00",
+  "palabras": "",
+  "lead": "En redes sociales, ciudadanos grabaron la caída de material de la torre de la basílica menor y confirmada por la gestión del riesgo del Quindío.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Magdalena une esfuerzos con Parques Nacionales y Minambiente, para promover un ecoturismo sostenible",
+  "enlace": "https://caracol.com.co/2026/11/03/magdalena-une-esfuerzos-con-parques-nacionales-y-minambiente-para-promover-un-ecoturismo-sostenible/",
+  "fecha": "2026-11-03T07:21:56-05:00",
+  "palabras": "",
+  "lead": "La medida impactará de manera positiva sobre el Parque Nacional Tayrona, el Vía Parque Isla de Salamanca, el Santuario de Flora y Fauna Ciénaga Grande de Santa Marta y el parque Sierra Nevada de Santa Marta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Roban a turistas estadounidenses en zona rural de Pereira: el hurto supera los $100 millones",
+  "enlace": "https://caracol.com.co/2026/11/03/roban-a-turistas-estadounidenses-en-zona-rural-de-pereira-el-hurto-supera-los-100-millones/",
+  "fecha": "2026-11-03T07:18:37-05:00",
+  "palabras": "",
+  "lead": "Los delincuentes se llevaron cámaras y otros equipos de alto valor. Las autoridades adelantan las investigaciones para identificar a los responsables y recuperar los elementos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría formuló cargos a Daniel Quintero, ex SuperSalud, por presunta participación en política",
+  "enlace": "https://caracol.com.co/2026/11/03/procuraduria-formulo-cargos-a-daniel-quintero-ex-supersalud-por-presunta-participacion-en-politica/",
+  "fecha": "2026-11-03T07:16:30-05:00",
+  "palabras": "",
+  "lead": "La Procuraduría formuló pliego de cargos contra Daniel Quintero Calle, en su condición de superintendente nacional de Salud (2026), por su presunta participación indebida en la actividad política, en el marco de los comicios de segunda vuelta presidencial de 2026.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Candidato inscribió grupo significativo para aspirar a la gobernación de Santander. ¿Quién es?",
+  "enlace": "https://caracol.com.co/2026/11/03/candidato-inscribio-grupo-significativo-para-aspirar-a-la-gobernacion-de-santander-quien-es/",
+  "fecha": "2026-11-03T07:13:35-05:00",
+  "palabras": "",
+  "lead": "Las elecciones regionales en Colombia serán el domingo 31 de octubre de 2.027.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hombre responderá por tentativa de homicidio tras ser capturado en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/03/hombre-respondera-por-tentativa-de-homicidio-tras-ser-capturado-en-cartagena/",
+  "fecha": "2026-11-03T07:10:52-05:00",
+  "palabras": "",
+  "lead": "El procedimiento se cumplió por una orden judicial",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "25 cuerpos del cementerio de Sogamoso podrían corresponder a víctimas del conflicto armado",
+  "enlace": "https://caracol.com.co/2026/11/03/25-cuerpos-del-cementerio-de-sogamoso-podrian-corresponder-a-victimas-del-conflicto-armado/",
+  "fecha": "2026-11-03T07:08:30-05:00",
+  "palabras": "",
+  "lead": "La Unidad de Búsqueda recuperó más de 300 contenedores con cuerpos que permanecían desde hace más de 30 años en el cementerio central. Veinticinco podrían corresponder a personas desaparecidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden frenar reapertura del Santuario de Iguaque hasta garantizar la restauración del ecosistema",
+  "enlace": "https://caracol.com.co/2026/11/03/piden-frenar-reapertura-del-santuario-de-iguaque-hasta-garantizar-la-restauracion-del-ecosistema/",
+  "fecha": "2026-11-03T07:09:28-05:00",
+  "palabras": "",
+  "lead": "Una fundación solicitó ampliar las medidas de protección al Parque Natural Iguaque y cuestionó que se proyecte su reapertura turística sin contar con estudios actualizados sobre la recuperación ambiental.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santander aprobó $137 millones en recompensas a ciudadanos por información contra bandas criminales",
+  "enlace": "https://caracol.com.co/2026/11/03/santander-aprobo-137-millones-en-recompensas-a-ciudadanos-por-informacion-contra-bandas-criminales/",
+  "fecha": "2026-11-03T07:09:11-05:00",
+  "palabras": "",
+  "lead": "Los recursos serán destinados a ciudadanos que aportaron información para seis operaciones policiales. Entre los resultados están ocho homicidios esclarecidos y seis capturas relacionadas con una banda criminal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reducción en homicidios en el AMC reportan autoridades",
+  "enlace": "https://caracol.com.co/2026/11/03/reduccion-en-homicidios-en-el-amc-reportan-autoridades/",
+  "fecha": "2026-11-03T06:58:39-05:00",
+  "palabras": "",
+  "lead": "Se mantiene el despliegue militar y policial",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió Héctor Julio Alfonso Pastrana, esposo de la fallecida empresaria Enilce López",
+  "enlace": "https://caracol.com.co/2026/11/03/murio-hector-julio-alfonso-pastrana-esposo-de-la-fallecida-empresaria-enilce-lopez/",
+  "fecha": "2026-11-03T07:05:37-05:00",
+  "palabras": "",
+  "lead": "El deceso se produjo por complicaciones de salud",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El voto latino en Estados Unidos: entre el respaldo a Trump y el desencanto con sus políticas",
+  "enlace": "https://caracol.com.co/2026/11/03/el-voto-latino-en-estados-unidos-entre-el-respaldo-a-trump-y-el-desencanto-con-sus-politicas/",
+  "fecha": "2026-11-03T06:55:21-05:00",
+  "palabras": "",
+  "lead": "Casi 39 millones de latinos podrán ejercer su derecho al voto en las elecciones de medio mandato en Estados Unidos. La inmigración y la economía, los temas que más les preocupan.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos decide sobre el control del Congreso, ¿Qué está en juego?",
+  "enlace": "https://caracol.com.co/2026/11/03/estados-unidos-decide-sobre-el-control-del-congreso-que-esta-en-juego/",
+  "fecha": "2026-11-03T06:57:01-05:00",
+  "palabras": "",
+  "lead": "En la Cámara baja se renuevan los 435 escaños. Y en el Senado, se eligen 35 de las 100 sillas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La USO rechazó asesinato de contratista de Ecopetrol y pide celeridad en la investigación",
+  "enlace": "https://caracol.com.co/2026/11/03/la-uso-rechazo-asesinato-de-contratista-de-ecopetrol-y-pide-celeridad-en-la-investigacion/",
+  "fecha": "2026-11-03T06:58:36-05:00",
+  "palabras": "",
+  "lead": "La unió sindical cuestionó la falta de acción para proteger a la ciudadanía en el Magdalena Medio.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Candidatas al Reinado Popular 2026 realizarán prueba de talento en teatro Adolfo Mejía",
+  "enlace": "https://caracol.com.co/2026/11/03/candidatas-al-reinado-popular-2026-realizaran-prueba-de-talento-en-teatro-adolfo-mejia/",
+  "fecha": "2026-11-03T06:55:52-05:00",
+  "palabras": "",
+  "lead": "La valoración estará a cargo de un jurado calificador integrado por tres profesionales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué cambiaría si los demócratas recuperan el Congreso de EE. UU.?",
+  "enlace": "https://www.lafm.com.co/internacional/donald-trump-elecciones-medio-termino-estados-unidos-congreso-democratas-republicanos-415942",
+  "fecha": "2026-11-03T08:09:00-05:00",
+  "palabras": "Internacional,Elecciones en el exterior,Estados Unidos,Donald Trump,Casa Blanca",
+  "lead": "Los demócratas llegan con ventaja en las encuestas y buscan recuperar el control de la Cámara de Representantes.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Joven niñera colombiana entre las víctimas del accidente de avioneta en La Florida",
+  "enlace": "https://www.lafm.com.co/internacional/ninera-colombiana-victimas-accidente-aereo-avioneta-palm-beach-415954",
+  "fecha": "2026-11-03T07:35:00-05:00",
+  "palabras": "Internacional,Florida,Accidente,Miami",
+  "lead": "Al parecer, las condiciones meteorológicas contribuyeron a que el avión se estrellara en plena vía de Palm Beach.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones en EE. UU.: demócratas esperan frenar a Trump",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-medio-termino-estados-unidos-democratas-anticipan-golpe-electoral-trump-415953",
+  "fecha": "2026-11-03T07:29:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Elecciones presidenciales,conteo de votos,Recuento de votos,Votaciones",
+  "lead": "Mientras los demócratas anticipan avances importantes en la Cámara de Representantes, los republicanos confían en conservar el respaldo de sus votantes.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia activa vigilancia preventiva por riesgo de ébola",
+  "enlace": "https://www.lafm.com.co/sociedad/ebola-colombia-salud-contagios-vigilancia-epimiologica-alerta-pacientes-sintomas-vomito-diarrea-sangrado-medicos-415952",
+  "fecha": "2026-11-03T07:29:00-05:00",
+  "palabras": "Sociedad,enfermedades,Ministerio de Salud,República del Congo,República Democrática del Congo,pacientes,Atención a pacientes",
+  "lead": "El Instituto Nacional de Salud (INS) activó de forma preventiva la vigilancia frente al virus del ébola luego que se confirmara que cuatro personas tienen ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué hay detrás del bombardeo al ELN en Venezuela?",
+  "enlace": "https://www.lafm.com.co/internacional/venezuela-bombardeo-campamento-eln-apure-cambia-relaciones-colombia-415948",
+  "fecha": "2026-11-03T07:27:00-05:00",
+  "palabras": "Internacional,ELN,Venezuela,combates entre grupos armados,Grupos delincuenciales",
+  "lead": "El hecho podría reflejar un cambio en la política de seguridad venezolana y una ruptura en la relación entre las estructuras estatales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Juan Carlos Echeverry: razones de su salida del Banco de Bogotá",
+  "enlace": "https://www.lafm.com.co/actualidad/juan-carlos-echeverry-banco-de-bogota-razones-salida-415946",
+  "fecha": "2026-11-03T07:18:00-05:00",
+  "palabras": "Actualidad,Juan Carlos Echeverry,Bancos colombianos,renuncia",
+  "lead": "Echeverry cuenta con una trayectoria en el sector público y empresarial. Fue ministro y presidente de Ecopetrol.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Temblor de 5,6 en Colombia deja una herida y daños en Quimbaya",
+  "enlace": "https://www.lafm.com.co/actualidad/temblor-colombia-3-noviembre-2026-chaparral-tolima-herida-danos-iglesia-415944",
+  "fecha": "2026-11-03T07:09:00-05:00",
+  "palabras": "Actualidad,Temblor,Chaparral,Emergencia",
+  "lead": "Se realiza un censo para determinar la cifra total de las familias afectadas con los daños en sus lugares de residencia.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría formula cargos a Daniel Quintero por participación en política",
+  "enlace": "https://www.lafm.com.co/politica/daniel-quintero-pliego-cargos-procuraduria-participacion-politica-415947",
+  "fecha": "2026-11-03T07:05:00-05:00",
+  "palabras": "Política,Daniel Quintero,Procuraduría General de la Nación,Supersalud,Redes sociales",
+  "lead": "Daniel Quintero enfrentará juicio disciplinario por presunta participación política a raíz de una entrevista en TikTok",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
