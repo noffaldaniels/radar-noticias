@@ -356,6 +356,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "La Procuraduría confirmó en segunda instancia una inhabilidad especial de seis meses a Daniel Quintero por participación indebida en política.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:44",
+   "quien": "Juan Esteban (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "El analista militar alias 'Amazonas' llegó al sur del Tolima por orden de alias 'Iván Mordisco'. Este hombre es señalado del atentado terrorista en Planadas en el departamento del Tolima, que dejó cuatro personas asesinadas. Es el encargado del control del corredor estratégico entre Tolima, Huila y Cauca, y ha coordinado ataques contra la fuerza pública y actividades de extorsión y minería ilegal.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:46",
+   "quien": "Rafael Grossi (Director General del Organismo Internacional de Energía Atómica)",
+   "que": "El Organismo Internacional de Energía Atómica tiene una misión muy delicada en momentos muy delicados en la escena internacional, como los que estamos viviendo, relacionados con el Oriente Medio, Irán y la guerra entre Rusia y Ucrania en relación con la central nuclear de Zaporiyia.",
+   "resaltar": false
   }
  ],
  "avisos": [
