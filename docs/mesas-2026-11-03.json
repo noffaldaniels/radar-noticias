@@ -293,6 +293,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Unidipol, la carrera diplomática, pidió explicación oficial al canciller sobre el tema de la biblioteca Marco Fidel Suárez, donde se pretende hacer una iglesia o capilla, generando controversia y desmantelamiento de la biblioteca.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El presidente Abelardo de la Espriella destacó el megaoperativo en 19 pabellones de la cárcel La Picota en Bogotá, donde incautaron 582 celulares, 3.754 tarjetas SIM y 356 armas cortopunzantes, entre otros elementos. El presidente reiteró que no permitirá que los delincuentes sigan coordinando actividades criminales desde las cárceles del país.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La valiente gobernadora del Tolima ha tenido que enfrentar un terremoto, sismos reiterados en su territorio, incluidos unos esta mañana en Chaparral. Le ha tocado enfrentar unos incendios forestales absolutamente voraces por los rigores del clima, pero también por manos criminales.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "177 casas afectadas, de las 177, 23 totalmente destruidas allí en el municipio de Planadas. Es un atentado brutal, gobernadora, y como lo hemos dicho desde ayer, toda nuestra solidaridad con Planadas y con usted.",
+   "resaltar": true
   }
  ],
  "avisos": [
