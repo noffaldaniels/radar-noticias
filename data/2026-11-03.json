@@ -7,7 +7,7 @@
   "palabras": "Empleo, Pontificia Universidad Javeriana",
   "lead": "Un estudio del Centro Javeriano de Competitividad revela que el 27 % de los trabajadores se ubica en empleos con alta exposición a la automatización, liderados por sectores como las finanzas y las telecomunicaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "MiLoto, Resultado MiLoto",
   "lead": "Los números ganadores del lunes 2 de noviembre fueron 04, 26, 29, 34 y 35. Hubo 7.846 ganadores en categorías secundarias y premios por $84,4 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Baloto, Resultados del chance",
   "lead": "Nadie acertó los seis números en el sorteo 2.730. El premio mayor de Baloto llega a $18.800 millones y el de Revancha a $4.800 millones para el miércoles 4 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Ejército Nacional, ELN, Chocó",
   "lead": "Los hostigamientos se registraron en zona rural de San José del Palmar. La Fuerza Aeroespacial Colombiana desplegó sobrevuelos permanentes en el área para facilitar la extracción del personal.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "",
   "lead": "El Servicio Geológico Colombiano registró el sismo a las 4:13 a. m. El epicentro preliminar se ubicó en Chaparral, Tolima.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Fútbol, España",
   "lead": "El atacante de 30 años falleció en un hospital de Tenerife un día después de sufrir un violento golpe en un partido de la Segunda División de España. El club confirmó la noticia.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Sismo hoy, Temblor hoy",
   "lead": "El Servicio Geológico Colombiano reportó cinco movimientos posteriores al sismo con epicentro en Chaparral, todos superficiales y en poco más de una hora.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Temblor hoy, Sismo hoy",
   "lead": "El temblor se sintió también en Bogotá, donde, si el movimiento no despertó a algunos ciudadanos, las fuertes alarmas de los edificios terminaron por sacarlos de la cama.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "El mandatario cerró la campaña con un discurso frente al estanque del Monumento a Abraham Lincoln, en Washington, en el que dedicó buena parte de su intervención a presumir de las obras de renovación que ha impulsado en la capital y en la Casa Blanca.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Santander, Bucaramanga, Sismo hoy, Tolima, Terremoto hoy, Colombia, Blu Radio, Noticias de hoy",
   "lead": "Autoridades de Santander no reportan daños tras el fuerte temblor que sacudió gran parte de Colombia en la madrugada de este martes.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "Temblor hoy, Tolima, Bogotá",
   "lead": "El epicentro fue Chaparral, donde colapsó un muro y una persona resultó herida. Las autoridades mantienen las verificaciones en el departamento.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "",
   "lead": "Se trata del primer encuentro de jefes de la diplomacia de ambos países desde que restablecieron relaciones diplomáticas tras la captura de Nicolás Maduro a principios de este año.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "",
   "lead": "Las conversaciones en Bruselas también incluirán las oportunidades económicas para respaldar la reconstrucción de Ucrania, mientras que la ronda de Abu Dabi abordará los acuerdos de seguridad de posguerra, la desescalada y la ayuda humanitaria, así como los próximos pasos hacia la paz.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Ecopetrol, Barrancabermeja, Santander, Homicidios, USO, Policía Nacional, Gobernación de Santander, Bandas criminales, Blu Radio, Noticias de hoy",
   "lead": "La Unión Sindical Obrera (USO) rechazó el asesinato de Daison Jhoani Rodríguez Villalba, trabajador de una empresa contratista de Ecopetrol, ocurrido en Santander.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "Se ha recomendado a las instituciones educativas privadas realizar las respectivas inspecciones de sus instalaciones antes de garantizar el regreso de los estudiantes a las aulas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "",
   "lead": "El golpe que acabó con De Miguel en la Unidad de Cuidados Intensivos del Hospital Universitario Nuestra Señora de Candelaria de Tenerife se produjo en los últimos minutos del encuentro entre el Tenerife y el Andorra.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "El hecho dejó cuatro personas asesinadas, entre ellas una bebé de dos meses de nacida.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "En varias ocasiones, el periodista Julio Sánchez Cristo tuvo la oportunidad de conversar con Antonio Navarro Wolff sobre sus opiniones. Recordamos esas charlas en Caracol Radio.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "",
   "lead": "Los hechos ocurrieron luego de que la víctima saliera a compartir unos tragos con su pareja y se desatara una riña",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "Técnicos antiexplosivos en alerta para inspeccionar el área",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "La estrategia de inversión se busca por medio del programa Medellín Venture Capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Las autoridades de gestión del riesgo mantienen el monitoreo en el departamento. Hasta el momento, la principal novedad corresponde al colapso de un muro en el municipio de Chaparral.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Víctima de desplazamiento y amenazas en Puerto Rico, Caquetá, Octavio Feria pasó casi dos años en una carpa frente a la ANT esperando acceder a tierra durante el gobierno anterior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "El movimiento se registró en la madrugada, con epicentro en Tolima. Bomberos de Tunja no reportan emergencias ni afectaciones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "El senador exigió protección inmediata para él, su familia y los líderes del suroccidente en el departamento del Cauca.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "El gremio considera que la coordinación entre las entidades públicas y privadas será clave para materializar esta iniciativa",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "El epicentro del temblor en Colombia fue Chaparral, aunque se sintió en varias ciudades del país.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Asumió la curul en reemplazo de Marco Acosta, quien fue designado en el Fondo Nacional del Ahorro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Trump afirmó este lunes que Estados Unidos ‘ya había ganado la guerra contra Irán y restó importancia a una posible reanudación de los combates.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Entre el 2022 y el 2025 estuvo al frente de la compañía en la capital de Bolívar",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "El debate continúa este martes 3 de noviembre a las 9:00 AM. El Gobierno espera tener listo el proyecto el 4 de noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "La decisión se sustentó en hallazgos identificados por el Ministerio de Educación, la revisión del contrato y sus 43 otrosíes, los informes de supervisión, la medida cautelar de la Superintendencia Nacional de Salud y la escucha a los maestros.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "El Señorazo se une a la agrupación carranguera para presentar una nueva versión de la canción que ha ganado popularidad en redes sociales. El lanzamiento será el 5 de noviembre, a las 6:00 p. m.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "Edwin Cardona y Luciano Pons marcaron los goles del encuentro, ambos desde el punto penal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "El cantante paisa continúa dejando pistas en distintas ciudades del mundo con el mensaje “se viene LXV”. La aparición de un vehículo tradicional colombiano ha despertado expectativa entre sus seguidores sobre el próximo anuncio del artista.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Actualidad,Temblor,Colombia,Servicio Geológico Colombiano",
   "lead": "El Servicio Geológico reportó una magnitud del 5.6 grados a menos de 30 kilómetros de profundidad con epicentro el Tolima.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,6 +414,61 @@
   "palabras": "Política,Cámara de Representantes,Debate,polémica,estructuras criminales",
   "lead": "En las últimas horas fueron aprobados los artículos 5 y 14 en los términos presentados y la sesión será retomada este martes.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Clases en el Tolima hoy serán virtuales mientras autoridades evalúan siuación por temblor de 5.6",
+  "enlace": "https://www.bluradio.com/nacion/clases-en-el-tolima-hoy-seran-virtuales-mientras-autoridades-evaluan-siuacion-por-temblor-de-5-6-so35",
+  "fecha": "2026-11-03T06:17:22-05:00",
+  "palabras": "",
+  "lead": "Este nuevo evento telúrico ocurre casi tres meses después del terremoto de magnitud 7,4 del pasado 10 de agosto, cuyo epicentro estuvo en San José del Palmar (Chocó).",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hallan cuerpo sin vida en las vías del tren de Bogotá: esto se sabe",
+  "enlace": "https://www.bluradio.com/regiones/bogota/hallan-cuerpo-sin-vida-en-las-vias-del-tren-de-bogota-esto-se-sabe-so35",
+  "fecha": "2026-11-03T06:26:16-05:00",
+  "palabras": "Tren, Chapinero",
+  "lead": "El hallazgo se produjo en la calle 97 con NQS. Las autoridades buscan establecer la identidad de la víctima y las circunstancias de su muerte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "FOMAG ejecutará plan de choque para estabilizar la prestación de los servicios de salud en Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/03/fomag-ejecutara-plan-de-choque-para-estabilizar-la-prestacion-de-los-servicios-de-salud-en-antioquia/",
+  "fecha": "2026-11-03T06:25:10-05:00",
+  "palabras": "",
+  "lead": "El objetivo es mejorar la atención en los servicios de salud para el magisterio antioqueño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expectativa por visita presidencial en la frontera",
+  "enlace": "https://caracol.com.co/2026/11/03/expectativa-por-visita-presidencial-en-la-frontera/",
+  "fecha": "2026-11-03T06:22:52-05:00",
+  "palabras": "",
+  "lead": "El jefe de Estado llega a evaluar la respuesta de las autoridades a la inseguridad en el AMC",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Pereira a alias ‘El Viejo’, señalado de enviar cocaína a Europa oculta en cargas de café",
+  "enlace": "https://caracol.com.co/2026/11/03/capturan-en-pereira-a-alias-el-viejo-senalado-de-enviar-cocaina-a-europa-oculta-en-cargas-de-cafe/",
+  "fecha": "2026-11-03T06:14:00-05:00",
+  "palabras": "",
+  "lead": "Este ciudadano es requerido por autoridades de Perú y tenía circular roja de Interpol.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
