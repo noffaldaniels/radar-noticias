@@ -251,6 +251,27 @@
    "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
    "que": "Se presume que los responsables de los atentados del fin de semana son del Frente 'Gerónimo Galeano' (disidencias), quienes utilizan brazaletes y discursos comunitarios para cometer extorsiones, minería ilegal y ataques que han dejado 177 viviendas afectadas y bloqueos en vías.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:21",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se discutió la situación de los demócratas en Estados Unidos y las elecciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:24",
+   "quien": "Jaime Flores, Vocero del Partido Republicano en España",
+   "que": "Habló sobre el panorama político en Estados Unidos y las tensiones con Irán.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:27",
+   "quien": "Germán Escobar, Secretario de Salud de Cali",
+   "que": "Confirmó un caso de paciente de 50 años con malaria en el aeropuerto de Cali y descartó la presencia de ébola en Colombia.",
+   "resaltar": false
   }
  ],
  "avisos": [
