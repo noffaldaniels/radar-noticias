@@ -2636,7 +2636,7 @@
   "palabras": "Cali",
   "lead": "Las autoridades locales también piden al Gobierno Nacional acelerar el desembolso de recursos del Fondo Milagro para la intervención de edificios afectados por el terremoto del 10 de agosto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2647,7 +2647,7 @@
   "palabras": "Fiscalía General de la Nación, Noticias de hoy",
   "lead": "El caso se registró en Playa Dulce, en Turbo. También un joven de 19 años fue encontrado sin vida en el río Cocorná, en Puerto Triunfo, tras varias horas de búsqueda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "Noticias de hoy, Homicidios, Barranquilla",
   "lead": "Los asesinatos bajaron en un 62% en comparación con el pico de homicidios que hubo en julio pasado y del 3% en comparación con octubre de 2025.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "Presidencia de la República, Abelardo De La Espriella, Navidad",
   "lead": "La circular pide a ministerios y entidades del Ejecutivo no celebrar convenios cuando sean únicamente para realizar celebraciones navideñas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "Disidencias Farc, Tolima, Ataque terrorista",
   "lead": "Tras el ataque ocurrido en Planadas, Tolima, que dejó cuatro civiles muertos, entre ellos una bebé de dos meses, y varias personas heridas, el gremio médico pidió a los actores armados respetar la vida, la neutralidad del personal de salud y las instituciones hospitalarias.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2691,7 +2691,7 @@
   "palabras": "Santander, Los Santos, Abuso sexual Menores de Edad, Blu Radio",
   "lead": "Los procedimientos se realizaron en Barbosa y Los Santos. Uno de los hombres es investigado por presuntos actos sexuales contra su hijastra de 14 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2702,7 +2702,7 @@
   "palabras": "Noticias de hoy, Entrevista, Chaparral, Tolima, Sismo hoy",
   "lead": "El sacerdote manifestó su preocupación por las consecuencias emocionales que la actividad sísmica está generando, especialmente entre los habitantes del municipio..",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2713,7 +2713,7 @@
   "palabras": "Contraloría General, Cambio Climático",
   "lead": "El organismo de control advierte que, aunque 30 departamentos tienen planes de gestión climática, solo 13 reportan avances verificables.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "",
   "lead": "El abogado solicitó a la administración departamental gestionar su ubicación en ese centro penitenciario por razones de seguridad, luego de que fuera trasladado a una cárcel de Boyacá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "",
   "lead": "La presidente de la Cámara de Comercio de Cali, María del Mar Palau propone aprovechar la recuperación para movilizar inversión, fortalecer empresas y generar empleo, en articulación con las prioridades económicas del Gobierno Nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "",
   "lead": "Empresarios confían en estrategia del gobierno nacional",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,7 +2757,7 @@
   "palabras": "",
   "lead": "Son más de 30 mil los docentes en la región",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2768,7 +2768,7 @@
   "palabras": "",
   "lead": "La capital antioqueña compartió con representantes de 18 países sus avances en innovación y gestión catastral. El encuentro internacional congregó a más de 450 asistentes y presentó herramientas tecnológicas que permiten agilizar los trámites ciudadanos, monitorear el territorio y detectar posibles construcciones irregulares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2779,7 +2779,7 @@
   "palabras": "",
   "lead": "La solicitud se formalizó ante los jueces Especializados de Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "",
   "lead": "La Presidencia expidió una nueva circular sobre directrices de austeridad para las festividades de fin de año.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "",
   "lead": "La inversión pasó de $1,44 billones en 2024 a $976.371 millones en 2025. Además, el ente de control encontró que varios fondos no utilizaron todos los recursos disponibles para enfrentar el cambio climático.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "",
   "lead": "Estos son los horarios clave para las elecciones de término medio en Estados Unidos este martes 3 de noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "",
   "lead": "El capitán David Mackalister Silva destacó el aporte de Juan Guillermo Cuadrado y otros referentes que regresaron al fútbol colombiano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "",
   "lead": "¿Cómo nos pueden ayudar los caballos en los procesos de sanación emocional? Nana Siente, facilitadora y experta en procesos asistidos por caballos, nos cuenta en qué consiste.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "",
   "lead": "El doctor Manuel Sans Segarra, médico cirujano especializado en cirugía general y digestiva, y referente mundial en las experiencias cercanas a la muerte y la supraconsciencia, nos habla de por qué la humanidad está en crisis y qué podemos hacer para revertirla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "",
   "lead": "La Biblioteca Nacional de Colombia, a cargo de Julia Daza Noguera anuncia una alianza internacional con OverDrive, ampliando el acceso a contenidos digitales en 60 idiomas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "",
   "lead": "La alcaldía selló el establecimiento comercial durante 10 días.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "",
   "lead": "El Plan de Ordenamiento Territorial de Medellín llega a su segundo debate en el Concejo Distrital. Este miércoles 4 de noviembre, los 21 concejales discutirán el proyecto que busca ajustar la planificación de la ciudad, después de casi 90 días de estudio y de superar su primer debate por unanimidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "",
   "lead": "El hombre de 36 años estuvo hospitalizado durante varios días tras las gravedad de la lesión.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "Entretenimiento,Salud,Shakira,Barranquilla,enfermedades",
   "lead": "Pese a las reservas sobre la información médica, la fuente entregó un dato concreto sobre el estado actual del padre de Shakira.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "Orden Público,Verónica Alcocer,Gustavo Petro,Agmeth Escaf,Elecciones presidenciales,Fiscalía General de la Nación",
   "lead": "Durante la tercera sesión de declaración ante la fiscalía anticorrupción Eva Ferrer también mencionó al senador Agmeth Escaf.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "Política,José Manuel Restrepo,España,comercio,Madrid",
   "lead": "La comitiva participará de la cumbre Iberoamericana y la Milagro Week",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2933,7 +2933,7 @@
   "palabras": "Actualidad,Bogotá,Manejo de residuos,Acueducto,Fedepalma",
   "lead": "La estrategia incluye jornadas de sensibilización, acompañamiento a restaurantes, instalación de distintivos en establecimientos de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2944,7 +2944,7 @@
   "palabras": "Orden Público,atentado,Huila,Patrullero,Policía Nacional",
   "lead": "El uniformado se convierte en la segunda víctima fatal del atentado con motobomba ocurrido en Algeciras, Huila.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2955,6 +2955,347 @@
   "palabras": "Orden Público,Ataque a la fuerza publica,Actos terroristas,Cesar,Ejército Nacional,Grupos terroristas",
   "lead": "Delincuentes atacaron con drones una estación policial en Chimichagua, sur del Cesar. Los uniformados repelieron la acción.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Siete días sin noticias de joven secuestrada en Guacarí, Valle del Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/siete-dias-sin-noticias-de-joven-secuestrada-en-guacari-valle-del-cauca-rg10",
+  "fecha": "2026-11-03T13:30:49-05:00",
+  "palabras": "",
+  "lead": "Según manifestó Giovanni Castaño, familiar de la joven, hasta el momento no han recibido ninguna llamada ni comunicación por parte de los captores. La familia sigue a la espera de alguna información que permita conocer qué ocurrió con Lizeth.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día, resultado del último sorteo de hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-de-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T13:50:34-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano día",
+  "lead": "El Sinuano Día realiza su sorteo todos los días a las 2:30 p. m. Este martes 3 de noviembre de 2026, los apostadores pueden consultar el resultado, revisar las últimas cifras y comprobar si sus tiquetes coinciden con alguna de las combinaciones premiadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día, resultado del último sorteo de hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-resultado-del-ultimo-sorteo-de-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T13:50:14-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Caribeña día",
+  "lead": "El sorteo del Caribeña Día se realiza de lunes a sábado a las 2:30 p. m. Este martes 3 de noviembre de 2026, los apostadores pueden consultar el resultado, verificar las últimas cifras y conocer las modalidades disponibles para participar en este chance.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Siete homicidios dejó el fin de semana de Halloween en Antioquia; autoridades investigan",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/siete-homicidios-dejo-el-fin-de-semana-de-halloween-en-antioquia-autoridades-investigan-rg10",
+  "fecha": "2026-11-03T13:23:42-05:00",
+  "palabras": "Fiscalía General de la Nación, Antioquia, Policía Nacional, Noticias de hoy",
+  "lead": "La Gobernacion aseguró que preocupa especialmente el asesinato de un adolescente de 16 años en Concordia, del cual se investiga si fue instrumentalizado por un grupo armado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué está temblando tanto en Chaparral?: Mañanas Blu, 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/por-que-esta-temblando-tanto-en-chaparral-mananas-blu-3-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-03T13:58:28-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 3 de noviembre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Defensoría alertó sobre escuelas de reclutamiento del Clan del Golfo en el Oriente antioqueño",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/defensoria-alerto-sobre-escuelas-de-reclutamiento-del-clan-del-golfo-en-el-oriente-antioqueno-rg10",
+  "fecha": "2026-11-03T13:24:45-05:00",
+  "palabras": "Noticias de hoy, Clan del Golfo, Defensoría del Pueblo, Antioquia",
+  "lead": "El Ministerio Público aseguró que hay riesgos para seis municipios del Oriente del departamento, ante la expansión y disputa territorial entre ese grupo y El Mesa.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murió niño con síntomas asociados al dengue en Atlántico: su salud se deterioró en cuestión de días",
+  "enlace": "https://www.bluradio.com/regiones/caribe/murio-nino-con-sintomas-asociados-al-dengue-en-atlantico-su-salud-se-deterioro-en-cuestion-de-dias-rg10",
+  "fecha": "2026-11-03T13:25:09-05:00",
+  "palabras": "Noticias de hoy, Dengue, Atlántico",
+  "lead": "En menos de dos semanas, este el segundo menor que muere con síntomas similares en el departamento.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre murió por graves heridas tras utilizar un juguete sexual en Bello, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/hombre-murio-por-graves-heridas-tras-utilizar-un-juguete-sexual-en-bello-antioquia-rg10",
+  "fecha": "2026-11-03T13:26:42-05:00",
+  "palabras": "Antioquia, Bello, Medellín, Sexualidad",
+  "lead": "Tras ser atendido inicialmente en un centro asistencial de esa localidad, fue remitido al Hospital San Vicente Fundación donde permaneció internado varios días.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Evacuaron 14 personas tras incendio en inquilinato del centro de Medellín: capturaron un sospechoso",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/evacuaron-14-personas-tras-incendio-en-inquilinato-del-centro-de-medellin-capturaron-un-sospechoso-rg10",
+  "fecha": "2026-11-03T13:25:50-05:00",
+  "palabras": "Antioquia, Medellín, Incendio, Noticias de hoy",
+  "lead": "Autoridades de gestión del riesgo evalúan el estado de la estructura para definir si puede volverse a habitar de forma segura. No hubo heridos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Riña entre amigos terminó con un muerto y un capturado en Itagüí, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/rina-entre-amigos-termino-con-un-muerto-y-un-capturado-en-itagui-antioquia-rg10",
+  "fecha": "2026-11-03T13:30:25-05:00",
+  "palabras": "Antioquia, Itagüí, Riñas, Homicidios",
+  "lead": "El presunto responsable intentó huir en una motocicleta que fue inmovilizada, así como incautada un arma cortopunzante con la que habría cometido el crimen.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"No nos han pedido\": Mateo Hidalgo responde a Álvaro Uribe sobre hojas de vida en el Gobierno",
+  "enlace": "https://www.bluradio.com/politica/no-nos-han-pedido-mateo-hidalgo-responde-a-alvaro-uribe-sobre-hojas-de-vida-en-el-gobierno-so35",
+  "fecha": "2026-11-03T13:28:26-05:00",
+  "palabras": "Centro Democrático, Álvaro Uribe Vélez, Gobierno nacional",
+  "lead": "El congresista aseguró que no ha tenido acercamientos con el Ministerio de Hacienda para gestionar cargos y explicó por qué ha hablado con sus funcionarios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tribunal de Bogotá alerta recorte presupuestal y exige recursos para lograr descongestión judicial",
+  "enlace": "https://www.bluradio.com/regiones/bogota/tribunal-de-bogota-alerta-recorte-presupuestal-y-exige-recursos-para-lograr-descongestion-judicial-rg10",
+  "fecha": "2026-11-03T13:30:28-05:00",
+  "palabras": "Ministerio de Justicia, Tribunal Superior de Bogotá, Justicia",
+  "lead": "El ministro Cancino también respondió a los señalamientos sobre una posible desfinanciación de la justicia como forma de persecución contra algunas instituciones. En particular, hizo referencia a la Jurisdicción Especial para la Paz (JEP) y sostuvo que los recortes no responden a una decisión…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Puente festivo de Halloween dejó 6 muertos en accidentes de tránsito en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/puente-festivo-de-halloween-dejo-6-muertos-en-accidentes-de-transito-en-medellin-rg10",
+  "fecha": "2026-11-03T13:40:06-05:00",
+  "palabras": "Noticias de hoy, Medellín, Accidente de tránsito",
+  "lead": "Autoridades de tránsito afirmaron que la totalidad de los siniestros atendidos durante el fin de semana de Todos los Santos se pudieron haber evitado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía pide extinguir dominio de bienes ligados al caso de presunto lavado y contrabando Lili Pink",
+  "enlace": "https://www.bluradio.com/judicial/fiscalia-pide-extinguir-dominio-de-bienes-ligados-al-caso-de-presunto-lavado-y-contrabando-lili-pink-rg10",
+  "fecha": "2026-11-03T13:39:34-05:00",
+  "palabras": "Lili Pink, Fiscalía General de la Nación",
+  "lead": "En la investigación aparece Fast Moda S. A. S., sociedad que, al momento de las primeras medidas cautelares, era titular de más de 400 establecimientos de comercio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MinSalud aplaza hasta mayo de 2027 implementación de nuevas reglas para el giro directo a hospitales",
+  "enlace": "https://www.bluradio.com/salud/minsalud-aplaza-hasta-mayo-de-2027-implementacion-de-nuevas-reglas-para-el-giro-directo-a-hospitales-rg10",
+  "fecha": "2026-11-03T13:49:11-05:00",
+  "palabras": "Salud, Ministerio de Salud",
+  "lead": "A través de la Resolución 002493 del 29 de octubre de 2026, el Ministerio de Salud amplió el plazo para poner en marcha el mecanismo de reporte de información relacionado con el giro directo de recursos a hospitales, clínicas y proveedores de tecnologías en salud.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Orgullo barranquillero: profesor de la Humboldt es finalista como educador en los Latin Grammy",
+  "enlace": "https://www.bluradio.com/regiones/caribe/orgullo-barranquillero-profesor-de-la-humboldt-es-finalista-como-educador-en-los-latin-grammy-rg10",
+  "fecha": "2026-11-03T14:13:46-05:00",
+  "palabras": "Latin Grammy, Noticias de hoy",
+  "lead": "El logro de Joseph Díaz Henao marca un hito para la pedagogía musical nacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Clan del Golfo utilizaría bandas locales para controlar territorios y secuestrar selectivamente",
+  "enlace": "https://www.bluradio.com/judicial/clan-del-golfo-utilizaria-bandas-locales-para-controlar-territorios-y-secuestrar-selectivamente-rg10",
+  "fecha": "2026-11-03T14:01:25-05:00",
+  "palabras": "Clan del Golfo",
+  "lead": "Su presencia en las principales ciudades del país mediante alianzas con bandas delincuenciales locales, a las que recurriría para desarrollar actividades como la extorsión, el microtráfico y los secuestros selectivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dos antioqueños, padre e hijo, completaron las seis maratones más famosas del mundo en tres años",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/dos-antioquenos-padre-e-hijo-completaron-las-seis-maratones-mas-famosas-del-mundo-en-tres-anos-rs15",
+  "fecha": "2026-11-03T14:25:30-05:00",
+  "palabras": "Noticias de hoy, Entrevista, Atletismo",
+  "lead": "Los Ramírez, oriundos del Santuario, completaron la hazaña al terminar, el pasado fin de semana, la Maratón de Nueva York. En las 6 carreras de 42 kilómetros por el mundo cruzaron siempre la meta juntos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias ‘Keko’, señalado cabecilla de Los del Freseo, fue trasladado de Barranquilla a Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/03/alias-keko-senalado-cabecilla-de-los-del-freseo-fue-trasladado-de-barranquilla-a-bogota/",
+  "fecha": "2026-11-03T14:01:07-05:00",
+  "palabras": "",
+  "lead": "El hombre, señalado de integrar la estructura criminal Los del Freseo, fue trasladado bajo un fuerte dispositivo de seguridad luego de que un juez ordenara su reclusión en un centro carcelario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Renunció el abogado de Deicy Jiménez por temas de seguridad: hoy no declarará ante la Fiscalía",
+  "enlace": "https://caracol.com.co/2026/11/03/renuncio-el-abogado-de-deicy-jimenez-por-temas-de-seguridad-hoy-no-declarara-ante-la-fiscalia/",
+  "fecha": "2026-11-03T13:51:59-05:00",
+  "palabras": "",
+  "lead": "Se espera que se defina una nueva fecha para que declare en medio de los presuntos contratos irregulares en el Dapre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensa apeló medida de aseguramiento contra ‘Juancho Killy’",
+  "enlace": "https://caracol.com.co/2026/11/03/defensa-apelo-medida-de-aseguramiento-contra-juancho-killy/",
+  "fecha": "2026-11-03T14:00:57-05:00",
+  "palabras": "",
+  "lead": "La detención intramural se mantiene mientras se resuelve el recurso. La Fiscalía tiene 120 días para presentar el escrito de acusación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía reportó 49 capturas y más de 317 comparendos durante el fin de semana",
+  "enlace": "https://caracol.com.co/2026/11/03/policia-reporto-49-capturas-y-mas-de-317-comparendos-durante-el-fin-de-semana/",
+  "fecha": "2026-11-03T13:52:50-05:00",
+  "palabras": "",
+  "lead": "Los operativos dejaron nueve armas de fuego y 252 kilos de droga incautados",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La venta de Real Cartagena estaría cerca de concretarse: Antonio Díaz confirmó que hay acuerdo",
+  "enlace": "https://caracol.com.co/2026/11/03/la-venta-de-real-cartagena-estaria-cerca-de-concretarse-antonio-diaz-confirmo-que-hay-acuerdo/",
+  "fecha": "2026-11-03T13:48:13-05:00",
+  "palabras": "",
+  "lead": "El empresario aseguró va por el 100 % de las acciones del equipo auriverde",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cero motociclistas fallecidos en celebración de Halloween",
+  "enlace": "https://www.lafm.com.co/sociedad/bogota-registro-cero-fallecidos-durante-la-celebracion-de-halloween-416008",
+  "fecha": "2026-11-03T14:07:00-05:00",
+  "palabras": "Sociedad,Secretaría de Tránsito,Moteros,Motocicletas",
+  "lead": "Operativos en 21 puntos estratégicos dejaron 2.132 comparendos y 1.830 motos inmovilizadas por incumplir las restricciones del Decreto 472 de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinJusticia responde a la JEP por recorte presupuestal",
+  "enlace": "https://www.lafm.com.co/orden-publico/ministro-justicia-responde-jep-recorte-presupuestal-niega-persecucion-416004",
+  "fecha": "2026-11-03T13:45:00-05:00",
+  "palabras": "Orden Público,Ministerio de Justicia,JEP,déficit fiscal,Colombia",
+  "lead": "Cancino se refirió directamente a las voces que han señalado que existe una persecución o una desfinanciación deliberada.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "III Foro Internacional de Biocombustibles: gobierno, industria y expertos construyen una visión conjunta para el sector",
+  "enlace": "https://www.lafm.com.co/economia/iii-foro-internacional-de-biocombustibles-gobierno-industria-y-expertos-construyen-una-vision-conjunta-para-el-sector-416003",
+  "fecha": "2026-11-03T13:44:00-05:00",
+  "palabras": "Economía,Contenido patrocinado,combustible,combustibles limpios,Ministerio de Minas y Energía,Departamento Nacional de Planeación",
+  "lead": "Contenido patrocinado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"Me confunden por mi apellido\": futbolista denuncia amenazas",
+  "enlace": "https://www.lafm.com.co/deportes/futbolista-recibio-amenazas-tras-muerte-de-jesus-de-miguel-416002",
+  "fecha": "2026-11-03T13:37:00-05:00",
+  "palabras": "Deportes,Liga de España,Homicidios,Juicio disciplinario,proceso penal,Amenazas",
+  "lead": "Durante el programa de 'Peláez y De Francisco', se señaló que, mientras avanzan las investigaciones para esclarecer lo ocurrido, la sanción deportiva podrí...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sandra Ramírez pide cambiar su versión ante la JEP: amenazas",
+  "enlace": "https://www.lafm.com.co/orden-publico/sandra-ramirez-pide-cambiar-su-version-ante-la-jep-por-amenazas-y-estigmatizacion-415989",
+  "fecha": "2026-11-03T13:26:00-05:00",
+  "palabras": "Orden Público,Procesos judiciales,JEP,Farc EP,Audiencia judicial",
+  "lead": "Su defensa le pidió a la JEP que reemplace la audiencia presencial, programada para este 4 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Postobón recibió por cuarta vez el premio Xposible Colsubsidio",
+  "enlace": "https://www.lafm.com.co/sociedad/postobon-recibio-por-cuarto-ano-consecutivo-reconocimiento-xposible-colsubsidio-movilidad-sostenible-416001",
+  "fecha": "2026-11-03T13:18:00-05:00",
+  "palabras": "Sociedad,Acciones sostenibles,Postobón,Medio ambiente",
+  "lead": "La compañía redujo un 18,3% las emisiones de su operación de transporte durante 2025 y disminuyó el consumo de combustible en 385.738 galones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alias Keko fue enviado a la cárcel La Picota de Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/presidente-espriella-confirmo-keko-enviado-la-picota-senalado-cabecilla-de-los-costenos-416000",
+  "fecha": "2026-11-03T13:06:00-05:00",
+  "palabras": "Orden Público,Abelardo de la Espriella,juez,Fiscalía General de la Nación,Atlántico",
+  "lead": "Abelardo De La Espriella, presidente de la República, aseguró que, tras la captura de Keko, fue cobijado con medida de aseguramiento e intramural.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Millonarios vs. América: hora, canal y lo que está en juego",
+  "enlace": "https://www.lafm.com.co/deportes/millonarios-america-hora-canal-esta-juego-liga-betplay-415991",
+  "fecha": "2026-11-03T12:22:00-05:00",
+  "palabras": "Deportes,Fútbol,Liga BetPlay,América de Cali,Millonarios",
+  "lead": "Sin completarse la fecha en su totalidad, Atlético Nacional lidera la tabla con 36 puntos, seguido de América con 34 puntos.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
