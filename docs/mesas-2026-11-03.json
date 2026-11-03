@@ -62,6 +62,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El centro hospitalario en Planadas quedó prácticamente destruido tras un ataque con explosivos, obligando a evacuar servicios médicos y habilitar un lugar alterno, según denunció la ministra de Salud, Ana María Bésliga.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:28",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Alcaldes del Tolima han hecho reportes de lo sucedido; en primera instancia el alcalde de Chaparral, Heder González, reportó temblor de 5.6 en la escala internacional, con al menos tres réplicas más.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:28",
+   "quien": "Heder González, alcalde de Chaparral",
+   "que": "El temblor de magnitud 5.6 se sintió con mayor fuerza en el cañón de Las Hermosas. Gracias a Dios no tenemos reportes de pérdidas humanas, solo una señora en el barrio Libertador llegó al hospital San Juan Bautista en ambulancia tras caerle una pared.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:28",
+   "quien": "Eduardo Grajales, alcalde de Roncesvalles",
+   "que": "Se han activado protocolos de verificación en la cabecera municipal y vehículos de emergencia han recorrido los barrios sin encontrar novedades. El municipio se encuentra sin energía desde la madrugada, lo que conlleva a no tener datos móviles.",
+   "resaltar": false
   }
  ],
  "avisos": [
