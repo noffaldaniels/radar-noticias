@@ -118,6 +118,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El gobierno nacional tramita una reforma tributaria sin mensaje de urgencia en el Congreso, con la meta de evitar que el déficit fiscal suba al 9.5 por ciento del PIB en 2024, tras decretar un presupuesto que crece en 100 billones de pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:39",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se reporta alta tension en las elecciones de Estados Unidos, destacandose que Nueva York esta un poco cantado a favor de los democratas, mientras la gente ha estado votando masivamente toda la semana en el early voting y hoy con tranquilidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:39",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el sistema financiero colombiano hubo sorpresa tras designarse a Juan Carlos Echeverry como presidente del Banco de Bogota, y se anuncio que Maria Fernanda Suarez, exministra, asumira la presidencia del Banco Popular, una de las posiciones mas importantes del sistema financiero.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:42",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se informa sobre las elecciones en Estados Unidos y la situacion politica con las elecciones de medio termino, donde las encuestas muestran descontento con la gestion del presidente Joe Trump y se discute la posibilidad de que los republicanos mantengan su mayoria o los demócratas recuperen la Camara.",
+   "resaltar": false
   }
  ],
  "avisos": [
