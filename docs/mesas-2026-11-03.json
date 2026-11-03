@@ -97,6 +97,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Una nueva escalada de violencia en el país deja ocho muertos y 28 heridos. El ataque más grave ocurrió en Planadas, Tolima, donde una volqueta bomba dejó cuatro víctimas mortales.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:39",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se están realizando recorridos en el área metropolitana para verificar el estado de más de un centenar de edificaciones con alto riesgo de colapso tras sismos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:41",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El próximo 4 de noviembre Blu Radio conversará con Ivonne Granados, gerente comercial de Compensar Medicina Prepagada, sobre cambios en las necesidades de salud de las personas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:44",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El gobierno nacional tramita una reforma tributaria sin mensaje de urgencia en el Congreso, con la meta de evitar que el déficit fiscal suba al 9.5 por ciento del PIB en 2024, tras decretar un presupuesto que crece en 100 billones de pesos.",
+   "resaltar": false
   }
  ],
  "avisos": [
