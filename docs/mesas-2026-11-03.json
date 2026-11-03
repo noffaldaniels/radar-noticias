@@ -20,6 +20,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El Ministerio de Hacienda confirmó que la tarifa de medicina prepagada subirá en Colombia debido a que se le impondrá un IVA del 19%.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:08",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Hay cuatro personas fallecidas, 18 heridas y 177 viviendas afectadas (23 destruidas) tras ataques de las FARC.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:09",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Los atacantes son del Frente Gerónimo Galeano (FARC), que usan falsos discursos comunitarios para extorsionar, atacar y ocultar la minería ilegal.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:10",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Los atacantes provienen del Cauca y buscan arrasar todo a su paso, violando derechos humanos y el derecho internacional humanitario.",
+   "resaltar": true
   }
  ],
  "avisos": [
