@@ -2966,7 +2966,7 @@
   "palabras": "",
   "lead": "Según manifestó Giovanni Castaño, familiar de la joven, hasta el momento no han recibido ninguna llamada ni comunicación por parte de los captores. La familia sigue a la espera de alguna información que permita conocer qué ocurrió con Lizeth.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2977,7 +2977,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Sinuano día",
   "lead": "El Sinuano Día realiza su sorteo todos los días a las 2:30 p. m. Este martes 3 de noviembre de 2026, los apostadores pueden consultar el resultado, revisar las últimas cifras y comprobar si sus tiquetes coinciden con alguna de las combinaciones premiadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2988,7 +2988,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Caribeña día",
   "lead": "El sorteo del Caribeña Día se realiza de lunes a sábado a las 2:30 p. m. Este martes 3 de noviembre de 2026, los apostadores pueden consultar el resultado, verificar las últimas cifras y conocer las modalidades disponibles para participar en este chance.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2999,7 +2999,7 @@
   "palabras": "Fiscalía General de la Nación, Antioquia, Policía Nacional, Noticias de hoy",
   "lead": "La Gobernacion aseguró que preocupa especialmente el asesinato de un adolescente de 16 años en Concordia, del cual se investiga si fue instrumentalizado por un grupo armado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3010,7 +3010,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 3 de noviembre de 2026 en Mañanas Blu.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3021,7 +3021,7 @@
   "palabras": "Noticias de hoy, Clan del Golfo, Defensoría del Pueblo, Antioquia",
   "lead": "El Ministerio Público aseguró que hay riesgos para seis municipios del Oriente del departamento, ante la expansión y disputa territorial entre ese grupo y El Mesa.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3032,7 +3032,7 @@
   "palabras": "Noticias de hoy, Dengue, Atlántico",
   "lead": "En menos de dos semanas, este el segundo menor que muere con síntomas similares en el departamento.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3043,7 +3043,7 @@
   "palabras": "Antioquia, Bello, Medellín, Sexualidad",
   "lead": "Tras ser atendido inicialmente en un centro asistencial de esa localidad, fue remitido al Hospital San Vicente Fundación donde permaneció internado varios días.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3054,7 +3054,7 @@
   "palabras": "Antioquia, Medellín, Incendio, Noticias de hoy",
   "lead": "Autoridades de gestión del riesgo evalúan el estado de la estructura para definir si puede volverse a habitar de forma segura. No hubo heridos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3065,7 +3065,7 @@
   "palabras": "Antioquia, Itagüí, Riñas, Homicidios",
   "lead": "El presunto responsable intentó huir en una motocicleta que fue inmovilizada, así como incautada un arma cortopunzante con la que habría cometido el crimen.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3076,7 +3076,7 @@
   "palabras": "Centro Democrático, Álvaro Uribe Vélez, Gobierno nacional",
   "lead": "El congresista aseguró que no ha tenido acercamientos con el Ministerio de Hacienda para gestionar cargos y explicó por qué ha hablado con sus funcionarios.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3087,7 +3087,7 @@
   "palabras": "Ministerio de Justicia, Tribunal Superior de Bogotá, Justicia",
   "lead": "El ministro Cancino también respondió a los señalamientos sobre una posible desfinanciación de la justicia como forma de persecución contra algunas instituciones. En particular, hizo referencia a la Jurisdicción Especial para la Paz (JEP) y sostuvo que los recortes no responden a una decisión…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3098,7 +3098,7 @@
   "palabras": "Noticias de hoy, Medellín, Accidente de tránsito",
   "lead": "Autoridades de tránsito afirmaron que la totalidad de los siniestros atendidos durante el fin de semana de Todos los Santos se pudieron haber evitado.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3109,7 +3109,7 @@
   "palabras": "Lili Pink, Fiscalía General de la Nación",
   "lead": "En la investigación aparece Fast Moda S. A. S., sociedad que, al momento de las primeras medidas cautelares, era titular de más de 400 establecimientos de comercio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3120,7 +3120,7 @@
   "palabras": "Salud, Ministerio de Salud",
   "lead": "A través de la Resolución 002493 del 29 de octubre de 2026, el Ministerio de Salud amplió el plazo para poner en marcha el mecanismo de reporte de información relacionado con el giro directo de recursos a hospitales, clínicas y proveedores de tecnologías en salud.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3131,7 +3131,7 @@
   "palabras": "Latin Grammy, Noticias de hoy",
   "lead": "El logro de Joseph Díaz Henao marca un hito para la pedagogía musical nacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3142,7 +3142,7 @@
   "palabras": "Clan del Golfo",
   "lead": "Su presencia en las principales ciudades del país mediante alianzas con bandas delincuenciales locales, a las que recurriría para desarrollar actividades como la extorsión, el microtráfico y los secuestros selectivos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3153,7 +3153,7 @@
   "palabras": "Noticias de hoy, Entrevista, Atletismo",
   "lead": "Los Ramírez, oriundos del Santuario, completaron la hazaña al terminar, el pasado fin de semana, la Maratón de Nueva York. En las 6 carreras de 42 kilómetros por el mundo cruzaron siempre la meta juntos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3164,7 +3164,7 @@
   "palabras": "",
   "lead": "El hombre, señalado de integrar la estructura criminal Los del Freseo, fue trasladado bajo un fuerte dispositivo de seguridad luego de que un juez ordenara su reclusión en un centro carcelario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3175,7 +3175,7 @@
   "palabras": "",
   "lead": "Se espera que se defina una nueva fecha para que declare en medio de los presuntos contratos irregulares en el Dapre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3186,7 +3186,7 @@
   "palabras": "",
   "lead": "La detención intramural se mantiene mientras se resuelve el recurso. La Fiscalía tiene 120 días para presentar el escrito de acusación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3197,7 +3197,7 @@
   "palabras": "",
   "lead": "Los operativos dejaron nueve armas de fuego y 252 kilos de droga incautados",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3208,7 +3208,7 @@
   "palabras": "",
   "lead": "El empresario aseguró va por el 100 % de las acciones del equipo auriverde",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3219,7 +3219,7 @@
   "palabras": "Sociedad,Secretaría de Tránsito,Moteros,Motocicletas",
   "lead": "Operativos en 21 puntos estratégicos dejaron 2.132 comparendos y 1.830 motos inmovilizadas por incumplir las restricciones del Decreto 472 de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3230,7 +3230,7 @@
   "palabras": "Orden Público,Ministerio de Justicia,JEP,déficit fiscal,Colombia",
   "lead": "Cancino se refirió directamente a las voces que han señalado que existe una persecución o una desfinanciación deliberada.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3241,7 +3241,7 @@
   "palabras": "Economía,Contenido patrocinado,combustible,combustibles limpios,Ministerio de Minas y Energía,Departamento Nacional de Planeación",
   "lead": "Contenido patrocinado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3252,7 +3252,7 @@
   "palabras": "Deportes,Liga de España,Homicidios,Juicio disciplinario,proceso penal,Amenazas",
   "lead": "Durante el programa de 'Peláez y De Francisco', se señaló que, mientras avanzan las investigaciones para esclarecer lo ocurrido, la sanción deportiva podrí...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3263,7 +3263,7 @@
   "palabras": "Orden Público,Procesos judiciales,JEP,Farc EP,Audiencia judicial",
   "lead": "Su defensa le pidió a la JEP que reemplace la audiencia presencial, programada para este 4 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3274,7 +3274,7 @@
   "palabras": "Sociedad,Acciones sostenibles,Postobón,Medio ambiente",
   "lead": "La compañía redujo un 18,3% las emisiones de su operación de transporte durante 2025 y disminuyó el consumo de combustible en 385.738 galones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3285,7 +3285,7 @@
   "palabras": "Orden Público,Abelardo de la Espriella,juez,Fiscalía General de la Nación,Atlántico",
   "lead": "Abelardo De La Espriella, presidente de la República, aseguró que, tras la captura de Keko, fue cobijado con medida de aseguramiento e intramural.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3296,6 +3296,402 @@
   "palabras": "Deportes,Fútbol,Liga BetPlay,América de Cali,Millonarios",
   "lead": "Sin completarse la fecha en su totalidad, Atlético Nacional lidera la tabla con 36 puntos, seguido de América con 34 puntos.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Tarde, resultado del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-tarde-resultado-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T14:52:48-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Tarde",
+  "lead": "El Dorado Tarde realiza sus sorteos de lunes a sábado a las 3:30 p. m. Este martes 3 de noviembre de 2026, los apostadores pueden consultar el resultado, revisar las últimas cifras y conocer cuánto paga cada modalidad de este popular chance.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video: hinchas de Tenerife gritan al portero tras el golpe a Jesús de Miguel",
+  "enlace": "https://www.bluradio.com/deportes/futbol/asi-reaccionaron-los-hinchas-de-tenerife-contra-el-portero-tras-el-golpe-a-jesus-de-miguel-rs15",
+  "fecha": "2026-11-03T14:45:24-05:00",
+  "palabras": "España, Video, Jesús de Miguel, arquero Owono, golpe jesus de miguel, jesus owono, tenerife, tenerife vs Andorra",
+  "lead": "Después del lamentable choque, los aficionados le reprocharon al arquero su acción en mitad de cancha, cuando ya estaba a punto de terminar el partido.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel hombre de 63 años por feminicidio de joven de 23 años en Pinchote, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/a-la-carcel-hombre-de-63-anos-por-feminicidio-de-joven-de-23-anos-en-pinchote-santander-rg10",
+  "fecha": "2026-11-03T14:56:43-05:00",
+  "palabras": "Santander, Policía Nacional, Feminicidio, Noticias de hoy, Blu Radio",
+  "lead": "Leonardo Gómez Bernal reconoció su responsabilidad en el asesinato de Paula Carley Coca Murcia, ocurrido el pasado domingo 1 de noviembre, cuando la joven trabajaba en un establecimiento comercial sobre la vía San Gil-Socorro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La primera sanción al aquero Owono que golpeó a Jesús de Miguel de Tenerife",
+  "enlace": "https://www.bluradio.com/deportes/futbol/la-primera-sancion-al-aquero-owono-que-golpeo-a-jesus-de-miguel-segun-abogado-espanol-pr30",
+  "fecha": "2026-11-03T15:21:20-05:00",
+  "palabras": "España, Entrevista, arquero owono, delantero tenerife, jesus de miguel, jesus owono, muerte jesus de miguel, tenerife",
+  "lead": "El abogado Antonio Aguiar calificó como una \"barbaridad con consecuencias terribles\" la decisión del arquero que terminó en la muerte de Jesús de Miguel, de Tenerife.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hurtaron la capilla de San Pedro de los Milagros durante el puente festivo",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/hurtaron-la-capilla-de-san-pedro-de-los-milagros-durante-el-puente-festivo-rg10",
+  "fecha": "2026-11-03T15:24:00-05:00",
+  "palabras": "Noticias de hoy, Robos, Iglesia católica, Antioquia",
+  "lead": "Los delincuentes se llevaron figuras religiosas y elementos de cocina. La parroquia calificó el atraco como un atentado contra el esfuerzo y las aportaciones de la comunidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump anuncia recorte de más de 4.000 millones USD en ayuda militar para Israel",
+  "enlace": "https://caracol.com.co/2026/11/03/trump-anuncia-corte-de-mas-de-4000-millones-usd-en-ayuda-militar-para-israel/",
+  "fecha": "2026-11-03T15:20:23-05:00",
+  "palabras": "",
+  "lead": "El presidente de Estados Unidos llegó a un acuerdo con el primer ministro israelí Benjamín Netanyahu sobre la ayuda militar.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía citó a interrogatorio a Yahir Acuña por presunto soborno en actuación penal",
+  "enlace": "https://caracol.com.co/2026/11/03/fiscalia-cito-a-interrogatorio-a-yahir-acuna-por-presunto-soborno-en-actuacion-penal/",
+  "fecha": "2026-11-03T14:54:47-05:00",
+  "palabras": "",
+  "lead": "Yahir Acuña, alcalde de Sincelejo, fue increpado por el presidente de la República, Abelardo de La Espriella, por presuntos hechos de corrupción.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Envían a la cárcel al hombre señalado de asesinar a Paula Carley Coca en Pinchote, Santander",
+  "enlace": "https://caracol.com.co/2026/11/03/envian-a-la-carcel-al-hombre-senalado-de-asesinar-a-paula-carley-coca-en-pinchote-santander/",
+  "fecha": "2026-11-03T14:32:42-05:00",
+  "palabras": "",
+  "lead": "Leonardo Gómez, de 63 años, reconoció su responsabilidad en el asesinato de la joven de 23 años, ocurrido en un establecimiento comercial sobre la vía San Gil–Socorro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "IPCC abrió convocatoria con $239 millones para impulsar espectáculos artísticos en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/03/ipcc-abrio-convocatoria-con-239-millones-para-impulsar-espectaculos-artisticos-en-cartagena/",
+  "fecha": "2026-11-03T15:20:23-05:00",
+  "palabras": "",
+  "lead": "La iniciativa entregará 28 estímulos a propuestas de música, danza y artes dramáticas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Pereira vs. Tolima por Liga Colombiana 2026-II: minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/03/en-vivo-pereira-vs-tolima-por-liga-colombiana-2026-ii-minuto-a-minuto/",
+  "fecha": "2026-11-03T15:19:00-05:00",
+  "palabras": "",
+  "lead": "El equipo tolimense llega con posibilidades frente a un Pereira ya eliminado.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Saliendo es saliendo, la colección de Marca Bolívar para Las Fiestas de Independencia",
+  "enlace": "https://caracol.com.co/2026/11/03/saliendo-es-saliendo-la-coleccion-de-marca-bolivar-para-las-fiestas-de-independencia/",
+  "fecha": "2026-11-03T15:17:06-05:00",
+  "palabras": "",
+  "lead": "Una propuesta que convirtió los colores, los picós y la champeta en prendas elaboradas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Delegaciones de 18 países conocieron en Medellín sus avances en gestión catastral",
+  "enlace": "https://caracol.com.co/2026/11/03/delegaciones-de-18-paises-conocieron-en-medellin-sus-avances-en-gestion-catastral-2/",
+  "fecha": "2026-11-03T15:14:39-05:00",
+  "palabras": "",
+  "lead": "Más de 450 representantes de organismos internacionales, autoridades catastrales y empresas participaron en el XVII Simposio y la XII Asamblea del Comité Permanente sobre el Catastro en Iberoamérica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Uribe pidió a su partido no entregar hojas de vida al Gobierno: desde el gabinete respondieron",
+  "enlace": "https://caracol.com.co/2026/11/03/uribe-pidio-a-su-partido-no-entregar-hojas-de-vida-al-gobierno-desde-el-gabinete-respondieron/",
+  "fecha": "2026-11-03T14:49:11-05:00",
+  "palabras": "",
+  "lead": "El expresidente y jefe de la principal bancada de oposición relacionó al Ministerio de Hacienda y al representante Mateo Hidalgo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde pidió ayuda a Findeter para destrabar el puente de Las Palmeras",
+  "enlace": "https://caracol.com.co/2026/11/03/alcalde-pidio-ayuda-a-findeter-para-destrabar-el-puente-de-las-palmeras/",
+  "fecha": "2026-11-03T15:10:34-05:00",
+  "palabras": "",
+  "lead": "El Distrito ofreció aportar recursos para acelerar su terminación",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Barranquilla a primera persona por arrojar basura en espacio público",
+  "enlace": "https://caracol.com.co/2026/11/03/capturan-en-barranquilla-a-primera-persona-por-arrojar-basura-en-espacio-publico/",
+  "fecha": "2026-11-03T15:07:00-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía y la Policía intensificarán los controles contra quienes arrojen residuos en las calles y arroyos de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Teatro Adolfo Mejía abrió noviembre con exposiciones, circo y música coral",
+  "enlace": "https://caracol.com.co/2026/11/03/el-teatro-adolfo-mejia-abrio-noviembre-con-exposiciones-circo-y-musica-coral/",
+  "fecha": "2026-11-03T15:06:09-05:00",
+  "palabras": "",
+  "lead": "La Temporada TAM 2026 llevará tres propuestas artísticas al escenario patrimonial",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Marta abre temporada de cruceros con llegada del Le Bellot y espera 10.000 visitantes en 2026",
+  "enlace": "https://caracol.com.co/2026/11/03/santa-marta-abre-temporada-de-cruceros-con-llegada-del-le-bellot-y-espera-10000-visitantes-en-2026/",
+  "fecha": "2026-11-03T15:03:11-05:00",
+  "palabras": "",
+  "lead": "El crucero de la compañía Ponant arribó este martes a la bahía con 61 pasajeros y 122 tripulantes. Entre noviembre y diciembre están programadas 11 recaladas internacionales, con capacidad aproximada para 10.000 pasajeros",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Llega el festival de cine Miradas con actividades gratuito en barrios y corregimientos de Medellín",
+  "enlace": "https://caracol.com.co/2026/11/03/llega-el-festival-de-cine-miradas-con-actividades-gratuito-en-barrios-y-corregimientos-de-medellin/",
+  "fecha": "2026-11-03T14:59:30-05:00",
+  "palabras": "",
+  "lead": "La programación oficial reunirá más de 70 obras cinematográficas de acceso libre en 16 escenarios del distrito y municipios del Valle de Aburrá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estudiantes de colegios en Caratgena se llevaron el podio en la final de la Liga de Robótica",
+  "enlace": "https://caracol.com.co/2026/11/03/estudiantes-de-colegios-en-caratgena-se-llevaron-el-podio-en-la-final-de-la-liga-de-robotica/",
+  "fecha": "2026-11-03T14:57:14-05:00",
+  "palabras": "",
+  "lead": "PROMOBOTS conquistó el primer lugar con 1.500 puntos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Esta nominación es especial para nuestro público infantil”: Tu Rockcito nominados al Latín Grammy",
+  "enlace": "https://caracol.com.co/2026/11/03/esta-nominacion-es-especial-para-nuestro-publico-infantil-tu-rockcito-nominados-al-latin-grammy/",
+  "fecha": "2026-11-03T14:56:45-05:00",
+  "palabras": "",
+  "lead": "La agrupación está nominada a los premios Latin Grammy que se entregarán le próximo 12 de noviembre en Estados Unidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Brote de dengue en Caribe Verde: reportan 11 contagiados y una menor en UCI",
+  "enlace": "https://caracol.com.co/2026/11/03/brote-de-dengue-en-caribe-verde-reportan-11-contagiados-y-una-menor-en-uci/",
+  "fecha": "2026-11-03T14:55:37-05:00",
+  "palabras": "",
+  "lead": "Barranquilla permanece en alerta por dengue.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hay contraflujo en la Avenida Santander por montaje de palcos de Independencia",
+  "enlace": "https://caracol.com.co/2026/11/03/hay-contraflujo-en-la-avenida-santander-por-montaje-de-palcos-de-independencia/",
+  "fecha": "2026-11-03T14:47:50-05:00",
+  "palabras": "",
+  "lead": "La medida comenzó este 3 de noviembre e irá hasta el día 16",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Festival de Oportunidades ofrecerá más de 1.000 oportunidades de empleo en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/03/el-festival-de-oportunidades-ofrecera-mas-de-1000-oportunidades-de-empleo-en-medellin/",
+  "fecha": "2026-11-03T14:36:12-05:00",
+  "palabras": "",
+  "lead": "Cerca de 50 empresas y aliados se unirán a la jornada para ofrecer vacantes, entrevistas en sitio y oportunidades de contratación directa en diversos sectores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "CNSC anunció pruebas escritas proceso de selección DIAN 2676: Verifique hora, fecha y lugar de cita",
+  "enlace": "https://caracol.com.co/2026/11/03/cnsc-anuncio-pruebas-escritas-proceso-de-seleccion-dian-2676-verifique-hora-fecha-y-lugar-de-cita/",
+  "fecha": "2026-11-03T14:28:15-05:00",
+  "palabras": "",
+  "lead": "Conozca aquí cuáles las recomendaciones de la CNSC para la aplicación de la prueba y cómo verificar hora, fecha y lugar en la plataforma SIMO.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Pulso del Fútbol, 3 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/03/el-pulso-del-futbol-3-de-noviembre-de-2026/",
+  "fecha": "2026-11-03T14:27:08-05:00",
+  "palabras": "",
+  "lead": "El Pulso del Fútbol analiza una nueva jornada de la Liga de Campeones y la participación de jugadores colombianos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Arturo Reyes en el sonajero del Junior: ¿funcionaría?",
+  "enlace": "https://www.lafm.com.co/deportes/crisis-junior-de-barranquilla-liga-betplay-arturo-reyes-suena-416016",
+  "fecha": "2026-11-03T15:04:00-05:00",
+  "palabras": "Deportes,Junior,Barranquilla,Liga BetPlay,Colombia,Arturo Reyes,Fútbol,Federación Colombiana de Fútbol",
+  "lead": "La mala campaña del Junior en el cierre de 2026 tiene a las directivas armando un nuevo proyecto deportivo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinHacienda responde a Álvaro Uribe por las hojas de vida",
+  "enlace": "https://www.lafm.com.co/economia/minhacienda-responde-a-alvaro-uribe-por-hojas-de-vida-y-votos-en-el-congreso-416014",
+  "fecha": "2026-11-03T14:56:00-05:00",
+  "palabras": "Economía,Ministerio de Hacienda y Crédito Público,Abelardo de la Espriella",
+  "lead": "Álvaro Uribe pidió a los congresistas de su partido que no entreguen hojas de vida al Gobierno. Miguel Gómez respondió tras la radicación de la reforma tri...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El caso de las 48: renunció por razones de seguridad el abogado de Deicy Jiménez",
+  "enlace": "https://www.lafm.com.co/orden-publico/el-caso-de-las-48-renuncio-por-razones-de-seguridad-abogado-de-deicy-jimenez-416013",
+  "fecha": "2026-11-03T14:56:00-05:00",
+  "palabras": "Orden Público,Gustavo Petro,Abogados,Fiscalía General de la Nación,Seguridad privada,testigo",
+  "lead": "La renuncia de su defensor obligó a suspender la declaración Deicy Jiménez ante la Fiscalía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Agro, educación y emprendimiento: así avanza la apuesta de Minuto de Dios en su V Jornada de Inteligencia Artificial",
+  "enlace": "https://www.lafm.com.co/sociedad/agro-educacion-y-emprendimiento-asi-avanza-la-apuesta-de-minuto-de-dios-en-su-v-jornada-de-inteligencia-artificial-415995",
+  "fecha": "2026-11-03T14:50:00-05:00",
+  "palabras": "Sociedad,Contenido patrocinado,Inteligencia artificial,Educación,Emprendimiento,productos agropecuarios",
+  "lead": "Contenido patrocinado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "DSPORTS transmitirá los Juegos Olímpicos de la Juventud 2026",
+  "enlace": "https://www.lafm.com.co/deportes/el-futuro-del-deporte-colombiano-compite-en-dakar-dsports-transmite-juegos-olimpicos-de-la-juventud-2026-416011",
+  "fecha": "2026-11-03T14:43:00-05:00",
+  "palabras": "Deportes,Contenido patrocinado,Directv,Juegos Olímpicos,Deporte",
+  "lead": "Contenido patrocinado.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Accidente con juguete sexual terminó en tragedia en Bello",
+  "enlace": "https://www.lafm.com.co/sociedad/accidente-con-juguete-sexual-termino-en-tragedia-en-antioquia-416010",
+  "fecha": "2026-11-03T14:37:00-05:00",
+  "palabras": "Sociedad,Derecho a la intimidad,Bello,Antioquia,Medellín, Colombia,Lesiones",
+  "lead": "El hombre residía en el municipio de Bello, donde habría recibido la primera atención médica antes de ser remitido a Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Austeridad: Gobierno restringe gasto en fiestas navideñas",
+  "enlace": "https://www.lafm.com.co/politica/gobierno-de-la-espriella-circular-10-austeridad-fiestas-navidenas-fin-de-ano-416009",
+  "fecha": "2026-11-03T14:16:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Colombia,Plan de austeridad,Navidad,Presidencia de la República,Dapre",
+  "lead": "La circular del Dapre sobre celebraciones navideñas se suma a la directiva presidencial que en octubre restringió los viajes oficiales en el Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Contraloría advierte fallas en la ejecución de recursos contra el cambio climático",
+  "enlace": "https://www.lafm.com.co/economia/contraloria-advierte-fallas-ejecucion-recursos-planes-contra-cambio-climatico-colombia-416007",
+  "fecha": "2026-11-03T14:06:00-05:00",
+  "palabras": "Economía,Contraloría,Contraloría General de la República,administración de recursos,recursos públicos,Irregularidades en manejo de recursos,Medio ambiente",
+  "lead": "Aunque 30 departamentos tienen planes climáticos, solo 13 muestran avances comprobables; además, fondos y regiones mantienen recursos sin ejecutar todavía,...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué necesita Mercedes para ser campeón de constructores?",
+  "enlace": "https://www.lafm.com.co/deportes/cuantos-puntos-mercedes-ganar-mundial-constructores-formula-1-416006",
+  "fecha": "2026-11-03T14:01:00-05:00",
+  "palabras": "Deportes,Formula 1,Carreras de automovilismo,Mercedes,Ferrari",
+  "lead": "Quedan por disputarse cuatro premios de la temporada 2026 de la F1. Brasil es el próximo premio que se correrá en Interlagos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Elecciones de medio término en EE.UU: ¿A qué hora cierran las urnas y a qué hora se conocerán los primeros resultados hoy?",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-de-medio-termino-en-estados-unidos-cierre-de-urnas-y-resultados-416005",
+  "fecha": "2026-11-03T14:00:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Elecciones en el exterior,Donald Trump,Votaciones",
+  "lead": "Los estadounidenses acudieron a votaciones para elegir congresistas y senadores. Los resultados podrían cambiar el rumbo político del país.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Cómo contar la historia del Catatumbo a través del teatro?",
+  "enlace": "https://www.lafm.com.co/sociedad/historia-catatumbo-teatro-teatro-jorge-eliecer-gaitan-bogota-415998",
+  "fecha": "2026-11-03T12:50:00-05:00",
+  "palabras": "Sociedad,Bogotá,Teatro,Cultura,Arte,Teatro Jorge Eliécer Gaitán,Catatumbo",
+  "lead": "Es una propuesta teatral que aborda las consecuencias del conflicto armado en el Catatumbo, el despojo, el desplazamiento y la resistencia",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
