@@ -419,6 +419,27 @@
    "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
    "que": "La Gobernadora del Tolima calificó los hechos de violencia en la región como terrorismo puro.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:08",
+   "quien": "Sí, Néstor",
+   "que": "Hay 4.500.000 personas con planes de medicina prepagada en Colombia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:01",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "En los próximos cuatro años, el paquete en salud por parte de empleadores, empleados, ICBF, SENA e independientes costará 52,6 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:02",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "El costo total de la reforma y de la ley de reajuste para los próximos cuatro años será de 298 billones de pesos, de los cuales 52 billones serán por vías como los canales que se están trabajando.",
+   "resaltar": false
   }
  ],
  "avisos": [
