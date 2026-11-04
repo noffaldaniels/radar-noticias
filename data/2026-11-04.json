@@ -3692,7 +3692,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3703,7 +3703,7 @@
   "palabras": "David Ospina, Pibe Valderrama, Entrevista, David Ospina, pibe valderrama, reacciones retiro ospina, retiro david ospina, retiro ospina",
   "lead": "El histórico volante creativo resaltó la calidad y compromiso que tuvo el arquero durante los 131 partidos que jugó con la tricolor.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3714,7 +3714,7 @@
   "palabras": "Antioquia, Noticias de hoy, Medellín, Airbnb",
   "lead": "Según la plataforma, a estos establecimientos en la capital de Antioquia les ingresaron más de $700 mil millones de pesos de usuarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3725,7 +3725,7 @@
   "palabras": "Viral, Video, Río de Janeiro, Brasil",
   "lead": "Las autoridades investigan qué provocó el fatal desenlace frente a miles de turistas en plena playa.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3736,7 +3736,7 @@
   "palabras": "Antioquia, Rionegro, violencia, Noticias de hoy, Seguridad ciudadana",
   "lead": "Organizaciones sociales hablan de posibles desplazamientos silenciosos en esta zona del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3747,7 +3747,7 @@
   "palabras": "Noticias de hoy, Tráfico de drogas, Panamá",
   "lead": "También fueron confiscados varios elementos que, presuntamente, estarían relacionados con las actividades de transporte ilegal, entre ellos, teléfonos celulares y GPS.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3758,7 +3758,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Super Astro Sol",
   "lead": "El sorteo del Super Astro Sol se realiza de lunes a sábado a las 4:00 p. m. Los participantes pueden consultar aquí el resultado de la jornada, las últimas cifras y el signo zodiacal ganador, además de conocer cómo funciona esta modalidad de apuesta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3769,7 +3769,7 @@
   "palabras": "Pibe Valderrama, Entrevista, James Rodríguez, James, James Rodríguez, Selección Colombia, pibe valderrama, retiro de james, retiro james",
   "lead": "Resaltó que con el aporte de James la tricolor acabó con la sequía y ausencia de 16 años en los Mundiales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3780,7 +3780,7 @@
   "palabras": "Aeropuerto Internacional El Dorado, Aerocivil",
   "lead": "La caída de los sistemas de monitoreo se prolongó por más de hora y media en la capital. El incidente generó represamiento en plataformas y afectó de forma simultánea a Bucaramanga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3791,7 +3791,7 @@
   "palabras": "Brasil, Viral",
   "lead": "Un video muestra el momento en que ambos caen de la motocicleta y terminan golpeándose contra varios elementos y el pavimento.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3802,7 +3802,7 @@
   "palabras": "violencia, Menores de edad, Instituto de Medicina Legal",
   "lead": "Entre enero y agosto de 2026 se practicaron 21.229 valoraciones por lesiones no fatales a menores de edad. De estas, 9.711 correspondieron a presuntos delitos sexuales y 4.770 a violencia intrafamiliar. Además, 1.311 niños, niñas y adolescentes murieron por causas violentas en el mismo periodo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3813,7 +3813,7 @@
   "palabras": "",
   "lead": "60 accidentes de tránsito en dos kilómetros y en tres años, motivaron a un estudiante de derecho a interponer una acción popular que falló a su favor",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3824,7 +3824,7 @@
   "palabras": "",
   "lead": "El presidente estadounidense dijo que “seguramente” se “llevará bien” con los demócratas en el Congreso.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3835,7 +3835,7 @@
   "palabras": "",
   "lead": "La iniciativa del congresista Jaime Arizabaleta se aprobó con 20 votos a favor y 2 en contra.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3846,7 +3846,7 @@
   "palabras": "",
   "lead": "El triunfo histórico de los demócratas en la Cámara y Senado rompió periodos de décadas en el poder.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3857,7 +3857,7 @@
   "palabras": "",
   "lead": "La conmemoración de los 50 años de la Ópera de Colombia llega a Cartagena este jueves 5 de noviembre al teatro Adolfo Mejía. Por cada boleta vendida, un joven estudiante de música podrá asistir al concierto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3868,7 +3868,7 @@
   "palabras": "",
   "lead": "El proyecto ha vinculado a artistas, artesanos y jóvenes, y su impacto alcanza a cerca de 830 personas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3879,7 +3879,7 @@
   "palabras": "",
   "lead": "La excónsul Maryory Pabón firmó un contrato de arrendamiento sin que tuviera los permisos y la asignación presupuestal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3890,7 +3890,7 @@
   "palabras": "",
   "lead": "Santiago Castañeda, de padres colombianos, había expresado tambié su interés en representar a la Tricolor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3901,7 +3901,7 @@
   "palabras": "",
   "lead": "El encuentro contó con representantes de la DIAN en la región Caribe, autoridades de control, gremios empresariales, el sector portuario y la Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP).",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3912,7 +3912,7 @@
   "palabras": "",
   "lead": "Miguel Enrique Romero Meza, de 49 años, fue localizado en el pozo de Goloka, aguas abajo del balneario donde desapareció durante la tarde del martes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3923,7 +3923,7 @@
   "palabras": "",
   "lead": "Un menor de edad fue aprehendido en las 58 diligencias de allanamiento y registro en ocho comunas de Cúcuta, Villa del Rosario, San Cayetano y el corregimiento de La Parada en Norte de Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3934,7 +3934,7 @@
   "palabras": "",
   "lead": "Conozca qué días y a qué hora se puede hacer un cambio de look en este mes de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3945,7 +3945,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo De La Espriella participó en la ceremonia del Día de Policía Nacional, y volvió a lanzar cuestionamientos sobre el gobierno de Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3956,7 +3956,7 @@
   "palabras": "",
   "lead": "La Registraduría Nacional, por medio de su página web, fijó las fechas oficiales del calendario electoral del 2027.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3967,7 +3967,7 @@
   "palabras": "",
   "lead": "La Secretaría de Gobierno anunció una vigilia, una marcha y dos plantones en tres localidades por solidaridad internacional, derechos humanos y memoria, por lo que las jornadas podrían afectar la movilidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3978,7 +3978,7 @@
   "palabras": "",
   "lead": "Entre 2024 y 2025 fueron asesinados 189 periodistas, dos tercios en zonas de conflicto. La impunidad subió al 86%, su primer aumento desde 2012.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3989,7 +3989,7 @@
   "palabras": "Política,Abelardo de la Espriella,Policía Nacional,Antioquia,Asesinato,Helicóptero",
   "lead": "El mandatario prometió que el crimen no quedará impune y responsabilizó al gobierno anterior de los golpes contra la institución.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4000,7 +4000,7 @@
   "palabras": "Economía,Abelardo de la Espriella,Recaudo fiscal,Energía eléctrica,Ministerio de Hacienda y Crédito Público",
   "lead": "Las comisiones económicas avalaron recursos para el Fondo Milagro y Colombia Mayor, además de traslados para energía y veteranos. El proyecto pasa a plenar...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4011,7 +4011,7 @@
   "palabras": "Sociedad,Ministerio del Trabajo,Salario Mínimo",
   "lead": "Organizaciones campesinas, del transporte y de la economía informal también expondrán sus propuestas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4022,7 +4022,7 @@
   "palabras": "Sociedad,Ministerio del Trabajo,Trabajo,Trabajadores,despido de trabajadores,Despido injustificado,Despido laboral,Despido masivo,Terremoto en Colombia,terremoto",
   "lead": "La Superintendencia del Subsidio Familiar expidió nuevas instrucciones para vigilar la gestión financiera, contable y operativa de la Protección Económica ...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4033,7 +4033,7 @@
   "palabras": "Sociedad,EPS,Ministerio de Salud,Salud,medicamentos,Supersalud,Atención a pacientes",
   "lead": "La entidad reconoció dificultades durante los primeros tres días hábiles de operación del nuevo gestor farmacéutico en la capital y anunció que trabaja con...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4044,7 +4044,7 @@
   "palabras": "Orden Público,Segunda Marquetalia,Ejército Nacional,Fuerzas Militares,Policía Nacional,Cundinamarca,Huila,Caquetá",
   "lead": "Este cabecilla es considerado uno de los principales articuladores de las redes de extorsión contra comerciantes, ganaderos y agricultores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4055,7 +4055,7 @@
   "palabras": "Orden Público,JEP,Ministerio de Justicia,Congreso de la República",
   "lead": "Iván Cancino niega que la Ley de Sometimiento sea similar a la JEP y responde al magistrado Alejandro Ramelli.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4066,7 +4066,7 @@
   "palabras": "Orden Público,Inseguridad,Delincuentes capturados,Feminicidio,Capturas,Bogotá",
   "lead": "La captura estaría relacionada con la muerte de una mujer que, al parecer, fue lanzada desde un cuarto piso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4077,6 +4077,380 @@
   "palabras": "Sociedad,Aeropuerto El Dorado,Transporte de pasajeros,Vuelos,Colombia,Bogotá",
   "lead": "Cientos de usuarios se han quejado porque vuelos se han cancelado o retrasado.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué pasa si le roban su cuenta de ChatGPT? Así podrían utilizar sus conversaciones",
+  "enlace": "https://www.bluradio.com/tecnologia/que-pasa-si-le-roban-su-cuenta-de-chatgpt-asi-podrian-utilizar-sus-conversaciones-so35",
+  "fecha": "2026-11-04T17:13:24-05:00",
+  "palabras": "ChatGPT, Ciberseguridad, ESET",
+  "lead": "Una cuenta de ChatGPT puede almacenar más información personal de la que parece. Ante esto, expertos advierten qué riesgos existen cuando alguien consigue acceder sin autorización.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo hoy miércoles 4 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-hoy-miercoles-4-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-04T17:19:48-05:00",
+  "palabras": "Paisita Noche, Resultados del chance",
+  "lead": "El chance Paisita Noche realiza sorteos todos los días, después de las 6:00 p. m. Este miércoles 4 de noviembre de 2026 los jugadores pueden consultar el resultado oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo hoy miércoles 4 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-hoy-miercoles-4-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-04T17:21:21-05:00",
+  "palabras": "Chontico Noche , Resultados del chance",
+  "lead": "El chance Chontico Noche realiza sorteos todos los días, con horarios que varían según la jornada. Este miércoles 4 de noviembre podrá conocer todos los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Avanza entrega de recursos a familias afectadas por el terremoto en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/avanza-entrega-de-recursos-a-familias-afectadas-por-el-terremoto-en-cali-rg10",
+  "fecha": "2026-11-04T17:03:52-05:00",
+  "palabras": "Noticias de hoy, Cali",
+  "lead": "Los beneficiarios habilitados para recibir el dinero a través de Gane-SuperGIROS serán notificados mediante Vicky, la asistente virtual dispuesta para informar sobre el proceso de pago.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "David Ospina se despide del fútbol: 4 de noviembre de 2026 - Blog Deportivo programa completo",
+  "enlace": "https://www.bluradio.com/blog-deportivo/david-ospina-se-despide-del-futbol-4-de-noviembre-de-2026-blog-deportivo-programa-completo-pr30",
+  "fecha": "2026-11-04T17:07:13-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este miércoles.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por primera vez, el dancehall llega a los 14 Cañonazos de Discos Fuentes con “Algarete”",
+  "enlace": "https://www.bluradio.com/entretenimiento/por-primera-vez-el-dancehall-llega-a-los-14-canonazos-de-discos-fuentes-con-algarete-so35",
+  "fecha": "2026-11-04T16:51:35-05:00",
+  "palabras": "",
+  "lead": "Cada integrante aporta una identidad particular al proyecto. Bomby, proveniente de la Comuna 13 de Medellín, incorpora sus raíces afrocolombianas y la influencia de la música del Pacífico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Icetex denuncia contratos por $83.770 millones para un proyecto que no era viable",
+  "enlace": "https://www.bluradio.com/nacion/icetex-denuncia-contratos-por-83-770-millones-para-un-proyecto-que-no-era-viable-so35",
+  "fecha": "2026-11-04T16:29:59-05:00",
+  "palabras": "Icetex, Educación",
+  "lead": "El presidente de la entidad, Richard Alexander Caicedo, aseguró que una revisión contractual encontró pagos y compromisos para un proyecto de ahorro educativo que habría sido declarado inviable en estudios técnicos. También señaló un aumento del 80 % en el número de contratistas entre 2022 y 2026.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Partido sub 20 terminó con 51 expulsados en Brasil",
+  "enlace": "https://www.bluradio.com/deportes/futbol/nuevo-record-de-expulsados-en-un-partido-51-tarjetas-rojas-en-brasil-cb20",
+  "fecha": "2026-11-04T16:32:40-05:00",
+  "palabras": "Brasil, Récord Guinness, expulsados, record expulsiones, record guiness, tarjetas rojas",
+  "lead": "El árbitro expulsó en total a 43 futbolistas y ocho integrantes de las comisiones técnicas de ambos equipos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Tiene la piel irritada después de usar maquillaje de Halloween? Recomendaciones para cuidarla",
+  "enlace": "https://www.bluradio.com/salud/tiene-la-piel-irritada-despues-de-usar-maquillaje-de-halloween-recomendaciones-para-cuidarla-so35",
+  "fecha": "2026-11-04T17:14:01-05:00",
+  "palabras": "Belleza",
+  "lead": "Después de las celebraciones, el enrojecimiento, la resequedad y la picazón pueden aparecer en el rostro. Conozca qué medidas ayudan a recuperar la piel y cuándo consultar al médico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre se volvió pareja del asesino de su hermana para poder lograr su captura",
+  "enlace": "https://www.bluradio.com/judicial/hombre-se-volvio-pareja-del-asesino-de-su-hermana-para-poder-lograr-su-captura-rs15",
+  "fecha": "2026-11-04T17:16:32-05:00",
+  "palabras": "Viral, Homicidios",
+  "lead": "Pese que las autoridades tenían en su poder todas las pruebas para poder capturarlos, tuvo él que ponerse en la piel de una mujer para lograr la captura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Controles migratorios en Santander dejan 153 expulsados y 40 capturas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/controles-migratorios-en-santander-dejan-153-expulsados-y-40-capturas-rg10",
+  "fecha": "2026-11-04T16:32:15-05:00",
+  "palabras": "Santander, Migración, Blu Radio, Noticias de hoy",
+  "lead": "La Gobernación aseguró que estos controles continuarán en coordinación con las autoridades migratorias y de Policía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno espera entregar cárcel de Riohacha y San Ángel antes de finalizar 2026",
+  "enlace": "https://www.bluradio.com/nacion/gobierno-espera-entregar-carcel-de-riohacha-y-san-angel-antes-de-finalizar-2026-rg10",
+  "fecha": "2026-11-04T17:04:04-05:00",
+  "palabras": "Gobierno nacional, Cárceles, Ministerio de Justicia",
+  "lead": "Durante la audiencia pública convocada por la Corte Constitucional para analizar la crisis penitenciaria, el Gobierno anunció nuevas medidas para ampliar la infraestructura carcelaria y atender la situación de hacinamiento en el país",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fallas en El Dorado: aerolíneas advierten por vuelos demorados y cancelados",
+  "enlace": "https://www.bluradio.com/nacion/fallas-aeropuerto-el-dorado-aerolineas-advierten-vuelos-demorados-cancelados-rs15",
+  "fecha": "2026-11-04T16:42:46-05:00",
+  "palabras": "Aeropuerto Internacional El Dorado, Aerocivil, Wingo",
+  "lead": "Wingo, Avianca y LATAM informaron sobre afectaciones en sus itinerarios tras la falla técnica en los radares de Bogotá y Bucaramanga. Hay varias rutas nacionales suspendidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia tiene 6,8 millones de cuidadores sin remuneración y necesitará más para el 2035",
+  "enlace": "https://www.bluradio.com/nacion/colombia-tiene-6-8-millones-de-cuidadores-sin-remuneracion-y-necesitara-mas-para-el-2035-rg10",
+  "fecha": "2026-11-04T16:51:30-05:00",
+  "palabras": "abuelitos en Colombia, adultos mayores, cuidadores",
+  "lead": "En el país, 17 millones de personas requieren cuidados, asistencia o apoyo diariamente y 6,8 millones de personas realizan estas labores sin recibir remuneración.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Llevamos un mes trabajando: Mindefensa sobre seguridad para reactivar gasoducto Antonio Ricaurte",
+  "enlace": "https://www.bluradio.com/nacion/llevamos-un-mes-trabajando-mindefensa-sobre-seguridad-para-reactivar-gasoducto-antonio-ricaurte-rg10",
+  "fecha": "2026-11-04T16:56:06-05:00",
+  "palabras": "Noticias de hoy, Cartagena",
+  "lead": "El Gobierno colombiano incluyó el proyecto en el listado de Proyectos de Interés Nacional y Estratégico para acelerar su ejecución.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia reafirma su rechazo inequívoco al antisemitismo: Cancillería",
+  "enlace": "https://www.bluradio.com/nacion/colombia-reafirma-su-rechazo-inequivoco-al-antisemitismo-cancilleria-rg10",
+  "fecha": "2026-11-04T17:05:27-05:00",
+  "palabras": "Cancillería, Gobierno nacional, Colombia, Judíos, judaismo",
+  "lead": "El Ministerio de Relaciones Exteriores participó en un diálogo de alto nivel de la Alianza Internacional para el Recuerdo del Holocausto (IHRA).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ley de Sometimiento ya fue firmada por presidentes de Senado y Cámara y pasa a sanción presidencial",
+  "enlace": "https://www.bluradio.com/nacion/ley-de-sometimiento-ya-fue-firmada-por-presidentes-de-senado-y-camara-y-pasa-a-sancion-presidencial-rg10",
+  "fecha": "2026-11-04T17:07:25-05:00",
+  "palabras": "Senado de la República, Cámara de Representantes",
+  "lead": "Se espera que la Ley de Sometimiento sea sancionada este miércoles 4 de noviembre por el presidente de la República, teniendo en cuenta que el plazo vence a la medianoche de hoy.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Link tablero para consultar el ahorro y consumo de energía por regiones durante El Niño",
+  "enlace": "https://www.bluradio.com/nacion/habilitan-tablero-para-consultar-el-ahorro-y-consumo-de-energia-por-regiones-durante-el-nino-rg10",
+  "fecha": "2026-11-04T17:15:23-05:00",
+  "palabras": "Fenómeno de El Niño, Ministerio de Minas y Energía, Energía eléctrica, El Niño, energía, fenómeno El Niño, luz",
+  "lead": "La herramienta, desarrollada junto con XM, permitirá consultar semanalmente qué regiones del país están reduciendo su consumo de energía y cuáles están por encima de los niveles de referencia, como parte del plan EnergíaYA.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vuelos desde Bucaramanga hacia Bogotá presentan retrasos por fallas en el radar de El Dorado",
+  "enlace": "https://caracol.com.co/2026/11/04/vuelos-desde-bucaramanga-hacia-bogota-presentan-retrasos-por-fallas-en-el-radar-de-el-dorado/",
+  "fecha": "2026-11-04T17:14:49-05:00",
+  "palabras": "",
+  "lead": "Aunque el aeropuerto Palonegro no reporta inconvenientes en sus radares ni en sus sistemas de operación, algunos vuelos con destino a la capital del país registran demoras por la novedad técnica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aerocivil confirma que fue superada la falla en el radar de El Dorado: afectaciones en aerolíneas",
+  "enlace": "https://caracol.com.co/2026/11/04/aerocivil-confirma-que-fue-superada-la-falla-en-el-radar-de-el-dorado-afectaciones-en-aerolineas/",
+  "fecha": "2026-11-04T17:13:00-05:00",
+  "palabras": "",
+  "lead": "La entidad informó que los vuelos avanzan hacia su normalización, aunque varias aerolíneas todavía reportan cancelaciones y retrasos que afectan a los pasajeros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se extendió por un año la prohibición de parrillero hombre en 10 barrios en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/04/se-extendio-por-un-ano-la-prohibicion-de-parrillero-hombre-en-10-barrios-en-cartagena/",
+  "fecha": "2026-11-04T16:55:27-05:00",
+  "palabras": "",
+  "lead": "El Decreto 0490 de 2026 mantiene la restricción en sectores como Bocagrande, Manga, Crespo y El Bosque",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ONU Mujeres y sector privado apuestan por el talento femenino para fortalecer la economía del país",
+  "enlace": "https://caracol.com.co/2026/11/04/onu-mujeres-y-el-sector-privado-apuestan-al-talento-femenino-para-fortalecer-el-desarrollo-economico/",
+  "fecha": "2026-11-04T16:50:55-05:00",
+  "palabras": "",
+  "lead": "El encuentro de liderazgo reunió a representantes del Gobierno nacional y del sector privado para analizar las brechas, oportunidades y acciones necesarias para impulsar el crecimiento del país con una mayor participación de las mujeres.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carlos Vives es incluido por Forbes España entre los 50 referentes iberoamericanos",
+  "enlace": "https://caracol.com.co/2026/11/04/carlos-vives-es-incluido-por-forbes-espana-entre-los-50-referentes-iberoamericanos/",
+  "fecha": "2026-11-04T16:47:03-05:00",
+  "palabras": "",
+  "lead": "El cantante colombiano fue reconocido por su aporte a la música y la cultura. También hace parte del consejo asesor que participó en la creación de esta primera lista dedicada a Iberoamérica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sogamoso se prepara para tres días de literatura y cultura con FILSOG 2026",
+  "enlace": "https://caracol.com.co/2026/11/04/sogamoso-se-prepara-para-tres-dias-de-literatura-y-cultura-con-filsog-2026/",
+  "fecha": "2026-11-04T16:42:20-05:00",
+  "palabras": "",
+  "lead": "La tercera Feria Internacional del Libro reunirá escritores, periodistas, artistas e invitados internacionales. Yolanda Ruiz y María Elvira Samper protagonizarán uno de los conversatorios centrales, con entrada libre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tráfico de fauna en Magdalena dejó 480 babillas muertas: las llevaban hacinadas en un furgón",
+  "enlace": "https://caracol.com.co/2026/11/04/trafico-de-fauna-en-magdalena-dejo-480-babillas-muertas-las-llevaban-hacinadas-en-un-furgon/",
+  "fecha": "2026-11-04T16:40:00-05:00",
+  "palabras": "",
+  "lead": "El hallazgo se produjo en un furgón que se movilizaba entre Santa Ana y Pijiño del Carmen. La Policía capturó a una persona y Corpamag liberó los ejemplares que sobrevivieron.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Perú declara emergencia por lluvias en región que visitará el papa León XIV",
+  "enlace": "https://caracol.com.co/2026/11/04/peru-declara-emergencia-por-lluvias-en-region-que-visitara-el-papa-leon-xiv/",
+  "fecha": "2026-11-04T16:39:39-05:00",
+  "palabras": "",
+  "lead": "La declaratoria de emergencia toca a más del 70% del país por cuenta del avance del fenómeno de El Niño.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fredy Guarín y sus disculpas con el Inter de Milán: “Fracasé en todos los aspectos”",
+  "enlace": "https://caracol.com.co/2026/11/04/fredy-guarin-y-sus-disculpas-con-el-inter-de-milan-fracase-en-todos-los-aspectos/",
+  "fecha": "2026-11-04T16:28:15-05:00",
+  "palabras": "",
+  "lead": "El exfutbolista colombiano habló sobre los problemas de alcoholismo que atravesó durante su etapa en Italia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Zipacoa dejó atrás los caminos de barro con 360 metros pavimento",
+  "enlace": "https://caracol.com.co/2026/11/04/zipacoa-dejo-atras-los-caminos-de-barro-con-360-metros-pavimento/",
+  "fecha": "2026-11-04T16:27:22-05:00",
+  "palabras": "",
+  "lead": "La obra, inaugurada por el gobernador Yamil Arana, beneficia a más de 400 familias",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Condenan al Invías por siniestros viales en el puente Helicoidal en Calarcá, Quindío vía la línea",
+  "enlace": "https://caracol.com.co/2026/11/04/en-seis-meses-invias-debe-presentar-estudio-por-siniestros-en-puente-helicoidal-en-calarca-quindio/",
+  "fecha": "2026-11-04T16:20:44-05:00",
+  "palabras": "",
+  "lead": "60 accidentes de tránsito en dos kilómetros y en tres años, motivaron a un estudiante de derecho a interponer una acción popular que falló a su favor",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aerocivil dice que se normalizan operaciones aéreas",
+  "enlace": "https://www.lafm.com.co/actualidad/el-dorado-aerocivil-vuelos-aeropuerto-bogota-rionegro-radar-416144",
+  "fecha": "2026-11-04T16:57:00-05:00",
+  "palabras": "Actualidad,Aeropuerto El Dorado,aeropuerto,Operadores,Vuelos,eventos cancelados,ElDorado",
+  "lead": "La Aeronáutica Civil confirmó que fue superada la falla en los sistemas de visualización de tránsito aéreo. Los despegues en El Dorado operan con normalid...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Sometimento, que desmonta la ‘paz total’, fue enviada a sanción presidencial",
+  "enlace": "https://www.lafm.com.co/politica/ley-de-sometimiento-que-desmonta-la-paz-total-enviada-a-sancion-presidencial-416142",
+  "fecha": "2026-11-04T16:38:00-05:00",
+  "palabras": "Política,Congreso de la República,Proyecto de ley,estructuras criminales,organizaciones criminales,Justicia transicional",
+  "lead": "Los presidentes de Senado y Cámara firmaron el texto de la norma y la enviaron a la Casa de Nariño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Cómo vive Kimberly Reyes su soltería? La actriz respondió",
+  "enlace": "https://www.lafm.com.co/entretenimiento/kimberly-reyes-ignoro-esta-senal-en-su-solteria-416140",
+  "fecha": "2026-11-04T16:27:00-05:00",
+  "palabras": "Entretenimiento,Kimberly Reyes,soltería,relaciones,Parejas,famosos",
+  "lead": "Kimberly Reyes dijo que no le afectan los comentarios sobre la soltería.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quiénes son los mejores arqueros de la Selección Colombia?",
+  "enlace": "https://www.lafm.com.co/deportes/retiro-david-ospina-esta-entre-los-mejores-de-la-historia-de-la-seleccion-416133",
+  "fecha": "2026-11-04T15:44:00-05:00",
+  "palabras": "Deportes,David Ospina,René Higuita,Córdoba,Arquero,Colombia,Selección Colombia,Historia",
+  "lead": "Con el retiro de Ospina, se evalúa en qué escalafón de la historia está bajo los tres palos del combinado patrio.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella posesionó a Ordóñez y a Viviane Morales",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-posesiona-alejandro-ordonez-ministro-interior-colombia-416090",
+  "fecha": "2026-11-04T09:21:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Colombia,Ministerio del interior,decreto,Rodrigo Lara",
+  "lead": "El exprocurador asume formalmente la cartera política con la Ley de Sometimiento lista para la firma presidencial.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
