@@ -1,4 +1,26 @@
 {
- "puntos": [],
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Juan Lozano, Director de Noticias La FM",
+   "que": "Se acaba la paz total. Se ha aprobado el nuevo marco jurídico de sometimiento para criminales y terroristas, eliminando beneficios y estableciendo penas severas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:05",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Partido Demócrata obtuvo una jornada histórica en las elecciones de Estados Unidos, ganando mayorías en el Senado y gobernaciones clave.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:06",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Gobierno Nacional emitió una circular restando el uso de recursos públicos para fiestas y celebraciones de fin de año en entidades estatales.",
+   "resaltar": false
+  }
+ ],
  "avisos": []
 }
