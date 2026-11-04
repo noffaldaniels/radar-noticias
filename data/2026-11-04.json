@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "Las autoridades confirmaron que se trata de una cadena de explotación que generaba más de 3.000 millones de pesos por explotación ilegal de oro.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "El más reciente caso se presentó en el municipio de Pinchote.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,6 +777,215 @@
   "palabras": "",
   "lead": "Dos hombres en motocicleta habrían lanzado el artefacto en la madrugada de este miércoles.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Denuncian que en Halloween niños recibieron dulces con agujas y tornillos en su interior en Itagüí",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/denuncian-que-en-halloween-ninos-recibieron-dulces-con-agujas-y-tornillos-en-su-interior-en-itagui-rg10",
+  "fecha": "2026-11-04T06:36:13-05:00",
+  "palabras": "Halloween, Itagüí, Policía Nacional, Noticias de hoy",
+  "lead": "Autoridades en el municipios investigan y piden a los padres revisar los confites que recibieron sus hijos durante el fin de semana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Extraña desaparición de una mujer en TransMilenio: salió del trabajo y no llegó a casa",
+  "enlace": "https://www.bluradio.com/regiones/bogota/extrana-desaparicion-de-una-mujer-en-transmilenio-salio-del-trabajo-y-no-llego-a-casa-so35",
+  "fecha": "2026-11-04T06:35:35-05:00",
+  "palabras": "Transmilenio, Desaparecidos",
+  "lead": "La mujer, llamó a su familia desde la estación Universidades y dijo que se dirigía al portal de Suba.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "JEP imputa a 'Timochenko' y Pastor Alape por crímenes de guerra y lesa humanidad",
+  "enlace": "https://www.bluradio.com/judicial/jep-imputa-a-timochenko-y-pastor-alape-por-crimenes-de-guerra-y-lesa-humanidad-so35",
+  "fecha": "2026-11-04T06:43:40-05:00",
+  "palabras": "",
+  "lead": "La investigación, conducida bajo la correlatoría de la magistrada Julieta Lemaitre Ripoll, determinó que los 11 comparecientes son máximos responsables de crímenes de guerra como homicidio, desplazamiento forzado, dirigir intencionalmente ataques contra la población civil y bienes protegidos,…",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ataque con explosivos contra el peaje de Media Canoa, en la vía Cali-Buga",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/ataque-con-explosivos-contra-el-peaje-de-media-canoa-en-la-via-cali-buga-rg10",
+  "fecha": "2026-11-04T06:59:55-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la información preliminar, dos hombres que se movilizaban en una motocicleta habrían lanzado un artefacto explosivo contra las instalaciones del peaje.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sigue la carrera contra el tiempo del Gobierno en Congreso: se enfocan en ley de rescate fiscal",
+  "enlace": "https://www.bluradio.com/opinion/sigue-la-carrera-contra-el-tiempo-del-gobierno-en-congreso-se-enfocan-en-ley-de-rescate-fiscal-pr30",
+  "fecha": "2026-11-04T06:50:13-05:00",
+  "palabras": "",
+  "lead": "Por eso son claves las reuniones que ha emprendido el gobierno del presidente Abelardo De La Espriella con diferentes sectores políticos, incluyendo alcaldes, gobernadores y congresistas, para que todos entiendan la magnitud del lío fiscal que afronta el país y la necesidad de trabajar…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ofensiva contra la delincuencia en el Área Metropolitana de Cúcuta",
+  "enlace": "https://caracol.com.co/2026/11/04/ofensiva-contra-la-delincuencia-en-el-area-metropolitana-de-cucuta/",
+  "fecha": "2026-11-04T06:56:38-05:00",
+  "palabras": "",
+  "lead": "Operación “Némesis” adelantada por la fuerza pública",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No es asunto privado”: Boyacá llevará a municipios campaña contra las violencias hacia las mujeres",
+  "enlace": "https://caracol.com.co/2026/11/04/no-es-asunto-privado-boyaca-llevara-a-municipios-campana-contra-las-violencias-hacia-las-mujeres/",
+  "fecha": "2026-11-04T06:52:27-05:00",
+  "palabras": "",
+  "lead": "La estrategia de la Gobernación busca transformar prácticas culturales, prevenir distintas formas de violencia y promover la participación política femenina. La primera jornada será en Sogamoso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "CONMEBOL alerta por venta ilegal de entradas para la final de la Sudamericana en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/04/conmebol-alerta-por-venta-ilegal-de-entradas-para-la-final-de-la-sudamericana-en-barranquilla/",
+  "fecha": "2026-11-04T06:48:36-05:00",
+  "palabras": "",
+  "lead": "La Confederación advirtió sobre agencias, intermediarios y plataformas que ofrecen entradas y paquetes turísticos sin autorización para el partido decisivo del torneo, e instó a los aficionados a comprar únicamente por los canales oficiales.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro soldados resultaron heridos tras una explosión dentro del Batallón San Mateo en Pereira",
+  "enlace": "https://caracol.com.co/2026/11/04/cuatro-soldados-resultaron-heridos-tras-una-explosion-dentro-del-batallon-san-mateo-en-pereira/",
+  "fecha": "2026-11-04T06:46:26-05:00",
+  "palabras": "",
+  "lead": "La Justicia Penal Militar investiga las circunstancias de la explosión que dejó a los uniformados lesionados.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno ordena reforzar la seguridad en la frontera",
+  "enlace": "https://caracol.com.co/2026/11/04/gobierno-ordena-reforzar-la-seguridad-en-la-frontera/",
+  "fecha": "2026-11-04T06:43:45-05:00",
+  "palabras": "",
+  "lead": "Presidente compromete mayores acciones estratégicas con Venezuela",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades golpean quemas abiertas en Soacha: inactivaron puntos de combustión",
+  "enlace": "https://caracol.com.co/2026/11/04/autoridades-golpean-quemas-abiertas-en-soacha-inactivaron-puntos-de-combustion/",
+  "fecha": "2026-11-04T06:37:24-05:00",
+  "palabras": "",
+  "lead": "Se estableció que las actividades generaron afectaciones a los recursos aire, suelo, agua, flora, fauna y paisaje",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empieza la Cumbre Iberoamericana: Javier Milei acude a Madrid",
+  "enlace": "https://caracol.com.co/2026/11/04/empieza-la-cumbre-iberoamericana-javier-milei-acude-a-madrid/",
+  "fecha": "2026-11-04T06:37:09-05:00",
+  "palabras": "",
+  "lead": "El presidente argentino, Javier Milei, está en el punto de mira por la Cumbre Iberoamericana que compartirá con Pedro Sánchez.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Miércoles 4 de noviembre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/11/04/miercoles-4-de-noviembre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-11-04T06:35:27-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habitantes de Planadas, Tolima realizaron velatón en rechazó al atentado terrorista",
+  "enlace": "https://caracol.com.co/2026/11/04/habitantes-de-planadas-tolima-realizaron-velaton-en-rechazo-al-atentado-terrorista/",
+  "fecha": "2026-11-04T06:36:15-05:00",
+  "palabras": "",
+  "lead": "Con velas encendidas y camisetas blancas pidieron además apoyo del Gobierno Nacional para enfrentar la crisis que en materia de seguridad vive el sur del departamento.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Santa Marta a alias ‘Mono Valle Gaira’ por presunta extorsión a comerciantes",
+  "enlace": "https://caracol.com.co/2026/11/04/capturan-en-santa-marta-a-alias-mono-valle-gaira-por-presunta-extorsion-a-comerciantes/",
+  "fecha": "2026-11-04T06:33:15-05:00",
+  "palabras": "",
+  "lead": "Según la información entregada por las autoridades, esta persona estaría bajo las órdenes de alias ‘Comando 74′ y alias ‘Barbas’, cabecillas de zona, cumpliendo el rol de cobro de extorsiones a comerciantes del sector turístico y mercado público de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este 4 de noviembre inician las consultas que terminarán en la elección del nuevo rector de la UPTC",
+  "enlace": "https://caracol.com.co/2026/11/04/este-4-de-noviembre-inician-las-consultas-que-terminaran-en-la-eleccion-del-nuevo-rector-de-la-uptc/",
+  "fecha": "2026-11-04T06:32:10-05:00",
+  "palabras": "",
+  "lead": "El 19 de noviembre se conocerá quién será el nuevo rector",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Embajadora en EE. UU. viene trabajando con demócratas",
+  "enlace": "https://www.lafm.com.co/politica/embajadora-en-estados-unidos-trabaja-democratas-gobierno-cambios-416072",
+  "fecha": "2026-11-04T06:59:00-05:00",
+  "palabras": "Política,Gobierno,Embajadores,Estados Unidos,Elecciones en el exterior",
+  "lead": "Por el lado republicano, Quinn mencionó a Victor Cervino, de Relaciones Exteriores del Senado, así como a Paul Grove y Paul Denaro, del Comité de Apropiaci...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atacan peaje en vías del Valle del Cauca este miércoles",
+  "enlace": "https://www.lafm.com.co/orden-publico/atacan-peaje-mediacanoa-valle-del-cauca-durante-madrugada-4-noviembre-416067",
+  "fecha": "2026-11-04T06:50:00-05:00",
+  "palabras": "Orden Público,Peajes,ataque explosivo,Valle del Cauca",
+  "lead": "De acuerdo con la información proporcionada por el Departamento de Policía Valle, este hecho tuvo lugar hacia las 03:45 de la mañana de este miércoles 4 de...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La histórica victoria de los demócratas en Texas, símbolo de la dura noche para Trump",
+  "enlace": "https://www.lafm.com.co/internacional/texas-vira-partido-democrata-james-talarico-gina-hinojosa-416065",
+  "fecha": "2026-11-04T06:24:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Texas,Política internacional,Votaciones",
+  "lead": "Los demócratas recuperaron el control del estado plenamente tras 32 años.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
