@@ -307,6 +307,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Fueron destruidas 12 excavadoras y 10 cambuches en atacos del Tolima utilizados para la minería ilegal. La gobernadora Adriana Magali Matiz dijo que las disidencias dejarán de percibir 3.000 millones de pesos mensuales.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:19",
+   "quien": "Doctor Cabal (Viceministro o funcionario del gobierno no especificado en el fragmento)",
+   "que": "El impuesto a los tenderos y las medidas de austeridad para el mes de diciembre no fueron eliminados, sino que se profundizó su aplicación, afectando el margen de revisión y ajuste del sector.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:19",
+   "quien": "Doctor Cabal",
+   "que": "Se ha solicitado la eliminación del incremento del IVA del 5 al 19% en carros híbridos y eléctricos, por considerarlo contrario a las prácticas sostenibles de nuevas energías.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:19",
+   "quien": "Doctor Cabal",
+   "que": "Existen tres frentes críticos para fin de año: la lucha contra el costo de vida con posibles incrementos del IVA, y la discusión sobre el salario mínimo.",
+   "resaltar": false
   }
  ],
  "avisos": []
