@@ -132,6 +132,20 @@
    "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
    "que": "El Servicio Geológico Colombiano tiene listo el informe técnico sobre los sismos y el enjambre sísmico en el sur del departamento del Tolima.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:32",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "A esta hora se informa que en el distrito número 27 los precintos fueron contados, estando arriba por más de 1.000 votos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:34",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Según Pure Research, el 53% de los latinos respaldó candidaturas demócratas en esta elección de medio mandato.",
+   "resaltar": false
   }
  ],
  "avisos": []
