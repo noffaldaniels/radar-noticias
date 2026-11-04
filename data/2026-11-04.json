@@ -1492,7 +1492,7 @@
   "palabras": "Ley de sometimiento, Congreso",
   "lead": "De acuerdo con el legislador, la aprobación de este proyecto señala el fin del esquema de la paz total implementado en los últimos años. Cadavid enfatizó que la norma “modifica o sepulta ese modelo de paz total y plantea un sometimiento a la justicia”, estableciendo un tratamiento penal…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "Bucaramanga, Floridablanca, Santander, Accidente de tránsito, Blu Radio",
   "lead": "La tractomula terminó atravesada en la calzada contraria, a la altura de la bomba Cotrasur, y afectó un vehículo particular. El accidente provoca larga fila de carros hacia Floridablanca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "Animales",
   "lead": "La denuncia fue interpuesta luego de una campaña en la que se hicieron señalamientos sobre presuntas prácticas de maltrato animal en una granja proveedora de la compañía, ubicada en Cachipay, Cundinamarca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "Larry Summers, economista y exsecretario del Tesoro de Estados Unidos, habla sobre los resultados de las elecciones intermedias en EE. UU.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "El proyecto contempla cerca de 800 metros de intervención y beneficiará a más de 106.000 habitantes. Las obras incluyen doble calzada, seis carriles, zonas verdes y andenes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Dmitri Peskov declaró que, fuera cual fuera el resultado de las elecciones legislativas en EE. UU., Trump seguiría en el cargo, por lo que seguiría decidiendo sobre las cuestiones internacionales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "Tinto Brass reconocido internacionalmente como el gran maestro del cine erótico italiano y una de las figuras más transgresoras y polémicas del audiovisual europeo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Internacional,Política internacional,Donald Trump,Democracia,Elecciones presidenciales,conteo de votos,Recuento de votos",
   "lead": "María Claudia Lacouture, presidenta de AmCham Colombia, señala que el triunfo demócrata frenará a Trump con investigaciones, pero la Casa Blanca mantendrá ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "Economía,Gas natural,Reserva de gas natural,Ecopetrol,Ministerio de Minas y Energía",
   "lead": "Ecopetrol prevé importar inicialmente el equivalente al 5% del consumo nacional por el gasoducto Antonio Ricaurte.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,6 +1591,237 @@
   "palabras": "Orden Público,TransMilenio,Policía Nacional,Bogotá,Secretaría de Movilidad",
   "lead": "El hombre fue remitido a un centro asistencial, mientras las autoridades tratan de identificar al responsable.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fasecolda, en desacuerdo con IVA del 19% a planes de medicina prepagada",
+  "enlace": "https://www.bluradio.com/economia/fasecolda-en-desacuerdo-con-iva-del-19-a-planes-de-medicina-prepagada-so35",
+  "fecha": "2026-11-04T08:57:12-05:00",
+  "palabras": "Fasecolda, Medicina prepagada, Reforma tributaria, IVA",
+  "lead": "El gremio asegurador pide un trato tributario igual para prepagadas, pólizas y planes complementarios, y advierte que la diferencia propuesta “no tiene ningún sentido”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video captó ataque contra Paula Coca, joven asesinada por un adulto mayor: se obsesionó con ella",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/video-capto-ataque-contra-paula-coca-joven-asesinada-por-un-adulto-mayor-se-obsesiono-con-ella-so35",
+  "fecha": "2026-11-04T08:58:23-05:00",
+  "palabras": "Feminicidio, Tercera edad, Adultos mayores",
+  "lead": "La joven, de 23 años, fue agredida en un café de Pinchote. El señalado responsable fue capturado y enviado a prisión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel hombre señalado de atacar con químico a su expareja en Medellín",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-hombre-senalado-de-atacar-con-quimico-a-su-expareja-en-medellin-rg10",
+  "fecha": "2026-11-04T09:01:46-05:00",
+  "palabras": "Violencia Contra la mujer",
+  "lead": "En un sector de Aranjuez, el hombre habría detenido el vehículo con el argumento de que presentaba un problema mecánico. Luego se dirigió al baúl, sacó una sustancia química y presuntamente la arrojó sobre la mujer.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caída de ahorro de agua por parte de medellinenses que se surten de embalse Piedras Blancas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/caida-de-ahorro-de-agua-por-parte-de-medellinenses-que-se-surten-de-embalse-piedras-blancas-rg10",
+  "fecha": "2026-11-04T09:33:37-05:00",
+  "palabras": "Noticias de hoy, Embalses",
+  "lead": "Autoridades pidieron conciencia ciudadana para evitar nuevos racionamientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Reservas hoteleras en París acusan cierre de año más débil en medio de las protestas",
+  "enlace": "https://www.bluradio.com/turismo/reservas-hoteleras-en-paris-acusan-cierre-de-ano-mas-debil-en-medio-de-las-protestas-cb20",
+  "fecha": "2026-11-04T09:22:58-05:00",
+  "palabras": "",
+  "lead": "Las reservas hoteleras para noviembre se sitúan 1,9 puntos porcentuales por debajo de las registradas en las mismas fechas de 2025, mientras que para diciembre el desfase es de 0,5 puntos, según los datos publicados este lunes por el Observatorio de Turismo de París.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corte Constitucional: tasa de hacinamiento carcelario es del 94 %",
+  "enlace": "https://caracol.com.co/2026/11/04/corte-constitucional-tasa-de-hacinamiento-carcelario-es-del-94/",
+  "fecha": "2026-11-04T09:29:27-05:00",
+  "palabras": "",
+  "lead": "El magistrado Jorge Enrique Ibáñez advirtió sobre la sobreocupación en los centros de reclusión y cuestionó que dos cárceles, cuya construcción comenzó en 2016, todavía no hayan sido entregadas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corte Suprema aumenta a 33 años la condena por homicidio de niño de dos años en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/04/corte-suprema-aumenta-a-33-anos-la-condena-por-homicidio-de-nino-de-dos-anos-en-medellin/",
+  "fecha": "2026-11-04T09:29:46-05:00",
+  "palabras": "",
+  "lead": "La Procuraduría logró que se restableciera el agravante de indefensión de la víctima, debido a su corta edad. La pena aumentó más de 11 años frente a la decisión del Tribunal Superior de Medellín.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La historia de Colombia a través de sus entrevistas”: así narró Pilar Vargas la obra de Yamid Amat",
+  "enlace": "https://caracol.com.co/2026/11/04/la-historia-de-colombia-a-traves-de-sus-entrevistas-asi-narro-pilar-vargas-la-obra-de-yamid-amat/",
+  "fecha": "2026-11-04T08:57:21-05:00",
+  "palabras": "",
+  "lead": "La autora, esposa del reconocido periodista, habló en Caracol Radio sobre el libro que lanzó en coautoría con Luz Marina Suaza.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caso Zulma Guzmán: juez fijó nuevas fechas para la audiencia de extradición en marzo de 2027",
+  "enlace": "https://caracol.com.co/2026/11/04/caso-zulma-guzman-juez-fijo-nuevas-fechas-para-la-audiencia-de-extradicion-en-marzo-de-2027/",
+  "fecha": "2026-11-04T09:07:11-05:00",
+  "palabras": "",
+  "lead": "El juez británico John Zaniy fijó nuevas fechas para el proceso de extradición de Zulma Guzmán a Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperan 22 animales silvestres que permanecían en cautiverio en Sucre y Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/04/recuperan-22-animales-silvestres-que-permanecian-en-cautiverio-en-sucre-y-bolivar/",
+  "fecha": "2026-11-04T09:05:52-05:00",
+  "palabras": "",
+  "lead": "Entre las especies recuperadas se encuentran iguanas, tortugas, cotorras, canarios, hormigueros meleros, una babilla, un loro real y un toche corbata.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Neiva supera las 55 muertes en accidentes viales, la mayoría por imprudencia de motociclistas",
+  "enlace": "https://caracol.com.co/2026/11/04/neiva-supera-las-55-muertes-en-accidentes-viales-la-mayoria-por-imprudencia-de-motociclistas/",
+  "fecha": "2026-11-04T09:15:39-05:00",
+  "palabras": "",
+  "lead": "En septiembre murieron nueve personas en las vías de la ciudad, ocho eran motociclistas y una era peatón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 4 de noviembre de 2026 en Colombia: la divisa USD inicia la jornada por encima de $3.200",
+  "enlace": "https://caracol.com.co/2026/11/04/dolar-hoy-4-de-noviembre-de-2026-en-colombia-la-divisa-usd-inicia-la-jornada-por-encima-de-3200/",
+  "fecha": "2026-11-04T08:46:49-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este martes 4 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además del real brasileño, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Masiva incautación en Montería dejó 247.500 cajetillas de cigarrillos fuera de circulación",
+  "enlace": "https://caracol.com.co/2026/11/04/masiva-incautacion-en-monteria-dejo-247500-cajetillas-de-cigarrillos-fuera-de-circulacion/",
+  "fecha": "2026-11-04T09:07:09-05:00",
+  "palabras": "",
+  "lead": "El cargamento era comercializado en lotes pequeños que salían de la bodega para no levantar sospechas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Karol G hace historia en Billboard al dominar el top 3 de Latin Airplay con un mismo álbum",
+  "enlace": "https://caracol.com.co/2026/11/04/karol-g-hace-historia-en-billboard-al-dominar-el-top-3-de-latin-airplay-con-un-mismo-album/",
+  "fecha": "2026-11-04T09:05:40-05:00",
+  "palabras": "",
+  "lead": "La cantante colombiana se convirtió en la primera artista en lograr este récord en los 32 años de la lista. “BbY WOW”, “Ahí” y “Alguien que te amaba”, de su álbum No Me Arrepiento de Sentir Tanto, lideran el ranking.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía de Tunja reporta hallazgos en el empalme: contratos, bienes e información bajo revisión",
+  "enlace": "https://caracol.com.co/2026/11/04/alcaldia-de-tunja-reporta-hallazgos-en-el-empalme-contratos-bienes-e-informacion-bajo-revision/",
+  "fecha": "2026-11-04T09:05:03-05:00",
+  "palabras": "",
+  "lead": "El asesor de despacho Héctor Ortegón señaló falencias en procesos contractuales, retrasos en pagos y pérdida de información digital. Los hallazgos serán trasladados a los organismos de control.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 18.800 personas han sido beneficiadas con el programa de salud emocional de Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/04/mas-de-18800-personas-han-sido-beneficiadas-con-el-programa-de-salud-emocional-de-antioquia/",
+  "fecha": "2026-11-04T09:03:21-05:00",
+  "palabras": "",
+  "lead": "La estrategia de la Gobernación ha llegado a 114 municipios de las nueve subregiones del departamento. Este año también fueron habilitadas dos salas de salud emocional en Apartadó y Chigorodó.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Torneo de Ascenso: Así quedó el Grupo B tras triunfo del Qundío sobre el Real Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/04/torneo-de-ascenso-asi-quedo-el-grupo-b-tras-triunfo-del-qundio-sobre-el-real-cartagena/",
+  "fecha": "2026-11-04T09:01:04-05:00",
+  "palabras": "",
+  "lead": "El equipo Cuyabro se impuso en el Estadio Jaime Morón, en un auténtico partidazo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Llegan más de 160 soldados a reforzar la seguridad en Planadas: ya destruyeron un cilindro bomba",
+  "enlace": "https://caracol.com.co/2026/11/04/llegan-mas-de-160-soldados-a-reforzar-la-seguridad-en-planadas-ya-destruyeron-un-cilindro-bomba/",
+  "fecha": "2026-11-04T08:57:30-05:00",
+  "palabras": "",
+  "lead": "Se trata de unidades élite con capacidades especiales para operaciones urbanas, manejo de explosivos y atención de emergencias.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Senador Cadavid pide explicaciones a Mateo Hidalgo por conversaciones con MinHacienda",
+  "enlace": "https://caracol.com.co/2026/11/04/senador-cadavid-pide-explicaciones-a-mateo-hidalgo-por-conversaciones-con-minhacienda/",
+  "fecha": "2026-11-04T08:47:37-05:00",
+  "palabras": "",
+  "lead": "Hernán Cadavid le solicitó al representante Mateo Hidalgo darle explicaciones al Centro Democrático y al expresidente Álvaro Uribe.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Todavía queda mucho por hacer”: Luis Fernando Suárez tras triunfo del Tolima en Pereira",
+  "enlace": "https://caracol.com.co/2026/11/04/todavia-queda-mucho-por-hacer-luis-fernando-suarez-tras-triunfo-del-tolima-en-pereira/",
+  "fecha": "2026-11-04T08:47:25-05:00",
+  "palabras": "",
+  "lead": "El equipo se mantiene en la décima casilla y suma 23 unidades, aún con posibilidades de clasificar a los ocho.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El mayor derrotado de la jornada electoral fue Donald Trump; el segundo, Elon Musk",
+  "enlace": "https://www.lafm.com.co/internacional/donald-trump-elon-musk-derrotados-elecciones-medio-termino-estados-unidos-416085",
+  "fecha": "2026-11-04T08:25:00-05:00",
+  "palabras": "Internacional,Elon Musk,Donald Trump,Estados Unidos,Elecciones en el exterior",
+  "lead": "Tesla y SpaceX perderían más de US$130.000 millones en valor de mercado tras la victoria demócrata en EE. UU.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
