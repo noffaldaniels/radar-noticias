@@ -706,6 +706,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Menciona que María Eugenia Carreño, exprocuradora delegada, será la viceministra de Diálogo Social.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:59",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Candidaturas en Boyacá: Carlos Amaya busca mantenerse fuerte en la izquierda y preparar su sucesor en la gobernación.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:59",
+   "quien": "Don Rafa Manzano (Corresponsal en Europa)",
+   "que": "Cumbre iberoamericana en Madrid: España logró salvar los muebles de una cumbre sin apenas previsiones y con ausencias de presidentes.",
+   "resaltar": false
   }
  ],
  "avisos": [
