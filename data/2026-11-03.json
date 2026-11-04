@@ -4671,7 +4671,7 @@
   "palabras": "",
   "lead": "Cali tendrá el 100 % de su alumbrado público con tecnología LED, mediante una inversión de $450.000 millones para modernizar 101.037 luminarias e instalar 3.945 puntos nuevos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "IVA, Factura Electrónica, IVA, plazas de mercados",
   "lead": "Dignidad Agropecuaria Colombiana alerta que la devolución del IVA a hogares de bajos ingresos que plantea la Ley de Rescate sería difícil de aplicar para pequeños productores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "Fitch Ratings, Seguros",
   "lead": "La agencia Fitch Ratings otorgó a la compañía la nota BBB- con perspectiva estable, ubicándola en la categoría de grado de inversión por su solidez de capital y desempeño operativo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "WhatsApp, Actualización WhatsApp, Android, iOS, WhatsApp, actualización WhatsApp, chats WhatsApp, programación WhatsApp",
   "lead": "Algunos usuarios ya han compartido videos en donde pueden programar sus mensajes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4715,7 +4715,7 @@
   "palabras": "",
   "lead": "La iniciativa llegó a colegios de Cartagena y Barranquilla",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4726,7 +4726,7 @@
   "palabras": "",
   "lead": "La inteligencia artificial se consolida como la herramienta clave para mitigar la carga administrativa en los consultorios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "",
   "lead": "El hombre linchado José Luis Botero alcanzó a ser llevado a un centro médico de Medellín, pero falleció por los golpes propinados por dos hombres que fueron capturados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "",
   "lead": "La víctima fue encontrada con heridas en sus manos y abdomen",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "",
   "lead": "La octava edición de Xposible Colsubsidio recibió 337 postulaciones de empresas de distintas regiones, con proyectos relacionados con la emergencia climática, la pérdida de biodiversidad y la desigualdad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "",
   "lead": "Los trabajadores del Hospital Francisco Valderrama recibieron heridas en diferentes partes del cuerpo y la agresora tuvo que ser controlada por el personal de vigilancia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "",
   "lead": "Estados Unidos ha implementado controles adicionales para la entrada de extranjeros. Conozca todos los detalles aquí",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "Actualidad,Bogotá,Estados Unidos,Accidente,Aviones",
   "lead": "Las autoridades de EE.UU. conformaron un grupo especial para esclarecer las causas del accidente de la aeronave.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,7 +4803,7 @@
   "palabras": "Entretenimiento,Contenido patrocinado,Vacaciones,Planes vacacionales,Turismo",
   "lead": "Contenido patrocinado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4814,7 +4814,7 @@
   "palabras": "Actualidad,Contenido patrocinado,Medellín, Colombia,hotelería,Turismo",
   "lead": "Contenido patrocinado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4825,7 +4825,7 @@
   "palabras": "Política,Economistas,Proyecto de ley,inversión,Inversiones,Congreso de la República,Senado de la República,Cámara de Representantes,FMI,Abelardo de la Espriella",
   "lead": "El Gobierno busca el apoyo del legislativo para que el FMI vea con buenos ojos un préstamo en el futuro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4836,6 +4836,457 @@
   "palabras": "Sociedad,Barranquilla,Exportaciones,Sectores económicos",
   "lead": "Infraestructura fluvial, portuaria, vial y aeroportuaria para fortalecer la competitividad de la región, fueron los temas presentados por el gobierno.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "3 de noviembre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/3-de-noviembre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-11-03T19:42:56-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 3 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asesinan a un subintendente de policía dentro de un banco en Ariguaní, Magdalena",
+  "enlace": "https://www.bluradio.com/regiones/caribe/asesinan-a-un-subintendente-de-policia-dentro-de-un-banco-en-ariguani-magdalena-rg10",
+  "fecha": "2026-11-03T19:24:43-05:00",
+  "palabras": "Noticias de hoy, Caribe, Policía Nacional, Magdalena",
+  "lead": "La víctima fue identificada en esta ocasión como el subintendente Ángel De Jesús Arrieta Ruiz, adscrito al Departamento de Policía Cesar.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nepal, el destino en Asia que gana terreno en los turistas colombianos",
+  "enlace": "https://www.bluradio.com/turismo/ni-china-ni-japon-el-destino-en-asia-que-gana-terreno-en-los-turistas-colombianos-so35",
+  "fecha": "2026-11-03T19:25:32-05:00",
+  "palabras": "Nepal, Turismo, Viajes, Asia",
+  "lead": "Cada vez más los colombianos agregan a su lista de pendientes un nuevo país o destino, además de ser una gran oportunidad de cambiar la rutina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella endurece frontera con Venezuela: más vigilancia, inteligencia y cooperación",
+  "enlace": "https://www.bluradio.com/nacion/de-la-espriella-endurece-frontera-con-venezuela-mas-vigilancia-inteligencia-y-cooperacion-rg10",
+  "fecha": "2026-11-03T19:26:49-05:00",
+  "palabras": "Abelardo De La Espriella, Frontera Venezuela, Venezuela, Colombia venezuela, frontera con Venezuela, frontera de Colombia, migración, migración en Colombia",
+  "lead": "Según las cifras entregadas por el presidente, entre el 7 de agosto y el 29 de octubre se realizaron 812 deportaciones y expulsiones de extranjeros en todo el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El consejo de Musk en educación: La Nube, programa completo 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/el-consejo-de-musk-en-educacion-la-nube-programa-completo-3-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-03T20:33:40-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 3 de noviembre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El 62 % de votantes en comicios de medio mandato de EEUU están en contra de ataques a Irán",
+  "enlace": "https://www.bluradio.com/mundo/el-62-de-votantes-en-comicios-de-medio-mandato-de-eeuu-estan-en-contra-de-ataques-a-iran-cb20",
+  "fecha": "2026-11-03T19:37:48-05:00",
+  "palabras": "Estados Unidos, Irán",
+  "lead": "Este estudio muestra que el 43 % de los votantes ven en los comicios una oportunidad para expresar su oposición contra el presidente, Donald Trump, quien obtiene una desaprobación del 62 %.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estuvo secuestrada 20 días por su pareja y logró escapar por un vecino; abusó de ella",
+  "enlace": "https://www.bluradio.com/sociedad/estuvo-secuestrada-20-dias-por-su-pareja-y-logro-escapar-por-un-vecino-abuso-de-ella-rs15",
+  "fecha": "2026-11-03T20:36:54-05:00",
+  "palabras": "Viral, Secuestro",
+  "lead": "Ella narró los días de angustia que vivió a manos de su pareja y fue una decisión de un segundo la que le permitió salir del secuestro que estuvo durante 20 días siendo abusada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Destruyen laboratorio de coca al servicio del Clan del Golfo en Valdivia, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/destruyen-laboratorio-de-coca-al-servicio-del-clan-del-golfo-en-valdivia-antioquia-rg10",
+  "fecha": "2026-11-03T20:39:24-05:00",
+  "palabras": "Antioquia, Valdivia, Ejército Nacional, Clan del Golfo, Cocaína",
+  "lead": "El Ejército reportó la incautación de insumos para la producción de estupefacientes y una afectación económica estimada en 70 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "JEP imputó crímenes de guerra y de lesa humanidad contra 11 excomandantes de las Farc",
+  "enlace": "https://caracol.com.co/2026/11/04/jep-imputo-crimenes-de-guerra-y-de-lesa-humanidad-contra-11-excomandantes-de-las-farc/",
+  "fecha": "2026-11-03T20:35:21-05:00",
+  "palabras": "",
+  "lead": "Los crímenes obedecen a hechos que afectaron a la población del Caribe y el Magdalena Medio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministro de Justicia responde a la JEP por recorte presupuestal: “Ellos tampoco son extraordinarios”",
+  "enlace": "https://caracol.com.co/2026/11/04/ministro-de-justicia-responde-a-la-jep-por-recorte-presupuestal-ellos-tampoco-son-extraordinarios/",
+  "fecha": "2026-11-03T15:29:00-05:00",
+  "palabras": "",
+  "lead": "Dijo que ese tribunal especial de paz no es extraordinario y que la situación económica ha afectado a la Corte Suprema de Justicia y no se han sentido perseguidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Violentaron una capilla y se llevaron algunos objetos religiosos en San Pedro de los Milagros",
+  "enlace": "https://caracol.com.co/2026/11/04/violentaron-una-capilla-y-se-llevaron-algunos-objetos-religiosos-en-san-pedro-de-los-milagros/",
+  "fecha": "2026-11-03T19:37:11-05:00",
+  "palabras": "",
+  "lead": "Entre los objetos hurtados está un misal utilizado para realizar las eucaristías, además de otros objetos de una cocina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "María C. Lacouture analizó el poder del Congreso de EE.UU. y sus efectos en la relación con Colombia",
+  "enlace": "https://caracol.com.co/2026/11/04/maria-c-lacouture-analizo-el-poder-del-congreso-de-eeuu-y-sus-efectos-en-la-relacion-con-colombia/",
+  "fecha": "2026-11-03T20:02:20-05:00",
+  "palabras": "",
+  "lead": "María Claudia Lacouture, presidente de la AmCham afirmó que el Congreso es ese contrapeso en ciertas áreas que son importantes para Colombia y que le genera un equilibrio en temas como cooperación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Puede reclamar una herencia después de 10, 20 o 30 años en Colombia 2026? Art.1326 del Código Civil",
+  "enlace": "https://caracol.com.co/2026/11/04/puede-reclamar-una-herencia-despues-de-10-20-o-30-anos-en-colombia-2026-art1326-del-codigo-civil/",
+  "fecha": "2026-11-03T20:28:02-05:00",
+  "palabras": "",
+  "lead": "El proceso de herencia aplica cuando una persona fallece y tanto sus propiedades, como sus bienes, entran en proceso de sucesión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué es el ‘gerrymandering’ y cómo influiría en resultados de ‘midterms’ de EE.UU.? Hablan analistas",
+  "enlace": "https://caracol.com.co/2026/11/04/que-es-el-gerrymandering-y-como-influiria-en-resultados-de-midterms-de-eeuu-hablan-analistas/",
+  "fecha": "2026-11-03T20:14:18-05:00",
+  "palabras": "",
+  "lead": "Varios analistas expresaron su posición sobre este asunto que se ha convertido en uno de los más relevantes en estas elecciones intermedias de Estados Unidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué pagos y obligaciones vencen en noviembre de 2026 en Colombia? Esto dice la DIAN",
+  "enlace": "https://caracol.com.co/2026/11/04/que-pagos-y-obligaciones-vencen-en-noviembre-de-2026-en-colombia-esto-dice-la-dian/",
+  "fecha": "2026-11-03T20:16:10-05:00",
+  "palabras": "",
+  "lead": "Recuerde que de no cumplir con estas obligaciones, la entidad podrá incurrir en fuertes sanciones. Conozca qué debe pagar este mes",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Coosalud vuelve a manos de sus antiguos directivos: terminó la intervención de la Supersalud",
+  "enlace": "https://caracol.com.co/2026/11/04/coosalud-vuelve-a-manos-de-sus-antiguos-directivos-termino-la-intervencion-de-la-supersalud/",
+  "fecha": "2026-11-03T19:41:55-05:00",
+  "palabras": "",
+  "lead": "El interventor entregó la EPS en cumplimiento de una orden del Tribunal Administrativo de Bolívar. La entidad estaba bajo intervención estatal desde noviembre de 2024 y tiene más de 3,3 millones de afiliados en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Tayrona abrió nuevamente sus puertas: Santa Marta espera el regreso de miles de turistas",
+  "enlace": "https://caracol.com.co/2026/11/04/el-tayrona-abrio-nuevamente-sus-puertas-santa-marta-espera-el-regreso-de-miles-de-turistas/",
+  "fecha": "2026-11-03T20:11:08-05:00",
+  "palabras": "",
+  "lead": "El área protegida recibió nuevamente visitantes nacionales y extranjeros este martes 3 de noviembre, luego del último cierre programado del año. La reapertura genera expectativas entre los operadores turísticos de cara a la temporada de fin de año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinEducación niega que el Gobierno busque acabar con el FOMAG y descarta derogar la ley que lo creó",
+  "enlace": "https://caracol.com.co/2026/11/04/mineducacion-niega-que-el-gobierno-busque-acabar-con-el-fomag-y-descarta-derogar-la-ley-que-lo-creo/",
+  "fecha": "2026-11-03T20:10:38-05:00",
+  "palabras": "",
+  "lead": "El pronunciamiento se conoce en medio de las dudas que ha generado entre los docentes el cambio en la administración del Fondo del Magisterio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ley de Rescate Fiscal: estos son los productos que podrían pasar del 5% al 19% de IVA para el 2028",
+  "enlace": "https://caracol.com.co/2026/11/04/ley-de-rescate-fiscal-estos-son-los-productos-que-podrian-pasar-del-5-al-19-de-iva-para-el-2028/",
+  "fecha": "2026-11-03T20:01:26-05:00",
+  "palabras": "",
+  "lead": "El proyecto de Ley de Rescate Económico o Fiscal propone aplicar un IVA a diversos alimentos de la canasta familiar a partir de 2028, una medida que aún debe ser debatida y aprobada en el Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Johnny Depp dijo que regresaría como Jack Sparrow en “Piratas del Caribe 6” por una razón: ¿Cuál es?",
+  "enlace": "https://caracol.com.co/2026/11/04/johnny-depp-dijo-que-regresaria-como-jack-sparrow-en-piratas-del-caribe-6-por-una-razon-cual-es/",
+  "fecha": "2026-11-03T20:00:24-05:00",
+  "palabras": "",
+  "lead": "Lo único en lo que realmente quiero participar, sinceramente, es en ayudar a que la saga tenga un mejor desenlace\", afirmó el actor estadounidense.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados de las loterías de Cundinamarca, Tolima, ColorLoto y Baloto Revancha HOY 03 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/04/resultados-de-las-loterias-de-cundinamarca-tolima-colorloto-y-baloto-revancha-hoy-03-de-noviembre/",
+  "fecha": "2026-11-03T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Conozca los resultados y los números ganadores de los premios que entregan las loterías de Cundinamarca, Tolima, ColorLoto y Baloto Revancha para este martes 3 de noviembre.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Se puede perdonar una infidelidad y ser feliz? | Ana, Sin Límites",
+  "enlace": "https://caracol.com.co/2026/11/04/se-puede-perdonar-una-infidelidad-y-ser-feliz-ana-sin-limites/",
+  "fecha": "2026-11-03T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Ana Vargas debate con Marcela Puentes y Juan Diego Alvira sobre la posibilidad de perdonar una infidelidad e intentar ser feliz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a mujeres señaladas de hurtar un bolso con $500.000 en efectivo en el Malecón del Río",
+  "enlace": "https://caracol.com.co/2026/11/04/capturan-a-mujeres-senaladas-de-hurtar-un-bolso-con-500000-en-efectivo-en-el-malecon-del-rio/",
+  "fecha": "2026-11-03T19:52:01-05:00",
+  "palabras": "",
+  "lead": "La Policía les halló a las mujeres un bolso que antes había sido reportado como hurtado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Senado reeligió a Astrid Salamanca como su directora administrativa",
+  "enlace": "https://caracol.com.co/2026/11/04/senado-reeligio-a-astrid-salamanca-como-su-directora-administrativa/",
+  "fecha": "2026-11-03T19:33:51-05:00",
+  "palabras": "",
+  "lead": "La funcionaria recibió el respaldo de 96 senadores contra un voto en blanco.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Búsqueda de menor desaparecido en el río Magdalena se extiende a varias playas del Atlántico",
+  "enlace": "https://caracol.com.co/2026/11/04/busqueda-de-menor-desaparecido-en-el-rio-magdalena-se-extiende-a-varias-playas-del-atlantico/",
+  "fecha": "2026-11-03T19:42:16-05:00",
+  "palabras": "",
+  "lead": "El menor de 13 años desapareció el 31 de octubre debajo del antiguo puente Pumarejo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno denuncia intimidaciones contra Carlos Ríos tras revelaciones sobre gobierno Petro",
+  "enlace": "https://caracol.com.co/2026/11/04/gobierno-denuncia-intimidaciones-contra-carlos-rios-tras-revelaciones-sobre-gobierno-petro/",
+  "fecha": "2026-11-03T19:11:22-05:00",
+  "palabras": "",
+  "lead": "El director del Dapre, denunció ante el Congreso, graves irregularidades contractuales durante el gobierno anterior.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tristeza en el Quindío por la muerte de un mono aullador, autoridad ambiental realiza llamado",
+  "enlace": "https://caracol.com.co/2026/11/04/tristeza-en-el-quindio-por-la-muerte-de-un-mono-aullador-autoridad-ambiental-realiza-llamado/",
+  "fecha": "2026-11-03T19:36:37-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con los análisis correspondientes, la alimentación inadecuada por parte de humanos habría causado la muerte",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tras jalón de orejas, bancada de Centro Democrático se reunirá con el expresidente Uribe este jueves",
+  "enlace": "https://caracol.com.co/2026/11/04/tras-jalon-de-orejas-bancada-de-centro-democratico-se-reunira-con-el-expresidente-uribe-este-jueves/",
+  "fecha": "2026-11-03T19:34:35-05:00",
+  "palabras": "",
+  "lead": "En el encuentro se hablará de la agenda legislativa del Gobierno, la reforma tributaria y el llamado de atención que hizo Uribe este martes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ANI sigue evaluando la iniciativa privada para la operación del aeropuerto Ernesto Cortissoz",
+  "enlace": "https://caracol.com.co/2026/11/04/ani-sigue-evaluando-la-iniciativa-privada-para-la-operacion-del-aeropuerto-ernesto-cortissoz/",
+  "fecha": "2026-11-03T19:34:29-05:00",
+  "palabras": "",
+  "lead": "La ministra de Transporte, Elsa Noguera indicó que Barranquilla necesita una solución a largo plazo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente De La Espriella lanza campaña ‘Esparta’ y ordena ofensiva en el Catatumbo",
+  "enlace": "https://caracol.com.co/2026/11/04/presidente-de-la-espriella-lanza-campana-esparta-y-ordena-ofensiva-en-el-catatumbo/",
+  "fecha": "2026-11-03T19:28:57-05:00",
+  "palabras": "",
+  "lead": "La operación busca golpear al ELN y la disidencia de las Farc, reforzar los controles fronterizos y recuperar el control territorial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pierce Brosnan dio su visto bueno a Callum Turner, esposo de Dua Lipa, como el siguiente James Bond",
+  "enlace": "https://caracol.com.co/2026/11/04/pierce-brosnan-dio-su-visto-bueno-a-callum-turner-esposo-de-dua-lipa-como-el-siguiente-james-bond/",
+  "fecha": "2026-11-03T19:24:27-05:00",
+  "palabras": "",
+  "lead": "“Es un actor con mucha fuerza”, comentó el irlandés.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La próxima semana se firma el convenio para deconstrucción del antiguo puente Pumarejo",
+  "enlace": "https://caracol.com.co/2026/11/04/la-proxima-semana-se-firma-el-convenio-para-deconstruccion-del-antiguo-puente-pumarejo/",
+  "fecha": "2026-11-03T19:22:07-05:00",
+  "palabras": "",
+  "lead": "La firma será entre la Alcaldía de Barranquilla y el INVÍAS por $160.800 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá busca fortalecer a 1,5 millones de emprendedores con nuevo sistema de apoyo empresarial",
+  "enlace": "https://caracol.com.co/2026/11/04/bogota-busca-fortalecer-a-15-millones-de-emprendedores-con-nuevo-sistema-de-apoyo-empresarial/",
+  "fecha": "2026-11-03T19:18:40-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía radicó ante el Concejo de Bogotá el proyecto que crea el Sistema Distrital de Emprendimiento (SIDEM), una estrategia que busca facilitar el acceso a la formación, finnaciación y nuevos mercados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump proclama la “semana anticomunista” mientras cierran primeros colegios electorales",
+  "enlace": "https://caracol.com.co/2026/11/04/trump-proclama-la-semana-anticomunista-mientras-cierran-primeros-colegios-electorales/",
+  "fecha": "2026-11-03T19:15:09-05:00",
+  "palabras": "",
+  "lead": "El presidente de Estados Unidos, Donald Trump, proclamó este martes la “Semana Anticomunista” del 1 al 7 de noviembre, coincidiendo con el inicio del cierre de los primeros colegios electorales en las elecciones legislativas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Millonarios vs. América: fecha, hora y lo que está en juego en el partidazo de la fecha 17",
+  "enlace": "https://caracol.com.co/2026/11/04/millonarios-vs-america-fecha-hora-y-lo-que-esta-en-juego-en-el-partidazo-de-la-fecha-17/",
+  "fecha": "2026-11-03T19:13:47-05:00",
+  "palabras": "",
+  "lead": "El Campín recibe un duelo clave para las aspiraciones de ambos equipos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "EEUU cuenta los votos en elecciones legislativas decisivas",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-estados-unidos-conteo-de-votos-decisivas-trump-416052",
+  "fecha": "2026-11-03T20:27:00-05:00",
+  "palabras": "Internacional,Donald Trump,Elecciones en el exterior,Estados Unidos,Nueva York,Casa Blanca",
+  "lead": "Los votantes podrían tardar días en conocer su veredicto electoral. Trump enfrenta la peor cota de popularidad de un presidente a mitad de mandato.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los secretos del meteorito más antiguo de Marte",
+  "enlace": "https://www.lafm.com.co/sociedad/cientificos-revelan-detalles-meteorito-mas-antigua-de-marte-416048",
+  "fecha": "2026-11-03T19:48:00-05:00",
+  "palabras": "Sociedad,Astronomía,Marte,Meteorito,Ciencia,Estudio,Científicos",
+  "lead": "La ciencia avanza en el conocimiento del origen de nuestro sistema solar, y este meteorito representa un gran apoyo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seguridad en frontera e inteligencia apuestas del gobierno",
+  "enlace": "https://www.lafm.com.co/orden-publico/catatumbo-seguridad-frontera-abelardo-inteligencia-416046",
+  "fecha": "2026-11-03T19:24:00-05:00",
+  "palabras": "Orden Público,Abelardo de la Espriella,Cúcuta,Catatumbo,ELN,Disidentes de las Farc,Militares",
+  "lead": "El presidente Abelardo De la Espriella activó el plan Esparta en Cúcuta y pide intensificar operaciones contra el ELN y disidencias de las FARC",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tragedia ferroviaria en España: ministro de Transportes dimite",
+  "enlace": "https://www.lafm.com.co/internacional/accidente-ferroviario-espana-dimision-ministro-de-transportes-416045",
+  "fecha": "2026-11-03T19:12:00-05:00",
+  "palabras": "Internacional,España,Pedro Sánchez,Tren,Accidente",
+  "lead": "El ministro Puente había descartado en varias ocasiones dejar su puesto tras los dos graves accidentes de tren en menos de un año.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Renunció uno de los candidatos a la presidencia de la ANDI",
+  "enlace": "https://www.lafm.com.co/economia/carlos-hart-renuncia-a-la-carrera-por-la-andi-416044",
+  "fecha": "2026-11-03T19:08:00-05:00",
+  "palabras": "Economía,ANDI,Candidatos,Gremio",
+  "lead": "En una carta a las directivas del gremio pidió a la junta “defender la independencia “",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La mujer que sobrevivió a dos accidentes de trenes en España",
+  "enlace": "https://www.lafm.com.co/internacional/la-mujer-que-sobrevivio-a-dos-accidentes-de-trenes-en-espana-416038",
+  "fecha": "2026-11-03T18:01:00-05:00",
+  "palabras": "Internacional,Tren,Accidente,España,Historia,Europa,Sobreviviente",
+  "lead": "El suceso provocó desconfianza en el sistema; así como manifestaciones en contra del Gobierno español.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
