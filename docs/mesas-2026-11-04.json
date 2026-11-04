@@ -146,6 +146,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Según Pure Research, el 53% de los latinos respaldó candidaturas demócratas en esta elección de medio mandato.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:49",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El gobierno de Estados Unidos, tras el desembarco en Washington, ha mantenido conversaciones con los demócratas, marcando un giro en su relación con Colombia con el advenimiento de las mayorías demócratas en Senado, Cámara y gobernaciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:49",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Jornada de incertidumbre económica: El dólar arranca a las 08:00 AM en 3.235 euros y 3.622 pesos en la Bolsa de Valores de Colombia con tendencia al alza; el índice Colcap (MSCI) se recupera en 2.527 puntos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:49",
+   "quien": "Senador Hernán Cavid",
+   "que": "El senador del Centro Democrático Hernán Cavid fue uno de los líderes en la aprobación de la ley de sometimiento que pone punto final a la política de paz total del expresidente Gustavo Petro y a la práctica de tapizar de gabelas a responsables de crímenes de lesa humanidad con acuerdos como si fueran pares.",
+   "resaltar": true
   }
  ],
  "avisos": []
