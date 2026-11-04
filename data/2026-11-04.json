@@ -788,7 +788,7 @@
   "palabras": "Halloween, Itagüí, Policía Nacional, Noticias de hoy",
   "lead": "Autoridades en el municipios investigan y piden a los padres revisar los confites que recibieron sus hijos durante el fin de semana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Transmilenio, Desaparecidos",
   "lead": "La mujer, llamó a su familia desde la estación Universidades y dijo que se dirigía al portal de Suba.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "La investigación, conducida bajo la correlatoría de la magistrada Julieta Lemaitre Ripoll, determinó que los 11 comparecientes son máximos responsables de crímenes de guerra como homicidio, desplazamiento forzado, dirigir intencionalmente ataques contra la población civil y bienes protegidos,…",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "De acuerdo con la información preliminar, dos hombres que se movilizaban en una motocicleta habrían lanzado un artefacto explosivo contra las instalaciones del peaje.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "Por eso son claves las reuniones que ha emprendido el gobierno del presidente Abelardo De La Espriella con diferentes sectores políticos, incluyendo alcaldes, gobernadores y congresistas, para que todos entiendan la magnitud del lío fiscal que afronta el país y la necesidad de trabajar…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "Operación “Némesis” adelantada por la fuerza pública",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "La estrategia de la Gobernación busca transformar prácticas culturales, prevenir distintas formas de violencia y promover la participación política femenina. La primera jornada será en Sogamoso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "La Confederación advirtió sobre agencias, intermediarios y plataformas que ofrecen entradas y paquetes turísticos sin autorización para el partido decisivo del torneo, e instó a los aficionados a comprar únicamente por los canales oficiales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "La Justicia Penal Militar investiga las circunstancias de la explosión que dejó a los uniformados lesionados.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "Presidente compromete mayores acciones estratégicas con Venezuela",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "Se estableció que las actividades generaron afectaciones a los recursos aire, suelo, agua, flora, fauna y paisaje",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "El presidente argentino, Javier Milei, está en el punto de mira por la Cumbre Iberoamericana que compartirá con Pedro Sánchez.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "Con velas encendidas y camisetas blancas pidieron además apoyo del Gobierno Nacional para enfrentar la crisis que en materia de seguridad vive el sur del departamento.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "Según la información entregada por las autoridades, esta persona estaría bajo las órdenes de alias ‘Comando 74′ y alias ‘Barbas’, cabecillas de zona, cumpliendo el rol de cobro de extorsiones a comerciantes del sector turístico y mercado público de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "El 19 de noviembre se conocerá quién será el nuevo rector",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "Política,Gobierno,Embajadores,Estados Unidos,Elecciones en el exterior",
   "lead": "Por el lado republicano, Quinn mencionó a Victor Cervino, de Relaciones Exteriores del Senado, así como a Paul Grove y Paul Denaro, del Comité de Apropiaci...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "Orden Público,Peajes,ataque explosivo,Valle del Cauca",
   "lead": "De acuerdo con la información proporcionada por el Departamento de Policía Valle, este hecho tuvo lugar hacia las 03:45 de la mañana de este miércoles 4 de...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -985,6 +985,149 @@
   "fecha": "2026-11-04T06:24:00-05:00",
   "palabras": "Internacional,Estados Unidos,Texas,Política internacional,Votaciones",
   "lead": "Los demócratas recuperaron el control del estado plenamente tras 32 años.",
+  "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Preocupante aumento de muertes de motociclistas en las vías de Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/preocupante-aumento-de-muertes-de-motociclistas-en-las-vias-de-bucaramanga-rg10",
+  "fecha": "2026-11-04T07:18:19-05:00",
+  "palabras": "Blu Radio, Accidente de tránsito, Motociclistas , Santander",
+  "lead": "Entre enero y septiembre de 2026 murieron 46 motociclistas en accidentes de tránsito en Bucaramanga, un aumento del 70 % frente al mismo periodo de 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias mantienen en alerta por deslizamientos a 50 municipios de Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/lluvias-mantienen-en-alerta-por-deslizamientos-a-50-municipios-de-santander-rg10",
+  "fecha": "2026-11-04T07:19:24-05:00",
+  "palabras": "Emergencias por lluvias, Lluvias en Colombia, Santander, Bucaramanga, Río Magdalena, Floridablanca, UNGRD, Blu Radio, Noticias de hoy, Santander",
+  "lead": "Las autoridades mantienen el seguimiento a las condiciones climáticas y recomiendan especial precaución a quienes transitan por corredores viales de Santander.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Vamos a ayudarlos a retomar el país”: Bukele se dirige a los haitianos",
+  "enlace": "https://caracol.com.co/2026/11/04/vamos-a-ayudarlos-a-retomar-el-pais-bukele-se-dirige-a-los-haitianos/",
+  "fecha": "2026-11-04T07:21:31-05:00",
+  "palabras": "",
+  "lead": "Las declaraciones se dan en el contexto del despliegue de 2.000 soldados salvadoreños en Haití, enviados por Nayib Bukele.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“A Trump se le va a complicar mucho la presidencia en términos internacionales”: Israel Ortega",
+  "enlace": "https://caracol.com.co/2026/11/04/a-trump-se-le-va-a-complicar-mucho-la-presidencia-en-terminos-internacionales-israel-ortega/",
+  "fecha": "2026-11-04T07:00:43-05:00",
+  "palabras": "",
+  "lead": "Israel Ortega, quien fue asesor legislativo en el Congreso de los Estados explicó en 6AM W qué es la “ola azul” y cómo se puede interpretar el triunfo histórico de los demócratas en Estados Unidos.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden a Cancillería investigar presuntos malos tratos en Misión ante ONU que lidera embajador Gaona",
+  "enlace": "https://caracol.com.co/2026/11/04/piden-a-cancilleria-investigar-presuntos-malos-tratos-en-mision-ante-onu-que-lidera-embajador-gaona/",
+  "fecha": "2026-11-04T07:08:34-05:00",
+  "palabras": "",
+  "lead": "Unidiplo solicitó a la Cancillería investigar las denuncias de abuso de poder y malos tratos que habrían afectado a funcionarios de la Misión ante la ONU",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asodiplo rechaza convocatoria de Presidencia para ser embajador: piden a diplomáticos abstenerse",
+  "enlace": "https://caracol.com.co/2026/11/04/asodiplo-rechaza-convocatoria-de-presidencia-para-ser-embajador-piden-a-diplomaticos-abstenerse/",
+  "fecha": "2026-11-04T07:18:07-05:00",
+  "palabras": "",
+  "lead": "Asodiplo también pidió al Gobierno De la Espriella que la asignación de jefaturas de misión sea con criterios y puntajes definidos públicamente.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este sábado habrá una nueva “Donatón” contra el hambre en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/04/este-sabado-habra-una-nueva-donaton-contra-el-hambre-en-medellin/",
+  "fecha": "2026-11-04T07:12:50-05:00",
+  "palabras": "",
+  "lead": "En la jornada se recibirán alimentos no perecederos y donaciones en dinero que se destinarán para apoyar a las familias que lo necesitan.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Después de cinco meses logran captura de presunto feminicida",
+  "enlace": "https://caracol.com.co/2026/11/04/despues-de-cinco-meses-logran-captura-de-presunto-feminicida/",
+  "fecha": "2026-11-04T07:06:11-05:00",
+  "palabras": "",
+  "lead": "El hecho se registró el 10 de mayo de 2026 en el barrio María Paz de la localidad de Kennedy.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comercio de Pereira lanza nuevo SOS al Gobierno: más de 6.000 empleos se habrían perdido",
+  "enlace": "https://caracol.com.co/2026/11/04/comercio-de-pereira-lanza-nuevo-sos-al-gobierno-mas-de-6000-empleos-se-habrian-perdido/",
+  "fecha": "2026-11-04T07:06:13-05:00",
+  "palabras": "",
+  "lead": "A casi tres meses del terremoto, los comerciantes aseguran que las ayudas prometidas aún no llegan y advierten sobre las dificultades que enfrenta el sector para recuperarse.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos muertos, una mujer herida y un capturado por ataques sicariales en Armenia y Génova en Quindío",
+  "enlace": "https://caracol.com.co/2026/11/04/dos-muertos-una-mujer-herida-y-un-capturado-por-ataques-sicariales-en-armenia-y-genova-en-quindio/",
+  "fecha": "2026-11-04T07:01:33-05:00",
+  "palabras": "",
+  "lead": "Los hechos se registraron en las últimas horas en dos casos aislados en el departamento del Quindío",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinaron a un adolescente de 16 años en Concordia, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/04/asesinaron-a-un-adolescente-de-16-anos-en-concordia-antioquia/",
+  "fecha": "2026-11-04T06:58:17-05:00",
+  "palabras": "",
+  "lead": "Las autoridades investigan posible instrumentalización de un grupo armado en el Suroeste.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fedegán y MinAgricultura: detalles del roce durante reunión",
+  "enlace": "https://www.lafm.com.co/politica/ministro-de-agricultura-y-su-roce-con-el-presidente-de-fedegan-detalles-416074",
+  "fecha": "2026-11-04T07:00:00-05:00",
+  "palabras": "Política,Fedegan,Ministerio de agricultura,Abelardo de la Espriella",
+  "lead": "La FM conoció detalles de la reunión en la que el ministro de Agricultura le habría pedido a Lafaurie retirarse tras cuestionar los recursos del Fondo Naci...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Trump felicita a los demócratas y parece estar dispuesto a trabajar con ellos",
+  "enlace": "https://www.lafm.com.co/internacional/donald-trump-mensaje-conciliador-partido-democrata-elecciones-estados-unidos-416071",
+  "fecha": "2026-11-04T06:54:00-05:00",
+  "palabras": "Internacional,Donald Trump,Elecciones en el exterior,Estados Unidos",
+  "lead": "Sin embargo, el presidente publicó una imagen en sus redes sociales con una gorra que tenía la frase: \"veto\".",
   "seccion": "internacional",
   "nueva": true,
   "tambien": []
