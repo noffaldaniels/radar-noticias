@@ -188,6 +188,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Una vez aprobada contra el tiempo la ley de sometimiento en el Congreso, el gobierno del presidente Abelardo de la Espriella tendrá que concentrar sus esfuerzos en sacar adelante una ambiciosa agenda legislativa.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:49",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "El Servicio Geológico Colombiano tiene listo el informe técnico sobre los más de 1.600 movimientos telúricos reportados desde el 20 de septiembre en el sur del departamento, especialmente en el cañón de las Hermosas y la zona de Davis, con sismos que han alcanzado hasta 5.6 en la escala de Richter.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:49",
+   "quien": "Juan Carlos De Hart, ex precandidato presidencial de la Andi y empresario",
+   "que": "Formuló críticas al proyecto de ley de rescate económico del Gobierno nacional, reconociendo la necesidad de efectuar la fe de errata a las cargas impositivas al agro, recordando que la familia De Hart está muy ligada a la producción de palma de aceite en el Cesar, y advirtiendo sobre la necesidad de cuidar a los ciudadanos trabajadores y empresas.",
+   "resaltar": false
   }
  ],
  "avisos": []
