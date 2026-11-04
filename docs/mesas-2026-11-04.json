@@ -391,6 +391,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El Congreso debate la ley de sometimiento mientras se cuestionan los incentivos y plazos para los criminales.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:20",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se discutió la falta de facturación electrónica por condiciones de infraestructura tecnológica en muchas regiones del país.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:21",
+   "quien": "Dr. Cabal, Presidente de Fenalco",
+   "que": "Cabal advirtió que el IVA y aranceles a plataformas de comercio electrónico como Temu y Shein afectarán al consumidor final al trasladar la incompetencia de la industria nacional al costo de lo que consumen los colombianos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:21",
+   "quien": "Dr. Cabal, Presidente de Fenalco",
+   "que": "Cabal señaló que en el primer trimestre del 25 entraron 12.4 millones de paquetes con mercancías valoradas por debajo de 200 dólares, evidenciando procesos de subfacturación que afectan la equidad frente a empresas nacionales que quiebran y despiden personal.",
+   "resaltar": false
   }
  ],
  "avisos": []
