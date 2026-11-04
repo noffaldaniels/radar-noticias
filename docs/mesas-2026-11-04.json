@@ -244,6 +244,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Todo menor reclutado se considera víctima, siendo las primeras en Colombia, y se incluirá en el proyecto de ley un apartado especial para protegerlas bajo la ley de víctimas.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:51",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Analizó el impacto del triunfo de Donald Trump en las relaciones de Estados Unidos con los países en conflicto, señalando que podría reducir o eliminar la ayuda militar a Israel y complicar la política exterior.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:51",
+   "quien": "Israel Ortega, exasesor legislativo en EE. UU.",
+   "que": "Explicó que la política exterior de Trump y los demócratas hacia Irán y Medio Oriente será complicada, y advirtió sobre los desafíos en la economía estadounidense debido a la inflación y el costo de vida.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:55",
+   "quien": "Israel Ortega, exasesor legislativo en EE. UU.",
+   "que": "Señaló que la derrota de los demócratas en las elecciones de medio término y el impacto en Texas reflejan un cambio en el electorado y desafíos económicos para el gobierno actual.",
+   "resaltar": true
   }
  ],
  "avisos": []
