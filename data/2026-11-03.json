@@ -5298,7 +5298,7 @@
   "palabras": "Ley de sometimiento, Senado de la República",
   "lead": "La votación se produjo después de varias horas de discusión y enfrentamientos entre el oficialismo y la oposición, que cuestionó los beneficios judiciales contemplados en la iniciativa.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5309,7 +5309,7 @@
   "palabras": "Elecciones Estados Unidos, Estados Unidos, Donald Trump, Entrevista, Colombia, colombia estados unidos, elecciones de medio término, elecciones democratas, elecciones en Estados Unidos, elecciones republicanos",
   "lead": "Las elecciones de medio término en Estados Unidos podrían cambiar la distribución del Congreso y Cámara entre demócratas y republicanos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5320,7 +5320,7 @@
   "palabras": "Viral, Reino Unido",
   "lead": "Logró esta hazañada caminando pasando por sitios como la selva del Darién, el estrecho de Bering sobre el hielo y nadó por el mar Caspio y el Canal de la Mancha.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5331,7 +5331,7 @@
   "palabras": "Dapre, Presidencia de la República",
   "lead": "La Presidencia denunció la presencia de extraños con antecedentes por homicidio en la vivienda de Carlos Ríos, días después de revelar presuntas irregularidades contractuales en el gobierno anterior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5342,7 +5342,7 @@
   "palabras": "",
   "lead": "Mientras el Dadep adelanta acciones para recuperar el control de 435 locales que no han sido transferidos, comerciantes cuestionan los procedimientos y reclaman la escrituración de sus propiedades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5353,7 +5353,7 @@
   "palabras": "",
   "lead": "El antioqueño dejó unas sentidas palabras agradeciendo a todos los que lo acompañaron en su trayectoria.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5364,7 +5364,7 @@
   "palabras": "",
   "lead": "La falta de recursos para atender la creciente demanda de procesos judiciales en Bogotá encendió las alertas del Tribunal que pidió al Gobierno Nacional adoptar medidas presupuestales para fortalecer la administración de justicia y avanzar en la descongestión de los despachos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5375,7 +5375,7 @@
   "palabras": "",
   "lead": "El Ministerio salió a precisar que los pagos a los prestadores y proveedores de salud continuarán sin interrupciones, luego de las dudas que generó el aplazamiento del nuevo mecanismo de reporte de información a la ADRES.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5386,7 +5386,7 @@
   "palabras": "",
   "lead": "Pilas, baterías, bombillas, llantas y aparatos electrónicos hicieron parte de los elementos entregados por ciudadanos y empresas para evitar que terminaran contaminando el medio ambiente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5397,7 +5397,7 @@
   "palabras": "",
   "lead": "El analista político Luis Fernando Atencio, comentó el panorama de la relación con Venezuela si llegase a tener mayoría los demócratas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5408,7 +5408,7 @@
   "palabras": "",
   "lead": "El equipo cordobés perdió 1-0 y podría perder la categoría este mismo miércoles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5419,7 +5419,7 @@
   "palabras": "",
   "lead": "La convocatoria para el cuarto contingente de 2026 está dirigida a hombres y mujeres entre los 18 y los 24 años. De las plazas disponibles, 136 están destinadas para mujeres.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5430,7 +5430,7 @@
   "palabras": "",
   "lead": "Los sucesos violentos registrados en los municipios de La Sierra, Balboa y Totoró, Cauca dejaron cinco personas afectadas y fueron atribuidos a las disidencias de las Farc.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5441,7 +5441,7 @@
   "palabras": "Sociedad,Lotería de Cundinamarca,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
   "lead": "Ya puede consultar el número ganador del premio mayor este martes 3 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5452,7 +5452,7 @@
   "palabras": "Deportes,Copa Libertadores,Fútbol femenino,Independiente Santa Fe,Independiente Santa Fe Femenino,Colombia,Fútbol",
   "lead": "La capitana de 'las leonas' hizo una evaluación del rendimiento del equipo en el torneo internacional.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5463,7 +5463,7 @@
   "palabras": "Orden Público,Día de la Madre,Día del Padre,Policía Nacional",
   "lead": "Aproximadamente 1.200 hombres integran las operaciones desplegadas para garantizar la seguridad en Norte de Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5474,6 +5474,138 @@
   "palabras": "Economía,Ministerio de Educación,Fomag,Maestros,Salud",
   "lead": "Fondo seguirá en pie durante la transición que pone fin a 36 años de administración de la Fiduprevisora.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:43:07-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche realiza su sorteo todos los días a las 8:30 p. m. Este martes 3 de noviembre de 2026 los apostadores pueden consultar las cifras ganadoras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:43:18-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Este martes 3 de noviembre de 2026 los jugadores pueden consultar los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:43:27-05:00",
+  "palabras": "Super Astro Luna",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Este martes 3 de noviembre de 2026 los jugadores pueden consultar el resultado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Cundinamarca, resultados del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-cundinamarca-resultados-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:43:37-05:00",
+  "palabras": "Lotería de Cundinamarca, Resultado de loterías de hoy",
+  "lead": "La Lotería de Cundinamarca realizó este martes 3 de noviembre de 2026 el sorteo 4827. Consulte aquí el número ganador del premio mayor, las series y los premios secos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Tolima, resultados del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-tolima-resultados-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:43:46-05:00",
+  "palabras": "Lotería del Tolima, Resultado de loterías de hoy",
+  "lead": "Resultados completos del sorteo 4194 de la Lotería del Tolima, que juega este martes 3 de noviembre un premio mayor de $3.500 millones.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de la Cruz Roja, resultados del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-la-cruz-roja-resultados-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:44:16-05:00",
+  "palabras": "Lotería de la Cruz Roja, Resultado de loterías de hoy",
+  "lead": "La Lotería de la Cruz Roja juega este martes por un premio mayor de $10.000 millones. Consulte los resultados completos del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Huila, resultados del último sorteo hoy martes 3 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-huila-resultados-del-ultimo-sorteo-hoy-martes-3-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-03T21:45:31-05:00",
+  "palabras": "Lotería del Huila, Resultado de loterías de hoy",
+  "lead": "La Lotería del Huila realiza este martes un nuevo sorteo por un premio mayor de $2.000 millones. Consulte los resultados completos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cinco presuntos integrantes de las disidencias se entregaron a la Armada Nacional en el Cauca",
+  "enlace": "https://caracol.com.co/2026/11/04/cinco-presuntos-integrantes-de-las-disidencias-se-entregaron-a-la-armada-nacional-en-el-cauca/",
+  "fecha": "2026-11-03T16:20:00-05:00",
+  "palabras": "",
+  "lead": "Las autoridades resaltaron que el sometimiento restringe el accionar delictivo de este grupo armado en las localidades de la costa pacífica del Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Taxistas piden investigar irregularidades tras muerte de miembro de la ‘Cuadrilla del Alcalde’",
+  "enlace": "https://caracol.com.co/2026/11/04/taxistas-piden-investigar-irregularidades-tras-muerte-de-miembro-de-la-cuadrilla-del-alcalde/",
+  "fecha": "2026-11-03T21:34:31-05:00",
+  "palabras": "",
+  "lead": "Sincontaxcar expresó sus condolencias y solicitó esclarecer las condiciones del vehículo involucrado",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque informático afecta la plataforma de Pico y Placa Solidario: estas son las recomendaciones",
+  "enlace": "https://caracol.com.co/2026/11/04/ataque-informatico-afecta-la-plataforma-de-pico-y-placa-solidario-estas-son-las-recomendaciones/",
+  "fecha": "2026-11-03T21:30:00-05:00",
+  "palabras": "",
+  "lead": "El incidente ya fue contenido y, aunque el trámite continúa habilitado, la entidad pide a los ciudadanos tomar precauciones para evitar posibles fraudes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Gran Malecón del Mar recibió más de 14.000 visitantes en su primer fin de semana",
+  "enlace": "https://caracol.com.co/2026/11/04/el-gran-malecon-del-mar-recibio-mas-de-14000-visitantes-en-su-primer-fin-de-semana/",
+  "fecha": "2026-11-03T21:26:45-05:00",
+  "palabras": "",
+  "lead": "Cartageneros y turistas disfrutaron del primer tramo entre Playa Azul y Crespo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "David Ospina se retira del fútbol: así lo anunció",
+  "enlace": "https://www.lafm.com.co/deportes/david-ospina-se-retira-del-futbol-profesional-416057",
+  "fecha": "2026-11-03T21:26:00-05:00",
+  "palabras": "Deportes,David Ospina,Colombia,Selección Colombia,Atlético Nacional,Arquero",
+  "lead": "El golero colombiano tiene historia con la Selección, es el hombre con más partidos disputados representando al país.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
