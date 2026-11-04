@@ -997,7 +997,7 @@
   "palabras": "Blu Radio, Accidente de tránsito, Motociclistas , Santander",
   "lead": "Entre enero y septiembre de 2026 murieron 46 motociclistas en accidentes de tránsito en Bucaramanga, un aumento del 70 % frente al mismo periodo de 2025.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Emergencias por lluvias, Lluvias en Colombia, Santander, Bucaramanga, Río Magdalena, Floridablanca, UNGRD, Blu Radio, Noticias de hoy, Santander",
   "lead": "Las autoridades mantienen el seguimiento a las condiciones climáticas y recomiendan especial precaución a quienes transitan por corredores viales de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "Las declaraciones se dan en el contexto del despliegue de 2.000 soldados salvadoreños en Haití, enviados por Nayib Bukele.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "Israel Ortega, quien fue asesor legislativo en el Congreso de los Estados explicó en 6AM W qué es la “ola azul” y cómo se puede interpretar el triunfo histórico de los demócratas en Estados Unidos.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "Unidiplo solicitó a la Cancillería investigar las denuncias de abuso de poder y malos tratos que habrían afectado a funcionarios de la Misión ante la ONU",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "Asodiplo también pidió al Gobierno De la Espriella que la asignación de jefaturas de misión sea con criterios y puntajes definidos públicamente.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "En la jornada se recibirán alimentos no perecederos y donaciones en dinero que se destinarán para apoyar a las familias que lo necesitan.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "El hecho se registró el 10 de mayo de 2026 en el barrio María Paz de la localidad de Kennedy.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "A casi tres meses del terremoto, los comerciantes aseguran que las ayudas prometidas aún no llegan y advierten sobre las dificultades que enfrenta el sector para recuperarse.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "Los hechos se registraron en las últimas horas en dos casos aislados en el departamento del Quindío",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Las autoridades investigan posible instrumentalización de un grupo armado en el Suroeste.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "Política,Fedegan,Ministerio de agricultura,Abelardo de la Espriella",
   "lead": "La FM conoció detalles de la reunión en la que el ministro de Agricultura le habría pedido a Lafaurie retirarse tras cuestionar los recursos del Fondo Naci...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,6 +1129,358 @@
   "palabras": "Internacional,Donald Trump,Elecciones en el exterior,Estados Unidos",
   "lead": "Sin embargo, el presidente publicó una imagen en sus redes sociales con una gorra que tenía la frase: \"veto\".",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Maestros en Antioquia preocupados por fin del contrato entre el Fomag y la Fiduprevisora",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/maestros-en-antioquia-preocupados-por-fin-del-contrato-entre-el-fomag-y-la-fiduprevisora-rg10",
+  "fecha": "2026-11-04T07:45:10-05:00",
+  "palabras": "Antioquia, Fomag",
+  "lead": "Plantearán algunas inquietudes en reunión con el Gobierno nacional este miércoles y preparan cese de actividades por un día el 11 de noviembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Accidente de bus en la vía Panamericana deja dos muertos y varios heridos en Rosas, Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/accidente-de-bus-en-la-via-panamericana-deja-dos-muertos-y-varios-heridos-en-rosas-cauca-rg10",
+  "fecha": "2026-11-04T08:12:32-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con las primeras versiones, el bus, que cubría la ruta Cali-Pasto, al parecer, habría presentado fallas en el sistema de frenos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Este miércoles se definirán cambios al POT en Medellín: habrá restricciones a vivienda turística",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/este-miercoles-se-definiran-cambios-al-pot-en-medellin-habra-restricciones-a-vivienda-turistica-rg10",
+  "fecha": "2026-11-04T07:53:36-05:00",
+  "palabras": "Medellín",
+  "lead": "Solo en el primer debate se hicieron más de 100 modificaciones y 50 propuestas nuevas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Disputas por microtráfico en Bronx de Medellín dejó 3 muertos, entre ellos el policía Jamiltón Santa",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/disputas-por-microtrafico-en-bronx-de-medellin-dejo-3-muertos-entre-ellos-el-policia-jamilton-santa-rg10",
+  "fecha": "2026-11-04T08:03:47-05:00",
+  "palabras": "Medellín, Federico Gutiérrez, Policía Nacional",
+  "lead": "El alcalde de Medellín, Federico Gutiérrez, pidió a las autoridades desarticular la banda que protagonizó este ataque sicarial.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras la eliminación de Santa Fe, Dimayor definió los horarios de las semifinales de la Copa BetPlay",
+  "enlace": "https://www.bluradio.com/deportes/tras-la-eliminacion-de-santa-fe-dimayor-definio-los-horarios-de-las-semifinales-de-la-copa-betplay-so35",
+  "fecha": "2026-11-04T07:34:16-05:00",
+  "palabras": "Dimayor, Atlético Nacional, Once Caldas, América de Cali",
+  "lead": "Internacional de Bogotá, América de Cali, Once Caldas y Atlético Nacional disputarán los dos cupos para la final.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desempleo vuelve a subir en Bucaramanga: 56.000 personas están sin trabajo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/desempleo-vuelve-a-subir-en-bucaramanga-56-000-personas-estan-sin-trabajo-rg10",
+  "fecha": "2026-11-04T08:01:17-05:00",
+  "palabras": "Desempleo, Dane, Cámara de Comercio de Bucaramanga, Bucaramanga, Santander, Área Metropolitana de Bucaramanga, Blu Radio, Noticias de hoy, Bucaramanga",
+  "lead": "El panorama genera preocupación por las condiciones económicas de miles de hogares, especialmente en un contexto de incremento del costo de vida.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Operación Némesis: autoridades intervienen ocho comunas de Cúcuta y reportan 109 capturas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/operacion-nemesis-autoridades-intervienen-ocho-comunas-de-cucuta-y-reportan-109-capturas-rg10",
+  "fecha": "2026-11-04T07:51:26-05:00",
+  "palabras": "Cúcuta, Policía Nacional",
+  "lead": "La ofensiva hace parte de la campaña militar y policial Esparta, anunciada por el Gobierno para combatir a los grupos armados ilegales que delinquen en el Catatumbo, y del plan BOSUR, enfocado en enfrentar la criminalidad en Cúcuta y su área metropolitana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fin a la Paz Total: así quedó la ley de sometimiento del presidente Abelardo De La Espriella",
+  "enlace": "https://www.bluradio.com/nacion/fin-a-la-paz-total-asi-quedo-la-ley-de-sometimiento-del-presidente-abelardo-de-la-espriella-rg10",
+  "fecha": "2026-11-04T08:02:07-05:00",
+  "palabras": "Abelardo De La Espriella, Paz total",
+  "lead": "La norma establece que no habrá suspensión de órdenes de captura ni órdenes de extradición, tampoco mesas de diálogo ni interrupción de operaciones militares.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Exembajador Whitaker: “Mayoría demócrata en Congreso incidirá en ayuda a Colombia y América Latina”",
+  "enlace": "https://www.bluradio.com/nacion/exembajador-whitaker-mayoria-democrata-en-congreso-incidira-en-ayuda-a-colombia-y-america-latina-so35",
+  "fecha": "2026-11-04T08:21:48-05:00",
+  "palabras": "Kevin Whitaker, Partido Republicano, Partido Demócrata, Colombia",
+  "lead": "Kevin Whitaker advierte que los nuevos líderes demócratas en el Congreso condicionarían la ayuda a Colombia y pregunta por el paquete de mil millones de dólares.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Distrito radica presupuesto de $42,7 billones para 2027: el 78 % será destinado a inversión",
+  "enlace": "https://www.bluradio.com/regiones/bogota/distrito-radica-presupuesto-de-42-7-billones-para-2027-el-78-sera-destinado-a-inversion-rg10",
+  "fecha": "2026-11-04T08:16:26-05:00",
+  "palabras": "Concejo de Bogotá, Carlos Fernando Galán, Economía",
+  "lead": "La Alcaldía de Bogotá presentó ante el Concejo Distrital el proyecto de presupuesto para 2027, por 42,7 billones de pesos. Cerca del 78 % de los recursos se destinará a inversión en sectores como educación, movilidad, salud, seguridad y programas sociales, en el último año de ejecución del Plan…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lista de traslados de funcionarios de carrera diplomática indigna a embajadores y cónsules",
+  "enlace": "https://caracol.com.co/2026/11/04/lista-de-traslados-de-funcionarios-de-carrera-diplomatica-indigna-a-embajadores-y-consules/",
+  "fecha": "2026-11-04T08:04:48-05:00",
+  "palabras": "",
+  "lead": "Caracol Radio había revelado varios movimientos de diplomáticos, pero ahora entrega el listado completo de los funcionarios de carrera diplomática que serán trasladados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incautan más de 900 kilos de marihuana en la vía Bogotá- Villavicencio",
+  "enlace": "https://caracol.com.co/2026/11/04/incautan-mas-de-900-kilos-de-marihuana-en-la-via-bogota-villavicencio/",
+  "fecha": "2026-11-04T08:14:16-05:00",
+  "palabras": "",
+  "lead": "El cargamento estaba distribuido en más de 500 paquetes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "JEP mantiene citación presencial de Sandra Ramírez por caso de reclutamiento de menores",
+  "enlace": "https://caracol.com.co/2026/11/04/jep-mantiene-citacion-presencial-de-sandra-ramirez-por-caso-de-reclutamiento-de-menores/",
+  "fecha": "2026-11-04T08:02:38-05:00",
+  "palabras": "",
+  "lead": "Esto tras una petición que pedía que pudiera responder de manera escrita por temas de seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alertan por amenazas y hostigamientos contra integrantes de consejo comunitario en Plato, Magdalena",
+  "enlace": "https://caracol.com.co/2026/11/04/alertan-por-amenazas-y-hostigamientos-contra-integrantes-de-consejo-comunitario-en-plato-magdalena/",
+  "fecha": "2026-11-04T08:11:52-05:00",
+  "palabras": "",
+  "lead": "Durante el encuentro también se revisaron posibles vulneraciones de derechos relacionados con la educación propia y la autonomía de la comunidad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Cúcuta y gobernador de Norte de Santander aplauden estrategia de seguridad para la región",
+  "enlace": "https://caracol.com.co/2026/11/04/alcalde-de-cucuta-y-gobernador-de-norte-de-santander-aplauden-estrategia-de-seguridad-para-la-region/",
+  "fecha": "2026-11-04T07:55:15-05:00",
+  "palabras": "",
+  "lead": "La estrategia militar y policial Esparta, impulsada por el Gobierno nacional, tendrá presencia en el Área Metropolitana de Cúcuta y la región del Catatumbo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Minvivienda anuncia la construcción de una planta de tratamiento de agua en Capitanejo, Santander",
+  "enlace": "https://caracol.com.co/2026/11/04/minvivienda-anuncia-la-construccion-de-una-planta-de-tratamiento-de-agua-en-capitanejo-santander/",
+  "fecha": "2026-11-04T07:45:47-05:00",
+  "palabras": "",
+  "lead": "El ministro Jaime Andrés Beltrán hizo el anuncio junto al empresario santandereano Mario Hernández. Según Beltrán, la obra se financiaría a través de obras por impuestos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comenzó la intervención de la malla vial en una de las zonas más afectadas de Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/11/04/comenzo-la-intervencion-de-la-malla-vial-en-una-de-las-zonas-mas-afectadas-de-bucaramanga/",
+  "fecha": "2026-11-04T07:51:29-05:00",
+  "palabras": "",
+  "lead": "Primero se está realizando un cambio en el alcantarillado y se sigue con el reparcheo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alexis Márquez: “Dejen de decir que estamos cobrando en la cancha, no envenen a la gente”",
+  "enlace": "https://caracol.com.co/2026/11/04/alexis-marquez-dejen-de-decir-que-estamos-cobrando-en-la-cancha-no-envenen-a-la-gente/",
+  "fecha": "2026-11-04T07:42:39-05:00",
+  "palabras": "",
+  "lead": "El técnico del Pereira salió al paso a las especulaciones, tras la falta de pago al plantel de jugadores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel hombre señalado de atacar con ácido a su expareja en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/04/a-la-carcel-hombre-senalado-de-atacar-con-acido-a-su-expareja-en-medellin/",
+  "fecha": "2026-11-04T07:44:58-05:00",
+  "palabras": "",
+  "lead": "La mujer sufrió quemaduras en el 50% de su cuerpo tras el hecho violento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las 7 lecciones que dejan los resultados electorales en Estados Unidos",
+  "enlace": "https://caracol.com.co/2026/11/04/las-7-lecciones-que-dejan-los-resultados-electorales-en-estados-unidos/",
+  "fecha": "2026-11-04T07:38:06-05:00",
+  "palabras": "",
+  "lead": "Cómo cambia la situación de Colombia con el abrumador triunfo demócrata.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevos equipos médicos buscan mejorar diagnósticos y atención en el hospital de Aracataca, Magdalena",
+  "enlace": "https://caracol.com.co/2026/11/04/nuevos-equipos-medicos-buscan-mejorar-diagnosticos-y-atencion-en-el-hospital-de-aracataca-magdalena/",
+  "fecha": "2026-11-04T07:43:12-05:00",
+  "palabras": "",
+  "lead": "Entre los avances se destaca la puesta en funcionamiento de un equipo móvil de Rayos X.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El papa León XIV y el presidente de Chile conversaron sobre paz, declive demográfico y migración",
+  "enlace": "https://caracol.com.co/2026/11/04/el-papa-leon-xiv-y-el-presidente-de-chile-conversaron-sobre-paz-declive-demografico-y-migracion/",
+  "fecha": "2026-11-04T07:37:47-05:00",
+  "palabras": "",
+  "lead": "Durante el encuentro en el Vaticano, el mandatario chileno entregó al pontífice una imagen de la Virgen del Carmen, patrona de Chile, y destacó los vínculos históricos entre la Iglesia y su país. Tras la audiencia, Kast viajará a Madrid para participar en la XXX Cumbre Iberoamericana.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Continúa la emergencia ambiental en el Quindío por el derrame de ACPM en la vía La Línea",
+  "enlace": "https://caracol.com.co/2026/11/04/continua-la-emergencia-ambiental-en-el-quindio-por-el-derrame-de-acpm-en-la-via-la-linea/",
+  "fecha": "2026-11-04T07:32:50-05:00",
+  "palabras": "",
+  "lead": "El volcamiento de un camión cisterna que transportaba 10 mil galones de combustible generó la emergencia ambiental en el departamento",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen dos artefactos explosivos en la vía Ocaña-Aguas Claras",
+  "enlace": "https://caracol.com.co/2026/11/04/destruyen-dos-artefactos-explosivos-en-la-via-ocana-aguas-claras/",
+  "fecha": "2026-11-04T07:30:02-05:00",
+  "palabras": "",
+  "lead": "La intervención del Ejército y la Policía permitió restablecer el tránsito en este corredor vial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Diócesis de Santa Marta cuenta con 65 nuevos catequistas que culminaron su proceso de formación",
+  "enlace": "https://caracol.com.co/2026/11/04/la-diocesis-de-santa-marta-cuenta-con-65-nuevos-catequistas-que-culminaron-su-proceso-de-formacion/",
+  "fecha": "2026-11-04T07:29:40-05:00",
+  "palabras": "",
+  "lead": "Esta iniciativa está orientada a fortalecer la preparación de hombres y mujeres comprometidos con el acompañamiento de los procesos de fe en las comunidades parroquiales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades tras la pista de los asesinos de un hombre en hotel del centro de Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/04/autoridades-tras-la-pista-de-los-asesinos-de-un-hombre-en-hotel-del-centro-de-bogota/",
+  "fecha": "2026-11-04T07:23:32-05:00",
+  "palabras": "",
+  "lead": "El CTI de la Fiscalía analiza las cámaras de seguridad del sector.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Murió la ‘Paz Total’? Aprobación de ley de sometimiento enfrenta a congresistas",
+  "enlace": "https://caracol.com.co/2026/11/04/murio-la-paz-total-aprobacion-de-ley-de-sometimiento-enfrenta-a-congresistas/",
+  "fecha": "2026-11-04T07:22:54-05:00",
+  "palabras": "",
+  "lead": "Desde el Pacto Histórico se han referido a la ley como “paz traqueta”; aseguran que beneficia a testaferros y lavadores de activos. Hernán Cadavid explica lo aprobado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Black Friday 2026 Colombia cae el 27 de noviembre: cómo comprar",
+  "enlace": "https://www.lafm.com.co/sociedad/black-friday-2026-colombia-27-noviembre-como-preparar-compras-descuentos-416068",
+  "fecha": "2026-11-04T08:24:00-05:00",
+  "palabras": "Sociedad,Black Friday,noviembre,Colombia,Jornada de descuentos,descuentos en el black friday,Promociones",
+  "lead": "Los porcentajes de descuento pueden llamar la atención, pero comparar el valor promocional con el precio habitual deja ver si existe un ahorro en la compra...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fenalco pide recortar burocracia en todas las ramas del Estado",
+  "enlace": "https://www.lafm.com.co/economia/fenalco-impuesto-tendero-cerveza-bebidas-azucaradas-416079",
+  "fecha": "2026-11-04T08:16:00-05:00",
+  "palabras": "Economía,Medidas económicas,Impuestos,déficit fiscal,Marco fiscal,Recaudo fiscal",
+  "lead": "Jaime Alberto Cabal, presidente de Fenalco, planteó un pacto de austeridad para el Congreso, la Rama Judicial y entes de control ante el hueco fiscal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "JEP imputa a Timochenko, Pastor Alape y otros nueve exfarc",
+  "enlace": "https://www.lafm.com.co/orden-publico/jep-imputa-timochenko-pastor-alape-por-crimenes-guerra-y-lesa-humanidad-416077",
+  "fecha": "2026-11-04T07:46:00-05:00",
+  "palabras": "Orden Público,Farc EP,Timochenko,JEP,imputan cargos",
+  "lead": "La imputación cobija a Rodrigo Londoño, conocido como ‘Timochenko’, y a Pastor Lisandro Alape Lascarro, ‘Pastor Alape’.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gemini abre la puerta a millonarias indemnizaciones a medios",
+  "enlace": "https://www.lafm.com.co/internacional/reves-google-europa-gemini-abre-puerta-millonarias-indemnizaciones-medios-416075",
+  "fecha": "2026-11-04T07:03:00-05:00",
+  "palabras": "Internacional,Google,Inteligencia artificial,demanda,Europa,Medios de comunicación",
+  "lead": "Según cifras de Pew Research Center, cuando se presentan resúmenes de la IA en el buscador, las visitas a las páginas originales disminuyen casi a la mitad...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"Nadie pagará menos de 10 años\": así será la nueva ley",
+  "enlace": "https://www.lafm.com.co/politica/nueva-ley-sometimiento-penas-de-diez-anos-asi-funcionara-416069",
+  "fecha": "2026-11-04T06:50:00-05:00",
+  "palabras": "Política,JEP,JurisdicciónEspecialParalaPaz,actividad criminal,proceso penal",
+  "lead": "El senador del Centro Democrático declaró que los beneficios penales serán otorgados exclusivamente por la Fiscalía General de la Nación y los Jueces de la...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
