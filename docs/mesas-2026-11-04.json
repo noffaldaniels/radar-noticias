@@ -279,6 +279,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Avanzan los operativos en Cúcuta tras ofensiva de la fuerza pública con 109 personas capturadas, 49 allanamientos, 32 expulsiones y la incautación de 12 armas de fuego y más de 10 kilos de estupefacientes.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Asesinaron a un policía en la madrugada en el centro de Medellín. El uniformado fue identificado como Hamilton Andrés Santa Aguirre, de 27 años.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Coronel Fajardo, Comandante de la Policía Metropolitana del Valle de Aburrá",
+   "que": "A las 00:17 horas se presentó un hecho sicarial en el centro de la ciudad donde asesinaron a dos personas, una de ellas con antecedentes criminales, al parecer disputándose una plaza de vicio.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:00",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el Cauca, las autoridades confirman que tres personas murieron y 13 más resultaron heridas tras el choque entre un bus de servicio público y un tractocamión en la vía Panamericana, en el sector Chontaduro, municipio de Rosas, Cauca.",
+   "resaltar": false
   }
  ],
  "avisos": []
