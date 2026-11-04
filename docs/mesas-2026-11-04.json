@@ -433,6 +433,20 @@
    "quien": "Pulido (Invitado / Experto en ingeniería)",
    "que": "La temperatura en el centro de Ibagué es de 21 grados centígrados.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:30",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Fiscalía investiga cuatro casos de alimentos contaminados con talio que causaron la muerte a un menor y afectaron de forma permanente a otros familiares, y señala que el responsable podría ser un asesino serial.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:31",
+   "quien": "Hernán Cadavid, Senador",
+   "que": "Destacó la aprobación de la ley de sometimiento en el Congreso, afirmando que los beneficios penales serán otorgados exclusivamente por la Fiscalía y los jueces, eliminando la discrecionalidad del Gobierno, con rebajas de penas diferenciadas del 50 % y 30 %, salvo en delitos como el reclutamiento de menores.",
+   "resaltar": false
   }
  ],
  "avisos": []
