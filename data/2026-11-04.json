@@ -1140,7 +1140,7 @@
   "palabras": "Antioquia, Fomag",
   "lead": "Plantearán algunas inquietudes en reunión con el Gobierno nacional este miércoles y preparan cese de actividades por un día el 11 de noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "De acuerdo con las primeras versiones, el bus, que cubría la ruta Cali-Pasto, al parecer, habría presentado fallas en el sistema de frenos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "Medellín",
   "lead": "Solo en el primer debate se hicieron más de 100 modificaciones y 50 propuestas nuevas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "Medellín, Federico Gutiérrez, Policía Nacional",
   "lead": "El alcalde de Medellín, Federico Gutiérrez, pidió a las autoridades desarticular la banda que protagonizó este ataque sicarial.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Dimayor, Atlético Nacional, Once Caldas, América de Cali",
   "lead": "Internacional de Bogotá, América de Cali, Once Caldas y Atlético Nacional disputarán los dos cupos para la final.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Desempleo, Dane, Cámara de Comercio de Bucaramanga, Bucaramanga, Santander, Área Metropolitana de Bucaramanga, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "El panorama genera preocupación por las condiciones económicas de miles de hogares, especialmente en un contexto de incremento del costo de vida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Cúcuta, Policía Nacional",
   "lead": "La ofensiva hace parte de la campaña militar y policial Esparta, anunciada por el Gobierno para combatir a los grupos armados ilegales que delinquen en el Catatumbo, y del plan BOSUR, enfocado en enfrentar la criminalidad en Cúcuta y su área metropolitana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Abelardo De La Espriella, Paz total",
   "lead": "La norma establece que no habrá suspensión de órdenes de captura ni órdenes de extradición, tampoco mesas de diálogo ni interrupción de operaciones militares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Kevin Whitaker, Partido Republicano, Partido Demócrata, Colombia",
   "lead": "Kevin Whitaker advierte que los nuevos líderes demócratas en el Congreso condicionarían la ayuda a Colombia y pregunta por el paquete de mil millones de dólares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Concejo de Bogotá, Carlos Fernando Galán, Economía",
   "lead": "La Alcaldía de Bogotá presentó ante el Concejo Distrital el proyecto de presupuesto para 2027, por 42,7 billones de pesos. Cerca del 78 % de los recursos se destinará a inversión en sectores como educación, movilidad, salud, seguridad y programas sociales, en el último año de ejecución del Plan…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Caracol Radio había revelado varios movimientos de diplomáticos, pero ahora entrega el listado completo de los funcionarios de carrera diplomática que serán trasladados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "El cargamento estaba distribuido en más de 500 paquetes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Esto tras una petición que pedía que pudiera responder de manera escrita por temas de seguridad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Durante el encuentro también se revisaron posibles vulneraciones de derechos relacionados con la educación propia y la autonomía de la comunidad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "La estrategia militar y policial Esparta, impulsada por el Gobierno nacional, tendrá presencia en el Área Metropolitana de Cúcuta y la región del Catatumbo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "",
   "lead": "El ministro Jaime Andrés Beltrán hizo el anuncio junto al empresario santandereano Mario Hernández. Según Beltrán, la obra se financiaría a través de obras por impuestos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "",
   "lead": "Primero se está realizando un cambio en el alcantarillado y se sigue con el reparcheo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "",
   "lead": "El técnico del Pereira salió al paso a las especulaciones, tras la falta de pago al plantel de jugadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "",
   "lead": "La mujer sufrió quemaduras en el 50% de su cuerpo tras el hecho violento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "",
   "lead": "Cómo cambia la situación de Colombia con el abrumador triunfo demócrata.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "Entre los avances se destaca la puesta en funcionamiento de un equipo móvil de Rayos X.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "Durante el encuentro en el Vaticano, el mandatario chileno entregó al pontífice una imagen de la Virgen del Carmen, patrona de Chile, y destacó los vínculos históricos entre la Iglesia y su país. Tras la audiencia, Kast viajará a Madrid para participar en la XXX Cumbre Iberoamericana.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "El volcamiento de un camión cisterna que transportaba 10 mil galones de combustible generó la emergencia ambiental en el departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "La intervención del Ejército y la Policía permitió restablecer el tránsito en este corredor vial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "Esta iniciativa está orientada a fortalecer la preparación de hombres y mujeres comprometidos con el acompañamiento de los procesos de fe en las comunidades parroquiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "El CTI de la Fiscalía analiza las cámaras de seguridad del sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "Desde el Pacto Histórico se han referido a la ley como “paz traqueta”; aseguran que beneficia a testaferros y lavadores de activos. Hernán Cadavid explica lo aprobado.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "Sociedad,Black Friday,noviembre,Colombia,Jornada de descuentos,descuentos en el black friday,Promociones",
   "lead": "Los porcentajes de descuento pueden llamar la atención, pero comparar el valor promocional con el precio habitual deja ver si existe un ahorro en la compra...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "Economía,Medidas económicas,Impuestos,déficit fiscal,Marco fiscal,Recaudo fiscal",
   "lead": "Jaime Alberto Cabal, presidente de Fenalco, planteó un pacto de austeridad para el Congreso, la Rama Judicial y entes de control ante el hueco fiscal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "Orden Público,Farc EP,Timochenko,JEP,imputan cargos",
   "lead": "La imputación cobija a Rodrigo Londoño, conocido como ‘Timochenko’, y a Pastor Lisandro Alape Lascarro, ‘Pastor Alape’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "Internacional,Google,Inteligencia artificial,demanda,Europa,Medios de comunicación",
   "lead": "Según cifras de Pew Research Center, cuando se presentan resúmenes de la IA en el buscador, las visitas a las páginas originales disminuyen casi a la mitad...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,6 +1481,116 @@
   "palabras": "Política,JEP,JurisdicciónEspecialParalaPaz,actividad criminal,proceso penal",
   "lead": "El senador del Centro Democrático declaró que los beneficios penales serán otorgados exclusivamente por la Fiscalía General de la Nación y los Jueces de la...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Senador Hernán Cadavid explica Ley de Sometimiento: “Pena nunca será menor de 10 años”",
+  "enlace": "https://www.bluradio.com/nacion/senador-hernan-cadavid-explica-ley-de-sometimiento-pena-nunca-sera-menor-de-10-anos-pr30",
+  "fecha": "2026-11-04T08:27:24-05:00",
+  "palabras": "Ley de sometimiento, Congreso",
+  "lead": "De acuerdo con el legislador, la aprobación de este proyecto señala el fin del esquema de la paz total implementado en los últimos años. Cadavid enfatizó que la norma “modifica o sepulta ese modelo de paz total y plantea un sometimiento a la justicia”, estableciendo un tratamiento penal…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tractomula se salió de la vía y terminó en el carril contrario entre Girón y Floridablanca",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/accidente-de-tractomula-genera-fuerte-congestion-en-el-anillo-vial-giron-floridablanca-rg10",
+  "fecha": "2026-11-04T08:31:09-05:00",
+  "palabras": "Bucaramanga, Floridablanca, Santander, Accidente de tránsito, Blu Radio",
+  "lead": "La tractomula terminó atravesada en la calzada contraria, a la altura de la bomba Cotrasur, y afectó un vehículo particular. El accidente provoca larga fila de carros hacia Floridablanca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ramo denuncia por injuria y calumnia a Sinergia Animal tras señalamientos por gallinas ponedoras",
+  "enlace": "https://www.bluradio.com/judicial/ramo-denuncia-por-injuria-y-calumnia-a-sinergia-animal-tras-senalamientos-por-gallinas-ponedoras-rg10",
+  "fecha": "2026-11-04T08:40:42-05:00",
+  "palabras": "Animales",
+  "lead": "La denuncia fue interpuesta luego de una campaña en la que se hicieron señalamientos sobre presuntas prácticas de maltrato animal en una granja proveedora de la compañía, ubicada en Cachipay, Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Larry Summers prevé una “corrección hacia la racionalidad” en economía de EEUU tras las elecciones",
+  "enlace": "https://caracol.com.co/2026/11/04/larry-summers-preve-una-correccion-hacia-la-racionalidad-en-economia-de-eeuu-tras-las-elecciones/",
+  "fecha": "2026-11-04T08:27:30-05:00",
+  "palabras": "",
+  "lead": "Larry Summers, economista y exsecretario del Tesoro de Estados Unidos, habla sobre los resultados de las elecciones intermedias en EE. UU.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sabaneta inicia la construcción del anillo vial de la calle 77 sur, una obra de $21.177 millones",
+  "enlace": "https://caracol.com.co/2026/11/04/sabaneta-inicia-la-construccion-del-anillo-vial-de-la-calle-77-sur-una-obra-de-21177-millones/",
+  "fecha": "2026-11-04T08:32:03-05:00",
+  "palabras": "",
+  "lead": "El proyecto contempla cerca de 800 metros de intervención y beneficiará a más de 106.000 habitantes. Las obras incluyen doble calzada, seis carriles, zonas verdes y andenes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rusia espera que Trump continúe con los esfuerzos de paz en Ucrania pese a derrota electoral",
+  "enlace": "https://caracol.com.co/2026/11/04/rusia-espera-que-trump-continue-con-los-esfuerzos-de-paz-en-ucrania-pese-a-derrota-electoral/",
+  "fecha": "2026-11-04T08:23:40-05:00",
+  "palabras": "",
+  "lead": "Dmitri Peskov declaró que, fuera cual fuera el resultado de las elecciones legislativas en EE. UU., Trump seguiría en el cargo, por lo que seguiría decidiendo sobre las cuestiones internacionales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió el transgresor cineasta italiano Tinto Brass a los 93 años, fue reconocido por ‘Calígula’",
+  "enlace": "https://caracol.com.co/2026/11/04/murio-el-transgresor-cineasta-italiano-tinto-brass-a-los-93-anos-fue-reconocido-por-caligula/",
+  "fecha": "2026-11-04T08:19:46-05:00",
+  "palabras": "",
+  "lead": "Tinto Brass reconocido internacionalmente como el gran maestro del cine erótico italiano y una de las figuras más transgresoras y polémicas del audiovisual europeo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Avance demócrata en EE. UU.: el reto diplomático de Colombia",
+  "enlace": "https://www.lafm.com.co/internacional/elecciones-estados-unidos-retos-para-colombia-avance-democrata-congreso-416082",
+  "fecha": "2026-11-04T08:40:00-05:00",
+  "palabras": "Internacional,Política internacional,Donald Trump,Democracia,Elecciones presidenciales,conteo de votos,Recuento de votos",
+  "lead": "María Claudia Lacouture, presidenta de AmCham Colombia, señala que el triunfo demócrata frenará a Trump con investigaciones, pero la Casa Blanca mantendrá ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gasoducto Antonio Ricaurte: Gobierno prioriza su recuperación",
+  "enlace": "https://www.lafm.com.co/economia/gobierno-prioriza-gasoducto-antonio-ricaurte-para-importar-gas-de-venezuela-416084",
+  "fecha": "2026-11-04T08:24:00-05:00",
+  "palabras": "Economía,Gas natural,Reserva de gas natural,Ecopetrol,Ministerio de Minas y Energía",
+  "lead": "Ecopetrol prevé importar inicialmente el equivalente al 5% del consumo nacional por el gasoducto Antonio Ricaurte.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atacan a tiros a conductor de TransMilenio en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/ataque-tiros-conductor-transmilenio-motociclista-agresor-calle-26-bogota-policia-cti-416080",
+  "fecha": "2026-11-04T07:56:00-05:00",
+  "palabras": "Orden Público,TransMilenio,Policía Nacional,Bogotá,Secretaría de Movilidad",
+  "lead": "El hombre fue remitido a un centro asistencial, mientras las autoridades tratan de identificar al responsable.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
