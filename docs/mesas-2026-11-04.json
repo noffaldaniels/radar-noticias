@@ -328,6 +328,27 @@
    "quien": "Doctor Cabal",
    "que": "Existen tres frentes críticos para fin de año: la lucha contra el costo de vida con posibles incrementos del IVA, y la discusión sobre el salario mínimo.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:11",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El presidente Gustavo Petro destacó el trabajo de la fuerza pública y anunció la captura de varios delincuentes en medio del video publicado en redes sociales.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:12",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El presidente Gustavo Petro ordenó reforzar las operaciones militares y policiales en Cúcuta.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:13",
+   "quien": "Senador Hernán David",
+   "que": "El Senado aprobó en Cámara y Senado la Ley de Sometimiento tras horas de discusión.",
+   "resaltar": false
   }
  ],
  "avisos": []
