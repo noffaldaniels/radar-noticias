@@ -48,6 +48,27 @@
    "quien": "Senador Hernán David (Partido Centro Democrático)",
    "que": "Explicó que la Ley de Sometimiento busca un marco legal diferenciado y más estricto para los testaferros y lavadores de dinero, sin otorgar beneficios desproporcionados.",
    "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:20",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Nació la pasta traqueta el día de ayer a medianoche en el Congreso de la República, un proyecto de ley donde se ajusta o se diseñó al beneficio de los testaferros y los lavadores de dinero.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:20",
+   "quien": "Senador David",
+   "que": "Se ha quedado dispuesto que quienes hacen parte de una estructura delincuencial de este tipo y no son mando, es decir, no tienen el liderazgo de la organización, pueden obtener hasta el 50% de disminución de la pena, hasta.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:21",
+   "quien": "Senador David",
+   "que": "Quienes tienen el mando pueden recibir hasta el 30% de la disminución de la pena sujetos a la verificación de cumplimiento por parte de la Fiscalía General de la Nación ante jueces de la República.",
+   "resaltar": false
   }
  ],
  "avisos": []
