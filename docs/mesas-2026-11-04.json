@@ -559,6 +559,27 @@
    "quien": "Kevin Whitaker, exembajador de Estados Unidos en Colombia",
    "que": "El presupuesto del año fiscal actual de 27 ya se aprobó, por lo que hay dinero para destinar a proyectos en Colombia y otros países.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Jurisdicción Especial para la Paz (JEP) tomará una nueva decisión sobre el caso 07 de reclutamiento de 18.677 menores de edad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Instalan un hospital de campaña en Planadas, Tolima, tras el atentado con explosivos que afectó el 80% de la estructura del centro médico.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Tribunal Administrativo del Quindío declaró que el Instituto Nacional de Vías (Invías) vulneró el derecho colectivo a la seguridad en el puente helicoidal de Cacarca, ordenando un estudio técnico integral de seguridad vial en 6 meses.",
+   "resaltar": false
   }
  ],
  "avisos": [
