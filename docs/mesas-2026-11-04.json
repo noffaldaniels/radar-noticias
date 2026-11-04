@@ -34,6 +34,20 @@
    "quien": "Daniel Jerez, Periodista",
    "que": "Se aprobó en último debate la ley de sometimiento, que incluye reducción de penas de hasta el 50% para jefes y 30% para mandos medios, y una condena mínima de 10 años de cárcel.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:19",
+   "quien": "Senador Hernán David (Partido Centro Democrático)",
+   "que": "Destacó la aprobación de la Ley de Sometiimiento y señaló que busca enfrentar la criminalidad y la delincuencia en el país.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:19",
+   "quien": "Senador Hernán David (Partido Centro Democrático)",
+   "que": "Explicó que la Ley de Sometimiento busca un marco legal diferenciado y más estricto para los testaferros y lavadores de dinero, sin otorgar beneficios desproporcionados.",
+   "resaltar": true
   }
  ],
  "avisos": []
