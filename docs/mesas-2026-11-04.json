@@ -111,6 +111,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Los demócratas ganaron el control de la Cámara de Representantes y el Senado en Estados Unidos en las elecciones de medio término, mientras la oposición anunció investigaciones contra el presidente Donald Trump.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:39",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Procuraduría abrió indagación a funcionarios de la alcaldía de Valledupar por la venta de una camioneta Toyota por 2.5 millones de pesos y otros 32 bienes que sumaron 31 millones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:39",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Un artefacto explosivo fue lanzado contra la infraestructura del peaje de Media Canoa, en la vía Cali-Buga, causando daños materiales sin reporte de personas lesionadas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:39",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "El Servicio Geológico Colombiano tiene listo el informe técnico sobre los sismos y el enjambre sísmico en el sur del departamento del Tolima.",
+   "resaltar": true
   }
  ],
  "avisos": []
