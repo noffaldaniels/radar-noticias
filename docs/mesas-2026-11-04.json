@@ -412,6 +412,27 @@
    "quien": "Dr. Cabal, Presidente de Fenalco",
    "que": "Cabal señaló que en el primer trimestre del 25 entraron 12.4 millones de paquetes con mercancías valoradas por debajo de 200 dólares, evidenciando procesos de subfacturación que afectan la equidad frente a empresas nacionales que quiebran y despiden personal.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:30",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El proyecto país está en el departamento del Tolima, específicamente en su capital Ibagué, en la histórica plaza Murillo Toro, en el edificio de la Gobernación.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:30",
+   "quien": "Pulido (Invitado / Experto en ingeniería)",
+   "que": "Se realizará el simposio colombiano e iberoamericano de ingeniería de pavimentos 2026, celebrando los 50 años de historia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:30",
+   "quien": "Pulido (Invitado / Experto en ingeniería)",
+   "que": "La temperatura en el centro de Ibagué es de 21 grados centígrados.",
+   "resaltar": true
   }
  ],
  "avisos": []
