@@ -286,6 +286,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "La presidenta de México celebró la elección de Javier Becerra y Gina Inojosa como nueva gobernadora de Texas.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:05",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Hay un toque de queda de 24 horas en Ataco por operativos contra la minería ilegal con liderazgo de la gobernación.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:07",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "En Ataco, Chaparral y Coyaima se realizan operativos contra la minería ilegal y hoy se ejecuta un desalojo en el río Saldaña en Puente Amarillo. En Ataco hay 19 ensambles (dragas) que sacan entre 3.600 gramos de oro en 16 días, generando más de 25.000 millones de pesos mensuales para grupos terroristas.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:07",
+   "quien": "Adriana Magali Matiz, Gobernadora del Tolima",
+   "que": "Se han destruido más de 144 retroexcavadoras y dragas en minería ilegal en el Tolima. Se han incautado más de 119 mil galones de combustible para estas actividades.",
+   "resaltar": true
   }
  ],
  "avisos": [
