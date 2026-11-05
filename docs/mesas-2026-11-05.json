@@ -90,6 +90,27 @@
    "quien": "Capitán Germán Roa, de la Asociación de Aviadores",
    "que": "Las fallas recurrentes y la falta de mantenimiento en los sistemas de navegación aérea y radares generan preocupaciones sobre la seguridad aérea.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:16",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Cámara de Representantes aprobó en primer debate el proyecto de ley anticapuchos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:16",
+   "quien": "Paula Quintero, Periodista de Noticias La FM con Juan Lozano",
+   "que": "El presidente Abelardo de la Espriella sancionó la ley 2640 de 2026, la ley de sometimiento, con penas de hasta 10 años de cárcel efectiva y descuentos del 30% para cabecillas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:23",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El ministro de Justicia, Iván Cancino, descartó similitudes entre la ley de sometimiento y la JEP, señalando que la nueva ley contempla condiciones distintas para organizaciones criminales.",
+   "resaltar": false
   }
  ],
  "avisos": []
