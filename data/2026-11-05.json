@@ -876,7 +876,7 @@
   "palabras": "Antioquia, Medellín, Concejo de Medellín, Planeación Distrital, Noticias de hoy",
   "lead": "Frente a la polémica vivienda turística se planetó un modelo de regulación y no de prohibición para que pueda convivir con la tradicional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Viral, Estados Unidos, Nueva York",
   "lead": "La emergencia ocurrió cuando faltaban pocos kilómetros para llegar a la meta. Los especialistas advierten sobre las señales de alerta de esta condición y sus complicaciones.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "Venezuela, ELN, Estados Unidos",
   "lead": "De acuerdo con los detalles brindados, los drones utilizados para el ataque son operados habitualmente por las fuerzas estadounidenses desde su propio territorio. Las informaciones señalan que el campamento atacado funcionaba principalmente como un centro de distribución de cocaína.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "Pico y placa, Bogotá",
   "lead": "La restricción vehicular aplica este jueves 5 de noviembre para las placas terminadas en 6, 7, 8, 9 y 0 en la capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "Medellín, Pico y placa, Movilidad",
   "lead": "La restricción vehicular aplica este jueves de 5:00 a.m. a 8:00 p.m. para las placas terminadas en 3 y 6 en la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "Fernando García habló en 6AM W sobre la controversia en torno al consulado colombiano en Tijuana que nunca entró en funcionamiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "Prevención del reclutamiento forzado y jornadas de seguridad en el sector minero hacen parte de los compromisos establecidos con las autoridades municipales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "El municipio busca una solución para garantizar el suministro durante todo el día.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "El técnico de Millonarios destacó el funcionamiento del equipo, pero reconoció que hubo “desespero” en la definición.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Según el secretario de Movilidad de Ibagué, Camilo Martínez, son por lo menos 11 los sectores de la ciudad que están siendo afectados con este tipo de prácticas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "Sociedad,Proyecto de ley,Debate,Cámara de Representantes,Vandalismo",
   "lead": "Julio César Triana, representante a la Cámara por el Huila, precisó que cubrirse el rostro no constituye por sí solo un delito.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,6 +997,380 @@
   "palabras": "Deportes,Deporte,Fútbol,Bundesliga,Colombia,Estados Unidos",
   "lead": "Castañeda es actualmente una de las figuras más importantes de su club alemán, disputando un total de 10 partidos con dos goles y 900 minutos jugados.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desarticulan banda que reclutaba menores para trabajos sexuales en Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/desarticulan-banda-que-reclutaba-menores-para-trabajos-sexuales-en-bogota-rg10",
+  "fecha": "2026-11-05T07:44:15-05:00",
+  "palabras": "Reclutamiento de menores, Policía Nacional",
+  "lead": "Cuatro personas fueron capturadas durante cinco allanamientos en las localidades de Los Mártires y Ciudad Bolívar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana: resultado del último sorteo hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-hoy-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T07:50:38-05:00",
+  "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy jueves 5 de noviembre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bloquean vía por retrasos en obras de puente que afecta a 2.000 familias de Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/bloquean-via-por-retrasos-en-obras-de-puente-que-afecta-a-2-000-familias-de-santander-rg10",
+  "fecha": "2026-11-05T08:27:17-05:00",
+  "palabras": "Santander, Bucaramanga, Málaga, San Gil, Vías 4G, Gobernación de Santander, Santander, Puente Hisgaura, Procuraduría General de la Nación, Blu Radio",
+  "lead": "La comunidad de San Andrés, Santander, salió a protestar por la parálisis de las obras del puente El Congreso, que comunica con el corregimiento de Laguna de Ortices.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día: resultado del último sorteo hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-resultado-del-ultimo-sorteo-hoy-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T07:58:48-05:00",
+  "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Chontico Día juega todos los días a las 1 p. m.. Revise aquí el número ganador hoy jueves 5 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La colombiana Margarita García Robayo gana Premio Herralde de Novela entre más de 2.200 escritos",
+  "enlace": "https://www.bluradio.com/sociedad/la-colombiana-margarita-garcia-robayo-gana-premio-herralde-de-novela-entre-mas-de-2-200-escritos-cb20",
+  "fecha": "2026-11-05T08:02:13-05:00",
+  "palabras": "Noticias de hoy, Literatura",
+  "lead": "La ganadora se presentó al premio, dotado con 25.000 euros, con el seudónimo Orika Biohó.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día, resultado del último sorteo de hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-de-hoy-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T08:02:20-05:00",
+  "palabras": "Paisita día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Paisita Día juega todos los días después del mediodía. Consulte aquí el número ganador del sorteo de hoy, jueves 5 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día, resultado del último sorteo hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-hoy-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T08:07:57-05:00",
+  "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, jueves 5 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día hoy, resultado del último sorteo jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-hoy-resultado-del-ultimo-sorteo-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T08:13:12-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy jueves 5 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "No solo El Dorado: controladores alertan fallas de radar en otras ciudades del país",
+  "enlace": "https://www.bluradio.com/nacion/no-solo-el-dorado-controladores-alertan-fallas-de-radar-en-otras-ciudades-del-pais-pr30",
+  "fecha": "2026-11-05T08:26:08-05:00",
+  "palabras": "Aeropuerto Internacional El Dorado",
+  "lead": "El gremio de controladores advierte que las fallas se repiten en varias regiones y que los sistemas de visualización tienen 14 años sin renovarse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Tarde, resultado del último sorteo hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-tarde-resultado-del-ultimo-sorteo-hoy-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T08:16:56-05:00",
+  "palabras": "Dorado Tarde, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Dorado Tarde se juega de lunes a sábado a las 3:30 p. m. Este jueves 5 de noviembre de 2026, los apostadores pueden consultar el resultado del sorteo, verificar las cifras ganadoras y conocer cuánto paga cada modalidad de apuesta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Sol, resultado del último sorteo hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-sol-resultado-del-ultimo-sorteo-hoy-jueves-5-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-05T08:21:53-05:00",
+  "palabras": "Super Astro Sol, Resultados del chance, Chances y Loterías",
+  "lead": "El sorteo del Super Astro Sol se realiza de lunes a sábado a las 4:00 p. m. Este jueves 5 de noviembre de 2026, los jugadores pueden consultar el número ganador, las cifras premiadas y el signo zodiacal correspondiente, así como revisar las condiciones para participar y reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mercedes-Benz se rinde con sus electrolineras en Europa: vende red de carga rápida a rival francés",
+  "enlace": "https://www.bluradio.com/motor/mercedes-benz-se-rinde-con-sus-electrolineras-en-europa-vende-red-de-carga-rapida-a-rival-frances-so35",
+  "fecha": "2026-11-05T08:04:56-05:00",
+  "palabras": "Mercedes Benz, Carros eléctricos, Movilidad",
+  "lead": "El fabricante alemán traspasó sus 47 electrolineras al operador francés, abandonando su plan inicial de gestionar infraestructura propia ante los altos costos operativos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "PEI Asset Management reitera su apoyo a Vamos Pa’Lante y la educación colombiana con $50 millones",
+  "enlace": "https://caracol.com.co/2026/11/05/pei-asset-management-reitera-su-apoyo-a-vamos-palante-y-la-educacion-colombiana-con-50-millones/",
+  "fecha": "2026-11-05T08:25:19-05:00",
+  "palabras": "",
+  "lead": "Vamos Pa’Lante apoya a los estudiantes colombianos para que terminen su carrera en las principales universidades del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“En el consulado de Tijuana hubo algo extraño, no se siguió el procedimiento”: excanciller Murillo",
+  "enlace": "https://caracol.com.co/2026/11/05/en-el-consulado-de-tijuana-hubo-algo-extrano-no-se-siguio-el-procedimiento-excanciller-murillo/",
+  "fecha": "2026-11-05T08:22:43-05:00",
+  "palabras": "",
+  "lead": "El excanciller, Luis Gilberto Murillo habla sobre la polémica por un consulado de papel en Tijuana, México y explicó el funcionamiento de los consulados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Falleció Gustavo Cardona Parra, uno de los protagonistas de la historia de Almacenes La 14",
+  "enlace": "https://caracol.com.co/2026/11/05/fallecio-gustavo-cardona-parra-uno-de-los-protagonistas-de-la-historia-de-almacenes-la-14/",
+  "fecha": "2026-11-05T07:50:39-05:00",
+  "palabras": "",
+  "lead": "Junto a su hermano Jaime, hizo parte de la construcción de una de las empresas más recordadas por los vallecaucanos y que durante décadas marcó la vida comercial de la región.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gaula Bolívar advierte incremento de modalidad de falso secuestro",
+  "enlace": "https://caracol.com.co/2026/11/05/gaula-bolivar-advierte-incremento-de-modalidad-de-falso-secuestro/",
+  "fecha": "2026-11-05T08:19:18-05:00",
+  "palabras": "",
+  "lead": "Uniformados recorren finca a finca para proteger a las familias campesinas y evitar que delincuentes se apoderen de sus ahorros",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Decretan toque de queda para menores de edad en Campamento, Antioquia, por disputas criminales",
+  "enlace": "https://caracol.com.co/2026/11/05/decretan-toque-de-queda-para-menores-de-edad-en-campamento-en-medio-de-disputas-criminales/",
+  "fecha": "2026-11-05T08:07:20-05:00",
+  "palabras": "",
+  "lead": "Las medidas de seguridad se establecieron tras el doble homicidio de dos jóvenes en el municipio del Norte de Antioquia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Congresista del Quindío Miguel Grisales y el reclamo al ministro de Hacienda por el Fondo Milagro",
+  "enlace": "https://caracol.com.co/2026/11/05/congresista-del-quindio-miguel-grisales-y-el-reclamo-al-ministro-de-hacienda-por-el-fondo-milagro/",
+  "fecha": "2026-11-05T07:37:28-05:00",
+  "palabras": "",
+  "lead": "El representante a la Cámara cuestiona que a casi tres meses de la emergencia los damnificados no reciben recursos para la reconstrucción.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Repetto tras la caída de Santa Fe con Cúcuta: “El rival se lleva mucho, no merecímos la derrota”",
+  "enlace": "https://caracol.com.co/2026/11/05/repetto-tras-la-caida-de-santa-fe-con-cucuta-el-rival-se-lleva-mucho-no-merecimos-la-derrota/",
+  "fecha": "2026-11-05T08:12:35-05:00",
+  "palabras": "",
+  "lead": "El entrenador del equipo Cardenal invitó a los hinchas a ser positivos y alentar de cara al próximo partido ante Pasto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Secretaría de Movilidad de Santa Marta denuncia presuntas fallas en el servicio de ambulancias",
+  "enlace": "https://caracol.com.co/2026/11/05/secretaria-de-movilidad-de-santa-marta-denuncia-presuntas-fallas-en-el-servicio-de-ambulancias/",
+  "fecha": "2026-11-05T08:08:43-05:00",
+  "palabras": "",
+  "lead": "Esto luego del incendio en el sector de Brisas del Nevado, barrio Santa Cruz, donde murieron 2 menores y una mujer.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Primero la vida que los intereses particulares”: respuesta del alcalde de Tunja a Asobares",
+  "enlace": "https://caracol.com.co/2026/11/05/primero-la-vida-que-los-intereses-particulares-respuesta-del-alcalde-de-tunja-a-asobares/",
+  "fecha": "2026-11-05T08:05:24-05:00",
+  "palabras": "",
+  "lead": "Los comerciantes han denunciado cierre indiscriminado de sus locales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Amplían un mes más piloto para mejorar la movilidad en la calle 13 en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/05/amplian-un-mes-mas-piloto-para-mejorar-la-movilidad-en-la-calle-13-en-bogota/",
+  "fecha": "2026-11-05T08:03:46-05:00",
+  "palabras": "",
+  "lead": "El contraflujo para salir y entrar por la Calle 13 permitió reducir los tiempos de viaje hasta en un 53,7%",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desarticulan banda que inducía a menores de edad a la prostitución en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/05/desarticulan-banda-que-inducia-menores-de-edad-a-la-prostitucion-en-bogota/",
+  "fecha": "2026-11-05T07:48:55-05:00",
+  "palabras": "",
+  "lead": "Con este resultado, se logró afectar las rentas criminales de esta estructura en aproximadamente 80 millones de pesos mensuales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Bula no es buen mensajero en el contexto actual de Washington”: Luis Gilberto Murillo, excanciller",
+  "enlace": "https://caracol.com.co/2026/11/05/bula-no-es-buen-mensajero-en-el-contexto-actual-de-washington-luis-gilberto-murillo-excanciller/",
+  "fecha": "2026-11-05T07:50:33-05:00",
+  "palabras": "",
+  "lead": "El excanciller, Luis Gilberto Murillo habló en 6AM W sobre cómo recibe el país el triunfo demócrata de Estados Unidos y eso esto deja contra las cuerdas al canciller, Omar Bula.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cancillería por ‘Consulado fantasma’ en Tijuana: “Se enfiestaron 4 años y nos dejaron el guayabo”",
+  "enlace": "https://caracol.com.co/2026/11/05/cancilleria-por-consulado-fantasma-en-tijuana-se-enfiestaron-4-anos-y-nos-dejaron-el-guayabo/",
+  "fecha": "2026-11-05T07:55:00-05:00",
+  "palabras": "",
+  "lead": "Caracol Radio reveló que se creó un ‘Consulado fantasma’ durante el gobierno de Gustavo Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Adultos mayores de Turbaco viven una fiesta novembrina llena de alegría y tradicional",
+  "enlace": "https://caracol.com.co/2026/11/05/adultos-mayores-de-turbaco-viven-una-fiesta-novembrina-llena-de-alegria-y-tradicional/",
+  "fecha": "2026-11-05T07:55:45-05:00",
+  "palabras": "",
+  "lead": "Esta iniciativa fue liderada por la alcaldesa Claudia Espinosa, promoviendo espacios de encuentro, recreación y reconocimiento para quienes han dedicado su vida a construir sociedad y merecen condiciones de vida dignas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Belleza, música y tradición: la Plaza de la Aduana se alista para el Desfile en Traje de Baño 2026",
+  "enlace": "https://caracol.com.co/2026/11/05/belleza-musica-y-tradicion-la-plaza-de-la-aduana-se-alista-para-el-desfile-en-traje-de-bano-2026/",
+  "fecha": "2026-11-05T07:53:11-05:00",
+  "palabras": "",
+  "lead": "Las candidatas al Reinado Popular y la soberana actual se tomarán la pasarela este viernes 6 de noviembre, a las 7:00 p.m.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fue enviado a la cárcel, Henry Salgado, presunto responsable del femicidio de su esposa en Ibagué",
+  "enlace": "https://caracol.com.co/2026/11/05/fue-enviado-a-la-carcel-henry-salgado-presunto-responsable-del-femicidio-de-su-esposa-en-ibague/",
+  "fecha": "2026-11-05T07:49:24-05:00",
+  "palabras": "",
+  "lead": "En medio de la audiencia se conoció que Henry Salgado, habría tomado a la víctima por el cuello hasta asfixiarla.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nariño rindió homenaje póstumo a Antonio Navarro Wolff",
+  "enlace": "https://caracol.com.co/2026/11/05/narino-rindio-homenaje-postumo-a-antonio-navarro-wolff/",
+  "fecha": "2026-11-05T07:39:00-05:00",
+  "palabras": "",
+  "lead": "Autoridades y ciudadanos destacaron su legado de paz y transformación territorial",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría Distrital pone la lupa en el funcionamiento del PAE en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/05/contraloria-distrital-pone-la-lupa-en-el-funcionamiento-del-pae-en-bogota/",
+  "fecha": "2026-11-05T07:38:04-05:00",
+  "palabras": "",
+  "lead": "El programa cuenta con un presupuesto superior a los $921 mil millones y atiende a más de 675.000 estudiantes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dos restaurantes colombianos entre los 50 Best Restaurants 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/lista-50-best-restaurants-2026-colombianos-cuanto-cuesta-comer-416191",
+  "fecha": "2026-11-05T07:59:00-05:00",
+  "palabras": "Sociedad,restaurantes,Gastronomía,Región Caribe",
+  "lead": "Los resultados muestran un ascenso para ambos establecimientos frente a la edición anterior. Celele pasó del puesto 48 al 31, mientras que El Chato regresó...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Republicanos eligen un chivo expiatorio tras la derrota en las elecciones: Pete Hegseth",
+  "enlace": "https://www.lafm.com.co/internacional/pete-hegseth-secretario-guerra-estados-unidos-chivo-expiatorio-partido-republicano-416201",
+  "fecha": "2026-11-05T07:56:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Elecciones en el exterior,Washington,Donald Trump",
+  "lead": "Fuentes citadas por CNN aseguran que Hegseth no tiene intenciones de dar un paso al costado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cayó red de explotación sexual de menores en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/red-explotacion-sexual-menores-bogota-capturan-banda-dolphins-operativos-martires-ciudad-bolivar-416200",
+  "fecha": "2026-11-05T07:49:00-05:00",
+  "palabras": "Orden Público,Menores,Delitos sexuales,Bogotá,Alcaldía de Bogotá",
+  "lead": "Cuatro personas fueron capturadas en operativos de las autoridades en Los Mártires y Ciudad Bolívar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La crisis de la torre de control de El Dorado que pone en riesgo al país",
+  "enlace": "https://www.lafm.com.co/actualidad/exclusivo-torre-de-control-el-dorado-crisis-riesgo-infraestructura-bogota-controladores-aerocivil-416199",
+  "fecha": "2026-11-05T07:45:00-05:00",
+  "palabras": "Actualidad,Aerocivil,Aeropuerto El Dorado,infraestructura,Controlador aéreo,Bogotá,Aviones,Investigaciones,periodismo investigativo",
+  "lead": "Fallas estructurales severas en la torre de control, una sobrecarga laboral al límite y la cesión millonaria del espacio aéreo de San Andrés a Panamá revel...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
