@@ -1,4 +1,19 @@
 {
- "puntos": [],
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "06:04",
+   "quien": "Francisco Bernate, presidente del Colegio de Abogados Penalistas de Colombia",
+   "que": "Denunció a la fiscal Silvana Uribe ante el Juzgado Segundo Promiscuo Municipal de Anserma por presuntamente estar borracha y emitir palabras soeces durante una audiencia.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:04",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Comisión Primera de la Cámara de Representantes aprobó en ponencia positiva el proyecto de ley 'Anti Capuchos' con 21 votos a favor y 4 en contra.",
+   "resaltar": false
+  }
+ ],
  "avisos": []
 }
