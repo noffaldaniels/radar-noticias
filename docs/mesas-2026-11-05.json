@@ -321,6 +321,27 @@
    "quien": "Néstor Morales (Periodista de Mañanas Blu)",
    "que": "Son ya 12 los vuelos desviados o con fallas en Europa debido a problemas de seguridad aérea.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:24",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se han hecho esfuerzos desde el Tolima para promover cafés gourmet y especiales, buscando posicionar productos de la región.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:24",
+   "quien": "Gobernadora del Tolima",
+   "que": "La gobernadora destacó nuevas inversiones en Honda para la recuperación del casco histórico y proyectos turísticos, así como la recuperación de la factoría para la Universidad de la Música.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:24",
+   "quien": "Gobernadora del Tolima",
+   "que": "Resaltó que en Ibagué se creó el primer bachillerato musical de Colombia en el conservatorio, y destacó la lucha contra la delincuencia y el terrorismo en el departamento.",
+   "resaltar": true
   }
  ],
  "avisos": [
