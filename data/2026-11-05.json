@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Alias ‘Cachama’ tendría 15 años de trayectoria criminal. Las autoridades lo relacionan con amenazas a comerciantes, disparos contra establecimientos y control del tráfico de drogas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "También se instalarán cámaras de seguridad y se hará el reverdecimiento de toda la zona.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "El concejal Román Quintero denunció que algunas comisarías no tienen papel, cuentan con equipos obsoletos y presentan deficiencias en sus instalaciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -644,6 +644,226 @@
   "fecha": "2026-11-05T06:17:21-05:00",
   "palabras": "",
   "lead": "CR7 deja el equipo de su país siendo el mayor goleador en la historia del fútbol de selecciones con 146 goles en 236 partidos.",
+  "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mujer de 26 años murió tras apoyarse y caer por una ventana rota del séptimo piso de un hotel",
+  "enlace": "https://www.bluradio.com/mundo/mujer-de-26-anos-murio-tras-apoyarse-y-caer-por-una-ventana-rota-del-septimo-piso-de-un-hotel-rs15",
+  "fecha": "2026-11-05T06:44:10-05:00",
+  "palabras": "Viral, Brasil",
+  "lead": "Las cámaras de seguridad del establecimiento captaron los momentos previos a la tragedia. Las autoridades investigan las condiciones de la estructura que cedió.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capitanejo tendrá planta de tratamiento de agua potable mediante obras por impuestos",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/capitanejo-tendra-planta-de-tratamiento-de-agua-potable-mediante-obras-por-impuestos-rg10",
+  "fecha": "2026-11-05T06:36:17-05:00",
+  "palabras": "Bucaramanga, Santander, Ministerio de Vivienda, Mario Hernández",
+  "lead": "Más de 6.000 familias se beneficiarán con el proyecto que será impulsado por el empresario santandereano Mario Hernández, tras un acuerdo con el ministro de Vivienda, Jaime Andrés Beltrán.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En Cali se adelanta la Operación Iron 2.0 contra el crimen organizado",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/en-cali-se-adelanta-la-operacion-iron-2-0-contra-el-crimen-organizado-pr30",
+  "fecha": "2026-11-05T06:42:53-05:00",
+  "palabras": "Cali, Abelardo De La Espriella, Alejandro Eder",
+  "lead": "Aseguró el alcalde que el propósito es desmantelar diez bandas criminales y capturar a más de 100 delincuentes. Es una ofensiva contra estructuras dedicadas al homicidio, el hurto, la extorsión y el microtráfico, explicó Eder.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría formula cargos a dos exgerentes de Metrolínea por caso Metrocinco Plus",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/procuraduria-formula-cargos-a-dos-exgerentes-de-metrolinea-por-caso-metrocinco-plus-rg10",
+  "fecha": "2026-11-05T06:50:14-05:00",
+  "palabras": "Procuraduría General de la Nación, Noticias de hoy, Blu Radio, Santander, Bucaramanga, Metrolínea, Sistemas de Transporte, Metrolínea",
+  "lead": "La Procuraduría investiga una presunta omisión en el seguimiento al contrato de concesión con Metrocinco Plus, operador que entró en crisis y dejó de prestar el servicio en Bucaramanga.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aviadores advierten fallas en control radar de Bogotá: “desde 2015 los equipos no son actualizados”",
+  "enlace": "https://caracol.com.co/2026/11/05/aviadores-advierten-fallas-en-control-radar-de-bogota-desde-2015-los-equipos-no-son-actualizados/",
+  "fecha": "2026-11-05T06:34:23-05:00",
+  "palabras": "",
+  "lead": "El capitán Germán Roa, vicepresidente de la Asociación Colombiana de Aviadores Civiles (ACDAC), cuestionó la falta de mantenimiento en sistemas de navegación aérea: “las fallas no son nuevas”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lo que se sabe del secuestro de subteniente en Arauca: inteligencia señala a alias ‘Boyaco’, del ELN",
+  "enlace": "https://caracol.com.co/2026/11/05/lo-que-se-sabe-del-secuestro-de-una-subteniente-en-arauca-inteligencia-senala-a-boyaco-del-eln/",
+  "fecha": "2026-11-05T06:50:53-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la información oficial, la uniformada fue interceptada por dos hombres armados que se desplazaban en una motocicleta.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Refuerzan controles en la Terminal de Pasto, luego de falsa alarma por supuesto explosivo",
+  "enlace": "https://caracol.com.co/2026/11/05/refuerzan-controles-en-la-terminal-de-pasto-luego-de-falsa-alarma-por-supuesto-explosivo/",
+  "fecha": "2026-11-05T06:54:22-05:00",
+  "palabras": "",
+  "lead": "La operación se mantiene con normalidad por parte de las distintas empresas de transporte",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayeron últimos implicados en el crimen de María Camila Potosí y su bebé durante operación IRON 2.0",
+  "enlace": "https://caracol.com.co/2026/11/05/cayeron-ultimos-implicados-en-el-crimen-de-maria-camila-potosi-y-su-bebe-durante-operacion-iron-20/",
+  "fecha": "2026-11-05T06:53:15-05:00",
+  "palabras": "",
+  "lead": "Las capturas se realizaron en la madrugada de este jueves en medio de una ofensiva que dejó más de 100 detenidos y 11 organizaciones criminales desarticuladas en Cali",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asignan más de $95.000 millones para ayudas a damnificados del terremoto en Risaralda",
+  "enlace": "https://caracol.com.co/2026/11/05/asignan-mas-de-95000-millones-para-ayudas-a-damnificados-del-terremoto-en-risaralda/",
+  "fecha": "2026-11-05T06:52:08-05:00",
+  "palabras": "",
+  "lead": "Sin embargo, la comunidad insiste en la necesidad de que estos recursos lleguen, pues, a casi tres meses del terremoto, todavía hay personas que no han recibido ni siquiera el primer mes de subsidio.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Prográmese! Comenzó el festival del calentado en Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/11/05/programese-comenzo-el-festival-del-calentado-en-bucaramanga/",
+  "fecha": "2026-11-05T06:49:05-05:00",
+  "palabras": "",
+  "lead": "El festival gastronómico va desde el 5 hasta el 22 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Decretan toque de queda en Ataco, Tolima, para mantener el orden público",
+  "enlace": "https://caracol.com.co/2026/11/05/decretan-toque-de-queda-en-el-municipio-de-ataco-para-mantener-orden-publico/",
+  "fecha": "2026-11-05T06:33:27-05:00",
+  "palabras": "",
+  "lead": "La medida restringe la circulación y permanencia de personas en vías, espacios públicos y lugares abiertos a la ciudadanía.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Netanyahu pierde apoyo: partido ultraortodoxo ya no respalda su mandato",
+  "enlace": "https://caracol.com.co/2026/11/05/netanyahu-pierde-apoyo-partido-ultraortodoxo-ya-no-respalda-su-mandato/",
+  "fecha": "2026-11-05T06:44:48-05:00",
+  "palabras": "",
+  "lead": "El partido Judaísmo Unido de la Torá (JUT), que forma parte de la coalición gubernamental saliente de Netanyahu, se negó a brindarle apoyo para que siga como primer ministro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Estamos preparados para procedimientos de contingencia”: controlador aéreo por fallas en El Dorado",
+  "enlace": "https://caracol.com.co/2026/11/05/estamos-preparados-para-procedimientos-de-contingencia-controlado-aereo-por-fallas-en-el-dorado/",
+  "fecha": "2026-11-05T06:37:46-05:00",
+  "palabras": "",
+  "lead": "El aeropuerto El Dorado de Bogotá presentó fallas durante dos horas en la tarde del 4 de noviembre. ¿Qué pasó?",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un vuelo de Dublín a Roma fue desviado a la base aérea francesa de Évreux por una alerta de bomba",
+  "enlace": "https://caracol.com.co/2026/11/05/un-vuelo-de-dublin-a-roma-fue-desviado-a-la-base-aerea-francesa-de-evreux-por-una-alerta-de-bomba/",
+  "fecha": "2026-11-05T06:36:09-05:00",
+  "palabras": "",
+  "lead": "La aeronave aterrizó sin incidentes con 151 pasajeros y seis tripulantes a bordo, mientras equipos de artificieros realizan inspecciones de seguridad. El incidente se suma a una serie de amenazas de bomba registradas esta semana en vuelos europeos, varias de las cuales resultaron ser falsas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La propuesta de Reconstrucción por Impuestos fue socializada con empresarios y el Gobierno Nacional",
+  "enlace": "https://caracol.com.co/2026/11/05/la-propuesta-de-reconstruccion-por-impuestos-fue-socializada-con-empresarios-y-el-gobierno-nacional/",
+  "fecha": "2026-11-05T06:33:11-05:00",
+  "palabras": "",
+  "lead": "Esta propuesta de Proantioquia y los aliados fue presentada para la reconstrucción de zonas afectadas por el sismo del pasado 10 de agosto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Diputados del Huila piden celeridad en la ejecución de recursos destinados a seguridad",
+  "enlace": "https://caracol.com.co/2026/11/05/diputados-del-huila-piden-celeridad-en-la-ejecucion-de-recursos-destinados-a-seguridad/",
+  "fecha": "2026-11-05T06:32:51-05:00",
+  "palabras": "",
+  "lead": "De los $74.000 millones previstos para el cuatrienio, solo se habría ejecutado el 42%, según diputados de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Policía Metropolitana de Santa Marta cumple 14 años al servicio de la ciudadanía",
+  "enlace": "https://caracol.com.co/2026/11/05/la-policia-metropolitana-de-santa-marta-cumple-14-anos-al-servicio-de-la-ciudadania/",
+  "fecha": "2026-11-05T06:30:53-05:00",
+  "palabras": "",
+  "lead": "En su etapa inicial fue conformada con aproximadamente 1.930 uniformados y desarrolla su servicio en Santa Marta y los municipios de Ciénaga, Puebloviejo, Sitionuevo, Palermo y el corregimiento de Guachaca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Chat de Petro con Angie Rodríguez menciona contrato para Deicy Jiménez",
+  "enlace": "https://www.lafm.com.co/politica/gustavo-petro-chat-angie-rodriguez-hoja-de-vida-deicy-jimenez-contrato-416194",
+  "fecha": "2026-11-05T06:52:00-05:00",
+  "palabras": "Política,Gustavo Petro,Denuncia por acoso,contratos,Dapre",
+  "lead": "Rodríguez y Jiménez se reunieron el día anterior, encuentro del que se conoció una fotografía, y acordaron llevar una defensa conjunta.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano jueves 5 de noviembre 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-jueves-5-de-noviembre-2026-416176",
+  "fecha": "2026-11-05T06:47:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este jueves en La FM.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cristiano Ronaldo se retira de la selección de Portugal",
+  "enlace": "https://www.lafm.com.co/deportes/cristiano-ronaldo-retiro-seleccion-de-portugal-416192",
+  "fecha": "2026-11-05T06:38:00-05:00",
+  "palabras": "Deportes,Cristiano Ronaldo,Selección de Portugal,Fútbol",
+  "lead": "\"Hoy mi viaje con la selección nacional llega a su fin\", añadió en un vídeo Ronaldo, que se retira con 234 internacionalidades y 146 goles.",
   "seccion": "deportes",
   "nueva": true,
   "tambien": []
