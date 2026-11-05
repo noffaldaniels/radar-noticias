@@ -656,7 +656,7 @@
   "palabras": "Viral, Brasil",
   "lead": "Las cámaras de seguridad del establecimiento captaron los momentos previos a la tragedia. Las autoridades investigan las condiciones de la estructura que cedió.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "Bucaramanga, Santander, Ministerio de Vivienda, Mario Hernández",
   "lead": "Más de 6.000 familias se beneficiarán con el proyecto que será impulsado por el empresario santandereano Mario Hernández, tras un acuerdo con el ministro de Vivienda, Jaime Andrés Beltrán.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "Cali, Abelardo De La Espriella, Alejandro Eder",
   "lead": "Aseguró el alcalde que el propósito es desmantelar diez bandas criminales y capturar a más de 100 delincuentes. Es una ofensiva contra estructuras dedicadas al homicidio, el hurto, la extorsión y el microtráfico, explicó Eder.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Procuraduría General de la Nación, Noticias de hoy, Blu Radio, Santander, Bucaramanga, Metrolínea, Sistemas de Transporte, Metrolínea",
   "lead": "La Procuraduría investiga una presunta omisión en el seguimiento al contrato de concesión con Metrocinco Plus, operador que entró en crisis y dejó de prestar el servicio en Bucaramanga.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "El capitán Germán Roa, vicepresidente de la Asociación Colombiana de Aviadores Civiles (ACDAC), cuestionó la falta de mantenimiento en sistemas de navegación aérea: “las fallas no son nuevas”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "De acuerdo con la información oficial, la uniformada fue interceptada por dos hombres armados que se desplazaban en una motocicleta.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "La operación se mantiene con normalidad por parte de las distintas empresas de transporte",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Las capturas se realizaron en la madrugada de este jueves en medio de una ofensiva que dejó más de 100 detenidos y 11 organizaciones criminales desarticuladas en Cali",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "Sin embargo, la comunidad insiste en la necesidad de que estos recursos lleguen, pues, a casi tres meses del terremoto, todavía hay personas que no han recibido ni siquiera el primer mes de subsidio.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "El festival gastronómico va desde el 5 hasta el 22 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "La medida restringe la circulación y permanencia de personas en vías, espacios públicos y lugares abiertos a la ciudadanía.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "El partido Judaísmo Unido de la Torá (JUT), que forma parte de la coalición gubernamental saliente de Netanyahu, se negó a brindarle apoyo para que siga como primer ministro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "El aeropuerto El Dorado de Bogotá presentó fallas durante dos horas en la tarde del 4 de noviembre. ¿Qué pasó?",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "La aeronave aterrizó sin incidentes con 151 pasajeros y seis tripulantes a bordo, mientras equipos de artificieros realizan inspecciones de seguridad. El incidente se suma a una serie de amenazas de bomba registradas esta semana en vuelos europeos, varias de las cuales resultaron ser falsas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "Esta propuesta de Proantioquia y los aliados fue presentada para la reconstrucción de zonas afectadas por el sismo del pasado 10 de agosto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "De los $74.000 millones previstos para el cuatrienio, solo se habría ejecutado el 42%, según diputados de la región.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "En su etapa inicial fue conformada con aproximadamente 1.930 uniformados y desarrolla su servicio en Santa Marta y los municipios de Ciénaga, Puebloviejo, Sitionuevo, Palermo y el corregimiento de Guachaca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Política,Gustavo Petro,Denuncia por acoso,contratos,Dapre",
   "lead": "Rodríguez y Jiménez se reunieron el día anterior, encuentro del que se conoció una fotografía, y acordaron llevar una defensa conjunta.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Estas son las noticias más importantes de este jueves en La FM.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -864,6 +864,138 @@
   "fecha": "2026-11-05T06:38:00-05:00",
   "palabras": "Deportes,Cristiano Ronaldo,Selección de Portugal,Fútbol",
   "lead": "\"Hoy mi viaje con la selección nacional llega a su fin\", añadió en un vídeo Ronaldo, que se retira con 234 internacionalidades y 146 goles.",
+  "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Concejo de Medellín aprobó nuevo POT: no en todas las comunas se podrá tener vivienda turística",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/concejo-de-medellin-aprobo-nuevo-pot-no-en-todas-las-comunas-se-podra-tener-vivienda-turistica-rg10",
+  "fecha": "2026-11-05T07:27:23-05:00",
+  "palabras": "Antioquia, Medellín, Concejo de Medellín, Planeación Distrital, Noticias de hoy",
+  "lead": "Frente a la polémica vivienda turística se planetó un modelo de regulación y no de prohibición para que pueda convivir con la tradicional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Corredora murió durante una maratón por rabdomiólisis: síntomas de esta peligrosa afección",
+  "enlace": "https://www.bluradio.com/mundo/corredora-murio-durante-una-maraton-por-rabdomiolisis-sintomas-de-esta-peligrosa-afeccion-rs15",
+  "fecha": "2026-11-05T07:25:53-05:00",
+  "palabras": "Viral, Estados Unidos, Nueva York",
+  "lead": "La emergencia ocurrió cuando faltaban pocos kilómetros para llegar a la meta. Los especialistas advierten sobre las señales de alerta de esta condición y sus complicaciones.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "EEUU y Venezuela ejecutaron bombardeo conjunto contra campamento del ELN en Apure",
+  "enlace": "https://www.bluradio.com/mundo/eeuu-y-venezuela-ejecutaron-bombardeo-conjunto-contra-campamento-del-eln-en-apure-pr30",
+  "fecha": "2026-11-05T07:21:34-05:00",
+  "palabras": "Venezuela, ELN, Estados Unidos",
+  "lead": "De acuerdo con los detalles brindados, los drones utilizados para el ataque son operados habitualmente por las fuerzas estadounidenses desde su propio territorio. Las informaciones señalan que el campamento atacado funcionaba principalmente como un centro de distribución de cocaína.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pico y placa en Bogotá hoy jueves 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/regiones/bogota/pico-y-placa-en-bogota-hoy-jueves-5-de-noviembre-de-2026-cb20",
+  "fecha": "2026-11-05T07:26:11-05:00",
+  "palabras": "Pico y placa, Bogotá",
+  "lead": "La restricción vehicular aplica este jueves 5 de noviembre para las placas terminadas en 6, 7, 8, 9 y 0 en la capital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pico y placa en Medellín hoy jueves 5 de noviembre de 2026: Restricción vehicular para placas 3 y 6",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/pico-y-placa-en-medellin-hoy-jueves-5-de-noviembre-de-2026-restriccion-vehicular-para-placas-3-y-6-cb20",
+  "fecha": "2026-11-05T07:23:23-05:00",
+  "palabras": "Medellín, Pico y placa, Movilidad",
+  "lead": "La restricción vehicular aplica este jueves de 5:00 a.m. a 8:00 p.m. para las placas terminadas en 3 y 6 en la capital antioqueña.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este es el balance de la gestión en el consulado fantasma, según exembajador de Colombia en México",
+  "enlace": "https://caracol.com.co/2026/11/05/este-es-el-balance-de-la-gestion-en-el-consulado-fantasma-segun-exembajador-de-colombia-en-mexico/",
+  "fecha": "2026-11-05T07:14:22-05:00",
+  "palabras": "",
+  "lead": "Fernando García habló en 6AM W sobre la controversia en torno al consulado colombiano en Tijuana que nunca entró en funcionamiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades de Boyacá acuerdan acciones para fortalecer la seguridad en la provincia de Valderrama",
+  "enlace": "https://caracol.com.co/2026/11/05/autoridades-de-boyaca-acuerdan-acciones-para-fortalecer-la-seguridad-en-la-provincia-de-valderrama/",
+  "fecha": "2026-11-05T07:23:50-05:00",
+  "palabras": "",
+  "lead": "Prevención del reclutamiento forzado y jornadas de seguridad en el sector minero hacen parte de los compromisos establecidos con las autoridades municipales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santander: Capitanejo solo puede suministrar agua hasta mediodía en medio del fenómeno de El Niño",
+  "enlace": "https://caracol.com.co/2026/11/05/santander-capitanejo-solo-puede-suministrar-agua-hasta-mediodia-en-medio-del-fenomeno-de-el-nino/",
+  "fecha": "2026-11-05T07:19:59-05:00",
+  "palabras": "",
+  "lead": "El municipio busca una solución para garantizar el suministro durante todo el día.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alberto Gamero: “No era el resultado que esperábamos, pero sí era el rendimiento que queríamos”",
+  "enlace": "https://caracol.com.co/2026/11/05/alberto-gamero-no-era-el-resultado-que-esperabamos-pero-si-era-el-rendimiento-que-queriamos/",
+  "fecha": "2026-11-05T07:22:15-05:00",
+  "palabras": "",
+  "lead": "El técnico de Millonarios destacó el funcionamiento del equipo, pero reconoció que hubo “desespero” en la definición.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piques ilegales han dejado 3.800 sancionados en el 2026 en Ibagué",
+  "enlace": "https://caracol.com.co/2026/11/05/piques-ilegales-han-dejado-3800-sancionados-en-el-2026-en-ibague/",
+  "fecha": "2026-11-05T07:21:39-05:00",
+  "palabras": "",
+  "lead": "Según el secretario de Movilidad de Ibagué, Camilo Martínez, son por lo menos 11 los sectores de la ciudad que están siendo afectados con este tipo de prácticas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley anticapuchos: tres condiciones para imponer penas de prisión",
+  "enlace": "https://www.lafm.com.co/sociedad/ley-anticapuchos-tres-condiciones-imponer-penas-de-prision-manifestantes-vandalimos-416196",
+  "fecha": "2026-11-05T07:29:00-05:00",
+  "palabras": "Sociedad,Proyecto de ley,Debate,Cámara de Representantes,Vandalismo",
+  "lead": "Julio César Triana, representante a la Cámara por el Huila, precisó que cubrirse el rostro no constituye por sí solo un delito.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Santiago Castañeda deja a Colombia y jugará con EE.UU.",
+  "enlace": "https://www.lafm.com.co/deportes/santiago-castaneda-joya-bundesliga-rechazo-colombia-jugar-estados-unidos-perfil-416190",
+  "fecha": "2026-11-05T06:15:00-05:00",
+  "palabras": "Deportes,Deporte,Fútbol,Bundesliga,Colombia,Estados Unidos",
+  "lead": "Castañeda es actualmente una de las figuras más importantes de su club alemán, disputando un total de 10 partidos con dos goles y 900 minutos jugados.",
   "seccion": "deportes",
   "nueva": true,
   "tambien": []
