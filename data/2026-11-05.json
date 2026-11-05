@@ -2757,7 +2757,7 @@
   "palabras": "Antioquia, Plan de Ordenamiento Territorial, Medellín, Noticias de hoy",
   "lead": "Habitantes de la capital antioqueña advierten que más que el aumento en lugares de este tipo, se requiere aumentar inspecciones de las autoridades para que no se desarrollen en zonas prohibidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2768,7 +2768,7 @@
   "palabras": "Davivienda, DAVIbank",
   "lead": "La integración incorpora a más de cuatro millones de clientes a una misma plataforma, amplía la oferta de productos para personas y empresas y estrena un botón de seguridad en la aplicación para prevenir posibles fraudes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2779,7 +2779,7 @@
   "palabras": "Antioquia, Clan del Golfo, violencia, Gustavo Petro",
   "lead": "Autoridades entregaron un preocupante balance que indica que en más de un centenar de las 125 localidades del departamento hay presencia de algún grupo armado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "Blu Radio, Bucaramanga, Santander, Corporaciones Autónomas Regionales",
   "lead": "El laboratorio cuenta con acreditación del Ideam y equipos de última tecnología. El espacio también prestará servicios a empresas y particulares para fortalecer el control y la vigilancia ambiental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "Davivienda, Vivienda, Gobierno nacional",
   "lead": "El presidente de la entidad, Javier José Suárez, se refirió a la sobretasa que la reforma tributaria mantiene para los bancos y señaló que un ajuste fiscal es necesario para reducir los costos de financiación y facilitar el acceso al crédito en Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "Ciudad Bolívar, Fiscalía General de la Nación",
   "lead": "El fiscal también indicó que los hechos relacionados con las conductas sexuales se habrían presentado de manera sucesiva y que la investigación ubica estos episodios aproximadamente entre junio de 2026 y el 15 de septiembre de 2026, fecha señalada como el último evento antes de la muerte de la niña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "Noticias de hoy, Entrevista, Agricultura",
   "lead": "La SAC pide al gobierno considerar al Gobierno que no aumente el IVA para los insumos agropecuarios.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "",
   "lead": "El hospital aclaró que el trámite no pasó a las siguientes etapas y que nunca se materializaron el nombramiento ni la posesión de Jiménez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "",
   "lead": "La cantante colombiana alcanzó una audiencia histórica durante una transmisión en vivo desde Ciudad de México, en la que presentó canciones de su álbum ‘No Me Arrepiento De Sentir Tanto’. La Bichota superó la marca que tenía Madonna en la plataforma.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "",
   "lead": "La Sala de Instrucción de la Corte Suprema de Justicia ordenó una inspección judicial en la Secretaría General del Senado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "",
   "lead": "A un año de su lanzamiento, la estrategia estrella del Distrito suma 26 obras contratadas, trabajos de mantenimiento preventivo y la proyección de nuevas áreas verdes para la ciudadanía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "",
   "lead": "Desde 1996 Buena Vista Social Club se consolida como una leyenda musical por su difusión de ritmos clásicos cubanos en voces e instrumentos musicales de auténticas leyendas del Caribe",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "",
   "lead": "Silvano Serrano quiere volver a liderar la región. Es el primer dirigente en lanzarse oficialmente a la contienda",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "",
   "lead": "La gobernadora del Tolima, Adriana Matiz, aseguró que el operativo es acompañado con el Esmad e Infancia y adolescencia, también el Instituto Colombiano de Bienestar Familiar, la Defensoría del Pueblo, Migración Colombia.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "",
   "lead": "El plan de ordenamiento territorial establece nuevas reglas para el desarrollo urbano de la capital antioqueña durante los próximos 12 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "",
   "lead": "Caracol Radio confirmó que se activaron los sistemas antidrones en el Fuerte Militar de Tolemaida, tras detectar el sobrevuelo de un dron sobre las instalaciones",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2933,7 +2933,7 @@
   "palabras": "",
   "lead": "A diez días de la desaparición del excandidato a la Alcaldía de Santa Marta, Lorena Fontalvo acudió al Concejo Distrital para pedir respeto por su familia y aseguró que continúa en comunicación con el Gaula, que adelanta las investigaciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2944,7 +2944,7 @@
   "palabras": "Internacional,Estados Unidos,Congreso de la República,Senado de la República,Cámara de Representantes",
   "lead": "El partido Demócrata fue un auténtico 'tsunami', a la espera de los resultados en los últimos estados del oeste.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2955,7 +2955,7 @@
   "palabras": "Entretenimiento,música,Cultura,Concierto,Artistas,Eventos presenciales",
   "lead": "El Festival Estéreo Picnic se llevará a cabo el 19, 20 y 21 de marzo de 2027 en el Parque Simón Bolívar de Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2966,6 +2966,347 @@
   "palabras": "Orden Público,Accidente,Bomberos,Siniestro vial,Cundinamarca,Emergencia,Heridos",
   "lead": "Según reportó el cuerpo de Bomberos de Cundinamarca entre las personas afectadas se encuentran, un menor de edad y una adulta mayor.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Medellín espera 2.500 ciclistas en el Gran Fondo World Series UCI 2026",
+  "enlace": "https://www.bluradio.com/deportes/medellin-espera-2-500-ciclistas-en-el-gran-fondo-world-series-uci-2026-so35",
+  "fecha": "2026-11-05T13:48:13-05:00",
+  "palabras": "Ciclismo",
+  "lead": "Medellín recibirá a 2.500 ciclistas nacionales e internacionales en el Gran Fondo World Series UCI 2026, una competencia que entregará cupos de clasificación para Francia 2027.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Quiebra de Ueno Bank sacude a Paraguay: Mañanas Blu, 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/quiebra-de-ueno-bank-sacude-a-paraguay-mananas-blu-5-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-05T14:04:30-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 5 de noviembre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Octubre registró temperaturas encima del promedio en el Valle de Aburrá: ¿qué viene para noviembre?",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/octubre-registro-temperaturas-encima-del-promedio-en-el-valle-de-aburra-que-viene-para-noviembre-so35",
+  "fecha": "2026-11-05T13:40:05-05:00",
+  "palabras": "Noticias de hoy, Medioambiente, Pronóstico del clima",
+  "lead": "El SIATA reportó temperaturas de hasta 1,5 grados Celsius por encima del promedio durante el día y entre 0.3 y 1 grados Celsius durante la noche.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De vender tamales a pelear la gloria olímpica: Emanuel Otálvaro disputa el oro en tenis de mesa",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/de-vender-tamales-a-pelear-la-gloria-olimpica-emanuel-otalvaro-disputa-el-oro-en-tenis-de-mesa-rg10",
+  "fecha": "2026-11-05T13:48:33-05:00",
+  "palabras": "Tenis de mesa, Juegos Olímpicos, Antioquia, Noticias de hoy",
+  "lead": "El tenimesista antioqueño logró avanzar a la gran final en Dakar tras superar una exigente semifinal, sellando una emotiva historia de superación personal y esfuerzo deportivo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desarticulan a 'La Roja', banda señalada de perfilar y hurtar a turistas en el área metropolitana",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/desarticulan-a-la-roja-banda-senalada-de-perfilar-y-hurtar-a-turistas-en-el-area-metropolitana-rg10",
+  "fecha": "2026-11-05T13:42:40-05:00",
+  "palabras": "Fiscalía General de la Nación, Robos, Robo de oro en Medellín, Noticias de hoy",
+  "lead": "Entre sus víctimas figura un extranjero a quien despojaron de una joya de oro y esmeraldas valorada en más de $150 millones en el barrio El Poblado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fue algo planeado: estudiante U. Javeriana por robo masivo en los vestieres durante un torneo",
+  "enlace": "https://www.bluradio.com/regiones/bogota/fue-algo-planeado-estudiante-u-javeriana-por-robo-masivo-en-los-vestieres-durante-un-torneo-rg10",
+  "fecha": "2026-11-05T14:03:23-05:00",
+  "palabras": "Bogotá, Robos",
+  "lead": "En diálogo con Meridiano BLU, Isabela Araujo, estudiante de la Facultad de Relaciones Internacionales y Ciencias Políticas y una de las afectadas, entregó su testimonio sobre el momento en que descubrieron la desaparición de sus pertenencias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El superagente de cuatro patas que dejó al descubierto a los criminales en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/el-superagente-de-cuatro-patas-que-dejo-al-descubierto-a-los-criminales-en-medellin-rg10",
+  "fecha": "2026-11-05T13:53:35-05:00",
+  "palabras": "Policía Nacional, Noticias de hoy, Medellín",
+  "lead": "Un perro entrenado para detectar microchips y memorias ocultas permitió incautar pruebas clave en un reciente operativo contra delitos sexuales a menores en la capital antioqueña.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aerocivil deberá rendir cuentas ante la Procuraduría tras fallas en navegación aérea",
+  "enlace": "https://www.bluradio.com/nacion/aerocivil-debera-rendir-cuentas-ante-la-procuraduria-tras-fallas-en-navegacion-aerea-rg10",
+  "fecha": "2026-11-05T13:50:37-05:00",
+  "palabras": "Aeronáutica Civil, Procuraduría General de la Nación",
+  "lead": "La exigencia se produce luego de las fallas registradas el pasado 4 de noviembre en los sistemas de visualización radar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Iván Sánchez sale de la dirección de la ADRES",
+  "enlace": "https://www.bluradio.com/salud/ivan-sanchez-sale-de-la-direccion-de-la-adres-rg10",
+  "fecha": "2026-11-05T13:50:31-05:00",
+  "palabras": "Adres",
+  "lead": "Fuentes confirmaron a Blu Radio la salida de Iván Humberto Sánchez Arango de la entidad encargada de administrar los recursos del sistema de salud. El funcionario llevaba poco más de dos meses en el cargo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Mis empleados no van a venir porque no tienen ni para comer\": así se vive la crisis en Paraguay",
+  "enlace": "https://www.bluradio.com/mundo/mis-empleados-no-van-a-venir-porque-no-tienen-ni-para-comer-asi-se-vive-la-crisis-en-paraguay-pr30",
+  "fecha": "2026-11-05T14:25:44-05:00",
+  "palabras": "Paraguay",
+  "lead": "César Rodríguez, comerciante afectado por el cierre de Ueno bank, aseguró que podría perder cerca de la mitad del dinero que tenía ahorrado, mientras enfrenta dificultades para mantener su negocio y cumplir con sus obligaciones laborales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alias 'La Abuela', una de las cabecillas del ELN, habría muerto en bombardeo en Venezuela",
+  "enlace": "https://www.bluradio.com/nacion/alias-la-abuela-una-de-las-cabecillas-del-eln-habria-muerto-en-bombardeo-en-venezuela-so35",
+  "fecha": "2026-11-05T14:12:55-05:00",
+  "palabras": "ELN, Venezuela",
+  "lead": "La mujer, señalada como una de las cabecillas más sanguinarias de esa organización, lleva más de tres décadas en las filas del grupo armado y tiene bajo su mando a cientos de integrantes.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Javier Julio Bejarano se encamina hacia la candidatura por la Alcaldía",
+  "enlace": "https://caracol.com.co/2026/11/05/javier-julio-bejarano-se-encamina-hacia-la-candidatura-por-la-alcaldia/",
+  "fecha": "2026-11-05T14:25:04-05:00",
+  "palabras": "",
+  "lead": "El exconcejal construyó su trayectoria entre la academia, el liderazgo social y la política",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Pulso del Fútbol, 5 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/05/el-pulso-del-futbol-5-de-noviembre-de-2026/",
+  "fecha": "2026-11-05T14:20:09-05:00",
+  "palabras": "",
+  "lead": "El Pulso del Fútbol, analiza el empate entre Millonarios y América en la Liga colombiana.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía obtuvo el primer lugar nacional por sus buenas prácticas regulatorias",
+  "enlace": "https://caracol.com.co/2026/11/05/alcaldia-obtuvo-el-primer-lugar-nacional-por-sus-buenas-practicas-regulatorias/",
+  "fecha": "2026-11-05T14:15:01-05:00",
+  "palabras": "",
+  "lead": "El Distrito recibió el reconocimiento del DNP y la CAF por la implementación del Análisis de Impacto Normativo",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Continúan las labores de búsqueda de la niña desaparecida tras emergencia en arroyo en Soledad",
+  "enlace": "https://caracol.com.co/2026/11/05/continuan-las-labores-de-busqueda-de-la-nina-desaparecida-tras-emergencia-en-arroyo-en-soledad/",
+  "fecha": "2026-11-05T14:04:51-05:00",
+  "palabras": "",
+  "lead": "Menor rescatada recibirá acompañamiento psicológico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Directora de la SAE denuncia amenazas e intimidaciones contra ella y su familia",
+  "enlace": "https://caracol.com.co/2026/11/05/directora-de-la-sae-denuncia-amenazas-e-intimidaciones-contra-ella-y-su-familia/",
+  "fecha": "2026-11-05T14:06:04-05:00",
+  "palabras": "",
+  "lead": "Diana Bravo aseguró que ha recibido cuatro mensajes anónimos, intimidaciones en las sedes territoriales, llamadas extrañas a sus hijos y hasta la presencia de un dron cerca de su vivienda, desde que asumió la dirección de la entidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La protección de los derechos humanos en el Valle de Aburrá cuenta con 700 rutas de atenciones",
+  "enlace": "https://caracol.com.co/2026/11/05/la-proteccion-de-los-derechos-humanos-en-el-valle-de-aburra-cuenta-con-700-rutas-de-atenciones/",
+  "fecha": "2026-11-05T14:00:22-05:00",
+  "palabras": "",
+  "lead": "Entre enero y septiembre del 2026, la Alcaldía de Medellín, registró 718 atenciones relacionadas a vulneraciones de derechos humanos como desapariciones, homicidios, distintos tipos de violencias y amenazas contra líderes sociales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿En qué se diferencian demócratas y republicanos en EE. UU.? Así quedó el mapa político",
+  "enlace": "https://caracol.com.co/2026/11/05/en-que-se-diferencian-democratas-y-republicanos-en-ee-uu-asi-quedo-el-mapa-politico/",
+  "fecha": "2026-11-05T13:52:44-05:00",
+  "palabras": "",
+  "lead": "Las elecciones intermedias del 3 de noviembre de 2026 reconfiguraron el Congreso de EE. UU. con una contundente victoria de los demócratas. Le contamos el panorama completo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cambio en la ADRES: sale el director Iván Sánchez; viceministra Marcela Brun quedará encargada",
+  "enlace": "https://caracol.com.co/2026/11/05/cambio-en-la-adres-sale-el-director-ivan-sanchez-viceministra-marcela-brun-quedara-encargada/",
+  "fecha": "2026-11-05T13:51:24-05:00",
+  "palabras": "",
+  "lead": "Sale del cargo Iván Sánchez, director de la ADRES, entidad que administra los recursos de la salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Avanza la construcción de cinco colegios y la reconstrucción del INEM",
+  "enlace": "https://caracol.com.co/2026/11/05/avanza-la-construccion-de-cinco-colegios-y-la-reconstruccion-del-inem/",
+  "fecha": "2026-11-05T13:52:46-05:00",
+  "palabras": "",
+  "lead": "Las obras registran un avance general del 82,95 % y beneficiarán a miles de estudiantes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En noviembre habrá Superluna llena: Se verá más grande y brillante de lo común ¿Cuándo? Fecha y hora",
+  "enlace": "https://caracol.com.co/2026/11/05/en-noviembre-habra-superluna-llena-se-vera-mas-grande-y-brillante-de-lo-comun-cuando-fecha-y-hora/",
+  "fecha": "2026-11-05T13:41:47-05:00",
+  "palabras": "",
+  "lead": "La Superluna del Castor hace parte del calendario astronómico de noviembre, con fechas destacadas para observar los fenómenos celestes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El talento de los medios comunitarios fue resaltado en la XVII Edición del Periodismo",
+  "enlace": "https://caracol.com.co/2026/11/05/el-talento-de-los-medios-comunitarios-fue-resaltado-en-la-xvii-edicion-del-periodismo/",
+  "fecha": "2026-11-05T13:40:05-05:00",
+  "palabras": "",
+  "lead": "Con recibió 64 trabajos postulados por 52 medios de comunicación, se entregaron reconocimientos en diez categorías del periodismo en el Valle de Aburrá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Marta amplía los horarios de uso de cuatro playas hasta abril de 2027",
+  "enlace": "https://caracol.com.co/2026/11/05/santa-marta-amplia-los-horarios-de-uso-de-cuatro-playas-hasta-abril-de-2027/",
+  "fecha": "2026-11-05T13:40:00-05:00",
+  "palabras": "",
+  "lead": "La medida cobija a La Bahía, El Rodadero, Bello Horizonte y Playa Dormida, con horarios extendidos para bañistas, zonas de reposo y kioscos, con el objetivo de fortalecer el turismo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría llega al SENA por denuncias de presuntas irregularidades durante el gobierno Petro",
+  "enlace": "https://caracol.com.co/2026/11/05/contraloria-llega-al-sena-por-denuncias-de-presuntas-irregularidades-durante-el-gobierno-petro/",
+  "fecha": "2026-11-05T13:23:19-05:00",
+  "palabras": "",
+  "lead": "El director Fray Ricardo Torres pidió acompañamiento de la Contraloría para revisar los procesos de contratación desde la etapa precontractual hasta la ejecución y el cierre de los contratos, así como el manejo de los recursos públicos. La DIARI instaló un equipo de Policía Judicial en la entidad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "María Fernanda Mena logró una nueva medalla para Colombia en el Mundial de Levantamiento de Pesas",
+  "enlace": "https://caracol.com.co/2026/11/05/maria-fernanda-mena-logro-una-nueva-medalla-para-colombia-en-el-mundial-de-levantamiento-de-pesas/",
+  "fecha": "2026-11-05T13:16:00-05:00",
+  "palabras": "",
+  "lead": "La delegación colombiana ya acumula 6 medallas en el Mundial que se disputa en Ningbo, China.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El futuro de las criptos tras el triunfo demócrata",
+  "enlace": "https://www.lafm.com.co/economia/que-pasara-precio-criptomonedas-victoria-democrata-congreso-estados-unidos-416246",
+  "fecha": "2026-11-05T14:19:00-05:00",
+  "palabras": "Economía,Estados Unidos,Criptomonedas,Elecciones en el exterior",
+  "lead": "Grupos del sector de las criptomonedas se muestran escépticos con respecto a que el próximo Congreso impulse nuevas legislaciones tras la fallida Ley Clari...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fedesarrollo pide cambios a la reforma fiscal del Gobierno",
+  "enlace": "https://www.lafm.com.co/economia/fedesarrollo-reforma-fiscal-gobierno-riesgos-empleo-beneficios-tributarios-416249",
+  "fecha": "2026-11-05T14:16:00-05:00",
+  "palabras": "Economía,Ministerio de Hacienda y Crédito Público,medidas fiscales,IVA,sector financiero",
+  "lead": "El centro de estudios considera necesaria la reforma fiscal, aunque pide revisar los cambios en los aportes laborales y los beneficios tributarios a grande...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría alerta por fallas en radares de la Aerocivil",
+  "enlace": "https://www.lafm.com.co/orden-publico/procuraduria-alerta-por-fallas-en-radares-de-aerocivil-ocho-estan-fuera-de-servicio-416247",
+  "fecha": "2026-11-05T14:06:00-05:00",
+  "palabras": "Orden Público,Procuraduría General de la Nación,Aerocivil,Vuelos",
+  "lead": "Procuraduría General alerta por fallas en los radares de la Aerocivil: al menos ocho están fuera de servicio",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Movilidad en Bogotá: accidentes, tráfico y último reporte este jueves 5 de noviembre de 2026",
+  "enlace": "https://www.lafm.com.co/actualidad/en-vivo-movilidad-bogota-accidentes-trafico-ultimo-reporte-5-noviembre-2026-416242",
+  "fecha": "2026-11-05T14:04:00-05:00",
+  "palabras": "Actualidad,Bogotá,TransMilenio,SITP,Accidente,Secretaría de Movilidad",
+  "lead": "Así está la situación del tránsito y la movilidad en Bogotá este jueves 5 de septiembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia espera resultados de pruebas de ébola en cuatro pacientes: INS mantiene vigilancia",
+  "enlace": "https://www.lafm.com.co/sociedad/ebola-salud-contagios-personas-congo-malaria-sintomas-416222",
+  "fecha": "2026-11-05T10:29:00-05:00",
+  "palabras": "Sociedad,Ministerio de Salud,Superintendencia Nacional de Salud,Salud,enfermedades,Atención a pacientes,pacientes,África,República Democrática del Congo",
+  "lead": "El Instituto Nacional de Salud mantiene la vigilancia sobre otros cuatro casos sospechosos y espera los resultados que permitan confirmar o descartar la in...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tras el terremoto, el miedo apaga el centro de Pereira",
+  "enlace": "https://www.lafm.com.co/sociedad/terremoto-en-pereira-deja-oscuridad-miedo-e-inseguridad-comercial-en-el-centro-416218",
+  "fecha": "2026-11-05T09:57:00-05:00",
+  "palabras": "Sociedad,Terremoto en Colombia,terremoto,comercio,Inseguridad,Pereira,damnificados,Víctimas,Risaralda,Gobernación de Risaralda",
+  "lead": "A casi tres meses de la tragedia, la inseguridad, los apagones y las demoliciones profundizan la crisis comercial del centro de Pereira",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
