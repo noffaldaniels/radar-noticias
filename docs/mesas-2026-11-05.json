@@ -314,6 +314,13 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El censo actualizado de afectación por el sismo de 5.6 del martes pasado en Chaparral, Tolima, cuenta 120 viviendas dañadas en 7 sectores rurales y más de 30 barrios.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:24",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "Son ya 12 los vuelos desviados o con fallas en Europa debido a problemas de seguridad aérea.",
+   "resaltar": false
   }
  ],
  "avisos": [
