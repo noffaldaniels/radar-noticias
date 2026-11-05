@@ -342,6 +342,27 @@
    "quien": "Gobernadora del Tolima",
    "que": "Resaltó que en Ibagué se creó el primer bachillerato musical de Colombia en el conservatorio, y destacó la lucha contra la delincuencia y el terrorismo en el departamento.",
    "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:14",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La ministra de Salud confirmó a Ana María Viera que ya están con el tema de la crisis del empalme y cambio de gestor. Además, confirmó que el cosubsidio ya está implementando estrategias como el agendamiento online y las entregas de medicamentos a domicilio.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:16",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El New York Times publicó sobre la construcción del monumento al Arco del Triunfo de 250 pies en Arlington, que se espera sea aprobado por una comisión federal de Trump, lo que permitiría iniciar los trabajos pronto. Esto a pesar de la fuerte oposición y desafíos legales por daños ambientales y tráfico, aunque una jueza federal evalúa emitir una orden para frenar la obra y demócratas amenazan con cancelarla al asumir el Congreso en enero.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:20",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El presidente Petro viajó a México en septiembre, se reunió en el Palacio Nacional con la presidenta Sheinbaum y su misión es establecer si la reunión tenía el propósito de notificarle la intención de Petro de irse a vivir a México y montar una escuela política en México.",
+   "resaltar": false
   }
  ],
  "avisos": [
