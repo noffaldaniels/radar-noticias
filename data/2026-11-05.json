@@ -1382,7 +1382,7 @@
   "palabras": "Noticias de hoy, Cali",
   "lead": "El caso de María Camila Potosí fue un crimen que conmovió al país, que sucedió en julio de este año en la comuna 18 de Cali.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "Putumayo, Glufosinato de Amonio, Cocaína",
   "lead": "El fallo ordenó detener las actividades para iniciar las aspersiones, al advertir que el INS aún no ha entregado el concepto previo sobre los posibles efectos del herbicida en la salud. La medida tendrá una vigencia máxima de cuatro meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "Restaurante en Bogotá, Turismo",
   "lead": "Este es el listado completo de los votados como mejores restaurantes del mundo en 2026, que se dio a conocer en una gala en Lima, la capital de Perú.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "Autodefensas de la Sierra Nevada",
   "lead": "Las víctimas habrían permanecido varios días en cautiverio mientras se realizaban exigencias económicas para permitirles su liberación y continuar con sus actividades laborales en la ciudad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "Chocó, Noticias de hoy",
   "lead": "Según las autoridades departamentales, 16 personas están en riesgo de muerte por lo que se trabajar en su evacuación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "Contraloría General, Ministerio de Salud",
   "lead": "El hallazgo corresponde al seguimiento de los recursos entregados por esa cartera entre 2022 hasta junio de 2026, periodo en el que también se detectaron dificultades en la ejecución de proyectos hospitalarios y en la justificación del uso del dinero público.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "",
   "lead": "El coronel Bernardo Pantoja, padre de la subteniente María Camila Pantoja, que fue secuestrada mientras patrullaba en Saravena, Arauca, relató la última conversación con su hija",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "Los manifestantes dicen que la protesta es pacífica; habilitaron un corredor humanitario para el paso de estudiantes y personas enfermas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "El alcalde Ricardo Camacho calificó las antiguas estructuras como una “cicatriz urbana”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "Rosa Zuluaga fue embajadora alterna ante la ONU en New York y vicecónsul en Boston.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "La decisión coincide con las revelaciones de la Unidad Investigativa de Caracol Radio sobre este caso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "El expresidente Horacio Cartes, líder del oficialismo y mentor político del actual mandatario, aseguró que su partido no respaldará el manejo irregular de recursos públicos y de los jubilados.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "La investigación se concentrará en la microcuenca de la quebrada La Baja, en Santander, una zona ubicada fuera de los límites del páramo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "Internacional,Francia,París,protesta",
   "lead": "La protesta ya estaba anunciada hace un mes por varios sindicatos y estudiantes.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "Actualidad,Secretaría de Movilidad,Bogotá,trancón",
   "lead": "La medida aplica de lunes a viernes, en el horario de la mañana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,6 +1547,281 @@
   "palabras": "Orden Público,Alcalde de Cali,Cali, Colombia,Homicidios",
   "lead": "En el marco de la Operación Iron 2.0 fueron capturados dos de los responsables del homicidio de la joven embarazada María Camila Potosí.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Deudas hacen que Hospital Alma Máter de Antioquia suspenda servicios asistenciales",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/deudas-hacen-que-hospital-alma-mater-de-antioquia-suspenda-servicios-asistenciales-rg10",
+  "fecha": "2026-11-05T08:57:21-05:00",
+  "palabras": "Antioquia, Medellín, Salud, Ministerio de Salud",
+  "lead": "EPS tiene una deuda cercana a los 50 mil millones de pesos con cuentas embargadas, mientras que Savia Salud es de 100 mil millones de pesos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Niña indígena de 8 años murió luego de ataque de un felino en zona rural de Belén de Bajirá",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/nina-indigena-de-8-anos-murio-luego-de-ataque-de-un-felino-en-zona-rural-de-belen-de-bajira-rg10",
+  "fecha": "2026-11-05T09:16:09-05:00",
+  "palabras": "Urabá, Chocó, Noticias de hoy",
+  "lead": "Codechocó anunció el desplazamiento de un equipo técnico hasta la zona para verificar las circunstancias del caso.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ataque informático afectó la plataforma de Pico y Placa Solidario en Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/ataque-informatico-afecto-la-plataforma-de-pico-y-placa-solidario-en-bogota-rg10",
+  "fecha": "2026-11-05T09:09:26-05:00",
+  "palabras": "Pico y placa",
+  "lead": "La entidad aseguró que el incidente ya fue contenido y que sus equipos técnicos adelantan investigaciones para establecer el alcance de la afectación y reforzar la seguridad de la información.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Quebró Ueno bank, uno de los principales bancos de Paraguay: qué pasará con los ahorros de clientes",
+  "enlace": "https://www.bluradio.com/mundo/quebro-ueno-bank-uno-de-los-principales-bancos-de-paraguay-que-pasara-con-los-ahorros-de-clientes-cb20",
+  "fecha": "2026-11-05T09:07:27-05:00",
+  "palabras": "Paraguay",
+  "lead": "La intervención de la entidad dejó a millones de ahorradores sin acceso a su dinero y provocó protestas en Asunción, mientras el Congreso estudia la acusación contra el mandatario.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Crisis de Ueno Bank en Paraguay: qué pasó y qué pasará con el dinero de 3 millones de clientes",
+  "enlace": "https://www.bluradio.com/mundo/que-esta-pasando-en-paraguay-millones-de-personas-amanecieron-sin-acceso-a-su-dinero-en-ueno-bank-pr30",
+  "fecha": "2026-11-05T09:14:06-05:00",
+  "palabras": "Paraguay, Ueno",
+  "lead": "La situación ha escalado tanto que la oposición paraguaya presentó al Congreso pedido de destitución del presidente Santiago Peña.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bombardeo al ELN en Venezuela lo ejecutó solo EEUU, dice ONG FundaRedes",
+  "enlace": "https://www.bluradio.com/nacion/bombardeo-al-eln-en-venezuela-lo-ejecuto-solo-eeuu-dice-ong-fundaredes-pr30",
+  "fecha": "2026-11-05T09:16:42-05:00",
+  "palabras": "Venezuela, Bombardeo, ELN",
+  "lead": "Asimismo, la organización denunció una absoluta opacidad del Estado venezolano, señalando el silencio del ministro del Interior y Justicia, Diosdado Cabello, así como de la cúpula militar y las autoridades regionales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deicy Jiménez entregará su celular a la Fiscalía para extracción forense sobre Petro",
+  "enlace": "https://caracol.com.co/2026/11/05/deicy-jimenez-entregara-su-celular-a-la-fiscalia-para-extraccion-forense-sobre-petro/",
+  "fecha": "2026-11-05T09:01:00-05:00",
+  "palabras": "",
+  "lead": "La inspección del celular de Deicy Jiménez se adelantará este jueves por parte de expertos investigadores del CTI de la Fiscalía General de la Nación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jean Fernandes sobre su futuro en América: “Tengo contrato hasta diciembre, vamos a mirar qué pasa”",
+  "enlace": "https://caracol.com.co/2026/11/05/jean-fernandes-sobre-su-futuro-en-america-tengo-contrato-hasta-diciembre-vamos-a-mirar-que-pasa/",
+  "fecha": "2026-11-05T09:26:56-05:00",
+  "palabras": "",
+  "lead": "El portero brasileño fue la gran figura en el empate de su equipo 0-0 ante Millonarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pacientes de Sanitas denuncian demora en entrega de medicamentos tras cambio de operador en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/05/pacientes-de-sanitas-denuncian-demora-en-entrega-de-medicamentos-tras-cambio-de-operador-en-bogota/",
+  "fecha": "2026-11-05T09:12:44-05:00",
+  "palabras": "",
+  "lead": "Desde el dispensario de Colsubsidio en la avenida Calle 26, los usuarios denunciaron largas filas en Caracol Radio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Angie Rodríguez pidió reserva de fechas de declaración ante Fiscalía por motivos de seguridad",
+  "enlace": "https://caracol.com.co/2026/11/05/angie-rodriguez-pidio-reserva-de-fechas-de-declaracion-ante-fiscalia-por-motivos-de-seguridad/",
+  "fecha": "2026-11-05T09:13:41-05:00",
+  "palabras": "",
+  "lead": "La exdirectora del Dapre hizo la petición a la Fiscalía en medio de la investigación por presuntos hechos de corrupción en el gobierno de Gustavo Petro",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 5 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/05/precio-y-cotizacion-del-dolar-en-venezuela-hoy-5-de-noviembre-de-2026/",
+  "fecha": "2026-11-05T09:23:12-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en el dólar y otras divisas del mundo, y cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fallas en El Dorado afectan seguridad aérea y planes de expansión de las aerolíneas: Capitán Peralta",
+  "enlace": "https://caracol.com.co/2026/11/05/fallas-en-el-dorado-afectan-seguridad-aerea-y-planes-de-expansion-de-las-aerolineas-capitan-peralta/",
+  "fecha": "2026-11-05T08:54:09-05:00",
+  "palabras": "",
+  "lead": "El Capitán Eliudt Peralta, habló en 6AM W de las fallas en los radares que se presentaron en el aeropuerto El Dorado en Bogotá",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presunto integrante de las ACSN   estaría involucrado en secuestro de dos hermanos en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/05/presunto-integrante-de-las-acsn-estaria-involucrado-en-secuestro-de-dos-hermanos-en-santa-marta/",
+  "fecha": "2026-11-05T09:21:28-05:00",
+  "palabras": "",
+  "lead": "La información fue confirmada por la Fiscalía General de la Nación.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 5 de noviembre de 2026 en Colombia: la moneda internacional inicia la jornada al alza",
+  "enlace": "https://caracol.com.co/2026/11/05/dolar-hoy-5-de-noviembre-de-2026-en-colombia-la-moneda-internacional-inicia-la-jornada-al-alza/",
+  "fecha": "2026-11-05T09:18:44-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este jueves 5 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además del real brasileño, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Excanciller Villavicencio señaló a Dirección de Asuntos Consulares por Consulado fantasma en Tijuana",
+  "enlace": "https://caracol.com.co/2026/11/05/excanciller-villavicencio-senalo-a-direccion-de-asuntos-consulares-por-consulado-fantasma-en-tijuana/",
+  "fecha": "2026-11-05T09:18:06-05:00",
+  "palabras": "",
+  "lead": "Rosa Villavicencio, excanciller en el gobierno Petro, conversó con 6AM W acerca de la polémica revelada por Caracol Radio sobre el ‘Consulado fantasma’ de Colombia en Tijuana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conciertos de Taylor Swift cancelados en Viena por complot terrorista serán objeto de un documental",
+  "enlace": "https://caracol.com.co/2026/11/05/conciertos-de-taylor-swift-cancelados-en-viena-por-complot-terrorista-seran-objeto-de-un-documental/",
+  "fecha": "2026-11-05T09:17:26-05:00",
+  "palabras": "",
+  "lead": "La historia detallada de este ataque yihadista planeado, frustrado por las autoridades austriacas, gracias en parte a un aviso de la inteligencia estadounidense, es ahora el tema de un documental titulado provisionalmente “Taylor Swift Wien”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juanes lanzará “25 Aniversario”, su primera colección de grandes éxitos: fecha y canciones",
+  "enlace": "https://caracol.com.co/2026/11/05/juanes-lanzara-25-aniversario-su-primera-coleccion-de-grandes-exitos-fecha-y-canciones/",
+  "fecha": "2026-11-05T09:13:57-05:00",
+  "palabras": "",
+  "lead": "El cantante colombiano celebrará sus 25 años de carrera como solista con un álbum de 25 canciones que reúne algunos de los temas más importantes de su trayectoria. El disco estará disponible el 6 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan falla en ventana de hotel en Brasil tras muerte de una joven de 26 años",
+  "enlace": "https://caracol.com.co/2026/11/05/investigan-falla-en-ventana-de-hotel-en-brasil-tras-muerte-de-una-joven-de-26-anos/",
+  "fecha": "2026-11-05T09:04:11-05:00",
+  "palabras": "",
+  "lead": "Las grabaciones de las cámaras de seguridad permitieron a la Policía descartar, por el momento, la participación de la pareja de la víctima en lo ocurrido. El hombre fue interrogado y posteriormente quedó en libertad, mientras las autoridades esperan los resultados de los análisis técnicos para esclarecer el caso.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Perdimos la ilusión de tener una vivienda digna”:",
+  "enlace": "https://caracol.com.co/2026/11/05/perdimos-la-ilusion-de-tener-una-vivienda-digna/",
+  "fecha": "2026-11-05T09:02:00-05:00",
+  "palabras": "",
+  "lead": "Jorge Orlando Hurtado recordó que cerca de 60 familias se vincularon en 2009 al proyecto con la expectativa de acceder a vivienda propia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Exasesor de Trump anticipa qué pasará con Colombia tras la dura derrota electoral en el Congreso",
+  "enlace": "https://www.lafm.com.co/actualidad/exasesor-de-trump-anticipa-que-pasara-con-colombia-tras-la-dura-derrota-electoral-en-el-congreso-416208",
+  "fecha": "2026-11-05T09:15:00-05:00",
+  "palabras": "Actualidad,Política internacional,Elecciones en el exterior,Donald Trump,Colombia",
+  "lead": "John Bolton, exasesor de Seguridad de Trump, habló sobre la relación con Colombia y la cooperación entre ambos países en materia de narcotráfico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "CTI inspeccionará celular de Deicy Jiménez por orden de Corte",
+  "enlace": "https://www.lafm.com.co/politica/deicy-jimenez-inspeccion-celular-cti-corte-suprema-caso-de-las-48-416209",
+  "fecha": "2026-11-05T09:12:00-05:00",
+  "palabras": "Política,Gustavo Petro,contratos,Fiscalía General de la Nación,Corte Suprema de Justicia",
+  "lead": "La Fiscalía también citó a declarar para el próximo martes al director del DAPRE para que amplíe sus denuncias frente a estos hechos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ricardo Roa dice cuánto costaba libro que Eva Ferrer propuso a Ecopetrol",
+  "enlace": "https://www.lafm.com.co/orden-publico/ricardo-roa-declaraciones-eva-ferrer-libro-fotografias-ecopetrol-financiar-416203",
+  "fecha": "2026-11-05T08:57:00-05:00",
+  "palabras": "Orden Público,polémica,Ricardo Roa,Corrupción,Ecopetrol",
+  "lead": "El expresidente de Ecopetrol, habló sobre Eva Ferrer, Verónica Alcocer, su revocatoria de la visa estadounidense y varias denuncias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobernadora del Tolima alertó por dinero de minería ilegal",
+  "enlace": "https://www.lafm.com.co/actualidad/gobernadora-tolima-denuncia-mineria-ilegal-entrega-15-ganancias-disidencias-416197",
+  "fecha": "2026-11-05T08:55:00-05:00",
+  "palabras": "Actualidad,Gobernación del Tolima,Tolima,infraestructura,Desarrollo",
+  "lead": "La gobernadora señaló que el volumen de extracción representa ingresos superiores a $25.000 millones mensuales para las personas vinculadas con esta activi...",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente Santiago Peña se enfrentará a juicio político por escándalo y quiebra del banco más grande de Paraguay",
+  "enlace": "https://www.lafm.com.co/internacional/banco-ueda-paraguay-juicio-politico-presidente-santiago-pena-416207",
+  "fecha": "2026-11-05T08:52:00-05:00",
+  "palabras": "Internacional,Paraguay,Destitución de cargo,Juicio disciplinario",
+  "lead": "El Banco Ueda fue intervenido por autoridades que determinaron que tenía solvencia económica y congelaron los ahorros de millones de paraguayos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nuevo caso de feminicidio en Bogotá: autoridades investigan",
+  "enlace": "https://www.lafm.com.co/orden-publico/nuevo-caso-feminicidio-bogota-mujer-26-anos-asesinada-pareja-barrio-sevilla-antonio-narino-416205",
+  "fecha": "2026-11-05T08:43:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Bogotá,Capturas,Policía Nacional",
+  "lead": "Es el segundo hecho que se presenta en menos de una semana, en la capital del país.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
