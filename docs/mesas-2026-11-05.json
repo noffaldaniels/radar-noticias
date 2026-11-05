@@ -146,6 +146,20 @@
    "quien": "Ricardo Ospina (Periodista de Mañanas Blu)",
    "que": "Informa sobre la publicación de un video íntimo del expresidente Gustavo Petro y Daisy Jiménez, el cual genera cuestionamientos sobre un posible uso indebido de recursos públicos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:35",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En Barranquilla lograron superar el problema de los arroyos y están terminando el arroyo de la 85.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:35",
+   "quien": "Senador Alejandro Campo",
+   "que": "Se ganó la tutela y la primera dama tiene 48 horas para dar al Congreso de la República las cuentas de las donaciones.",
+   "resaltar": false
   }
  ],
  "avisos": [
