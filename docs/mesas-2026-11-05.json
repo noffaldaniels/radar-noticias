@@ -223,6 +223,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "La libra de café se cotiza a 3 dólares con 42 centavos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:34",
+   "quien": "Santiago (Periodista de Noticias La FM con Juan Lozano)",
+   "que": "Los documentos de la planta de personal revelan un déficit severo de más de 100 controladores aéreos a nivel nacional para cubrir las posiciones mínimas requeridas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:27",
+   "quien": "Capitán Luis Fernando Orjuela (Piloto comercial)",
+   "que": "El Aeropuerto El Dorado en Bogotá y la navegación aérea colombiana requieren una reingeniería urgente ante la falta de ejecución de recursos para mantener la infraestructura aeronáutica y el sistema de control de tránsito aéreo.",
+   "resaltar": false
   }
  ],
  "avisos": [
