@@ -4462,7 +4462,7 @@
   "palabras": "Medellín",
   "lead": "La apertura generó nuevos empleos y se suma al crecimiento de una empresa que lleva ocho años en el país, registra ventas superiores a los 100 millones de dólares y proyecta nuevas inversiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "Viral, Feid",
   "lead": "El 'Ferxxo' se va de tour en 2027 tras el éxito de su proyecto del Green Print, en donde, al parecer, podría ser una gira a nivel mundial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "Invima, Medicamentos",
   "lead": "La entidad advirtió que el consumo del reconocido medicamento que fue falsificado puede representar un riesgo para la salud, debido a que no es posible garantizar su calidad, seguridad ni eficacia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "",
   "lead": "El cantante colombiano se aventuró en una experiencia gastronómica que lo llevó a explorar nuevas facetas, mezclar su estilo urbano con sabores nacionales y sorprender fuera de los escenarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "Antioquia, Medellín, Menores de edad, Noticias de hoy",
   "lead": "El menor de edad de nacionalidad venezolana había sido dejado en este lugar por sus padres y no volvió despertar mientras tomaba una siesta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "Fedegan, Ministerio de Agricultura, José Félix Lafaurie, José Félix Lafaurie, fedegán, indalecio dangond, ministro de agricultura",
   "lead": "La Junta Directiva de Fedegán cerró filas alrededor del presidente del gremio, José Félix Lafaurie, defendió su gestión y rechazó que el ministro de Agricultura lo hubiera obligado a abandonar una reunión.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "Fiscalía General de la Nación",
   "lead": "De acuerdo con lo expuesto en la audiencia, se evaluará si el próximo 25 de noviembre, en una nueva diligencia, se formula acusación contra ellos o se alcanza un preacuerdo con la Fiscalía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "Noticias de hoy",
   "lead": "La discusión estuvo marcada por diferencias entre quienes defienden la necesidad de sancionar el vandalismo y quienes consideran que la iniciativa podría criminalizar la protesta social.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "Estados Unidos",
   "lead": "Las elecciones legislativas de mitad de mandato en Estados Unidos dejaron el control del Congreso en manos del Partido Demócrata, un giro que obliga a la Casa Blanca a negociar los presupuestos e inaugura una etapa de mayor supervisión sobre la cooperación y el comercio con Colombia, según el…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "ICBF, ICBF",
   "lead": "La entidad aclaró que las madres comunitarias y las organizaciones sindicales tienen derecho a participar y ser escuchadas, pero no pueden intervenir en la selección ni en la permanencia de los operadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "Gas natural, Sirius, gas en colombia, gas natural",
   "lead": "El objetivo es tomar la decisión final de inversión sobre el proyecto y desde ya embarcarse en el desarrollo de dos campos con enorme potencial: Sandía y Copoazú.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "Viral, Redes sociales, Brasil",
   "lead": "La historia causó revuelo en redes sociales luego de que su hija expusiera las conversaciones y fotografías que revelaban la infidelidad de su esposo con su propio padre.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "",
   "lead": "Escrita por Lafourcade y Edgar Barrera, quien también produjo el tema, “Hermano” es una reflexión profunda, sentida y vulnerable sobre el estado emocional y social del mundo actual.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "",
   "lead": "Se busca investigar quién está violando la reserva de los procesos de envenenamiento con talio, caso por el que es investigada Zulma Guzmán y también Zulma Ferrer.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "",
   "lead": "La menor integrante del Resguardo Indígena Urada Jiguamiandó había desaparecido varias horas y luego fue hallada con parte de cuerpo comido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "",
   "lead": "El alcalde Cristian Portilla anunció la expedición de un decreto que permitirá a privados aprovechar económicamente algunos espacios públicos, a cambio de asumir su mantenimiento, vigilancia y cuidado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "",
   "lead": "En el mes de noviembre la DIAN subastará varios carros conozca fechas y modelos de estas subastas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "",
   "lead": "El conjunto motilón quiere seguir en la pelea para entrar entro los ocho y alejarse del descenso.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "",
   "lead": "La audiencia se presentó ante un juzgado de Anserma (Caldas). Ya se abrió un proceso disciplinario contra la fiscal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "",
   "lead": "Las incapacidades por enfermedad están previstas en la Ley 100 de 1993, y el Gobierno las reglamentó mediante decretos que hoy están compilados en el Decreto 780 de 2016. Conozca cómo se usan",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "",
   "lead": "El alcalde de Pitalito, Yider Luna, aseguró que ya son cinco las tutelas declaradas improcedentes o resueltas a favor del municipio en medio de los cuestionamientos al proyecto de renovación urbana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "",
   "lead": "El gremio propuso invertir $74.658 millones en un segundo módulo de tratamiento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "",
   "lead": "La Roja presentó una nómina de 26 jugadores para los dos amistosos ante la Tricolor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4715,7 +4715,7 @@
   "palabras": "",
   "lead": "La Secretaría de Gobierno destacó los resultados de los operativos recientes contra el expendio de drogas y el hurto en varios municipios. También anunció el fortalecimiento de las medidas de seguridad alrededor de instalaciones militares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4726,7 +4726,7 @@
   "palabras": "",
   "lead": "Terminó la fecha 4 de la fase de liga de la competición europea.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "",
   "lead": "La Gobernación trabaja con los municipios para promocionar actividades diurnas y nocturnas. La estrategia también contempla medidas de ahorro de energía y protección del agua ante el posible fenómeno de El Niño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "Sociedad,Bogotá,Cultura,Eventos presenciales,Arte,Artistas",
   "lead": "El encuentro tendrá lugar el 7 y 8 de noviembre en el Centro de Eventos Mundo Aventura, en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "Sociedad,Vuelos,Aerocivil,Aeropuerto El Dorado,aerolineas,aeropuerto,Antioquia,Medellín, Colombia",
   "lead": "El Olaya Herrera registró la mayor afectación, con cuatro vuelos cancelados y 21 demorados. En las salidas se cancelaron dos vuelos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "Sociedad,Salud,medicamentos,Atención a pacientes,Invima,Alerta de seguridad",
   "lead": "El Invima identificó unidades falsificadas de Darzalex® SC 120 mg/ml, correspondientes al lote PJS0C02. El producto adulterado representa riesgos para la s...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "Internacional,Estados Unidos,Elecciones en el exterior,Congreso de la República,Senado de la República,Cámara de Representantes",
   "lead": "El 'tsunami azul' inundó el mapa electoral de Estados Unidos y generó un cambio en el rumbo político.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "Economía,Importaciones,hidrocarburos,Ecopetrol,Venezuela,Colombia",
   "lead": "El gremio advirtió una reducción de la actividad exploratoria y señaló que reactivar el gasoducto Antonio Ricaurte permitiría ampliar las alternativas de a...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,6 +4803,292 @@
   "palabras": "Sociedad,Muere menor de edad,Medellín, Colombia,Fiscalía General de la Nación,Medicina Legal",
   "lead": "Investigan la muerte de menor de 7 meses en Manrique Guadalupe cuando estaba en el jardín",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Black Friday en Colombia: cuándo es y consejos para sacarle provecho sin endeudarse",
+  "enlace": "https://www.bluradio.com/economia/cuando-es-el-black-friday-en-colombia-estos-son-los-consejos-para-sacarle-provecho-so35",
+  "fecha": "2026-11-04T18:26:07-05:00",
+  "palabras": "Black Friday",
+  "lead": "Los grandes descuentos pueden ser contraproducentes y hacer que las personas terminan gastando de más sin tener en cuenta sus finanzas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Entre el desamor y la doble moral: Luister La Voz presenta \"Calle Pública\"",
+  "enlace": "https://www.bluradio.com/entretenimiento/entre-el-desamor-y-la-doble-moral-luister-la-voz-presenta-calle-publica-rs15",
+  "fecha": "2026-11-04T19:00:59-05:00",
+  "palabras": "Música",
+  "lead": "En esta nueva entrega, el cantante aborda el desamor, la decepción y las falsas apariencias a través de una historia sobre una persona que proyecta humildad e inocencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Karen Lizarazo, Jorge Celedón y Gusi harán parte de la premiere de los Latin Grammy 2026",
+  "enlace": "https://www.bluradio.com/entretenimiento/tres-artistas-colombianos-haran-parte-de-la-premiere-de-los-latin-grammy-2026-rs15",
+  "fecha": "2026-11-04T19:05:46-05:00",
+  "palabras": "Viral, Latin Grammy",
+  "lead": "En esta edición habrá presencia de artistas colombianos, tanto en las nominaciones y presentaciones, de hecho, se confirmó que tres de ellos estarán en la premiere de la ceremonia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video: fiscal de Caldas habría intervenido en audiencia bajo efectos del alcohol",
+  "enlace": "https://www.bluradio.com/judicial/fiscal-de-caldas-habria-intervenido-en-una-audiencia-bajo-los-efectos-del-alcohol-ya-hay-indagacion-rg10",
+  "fecha": "2026-11-04T18:48:39-05:00",
+  "palabras": "Caldas, Fiscalía General de la Nación, fiscal, fiscal de Caldas",
+  "lead": "La situación tomó relevancia después de que el video de la audiencia fuera viralizado y generara diferentes reacciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desmantelan red de trata de personas en Medellín: operaba con peluquería como fachada",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/desmantelan-red-de-trata-de-personas-en-medellin-operaba-con-peluqueria-como-fachada-rg10",
+  "fecha": "2026-11-04T18:53:51-05:00",
+  "palabras": "Antioquia, Medellín, Abelardo De La Espriella, Trata de personas",
+  "lead": "Entre los involucrados está alias 'Zapata'. La red llevaba a mujeres engañadas a España para explotarlas sexualmente.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Personería investiga a funcionario de Medellín por presunta intimidación y agresión contra docente",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/personeria-investiga-a-funcionario-de-medellin-por-presunta-intimidacion-y-agresion-contra-docente-rg10",
+  "fecha": "2026-11-04T19:01:35-05:00",
+  "palabras": "Noticias de hoy, Medellín, Personería de Medellín, Educación",
+  "lead": "La mujer manifestó su preocupación por las situaciones que estaría enfrentando junto con sus familiares y pidió que se esclarezcan las circunstancias en las que se han presentado estos hechos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "TransMilenio tendrá feria de empleo este jueves 5 de noviembre: hay 500 vacantes disponibles",
+  "enlace": "https://www.bluradio.com/regiones/bogota/transmilenio-tendra-feria-de-empleo-este-jueves-5-de-noviembre-hay-500-vacantes-disponibles-so35",
+  "fecha": "2026-11-04T19:19:15-05:00",
+  "palabras": "Transmilenio, Empleo, Ofertas de empleo, Trabajo, Portal 20 de Julio, trabajo en Bogotá, trabajo en transmilenio",
+  "lead": "Durante la jornada se ofrecerán cerca de 500 vacantes para diferentes perfiles, entre ellos operativos, técnicos, auxiliares y administrativos. Conozca los detalles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por qué está demorado el inicio del partido de Cúcuta vs. Santa Fe de liga",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/dimayor-se-pronuncia-por-demora-en-el-inicio-del-partido-de-cucuta-vs-santa-fe-rs15",
+  "fecha": "2026-11-04T19:10:06-05:00",
+  "palabras": "Liga BetPlay, Dimayor, Cúcuta Deportivo, Independiente Santa Fe, Cúcuta, Cúcuta Deportivo, Cúcuta vs santa fe, Santa Fe",
+  "lead": "Más de una hora se ha retrasado este compromiso por la fecha 17 de la liga colombiana.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente De La Espriella firmó proyecto de Ley de Sometimiento: quedó oficializada la norma",
+  "enlace": "https://caracol.com.co/2026/11/05/presidente-de-la-espriella-firmo-proyecto-de-ley-de-sometimiento-quedo-oficializada-la-norma/",
+  "fecha": "2026-11-04T19:13:00-05:00",
+  "palabras": "",
+  "lead": "Se conocerá como la ley 2640.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ciudadanos respaldaron crédito de $150 mil millones para financiar obras",
+  "enlace": "https://caracol.com.co/2026/11/05/ciudadanos-respaldaron-credito-de-150-mil-millones-para-financiar-obra/",
+  "fecha": "2026-11-04T19:10:24-05:00",
+  "palabras": "",
+  "lead": "La propuesta contempla inversiones en acueducto, drenajes pluviales y mejoramiento de 1.000 viviendas en 16 barrios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian presunta venta de psicoactivos dentro de un colegio de Floridablanca: 3 menores afectados",
+  "enlace": "https://caracol.com.co/2026/11/04/denuncian-presunta-venta-de-psicoactivos-dentro-de-un-colegio-de-floridablanca-3-menores-afectados/",
+  "fecha": "2026-11-04T18:57:00-05:00",
+  "palabras": "",
+  "lead": "La madre de uno de los menores que terminó hospitalizado asegura que las pastillas fueron ofrecidas por estudiantes de décimo grado dentro de la institución educativa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luister La Voz presentó ‘Calle Pública’, una canción dedicada al desamor",
+  "enlace": "https://caracol.com.co/2026/11/05/luister-la-voz-presento-calle-publica-una-cancion-dedicada-al-desamor/",
+  "fecha": "2026-11-04T19:05:00-05:00",
+  "palabras": "",
+  "lead": "El artista cartagenero lanzó el sencillo como parte de ‘Tu Terapia Favorita’, un EP acústico que recuerda algunas de sus canciones más reconocidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos hombres fueron condenados a 19 y 17 años de prisión por abuso sexual de menores",
+  "enlace": "https://caracol.com.co/2026/11/05/dos-hombres-fueron-condenados-a-19-y-17-anos-de-prision-por-abuso-sexual-de-menores/",
+  "fecha": "2026-11-04T19:04:34-05:00",
+  "palabras": "",
+  "lead": "Los hechos ocurrieron en los barrios Chile y Loma Fresca",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Le ha hecho un daño muy grande a la izquierda; la instauró como anacrónica: Juvinao sobre Petro",
+  "enlace": "https://caracol.com.co/2026/11/05/le-ha-hecho-un-dano-muy-grande-a-la-izquierda-la-instauro-como-anacronica-juvinao-sobre-petro/",
+  "fecha": "2026-11-04T19:03:18-05:00",
+  "palabras": "",
+  "lead": "La representante Catherine Juvinao explicó por qué no considera que su corriente política sea de izquierda, dando como causa lo hecho por Gustavo Petro en su gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres sindicados se fugaron de la estación de Policía Armenia",
+  "enlace": "https://caracol.com.co/2026/11/05/tres-sindicados-se-fugaron-de-la-estacion-de-policia-armenia/",
+  "fecha": "2026-11-04T19:01:02-05:00",
+  "palabras": "",
+  "lead": "Al parecer el caso se registró en medio de la evacuación por el sismo del pasado 3 de noviembre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Uno tiene que apoyar la Ley de Sometimiento si se proclama protector de la paz”: Cathy Juvinao",
+  "enlace": "https://caracol.com.co/2026/11/04/uno-tiene-que-apoyar-la-ley-de-sometimiento-si-se-proclama-protector-de-la-paz-cathy-juvinao/",
+  "fecha": "2026-11-04T18:57:05-05:00",
+  "palabras": "",
+  "lead": "Catherine Juvinao, representante a la Cámara, afirmó que la primera que llamará a un control político dentro de unos meses a la ley de sometimiento será ella misma.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Audiencias previas al juicio de Velasco y Bonilla por el caso UNGRD se reanudarán en 2027",
+  "enlace": "https://caracol.com.co/2026/11/04/audiencias-previas-al-juicio-de-velasco-y-bonilla-por-el-caso-ungrd-se-reanudaran-en-2027/",
+  "fecha": "2026-11-04T16:10:00-05:00",
+  "palabras": "",
+  "lead": "La próxima audiencia fue programada para febrero del próximo año, mientras la defensa de Luis Fernando Velasco cuestionó la entrega de las pruebas por parte de la Fiscalía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan el cuerpo sin vida del adulto mayor arrastrado por el arroyo El Salao en Soledad, Atlántico",
+  "enlace": "https://caracol.com.co/2026/11/04/hallan-el-cuerpo-sin-vida-del-adulto-mayor-arrastrado-por-el-arroyo-el-salao-en-soledad-atlantico/",
+  "fecha": "2026-11-04T18:47:58-05:00",
+  "palabras": "",
+  "lead": "Según el reporte, los cuerpos sin vida fueron hallados en un sector de la parte baja del arroyo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Felipe VI llama a la comunidad iberoamericana a ser una voz armónica",
+  "enlace": "https://caracol.com.co/2026/11/04/felipe-vi-llama-a-la-comunidad-iberoamericana-a-ser-una-voz-armonica/",
+  "fecha": "2026-11-04T18:46:08-05:00",
+  "palabras": "",
+  "lead": "Durante la XXX Cumbre Iberoamericana, el Rey de España, insistió en la necesidad de mantener la unidad y no ser “22 voces disonantes”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Ataques a peajes, vías y estaciones de Policía en Valle y Cauca, no pueden quedar impunes”: CIEV",
+  "enlace": "https://caracol.com.co/2026/11/04/ataques-a-peajes-vias-y-estaciones-de-policia-en-valle-y-cauca-no-pueden-quedar-impunes-ciev/",
+  "fecha": "2026-11-04T18:39:37-05:00",
+  "palabras": "",
+  "lead": "El Comité Intergremial y Empresarial del Valle del Cauca, CIEV, rechazó los atentados terroristas registrados en las últimas horas en el suroccidente del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hermana de Daniel Peñarredonda fue elegida coordinadora de comisión en el Congreso",
+  "enlace": "https://caracol.com.co/2026/11/04/hermana-de-daniel-penarredonda-fue-elegida-coordinadora-de-comision-en-el-congreso/",
+  "fecha": "2026-11-04T18:33:03-05:00",
+  "palabras": "",
+  "lead": "Andrea Peñarredonda Gómez es hermana de Daniel Peñarredonda, quien anteriormente fue socio del presidente Abelardo de la Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Paraguay: diputados piden juicio político para destituir presidente Santiago Peña",
+  "enlace": "https://caracol.com.co/2026/11/04/paraguay-diputados-piden-juicio-politico-para-destituir-presidente-santiago-pena/",
+  "fecha": "2026-11-04T18:25:02-05:00",
+  "palabras": "",
+  "lead": "Miembros de la oposición política aseguran que el mandatario es uno de los principales responsables de la crisis relacionada al cierre del banco Ueno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Está en riesgo la justicia por los recortes presupuestales?",
+  "enlace": "https://www.lafm.com.co/orden-publico/en-riesgo-la-justicia-en-colombia-por-recortes-presupuestales-advierte-presidente-corte-suprema-416163",
+  "fecha": "2026-11-04T19:11:00-05:00",
+  "palabras": "Orden Público,Corte Suprema de Justicia,Ministerio de Justicia,déficit fiscal",
+  "lead": "Recortes presupuestales ponen en alerta a la justicia en Colombia: advertencia de la Corte Suprema de Justicia",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Soledad: Creciente súbita de arroyo arrastra a tres personas",
+  "enlace": "https://www.lafm.com.co/actualidad/hallan-cuerpo-adulto-mayor-arrastrado-el-arroyo-el-salao-en-soledad-atlantico-buscan-ieta-416128",
+  "fecha": "2026-11-04T19:01:00-05:00",
+  "palabras": "Actualidad,Emergencia,Lluvias,Soledad,Desaparecidos",
+  "lead": "Dos menores un adulto mayor fueron sorprendidos por la fuerza de la corriente en medio de las intensas lluvias que afectaron al municipio de Soledad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Museo de Arte Contemporáneo de Bogotá cumple 60 años",
+  "enlace": "https://www.lafm.com.co/sociedad/museo-arte-contemporaneo-bogota-legado-acerca-arte-ciudad-416159",
+  "fecha": "2026-11-04T18:03:00-05:00",
+  "palabras": "Sociedad,Cultura,Bogotá,Arte,Museos,Artistas",
+  "lead": "El museo ha impulsado programas como el Salón del Fuego y el proyecto Tesis, que permite a estudiantes universitarios presentar sus propuestas artísticas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pacto Histórico rechaza amenazas contra senador Ferney Silva",
+  "enlace": "https://www.lafm.com.co/politica/pacto-historico-rechaza-amenazas-de-muerte-contra-senador-416151",
+  "fecha": "2026-11-04T17:09:00-05:00",
+  "palabras": "Política,Pacto Histórico,Amenazas,Cauca",
+  "lead": "Según el partido político, las amenazas son hechas por un grupo que se hace llamar \"Defensores de la Patria \"",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
