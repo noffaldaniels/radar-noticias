@@ -7,7 +7,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 5 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Lotería de Bogotá, Resultado de loterías de hoy",
   "lead": "Consulte el resultado de la Lotería de Bogotá de ayer, jueves 5 de noviembre de 2026: número ganador del premio mayor, serie y lista completa de secos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Lotería del Quindío, Resultado de loterías de hoy",
   "lead": "Consulte los resultados de la Lotería del Quindío, sorteo 3023 del jueves 5 de noviembre de 2026. Regresa luego de varios meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Viajes",
   "lead": "Esta tendencia evidencia un cambio en las prioridades del turismo: ya no basta con conocer un destino, pues los viajeros también buscan acercarse a los escenarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Jhon Alex Castaño, Movistar Arena Bogotá, Concierto",
   "lead": "El 'Rey del Chupe' volverá a Bogotá para dar otro mega concierto en donde celebrará no solo su carrera, sino su vida al lado de miles fanáticos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Netflix, Series de televisión",
   "lead": "La serie hace parte de una investigación extensa, construida a lo largo de más de 7 años a partir de documentos, testimonios y entrevistas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Marco Rubio, Venezuela",
   "lead": "Rubio consideró que la deuda venezolana, estimada en más de 200.000 millones de dólares, es un obstáculo para recuperar la economía y atraer inversiones.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Nicky Jam",
   "lead": "En medio de esta nueva etapa musical, Nicky Jam también se alista para reencontrarse con el público colombiano",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "María José Pizarro, Gustavo Petro",
   "lead": "La senadora aseguró que la vinculación de la contratista en la Vicepresidencia del Senado se dio en condiciones normales y solicitó a la Corte Suprema de Justicia ser escuchada en el proceso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "MiLoto, Resultado MiLoto",
   "lead": "Nadie acertó las cinco balotas en el sorteo 636. El premio mayor sube a $550 millones y 22.678 apostadores recibieron premios en las categorías secundarias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "ColorLoto",
   "lead": "Ningún jugador acertó la combinación completa del sorteo 234. El acumulado sube a $2.290 millones y 656 apostadores se repartieron $12,5 millones en premios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Migración Venezolana, Cúcuta, Bogotá",
   "lead": "Durante la tarde y la madrugada posterior, se coordinaron los esquemas de seguridad necesarios para garantizar el control del perímetro exterior e interior de las instalaciones de retención.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Antioquia, Noticias de hoy, Medellín, Bandas criminales",
   "lead": "El jefe de ‘Los Chatas’, capturado en 2017 en el Oriente de Antioquia, saldría de la cárcel La Picota de Bogotá con libertad condicional tras cumplir casi toda su condena.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Protestas en Colombia, Málaga, Santander, Bucaramanga, Gobernación de Santander, Noticias de hoy, Blu Radio, San Andrés",
   "lead": "Tras llegar a un acuerdo con la Gobernación de Santander, las comunidades levantaron el cierre vial que adelantaban por los retrasos en la construcción del puente El Congreso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "",
   "lead": "El Vaticano confirmó que no se han tomado medidas médicas adicionales a pesar de la operación, ya que el papa tras la extirpación del cáncer \"es una persona, de 71 años, con una buena salud\", pero el viaje será una prueba para ver su resistencia ante la importante carga de trabajo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "Sanitas reconoció que, durante los tres primeros días hábiles de operación, hubo una afluencia “inusual y atípica” de afiliados en algunas de las 29 sedes dispuestas por Colsubsidio. La entidad recomendó acudir a los dispensarios en la fecha indicada en la fórmula médica para evitar aglomeraciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "Viral, Menores de edad, España",
   "lead": "Los investigadores buscan establecer cómo funcionaba la presunta red y quiénes recibían a los menores.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "Blu Radio, Noticias de hoy, Bucaramanga, Homicidios, Policía Nacional, Bandas criminales, Taxis, Santander,  Floridablanca",
   "lead": "La víctima fue identificada como William García. El crimen ocurrió en inmediaciones del motel La Herradura, entre los barrios Bellavista y Los Rosales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Autodefensas de la Sierra Nevada, Armada Nacional de Colombia",
   "lead": "El operativo contó con la participación de la Armada Nacional, inteligencia de la Policía, la Fiscalía General de la Nación y la DEA.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Japón, Terremoto hoy",
   "lead": "Hasta el momento las autoridades no han activado la alerta de tsunami en el país asiático.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Deicy Jiménez expresó en redes sociales que el tema no es la vida íntima del expresidente Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Cinco asociaciones de productores participaron en Territorio Aguacate para fortalecer sus conocimientos y contactos comerciales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "Proponen excluir del 4 x mil las transacciones bancarias destinadas al pago de nómina",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "Desde Emvarias pidieron a la comunidad mejorar las condiciones para la movilidad de sus vehículos recolectores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Secretaría de Salud advierte dificultades en la atención de pacientes y exige a las EPS garantizar oportunamente los traslados y servicios médicos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "Los equipos de rescate buscan a alrededor de cincuenta personas más entre los escombros, por lo que el balance final de muertos podría superar el centenar.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Juan Carlos Mesa Vallejo, fundador de Los Chatas y señalado como uno de los principales cabecillas de La Oficina, obtuvo el beneficio tras una condena de 13 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "El sumo pontífice, que vivió 20 años en Perú y recorrió toda Latinoamérica como prior general de los agustinos, regresa a casa con esta visita, un viaje muy deseado, como destaca el Vaticano",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Desde Barranquilla, la subdirectora nacional de Proyección Institucional de la ESAP convocó a transformar el liderazgo público en resultados concretos para la ciudadanía, durante el primer encuentro del ciclo ‘Mujeres que Transforman lo Público’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Gobernador Yamil Arana anuncia nuevas vías y obras contra inundaciones",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "La ministra María Nohemi Arboleda pidió a la ciudadanía ahorrar energía entre las 6:00p.m. y las 9:00p.m. para contribuir a garantizar el abastecimiento durante el Fenómeno de El Niño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "El abogado buscaría llegar al Consejo de Estado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "El artista urbano lanzó una canción romántica que será el primer adelanto de su álbum previsto para 2027. Además, se presentará el próximo 21 de noviembre en el Estadio Pascual Guerrero junto a Juan Duque, Corridos del Rey y DJ Vett.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "Estudiantes, organizaciones sociales y congresistas expresaron sus reparos a tres iniciativas legislativas relacionadas con las manifestaciones, el uso de capuchas y las sanciones penales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "El alto tribunal rechazó las pretensiones de nulidad electoral en un fallo de única instancia que no admite recursos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "El hecho habría ocurrido en el barrio Martínez Martelo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "El proyecto contempla una inversión inicial de $40.000 millones",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "Orden Público,Fiscalía General de la Nación,Gobernación de Antioquia,Menores,Delitos sexuales",
   "lead": "La Fiscalía General de la Nación registra en Antioquia 2.631 delitos sexuales contra menores en 2026: el 83 % de las víctimas son niñas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "Orden Público,expulsión,extranjeros,Delitos graves,Bogotá,Migración Colombia",
   "lead": "Se estima que serían más de 500 los extranjeros que serán enviados de vuelta a su país de origen, principalmente Venezuela.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,6 +469,39 @@
   "palabras": "Internacional,Papa León XIV,viaje,Latinoamerica,Argentina,Uruguay,Perú",
   "lead": "Tras completar su proceso de recuperación por la operación de cáncer de pulmón, el sumo pontífice retoma su agenda.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santiago Peña, del ascenso tecnocrático a la renuncia por un escándalo financiero",
+  "enlace": "https://www.bluradio.com/mundo/santiago-pena-del-ascenso-tecnocratico-a-la-renuncia-por-un-escandalo-financiero-cb20",
+  "fecha": "2026-11-06T06:21:23-05:00",
+  "palabras": "",
+  "lead": "Peña, de 47 años, presentó su renuncia este jueves, después de perder el respaldo de su propia formación política y ante la amenaza de un juicio político en el Congreso, impulsado tras la intervención de Ueno bank por problemas de solvencia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El 2026 será \"probablemente\" el segundo año más cálido registrado en el mundo",
+  "enlace": "https://www.bluradio.com/mundo/el-2026-sera-probablemente-el-segundo-ano-mas-calido-registrado-en-el-mundo-cb20",
+  "fecha": "2026-11-06T06:29:32-05:00",
+  "palabras": "",
+  "lead": "Dicho escenario no significa sin embargo que se incumpla definitivamente el objetivo clave del Acuerdo de París de 2015, que establece la ambición de limitar para 2100 el calentamiento global a 1,5 ºC.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así quedó el Grupo A del Torneo de Ascenso, tras empate de Unión Magdalena en casa",
+  "enlace": "https://caracol.com.co/2026/11/06/asi-quedo-el-grupo-a-del-torneo-de-ascenso-tras-empate-de-union-magdalena-en-casa/",
+  "fecha": "2026-11-06T06:26:32-05:00",
+  "palabras": "",
+  "lead": "El equipo samario continúa alejándose de la posibilidad de regresar a la A en el 2027.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
