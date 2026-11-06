@@ -513,7 +513,7 @@
   "palabras": "Antioquia, Medellín, Accidente de tránsito, Noticias de hoy",
   "lead": "En hechos que son materia de investigación, un bus de servicio público terminó sobre la calzada contraria y a su paso embistió una motocicleta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Bucaramanga, Santander, Blu Radio",
   "lead": "La distinción fue otorgada por la Unión Internacional de Ciencias Geológicas y destaca su importancia para comprender la evolución del planeta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Santander, EPS, Salud, Pacientes Colombia, Blu Radio, Noticias de hoy",
   "lead": "Tras el plantón realizado en las oficinas de la entidad, en el que un familiar de un paciente con cáncer se encadenó para exigir atención, la EPS aseguró que revisó los casos y planteó alternativas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "Puente Aranda, Riña, Policía Nacional",
   "lead": "La emergencia se registró al interior de las instalaciones, donde un enfrentamiento entre personas privadas de la libertad obligó a la intervención de las autoridades.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Tres integrantes de esta banda fueron capturados en flagrancia cuando realizaban un secuestro extorsivo a dos mujeres procedentes de Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "La Gobernación podrá comprometer 1,3 billones de pesos entre 2027 y 2032 para avanzar en la primera fase del proyecto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "El designado estará a cargo de la UPTC durante el periodo 2027 – 2030",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "La investigación estableció que se realizaron pagos por obras que no fueron ejecutadas, lo que habría ocasionado un posible detrimento a los recursos públicos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "La magistrada Cielo Rusinque pidió no anticipar conclusiones sobre Petro y la representante Carol Borda cuestionó la defensa de su presunción de inocencia en el gobierno Petro",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "El accidente ocurrió durante la madrugada de este viernes a la altura de La Colegiatura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Dos PTAR han sido entregadas y cuatro continúan en ejecución.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "El listado en el que aparece el canciller Bula admitía autonominaciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "La petición fue hecha desde Corpored",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Adicionalmente, durante las operaciones, la Autoridad Marítima Colombiana realizó labores de inspección y mantenimiento a las ayudas a la navegación, para garantizar su disponibilidad operativa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "A corte del 30 de septiembre, las cuentas por pagar de Air-e ascendían a $6,293 billones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "Las inscripciones estarán abiertas hasta el 15 de diciembre en el Hospital Universitario de Santander. Cerca de 200 pacientes ya se han inscrito y han sido valorados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "Este 6 y 7 de noviembre, la Fábrica de la Cultura será el escenario principal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "El 60% de los nuevos profesionales que egresaron de las universidades de la región estudiaron Derecho y Dirección de empresas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "El beneficiario del trasplante es un menor de solo 20 meses de edad con síndrome de Alagille.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Política,María José Pizarro,Corte Suprema de Justicia,Gustavo Petro,testigo,Derecho a la intimidad,Abogados,Procesos judiciales",
   "lead": "Asegura que nunca conoció de una supuesta relación personal entre Jiménez y el entonces presidente Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Internacional,Paraguay,Política internacional,Asunción",
   "lead": "Peña está siendo acusado de desviar fondos del Ueno Bank, del cual era accionista y quebró.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,6 +755,160 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Estas son las noticias más importantes de este viernes en La FM.",
   "seccion": "mesas",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 600 policías garantizarán la seguridad durante el clásico vallecaucano en Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/mas-de-600-policias-garantizaran-la-seguridad-durante-el-clasico-vallecaucano-en-cali-rg10",
+  "fecha": "2026-11-06T07:07:38-05:00",
+  "palabras": "",
+  "lead": "Además, se establecerán varios anillos de seguridad y controles para regular el ingreso de los asistentes y garantizar una salida organizada una vez finalice el encuentro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Deicy Jiménez por diligencia en Fiscalía: \"No vine a hacer espectáculo, vine a cumplir con mi deber\"",
+  "enlace": "https://www.bluradio.com/judicial/deicy-jimenez-por-diligencia-en-fiscalia-no-vine-a-hacer-espectaculo-vine-a-cumplir-con-mi-deber-pr30",
+  "fecha": "2026-11-06T07:08:51-05:00",
+  "palabras": "Fiscalía General de la Nación, Gustavo Petro",
+  "lead": "Dentro del conjunto de evidencias se destaca la revelación de un cruce de mensajes de diciembre de 2025 entre Petro y Angie Rodríguez, exdirectora del Departamento Administrativo de la Presidencia de la República (DAPRE) y anterior secretaria general de la Presidencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "No se sabe esa plata dónde está, puede estar debajo del colchón de Peña y sus cómplices: Exsenadora",
+  "enlace": "https://caracol.com.co/2026/11/06/no-se-sabe-esa-plata-donde-esta-puede-estar-debajo-del-colchon-de-pena-y-sus-complices-exsenadora/",
+  "fecha": "2026-11-06T07:23:25-05:00",
+  "palabras": "",
+  "lead": "Kattya González, exsenadora de Paraguay, habló en 6AM W de la renuncia de Santiago Peña a la Presidencia tras el escándalo de Ueno Bank y qué pasará con los ahorristas en el país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevo presidente de JEP anuncia recorte en seguridad para magistrados: “yo no tengo escoltas”",
+  "enlace": "https://caracol.com.co/2026/11/06/nuevo-presidente-de-jep-anuncia-recorte-en-seguridad-para-magistrados-yo-no-tengo-escoltas/",
+  "fecha": "2026-11-06T07:23:02-05:00",
+  "palabras": "",
+  "lead": "El magistrado Danilo Rojas explicó varias de las medidas que tomó la JEP ante la reducción presupuestal por parte del Gobierno Nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Iberia sumará 50.000 asientos al sur para compensar la menor oferta en alta velocidad",
+  "enlace": "https://caracol.com.co/2026/11/06/iberia-sumara-50000-asientos-al-sur-para-compensar-la-menor-oferta-en-alta-velocidad/",
+  "fecha": "2026-11-06T07:22:13-05:00",
+  "palabras": "",
+  "lead": "El presidente de Iberia, Marco Sansavini, ha afirmado este viernes en una conferencia con medios de comunicación que desde el siniestro Iberia ha añadido un 76 % de capacidad hacia Sevilla y Málaga.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué ha pasado un año después del atentado con volqueta bomba del ELN en Tunja?",
+  "enlace": "https://caracol.com.co/2026/11/06/que-ha-pasado-un-ano-despues-del-atentado-con-volqueta-bomba-del-eln-en-tunja/",
+  "fecha": "2026-11-06T07:21:01-05:00",
+  "palabras": "",
+  "lead": "Sólo ha sido capturada una persona y la reparación de las instalaciones militares no ha terminado",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operativo contra el robo de celulares en Suba: más de 40 dispositivos fueron incautados",
+  "enlace": "https://caracol.com.co/2026/11/06/operativo-contra-el-robo-de-celulares-en-suba-mas-de-40-dispositivos-fueron-incautados/",
+  "fecha": "2026-11-06T07:15:35-05:00",
+  "palabras": "",
+  "lead": "La revisión de 1.500 teléfonos permitió encontrar equipos reportados como robados y otros con sus sistemas de identificación alterados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿A un año del atentado con volqueta bomba hay que pensar en trasladar el Batallón Bolívar de Tunja?",
+  "enlace": "https://caracol.com.co/2026/11/06/a-un-ano-del-atentado-con-volqueta-bomba-hay-que-pensar-en-trasladar-el-batallon-bolivar-de-tunja/",
+  "fecha": "2026-11-06T07:12:06-05:00",
+  "palabras": "",
+  "lead": "Las obras de reconstrucción del Batallón no han terminado y la tranquilidad de los vecinos no ha regresado",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EPM coloca bonos por USD 1.000 millones y regresa al mercado internacional tras seis años",
+  "enlace": "https://caracol.com.co/2026/11/06/epm-coloca-bonos-por-usd-1000-millones-y-regresa-al-mercado-internacional-tras-seis-anos/",
+  "fecha": "2026-11-06T07:10:08-05:00",
+  "palabras": "",
+  "lead": "La emisión recibió ofertas por el doble del monto ofrecido y permitirá fortalecer la liquidez de la empresa y anticipar necesidades financieras de 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comenzó la carrera por la rectoría de la Unipamplona",
+  "enlace": "https://caracol.com.co/2026/11/06/comenzo-la-carrera-por-la-rectoria-de-la-unipamplona/",
+  "fecha": "2026-11-06T07:06:43-05:00",
+  "palabras": "",
+  "lead": "Se cumplió el proceso para la inscripción de candidatos",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez rechazó investigar a Zapatero por malversación, como pedía la Fiscalía",
+  "enlace": "https://caracol.com.co/2026/11/06/juez-rechazo-investigar-a-zapatero-por-malversacion-como-pedia-la-fiscalia/",
+  "fecha": "2026-11-06T07:06:50-05:00",
+  "palabras": "",
+  "lead": "El juez de la Audiencia Nacional José Luis Calama señala que no fue hasta 2013 cuando la ley de Transparencia estableció expresamente que los altos cargos no pueden aceptar regalos que excedan los usos sociales o de cortesía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Declaración de Deicy Jiménez contradice a María José Pizarro",
+  "enlace": "https://www.lafm.com.co/politica/maria-jose-pizarro-deicy-jimenez-petro-contradiccion-416321",
+  "fecha": "2026-11-06T07:10:00-05:00",
+  "palabras": "Política,María José Pizarro,Gustavo Petro,Corrupción,Corte Suprema de Justicia,Fiscalía General de la Nación,Dapre",
+  "lead": "Pizarro será escuchada por la Corte Suprema de Justicia, como ella misma lo solicitó.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Por qué la victoria de los demócratas generó un desplome de las acciones de IA en Wall Street?",
+  "enlace": "https://www.lafm.com.co/internacional/se-desploman-acciones-ia-wall-street-victoria-partido-democrata-416320",
+  "fecha": "2026-11-06T07:02:00-05:00",
+  "palabras": "Internacional,Wall Street,Inteligencia artificial,Mercados bursátiles,Pérdidas millonarias,inversionistas,Mercados internacionales",
+  "lead": "El índice Nasdaq cayó un 6,4 % durante la sesión del jueves y Nvidia perdió más del 9 %.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Germán Calderón renuncia a la Agencia Jurídica del Estado",
+  "enlace": "https://www.lafm.com.co/politica/german-calderon-renuncia-a-la-agencia-juridica-del-estado-416318",
+  "fecha": "2026-11-06T07:00:00-05:00",
+  "palabras": "Política,Agencia Nacional de Defensa Jurídica del Estado,Renuncia de funcinarios,Ministerio de Justicia,Consejo de Estado,Darcy Quinn,Abelardo de la Espriella",
+  "lead": "El abogado presentó su carta de renuncia el 5 de noviembre. Su salida de la entidad coincide con su inscripción en el proceso para llegar a la Sección Terc...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
