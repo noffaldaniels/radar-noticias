@@ -496,6 +496,27 @@
    "quien": "Ingel de la Rosa, Periodista",
    "que": "La remodelación del Metropolitano de Barranquilla ya alcanzó el 95% y su capacidad aumentará a 65,000 espectadores.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:04",
+   "quien": "Julio Sánchez Cristo, Director de 6AM",
+   "que": "Más de mil integrantes del Ejército y la Policía lideran un megaoperativo contra la minería ilegal en Ataco, sur del Tolima. La gobernadora Adriana Magali Matiz confirmó el desalojo en la zona del río Saldaña y se impuso toque de queda hasta las 00:00 horas del sábado.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:04",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Presidencia de la República respalda la iniciativa de la constructora Capital para restaurar los templos San Francisco de Montenegro y la Basílica Menor Jesús María y José de Quimbaya.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:04",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Juan Carlos Mesa Vallejo, alias Tom, saldrá de prisión tras recibir libertad condicional luego de cumplir cerca del 97% de una condena a 13 años impuesta por el concejal de Medellín Andrés Tobón.",
+   "resaltar": false
   }
  ],
  "avisos": [
