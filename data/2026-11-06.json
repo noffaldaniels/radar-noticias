@@ -1954,7 +1954,7 @@
   "palabras": "",
   "lead": "Según las autoridades, los delincuentes buscaban a sus víctimas en el Bulevar del Río, uno de los sectores turísticos de la capital vallecaucana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Noticias de hoy, Santa Marta",
   "lead": "Lorena Fontalvo aseguró que la familia desconoce dónde está Jorge Agudelo, desaparecido desde el 26 de octubre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "Cali, Noticias de hoy",
   "lead": "Hasta el momento, no se ha informado la identidad ni la edad del capturado, tampoco se conocen datos sobre el hombre que escapó.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "Viral, Maluma",
   "lead": "El 'Pretty Boy' vuelve a irse de gira, pero de una manera especial y diferente ya que en esta ocasión se aleja de los estadios y vuelve a espacios más intimos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Paraguay",
   "lead": "La negativa a aceptar su dimisión responde a una estrategia legal precisa: \"La idea es que si se hace juicio político y se lo destituye a raíz de ese juicio político, él no puede pasar a ser senador vitalicio y por ende tener inmunidad ante posibles recriminaciones e investigaciones\".",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
   "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy viernes 6 de noviembre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "Santiago Uribe Vélez, Corte Suprema de Justicia, Los 12 apóstoles",
   "lead": "Con esta determinación, las autoridades judiciales explicaron que ya no existen más instancias legales ni recursos ordinarios a los que pueda recurrir la defensa del procesado para intentar revocar la decisión.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "Licencia de conducción",
   "lead": "Las multas dejarían de ser la única sanción. El Gobierno estudia un sistema de puntaje que podría retirar el permiso de conducir a quienes reincidan en faltas graves.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "Dilian Francisca Toro, gobernador del Valle del Cauca, aseguró que el Gobierno y el departamento entregarán 1.800 ayudas para la reactivación económica de pequeños emprendedores en zonas afectadas",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "Vicente Bokalic Iglic, arzobispo de Santiago del Estero y primado de Argentina, dio detalles en 6AM W de la gira del papa León XIV por Sudamérica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "",
   "lead": "Manuelita se ha consolidado como una organización agroindustrial líder en la producción sostenible de alimentos y energía renovable, generando progreso y bienestar en los territorios donde opera.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "",
   "lead": "El artista puertorriqueño visitará Barcelona y Madrid los días 4 y 6 de marzo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "",
   "lead": "El director del Medicina Legal advierte que es necesario introducir varios ajustes para evitar dificultades en los procedimientos técnicos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "",
   "lead": "Novela, crónica, poesía y conversación sobre las voces afrodescendientes",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "",
   "lead": "El congresista estadounidense habló en Caracol Radio sobre lo que se espera de la cooperación bilateral con Colombia tras el triunfo demócrata.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "",
   "lead": "La reforma tributaria del Gobierno De la Espriella despertó las alertas en la industria licorera de Colombia. A propósito, Diego Angelillis, gerente de la Industria Licorera de Caldas, Juan Martín González, presidente de Dislicores, y Alejandro Manotas, empresario y creador de ‘Menchas beer’ estuvieron en 6AM W para analizar el impacto económico sobre el sector.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,7 +2130,7 @@
   "palabras": "",
   "lead": "La Plaza de Bolívar es estudiada por expertos para determinar si es apta para los conciertos diarios durante la festividad; si no, se trasladarán al estadio Palogrande.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2141,7 +2141,7 @@
   "palabras": "",
   "lead": "Las maquinarias se usaban para adelantar las labores de extracción ilegal de oro en esta zona del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2152,7 +2152,7 @@
   "palabras": "",
   "lead": "La personera de Cúcuta, Ludy Páez, advirtió sobre las dificultades que enfrentan los usuarios para acceder a tratamientos, medicamentos y atención prioritaria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2163,7 +2163,7 @@
   "palabras": "",
   "lead": "Thomas Markle estaba vinculado a una investigación en Filipinas por abuso de menores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2174,7 +2174,7 @@
   "palabras": "",
   "lead": "El encuentro académico reunió a especialistas de Colombia, España, México, Argentina, Venezuela, Canadá y Reino Unido para compartir conocimientos sobre innovación, sostenibilidad y nuevas tecnologías aplicadas a la infraestructura vial.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2185,7 +2185,7 @@
   "palabras": "",
   "lead": "La colaboración mezcla música popular y carranga para darle ritmo a las celebraciones de fin de año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "",
   "lead": "La decisión elimina la aprobación previa de los planes de manejo ambiental, los conceptos adicionales de otras entidades para los planes de contingencia y la obligación de conformar un grupo de expertos para vigilar el proyecto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "",
   "lead": "El Agrado y Colombia tendrán nuevos sistemas de abastecimiento de agua, con inversiones superiores a los $15.000 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "",
   "lead": "Paipa 360 reúne inicialmente 30 hoteles, 30 restaurantes y diferentes atractivos culturales y turísticos del municipio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "",
   "lead": "El despacho judicial admitió una acción de tutela en contra de la Gobernación, la Unidad de Víctimas y las alcaldías de la Llanada, Los Andes y Linares",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "",
   "lead": "El reguetonero puertorriqueño realizará una transmisión en vivo este 7 de noviembre para compartir novedades de su gira en el país. Bogotá, Medellín y Cali están entre las ciudades que recibirán al llamado ‘Rey del Reguetón’ en 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "Orden Público,Corte Suprema de Justicia,Paramilitares,Santiago Uribe Veléz",
   "lead": "La decisión fue adoptada por la Sala de Casación Laboral de la Corte Suprema, con ponencia del magistrado Omar Ángel Mejía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "Internacional,Europa,Vuelos,Amenazas,Operaciones aéreas,Aterrizaje de emergencia,Alerta de seguridad,Alerta,Transporte aéreo,Sistema de Alertas Tempranas,Transporte de pasajeros",
   "lead": "Frente a las razones de las amenazas, expertos aseguran que esto puede ser una prueba para ver la reacción y coordinación de las autoridades.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "Sociedad,Superluna,Nasa,Evento astronómico,Astronomía,Luna,noviembre",
   "lead": "El fenómeno astronómico será uno de los acontecimientos celestes más destacados del mes. Conozca cuándo podrá observarse desde Colombia y qué otros eventos...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "Economía,IVA,Juegos de azar,Ministerio de Hacienda y Crédito Público",
   "lead": "El gremio pide evaluar los costos de operación, la inversión, el empleo y los aportes al sistema de salud antes de decidir.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "Economía,Comerciantes,comercio,economía digital,compras",
   "lead": "Fenalco reportó un aumento del hurto interno y alertó por las consecuencias de estas pérdidas en supermercados del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,6 +2306,358 @@
   "palabras": "Orden Público,Muertos,Bogotá,Policía Nacional",
   "lead": "La víctima no portaba documentos de identificación y fue trasladada a Medicina Legal.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El alimento que no debería faltar en su desayuno: ayuda a controlar el colesterol y el azúcar",
+  "enlace": "https://www.bluradio.com/salud/el-alimento-que-no-deberia-faltar-en-su-desayuno-ayuda-a-controlar-el-colesterol-y-el-azucar-so35",
+  "fecha": "2026-11-06T12:09:09-05:00",
+  "palabras": "Nutrición",
+  "lead": "Su contenido de fibra soluble, proteínas y minerales lo convierte en una alternativa nutritiva para comenzar el día. Conozca qué efectos tiene en el organismo y cómo consumirlo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De la presión energética a ciberataques: cómo opera la guerra híbrida contra Europa, según experto",
+  "enlace": "https://www.bluradio.com/mundo/de-la-presion-energetica-a-ciberataques-como-opera-la-guerra-hibrida-contra-europa-segun-experto-rg10",
+  "fecha": "2026-11-06T12:23:30-05:00",
+  "palabras": "Noticias de hoy, Europa",
+  "lead": "Felipe Bernal, estratega internacional y asesor en políticas públicas y energía, explicó en Blu Radio los métodos encubiertos con los que Rusia busca debilitar la cohesión occidental, aumentar costos de seguridad y reducir respaldo militar a Ucrania sin recurrir al choque bélico tradicional.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santander lanza red de turismo comunitario para impulsar experiencias en 10 municipios",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/santander-lanza-red-de-turismo-comunitario-para-impulsar-experiencias-en-10-municipios-rg10",
+  "fecha": "2026-11-06T11:32:50-05:00",
+  "palabras": "Bucaramanga, Gobernación de Santander, Turismo, Blu Radio",
+  "lead": "A través del proyecto Rutas de Identidad, la Gobernación de Santander busca fortalecer los atractivos culturales, históricos y naturales de los territorios, promover el trabajo de las comunidades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría cita a Deicy Jiménez por escándalo de presuntos ‘sexocontratos’ del Gobierno Petro",
+  "enlace": "https://www.bluradio.com/judicial/procuraduria-cita-a-deicy-jimenez-por-escandalo-de-presuntos-sexocontratos-del-gobierno-petro-rg10",
+  "fecha": "2026-11-06T11:48:00-05:00",
+  "palabras": "Procuraduría General de la Nación, Gregorio Eljach, Gustavo Petro",
+  "lead": "El Ministerio Público busca establecer posibles irregularidades en la vinculación de contratistas y el uso de recursos estatales. También remitió información a la Cámara de Representantes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Christian Garcés: \"A la carrera no vamos a probar algo que afecte el bolsillo de los colombianos\"",
+  "enlace": "https://www.bluradio.com/politica/christian-garces-a-la-carrera-no-vamos-a-probar-algo-que-afecte-el-bolsillo-de-los-colombianos-pr30",
+  "fecha": "2026-11-06T12:06:04-05:00",
+  "palabras": "",
+  "lead": "El legislador cuestionó que actualmente el 62% del presupuesto nacional se destine a gastos de funcionamiento y apenas un 14% a la inversión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Denuncias de ‘sexocontratos’ contra Petro abren duro debate interno en el Pacto Histórico",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/denuncias-de-sexocontratos-contra-petro-abren-duro-debate-interno-en-el-pacto-historico-rg10",
+  "fecha": "2026-11-06T11:58:34-05:00",
+  "palabras": "Pacto Histórico, Sexo, Gustavo Petro, Blu Radio, Noticias de hoy",
+  "lead": "Mientras avanzan las investigaciones, el Pacto Histórico tendrá que definir si Gustavo Petro continúa al frente de la colectividad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cierran en la localidad de Kennedy un ‘spa de garaje’ por irregularidades",
+  "enlace": "https://www.bluradio.com/regiones/bogota/cierran-en-la-localidad-de-kennedy-un-spa-de-garaje-por-irregularidades-rg10",
+  "fecha": "2026-11-06T12:20:27-05:00",
+  "palabras": "Kennedy",
+  "lead": "Las autoridades inspeccionaron tres establecimientos en el barrio Marsella y encontraron irregularidades en uno de ellos, durante el procedimiento también fue incautado un equipo de depilación láser.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Congreso de Paraguay rechaza renuncia de Santiago Peña y avanza con juicio político para destituirlo",
+  "enlace": "https://www.bluradio.com/mundo/congreso-de-paraguay-rechaza-renuncia-de-santiago-pena-y-avanza-con-juicio-politico-para-destituirlo-so35",
+  "fecha": "2026-11-06T12:26:45-05:00",
+  "palabras": "Paraguay",
+  "lead": "La decisión de no tramitar la renuncia de Peña está relacionada con las consecuencias políticas y jurídicas que tendría su salida voluntaria frente a una destitución mediante juicio político.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo choque entre Gobierno y JEP: jurisdicción advierte que mincultura incumpliría orden judicial",
+  "enlace": "https://www.bluradio.com/nacion/nuevo-choque-entre-gobierno-y-jep-jurisdiccion-advierte-que-mincultura-incumpliria-orden-judicial-rg10",
+  "fecha": "2026-11-06T12:17:00-05:00",
+  "palabras": "JEP, Gobierno nacional",
+  "lead": "El Ministerio de Cultura no entregó a la jurisdicción el informe que le fue solicitado sobre el retiro de algunas piezas en el Museo Nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comercio intimidado por la inseguridad",
+  "enlace": "https://caracol.com.co/2026/11/06/comercio-intimidado-por-la-inseguridad/",
+  "fecha": "2026-11-06T12:27:04-05:00",
+  "palabras": "",
+  "lead": "Otra víctima de sicariato en un exclusivo sector de la ciudad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exportadores advierten que más IVA podría encarecer café colombiano y reducir consumo",
+  "enlace": "https://caracol.com.co/2026/11/06/exportadores-advierten-que-mas-iva-podria-encarecer-cafe-colombiano-y-reducir-consumo/",
+  "fecha": "2026-11-06T12:23:55-05:00",
+  "palabras": "",
+  "lead": "Desde Cartagena, Gustavo Gómez Montero, presidente ejecutivo de Asoexport, cuestionó los cambios tributarios planteados por el Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“El Acuerdo de Paz del 2016 con las Farc fue y es un éxito”: Miroslav Jenča",
+  "enlace": "https://caracol.com.co/2026/11/06/el-acuerdo-de-paz-del-2016-con-las-farc-fue-y-es-un-exito-miroslav-jenca/",
+  "fecha": "2026-11-06T12:21:55-05:00",
+  "palabras": "",
+  "lead": "El representante de la Misión de Verificación de la ONU en Colombia, Miroslav Jenča, aseguró que pese a la polarización profunda del país su foco será cumplir con sus tareas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín lanza gran campaña contra la pólvora para proteger la vida y la salud en fin de año",
+  "enlace": "https://caracol.com.co/2026/11/06/medellin-lanza-gran-campana-contra-la-polvora-para-proteger-la-vida-y-la-salud-en-fin-de-ano/",
+  "fecha": "2026-11-06T12:18:08-05:00",
+  "palabras": "",
+  "lead": "Con un despliegue interinstitucional en las 16 comunas y 5 corregimientos, la Administración Distrital busca evitar quemados y emergencias durante las celebraciones decembrinas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumenta deportación de extranjeros por la frontera colombiana",
+  "enlace": "https://caracol.com.co/2026/11/06/aumenta-deportacion-de-extranjeros-por-la-frontera-colombiana/",
+  "fecha": "2026-11-06T12:15:02-05:00",
+  "palabras": "",
+  "lead": "Más 812 ciudadanos venezolanos han sido traídos desde varias ciudades del país",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con Feria de Cali, alcalde Eder apunta a reactivar la ciudad y apoyar a damnificados por terremoto",
+  "enlace": "https://caracol.com.co/2026/11/06/con-feria-de-cali-alcalde-eder-apunta-a-reactivar-la-ciudad-y-apoyar-a-damnificados-por-terremoto/",
+  "fecha": "2026-11-06T12:12:36-05:00",
+  "palabras": "",
+  "lead": "En 6AM W, el alcalde Alejandro Eder explicó que se está haciendo para apoyar a las familias afectas por el terremoto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia obtuvo 35,6 puntos en el primer índice que mide las microempresas en la ciudad",
+  "enlace": "https://caracol.com.co/2026/11/06/antioquia-obtuvo-356-puntos-en-el-primer-indice-que-mide-las-microempresas-en-la-ciudad/",
+  "fecha": "2026-11-06T12:12:46-05:00",
+  "palabras": "",
+  "lead": "El indicador presentado por el Centro de Estudios de la Empresa Micro, evaluó cinco dimensiones del tejido empresarial. Los resultados evidencian brechas importantes en la digitalización y acceso a la financiación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Novedades musicales de noviembre: Grupo Firme, Carlos Rivera, Luis Alfonso y más",
+  "enlace": "https://caracol.com.co/2026/11/06/novedades-musicales-de-noviembre-grupo-firme-carlos-rivera-luis-alfonso-y-mas/",
+  "fecha": "2026-11-06T12:06:36-05:00",
+  "palabras": "",
+  "lead": "Los artistas nacionales e internacionales presentaron nueva música para este viernes 06 de noviembre, en Caracol Radio le contamos algunas de ellas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expulsan a 13 extranjeros de Bucaramanga: acumulaban más de 320 anotaciones policiales",
+  "enlace": "https://caracol.com.co/2026/11/06/expulsan-a-13-extranjeros-de-bucaramanga-acumulaban-mas-de-320-anotaciones-policiales/",
+  "fecha": "2026-11-06T11:51:36-05:00",
+  "palabras": "",
+  "lead": "Uno de los expulsados tenía un requerimiento en Venezuela por asociación para delinquir. Los extranjeros fueron identificados durante operativos en hospedajes clandestinos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Niegan tutela a Santiago Uribe para volver a examinar recurso de casación en caso Los 12 Apóstoles",
+  "enlace": "https://caracol.com.co/2026/11/06/niegan-tutela-a-santiago-uribe-para-volver-a-examinar-recurso-de-casacion-en-caso-los-12-apostoles/",
+  "fecha": "2026-11-06T11:48:34-05:00",
+  "palabras": "",
+  "lead": "El único camino que le quedaría al hermano del expresidente Álvaro Uribe para revertir el fallo sería una eventual revisión de la Corte Constitucional, siempre que la tutela sea seleccionada por ese alto tribunal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Preocupación por deportaciones en la frontera colombiana",
+  "enlace": "https://caracol.com.co/2026/11/06/preocupacion-por-deportaciones-en-la-frontera-colombiana/",
+  "fecha": "2026-11-06T11:45:20-05:00",
+  "palabras": "",
+  "lead": "Sectores económicos advierten más problemas de seguridad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atacan con drones la estación de la Policía en el municipio de Ataco, Tolima",
+  "enlace": "https://caracol.com.co/2026/11/06/atacan-con-drones-la-estacion-de-la-policia-en-el-municipio-de-ataco-tolima/",
+  "fecha": "2026-11-06T11:34:36-05:00",
+  "palabras": "",
+  "lead": "Según Alfredo Bocanegra, secretario de Seguridad del Tolima, no hay personas heridas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así funciona proyecto de ley para frenar acoso judicial a periodistas en Colombia según Ana Bejarano",
+  "enlace": "https://caracol.com.co/2026/11/06/asi-funciona-proyecto-de-ley-para-frenar-acoso-judicial-a-periodistas-en-colombia-segun-ana-bejarano/",
+  "fecha": "2026-11-06T11:39:11-05:00",
+  "palabras": "",
+  "lead": "La reconocida abogada estuvo en Caracol Radio hablando sobre el proyecto de ley ‘Anti-Cepo’, del cual es coautora, para prevenir el acoso y la censura.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Querida Sharik”: una historia sobre identidad, herencia y memoria",
+  "enlace": "https://caracol.com.co/2026/11/06/querida-sharik-una-historia-sobre-identidad-herencia-y-memoria/",
+  "fecha": "2026-11-06T11:40:17-05:00",
+  "palabras": "",
+  "lead": "La cartagenera Margarita García Robayo recibe el premio Herralde de Anagrama entre más de 2 mil postulaciones por su novela.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conozca a Camilo Mena, la gran sorpresa en la convocatoria de la Selección Colombia frente a Chile",
+  "enlace": "https://caracol.com.co/2026/11/06/conozca-a-camilo-mena-la-gran-sorpresa-en-la-convocatoria-de-la-seleccion-colombia-frente-a-chile/",
+  "fecha": "2026-11-06T11:39:11-05:00",
+  "palabras": "",
+  "lead": "El atacante nacido en Antioquia buscará hacer su debut con la Tricolor en el próximo parón por fecha FIFA.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Valle del Cauca: resiliencia, liderazgo y el nuevo pacto por el bienestar",
+  "enlace": "https://caracol.com.co/2026/11/06/el-valle-del-cauca-resiliencia-liderazgo-y-el-nuevo-pacto-por-el-bienestar/",
+  "fecha": "2026-11-06T11:31:56-05:00",
+  "palabras": "",
+  "lead": "Tras la crisis, el Valle del Cauca busca liderar un nuevo modelo de desarrollo donde la riqueza solo vale si se genera bienestar social.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente del Congreso pide a Abelardo De La Espriella reglamentar la ley contra el desperdicio de alimentos",
+  "enlace": "https://www.lafm.com.co/politica/presidente-del-congreso-pide-abelardo-de-la-espriella-reglamentar-ley-desperdicio-alimentos-416356",
+  "fecha": "2026-11-06T12:12:00-05:00",
+  "palabras": "Política,Hambre,Hambre Cero,Donaciones,Banco de alimentos,Leyes sancionadas,Abelardo de la Espriella,Senado de la República,Congreso de la República",
+  "lead": "Se trata de una iniciativa que busca combatir el hambre en el país y que no ha sido reglamentada desde hace 7 años.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Veintitrés años de reconocer a quienes hacen crecer a Colombia desde la micro y pequeña empresa",
+  "enlace": "https://www.lafm.com.co/economia/veintitres-anos-de-reconocer-a-quienes-hacen-crecer-a-colombia-desde-la-micro-y-pequena-empresa-416354",
+  "fecha": "2026-11-06T11:52:00-05:00",
+  "palabras": "Economía,Contenido patrocinado,microempresas,Innovación,Emprendedores,Emprendimiento,Mipymes,Pymes,incentivo económico,Empresas,MANIZALES,sector financiero",
+  "lead": "Contenido patrocinado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ANLA elimina 3 requisitos ambientales para exploración petrolera de Anadarko en el Caribe",
+  "enlace": "https://www.lafm.com.co/economia/anla-retira-3-exigencias-ambientales-licencia-exploracion-petrolera-caribe-colombiano-416347",
+  "fecha": "2026-11-06T11:36:00-05:00",
+  "palabras": "Economía,Licencia ambiental,Proyectos ambientales,Ministerio de Ambiente,Armada Nacional,sanciones",
+  "lead": "Aunque se ajustan las condiciones de seguimiento, la compañía deberá cumplir los demás compromisos y presentar los planes ambientales antes de operar allí.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Rescatan a mujeres secuestradas en Bogotá: esto se sabe",
+  "enlace": "https://www.lafm.com.co/orden-publico/rescatan-dos-mujeres-secuestradas-bogota-viajaron-medellin-oferta-laboral-416350",
+  "fecha": "2026-11-06T11:21:00-05:00",
+  "palabras": "Orden Público,Secuestros,Bogotá,Gaula,Rescate",
+  "lead": "Las autoridades investigan esa modalidad de secuestro, que había sido denunciada recientemente por otra víctima.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Intensifican vigilancia a Sanitas por entrega de medicamentos",
+  "enlace": "https://www.lafm.com.co/sociedad/entrega-medicamentos-pacientes-eps-sanitas-bogota-crisis-salud-quejas-usuarios-supersalud-416306",
+  "fecha": "2026-11-06T10:00:00-05:00",
+  "palabras": "Sociedad,medicamentos,Copa Colsanitas,Superintendencia Nacional de Salud,Salud,Ministerio de Salud",
+  "lead": "La entidad solicitó actualizar semanalmente las bases de usuarios que tienen medicamentos pendientes y verificará el restablecimiento del servicio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Contraloría advierte que $10,18 billones de MinSalud siguen pendientes por legalizar",
+  "enlace": "https://www.lafm.com.co/economia/contraloria-advierte-10-billones-ministerio-de-salud-siguen-pendientes-legalizar-416337",
+  "fecha": "2026-11-06T09:33:00-05:00",
+  "palabras": "Economía,Contraloría General de la República,Ministerio de Salud,Irregularidades en manejo de recursos,Vigilancia,recursos públicos,Irregularidades en contratos,Suspensión de contratos,administración de recursos,Contraloría,contralor general",
+  "lead": "La revisión de 40 iniciativas encontró demoras, problemas presupuestales y fallas de seguimiento que comprometen inversiones para hospitales y equipos médi...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia y Países Bajos acuerdan trabajar en protección del agua",
+  "enlace": "https://www.lafm.com.co/sociedad/colombia-paises-bajos-acuerdan-trabajar-proteccion-agua-adaptacion-climatica-416316",
+  "fecha": "2026-11-06T06:47:00-05:00",
+  "palabras": "Sociedad,Acuerdos internacionales,Países Bajos,Cambio climático,Proyectos ambientales,Proyectos sostenibles,Departamento Nacional de Planeación,Ministerio de Ambiente,Biodiversidad,Ecosistema,Conservación de especies",
+  "lead": "El acuerdo prevé planes anuales, asistencia técnica e investigación con participación de entidades públicas, empresas, universidades y otros actores clave.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
