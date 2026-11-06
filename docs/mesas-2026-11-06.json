@@ -461,6 +461,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "En Popayán, combates entre el ELN y grupos criminales se extendieron por varias horas en la vereda Chulhuambo (zona rural de Silvia, Cauca), generando riesgos para niños, comunidades indígenas y campesinos, sin reporte de víctimas.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:04",
+   "quien": "Magistrado Danilo Rojas, Presidente de la JEP",
+   "que": "Anunció tres medidas de austeridad: reducirá en un 85% los contratos de prestación de servicios, trasladará su sede a un edificio más pequeño y ajustará los esquemas de seguridad para ahorrar 148.000 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:04",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Reportó que tras una pelea en una celda en la URI de Puente Aranda en Bogotá, se confirmó la muerte de un detenido y ocho heridos más.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:04",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que la Fiscalía Europea abrió una investigación para determinar si hubo fraude de fondos destinados a la línea ferroviaria de alta velocidad Madrid-Sevilla, tras un grave accidente la semana pasada que dejó 69 personas fallecidas.",
+   "resaltar": false
   }
  ],
  "avisos": [
