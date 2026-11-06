@@ -1239,7 +1239,7 @@
   "palabras": "Viral, Redes sociales",
   "lead": "Su sobrina confirmó la noticia y reveló detalles de la emergencia médica que la llevó a permanecer varios días hospitalizada. También se destacó por su faceta como empresaria y modelo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "Santander, Electrificadora de Santander, Economía, Blu Radio, Noticias de hoy",
   "lead": "La Electrificadora de Santander recibió ofertas de inversionistas por $371.600 millones, casi el doble del monto que puso en el mercado. Los recursos se destinarán a proyectos de inversión.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Óscar Darío Pérez, representante a la Cámara por el Centro Democrático, alertó por el alza de impuestos y contrabando: “países vecinos como Venezuela y Ecuador, que seguramente nos van a inundar”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "El conjunto Verdolaga podría asegurar el punto invisible en condición de local.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Según la CRC el aviso previo aseguraba que la película no incluía escenas de sexo, lo que también motivó una sanción.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "Más de mil uniformados de la Fuerza Pública integran el operativo que inició en las últimas horas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "",
   "lead": "Medellín avanza en innovación tecnológica y formación de talento para fortalecer su ecosistema empresarial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "",
   "lead": "Las autoridades investigan posible disputa entre bandas criminales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Economía,Sequía,Lluvias,Energía,Ministerio de Minas y Energía",
   "lead": "Tres superintendencias vigilarán a generadoras de energía para verificar sus obligaciones durante El Niño 2026-2027.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Política,Reforma tributaria,medidas fiscales,Impuestos,Medidas económicas,Proyecto de ley,Marco fiscal,Ministerio de Hacienda y Crédito Público,Centro Democrático,partido Liberal,Partido Conservador",
   "lead": "Bancadas como el liberalismo y el conservatismo, tienen puntos de honor y no apoyarían los impuestos a la clase media y popular. El tema será analizado en ...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1348,6 +1348,303 @@
   "fecha": "2026-11-06T08:15:00-05:00",
   "palabras": "Orden Público,Celulares,Robo,Policía Nacional,Alcaldía de Bogotá,Suba",
   "lead": "Las autoridades inspeccionaron 1.500 teléfonos celulares durante una intervención en el noroccidente de Bogotá.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Urabá da un paso clave para tener agua potable: aprueban $1,3 billones para las obras",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/uraba-da-un-paso-clave-para-tener-agua-potable-aprueban-1-3-billones-para-las-obras-rg10",
+  "fecha": "2026-11-06T09:34:10-05:00",
+  "palabras": "",
+  "lead": "Aunque el expresidente Gustavo Petro habría prometido recursos del Gobierno para el acueducto, el proyecto será financiado con los excedentes del IDEA.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Centro Democrático condiciona apoyo a la reforma tributaria: exige mayor recorte fiscal",
+  "enlace": "https://www.bluradio.com/economia/centro-democratico-condiciona-apoyo-a-la-reforma-tributaria-exige-mayor-recorte-fiscal-pr30",
+  "fecha": "2026-11-06T08:51:58-05:00",
+  "palabras": "Centro Democrático, Reforma tributaria",
+  "lead": "Uno de los aspectos más críticos señalados por la colectividad opositora radica en la afectación que los nuevos tributos tendrían sobre los sectores populares y la clase media.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lista de convocados de la Selección Colombia para noviembre: Lorenzo definió sus 26 jugadores",
+  "enlace": "https://www.bluradio.com/deportes/futbol/lista-de-convocados-de-la-seleccion-colombia-para-noviembre-lorenzo-definio-sus-26-jugadores-so35",
+  "fecha": "2026-11-06T09:21:16-05:00",
+  "palabras": "Selección Colombia, FIFA, Néstor Lorenzo",
+  "lead": "El combinado nacional comenzará su concentración en Cali este sábado 7 de noviembre y disputará dos encuentros ante el equipo austral, uno en Colombia y otro en Santiago de Chile.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Con rifas y colectas, la Iglesia Católica de Uruguay financia la visita del papa León XIV",
+  "enlace": "https://www.bluradio.com/sociedad/el-cardenal-daniel-sturla-presidente-de-la-conferencia-episcopal-de-uruguay-pr30",
+  "fecha": "2026-11-06T09:06:23-05:00",
+  "palabras": "Papa León XIV, Uruguay",
+  "lead": "El cardenal Daniel Sturla reveló que la visita papal costará cerca de 2,5 millones de dólares y que la Iglesia, sin aportes del Estado para las misas, acudió a los fieles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "SAC advierte que papa, arroz y queso subirían de precio si se aprueba ley de rescate fiscal",
+  "enlace": "https://www.bluradio.com/economia/sac-advierte-que-papa-arroz-y-queso-subirian-de-precio-si-se-aprueba-ley-de-rescate-fiscal-rg10",
+  "fecha": "2026-11-06T09:24:51-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "El presidente de la Sociedad de Agricultores de Colombia, Jorge Enrique Bedoya, alertó en Mañanas BLU sobre el impacto del IVA del 19% a los insumos agrícolas y alimentos básicos, advirtiendo dificultades en la facturación electrónica rural y un encarecimiento directo para el consumidor.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Gran Malecón del Mar: 489 empleos en su ejecución y 600 actores de playa vinculados",
+  "enlace": "https://caracol.com.co/2026/11/06/el-gran-malecon-del-mar-489-empleos-en-su-ejecucion-y-600-actores-de-playa-vinculados/",
+  "fecha": "2026-11-06T09:30:57-05:00",
+  "palabras": "",
+  "lead": "489 personas, entre ellas 62 mujeres, trabajaron en la construcción de los dos primeros kilómetros",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La escritora colombiana Margarita García gana el Premio Herralde 2026 con su novela ‘Querida Sharik’",
+  "enlace": "https://caracol.com.co/2026/11/06/la-escritora-colombiana-margarita-garcia-gana-el-premio-herralde-2026-con-su-novela-querida-sharik/",
+  "fecha": "2026-11-06T09:30:54-05:00",
+  "palabras": "",
+  "lead": "La autora cartagenera recibe uno de los reconocimientos más importantes de la literatura en español por una obra que explora la memoria familiar, los orígenes africanos y la herencia de la esclavitud en el Caribe.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sanitas activa plan de choque por fallas en dispensarios: SuperSalud intensifica vigilancia",
+  "enlace": "https://caracol.com.co/2026/11/06/sanitas-activa-plan-de-choque-por-fallas-en-dispensarios-supersalud-intensifica-vigilancia/",
+  "fecha": "2026-11-06T07:34:00-05:00",
+  "palabras": "",
+  "lead": "La Supersalud exigió reportes semanales de los pacientes que siguen esperando sus medicamentos y avances en la efectividad del plan de choque.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía fijó nueva fecha para declaración de Deicy Jiménez en caso Petro",
+  "enlace": "https://caracol.com.co/2026/11/06/fiscalia-fijo-nueva-fecha-para-declaracion-de-deicy-jimenez-en-caso-petro/",
+  "fecha": "2026-11-06T09:20:22-05:00",
+  "palabras": "",
+  "lead": "La entidad aclaró que la mujer que denunció las presuntas irregularidades de contratación en el Dapre y otras entidades del Estado estuvo hasta las 12 de la madrugada en el búnker en la extracción forense.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desfalco UNGRD: niegan tutela con la que Sneyder Pinilla buscaba tumbar su traslado a la Picota",
+  "enlace": "https://caracol.com.co/2026/11/06/caso-ungrd-niegan-tutela-con-la-que-sneyder-pinilla-buscaba-tumbar-su-traslado-a-la-picota/",
+  "fecha": "2026-11-06T09:21:46-05:00",
+  "palabras": "",
+  "lead": "Con esta tutela buscaba regresar al Centro de Reclusión Militar de Artillería (EJART), tras su traslado a la cárcel La Picota.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Selección Colombia con varios sorpresas: Néstor Lorenzo dio a conocer nómina para juegos ante Chile",
+  "enlace": "https://caracol.com.co/2026/11/06/seleccion-colombia-con-varios-sorpresas-nestor-lorenzo-dio-a-conocer-nomina-para-juegos-ante-chile/",
+  "fecha": "2026-11-06T09:10:38-05:00",
+  "palabras": "",
+  "lead": "El técnico argentino citó 26 jugadores para los últimos dos juegos amistosos del 2026.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desmontan 41 puestos de ventas ambulantes en nuevo operativo de recuperación del centro de Cali",
+  "enlace": "https://caracol.com.co/2026/11/06/desmontan-41-puestos-de-ventas-ambulantes-en-nuevo-operativo-de-recuperacion-del-centro-de-cali/",
+  "fecha": "2026-11-06T09:23:04-05:00",
+  "palabras": "",
+  "lead": "La intervención en la carrera 9 permitió despejar 600 metros cuadrados, retirar 34 metros cúbicos de escombros y desconectar 16 instalaciones ilegales de energía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nombran embajador en Uruguay a exsuperintendente de Salud sancionado por la Procuraduría",
+  "enlace": "https://caracol.com.co/2026/11/06/nombran-embajador-en-uruguay-a-exsuperintendente-de-salud-sancionado-por-la-procuraduria/",
+  "fecha": "2026-11-06T09:23:02-05:00",
+  "palabras": "",
+  "lead": "Amaury García Burgos, quien salió de la Supersalud en medio de un escándalo, ahora será embajador",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Entregan dos calles en Marialabaja, Bolívar y anuncian nuevas obras",
+  "enlace": "https://caracol.com.co/2026/11/06/entregan-dos-calles-en-marialabaja-bolivar-y-anuncian-nuevas-obras/",
+  "fecha": "2026-11-06T09:22:52-05:00",
+  "palabras": "",
+  "lead": "Con música, bullerengue y el respaldo de la comunidad, el gobernador de Bolívar, Yamil Arana Padauí, llegó al barrio Las Delicias",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abogado de Angie Rodríguez renunció a su defensa por motivos personales",
+  "enlace": "https://caracol.com.co/2026/11/06/abogado-de-angie-rodriguez-renuncio-a-su-defensa-por-motivos-personales/",
+  "fecha": "2026-11-06T09:20:14-05:00",
+  "palabras": "",
+  "lead": "Tras renuncia de su abogado, defensa de Angie Lizeth Rodríguez se acogerá al secreto profesional",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena vivirá un domingo de diversión para niños y niñas en Nuevo Chambacú",
+  "enlace": "https://caracol.com.co/2026/11/06/cartagena-vivira-un-domingo-de-diversion-para-ninos-y-ninas-en-nuevo-chambacu/",
+  "fecha": "2026-11-06T09:17:49-05:00",
+  "palabras": "",
+  "lead": "Inflables, shows musicales, pintucaritas, dulces y muchas sorpresas harán parte de esta jornada gratuita, que invita a niños y niñas a asistir disfrazados y compartir una tarde de recreación en familia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena se alista para vivir el XVII Desfile de la Independencia y las Diversidades",
+  "enlace": "https://caracol.com.co/2026/11/06/cartagena-se-alista-para-vivir-el-xvii-desfile-de-la-independencia-y-las-diversidades/",
+  "fecha": "2026-11-06T09:15:10-05:00",
+  "palabras": "",
+  "lead": "Este domingo 8 de noviembre, a partir de las 6:00 p.m., el Centro Histórico se llenará de color, arte y reivindicación en un recorrido desde Las Bóvedas hasta la Plaza de los Coches",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hubo saboteo”: exembajador Ninco sobre consulado ‘de papel’ del gobierno Petro en Tijuana",
+  "enlace": "https://caracol.com.co/2026/11/06/hubo-saboteo-exembajador-ninco-sobre-consulado-de-papel-del-gobierno-petro-en-tijuana/",
+  "fecha": "2026-11-06T09:08:32-05:00",
+  "palabras": "",
+  "lead": "Moisés Ninco aseguró que esa sede diplomática en México no se pudo poner a funcionar por la “guerra jurídica” que anuló sus nombramientos",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En temporada de navidad el espacio público será exclusivamente para vendedores tunjanos",
+  "enlace": "https://caracol.com.co/2026/11/06/en-temporada-de-navidad-el-espacio-publico-sera-exclusivamente-para-vendedores-tunjanos/",
+  "fecha": "2026-11-06T09:09:04-05:00",
+  "palabras": "",
+  "lead": "Alcaldía de Tunja dará prioridad a vendedores ambulantes locales para ocupar el espacio público durante la temporada de Navidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 6 de noviembre de 2026 en Colombia: la divisa inicia la jornada al alza frente al COP",
+  "enlace": "https://caracol.com.co/2026/11/06/dolar-hoy-6-de-noviembre-de-2026-en-colombia-la-divisa-inicia-la-jornada-al-alza-frente-al-cop/",
+  "fecha": "2026-11-06T09:00:21-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este viernes 6 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además del real brasileño, petróleo y bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pelea entre privados de la libertad en URI de Puente Aranda deja un muerto y nueve heridos",
+  "enlace": "https://caracol.com.co/2026/11/06/pelea-entre-privados-de-la-libertad-en-uri-de-puente-aranda-deja-un-muerto-y-nueve-heridos/",
+  "fecha": "2026-11-06T09:01:19-05:00",
+  "palabras": "",
+  "lead": "Las autoridades descartaron un intento de amotinamiento o fuga en el centro de reclusión transitoria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caminó más de una hora con su hija herida a cuestas para buscar ayuda en Valencia, Córdoba",
+  "enlace": "https://caracol.com.co/2026/11/06/camino-mas-de-una-hora-con-su-hija-herida-a-cuestas-para-buscar-ayuda-en-valencia-cordoba/",
+  "fecha": "2026-11-06T08:56:22-05:00",
+  "palabras": "",
+  "lead": "La niña de 5 años fue mordida por un animal en zona rural del Alto Sinú",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Producción de café en el país  cayó 15% en los últimos doce meses",
+  "enlace": "https://caracol.com.co/2026/11/06/produccion-de-cafe-en-el-pais-cayo-15-en-los-ultimos-doce-meses/",
+  "fecha": "2026-11-06T08:48:52-05:00",
+  "palabras": "",
+  "lead": "Las exportaciones retrocedieron 11% en el acumulado anual, aunque en octubre crecieron 6%.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Joven de 21 años murió en Soacha tras ataque con machete",
+  "enlace": "https://www.lafm.com.co/orden-publico/muere-joven-21-anos-soacha-ataque-machete-conjunto-residencial-policia-investiga-416335",
+  "fecha": "2026-11-06T08:45:00-05:00",
+  "palabras": "Orden Público,Soacha,Homicidios,Intolerancia,Policía Nacional",
+  "lead": "Las autoridades conformaron un grupo especial para esclarecer el homicidio.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Deicy Jiménez publica mensaje tras declarar ante la Fiscalía",
+  "enlace": "https://www.lafm.com.co/actualidad/deicy-jimenez-mensaje-denuncia-gustavo-petro-fiscalia-416334",
+  "fecha": "2026-11-06T08:41:00-05:00",
+  "palabras": "Actualidad,Gustavo Petro,Polémicos contratos,Irregularidades en contratos,contratos,Firma de contratos,contrato,Dapre,Funcionarios denunciados,Fiscalía General de la Nación",
+  "lead": "La mujer se pronunció en sus redes sociales después de permanecer 15 horas y 45 minutos en la Fiscalía.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La primera parada del papa León en Latam será en Uruguay, el país más laico de la región",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-uruguay-pais-mas-laico-region-416331",
+  "fecha": "2026-11-06T08:24:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Uruguay,Montevideo,Iglesia Católica",
+  "lead": "Según el Latinobarómetro, apenas uno de cada diez uruguayos se considera católico practicante o muy practicante.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Militares denuncian falta de garantías y presiones a la JEP",
+  "enlace": "https://www.lafm.com.co/orden-publico/militares-jep-denuncian-falta-garantias-presiones-dudas-sobre-imparcialidad-416330",
+  "fecha": "2026-11-06T08:22:00-05:00",
+  "palabras": "Orden Público,JurisdicciónEspecialParalaPaz,Justicia transicional,Ley de Garantías,Procesos judiciales,Sistema Penal Acusatorio,Fuerzas Militares,Reconciliación,Reparación de víctimas,Rama Judicial,Investigaciones,Colombia",
+  "lead": "Torres cuestionó el acceso a pruebas y la imparcialidad de los magistrados en los procesos contra militares.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
