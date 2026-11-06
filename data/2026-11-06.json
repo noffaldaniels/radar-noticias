@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "Aunque el expresidente Gustavo Petro habría prometido recursos del Gobierno para el acueducto, el proyecto será financiado con los excedentes del IDEA.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "Centro Democrático, Reforma tributaria",
   "lead": "Uno de los aspectos más críticos señalados por la colectividad opositora radica en la afectación que los nuevos tributos tendrían sobre los sectores populares y la clase media.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "Selección Colombia, FIFA, Néstor Lorenzo",
   "lead": "El combinado nacional comenzará su concentración en Cali este sábado 7 de noviembre y disputará dos encuentros ante el equipo austral, uno en Colombia y otro en Santiago de Chile.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "Papa León XIV, Uruguay",
   "lead": "El cardenal Daniel Sturla reveló que la visita papal costará cerca de 2,5 millones de dólares y que la Iglesia, sin aportes del Estado para las misas, acudió a los fieles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "Noticias de hoy",
   "lead": "El presidente de la Sociedad de Agricultores de Colombia, Jorge Enrique Bedoya, alertó en Mañanas BLU sobre el impacto del IVA del 19% a los insumos agrícolas y alimentos básicos, advirtiendo dificultades en la facturación electrónica rural y un encarecimiento directo para el consumidor.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "489 personas, entre ellas 62 mujeres, trabajaron en la construcción de los dos primeros kilómetros",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "La autora cartagenera recibe uno de los reconocimientos más importantes de la literatura en español por una obra que explora la memoria familiar, los orígenes africanos y la herencia de la esclavitud en el Caribe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "La Supersalud exigió reportes semanales de los pacientes que siguen esperando sus medicamentos y avances en la efectividad del plan de choque.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "",
   "lead": "La entidad aclaró que la mujer que denunció las presuntas irregularidades de contratación en el Dapre y otras entidades del Estado estuvo hasta las 12 de la madrugada en el búnker en la extracción forense.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "Con esta tutela buscaba regresar al Centro de Reclusión Militar de Artillería (EJART), tras su traslado a la cárcel La Picota.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "El técnico argentino citó 26 jugadores para los últimos dos juegos amistosos del 2026.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "La intervención en la carrera 9 permitió despejar 600 metros cuadrados, retirar 34 metros cúbicos de escombros y desconectar 16 instalaciones ilegales de energía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "Amaury García Burgos, quien salió de la Supersalud en medio de un escándalo, ahora será embajador",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "Con música, bullerengue y el respaldo de la comunidad, el gobernador de Bolívar, Yamil Arana Padauí, llegó al barrio Las Delicias",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "Tras renuncia de su abogado, defensa de Angie Lizeth Rodríguez se acogerá al secreto profesional",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "Inflables, shows musicales, pintucaritas, dulces y muchas sorpresas harán parte de esta jornada gratuita, que invita a niños y niñas a asistir disfrazados y compartir una tarde de recreación en familia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "Este domingo 8 de noviembre, a partir de las 6:00 p.m., el Centro Histórico se llenará de color, arte y reivindicación en un recorrido desde Las Bóvedas hasta la Plaza de los Coches",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Moisés Ninco aseguró que esa sede diplomática en México no se pudo poner a funcionar por la “guerra jurídica” que anuló sus nombramientos",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "Alcaldía de Tunja dará prioridad a vendedores ambulantes locales para ocupar el espacio público durante la temporada de Navidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "Así inició la jornada del dólar en Colombia este viernes 6 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además del real brasileño, petróleo y bitcoin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "Las autoridades descartaron un intento de amotinamiento o fuga en el centro de reclusión transitoria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "La niña de 5 años fue mordida por un animal en zona rural del Alto Sinú",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "Las exportaciones retrocedieron 11% en el acumulado anual, aunque en octubre crecieron 6%.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "Orden Público,Soacha,Homicidios,Intolerancia,Policía Nacional",
   "lead": "Las autoridades conformaron un grupo especial para esclarecer el homicidio.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "Actualidad,Gustavo Petro,Polémicos contratos,Irregularidades en contratos,contratos,Firma de contratos,contrato,Dapre,Funcionarios denunciados,Fiscalía General de la Nación",
   "lead": "La mujer se pronunció en sus redes sociales después de permanecer 15 horas y 45 minutos en la Fiscalía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Internacional,Papa León XIV,Uruguay,Montevideo,Iglesia Católica",
   "lead": "Según el Latinobarómetro, apenas uno de cada diez uruguayos se considera católico practicante o muy practicante.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,6 +1646,303 @@
   "palabras": "Orden Público,JurisdicciónEspecialParalaPaz,Justicia transicional,Ley de Garantías,Procesos judiciales,Sistema Penal Acusatorio,Fuerzas Militares,Reconciliación,Reparación de víctimas,Rama Judicial,Investigaciones,Colombia",
   "lead": "Torres cuestionó el acceso a pruebas y la imparcialidad de los magistrados en los procesos contra militares.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Shakira en Barranquilla: la artista volvió y se le vio dando un paseo junto a su padre",
+  "enlace": "https://www.bluradio.com/regiones/caribe/shakira-en-barranquilla-la-artista-volvio-y-se-le-vio-dando-un-paseo-junto-a-su-padre-rg10",
+  "fecha": "2026-11-06T10:09:43-05:00",
+  "palabras": "Noticias de hoy, Shakira",
+  "lead": "La barranquillera aprovechó un receso en su gira para visitar a sus padres en casa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Después de seis años, Grupo EPM volvió a colocar bonos en el mercado internacional",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/despues-de-seis-anos-grupo-epm-volvio-a-colocar-bonos-en-el-mercado-internacional-rg10",
+  "fecha": "2026-11-06T09:49:40-05:00",
+  "palabras": "Medellín, EPM",
+  "lead": "Con la transacción por 1.000 millones de dólares la empresa aseguró que busca fortalecer su liquidez.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Operación Agamenón en Cesar: tres dados de baja y un capturado del Clan del Golfo",
+  "enlace": "https://www.bluradio.com/regiones/caribe/operacion-agamenon-en-cesar-tres-dados-de-baja-y-un-capturado-del-clan-del-golfo-rg10",
+  "fecha": "2026-11-06T09:54:30-05:00",
+  "palabras": "Noticias de hoy, Abelardo De La Espriella, Clan del Golfo, Policía Nacional, Cesar",
+  "lead": "El presidente Abelardo De La Espriella dio a conocer los resultados del operativo de la Policía que se desarrolló en zona rural del municipio de San Martín.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El ahorro de agua en el Valle de Aburrá no alcanza el 45 % de la meta de EPM",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/el-ahorro-de-agua-en-el-valle-de-aburra-no-alcanza-el-45-de-la-meta-de-epm-rg10",
+  "fecha": "2026-11-06T10:06:43-05:00",
+  "palabras": "EPM, Racionamiento de agua, Valle de Aburrá, Medellín",
+  "lead": "Autoridades reiteran el llamado a ahorrar para evitar nuevas restricciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hallan explosivos y elementos para drones en embarcación ubicada en el Litoral de San Juan, Chocó",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/hallan-explosivos-y-elementos-para-drones-en-embarcacion-ubicada-en-el-litoral-de-san-juan-choco-rg10",
+  "fecha": "2026-11-06T09:59:01-05:00",
+  "palabras": "Chocó",
+  "lead": "También se encontró cuatro baterías y dos pares de hélices para drones, un cargador de baterías y una antena Starlink.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Abogado de Angie Rodríguez renuncia y defensa aporta informe toxicológico a la Fiscalía",
+  "enlace": "https://www.bluradio.com/judicial/abogado-de-angie-rodriguez-renuncia-y-defensa-aporta-informe-toxicologico-a-la-fiscalia-rg10",
+  "fecha": "2026-11-06T09:49:30-05:00",
+  "palabras": "Angie Rodríguez, Fiscalía General de la Nación",
+  "lead": "A pesar de la salida de Villanueva, la defensa de Rodríguez continuará a cargo del abogado Wilson Ruiz, quien mantiene su representación dentro de las investigaciones que involucran a la exfuncionaria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fiscalía vuelve a citar a Deicy Jiménez el 10 de noviembre por investigación de 'sexocontratos'",
+  "enlace": "https://www.bluradio.com/judicial/fiscalia-vuelve-a-citar-a-deicy-jimenez-el-10-de-noviembre-por-investigacion-de-sexocontratos-rg10",
+  "fecha": "2026-11-06T10:13:10-05:00",
+  "palabras": "Fiscalía General de la Nación, Gustavo Petro",
+  "lead": "La nueva citación se produce luego de que Jiménez no asistiera al llamado que le había hecho la Fiscalía para este martes 3 de noviembre y tras la extracción de su celular en las últimas horas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Magistrado Danilo Rojas anuncia que antes de fin de año habrá 20 nuevas imputaciones de la JEP",
+  "enlace": "https://www.bluradio.com/judicial/magistrado-danilo-rojas-anuncia-que-antes-de-fin-de-ano-habra-20-nuevas-imputaciones-de-la-jep-pr30",
+  "fecha": "2026-11-06T10:11:07-05:00",
+  "palabras": "",
+  "lead": "Este anuncio coincide con las recientes citaciones a exintegrantes del antiguo secretariado de las Farc por el reclutamiento de 18.677 niñas y niños, así como las decisiones por el atentado con burro bomba en Chalán (Sucre).",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Tratan de reescribir la historia y deslegitimar el acuerdo de paz\": Santos sobre el actual Gobierno",
+  "enlace": "https://www.bluradio.com/politica/tratan-de-reescribir-la-historia-y-deslegitimar-el-acuerdo-de-paz-santos-sobre-el-actual-gobierno-rg10",
+  "fecha": "2026-11-06T10:19:22-05:00",
+  "palabras": "Juan Manuel Santos, Gobierno nacional, Abelardo De La Espriella",
+  "lead": "El exmandatario se refirió a la intervención del embajador de Colombia ante la ONU, Mauricio Gaona, en el consejo de seguridad de naciones unidas",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los empresarios decidieron ser parte de la solución: María Isabel Ulloa en reconstrucción del Valle",
+  "enlace": "https://caracol.com.co/2026/11/06/los-empresarios-decidieron-ser-parte-de-la-solucion-maria-isabel-ulloa-en-reconstruccion-del-valle/",
+  "fecha": "2026-11-06T10:18:32-05:00",
+  "palabras": "",
+  "lead": "María Isabel Ulloa, presidenta de Propacífico, habló de la reconstrucción del Valle tras el terremoto del 10 de agosto",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maluma anunció su nueva gira “Loco X Volver World Tour 2027”: ¿En qué ciudades se presentará?",
+  "enlace": "https://caracol.com.co/2026/11/06/maluma-anuncio-su-nueva-gira-loco-x-volver-world-tour-2027-en-que-ciudades-se-presentara/",
+  "fecha": "2026-11-06T10:12:35-05:00",
+  "palabras": "",
+  "lead": "La gira comenzará el 5 de febrero de 2027 en Bogotá, Colombia, e incluirá ciudades como Buenos Aires, Ciudad de México, Santiago, Lima, Miami, Los Ángeles, Toronto, Madrid, París, Berlín, entre otras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría formuló cargos al alcalde de Simití, Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/06/procuraduria-formulo-cargos-al-alcalde-de-simiti-bolivar/",
+  "fecha": "2026-11-06T10:09:17-05:00",
+  "palabras": "",
+  "lead": "Por presunto nombramiento de funcionaria sin cumplir requisitos legales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 6 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/06/precio-y-cotizacion-del-dolar-en-venezuela-hoy-6-de-noviembre-de-2026/",
+  "fecha": "2026-11-06T09:56:00-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en el dólar y otras divisas del mundo, y cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "No hay justificación para hacer de las carreteras y centros poblados  escenarios de guerra: Indepaz",
+  "enlace": "https://caracol.com.co/2026/11/06/no-hay-justificacion-para-hacer-de-las-carreteras-y-centros-poblados-escenarios-de-guerra-indepaz/",
+  "fecha": "2026-11-06T09:58:30-05:00",
+  "palabras": "",
+  "lead": "La organización se pronunció tras el reciente ataque con explosivos atribuido a la estructura Carlos Patiño de las disidencias de las Farc que dejó un muerto y seis heridos en El Patía, Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consejo de Estado mantuvo la credencial del representante a la Cámara, Marco Hincapié",
+  "enlace": "https://caracol.com.co/2026/11/06/consejo-de-estado-mantuvo-la-credencial-del-representante-a-la-camara-marco-hincapie/",
+  "fecha": "2026-11-06T09:59:07-05:00",
+  "palabras": "",
+  "lead": "La Sección Quinta determinó negar las pretensiones de la demanda y mantener la elección del representante del Pacto Histórico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Stranger Things” anunció su regreso con una nueva serie ambientada en 1955: ¿Cómo se llamará?",
+  "enlace": "https://caracol.com.co/2026/11/06/stranger-things-anuncio-su-regreso-con-una-nueva-serie-ambientada-en-1955-como-se-llamara/",
+  "fecha": "2026-11-06T09:51:57-05:00",
+  "palabras": "",
+  "lead": "La serie, titulada “Other Worlds: A Stranger Things Adventure”, tiene previsto su estreno en 2028.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A prisión señalados de asesinar a policías en Betulia durante plan pistola del Clan del Golfo",
+  "enlace": "https://caracol.com.co/2026/11/06/a-prision-senalados-de-asesinar-a-policias-en-betulia-durante-plan-pistola-del-clan-del-golfo/",
+  "fecha": "2026-11-06T09:46:06-05:00",
+  "palabras": "",
+  "lead": "Los cuatro presuntos integrantes del grupo armado obtuvieron medida de aseguramiento mientras avanza el proceso judicial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Decisión de ICBF pondría en riesgo la atención a niños en Risaralda: esto dicen madres comunitarias",
+  "enlace": "https://caracol.com.co/2026/11/06/decision-de-icbf-pondria-en-riesgo-la-atencion-a-ninos-en-risaralda-esto-dicen-madres-comunitarias/",
+  "fecha": "2026-11-06T09:50:57-05:00",
+  "palabras": "",
+  "lead": "Yadira Becerra, presidenta del Sindicato de Madres Comunitarias de Risaralda, pasó los micrófonos de 6AM W para hablar de las decisiones del Instituto Colombiano de Bienestar Familiar (ICBF) que pondrían en riesgo la atención integral a niños en Risaralda.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juanes celebra 25 años de carrera con un álbum que reúne sus mayores éxitos: ¿Qué canciones incluye?",
+  "enlace": "https://caracol.com.co/2026/11/06/juanes-celebra-25-anos-de-carrera-con-un-album-que-reune-sus-mayores-exitos-que-canciones-incluye/",
+  "fecha": "2026-11-06T09:45:07-05:00",
+  "palabras": "",
+  "lead": "El artista colombiano lanzó ‘25 Aniversario’, una recopilación de 25 canciones que recorre diferentes etapas de su trayectoria. El álbum incluye clásicos como ‘La Camisa Negra’, ‘A Dios Le Pido’ y ‘Es Por Ti’, además de temas de sus producciones más recientes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mario Alberto Yepes: “Extraño el camerino y luchar por títulos”",
+  "enlace": "https://caracol.com.co/2026/11/06/mario-alberto-yepes-extrano-el-camerino-y-luchar-por-titulos/",
+  "fecha": "2026-11-06T09:48:18-05:00",
+  "palabras": "",
+  "lead": "El excapitán de la Selección Colombia habló con AS Colombia sobre su trayectoria y los momentos más importantes de su carrera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Qué pasa si tiene 1800 semanas cotizadas en Colpensiones ¿Se puede pensionar? Explicamos",
+  "enlace": "https://caracol.com.co/2026/11/06/que-pasa-si-tiene-1800-semanas-cotizadas-en-colpensiones-se-puede-pensionar-explicamos/",
+  "fecha": "2026-11-06T09:43:05-05:00",
+  "palabras": "",
+  "lead": "Le contamos lo que debe hacer para poder dejar de cotizar en Colpensiones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hoy inicia el encuentro internacional de Sabores andinos",
+  "enlace": "https://caracol.com.co/2026/11/06/hoy-inicia-el-encuentro-internacional-de-sabores-andinos/",
+  "fecha": "2026-11-06T09:40:20-05:00",
+  "palabras": "",
+  "lead": "150 expositores participan en esta nueva versión que llega a sus once años",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medellín recibe el UCI Gran Fondo: más de 2.000 aficionados",
+  "enlace": "https://www.lafm.com.co/deportes/medellin-recibe-uci-gran-fondo-mas-2000-aficionados-rutas-134-91-kilometros-cupos-mundial-416342",
+  "fecha": "2026-11-06T10:06:00-05:00",
+  "palabras": "Deportes,Medellín, Colombia,Ciclismo,Fedeciclismo,Valle de Aburrá,Eventos deportivos,deportistas colombianos,Eventos presenciales,Escenarios deportivos,Bogotá,Colombia",
+  "lead": "Los días 27 y 28 de noviembre se instalará una feria comercial en Plaza Mayor Medellín, donde también se entregarán los kits a los inscritos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los 5 postres saludables que puede preparar en menos de 30 minutos",
+  "enlace": "https://www.lafm.com.co/sociedad/cinco-postres-saludables-preparar-menos-30-minutos-pocos-ingredientes-416336",
+  "fecha": "2026-11-06T09:54:00-05:00",
+  "palabras": "Sociedad,postres,recetas de cocina,Nutrición,Aprender a cocinar,dulces,productos lácteos,Banano,limón,nutrientes",
+  "lead": "Para estas recetas se utilizarán principalmente frutas frescas, yogur natural, avena, coco y frutos secos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Denuncian incremento drones iraníes, ingresan por Venezuela",
+  "enlace": "https://www.lafm.com.co/orden-publico/drones-fabricacion-irani-ingresan-a-colombia-por-venezuela-416327",
+  "fecha": "2026-11-06T09:52:00-05:00",
+  "palabras": "Orden Público,Catatumbo,Drones,ELN,Control en fronteras,Irán",
+  "lead": "Se han registrado este año, más de 70 ataque terroristas a través de drones con explosivos contra la fuerza pública y 40 contra la población civil en zona....",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El Caso de las 48: Fiscalía citó a declarar a Deicy Jiménez para el próximo 10 de noviembre",
+  "enlace": "https://www.lafm.com.co/orden-publico/el-caso-de-las-48-fiscalia-cito-a-declarar-a-deicy-jimenez-para-el-proximo-10-de-noviembre-416339",
+  "fecha": "2026-11-06T09:40:00-05:00",
+  "palabras": "Orden Público,Gustavo Petro,Acusaciones,Polémicos contratos,Fiscalía General de la Nación,Denuncias por abuso,violaciones,Investigaciones,Indagación preliminar,Procesos judiciales",
+  "lead": "La Fiscalía ya definió las fechas para que comparezca a declarar ante este organismo la exdirectora del DAPRE, Angie Rodríguez.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Selección Colombia anunció convocatoria para partidos ante Chile",
+  "enlace": "https://www.lafm.com.co/deportes/convocatoria-seleccion-colombia-fecha-fifa-chile-416338",
+  "fecha": "2026-11-06T09:34:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Partido amistoso,Selección Chile,Copa América,Estadio Pascual Guerrero,Cali, Colombia,Terremoto en Colombia,Camilo Vargas,Juan David Cabal",
+  "lead": "La nómina incluye jugadores habituales en el proceso del técnico argentino y nuevos llamados, con el fin de ampliar las opciones del equipo.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
