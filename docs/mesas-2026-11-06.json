@@ -552,6 +552,27 @@
    "quien": "Senador Forero (Centro Democrático)",
    "que": "La capitalización bursátil de Ecopetrol es una referencia que indica que sus ingresos permiten reemplazar eventualmente una oportunidad de venta de acciones.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:26",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Menciona que la escritora colombiana Margarita García Galaz ganó el premio con un importante reconocimiento.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:25",
+   "quien": "Dominic Barbato, cabeza de Mercado Libre en Colombia",
+   "que": "Invertirán más de 600 millones de dólares en Colombia este año en infraestructura, tecnología y cuatro nuevos centros de distribución, incluyendo uno en Bogotá de más de 50.000 metros cuadrados.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:33",
+   "quien": "Dominic Barbato, cabeza de Mercado Libre en Colombia",
+   "que": "Mercado Libre cuenta actualmente con más de 43.000 mipymes en Colombia, las cuales generan el 70% de sus ingresos en la plataforma.",
+   "resaltar": false
   }
  ],
  "avisos": [
