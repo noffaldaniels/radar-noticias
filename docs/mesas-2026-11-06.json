@@ -55,6 +55,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El presidente Gustavo Petro responsabilizó al gobierno anterior por el apagón en pantallas del aeropuerto El Dorado que obligó a cancelar 79 vuelos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:14",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El tribunal explicó por qué ordenó la libertad del exministro Luis Fernando Velasco y aseguró que ya no existe sustento para mantener la medida de aseguramiento.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:24",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Fraude procesal y enriquecimiento ilícito fueron los delitos imputados por la Fiscalía a José Roberto Prieto, quien fue gerente de la campaña presidencial de Juan Manuel Santos en 2014, por presuntamente ocultar un aporte de 1 millón de dólares de la constructora brasileña Oderbrech.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:24",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La falla del sistema radar en Bogotá, que obligó a suspender operaciones aéreas el pasado 4 de noviembre, generó nuevos cuestionamientos; la Procuraduría pidió resultados concretos a la Aerocivil, mientras que Avianca exigió explicaciones técnicas y garantías para evitar que se repita la contingencia.",
+   "resaltar": false
   }
  ],
  "avisos": [
