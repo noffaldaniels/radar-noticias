@@ -237,6 +237,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Informó sobre las recientes discusiones en bancadas sobre la ley de rescate, destacando que el Centro Democrático busca reducir el gasto público y evitar el aumento de impuestos.",
    "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:11",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El exdirector de la Agencia de Defensa Jurídica del Estado, Germán Calderón España, confirmó que su esposa sí trabaja en la DIAN, pero negó que ella vaya a llegar a la dirección de esta entidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:14",
+   "quien": "Katia González Villanueva, Senadora de Paraguay",
+   "que": "El presidente de Paraguay, Mario Abdo Peña, renunció debido al escándalo del Banco Nacional, y ocho senadores y diputados presentaron una denuncia penal contra el presidente por corrupción y lavado de dinero.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:14",
+   "quien": "Katia González Villanueva, Senadora de Paraguay",
+   "que": "El Congreso de Paraguay rechazó la renuncia del presidente Mario Abdo Peña y continúa el proceso de juicio político en su contra por mal desempeño de funciones.",
+   "resaltar": false
   }
  ],
  "avisos": [
