@@ -517,6 +517,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Juan Carlos Mesa Vallejo, alias Tom, saldrá de prisión tras recibir libertad condicional luego de cumplir cerca del 97% de una condena a 13 años impuesta por el concejal de Medellín Andrés Tobón.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:14",
+   "quien": "Ricardo Restrepo (Periodista de Mañanas Blu)",
+   "que": "El presidente Gustavo Petro intentará mañana sábado reunir bancadas parlamentarias para darle impulso a su ley de rescate final, la reforma tributaria.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:14",
+   "quien": "Senador Andrés Forero (Centro Democrático)",
+   "que": "El senador Forero afirmó que existe una situación fiscal muy compleja heredada del gobierno anterior, recordando que la deuda pública aumentó en 400 billones de pesos adicionales, y que el gobierno plantea un incremento del IVA y la enajenación de activos de Ecopetrol.",
+   "resaltar": true
   }
  ],
  "avisos": [
