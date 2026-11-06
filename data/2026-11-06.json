@@ -3362,7 +3362,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 6 de noviembre de 2026 en Mañanas Blu.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3373,7 +3373,7 @@
   "palabras": "Juan Manuel Santos, Abelardo De La Espriella",
   "lead": "Lo dijo este viernes en Ciudad del Cabo, Sudáfrica, durante la 24 Conferencia Anual Nelson Mandela.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3384,7 +3384,7 @@
   "palabras": "Noticias de hoy, Ministerio de Agricultura, Regla fiscal",
   "lead": "El ministro Indalecio Dangond señaló que con esta medida buscan recaudar recursos para hacerle frente a la crisis fiscal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3395,7 +3395,7 @@
   "palabras": "",
   "lead": "El senador del Pacto Histórico aseguró que la colectividad tendrá una discusión interna sobre las denuncias de Deicy Jiménez contra el expresidente, pero insistió en que las responsabilidades deben ser determinadas por la justicia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3406,7 +3406,7 @@
   "palabras": "",
   "lead": "Estados Unidos le exige a China respetar el acuerdo comercial bilateral.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3417,7 +3417,7 @@
   "palabras": "",
   "lead": "Con la puesta en marcha de Puerto Antioquia, el evento evoluciona del tradicional Cacaofest hacia una plataforma de atracción de inversiones y alianzas comerciales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3428,7 +3428,7 @@
   "palabras": "",
   "lead": "El presidente de la Corte Suprema aseguró que “Hay un trabajo armónico” entre la Fiscalía General, la Sala Especial de Instrucción de la Corte Suprema de Justicia y la la Comisión de Investigación y Acusación de la Cámara de Representantes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3439,7 +3439,7 @@
   "palabras": "",
   "lead": "Fuerza pública afectó la estructura financiera de ‘La Terraza’ con capturas de valor e incautación de alucinógenos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3450,7 +3450,7 @@
   "palabras": "",
   "lead": "Las mujeres de la bancada del Pacto Histórico fijaron su postura frente a los recientes videos y pidieron garantías de protección para las denunciantes, así como investigaciones transparentes que permitan esclarecer los hechos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3461,7 +3461,7 @@
   "palabras": "",
   "lead": "Cientos de habitantes del Centro – Sur de Caldas se verían afectados por la decisión; además, aumentan los casos de violencia intrafamiliar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3472,7 +3472,7 @@
   "palabras": "",
   "lead": "El mediocampista quedó por fuera de la lista de Néstor Lorenzo para los amistosos ante Chile.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3483,7 +3483,7 @@
   "palabras": "Internacional,Papa León XIV,Vaticano,Uruguay,Iglesia Católica",
   "lead": "León XIV llegó a Montevideo para su gira de 12 días y dijo estar “bastante en forma” tras cirugía por cáncer de pulmón.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3494,7 +3494,7 @@
   "palabras": "Deportes,Selección Colombia,Néstor Lorenzo,Partido amistoso,Álvaro Montero,Arquero,Copa Argentina,Selección Chile",
   "lead": "El portero de Boca Juniors no fue convocado para los amistosos contra Chile, al igual que Kevin Castaño, otro de los \"consentidos\" del entrenador argentino...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3505,7 +3505,7 @@
   "palabras": "Entretenimiento,Información institucional,Sobreviviente,Actividad paranormal,Hechos paranormales,Series de terror,Francotirador,enfrentamiento,conflicto armado",
   "lead": "Claudio Cataño encabeza el reparto de una película colombiana que combina una misión militar, una presencia ancestral y una selva que transforma el miedo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3516,7 +3516,7 @@
   "palabras": "Economía,IVA,Departamento de Prosperidad Social,Reforma tributaria,Ministerio de Hacienda y Crédito Público,Dian",
   "lead": "Prosperidad Social estaría a cargo de los pagos, que también llegarían a quienes no tengan cuenta bancaria.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3527,7 +3527,7 @@
   "palabras": "Sociedad,Financiamiento,Sostenibilidad,medidas fiscales,Medidas económicas,Impuestos,Recaudo fiscal,Reforma a la salud,obligaciones financieras,obligaciones tributarias,Reforma tributaria",
   "lead": "El gremio Afidro presentó un paquete de propuestas para fortalecer los recursos del sistema de salud, atender obligaciones pendientes y apoyar el saneamien...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3538,7 +3538,7 @@
   "palabras": "Internacional,Política internacional,Estados Unidos,Texas,México,Elecciones en el exterior",
   "lead": "Su victoria puso fin a décadas de dominio republicano en el estado, tendrá diversos retos en materia político y social.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3549,6 +3549,380 @@
   "palabras": "Actualidad,Educación,hurto,Universidad Javeriana,Robo,Red delincuencial",
   "lead": "La institución anunció una revisión de las medidas y los protocolos de seguridad para el ingreso a sus espacios deportivos",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alertan por estafas con códigos QR: así pueden engañarlo sin que se dé cuenta",
+  "enlace": "https://www.bluradio.com/tecnologia/alertan-por-estafas-con-codigos-qr-asi-pueden-enganarlo-sin-que-se-de-cuenta-so35",
+  "fecha": "2026-11-06T16:18:43-05:00",
+  "palabras": "Estafas, Ciberseguridad, ESET",
+  "lead": "Los delincuentes están aprovechando herramientas cada vez más cotidianas para engañar a sus víctimas. Ante esto, una investigación reveló cómo evolucionan los métodos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La nueva experiencia que llega a las universidades de Medellín para impulsar la movilidad eléctrica",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/la-nueva-experiencia-que-llega-a-las-universidades-de-medellin-para-impulsar-la-movilidad-electrica-rg10",
+  "fecha": "2026-11-06T16:11:44-05:00",
+  "palabras": "Carros eléctricos, Kia, Medellín, Noticias de hoy",
+  "lead": "El vehículo eléctrico se presenta en campus universitarios de la ciudad como parte de las estrategias para promover el transporte sostenible y la innovación tecnológica entre la comunidad académica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tres heridos dejó ataque sicarial en Marinilla, Antioquia: responsable huyó en un vehículo",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/tres-heridos-dejo-ataque-sicarial-en-marinilla-antioquia-responsable-huyo-en-un-vehiculo-rg10",
+  "fecha": "2026-11-06T15:43:14-05:00",
+  "palabras": "Antioquia, Marinilla, Noticias de hoy, Homicidios",
+  "lead": "Según las autoridades, la situación habría respondido a disputas territoriales entre grupos criminales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Novedades jugadores convocados en Selección Colombia para amistosos vs. Chile",
+  "enlace": "https://www.bluradio.com/deportes/futbol/estos-son-los-nuevos-jugadores-convocados-en-seleccion-colombia-para-amistosos-vs-chile-pr30",
+  "fecha": "2026-11-06T15:59:24-05:00",
+  "palabras": "Selección Colombia, Selección Colombia, Selección Colombia vs chile, camilo durán, colombia, colombia vs chile, jugadores colombia",
+  "lead": "El primer partido será el viernes 13 de noviembre en el estadio Pascual Guerrero de Cali. El segundo será el martes 17 en Chile.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desarticulan a banda 'Los Kilates', señalada del robar $300 millones en joyas en San Gil",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/desarticulan-a-banda-los-kilates-senalada-del-robar-300-millones-en-joyas-en-san-gil-rg10",
+  "fecha": "2026-11-06T15:48:07-05:00",
+  "palabras": "Santander, Policía Nacional, Blu Radio, Noticias de hoy",
+  "lead": "Los señalados enfrentan cargos por fabricación, tráfico y porte de armas de fuego y hurto agravado. Un juez les impuso medida de aseguramiento en centro carcelario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Recapturan a alias ‘Nacho’, presunto responsable del asesinato de fiscal local en Barranquilla",
+  "enlace": "https://www.bluradio.com/regiones/caribe/recapturan-a-alias-nacho-presunto-responsable-del-asesinato-de-fiscal-local-en-barranquilla-rg10",
+  "fecha": "2026-11-06T15:46:25-05:00",
+  "palabras": "Noticias de hoy, Caribe, Barranquilla, Fiscalía General de la Nación",
+  "lead": "José Ignacio Londoño suma 11 anotaciones judiciales por delitos como porte ilegal de armas, hurto calificado, homicidio y fuga de presos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nueva prueba en el caso de Angie Rodríguez: 6 de noviembre 2026, Meridiano Blu, programa completo",
+  "enlace": "https://www.bluradio.com/meridiano-blu/nueva-prueba-en-el-caso-de-angie-rodriguez-6-de-noviembre-2026-meridiano-blu-programa-completo-pr30",
+  "fecha": "2026-11-06T16:12:13-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Barranquilla tendrá jornada de vacunación gratuita contra el dengue este fin de semana",
+  "enlace": "https://www.bluradio.com/regiones/caribe/barranquilla-tendra-jornada-de-vacunacion-gratuita-contra-el-dengue-este-fin-de-semana-rg10",
+  "fecha": "2026-11-06T15:44:39-05:00",
+  "palabras": "Noticias de hoy, Caribe, Barranquilla, Vacunación",
+  "lead": "La jornada está dirigida, sobre todo a niños de 9 y 10 años nacidos a partir del 1 de enero de 2016. Más de 60 puntos están habilitados entre la red pública e IPS vacunadoras de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En grave estado permanecen dos de los diez heridos que dejó accidente en la vía Las Palmas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-grave-estado-permanecen-dos-de-los-diez-heridos-que-dejo-accidente-en-la-via-las-palmas-rg10",
+  "fecha": "2026-11-06T15:49:32-05:00",
+  "palabras": "Antioquia, Medellín, Accidente de tránsito",
+  "lead": "Las autoridades de movilidad investigan un posible exceso de velocidad como causa del siniestro que involucró un bus y una moto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Afidro propone nueve medidas para conseguir más de $5 billones y aliviar deudas del sistema de salud",
+  "enlace": "https://www.bluradio.com/salud/afidro-propone-nueve-medidas-para-conseguir-mas-de-5-billones-y-aliviar-deudas-del-sistema-de-salud-rg10",
+  "fecha": "2026-11-06T15:58:23-05:00",
+  "palabras": "Afidro, Sistema de salud",
+  "lead": "La propuesta incluye utilizar recursos de impuestos a bebidas azucaradas y alimentos ultraprocesados, dinero de las cajas de compensación y nuevos cobros a las apuestas en línea y los videojuegos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cárcel para exsecretario de Hacienda de Sabanalarga por presunta apropiación de $2.000 millones",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/carcel-para-exsecretario-de-hacienda-de-sabanalarga-por-presunta-apropiacion-de-2-000-millones-rg10",
+  "fecha": "2026-11-06T16:01:27-05:00",
+  "palabras": "Antioquia, Procuraduría General de la Nación, Sabanalarga",
+  "lead": "Las investigaciones arrojaron que el hombre habría inflado su propia nómina en cerca de 40 millones de pesos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín fortalece su turismo con 241 taxistas convertidos en embajadores de la ciudad",
+  "enlace": "https://caracol.com.co/2026/11/06/medellin-fortalece-su-turismo-con-241-taxistas-convertidos-en-embajadores-de-la-ciudad/",
+  "fecha": "2026-11-06T16:13:16-05:00",
+  "palabras": "",
+  "lead": "Los participantes fortalecieron sus conocimientos en turismo, servicio al cliente, seguridad y herramientas digitales para ofrecer experiencias de calidad a turistas y habitantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque atribuido al Estado Islámico deja al menos 33 muertos en República Democrática del Congo",
+  "enlace": "https://caracol.com.co/2026/11/06/ataque-atribuido-al-estado-islamico-deja-al-menos-33-muertos-en-republica-democratica-del-congo/",
+  "fecha": "2026-11-06T16:08:22-05:00",
+  "palabras": "",
+  "lead": "La incursión de las Fuerzas Democráticas Aliadas provocó el incendio de más de 50 viviendas y la huida de pacientes de un centro médico, entre ellos un caso confirmado de ébola y varios sospechosos de la enfermedad",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estadio Metropolitano tendrá más de 300 cámaras inteligentes y conectividad 4G y 5G",
+  "enlace": "https://caracol.com.co/2026/11/06/estadio-metropolitano-tendra-mas-de-300-camaras-inteligentes-y-conectividad-4g-y-5g/",
+  "fecha": "2026-11-06T16:02:56-05:00",
+  "palabras": "",
+  "lead": "El estadio contará con cobertura total de videovigilancia antes, durante y después de cada partido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Afinia detectó conexiones ilegales de energía en Cartagena y otros municipios del Caribe",
+  "enlace": "https://caracol.com.co/2026/11/06/afinia-detecto-conexiones-ilegales-de-energia-en-cartagena-y-otros-municipios-del-caribe/",
+  "fecha": "2026-11-06T16:01:44-05:00",
+  "palabras": "",
+  "lead": "La empresa reportó pérdidas mensuales de 140 millones de kWh",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín proyecta negocios por US$47,4 millones en la tercera Rueda de Negocios Audiovisuales",
+  "enlace": "https://caracol.com.co/2026/11/06/medellin-proyecta-negocios-por-us474-millones-en-la-tercera-rueda-de-negocios-audiovisuales/",
+  "fecha": "2026-11-06T15:57:47-05:00",
+  "palabras": "",
+  "lead": "El encuentro reunió 46 proyectos audiovisuales locales y 20 compradores e inversionistas nacionales e internacionales, con un total de 349 citas comerciales y una efectividad del 84 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DIMAR prevé lluvias y posibles tormentas eléctricas en Cartagena durante el fin de semana",
+  "enlace": "https://caracol.com.co/2026/11/06/dimar-preve-lluvias-y-posibles-tormentas-electricas-en-cartagena-durante-el-fin-de-semana/",
+  "fecha": "2026-11-06T15:57:32-05:00",
+  "palabras": "",
+  "lead": "El pronóstico contempla precipitaciones de distinta intensidad",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallazgos fiscales por $ 61.273 millones en el proyecto Aeropuerto del Café en Palestina, Caldas",
+  "enlace": "https://caracol.com.co/2026/11/06/hallazgos-fiscales-por-61273-millones-en-el-proyecto-aeropuerto-del-cafe-en-palestina-caldas/",
+  "fecha": "2026-11-06T15:55:34-05:00",
+  "palabras": "",
+  "lead": "Vía de acceso, un nuevo puente y un contrato de seguridad de la Unidad de Gestión del Patrimonio Autónomo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alarma económica en Medellín: inversión pública se reduciría 4,5 % en 2027",
+  "enlace": "https://caracol.com.co/2026/11/06/alarma-economica-en-medellin-inversion-publica-se-reduciria-45-en-2027/",
+  "fecha": "2026-11-06T15:55:29-05:00",
+  "palabras": "",
+  "lead": "Pese al incremento del 8,33 % en el recaudo tributario local, el disparo del 51,8 % en el servicio de la deuda y la menor transferencia de excedentes de EPM recortarían el margen de inversión pública.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden intervención urgente del puente de La Cordialidad por deterioro y congestión",
+  "enlace": "https://caracol.com.co/2026/11/06/piden-intervencion-urgente-del-puente-de-la-cordialidad-por-deterioro-y-congestion/",
+  "fecha": "2026-11-06T15:51:10-05:00",
+  "palabras": "",
+  "lead": "CEO Atlántico solicitó al Ministerio de Transporte acciones inmediatas para recuperar la infraestructura, mejorar la movilidad y solucionar los problemas generados por los paraderos ilegales de buses",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antojarte 2.0 reúne a 120 empresarios de Boyacá en una feria para todos los gustos",
+  "enlace": "https://caracol.com.co/2026/11/06/antojarte-20-reune-a-120-empresarios-de-boyaca-en-una-feria-para-todos-los-gustos/",
+  "fecha": "2026-11-06T15:11:00-05:00",
+  "palabras": "",
+  "lead": "Gastronomía, artesanías, moda, belleza, turismo y una variada agenda cultural hacen parte de esta feria multisectorial que se desarrolla durante el fin de semana en el Centro de Convenciones de la Cámara de Comercio de Tunja. La entrada es gratuita.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aseguraron a hombre señalado de asesinar a un joven tras una riña en La Esperanza",
+  "enlace": "https://caracol.com.co/2026/11/06/aseguraron-a-hombre-senalado-de-asesinar-a-un-joven-tras-una-rina-en-la-esperanza/",
+  "fecha": "2026-11-06T15:37:09-05:00",
+  "palabras": "",
+  "lead": "El joven fue atacado a tiros tras un altercado por una botella que golpeó una motocicleta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Puede la cultura unir lo que la política separa? El debate en El Festival Valle Inspira",
+  "enlace": "https://caracol.com.co/2026/11/06/puede-la-cultura-unir-lo-que-la-politica-separa-el-debate-en-el-festival-valle-inspira/",
+  "fecha": "2026-11-06T15:36:38-05:00",
+  "palabras": "",
+  "lead": "Referentes de la gestión pública y las economías creativas coinciden en que el arte dejó de ser un adorno para convertirse en el único espacio capaz de cohesionar a la sociedad y mover la economía regional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maná transmitirá gratis por YouTube un concierto grabado en Red Rocks: ¿Cuándo verlo?",
+  "enlace": "https://caracol.com.co/2026/11/06/mana-transmitira-gratis-por-youtube-un-concierto-grabado-en-red-rocks-cuando-verlo/",
+  "fecha": "2026-11-06T15:33:24-05:00",
+  "palabras": "",
+  "lead": "La banda mexicana estrenará el espectáculo este 6 de noviembre, como parte de la celebración de sus 40 años de trayectoria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a dos hombres con 900 dosis de marihuana listas para comercializarlas en Bello, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/06/captura-a-dos-hombres-con-900-dosis-de-marihuana-listas-para-la-comercializacion-en-bello-antioquia/",
+  "fecha": "2026-11-06T15:31:12-05:00",
+  "palabras": "",
+  "lead": "Los sospechosos, de 29 y 36 años, se movilizaban en una motocicleta por el barrio El Carmelo cuando fueron interceptados por las patrullas de vigilancia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 1.100 niños se han formado como defensores del agua y líderes ambientales",
+  "enlace": "https://caracol.com.co/2026/11/06/mas-de-1100-ninos-se-han-formado-como-defensores-del-agua-y-lideres-ambientales/",
+  "fecha": "2026-11-06T15:29:47-05:00",
+  "palabras": "",
+  "lead": "La iniciativa de Aguas de Cartagena ha vinculado a 20 instituciones educativas y 19 comunidades",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las lecciones de liderazgo público de Alejandro Eder y Dilian Francisca Toro tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/11/06/las-lecciones-de-liderazgo-publico-de-alejandro-eder-y-dilian-francisca-toro-tras-el-terremoto/",
+  "fecha": "2026-11-06T15:28:13-05:00",
+  "palabras": "",
+  "lead": "Durante el Festival Valle Inspira, el alcalde y la gobernadora de Cali revelaron las duras lecciones de liderar bajo presión tras el terremoto del 10 de agosto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rector de U.Mayor defendió su gestión e invitó al alcalde a dialogar",
+  "enlace": "https://caracol.com.co/2026/11/06/rector-de-umayor-defendio-su-gestion-e-invito-al-alcalde-a-dialogar/",
+  "fecha": "2026-11-06T15:23:38-05:00",
+  "palabras": "",
+  "lead": "Juan Alberto Arraut presentó cifras de crecimiento académico y explicó cómo se han invertido los recursos de la institución",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Altas cortes conmemoran 41 años del Palacio de Justicia con homenaje a las víctimas",
+  "enlace": "https://caracol.com.co/2026/11/06/altas-cortes-conmemoran-41-anos-del-palacio-de-justicia-con-homenaje-a-las-victimas/",
+  "fecha": "2026-11-06T15:22:54-05:00",
+  "palabras": "",
+  "lead": "La jornada reunió a representantes de la Rama Judicial y familiares de las víctimas. Durante el acto hubo una ofrenda floral, intervenciones de familiares y un llamado a mantener viva la memoria y garantizar el derecho a la verdad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Senado de Paraguay rechaza aplazar el juicio político contra Santiago Peña",
+  "enlace": "https://caracol.com.co/2026/11/06/senado-de-paraguay-rechaza-aplazar-el-juicio-politico-contra-santiago-pena/",
+  "fecha": "2026-11-06T15:22:14-05:00",
+  "palabras": "",
+  "lead": "El mandatario pidió tres días para preparar su defensa, pero la solicitud no obtuvo los votos necesarios. Enfrenta cuestionamientos por el escándalo del Banco Ueno, que afectó a cerca de tres millones de depositantes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinTrabajo anuncia subsidio para afectados por el terremoto",
+  "enlace": "https://www.lafm.com.co/politica/minitesterio-de-trabajo-anuncia-subsidios-para-afectados-por-el-sismo-416389",
+  "fecha": "2026-11-06T15:13:00-05:00",
+  "palabras": "Política,Ministerio del Trabajo,Subsidios,terremoto",
+  "lead": "Las ayudas van de hasta $875.453 para cesantes y $700.362 mensuales por trabajador.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colfuturo ofrece becas del 100% en España para maestrías y doctorados",
+  "enlace": "https://www.lafm.com.co/sociedad/becas-colfuturo-en-espana-aplican-maestrias-y-doctorados-416388",
+  "fecha": "2026-11-06T14:54:00-05:00",
+  "palabras": "Sociedad,becas,Colfuturo,Colombia,España,tips para estudiar en el exterior,Estudios de posgrado,Estudiar maestrías,Estudio en el exterior",
+  "lead": "2027 iniciará con una oportunidad de estudio para colombianos interesados en robustecer su perfil académico.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Café de Colombia será obligatorio en entidades públicas",
+  "enlace": "https://www.lafm.com.co/economia/gobierno-consumo-exclusivo-cafe-colombiano-entidades-publicas-416386",
+  "fecha": "2026-11-06T14:50:00-05:00",
+  "palabras": "Economía,café colombiano,Ministerio de agricultura,Analdex,Federación Nacional de Cafeteros,Caficultores,Gobierno",
+  "lead": "El Ministerio de Agricultura anunció una directriz orientada a dinamizar el consumo interno del grano.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Imputan $2.860 millones por presunta corrupción en proyecto",
+  "enlace": "https://www.lafm.com.co/sociedad/proyecto-de-vivienda-imputado-por-presuntas-irregularidades-416384",
+  "fecha": "2026-11-06T14:31:00-05:00",
+  "palabras": "Sociedad,Contraloría,apartamento,Irregularidades en contratos",
+  "lead": "Las presuntas irregularidades involucran pagos por obras de urbanismo, torres de apartamentos, salón comunal y parque lineal que no se ejecutaron en el pro...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
