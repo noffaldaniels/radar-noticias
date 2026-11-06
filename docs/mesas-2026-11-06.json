@@ -363,6 +363,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Por segundo día consecutivo se mantiene el toque de queda en Ataco, Tolima, mientras avanzan las operaciones para desmantelar estructuras de minería ilegal, donde más de 1000 integrantes de la fuerza pública participan en el dispositivo de seguridad.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:37",
+   "quien": "Felipe Zuleta (Periodista de Mañanas Blu)",
+   "que": "El presidente Petro y sus allegados expusieron sus relaciones privadas a la opinión pública al ser el propio presidente Petro quien abrió esa puerta con sus imágenes en Panamá y sus declaraciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:37",
+   "quien": "Felipe Zuleta (Periodista de Mañanas Blu)",
+   "que": "La vida privada del presidente de la República dejó de ser un asunto privado hace mucho tiempo porque afectaba el funcionamiento del Estado, citando como ejemplo el manejo en el caso de la captura de su hijo Nicolás Petro.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:40",
+   "quien": "Felipe Zuleta (Periodista de Mañanas Blu)",
+   "que": "El libro de Felipe Zuleta sobre la vida privada de Petro y los secretos del manejo del Estado se empieza a vender hoy en librerías del país como la Nacional, Panamericana y otras.",
+   "resaltar": false
   }
  ],
  "avisos": [
