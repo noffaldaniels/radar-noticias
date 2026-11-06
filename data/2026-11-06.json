@@ -920,7 +920,7 @@
   "palabras": "Antioquia, Procuraduría General de la Nación",
   "lead": "Habrían incumplido con requisitos de ley al hacer el contrato de manera directa para temas logísticos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "Felipe Zuleta, Gustavo Petro",
   "lead": "Con testimonios de mujeres cercanas al exmandatario y de miembros de su esquema de seguridad, el periodista relata episodios de la vida privada de Petro en la Casa de Nariño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "Gustavo Petro, Laura Sarabia, Verónica Alcocer",
   "lead": "El periodista asegura que la exjefa de gabinete tenía acceso exclusivo a la nube del teléfono presidencial. Su libro, editado por Planeta, llega este viernes a librerías.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "Bucaramanga, Santander, Minería Ilegal, Santurbán, Blu Radio",
   "lead": "La Corporación de Defensa de la Meseta de Bucaramanga, CDMB, mantiene operativos de seguimiento y control en la zona de Santurbán.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "El renovado estadio Metropolitano será estrenado en la final de la Copa Sudamericana. El alcalde Alejandro Char presentó el escenario a los ídolos del Junior, el ‘Pibe’ Valderrama y Víctor Danilo Pacheco, y recorrió las obras junto a su padre, Fuad Char.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Desde Santa Marta, el presidente De La Espriella destacó que está es la mayor incautación en décadas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "Santander, Empleo, Desempleo, Fenalco, Blu Radio, Noticias de hoy",
   "lead": "El gremio reconoce que Bucaramanga sigue por debajo del promedio de desocupación de las ciudades del país, pero advierte sobre las dificultades para generar nuevas oportunidades laborales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "El defensa y referente del Cúcuta Deportivo destacó que tras quitarse el peso del descenso ahora pueden competir sin una presión extra.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "La víctima también se desempeñaba como piloto de helicóptero",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "Los albergues también enfrentan problemas de sobrecupo ante el aumento de animales en condición de calle y la falta de espacios para su atención.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "El mandatario denunció que recibió un expediente de unas 300 páginas y menos de 12 horas para preparar su defensa. Mientras el Congreso mantiene en suspenso la decisión sobre su renuncia, miles de paraguayos continúan protestando por el congelamiento de sus ahorros y exigen responsabilidades por la crisis de Ueno Bank.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "El municipio dará la bienvenida a la Navidad este 7 de noviembre, en medio de la celebración de sus 209 años y la programación de las Ferias y Fiestas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "La Gobernación adelanta la contratación para intervenir las cubiertas afectadas y retirar los escombros de la institución.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "Lo acusan de haber recibido soborno multimillonario de un exdeportista olímpico a quien llaman “El Chapo canadiense”",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "206 homicidios se han registrado en esa región",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "Solicita al Ministerio de Educación para que intervenga la institución",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "Los dos equipos vallecaucanos se enfrentan en el Estadio Pascual Guerrero por la búsqueda del punto invisible.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Más de 400 actividades están programadas hasta el 9 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "La Unión Internacional de Ciencias Geológicas incluyó el Cañón del Chicamocha en su lista de sitios de patrimonio geológico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "Este sábado 7 de noviembre habrá un partido de fútbol con las leyendas de la Selección Colombia que se suman a una iniciativa solidaria",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "Luis Benítez, alias el juez, fue detenido en el aeropuerto internacional El Dorado en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "En la víspera, al menos una veintena de trayectos, la mayoría operados por aerolíneas de bajo costo, recibieron amenazas de explosiones a bordo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "La noticia fue revelada por el director del Departamento Nacional de Planeación (DNP), Julián Buitrago, durante la audiencia de verificación del estado de la masiva vulneración de derechos humanos en las prisiones nacionales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "Internacional,Paraguay,renuncia,Senado de la República,Destitución de cargo,Diputados,Acusaciones,Oposición,Audiencia judicial",
   "lead": "La sesión conjunta de diputados y senadores no consiguió el cuórum necesario para resolver la dimisión.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "Política,JEP,conflicto armado,victimas del conflicto armado,Ministerio de Justicia,Paramilitares,Falsos positivos",
   "lead": "La Jurisdicción Especial para la Paz reducirá en un 85 % sus contratos de prestación de servicios, cambiará de sede y ajustará los esquemas de seguridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Política,Abelardo de la Espriella,Colombia,armas,Armada Nacional,Caribe",
   "lead": "Cinco personas quedaron capturadas tras el hallazgo, en aguas del norte del país, de un arsenal de fusiles, pistolas, lanzagranadas y ametralladoras destin...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Internacional,Conflicto de intereses,renuncia,Investigaciones,Ley de insolvencia,Acusaciones,Oposición,Corrupción,Irregularidades en manejo de recursos,Paraguay,finanzas",
   "lead": "En septiembre de 2026, Ueno aseguró tener más de tres millones de clientes en Paraguay, lo que significa más o menos a la mitad de la población paraguaya.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Política,Irregularidades en manejo de recursos,Centro Democrático,Gustavo Petro,Polémicos contratos,Lucha anticorrupción,medidas fiscales,Recaudo fiscal,Propuestas,Funcionarios denunciados",
   "lead": "El representante a la Cámara Alejandro Murcia, habló de cientos de miles de contratos y señaló que algunos corresponderían a personas que no aparecen ident...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1227,6 +1227,127 @@
   "fecha": "2026-11-06T06:39:00-05:00",
   "palabras": "Orden Público,detención,Fiscalía General de la Nación,Bogotá,Alteración al orden público",
   "lead": "Ya se retomó el control del centro de detención temporal.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Reconocida actriz murió a los 50 años tras una emergencia cardíaca: esto se sabe",
+  "enlace": "https://www.bluradio.com/entretenimiento/reconocida-actriz-murio-a-los-50-anos-tras-una-emergencia-cardiaca-esto-se-sabe-rs15",
+  "fecha": "2026-11-06T08:30:04-05:00",
+  "palabras": "Viral, Redes sociales",
+  "lead": "Su sobrina confirmó la noticia y reveló detalles de la emergencia médica que la llevó a permanecer varios días hospitalizada. También se destacó por su faceta como empresaria y modelo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "ESSA emitió bonos por $200.000 millones para financiar inversiones en Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/essa-emitio-bonos-por-200-000-millones-para-financiar-inversiones-en-santander-rg10",
+  "fecha": "2026-11-06T08:37:07-05:00",
+  "palabras": "Santander, Electrificadora de Santander, Economía, Blu Radio, Noticias de hoy",
+  "lead": "La Electrificadora de Santander recibió ofertas de inversionistas por $371.600 millones, casi el doble del monto que puso en el mercado. Los recursos se destinarán a proyectos de inversión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Óscar Pérez alerta por cambios tributarios a bebidas alcohólicas: “triplican precio de la cerveza”",
+  "enlace": "https://caracol.com.co/2026/11/06/oscar-perez-alerta-por-cambios-tributarios-a-bebidas-alcoholicas-triplican-precio-de-la-cerveza/",
+  "fecha": "2026-11-06T08:47:31-05:00",
+  "palabras": "",
+  "lead": "Óscar Darío Pérez, representante a la Cámara por el Centro Democrático, alertó por el alza de impuestos y contrabando: “países vecinos como Venezuela y Ecuador, que seguramente nos van a inundar”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nacional vs Pereira por la fecha 18 de la Liga Colombiana: Cuándo y cómo seguir el partido",
+  "enlace": "https://caracol.com.co/2026/11/06/nacional-vs-pereira-por-la-fecha-18-de-la-liga-colombiana-cuando-y-como-seguir-el-partido/",
+  "fecha": "2026-11-06T08:44:26-05:00",
+  "palabras": "",
+  "lead": "El conjunto Verdolaga podría asegurar el punto invisible en condición de local.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "RTVC recibe multa de $76 millones por emitir película con escenas sexuales en horario familiar",
+  "enlace": "https://caracol.com.co/2026/11/06/rtvc-recibe-multa-de-76-millones-por-emitir-pelicula-con-escenas-sexuales-en-horario-familiar/",
+  "fecha": "2026-11-06T06:27:00-05:00",
+  "palabras": "",
+  "lead": "Según la CRC el aviso previo aseguraba que la película no incluía escenas de sexo, lo que también motivó una sanción.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por mega operativo contra la minería ilegal extienden toque de queda en Ataco",
+  "enlace": "https://caracol.com.co/2026/11/06/por-mega-operativo-contra-la-mineria-ilegal-extienden-toque-de-queda-en-ataco/",
+  "fecha": "2026-11-06T08:39:22-05:00",
+  "palabras": "",
+  "lead": "Más de mil uniformados de la Fuerza Pública integran el operativo que inició en las últimas horas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La inteligencia artificial se tomará al 81% de las empresas en la ciudad de Medellín",
+  "enlace": "https://caracol.com.co/2026/11/06/la-inteligencia-artificial-se-tomara-al-81-de-las-empresas-en-la-ciudad-de-medellin/",
+  "fecha": "2026-11-06T08:33:41-05:00",
+  "palabras": "",
+  "lead": "Medellín avanza en innovación tecnológica y formación de talento para fortalecer su ecosistema empresarial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres personas resultaron heridas en balacera en Marinilla, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/06/tres-personas-resultaron-heridas-en-balacera-en-marinilla-antioquia/",
+  "fecha": "2026-11-06T08:33:52-05:00",
+  "palabras": "",
+  "lead": "Las autoridades investigan posible disputa entre bandas criminales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno vigilará a generadoras de energía durante El Niño",
+  "enlace": "https://www.lafm.com.co/economia/gobierno-vigilancia-generadoras-energia-fenomeno-el-nino-superservicios-416333",
+  "fecha": "2026-11-06T08:39:00-05:00",
+  "palabras": "Economía,Sequía,Lluvias,Energía,Ministerio de Minas y Energía",
+  "lead": "Tres superintendencias vigilarán a generadoras de energía para verificar sus obligaciones durante El Niño 2026-2027.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Rescate Fiscal: partidos políticos comenzaron análisis del proyecto y pedirán cambios en reunión con el Gobierno",
+  "enlace": "https://www.lafm.com.co/politica/ley-de-rescate-fiscal-partidos-politicos-analisis-proyecto-plantearan-cambios-reunion-gobierno-barranquilla-416329",
+  "fecha": "2026-11-06T08:21:00-05:00",
+  "palabras": "Política,Reforma tributaria,medidas fiscales,Impuestos,Medidas económicas,Proyecto de ley,Marco fiscal,Ministerio de Hacienda y Crédito Público,Centro Democrático,partido Liberal,Partido Conservador",
+  "lead": "Bancadas como el liberalismo y el conservatismo, tienen puntos de honor y no apoyarían los impuestos a la clase media y popular. El tema será analizado en ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Golpe a venta de celulares robados en La Pajajera, en Suba",
+  "enlace": "https://www.lafm.com.co/orden-publico/operativos-celulares-robados-la-pajarera-suba-bogota-incautan-42-equipos-cierran-12-locales-416328",
+  "fecha": "2026-11-06T08:15:00-05:00",
+  "palabras": "Orden Público,Celulares,Robo,Policía Nacional,Alcaldía de Bogotá,Suba",
+  "lead": "Las autoridades inspeccionaron 1.500 teléfonos celulares durante una intervención en el noroccidente de Bogotá.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
