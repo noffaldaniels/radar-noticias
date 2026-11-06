@@ -195,6 +195,27 @@
    "quien": "Profesor Fernando Quijano",
    "que": "El dólar estará en 3.228 pesos, el euro en 3.624, la Bolsa de Valores de Colombia (Colcap) en 2.484 con tendencia a la baja, y la acción de Ecopetrol cae en 2.550 pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:55",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El exministro de Hacienda de Paraguay, Dionisio Borda, habló sobre la situación económica de su país y los bancos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:57",
+   "quien": "Manuel Brisneida (Periodista)",
+   "que": "En Ataco, Tolima, se mantiene el toque de queda de 24 horas y un despliegue de más de 1.000 uniformados en el marco de operaciones contra la minería ilegal y grupos terroristas.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:57",
+   "quien": "Adriana Magali Matiz (Gobernadora del Tolima)",
+   "que": "Se adelantan operaciones contra la minería ilegal y hay toque de queda en Ataco tras operaciones de fuerzas públicas con más de 1.000 uniformados.",
+   "resaltar": true
   }
  ],
  "avisos": [
