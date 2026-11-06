@@ -342,6 +342,27 @@
    "quien": "Alejandra (Periodista de 6AM con Julio Sánchez Cristo)",
    "que": "La Contraloría imputó responsabilidad fiscal por más de 2.000 millones de pesos por presuntas irregularidades en el proyecto de vivienda Arboleda Santa Teresita, a cargo de la Caja de Vivienda Popular en la localidad de San Cristóbal.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La JEP es una entidad absolutamente desprestigiada y salvarle la cara será muy difícil a no ser que empiece a hablar con los fallos que está esperando el país.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:44",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "A 10 aumenta el número de personas heridas tras el accidente de un bus intermunicipal en la avenida Las Palmas en la ciudad de Medellín; a esta hora la vía permanece cerrada en ambos sentidos en el sector de la colegiatura.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:44",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Por segundo día consecutivo se mantiene el toque de queda en Ataco, Tolima, mientras avanzan las operaciones para desmantelar estructuras de minería ilegal, donde más de 1000 integrantes de la fuerza pública participan en el dispositivo de seguridad.",
+   "resaltar": true
   }
  ],
  "avisos": [
