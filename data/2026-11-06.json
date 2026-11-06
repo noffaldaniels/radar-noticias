@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "Además, se establecerán varios anillos de seguridad y controles para regular el ingreso de los asistentes y garantizar una salida organizada una vez finalice el encuentro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Fiscalía General de la Nación, Gustavo Petro",
   "lead": "Dentro del conjunto de evidencias se destaca la revelación de un cruce de mensajes de diciembre de 2025 entre Petro y Angie Rodríguez, exdirectora del Departamento Administrativo de la Presidencia de la República (DAPRE) y anterior secretaria general de la Presidencia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "Kattya González, exsenadora de Paraguay, habló en 6AM W de la renuncia de Santiago Peña a la Presidencia tras el escándalo de Ueno Bank y qué pasará con los ahorristas en el país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "El magistrado Danilo Rojas explicó varias de las medidas que tomó la JEP ante la reducción presupuestal por parte del Gobierno Nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "El presidente de Iberia, Marco Sansavini, ha afirmado este viernes en una conferencia con medios de comunicación que desde el siniestro Iberia ha añadido un 76 % de capacidad hacia Sevilla y Málaga.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "Sólo ha sido capturada una persona y la reparación de las instalaciones militares no ha terminado",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "La revisión de 1.500 teléfonos permitió encontrar equipos reportados como robados y otros con sus sistemas de identificación alterados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "Las obras de reconstrucción del Batallón no han terminado y la tranquilidad de los vecinos no ha regresado",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "La emisión recibió ofertas por el doble del monto ofrecido y permitirá fortalecer la liquidez de la empresa y anticipar necesidades financieras de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "Se cumplió el proceso para la inscripción de candidatos",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "El juez de la Audiencia Nacional José Luis Calama señala que no fue hasta 2013 cuando la ley de Transparencia estableció expresamente que los altos cargos no pueden aceptar regalos que excedan los usos sociales o de cortesía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Política,María José Pizarro,Gustavo Petro,Corrupción,Corte Suprema de Justicia,Fiscalía General de la Nación,Dapre",
   "lead": "Pizarro será escuchada por la Corte Suprema de Justicia, como ella misma lo solicitó.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "Internacional,Wall Street,Inteligencia artificial,Mercados bursátiles,Pérdidas millonarias,inversionistas,Mercados internacionales",
   "lead": "El índice Nasdaq cayó un 6,4 % durante la sesión del jueves y Nvidia perdió más del 9 %.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,6 +909,325 @@
   "palabras": "Política,Agencia Nacional de Defensa Jurídica del Estado,Renuncia de funcinarios,Ministerio de Justicia,Consejo de Estado,Darcy Quinn,Abelardo de la Espriella",
   "lead": "El abogado presentó su carta de renuncia el 5 de noviembre. Su salida de la entidad coincide con su inscripción en el proceso para llegar a la Sección Terc...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Formulan cargos contra el alcalde de Yondó por presuntas irregularidades en millonario contrato",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/formulan-cargos-contra-el-alcalde-de-yondo-por-presuntas-irregularidades-en-millonario-contrato-rg10",
+  "fecha": "2026-11-06T08:11:21-05:00",
+  "palabras": "Antioquia, Procuraduría General de la Nación",
+  "lead": "Habrían incumplido con requisitos de ley al hacer el contrato de manera directa para temas logísticos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Felipe Zuleta lanza el libro ‘Las mujeres de Petro’: fiestas, drogas y secretos del expresidente",
+  "enlace": "https://www.bluradio.com/nacion/felipe-zuleta-lanza-el-libro-las-mujeres-de-petro-fiestas-drogas-y-secretos-del-expresidente-so35",
+  "fecha": "2026-11-06T07:31:29-05:00",
+  "palabras": "Felipe Zuleta, Gustavo Petro",
+  "lead": "Con testimonios de mujeres cercanas al exmandatario y de miembros de su esquema de seguridad, el periodista relata episodios de la vida privada de Petro en la Casa de Nariño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Las mujeres de Petro: los secretos que revela el nuevo libro de Felipe Zuleta",
+  "enlace": "https://www.bluradio.com/nacion/laura-sarabia-clono-el-celular-de-petro-los-secretos-que-revela-nuevo-libro-de-felipe-zuleta-so35",
+  "fecha": "2026-11-06T08:05:20-05:00",
+  "palabras": "Gustavo Petro, Laura Sarabia, Verónica Alcocer",
+  "lead": "El periodista asegura que la exjefa de gabinete tenía acceso exclusivo a la nube del teléfono presidencial. Su libro, editado por Planeta, llega este viernes a librerías.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Corporación ambiental pide al ANLA cierre de minas de oro por minería ilegal en Santurbán",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/corporacion-ambiental-pide-al-anla-cierre-de-minas-de-oro-por-mineria-ilegal-en-santurban-rg10",
+  "fecha": "2026-11-06T07:48:11-05:00",
+  "palabras": "Bucaramanga, Santander, Minería Ilegal, Santurbán, Blu Radio",
+  "lead": "La Corporación de Defensa de la Meseta de Bucaramanga, CDMB, mantiene operativos de seguimiento y control en la zona de Santurbán.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El ‘Supermetro’ está a punto de abrir sus puertas: remodelación alcanza el 95% de avance",
+  "enlace": "https://www.bluradio.com/regiones/caribe/el-supermetro-esta-a-punto-de-abrir-sus-puertas-remodelacion-alcanza-el-95-de-avance-rg10",
+  "fecha": "2026-11-06T08:08:01-05:00",
+  "palabras": "",
+  "lead": "El renovado estadio Metropolitano será estrenado en la final de la Copa Sudamericana. El alcalde Alejandro Char presentó el escenario a los ídolos del Junior, el ‘Pibe’ Valderrama y Víctor Danilo Pacheco, y recorrió las obras junto a su padre, Fuad Char.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Incautan más de 100 armas en el mar Caribe: iban en lancha rápida para las Autodefensas de la Sierra",
+  "enlace": "https://www.bluradio.com/regiones/caribe/incautan-mas-de-100-armas-en-el-mar-caribe-iban-en-lancha-rapida-para-las-autodefensas-de-la-sierra-rg10",
+  "fecha": "2026-11-06T08:01:34-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "Desde Santa Marta, el presidente De La Espriella destacó que está es la mayor incautación en décadas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fenalco Santander atribuye aumento del desempleo a incremento del salario mínimo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/fenalco-santander-atribuye-aumento-del-desempleo-a-incremento-del-salario-minimo-rg10",
+  "fecha": "2026-11-06T08:04:28-05:00",
+  "palabras": "Santander, Empleo, Desempleo, Fenalco, Blu Radio, Noticias de hoy",
+  "lead": "El gremio reconoce que Bucaramanga sigue por debajo del promedio de desocupación de las ciudades del país, pero advierte sobre las dificultades para generar nuevas oportunidades laborales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mauricio Duarte: “La clasificación a los ocho está a la vuelta de la esquina”",
+  "enlace": "https://caracol.com.co/2026/11/06/mauricio-duarte-la-clasificacion-a-los-ocho-esta-a-la-vuelta-de-la-esquina/",
+  "fecha": "2026-11-06T08:21:23-05:00",
+  "palabras": "",
+  "lead": "El defensa y referente del Cúcuta Deportivo destacó que tras quitarse el peso del descenso ahora pueden competir sin una presión extra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comerciante fue asesinado en Los Caobos",
+  "enlace": "https://caracol.com.co/2026/11/06/comerciante-fue-asesinado-en-los-caobos/",
+  "fecha": "2026-11-06T08:01:37-05:00",
+  "palabras": "",
+  "lead": "La víctima también se desempeñaba como piloto de helicóptero",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Preocupación en Pereira por más de 30 mil animales que permanecen en las calles luego del terremoto",
+  "enlace": "https://caracol.com.co/2026/11/06/preocupacion-en-pereira-por-mas-de-30-mil-animales-que-permanecen-en-las-calles-luego-del-terremoto/",
+  "fecha": "2026-11-06T08:14:54-05:00",
+  "palabras": "",
+  "lead": "Los albergues también enfrentan problemas de sobrecupo ante el aumento de animales en condición de calle y la falta de espacios para su atención.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente paraguayo Peña pide “prórroga de 72 horas” en juicio político para preparar defensa",
+  "enlace": "https://caracol.com.co/2026/11/06/presidente-paraguayo-pena-pide-prorroga-de-72-horas-en-juicio-politico-para-preparar-defensa/",
+  "fecha": "2026-11-06T08:07:29-05:00",
+  "palabras": "",
+  "lead": "El mandatario denunció que recibió un expediente de unas 300 páginas y menos de 12 horas para preparar su defensa. Mientras el Congreso mantiene en suspenso la decisión sobre su renuncia, miles de paraguayos continúan protestando por el congelamiento de sus ahorros y exigen responsabilidades por la crisis de Ueno Bank.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Floridablanca, Santander, dará inicio a sus Ferias y Fiestas con el encendido del alumbrado navideño",
+  "enlace": "https://caracol.com.co/2026/11/06/floridablanca-santander-dara-inicio-a-sus-ferias-y-fiestas-con-el-encendido-del-alumbrado-navideno/",
+  "fecha": "2026-11-06T08:02:27-05:00",
+  "palabras": "",
+  "lead": "El municipio dará la bienvenida a la Navidad este 7 de noviembre, en medio de la celebración de sus 209 años y la programación de las Ferias y Fiestas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Institución Educativa Sagrado Corazón de Chiquinquirá continúa con restricciones de acceso",
+  "enlace": "https://caracol.com.co/2026/11/06/institucion-educativa-sagrado-corazon-de-chiquinquira-continua-con-restricciones-de-acceso/",
+  "fecha": "2026-11-06T08:01:43-05:00",
+  "palabras": "",
+  "lead": "La Gobernación adelanta la contratación para intervenir las cubiertas afectadas y retirar los escombros de la institución.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez mexicano capturado en Colombia sería pieza clave del cartel de Sinaloa",
+  "enlace": "https://caracol.com.co/2026/11/06/juez-mexicano-capturado-en-colombia-seria-pieza-clave-del-cartel-de-sinaloa/",
+  "fecha": "2026-11-06T07:44:52-05:00",
+  "palabras": "",
+  "lead": "Lo acusan de haber recibido soborno multimillonario de un exdeportista olímpico a quien llaman “El Chapo canadiense”",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Violencia en el Catatumbo deja más de 65 mil desplazados",
+  "enlace": "https://caracol.com.co/2026/11/06/norte-de-santander-tiene-en-el-catatumbo-mas-de-65-mil-desplazados/",
+  "fecha": "2026-11-06T07:47:19-05:00",
+  "palabras": "",
+  "lead": "206 homicidios se han registrado en esa región",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“El problema de UMayor es el rector”: alcalde de Cartagena Dumek Turbay",
+  "enlace": "https://caracol.com.co/2026/11/06/el-problema-de-umayor-es-el-rector-alcalde-de-cartagena-dumek-turbay/",
+  "fecha": "2026-11-06T07:47:47-05:00",
+  "palabras": "",
+  "lead": "Solicita al Ministerio de Educación para que intervenga la institución",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "América vs Deportivo Cali, por fecha 18 de la Liga Colombiana: Día y hora del clásico vallecaucano",
+  "enlace": "https://caracol.com.co/2026/11/06/america-vs-deportivo-cali-por-fecha-18-de-la-liga-colombiana-dia-y-hora-del-clasico-vallecaucano/",
+  "fecha": "2026-11-06T07:46:21-05:00",
+  "palabras": "",
+  "lead": "Los dos equipos vallecaucanos se enfrentan en el Estadio Pascual Guerrero por la búsqueda del punto invisible.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pereira abrió las puertas a la literatura con la décimo segunda versión de la Feria del Libro",
+  "enlace": "https://caracol.com.co/2026/11/06/pereira-abrio-las-puertas-a-la-literatura-con-la-decimo-segunda-version-de-la-feria-del-libro/",
+  "fecha": "2026-11-06T07:45:55-05:00",
+  "palabras": "",
+  "lead": "Más de 400 actividades están programadas hasta el 9 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santander: Cañón del Chicamocha entra en la lista de sitios de patrimonio geológico mundial",
+  "enlace": "https://caracol.com.co/2026/11/06/santander-canon-del-chicamocha-recibe-reconocimiento-geologico-mundial/",
+  "fecha": "2026-11-06T07:44:16-05:00",
+  "palabras": "",
+  "lead": "La Unión Internacional de Ciencias Geológicas incluyó el Cañón del Chicamocha en su lista de sitios de patrimonio geológico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Leyendas del fútbol se unen en pro de la reconstrucción tras el terremoto en el Quindío",
+  "enlace": "https://caracol.com.co/2026/11/06/leyendas-del-futbol-se-unen-en-pro-de-la-reconstruccion-tras-el-terremoto-en-el-quindio/",
+  "fecha": "2026-11-06T07:41:15-05:00",
+  "palabras": "",
+  "lead": "Este sábado 7 de noviembre habrá un partido de fútbol con las leyendas de la Selección Colombia que se suman a una iniciativa solidaria",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juez mexicano acusado de supuestos vínculos con el cartel de Sinaloa es detenido en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/06/juez-mexicano-acusado-de-supuestos-vinculos-con-el-cartel-de-sinaloa-es-detenido-en-bogota/",
+  "fecha": "2026-11-06T07:34:44-05:00",
+  "palabras": "",
+  "lead": "Luis Benítez, alias el juez, fue detenido en el aeropuerto internacional El Dorado en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Continúan las alertas de bombas en diferentes países de Europa",
+  "enlace": "https://caracol.com.co/2026/11/06/continuan-las-alertas-de-bombas-en-diferentes-paises-de-europa/",
+  "fecha": "2026-11-06T07:32:47-05:00",
+  "palabras": "",
+  "lead": "En la víspera, al menos una veintena de trayectos, la mayoría operados por aerolíneas de bajo costo, recibieron amenazas de explosiones a bordo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Megacárcel de Sabanas de San Ángel en el Magdalena, sería entregada en agosto de 2027",
+  "enlace": "https://caracol.com.co/2026/11/06/megacarcel-de-sabanas-de-san-angel-en-el-magdalena-seria-entregada-en-agosto-de-2027/",
+  "fecha": "2026-11-06T07:30:44-05:00",
+  "palabras": "",
+  "lead": "La noticia fue revelada por el director del Departamento Nacional de Planeación (DNP), Julián Buitrago, durante la audiencia de verificación del estado de la masiva vulneración de derechos humanos en las prisiones nacionales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Santiago Peña Paraguay: por qué el Congreso rechazó su renuncia",
+  "enlace": "https://www.lafm.com.co/internacional/santiago-pena-crisis-politica-paraguay-por-que-congreso-rechazo-renuncia-416309",
+  "fecha": "2026-11-06T08:21:00-05:00",
+  "palabras": "Internacional,Paraguay,renuncia,Senado de la República,Destitución de cargo,Diputados,Acusaciones,Oposición,Audiencia judicial",
+  "lead": "La sesión conjunta de diputados y senadores no consiguió el cuórum necesario para resolver la dimisión.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "“Hacer más con menos”: presidente de la JEP anuncia drásticos recortes presupuestales",
+  "enlace": "https://www.lafm.com.co/politica/jep-anuncia-cambios-recorte-presupuestal-contratos-seguridad-sede-416324",
+  "fecha": "2026-11-06T08:05:00-05:00",
+  "palabras": "Política,JEP,conflicto armado,victimas del conflicto armado,Ministerio de Justicia,Paramilitares,Falsos positivos",
+  "lead": "La Jurisdicción Especial para la Paz reducirá en un 85 % sus contratos de prestación de servicios, cambiará de sede y ajustará los esquemas de seguridad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Incautan 104 armas en La Guajira: récord en 45 años",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-incautacion-104-armas-la-guajira-conquistadoras-sierra-nevada-416322",
+  "fecha": "2026-11-06T08:02:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Colombia,armas,Armada Nacional,Caribe",
+  "lead": "Cinco personas quedaron capturadas tras el hallazgo, en aguas del norte del país, de un arsenal de fusiles, pistolas, lanzagranadas y ametralladoras destin...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué es Ueno Bank y por qué provocó la crisis en Paraguay?",
+  "enlace": "https://www.lafm.com.co/internacional/que-es-ueno-bank-crisis-financiera-santiago-pena-renuncio-presidente-paraguay-416325",
+  "fecha": "2026-11-06T07:53:00-05:00",
+  "palabras": "Internacional,Conflicto de intereses,renuncia,Investigaciones,Ley de insolvencia,Acusaciones,Oposición,Corrupción,Irregularidades en manejo de recursos,Paraguay,finanzas",
+  "lead": "En septiembre de 2026, Ueno aseguró tener más de tres millones de clientes en Paraguay, lo que significa más o menos a la mitad de la población paraguaya.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Centro Democrático habla de escándalos del gobierno Petro",
+  "enlace": "https://www.lafm.com.co/politica/centro-democratico-escandalos-gobierno-gustavo-petro-polemicos-contratos-416323",
+  "fecha": "2026-11-06T07:42:00-05:00",
+  "palabras": "Política,Irregularidades en manejo de recursos,Centro Democrático,Gustavo Petro,Polémicos contratos,Lucha anticorrupción,medidas fiscales,Recaudo fiscal,Propuestas,Funcionarios denunciados",
+  "lead": "El representante a la Cámara Alejandro Murcia, habló de cientos de miles de contratos y señaló que algunos corresponderían a personas que no aparecen ident...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Motín en URI de Puente Aranda en Bogotá deja un muerto",
+  "enlace": "https://www.lafm.com.co/orden-publico/motin-uri-puente-aranda-bogota-un-muerto-ocho-heridos-autoridades-investigan-416314",
+  "fecha": "2026-11-06T06:39:00-05:00",
+  "palabras": "Orden Público,detención,Fiscalía General de la Nación,Bogotá,Alteración al orden público",
+  "lead": "Ya se retomó el control del centro de detención temporal.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
