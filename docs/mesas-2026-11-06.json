@@ -650,6 +650,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Jessica González tuvo 5 contratos en MinSalud por 49.975.500 pesos y uno en el Dapre bajo la dirección de Norayanet Mondragón González.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "09:05",
+   "quien": "Ana, reportera Caracol",
+   "que": "La cifra de empleo en Estados Unidos salió muy bien; se crearon 165,000 empleos en octubre y el desempleo bajó al 4.1%.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "09:05",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La reportera Caracol en Bogotá informó sobre los nuevos resultados entregados por el presidente Abelardo de la Espriella sobre la operación Agamemnón en una zona rural de San Martín en el Cesar, destacando la incautación de siete fusiles, 35 granadas, un dron, 1200 cartuchos y material de intendencia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "09:05",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La escritora colombiana Margarita García Robayo ganó el premio Herralde de Novela 2026 con su obra Querida Shari, dotado con 25,000 euros.",
+   "resaltar": false
   }
  ],
  "avisos": [
