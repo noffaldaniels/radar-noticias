@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "06:04",
+   "quien": "Jorge Eduardo Rojas, alcalde de Manizales",
+   "que": "Realizó el lanzamiento de la Feria de Manizales para enero próximo, destacando que tendrá 250 espectáculos gratuitos y será la versión número 70 de la historia de la ciudad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:04",
+   "quien": "Presidente de la República con la ministra Elsa Noguera",
+   "que": "Anunciaron la formalización de un crédito por 300 millones de dólares con la CAF (que equivalen a cerca de un billón de pesos) para modernizar la infraestructura tecnológica de la Aeronáutica Civil entre el 2026 y el 2030, interviniendo 67 estaciones aeronáuticas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:04",
+   "quien": "Contraloría General de la República",
+   "que": "Pidió explicaciones y un estado detallado sobre los problemas en la torre de control y sistemas de radar del Aeropuerto Internacional El Dorado, tras evidenciar fallas graves y falta de visibilidad que afectan la seguridad aérea.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
