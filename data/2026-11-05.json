@@ -4407,7 +4407,7 @@
   "palabras": "Paisita Noche, Resultados del chance",
   "lead": "El chance Paisita Noche realiza sorteos todos los días, después de las 6:00 p. m. Este jueves 5 de noviembre de 2026 los jugadores pueden consultar el resultado oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4418,7 +4418,7 @@
   "palabras": "Chontico Noche",
   "lead": "El chance Chontico Noche realiza sorteos todos los días, con horarios que varían según la jornada. Este jueves 5 de noviembre podrá conocer todos los resultados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4429,7 +4429,7 @@
   "palabras": "Estadio El Campín, Millonarios, Liga BetPlay",
   "lead": "El partido estuvo varios minutos detenido debido a este problema con la iluminaria y generó cientos de críticas en redes sociales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4440,7 +4440,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Policía Nacional, Fiscalía General de la Nación",
   "lead": "Entre las pruebas en contra de Manuel Ibáñez y José Silva hay un informe de captura en flagrancia, que da cuenta del lanzamiento de un artefacto explosivo; y la incautación de una moto y un celular",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4451,7 +4451,7 @@
   "palabras": "Iván Cepeda, Gustavo Petro",
   "lead": "Esto se dio tras ser consultado por la controversia que rodea al expresidente Gustavo Petro tras la divulgación de un video de 54 segundos por parte de Deicy Jiménez en sus redes sociales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4462,7 +4462,7 @@
   "palabras": "Paraguay, Paraguay, Peña",
   "lead": "Los fondos de miles de clientes han quedado congelados en el extinto banco.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "Viral, Festival Estéreo Picnic",
   "lead": "El Festival Estéreo Picnic se llevará a cabo el 19, 20 y 21 de marzo de 2027. Cada día se presentan artistas diferentes de todo tipo de géneros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "Japón, Robos, Viral, Ladrón, reloj",
   "lead": "La tienda que fue víctima de este hurto no esperaba que el ladrón se comportara de esa manera.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "Viral, Argentina",
   "lead": "Las jóvenes desaparecieron tras ser invitadas a una fiesta con engaños. Cinco días después, los investigadores hallaron sus cuerpos semienterrados y cubiertos con sabanas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "Presto, Nutresa, Presto, hamburguesas Presto",
   "lead": "Así, los cerca de 700 trabajadores de la cadena de hamburguesas conservarán sus empleos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "Tren de Aragua, Estados Unidos",
   "lead": "El Departamento de Estado de Estados Unidos anunció millonarias recompensas por información que permita localizar a tres líderes de la organización criminal del Tren de Aragua, conocidos como alias “Petrica”, “Giovanni” y “Juancho”, con el fin de ejercer su captura.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "China, Viral",
   "lead": "La vegetación cubre las laderas del parque con un intenso tono rosa, creando un paisaje que contrasta con las colinas lejanas y los bosques otoñales que rodean la zona.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "Álvaro Uribe Vélez, Gobierno nacional",
   "lead": "Luego de reunirse con la bancada del Centro Democrático, el expresidente señaló que \"se va a presentar un proyecto de reforma estructural, un proyecto disruptivo\".",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "Noticias de hoy, Juan Manuel Santos, Enriquecimiento ilícito",
   "lead": "La Fiscalía imputó a Roberto Prieto de ocultar aportes de Odebrecht a la campaña presidencial de Santos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "",
   "lead": "La jornada gratuita se realizará el 7 de noviembre e incluirá la vacuna Qdenga para niños de 9 y 10 años, además de otros biológicos del esquema nacional de inmunización.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "",
   "lead": "Tras las protestas de este jueves, la Gobernación anunció que la estructura metálica ya está en el sitio y que este viernes 6 de noviembre se realizará una visita técnica para definir el ingreso de la grúa encargada de su instalación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "",
   "lead": "La Fiscalía colombiana ya adelanta una investigación en esa misma línea, que se suma al proceso contra Nicolás Petro, quien actualmente se encuentra en juicio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "",
   "lead": "A través de la estrategia ‘Tejiendo Sueños’, 53 mujeres campesinas fortalecen sus emprendimientos de confección, reciben apoyo con materiales y llevan el orgullo de sus raíces a las pasarelas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "",
   "lead": "El centro de estudios económicos apoyó varios cambios propuestos por el Gobierno, sin embargo pidió al Congreso revisar los aportes a la nómina y los beneficios tributarios para grandes inversiones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "",
   "lead": "Los anuncios los hizo el presidente al término de un consejo de seguridad en el departamento del Amazonas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "",
   "lead": "El presidente lanzó pullas hacia el exmandatario Gustavo Petro, en medio de la polémica por el reciente video que publicó Deicy Jiménez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "",
   "lead": "En ese territorio minero, las Juntas de Acción Comunal cobran unos dineros a los mineros con los que financian proyectos sociales, pero la orden del grupo es que ellos son los que recibirán esa plata.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "",
   "lead": "El artista cartagenero y la estrella panameña se unen en una canción que combina afrobeats, sonidos caribeños y romance.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "",
   "lead": "El jefe político del Centro Democrático se reunió con su bancada de congresistas y habló de tres preocupaciones en torno a la propuesta de la administración de Abelardo de la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "",
   "lead": "Gobierno convoca mesa territorial por suspensión de contratos en plantas de Risaralda y Valle del Cauca",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "",
   "lead": "El caso se registró en la estación de Policía Armenia ubicada en el barrio La Isabela de la ciudad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "",
   "lead": "El extremo colombiano marcó dos goles en los primeros 14 minutos y fue protagonista en el contundente primer tiempo del Verdão.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "",
   "lead": "El departamento suma 100 empresas con el Sello Nacional de Negocios Verdes, de las 156 que cuentan con esta distinción en el país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4715,7 +4715,7 @@
   "palabras": "",
   "lead": "Con espacios de formación, relacionamiento y una alianza con la Universidad Externado de Colombia, la entidad busca fortalecer las empresas y dinamizar la economía del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4726,7 +4726,7 @@
   "palabras": "",
   "lead": "Pareja denuncia que delincuentes rompieron ventana de su vehículo y se llevaron una maleta con objetos de valor que usaban para trabajar y contenían información personal muy valiosa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "",
   "lead": "El colombiano ingresó en la segunda mitad y fue determinante para darle al conjunto escocés su primera victoria en la fase de liga del certamen.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "",
   "lead": "Era líder financiero, de redes de apoyo y dinamizador del cobro de extorsiones y secuestros en el departamento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "",
   "lead": "Las precipitaciones de este 5 de noviembre dejaron inundaciones y encharcamientos en diferentes sectores de la capital",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "",
   "lead": "A falta de dos fechas para que finalice la fase del todos contra todos, le contamos las cuentas de los equipos que tienen chance de clasificar a los cuadrangulares semifinales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "",
   "lead": "El jueves se anunció que el tema de la exposición para la Met Gala de 2027 será “extraORDINARIO: la moda y la poética de lo cotidiano”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "",
   "lead": "Daisy Viviana Ruiz Álvarez asumirá la dirección de una entidad que responde por las pensiones y la atención en salud de miles de personas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,7 +4803,7 @@
   "palabras": "",
   "lead": "Así lo informó la Comisión de Investigación y Acusación de la Cámara de Representantes a Caracol Radio en respuesta a un derecho de petición.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4814,7 +4814,7 @@
   "palabras": "",
   "lead": "El Concejo de Bogotá aprobó en segundo debate un proyecto de acuerdo que permitirá utilizar fotografías y videos ciudadanos, así como cámaras de vigilancia públicas y privadas, para identificar infracciones de tránsito.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4825,7 +4825,7 @@
   "palabras": "",
   "lead": "Alias el Flaco, sería hombre de confianza de alias Primo Gay y fue dado de baja en combates en zona rural de Yarumal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4836,7 +4836,7 @@
   "palabras": "",
   "lead": "El Juzgado 15 Penal Municipal con funciones de Control de Garantías impuso medida de aseguramiento en centro carcelario contra Manuel Felipe Ibáñez Díaz y José Luis Silva Arias, investigados por el ataque con explosivos ocurrido el pasado 23 de octubre en Barranquilla.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4847,7 +4847,7 @@
   "palabras": "",
   "lead": "La Ley de Rescate Económico fue radicada el 29 de octubre, mediante el proyecto de ley 477",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4858,7 +4858,7 @@
   "palabras": "",
   "lead": "La captura de Fernando Orjuela Guarín representa un avance importante en la investigación por la muerte de la mujer de 43 años, un caso que conmocionó a Puerto Boyacá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4869,7 +4869,7 @@
   "palabras": "",
   "lead": "Tras las elecciones de Midterms 2026 en Estados Unidos, Wall Street empieza a caer junto al Bitcoin y Nasdaq",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4880,7 +4880,7 @@
   "palabras": "",
   "lead": "Nelsy Barreto, habló en la IX Cumbre del Petróleo, Gas y Energía que se realiza en Cartagena",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "",
   "lead": "Diaz interpreta a una madre soltera con dos hijas que prometió, con un “pacto de meñiques”, asistir al partido de fútbol de su hija menor; sin embargo, el destino tiene otros planes para ella.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4902,7 +4902,7 @@
   "palabras": "",
   "lead": "Líderes de varios municipios compartieron experiencias sobre derechos humanos y construcción de paz",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4913,7 +4913,7 @@
   "palabras": "Sociedad,Salud,Superintendencia Nacional de Salud,salud mental,pacientes,Atención a pacientes",
   "lead": "El gremio médico advirtió que las modificaciones administrativas, contractuales o logísticas en los servicios de dispensación de medicamentos no pueden afe...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "Orden Público,Procuraduría General de la Nación,Gustavo Petro,Congreso de la República,Corte Suprema de Justicia",
   "lead": "Procuraduría avanza en la investigación por las denuncias sobre una presunta red de entrega de contratos a cambio de relaciones sexuales",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "Política,Reforma tributaria,Álvaro Uribe,Proyecto de ley,Congreso de la República",
   "lead": "El expresidente confirmó que el Centro Democrático se reunirá con el Gobierno y que plantearán una “reforma estructural y disruptiva”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4946,7 +4946,7 @@
   "palabras": "Internacional,Estados Unidos,Guerra,Irán,participación política,Comisión de Relaciones Exteriores,israel",
   "lead": "El mandatario felicitó a los demócratas por los resultados en las elecciones de medio término, pero afirmó que su gobierno ha sido el mejor en la historia ...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4957,7 +4957,7 @@
   "palabras": "Orden Público,Gustavo Petro,Corrupción,Irregularidades en contratos,Acusaciones,Fiscalía General de la Nación,Corte Suprema de Justicia,Indagación preliminar,Conflicto de intereses",
   "lead": "Director del DAPRE solicitó reprogramar para el 18 y 19 de noviembre citación a declarar ante la Fiscalía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4968,6 +4968,468 @@
   "palabras": "Política,Estados Unidos,Colombia,Ministerio de Relaciones Exteriores,Relaciones comerciales",
   "lead": "El exfuncionario se refirió a la importancia que tiene una reunión entre los presidentes de cada país; afirmando que un vicepresidente no tiene la misma fu...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "5 de noviembre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/5-de-noviembre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-11-05T19:32:25-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 5 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sector constructor celebra posibilidad de desarrollar vivienda con actualización de POT en Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/sector-constructor-celebra-posibilidad-de-desarrollar-vivienda-con-actualizacion-de-pot-en-medellin-rg10",
+  "fecha": "2026-11-05T19:55:46-05:00",
+  "palabras": "Medellín, Valle de Aburrá, Alcaldía de Medellín",
+  "lead": "Dentro de las proyecciones para construir unas 200 mil viviendas en los próximos años se espera que estos proyectos se desarrollen en inmediaciones del corredor del río Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sonia Margarita Abuchar fue designada como presidenta encargada de ISA",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/sonia-margarita-abuchar-fue-designada-como-presidenta-encargada-de-isa-rg10",
+  "fecha": "2026-11-05T19:42:28-05:00",
+  "palabras": "ISA, Ecopetrol, Ministerio de Minas y Energía",
+  "lead": "La mujer tiene más de 30 años de experiencia en el sector eléctrico, la mayoría dentro de ISA.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Parejas que cuidan a personas con discapacidad podrían recibir cuota monetaria: los requisitos",
+  "enlace": "https://www.bluradio.com/economia/parejas-que-cuidan-a-personas-con-discapacidad-podrian-recibir-cuota-monetaria-los-requisitos-so35",
+  "fecha": "2026-11-05T20:06:56-05:00",
+  "palabras": "Subsidios, Superintendencia del Subsidio Familiar, Cajas de compensación familiar, cuota monetaria para cuidadores",
+  "lead": "La Superintendencia del Subsidio Familiar indicó que estas personas pueden ser beneficiarias de la cuota monetaria, siempre que cumplan con las condiciones establecidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hay decisión sobre caso de Jesús Owono: Comité disciplinario de España se pronunció",
+  "enlace": "https://www.bluradio.com/deportes/futbol/hay-decision-sobre-caso-de-jesus-owono-comite-disciplinario-de-espana-se-pronuncio-so35",
+  "fecha": "2026-11-05T20:06:58-05:00",
+  "palabras": "España",
+  "lead": "\"Estos están siendo los días más difíciles de mi vida\", dijo hace poco el portero, asegurando que esta situación nunca imaginó vivirla y se siente \"con mucho dolor\" por lo sucedido.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Robot en cirugías de pulmón: La Nube, programa completo 5 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/robot-en-cirugias-de-pulmon-la-nube-programa-completo-5-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-05T20:19:55-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 5 de noviembre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aprobación del fracking entre los colombianos aumentó un 4%, según Barometro Petrolero",
+  "enlace": "https://www.bluradio.com/regiones/caribe/aprobacion-del-fracking-entre-los-colombianos-aumento-un-4-segun-barometro-petrolero-rg10",
+  "fecha": "2026-11-05T20:17:01-05:00",
+  "palabras": "Noticias de hoy, Fracking",
+  "lead": "La aprobación de la técnica de extracción pasó de un 30% en 2025 a un 34% este 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hamilton y Sech invitan a enamorarse y bailar al ritmo de “Arroz con Huevo”",
+  "enlace": "https://www.bluradio.com/entretenimiento/hamilton-y-sech-invitan-a-enamorarse-y-bailar-al-ritmo-de-arroz-con-huevo-rs15",
+  "fecha": "2026-11-05T20:29:33-05:00",
+  "palabras": "Música",
+  "lead": "La letra transita entre la atracción, los besos y las ganas de prolongar los momentos junto a alguien especial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lujo, conquista y reggaetón: Blessd estrena su esperado sencillo “Window Shopper”",
+  "enlace": "https://www.bluradio.com/entretenimiento/lujo-conquista-y-reggaeton-blessd-estrena-su-esperado-sencillo-window-shopper-rs15",
+  "fecha": "2026-11-05T20:36:14-05:00",
+  "palabras": "Blessd",
+  "lead": "El lanzamiento llega acompañado de un video oficial grabado el pasado 22 de octubre durante la visita del cantante a Ciudad de México.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Congresista Óscar Benavides pide garantías de seguridad tras declararse en oposición al Gobierno",
+  "enlace": "https://caracol.com.co/2026/11/06/congresista-oscar-benavides-pide-garantias-de-seguridad-tras-declararse-en-oposicion-al-gobierno/",
+  "fecha": "2026-11-05T20:40:20-05:00",
+  "palabras": "",
+  "lead": "Durante una audiencia pública sobre protesta social realizada en Bucaramanga, el representante a la Cámara habló de las amenazas en su contra y pidió a la Fiscalía y a la UNP protección para ejercer su labor política.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Itagüí hay doce denuncias de presuntos abusos sexuales de profesores a menores en diez I. E.",
+  "enlace": "https://caracol.com.co/2026/11/06/en-itagui-hay-doce-denuncias-de-presuntos-abusos-sexuales-de-profesores-a-menores-en-diez-i-e/",
+  "fecha": "2026-11-05T19:20:33-05:00",
+  "palabras": "",
+  "lead": "El representante del ministerio público manifestó que solo a uno de los casos han formulado pliego de cargos a docente y en otros siete ya hay denuncia oficial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Periodista cubana Yoani Sánchez fue liberada",
+  "enlace": "https://caracol.com.co/2026/11/06/periodista-cubana-yoani-sanchez-fue-liberada/",
+  "fecha": "2026-11-05T20:26:17-05:00",
+  "palabras": "",
+  "lead": "Sánchez confirmó su liberación luego de horas de una “arbitraria detención” por parte de las autoridades de la isla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "María Fernanda Cabal no descarta una alianza política con Uribe o Fico en las elecciones regionales",
+  "enlace": "https://caracol.com.co/2026/11/06/maria-fernanda-cabal-no-descarta-una-alianza-politica-con-uribe-o-fico-en-las-elecciones-regionales/",
+  "fecha": "2026-11-05T20:17:04-05:00",
+  "palabras": "",
+  "lead": "La política que llegó a Antioquia a impulsar su partido Político Republicano y conseguir adeptos con miras a las próximas elecciones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel juez que habría recibido soborno de un extraditable para otorgarle la libertad",
+  "enlace": "https://caracol.com.co/2026/11/06/a-la-carcel-juez-que-habria-recibido-soborno-de-un-extraditable-para-otorgarle-la-libertad/",
+  "fecha": "2026-11-05T13:16:00-05:00",
+  "palabras": "",
+  "lead": "El presunto soborno era de $1.200 millones y la funcionaria judicial habría recibido la mitad para fallar favorablemente un habeas corpus con el que el neerlandés quedaría en libertad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Banco Central de Paraguay inicia pagos a usuarios del intervenido Ueno Bank",
+  "enlace": "https://caracol.com.co/2026/11/06/banco-central-de-paraguay-inicia-pagos-a-usuarios-del-intervenido-ueno-bank/",
+  "fecha": "2026-11-05T20:20:49-05:00",
+  "palabras": "",
+  "lead": "Los pagos para los ahorristas avanzan mientras permanecen las tensiones y manifestaciones pidiendo la salida del presidente Santiago Peña.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos anuncia 50 millones de dólares por tres líderes del Tren de Aragua",
+  "enlace": "https://caracol.com.co/2026/11/06/estados-unidos-anuncia-50-millones-de-dolares-por-tres-lideres-del-tren-de-aragua/",
+  "fecha": "2026-11-05T20:17:46-05:00",
+  "palabras": "",
+  "lead": "El Departamento de Estado anunció las recompensas por tres miembros del grupo que han delinquido en Venezuela, Colombia, Centroamérica y Estados Unidos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué hacer si su EPS no le entrega los medicamentos? Esto dice la ley",
+  "enlace": "https://caracol.com.co/2026/11/06/que-hacer-si-su-eps-no-le-entrega-los-medicamentos-esto-dice-la-ley/",
+  "fecha": "2026-11-05T20:13:49-05:00",
+  "palabras": "",
+  "lead": "Bajo el Decreto 019 de 2012 y la Resolución 1604, las entidades de salud no pueden dejar sus fórmulas médicas pendientes de forma indefinida.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cortes de luz en Bogotá y municipios aledaños este 6 de noviembre: horarios y barrios afectados",
+  "enlace": "https://caracol.com.co/2026/11/06/cortes-de-luz-en-bogota-y-municipios-aledanos-este-6-de-noviembre-horarios-y-barrios-afectados/",
+  "fecha": "2026-11-05T20:12:39-05:00",
+  "palabras": "",
+  "lead": "La suspensión del servicio se produce por trabajos de la empresa Enel Colombia en redes de suministro de energía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Vienes a la final de la Sudamericana? Esto debes saber antes de llegar a Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/06/vienes-a-la-final-de-la-sudamericana-esto-debes-saber-antes-de-llegar-a-barranquilla/",
+  "fecha": "2026-11-05T20:06:24-05:00",
+  "palabras": "",
+  "lead": "Esta es la guía práctica para vivir la final en la ciudad.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "CTI realizó la extracción forense del celular de Deicy Jiménez: Más de 7 horas duró la diligencia",
+  "enlace": "https://caracol.com.co/2026/11/06/cti-realizo-la-extraccion-forense-del-celular-de-deicy-jimenez-mas-de-7-horas-duro-la-diligencia/",
+  "fecha": "2026-11-05T19:00:00-05:00",
+  "palabras": "",
+  "lead": "Videos, chats, fotografías, datos de geolocalización, grabaciones y notas de voz serán revisados por los investigadores de la Fiscalía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultado Lotería de Bogotá, Quindío y ColorLoto HOY 5 de noviembre 2026: ganadores y premios",
+  "enlace": "https://caracol.com.co/2026/11/06/resultado-loteria-de-bogota-quindio-y-colorloto-hoy-5-de-noviembre-2026-ganadores-y-premios/",
+  "fecha": "2026-11-05T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Estos son los resultados de las loterías de Bogotá y Quindío, y las balotas ganadoras en ColorLoto. Conozca los números de la suerte de este 5 de noviembre del 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Taxista de 26 años fue asesinado en Bosa Centro: es el tercer caso en menos de un mes",
+  "enlace": "https://caracol.com.co/2026/11/06/taxista-de-26-anos-fue-asesinado-en-bosa-centro-es-el-tercer-caso-en-menos-de-un-mes/",
+  "fecha": "2026-11-05T19:57:25-05:00",
+  "palabras": "",
+  "lead": "El conductor fue atacado con arma de fuego hacia las 2:00 p. m. y trasladado al Hospital de Bosa, donde falleció por la gravedad de las heridas. El CTI de la Fiscalía asumió la investigación.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Shakira fue vista en Barranquilla acompañando a su padre por quebrantos de salud",
+  "enlace": "https://caracol.com.co/2026/11/06/shakira-fue-vista-en-barranquilla-acompanando-a-su-padre-por-quebrantos-de-salud/",
+  "fecha": "2026-11-05T19:47:54-05:00",
+  "palabras": "",
+  "lead": "Durante la tarde de este jueves, la artista fue vista en el norte de Barranquilla mientras caminaba junto a su padre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de $2.131 millones entrega Comfaboy en subsidios para desempleados en Boyacá",
+  "enlace": "https://caracol.com.co/2026/11/06/mas-de-2131-millones-entrega-comfaboy-en-subsidios-para-desempleados-en-boyaca/",
+  "fecha": "2026-11-05T19:47:24-05:00",
+  "palabras": "",
+  "lead": "Un total de 382 personas cesantes recibirán este respaldo económico, destinado a mitigar el impacto del desempleo y brindar mayor tranquilidad a sus familias en diferentes municipios del departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desempleo en Bucaramanga: 56.000 personas están sin trabajo; Fenalco explica qué está pasando",
+  "enlace": "https://caracol.com.co/2026/11/06/desempleo-en-bucaramanga-56000-personas-estan-sin-trabajo-fenalco-explica-que-esta-pasando/",
+  "fecha": "2026-11-05T19:32:29-05:00",
+  "palabras": "",
+  "lead": "Aunque la ciudad mantiene una tasa de desocupación inferior al promedio de las principales capitales del país, el indicador volvió a subir.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caribe Soul presentó ‘Mestiza’, una fusión de folclor y música electrónica grabada en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/06/caribe-soul-presento-mestiza-una-fusion-de-folclor-y-musica-electronica-grabada-en-cartagena/",
+  "fecha": "2026-11-05T19:41:55-05:00",
+  "palabras": "",
+  "lead": "El nuevo sencillo, producido por el DJ cartagenero Andrés Maciá",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concejal denuncia presuntas fallas en la atención y constantes quejas en una clínica de Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/06/concejal-denuncia-presuntas-fallas-en-la-atencion-y-constantes-quejas-en-una-clinica-de-santa-marta/",
+  "fecha": "2026-11-05T19:38:07-05:00",
+  "palabras": "",
+  "lead": "El cabildante pidió a la Secretaría de Salud un informe sobre las quejas ciudadanas por presuntos medicamentos vencidos, maltrato a pacientes y barreras de acceso a los servicios médicos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Festival Jorge García Usta celebró 20 años impulsando el talento artístico",
+  "enlace": "https://caracol.com.co/2026/11/06/festival-jorge-garcia-usta-celebro-20-anos-impulsando-el-talento-artistico/",
+  "fecha": "2026-11-05T19:37:53-05:00",
+  "palabras": "",
+  "lead": "La primera jornada reunió a 36 grupos artísticos de instituciones educativas oficiales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Todo está contratado con Colsubsidio y todo se va a entregar”: gerente de Medicamentos EPS Sanitas",
+  "enlace": "https://caracol.com.co/2026/11/06/todo-esta-contratado-con-colsubsidio-y-todo-se-va-a-entregar-gerente-de-medicamentos-eps-sanitas/",
+  "fecha": "2026-11-05T19:34:41-05:00",
+  "palabras": "",
+  "lead": "Mauricio Rubio, gerente de Medicamentos Grupo Keralty/EPS Sanitas, afirmó que desde el 4 de noviembre Colsubsidio es el que debe entregarle los medicamentos a los pacientes de Sanitas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jhon Arias se reportó con doblete en la goleada de Palmeiras 6-1 sobre Remo",
+  "enlace": "https://caracol.com.co/2026/11/06/jhon-arias-se-reporto-con-doblete-en-la-goleada-de-palmeiras-6-1-sobre-remo/",
+  "fecha": "2026-11-05T18:33:48-05:00",
+  "palabras": "",
+  "lead": "El colombiano fue protagonista en la contundente victoria del Verdão, con dos anotaciones en los primeros 14 minutos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cardique, Veolia y Fundación Ser Mejor unieron esfuerzos para impulsar gestión ambiental en Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/06/cardique-veolia-y-fundacion-ser-mejor-unieron-esfuerzos-para-impulsar-gestion-ambiental-en-bolivar/",
+  "fecha": "2026-11-05T19:29:36-05:00",
+  "palabras": "",
+  "lead": "La alianza contempla jornadas de educación ambiental, aprovechamiento de residuos sólidos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comfaboy ofrece 500 oportunidades laborales para buscadores de empleo",
+  "enlace": "https://caracol.com.co/2026/11/06/comfaboy-ofrece-500-oportunidades-laborales-para-buscadores-de-empleo/",
+  "fecha": "2026-11-05T19:23:52-05:00",
+  "palabras": "",
+  "lead": "La Agencia de Empleo de la Caja de Compensación Familiar de Boyacá busca conectar a quienes necesitan trabajo con empresas que requieren talento humano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá celebra su primer festival Carranguero: fechas y programación",
+  "enlace": "https://caracol.com.co/2026/11/06/bogota-celebra-su-primer-festival-carranguero-fechas-y-programacion/",
+  "fecha": "2026-11-05T19:19:14-05:00",
+  "palabras": "",
+  "lead": "Agrupaciones de Bogotá y otras regiones llegan para celebrar la música campesina y de sus territorios, conozca todos los detalles aquí.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colsubsidio y Redeban se unen: afiliados podrán recibir su cuota monetaria directamente en sus llave",
+  "enlace": "https://caracol.com.co/2026/11/06/colsubsidio-y-redeban-se-unen-afiliados-podran-recibir-su-cuota-monetaria-directamente-en-sus-llave/",
+  "fecha": "2026-11-05T19:20:42-05:00",
+  "palabras": "",
+  "lead": "La entidad habilitó, junto con Redeban, una nueva opción para recibir este subsidio familiar directamente en una cuenta financiera mediante las llaves de Bre-B, sin necesidad de retirar el dinero en efectivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Plan de choque para evitar crisis por El Niño",
+  "enlace": "https://www.lafm.com.co/economia/ministerio-de-energia-pide-a-los-colombianos-ahorrar-energia-416299",
+  "fecha": "2026-11-05T20:26:00-05:00",
+  "palabras": "Economía,Ministerio de Minas y Energía,Embalses,Energía",
+  "lead": "Con los embalses al 77,87 % de su capacidad y la meta de superar el 80 %, el Gobierno nacional ejecuta medidas de contingencia para blindar el sistema ener...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caso Zulma Guzmán: ¿Puede ser juzgada sin estar presente? Abogado explica la contumacia en el caso de las frambuesas",
+  "enlace": "https://www.lafm.com.co/orden-publico/caso-zulma-guzman-puede-ser-juzgada-sin-estar-presente-abogado-explica-la-contumacia-en-el-caso-de-las-frambuesas-416298",
+  "fecha": "2026-11-05T20:20:00-05:00",
+  "palabras": "Orden Público,Fiscalía General de la Nación,imputan cargos,Indagación preliminar,proceso penal,Acusaciones,audiencia de acusación,Sistema Penal Acusatorio,Abogados,Procesos judiciales,Audiencia judicial",
+  "lead": "Abogado revela qué puede ocurrir si Zulma Guzmán no comparece. Imputación el 9 de noviembre sigue en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Icetex denuncia costosas contrataciones en gobierno Petro",
+  "enlace": "https://www.lafm.com.co/sociedad/icetex-denuncia-irregularidades-en-contratacion-gobierno-petro-416291",
+  "fecha": "2026-11-05T20:01:00-05:00",
+  "palabras": "Sociedad,Icetex,Irregularidades en contratos,Gustavo Petro",
+  "lead": "Entre los hallazgos están contratos por más de $ 83.000 millones asociados a un proyecto carente de viabilidad financiera y de aval regulatorio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Despliegan hospital móvil en Planadas tras ataque",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobierno-despliega-contingencia-para-atencion-en-planadas-tolima-416295",
+  "fecha": "2026-11-05T19:44:00-05:00",
+  "palabras": "Orden Público,Ministerio de Salud,Tolima,medicamentos,Atención a pacientes",
+  "lead": "El Gobierno Nacional activó el envío de insumos médicos, un hospital móvil transitorio y acompañamiento en salud mental tras los daños causados a la red as...",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Las claves para entender la crisis política en Paraguay",
+  "enlace": "https://www.lafm.com.co/internacional/crisis-politica-en-paraguay-renuncia-presidente-santiago-pena-416294",
+  "fecha": "2026-11-05T19:36:00-05:00",
+  "palabras": "Internacional,Paraguay,Renuncia de funcinarios,presidente de la República,Banco de la República",
+  "lead": "El mandatario presentó su renuncia luego de que miles de paraguayos vieran perdidos sus ahorros pensionales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Palacio llega a Netflix: elenco revela secretos de la serie",
+  "enlace": "https://www.lafm.com.co/entretenimiento/netflix-estrena-palacio-serie-del-palacio-de-justicia-416292",
+  "fecha": "2026-11-05T19:28:00-05:00",
+  "palabras": "Entretenimiento,Palacio de Justicia,Periodistas,Abogados,Magistrados,Activistas,Masacre",
+  "lead": "Netflix estrena 'Palacio', con ocho episodios sobre la toma y retoma de 1985. El elenco, orgullo nacional, habla de memoria y humanización.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nutresa asume la operación oficial de Presto en el país",
+  "enlace": "https://www.lafm.com.co/sociedad/presto-oficialmente-es-de-grupo-nutresa-416293",
+  "fecha": "2026-11-05T19:17:00-05:00",
+  "palabras": "Sociedad,Grupo Nutresa,hamburguesas,restaurantes,Trabajo",
+  "lead": "Tras recibir la aprobación de la Superintendencia de Industria y Comercio, la cadena de hamburguesas Presto inicia una nueva etapa bajo el control de Grupo...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Demuelen histórico lugar de venta de drogas en Neiva",
+  "enlace": "https://www.lafm.com.co/orden-publico/demilicion-vivienda-estupefacientes-neiva-416235",
+  "fecha": "2026-11-05T12:33:00-05:00",
+  "palabras": "Orden Público,Estupefacientes,Red delincuencial,Neiva,atracos,habitante de calle",
+  "lead": "El lugar llevaba entre 30 y 40 años siendo utilizado para la venta de drogas y el intercambio de objetos robados por alucinógenos.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
