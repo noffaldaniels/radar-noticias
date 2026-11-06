@@ -76,6 +76,20 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "La falla del sistema radar en Bogotá, que obligó a suspender operaciones aéreas el pasado 4 de noviembre, generó nuevos cuestionamientos; la Procuraduría pidió resultados concretos a la Aerocivil, mientras que Avianca exigió explicaciones técnicas y garantías para evitar que se repita la contingencia.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:18",
+   "quien": "Caracol Radio",
+   "que": "La Comisión de Acusación de la Cámara tiene 535 denuncias congeladas contra Gustavo Petro y 47 contra Abelardo de la Espriella.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:20",
+   "quien": "Caracol Radio",
+   "que": "El precio de la cerveza en Colombia podría duplicarse debido a un aumento en los impuestos, afectando el precio de una botella de ron y otros licores.",
+   "resaltar": false
   }
  ],
  "avisos": [
