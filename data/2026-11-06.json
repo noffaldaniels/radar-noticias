@@ -5265,7 +5265,7 @@
   "palabras": "Cartagena, Estados Unidos",
   "lead": "La legación diplomática recomendó a sus nacionales evitar sectores al este del centro comercial Caribe Plaza, extremar precauciones contra el uso de escopolamina y acatar la programación vial entre el 11 y el 16 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5276,7 +5276,7 @@
   "palabras": "Paraguay, Entrevista, Paraguay, crisis ueno bank, economía Paraguay",
   "lead": "Hay preocupación de los emprendedores por conseguir financiación para mantener sus negocios y evitar la quiebra.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5287,7 +5287,7 @@
   "palabras": "Noticias de hoy, Desaparecidos, Barranquilla",
   "lead": "En una ceremonia cargada de memoria y emotividad, familiares de las víctimas reiteraron sus exigencias de verdad, reparación y garantías de no repetición.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5298,7 +5298,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Según la circular de búsqueda emitida en su momento por la Fiscalía, se puede leer que Arlet residía en un conjunto residencial llamado Golondrinas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5309,7 +5309,7 @@
   "palabras": "ONU",
   "lead": "El organismo aseguró que continuará \"monitoreando su caso y las medidas de prevención y protección que adopten las autoridades para garantizar su seguridad\".",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5320,7 +5320,7 @@
   "palabras": "",
   "lead": "La feria de vivienda abarca 10 constructoras y más de 15 proyectos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5331,7 +5331,7 @@
   "palabras": "",
   "lead": "La decisión beneficia a otros cuatro funcionarios del órgano de control.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5342,6 +5342,171 @@
   "palabras": "Internacional,Paraguay,Destitución de cargo,Senado de la República,Posesión del cargo,presos,imputan cargos,Pliego de cargos,Asunción,renuncia,Pérdida de curul",
   "lead": "Pedro Alliana asumió como presidente de Paraguay tras la destitución y detención de Santiago Peña, en medio de la crisis de Ueno Bank.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy viernes 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-viernes-6-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-06T21:45:55-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche realiza su sorteo todos los días a las 8:30 p. m. Este viernes 6 e noviembre de 2026 los apostadores pueden consultar las cifras ganadoras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy viernes 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-viernes-6-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-06T21:46:07-05:00",
+  "palabras": "Caribeña noche, Resultados del chance",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Este viernes 6 de noviembre de 2026 los jugadores pueden consultar los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Súper Astro Luna, resultado del último sorteo hoy viernes 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-luna-resultado-del-ultimo-sorteo-hoy-viernes-6-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-06T21:46:22-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Este viernes 6 de noviembre de 2026 los jugadores pueden consultar el resultado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Medellín, resultados del último sorteo hoy viernes 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-medellin-resultados-del-ultimo-sorteo-hoy-viernes-6-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-06T21:46:37-05:00",
+  "palabras": "Lotería de Medellín, Resultado de loterías de hoy",
+  "lead": "Resultado de la Lotería de Medellín de este viernes, 6 de noviembre: consulte el número ganador, la serie del premio mayor y todos los secos del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Santander, resultados del último sorteo hoy viernes 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-santander-resultados-del-ultimo-sorteo-hoy-viernes-6-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-06T21:47:14-05:00",
+  "palabras": "Lotería de Santander, Resultado de loterías de hoy",
+  "lead": "El sorteo 5095 de la Lotería de Santander jugó un premio mayor de $6.500 millones y otros premios. Conozca los resultados completos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Risaralda, resultados del último sorteo hoy viernes 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-risaralda-resultados-del-ultimo-sorteo-hoy-viernes-6-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-06T21:47:42-05:00",
+  "palabras": "Lotería de Risaralda, Resultado de loterías de hoy",
+  "lead": "Consulte los resultados completos y el premio mayor del sorteo 2974 de la Lotería de Risaralda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mujeres del Pacto Histórico marcan distancia frente a señalamientos contra Gustavo Petro",
+  "enlace": "https://www.bluradio.com/politica/mujeres-del-pacto-historico-marcan-distancia-frente-a-senalamientos-contra-gustavo-petro-rg10",
+  "fecha": "2026-11-06T21:33:03-05:00",
+  "palabras": "Pacto Histórico, Gustavo Petro",
+  "lead": "Las integrantes de la bancada insistieron en que se debe respetar la presunción de inocencia y el debido proceso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "María Corina Machado estuvo en centro de detención en Venezuela y envió mensaje a presos políticos",
+  "enlace": "https://www.bluradio.com/mundo/maria-corina-machado-estuvo-en-centro-de-detencion-en-venezuela-y-envio-mensaje-a-presos-politicos-cb20",
+  "fecha": "2026-11-06T21:34:37-05:00",
+  "palabras": "María Corina Machado, Venezuela",
+  "lead": "Machado visitó el campamento que está cerca de la prisión, donde familiares de presos políticos llevan 302 días durmiendo en carpas, a la intemperie y sorteando la lluvia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Smartfilms en Medellín: más de 7.000 personas capacitadas en cortometrajes con celulares",
+  "enlace": "https://www.bluradio.com/tecnologia/smartfilms-en-medellin-mas-de-7-000-personas-capacitadas-en-cortometrajes-con-celulares-rs15",
+  "fecha": "2026-11-06T21:48:55-05:00",
+  "palabras": "Medellín, SmartFilms",
+  "lead": "En la edición de este año, al menos 4.000 personas se formaron en las 16 comunas de Medellín y nueve municipios del Área Metropolitana del Valle de Aburrá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así es el YANGWANG U9 Xtreme: el hipercarro de BYD que rompió el récord de velocidad",
+  "enlace": "https://www.bluradio.com/motor/supero-los-500-km-h-asi-es-el-hipercarro-electrico-que-rompio-el-record-mundial-de-velocidad-so35",
+  "fecha": "2026-11-06T21:52:10-05:00",
+  "palabras": "BYD, Carros eléctricos, BYD, Hipercarro eléctrico, Marc Basseng, Récord Guinness autos, YANGWANG U9 Xtreme",
+  "lead": "Desarrollado por la división de lujo de BYD, el hiperdeportivo cuenta con cuatro motores independientes que entregan más de 3.000 caballos de potencia y una arquitectura eléctrica de 1.200 voltios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asesinaron a tres mujeres de una misma familia en Toro, Valle; ofrecen 10 millones de recompensa",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/asesinaron-a-tres-mujeres-de-una-misma-familia-en-toro-valle-ofrecen-10-millones-de-recompensa-rg10",
+  "fecha": "2026-11-06T21:50:24-05:00",
+  "palabras": "Noticias de hoy, Homicidios",
+  "lead": "Las víctimas fueron identificadas como María del Carmen Gutiérrez Toro y sus hijas Yarlin Andrea y Sulisney Muñoz Gutiérrez.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Independiente Medellín vence a Fortaleza y asegura su clasificación a los cuadrangulares: resumen",
+  "enlace": "https://caracol.com.co/2026/11/07/independiente-medellin-vence-a-fortaleza-y-asegura-su-clasificacion-a-los-cuadrangulares-resumen/",
+  "fecha": "2026-11-06T21:55:44-05:00",
+  "palabras": "",
+  "lead": "El Poderoso se impuso 3-0 en Bogotá y aseguró su presencia entre los ocho mejores de la Liga Colombiana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Prima de diciembre 2026: Cuándo la pagan y cuál es la fecha limite",
+  "enlace": "https://caracol.com.co/2026/11/07/prima-de-diciembre-2026-cuando-la-pagan-y-cual-es-la-fecha-limite/",
+  "fecha": "2026-11-06T21:50:53-05:00",
+  "palabras": "",
+  "lead": "Esta prestación social es de carácter obligatorio y se calcula con base en el tiempo laborado. Conozca todos los detalles aquí.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo de la Lotería de Medellín: resultado premio mayor hoy 6 de noviembre",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-de-la-loteria-de-medellin-resultado-premio-mayor-hoy-6-de-noviembre-416355",
+  "fecha": "2026-11-06T21:30:00-05:00",
+  "palabras": "Sociedad,Medellín, Colombia,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
+  "lead": "Ya hay número ganador del premio mayor en la noche de este viernes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Selección Colombia: razones desconvocatoria Franco Pérez, hijo Ómar Pérez",
+  "enlace": "https://www.lafm.com.co/deportes/seleccion-colombia-desconvocatoria-franco-perez-hijo-omar-perez-416425",
+  "fecha": "2026-11-06T21:08:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Omar Pérez,Independiente Santa Fe,Carlos Antonio Vélez,polémica,Selección Colombia Sub 20,Selección Colombia Sub 17,Federación Colombiana de Fútbol,Conflicto de intereses,Argentina",
+  "lead": "Posibles líos dirigenciales entre Ómar Pérez y algunos directivos del fútbol colombiano truncaron, por ahora, el sueño de su hijo Franco Pérez en la Selecc...",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
