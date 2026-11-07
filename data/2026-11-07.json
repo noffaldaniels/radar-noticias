@@ -271,7 +271,7 @@
   "palabras": "Paraguay",
   "lead": "Rodrigo Gamarra aseguró que el colapso de un banco desencadenó la crisis política y explicó qué pasará con los ahorradores y el expresidente.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "El club brasileño aseguró que las cotizaciones para fletar aeronaves alcanzaron los 900.000 dólares. En su lugar, invertirá cerca de 500.000 reales para garantizar la presencia de integrantes de sus barras organizadas en la final de la Copa Sudamericana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "El triple homicidio ocurrió en zona rural de Toro. Es la masacre número 104 registrada en Colombia durante 2026",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "La situación más compleja se registra en el Catatumbo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Sicarios llegaron hasta el establecimiento comercial donde laboraba",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Anuncios de seguridad no reflejan lo que pasa en las calles",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "Economía,Federación Nacional de Cafeteros,café colombiano,Caficultores,Exportaciones",
   "lead": "La Federación Nacional de Cafeteros lanzó tres nuevas variedades de café y una semilla para sembrar arábica entre 850 y 1.200 metros sobre el nivel del mar...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,6 +348,127 @@
   "palabras": "Sociedad,Terremoto en Colombia,Alcaldía de Cali,Alejandro Eder",
   "lead": "La Procuraduría General de la Nación le hizo un requerimiento preventivo a la Alcaldía de Cali por la atención durante el terremoto.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Crece expectativa por reunión entre De La Espriella y Congreso por reforma la tributaria",
+  "enlace": "https://www.bluradio.com/regiones/caribe/crece-expectativa-por-reunion-entre-de-la-espriella-y-congreso-por-reforma-la-tributaria-rg10",
+  "fecha": "2026-11-07T08:31:28-05:00",
+  "palabras": "Noticias de hoy, Abelardo De La Espriella, Barranquilla, Congreso de la República, Reforma tributaria",
+  "lead": "Varios miembros de las comisiones económicas del legislativo presentarán sus objeciones y alternativas a la reforma de ajuste fiscal presentada por el Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así funciona el prerregistro de los conciertos de Don Omar: datos que debe ingresar y lo que recibe",
+  "enlace": "https://www.bluradio.com/entretenimiento/asi-funciona-el-prerregistro-de-los-conciertos-de-don-omar-datos-que-debe-ingresar-y-lo-que-recibe-so35",
+  "fecha": "2026-11-07T08:10:56-05:00",
+  "palabras": "Viral, Don Omar, Concierto",
+  "lead": "La inscripción es gratuita y permite acceder a una fila prioritaria cuando comience la venta de entradas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo atentado con explosivos en el peaje La Agustina, en la vía Panamericana entre Cali y Popayán",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/nuevo-atentado-con-explosivos-en-el-peaje-la-agustina-en-la-via-panamericana-entre-cali-y-popayan-rg10",
+  "fecha": "2026-11-07T08:13:45-05:00",
+  "palabras": "atentado terrorista, Vía panamericana, Cali, Popayán",
+  "lead": "El ataque, fue perpetrado con un dron, dejó daños leves en la infraestructura, y cierre del corredor durante varias horas, mientras autoridades atendían el incidente.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dirigencia política del Táchira rechaza deportaciones de venezolanos por la frontera colombiana",
+  "enlace": "https://caracol.com.co/2026/11/07/dirigencia-politica-del-tachira-rechaza-deportaciones-de-venezolanos-por-la-frontera-colombiana/",
+  "fecha": "2026-11-07T08:21:30-05:00",
+  "palabras": "",
+  "lead": "Piden a las autoridades de los dos países definir una ruta de política migratoria",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla se ubica entre las tres capitales con mejor desempeño fiscal del país",
+  "enlace": "https://caracol.com.co/2026/11/07/barranquilla-se-ubica-entre-las-tres-capitales-con-mejor-desempeno-fiscal-del-pais/",
+  "fecha": "2026-11-07T08:16:01-05:00",
+  "palabras": "",
+  "lead": "En el ranking, la capital del Atlántico aparece por detrás de Medellín, que obtuvo 74,8 puntos, y Bogotá, con 73,4.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Policía de Paraguay detiene al expresidente Santiago Peña tras su destitución",
+  "enlace": "https://caracol.com.co/2026/11/07/la-policia-de-paraguay-detiene-al-expresidente-santiago-pena-tras-su-destitucion/",
+  "fecha": "2026-11-07T08:13:38-05:00",
+  "palabras": "",
+  "lead": "Tras su destitución por juicio político, el expresidente paraguayo Santiago Peña fue puesto bajo arresto domiciliario junto al exdirector del Banco Central.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuánto vale la entrada al Museo Nacional de Colombia? Tarifa por edad y días gratuitos en 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/cuanto-vale-la-entrada-al-museo-nacional-de-colombia-tarifa-por-edad-y-dias-gratuitos-en-2026/",
+  "fecha": "2026-11-07T08:11:01-05:00",
+  "palabras": "",
+  "lead": "El Museo Nacional de Colombia es el más antiguo de todo el país. Fue fundado en 1824. Conozca todos los detalles para conocerlo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destruyen laboratorio de coca en el municipio de Santiago",
+  "enlace": "https://caracol.com.co/2026/11/07/destruyen-laboratorio-de-coca-en-el-municipio-de-santiago/",
+  "fecha": "2026-11-07T08:07:15-05:00",
+  "palabras": "",
+  "lead": "Autoridades responsabilizan al Eln del complejo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuándo saldrán las boletas del concierto de Don Omar? Esto dijo el artista",
+  "enlace": "https://caracol.com.co/2026/11/07/cuando-saldran-las-boletas-del-concierto-de-don-omar-esto-dijo-el-artista/",
+  "fecha": "2026-11-07T08:04:14-05:00",
+  "palabras": "",
+  "lead": "El artista anunció oficialmente su regreso a Colombia a través de un live en medio de su concierto en Los Ángeles.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Sentimos un poco de vergüenza por lo que ha pasado”: Larry Vásquez tras derrota de Inter de Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/07/sentimos-un-poco-de-verguenza-por-lo-que-ha-pasado-larry-vasquez-tras-derrota-de-inter-de-bogota/",
+  "fecha": "2026-11-07T08:03:23-05:00",
+  "palabras": "",
+  "lead": "Reconocieron los errores que condicionaron el resultado y hablaron del reto de pasar la página para afrontar la semifinal de Copa Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ANI prioriza cuatro aeropuertos con plan de $39,4 billones",
+  "enlace": "https://www.lafm.com.co/sociedad/ani-prioriza-aeropuertos-el-dorado-palmira-cartagena-barranquilla-plan-obras-416434",
+  "fecha": "2026-11-07T08:12:00-05:00",
+  "palabras": "Sociedad,ANI,infraestructura,aeropuerto,Colombia,Invias,Bogotá,Barranquilla,Abelardo de la Espriella,Cartagena,Palmira",
+  "lead": "La Agencia Nacional de Infraestructura trazó una hoja de ruta que combina la modernización de terminales aéreas y la solución de 44 tribunales de arbitrame...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
