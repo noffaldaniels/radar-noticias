@@ -865,7 +865,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Blu Jeans del sábado, 7 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "Emprendimiento",
   "lead": "Emilio Jiménez Ibáñez explicó por qué la experiencia alrededor de un producto o servicio puede influir en cuánto está dispuesto a pagar un consumidor y qué pueden hacer los negocios para diferenciarse.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Agencia Nacional de Tierras",
   "lead": "La ANT habilitó puntos temporales de atención presencial en 19 ciudades del país, mientras prepara sus nuevas instalaciones. Estas son las sedes temporales y sus horarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "El alcalde Alejandro Eder explicó los procedimientos que deben cumplirse antes de iniciar las obras. La reconstrucción de la ciudad podría tomar cuatro años",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "Las ofertas laborales están disponibles de manera virtual desde el próximo lunes 9 de noviembre de 2026 a las 10:00 a. m.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "El defensor presenta una lesión de primer grado en el semitendinoso de la pierna derecha.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "La captura se materializó en vía pública del barrio Nelson Mandela",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "La agrupación colombiana estrena un sencillo sobre el amor y las decisiones en una relación, acompañado de un videoclip con estética cinematográfica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Las 276 unidades de coctel y whisky quedaron a disposición de la autoridad competente",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Las autoridades lo investigan por posibles irregularidades, tráfico de influencias y uso de recursos en beneficio propio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Las poblaciones beneficiadas fueron San Pablo, Río Viejo, Altos del Rosario y Cantagallo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "El seguimiento a obras estratégicas, la atención de emergencias y el mantenimiento de corredores nacionales hacen parte de la agenda liderada por Héctor Mauricio Sánchez Abril.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Barón Rojo Sur y Frente Verdiblanco se comprometieron a evitar agresiones y promover la convivencia durante el partido de este sábado en Cali",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Actualidad,desaparecido,desaparición de personas,Bogotá,Plaza de toros,atención psicológica,Atención a pacientes,Barranquilla",
   "lead": "Su mamá, Leida Castillo, relató cómo recibió la noticia, de qué manera lograron ubicarla y cuáles son las condiciones en las que se encuentra actualmente s...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Deportes,Tottenham,Leeds United,Premier League de Inglaterra,tabla de posiciones,Partidos hoy,resultados",
   "lead": "Aunque los Spurs tuvieron más posesión (61 %) y completó más pases, Leeds generó las ocasiones más peligrosas.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "Internacional,Paraguay,seleccion paraguay,Banco de la República,Economistas",
   "lead": "La crisis económica en el país guaraní ha desatado el descontento social.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "Orden Público,Masacre,Valle del Cauca,Investigaciones",
   "lead": "Hay preocupación en el Valle del Cauca por una nueva masacre ocurrida en el Valle del Cauca. Las autoridades investigan el hecho ocurrido en Toro.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,6 +1052,204 @@
   "palabras": "Actualidad,Atención a pacientes,situación financiera,Pagos atrasados,nueva eps,Urgencia manifiesta,Problemas económicos,Pérdidas millonarias,Medidas económicas,Ministerio de Salud",
   "lead": "La institución de salud, ubicada en Floridablanca, señaló que el 90 % de la cartera pendiente corresponde a obligaciones de la Nueva EPS y el Fomag. Ante l...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcalde sorprende a dos médicos en plena intimidad mientras pacientes esperan atención en urgencias",
+  "enlace": "https://www.bluradio.com/mundo/alcalde-sorprende-a-dos-medicos-en-plena-intimidad-mientras-pacientes-esperan-atencion-en-urgencias-rs15",
+  "fecha": "2026-11-07T11:20:44-05:00",
+  "palabras": "Viral, Redes sociales, Brasil, Video",
+  "lead": "El episodio quedó registrado en video y provocó una decisión de la alcaldía sobre la administración del centro asistencial, además de una reacción de rechazo por parte del gremio médico.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcaldía de Cali inicia devolución de mercancías retiradas a vendedores informales del centro",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/alcaldia-de-cali-inicia-devolucion-de-mercancias-retiradas-a-vendedores-informales-del-centro-rg10",
+  "fecha": "2026-11-07T11:53:11-05:00",
+  "palabras": "Cali, Vendedores ambulantes",
+  "lead": "Tras una reunión con vendedores informales, la Alcaldía avanzó en acuerdos sobre el espacio público. Sin embargo, comerciantes denuncian que reciben sus mercancías en malas condiciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Viajar por carretera podría salir muy caro: estas son las precauciones que debe tomar antes de salir",
+  "enlace": "https://www.bluradio.com/motor/viajar-por-carretera-podria-salir-muy-caro-estas-son-las-precauciones-que-debe-tomar-antes-de-salir-so35",
+  "fecha": "2026-11-07T11:27:58-05:00",
+  "palabras": "Viajes",
+  "lead": "Averías, accidentes y noches adicionales pueden aumentar el presupuesto de las vacaciones si no se cuenta con un plan para imprevistos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Cómo volver a encontrar pareja después de los 40? Psicóloga explica los errores más comunes",
+  "enlace": "https://www.bluradio.com/sociedad/como-volver-a-encontrar-pareja-despues-de-los-40-psicologa-explica-los-errores-mas-comunes-so35",
+  "fecha": "2026-11-07T11:46:08-05:00",
+  "palabras": "Vida en pareja, Estilo de vida, Psicología",
+  "lead": "Karol Suescún explicó por qué volver a la soltería después de una relación larga puede sentirse tan diferente y qué errores pueden dificultar conocer nuevas personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴EN VIVO Nottingham Forest vs. Manchester City: siga el minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/07/en-vivo-nottingham-forest-vs-manchester-city-siga-el-minuto-a-minuto/",
+  "fecha": "2026-11-07T11:55:23-05:00",
+  "palabras": "",
+  "lead": "Nottingham Forest busca sumar en casa ante Manchester City para alejarse de la zona de descenso en la Premier League.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente del Senado Honorio Henríquez recibió condecoración del Cuerpo de Bomberos de Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/07/presidente-del-senado-honorio-henriquez-recibio-condecoracion-del-cuerpo-de-bomberos-de-santa-marta/",
+  "fecha": "2026-11-07T12:08:08-05:00",
+  "palabras": "",
+  "lead": "El senador y presidente del Senado agradeció la distinción, que relacionó con sus raíces samarias y su trayectoria en el servicio público.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultado muy ajustado entre conservadores y laboristas en Nueva Zelanda ¿obligará a negociar?",
+  "enlace": "https://caracol.com.co/2026/11/07/resultado-muy-ajustado-entre-conservadores-y-laboristas-en-nueva-zelanda-obligara-a-negociar/",
+  "fecha": "2026-11-07T12:07:33-05:00",
+  "palabras": "",
+  "lead": "Las elecciones generales de Nueva Zelanda dejaron un resultado muy ajustado con ventaja en votos para la oposición laborista, aunque el Partido Nacional del primer ministro Christopher Luxon logró más escaños.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla alista su oferta turística para recibir visitantes de la final de la Sudamericana",
+  "enlace": "https://caracol.com.co/2026/11/07/barranquilla-alista-su-oferta-turistica-para-recibir-visitantes-de-la-final-de-la-sudamericana/",
+  "fecha": "2026-11-07T12:00:36-05:00",
+  "palabras": "",
+  "lead": "Operadores turísticos, agencias de viajes y guías recorrieron diferentes atractivos de la ciudad para conocer su oferta gastronómica, cultural y patrimonial de cara al partido del próximo 21 de noviembre en el estadio Metropolitano.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a cabecilla del Clan del Golfo y líder de extorsiones en Dabeiba, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/07/capturan-a-cabecilla-del-clan-del-golfo-y-lider-de-extorsiones-en-dabeiba-antioquia/",
+  "fecha": "2026-11-07T11:59:20-05:00",
+  "palabras": "",
+  "lead": "Las investigaciones determinaron que el grupo criminal generaba ingresos superiores a los 100 millones de pesos mensuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Subastan en París la primera fotografía de Bogotá, de 1842, por un valor de 80.000 euros",
+  "enlace": "https://caracol.com.co/2026/11/07/subastan-en-paris-la-primera-fotografia-de-bogota-de-1842-por-un-valor-de-80000-euros/",
+  "fecha": "2026-11-07T11:48:38-05:00",
+  "palabras": "",
+  "lead": "La casa Christie’s subastará en París 363 fotografías históricas de la colección de Roger Thérond, destacando la primera imagen conocida de Bogotá realizada en 1842.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Armenia en emergencia por fuertes lluvias, inundaciones, derrumbes y evacuaciones de viviendas",
+  "enlace": "https://caracol.com.co/2026/11/07/armenia-en-emergencia-por-fuertes-lluvias-inundaciones-derrumbes-y-evacuaciones-de-viviendas/",
+  "fecha": "2026-11-07T11:47:35-05:00",
+  "palabras": "",
+  "lead": "Los organismos de socorro siguen recibiendo reportes de afectaciones por el aguacero de las últimas horas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trágico accidente vial en Chile deja 12 muertos y 13 heridos, esto es lo que se sabe",
+  "enlace": "https://caracol.com.co/2026/11/07/tragico-accidente-vial-en-chile-deja-12-muertos-y-13-heridos-esto-es-lo-que-se-sabe/",
+  "fecha": "2026-11-07T11:43:12-05:00",
+  "palabras": "",
+  "lead": "Los hechos ocurrido este sábado en una carretera de la región costera de Valparaíso, según informó el gobierno.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Magdalena espera recibir tres vehículos blindados Hunter entre diciembre y enero",
+  "enlace": "https://caracol.com.co/2026/11/07/magdalena-espera-recibir-tres-vehiculos-blindados-hunter-entre-diciembre-y-enero/",
+  "fecha": "2026-11-07T11:33:56-05:00",
+  "palabras": "",
+  "lead": "La gobernadora Margarita Guerra confirmó a Caracol Radio que los automotores adquiridos en Israel ya están comprados y que actualmente se adelantan los trámites para su ingreso a Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo puede retirar transferencias de Renta Ciudadana? Paso a paso, operadores y próximos pagos 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/como-puede-retirar-transferencias-de-renta-ciudadana-paso-a-paso-operadores-y-proximos-pagos-2026/",
+  "fecha": "2026-11-07T11:21:17-05:00",
+  "palabras": "",
+  "lead": "Se trata de la transferencia en modalidad de giro. Le contamos lo informado por el Departamento de Prosperidad Social.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Golpe contra la minería ilegal en inmediaciones del páramo de Santurbán en Santander",
+  "enlace": "https://caracol.com.co/2026/11/07/golpe-contra-la-mineria-ilegal-en-inmediaciones-del-paramo-de-santurban-en-santander/",
+  "fecha": "2026-11-07T11:20:24-05:00",
+  "palabras": "",
+  "lead": "La actividad ilícita generaría más de 1.200 millones de pesos mensuales y habría contaminado la quebrada La Baja y el río Suratá, fuentes de abastecimiento del acueducto de Bucaramanga",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Movilidad y tráfico en Bogotá hoy sábado 7 de noviembre, último reporte: Hay estaciones de Transmilenio cerradas",
+  "enlace": "https://www.lafm.com.co/actualidad/movilidad-trafico-bogota-sabado-7-noviembre-estaciones-transmilenio-cierre-416453",
+  "fecha": "2026-11-07T11:56:00-05:00",
+  "palabras": "Actualidad,pico y placa en Bogotá,TransMilenio,Metro de Bogotá,Cierres viales,obras en vías,Secretaría de Movilidad,Pico y placa,Cierre de La Línea,Transporte público",
+  "lead": "Transmilenio hizo varios anuncios sobre el estado de varias estaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mantenimiento pista aeropuerto internacional José María",
+  "enlace": "https://www.lafm.com.co/sociedad/aeropuerto-jose-maria-cordova-tendra-19-cierres-nocturnos-de-pista-en-noviembre-416452",
+  "fecha": "2026-11-07T11:29:00-05:00",
+  "palabras": "Sociedad,aviación,aeropuerto,Medellín, Colombia,Antioquia",
+  "lead": "Aeropuerto José María Córdova tendrá 19 cierres nocturnos de pista en noviembre: estas son las fechas y los horarios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La IA no logra crear vacunas efectivas contra enfermedades",
+  "enlace": "https://www.lafm.com.co/internacional/ia-no-es-capaz-de-crear-vacunas-contra-enfermedades-416451",
+  "fecha": "2026-11-07T10:52:00-05:00",
+  "palabras": "Internacional,Inteligencia artificial,Ciencia,Vacuna,enfermedades,Científicos",
+  "lead": "Un experimento determinó que la tecnología aún no permite establecer curas efectivas por sí sola.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
