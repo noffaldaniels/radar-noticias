@@ -260,6 +260,94 @@
   "palabras": "",
   "lead": "El estudio de factibilidad de 2019 del Tren del Río, un transporte férreo por el que la Asamblea de Antioquia ya aprobó vigencias futuras por un monto de $1,69 billones, concluye que el tramo dentro del Valle de Aburrá, por sí solo, movilizaría apenas el 3,8 % de la carga posible, según los documentos que obtuvo Caracol Radio.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Diputado revela motivos de destitución de Santiago Peña: \"Se basó en un problema de credibilidad\"",
+  "enlace": "https://www.bluradio.com/mundo/diputado-revela-motivos-de-destitucion-de-santiago-pena-se-baso-en-un-problema-de-credibilidad-so35",
+  "fecha": "2026-11-07T07:17:05-05:00",
+  "palabras": "Paraguay",
+  "lead": "Rodrigo Gamarra aseguró que el colapso de un banco desencadenó la crisis política y explicó qué pasará con los ahorradores y el expresidente.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atlético Mineiro descarta vuelos chárter a Barranquilla por sus altos costos",
+  "enlace": "https://caracol.com.co/2026/11/07/atletico-mineiro-descarta-vuelos-charter-a-barranquilla-por-sus-altos-costos/",
+  "fecha": "2026-11-07T07:57:25-05:00",
+  "palabras": "",
+  "lead": "El club brasileño aseguró que las cotizaciones para fletar aeronaves alcanzaron los 900.000 dólares. En su lugar, invertirá cerca de 500.000 reales para garantizar la presencia de integrantes de sus barras organizadas en la final de la Copa Sudamericana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Indepaz cataloga como masacre el asesinato de una madre y sus dos hijas en el Valle",
+  "enlace": "https://caracol.com.co/2026/11/07/indepaz-cataloga-como-masacre-el-asesinato-de-una-madre-y-sus-dos-hijas-en-el-valle/",
+  "fecha": "2026-11-07T07:52:07-05:00",
+  "palabras": "",
+  "lead": "El triple homicidio ocurrió en zona rural de Toro. Es la masacre número 104 registrada en Colombia durante 2026",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Personeros preocupados por los niveles de violencia que alcanza el conflicto en la región",
+  "enlace": "https://caracol.com.co/2026/11/07/personeros-preocupados-por-los-niveles-de-violencia-que-alcanza-el-conflicto-en-la-region/",
+  "fecha": "2026-11-07T07:50:52-05:00",
+  "palabras": "",
+  "lead": "La situación más compleja se registra en el Catatumbo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Otro comerciante asesinado en el AMC",
+  "enlace": "https://caracol.com.co/2026/11/07/otro-comerciante-asesinado-en-el-amc/",
+  "fecha": "2026-11-07T07:27:26-05:00",
+  "palabras": "",
+  "lead": "Sicarios llegaron hasta el establecimiento comercial donde laboraba",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cucuteños preocupados por aumento de la violencia",
+  "enlace": "https://caracol.com.co/2026/11/07/cucutenos-preocupados-por-aumento-de-la-violencia/",
+  "fecha": "2026-11-07T07:35:05-05:00",
+  "palabras": "",
+  "lead": "Anuncios de seguridad no reflejan lo que pasa en las calles",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Federación comprará a caficultores el café sin procesar",
+  "enlace": "https://www.lafm.com.co/economia/federacion-nacional-cafeteros-nuevo-modelo-negocio-416430",
+  "fecha": "2026-11-07T08:06:00-05:00",
+  "palabras": "Economía,Federación Nacional de Cafeteros,café colombiano,Caficultores,Exportaciones",
+  "lead": "La Federación Nacional de Cafeteros lanzó tres nuevas variedades de café y una semilla para sembrar arábica entre 850 y 1.200 metros sobre el nivel del mar...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Llamado a la Alcaldía de Caló por atención del terremoto",
+  "enlace": "https://www.lafm.com.co/sociedad/terremoto-colombia-procuraduria-hizo-requerimiento-preventivo-alcaldia-de-cali-atencion-damnificados-416429",
+  "fecha": "2026-11-07T06:52:00-05:00",
+  "palabras": "Sociedad,Terremoto en Colombia,Alcaldía de Cali,Alejandro Eder",
+  "lead": "La Procuraduría General de la Nación le hizo un requerimiento preventivo a la Alcaldía de Cali por la atención durante el terremoto.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
