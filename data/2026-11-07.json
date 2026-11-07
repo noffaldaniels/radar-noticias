@@ -689,7 +689,7 @@
   "palabras": "Santander, Noticias de hoy, Blu Radio, Feminicidio",
   "lead": "Las pruebas de la Fiscalía acreditaron que José Luis Ortiz Santos sometió a la víctima a violencia y aislamiento antes de envenenarla con químicos en los alimentos el 10 de enero de 2020.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "Noticias de hoy, Alcaldía de Medellín, EPM, Racionamiento de agua",
   "lead": "En el embalse Piedras Blancas, que suele ser el punto más crítico, se 56 litros de agua por hogar en las últimas horas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "Nequi, Aplicaciones móviles",
   "lead": "La opción permite crear hasta 10 bolsillos con plazos y rendimientos definidos desde el momento de abrirlos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Abelardo De La Espriella, Dapre",
   "lead": "Tras conocerse que tres personas fueron encontradas dentro de la vivienda del director del Dapre, el presidente Abelardo de la Espriella anunció su respaldo al funcionario y pidió investigar las denuncias que ha presentado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Robos, Robo celulares, Concierto",
   "lead": "Se trata de ‘Venus’, una organización delincuencial a cuyos seis integrantes la Fiscalía les imputó cargos por su presunta participación en el hurto de elementos tecnológicos y otros equipos, avaluados en más de 12 millones de pesos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
   "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 7 de noviembre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "El equipo de la colombiana necesita una victoria para llegar a 25 puntos y superar al Barcelona en la clasificación del fútbol femenino español.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "Las autoridades advierten mayor riesgo y demoras en la atención ante el aumento de las emergencias por riñas y quemados con pólvora.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "El derrame de 10.000 galones de ACPM por accidente de tránsito en la línea afectó las fuentes hídricas de Calarcá",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "Durante su discurso hecho en Uruguay, el sumo pontífice envió un mensaje de fe al que es considerado el país más laico de Sudamérica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "En un mensaje de X, el jefe de Estado aseguró que quien se mete con el director del Dapre, “se mete con el presidente de la República”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "Las labores cuentan con la participación de más de 50 unidades de organismos de socorro y fuerzas de seguridad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "Internacional,Paraguay,declaración de quiebra,Conflicto de intereses,Irregularidades en manejo de recursos,Pérdidas millonarias,organizaciones criminales",
   "lead": "La Conmebol también tendría cerca de 15 millones de dólares comprometidos, debido a que Ueno Bank había patrocinado las competiciones continentales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Política,Embajadores,Cargos diplomáticos,Diplomacia,Cancilleria de Colombia,Ministerio de Relaciones Exteriores,Nombramientos,Meritocracia,oficinas consulares,Funcionarios públicos,Posesión del cargo",
   "lead": "El Gobierno escogió a los nuevos jefes de misión entre 25 diplomáticos de carrera.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Internacional,Papa León XIV,Uruguay,Vaticano",
   "lead": "El periodista Nicolás Núñez, de Radio Viva, Canal 2 y Noticias BTV, explicó en entrevista con La FM Fin de Semana cómo se desarrolla la agenda papal.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,6 +854,204 @@
   "palabras": "Sociedad,Museos,Bogotá,Colombia,Turismo",
   "lead": "La ciudad abre las puertas de sus museos para que sus habitantes puedan conocer parte de la cultura urbana.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así influye la experiencia en lo que compramos: En Blu Jeans 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/asi-influye-la-experiencia-en-lo-que-compramos-en-blu-jeans-7-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-07T11:06:35-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Blu Jeans del sábado, 7 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El detalle que puede hacer que un cliente pague más y regrese a un negocio",
+  "enlace": "https://www.bluradio.com/economia/el-detalle-que-puede-hacer-que-un-cliente-pague-mas-y-regrese-a-un-negocio-so35",
+  "fecha": "2026-11-07T11:05:46-05:00",
+  "palabras": "Emprendimiento",
+  "lead": "Emilio Jiménez Ibáñez explicó por qué la experiencia alrededor de un producto o servicio puede influir en cuánto está dispuesto a pagar un consumidor y qué pueden hacer los negocios para diferenciarse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Agencia Nacional de Tierras habilita puntos temporales de atención presencial en 19 ciudades",
+  "enlace": "https://www.bluradio.com/nacion/agencia-nacional-de-tierras-habilita-puntos-temporales-de-atencion-presencial-en-19-ciudades-rg10",
+  "fecha": "2026-11-07T10:49:22-05:00",
+  "palabras": "Agencia Nacional de Tierras",
+  "lead": "La ANT habilitó puntos temporales de atención presencial en 19 ciudades del país, mientras prepara sus nuevas instalaciones. Estas son las sedes temporales y sus horarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trámites, permisos y estudios, las etapas para reconstruir los edificios afectados ne Cali",
+  "enlace": "https://caracol.com.co/2026/11/07/tramites-permisos-y-estudios-las-etapas-para-reconstruir-los-edificios-afectados-ne-cali/",
+  "fecha": "2026-11-07T11:09:11-05:00",
+  "palabras": "",
+  "lead": "El alcalde Alejandro Eder explicó los procedimientos que deben cumplirse antes de iniciar las obras. La reconstrucción de la ciudad podría tomar cuatro años",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aguas de Bogotá abrió convocatoria laboral 2026, ¿qué perfiles buscan? Hay 100 vacantes",
+  "enlace": "https://caracol.com.co/2026/11/07/aguas-de-bogota-abrio-convocatoria-laboral-2026-que-perfiles-buscan-hay-100-vacantes/",
+  "fecha": "2026-11-07T10:49:45-05:00",
+  "palabras": "",
+  "lead": "Las ofertas laborales están disponibles de manera virtual desde el próximo lunes 9 de noviembre de 2026 a las 10:00 a. m.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Millonarios confirma lesión de Sebastián Valencia y pierde otro jugador por acumulación de amarillas",
+  "enlace": "https://caracol.com.co/2026/11/07/millonarios-confirma-lesion-de-sebastian-valencia-y-pierde-otro-jugador-por-acumulacion-de-amarillas/",
+  "fecha": "2026-11-07T10:39:48-05:00",
+  "palabras": "",
+  "lead": "El defensor presenta una lesión de primer grado en el semitendinoso de la pierna derecha.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturado hombre por presuntos actos sexuales con menor de 14 años en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/07/capturado-hombre-por-presuntos-actos-sexuales-con-menor-de-14-anos-en-cartagena/",
+  "fecha": "2026-11-07T10:43:42-05:00",
+  "palabras": "",
+  "lead": "La captura se materializó en vía pública del barrio Nelson Mandela",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "UBANDA presenta “Te hubieras quedado”, una canción que mezcla rock y pop desde Boyacá",
+  "enlace": "https://caracol.com.co/2026/11/07/ubanda-presenta-te-hubieras-quedado-una-cancion-que-mezcla-rock-y-pop-desde-boyaca/",
+  "fecha": "2026-11-07T10:38:23-05:00",
+  "palabras": "",
+  "lead": "La agrupación colombiana estrena un sencillo sobre el amor y las decisiones en una relación, acompañado de un videoclip con estética cinematográfica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayó cargamento de licor ilegal en carreteras de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/07/cayo-cargamento-de-licor-ilegal-en-carreteras-de-bolivar/",
+  "fecha": "2026-11-07T10:35:26-05:00",
+  "palabras": "",
+  "lead": "Las 276 unidades de coctel y whisky quedaron a disposición de la autoridad competente",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expresidente de Paraguay Santiago Peña ingresó a fiscalía para declarar por crisis bancaria",
+  "enlace": "https://caracol.com.co/2026/11/07/expresidente-de-paraguay-santiago-pena-ingreso-a-fiscalia-para-declarar-por-crisis-bancaria/",
+  "fecha": "2026-11-07T10:32:54-05:00",
+  "palabras": "",
+  "lead": "Las autoridades lo investigan por posibles irregularidades, tráfico de influencias y uso de recursos en beneficio propio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Entregan 355 equipos biomédicos a hospitales del sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/07/entregan-355-equipos-biomedicos-a-hospitales-del-sur-de-bolivar/",
+  "fecha": "2026-11-07T10:30:19-05:00",
+  "palabras": "",
+  "lead": "Las poblaciones beneficiadas fueron San Pablo, Río Viejo, Altos del Rosario y Cantagallo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "INVIAS reporta avances viales en Boyacá durante el primer mes de nueva dirección",
+  "enlace": "https://caracol.com.co/2026/11/07/invias-reporta-avances-viales-en-boyaca-durante-el-primer-mes-de-nueva-direccion/",
+  "fecha": "2026-11-07T10:08:00-05:00",
+  "palabras": "",
+  "lead": "El seguimiento a obras estratégicas, la atención de emergencias y el mantenimiento de corredores nacionales hacen parte de la agenda liderada por Héctor Mauricio Sánchez Abril.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barras del Cali y América firmaron acuerdo de paz previo al clásico vallecaucano",
+  "enlace": "https://caracol.com.co/2026/11/07/barras-del-cali-y-america-firmaron-acuerdo-de-paz-previo-al-clasico-vallecaucano/",
+  "fecha": "2026-11-07T10:12:41-05:00",
+  "palabras": "",
+  "lead": "Barón Rojo Sur y Frente Verdiblanco se comprometieron a evitar agresiones y promover la convivencia durante el partido de este sábado en Cali",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La emotiva historia de una docente hallada tras dos años perdida",
+  "enlace": "https://www.lafm.com.co/actualidad/hallan-bogota-docente-desaparecida-mas-dos-anos-asi-la-encontro-su-familia-416446",
+  "fecha": "2026-11-07T10:52:00-05:00",
+  "palabras": "Actualidad,desaparecido,desaparición de personas,Bogotá,Plaza de toros,atención psicológica,Atención a pacientes,Barranquilla",
+  "lead": "Su mamá, Leida Castillo, relató cómo recibió la noticia, de qué manera lograron ubicarla y cuáles son las condiciones en las que se encuentra actualmente s...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tottenham vuelve a caer: Leeds lo derrota y sacude la Premier",
+  "enlace": "https://www.lafm.com.co/deportes/leeds-derrota-tottenham-tabla-de-posiciones-premier-league-416450",
+  "fecha": "2026-11-07T10:23:00-05:00",
+  "palabras": "Deportes,Tottenham,Leeds United,Premier League de Inglaterra,tabla de posiciones,Partidos hoy,resultados",
+  "lead": "Aunque los Spurs tuvieron más posesión (61 %) y completó más pases, Leeds generó las ocasiones más peligrosas.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Crisis de Ueno Bank: liquidación duraría hasta 30 años",
+  "enlace": "https://www.lafm.com.co/internacional/crisis-ueno-bank-liquidacion-del-banco-duraria-hasta-30-anos-416447",
+  "fecha": "2026-11-07T09:59:00-05:00",
+  "palabras": "Internacional,Paraguay,seleccion paraguay,Banco de la República,Economistas",
+  "lead": "La crisis económica en el país guaraní ha desatado el descontento social.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nueva masacre en el Valle del Cauca: tres víctimas en Toro",
+  "enlace": "https://www.lafm.com.co/orden-publico/masacres-valle-del-cauca-tres-mujeres-fueron-asesinadas-vivienda-toro-416442",
+  "fecha": "2026-11-07T09:07:00-05:00",
+  "palabras": "Orden Público,Masacre,Valle del Cauca,Investigaciones",
+  "lead": "Hay preocupación en el Valle del Cauca por una nueva masacre ocurrida en el Valle del Cauca. Las autoridades investigan el hecho ocurrido en Toro.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Foscal alerta por deuda y posible cierre de servicios",
+  "enlace": "https://www.lafm.com.co/actualidad/clinica-foscal-en-santander-advierte-posible-cierre-progresivo-de-servicios-por-deuda-cercana-a-los-600-mil-millones-416439",
+  "fecha": "2026-11-07T08:54:00-05:00",
+  "palabras": "Actualidad,Atención a pacientes,situación financiera,Pagos atrasados,nueva eps,Urgencia manifiesta,Problemas económicos,Pérdidas millonarias,Medidas económicas,Ministerio de Salud",
+  "lead": "La institución de salud, ubicada en Floridablanca, señaló que el 90 % de la cartera pendiente corresponde a obligaciones de la Nueva EPS y el Fomag. Ante l...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
