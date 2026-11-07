@@ -205,7 +205,7 @@
   "palabras": "Santander, Viajes, Diciembre",
   "lead": "Este municipio reúne arquitectura en piedra, cascadas, artesanías y recorridos magícos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Bogotá, París, Subastas",
   "lead": "Una histórica imagen de la capital colombiana será protagonista de una prestigiosa subasta internacional que reúne cientos de fotografías de los siglos XIX y XX.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Alcaldía de Medellín, Noticias de hoy, Sistema de salud, Superintendencia de Salud",
   "lead": "Ante esta situación en la capital de Antioquia, las autoridades advirtieron que los pacientes podrían experimentar demoras en la atención debido a la saturación de los centros asistenciales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "Gestores de paz, Gustavo Petro, Medellín, Noticias de hoy",
   "lead": "Advierten que el mismo beneficio estarían buscando ‘Lindolfo’, ‘Carlos Pesebre’ y ‘Douglas’, quienes también acompañaron al expresidente Gustavo Petro en el polémico ‘tarimazo’ de La Alpujarra.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,6 +249,17 @@
   "palabras": "",
   "lead": "Luis Amaranto Perea destacó su regreso y explicó las claves de la victoria 3-0 frente a Fortaleza.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia aprobó $1,69 billones para un tren que casi no movería carga",
+  "enlace": "https://caracol.com.co/2026/11/07/antioquia-aprobo-169-billones-para-un-tren-que-casi-no-moveria-carga/",
+  "fecha": "2026-11-07T07:00:00-05:00",
+  "palabras": "",
+  "lead": "El estudio de factibilidad de 2019 del Tren del Río, un transporte férreo por el que la Asamblea de Antioquia ya aprobó vigencias futuras por un monto de $1,69 billones, concluye que el tramo dentro del Valle de Aburrá, por sí solo, movilizaría apenas el 3,8 % de la carga posible, según los documentos que obtuvo Caracol Radio.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
