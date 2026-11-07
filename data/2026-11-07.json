@@ -1459,7 +1459,7 @@
   "palabras": "Fiscalía General de la Nación, Policía Nacional, Medellín, Emergencias por lluvias",
   "lead": "Organismos de socorro rescataron los cadáveres en cauces de la ciudad, uno de los cuales presentaba un avanzado estado de descomposición.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "Noticias de hoy, Santander, Emergencias por lluvias, Gobernación de Santander, Bucaramanga",
   "lead": "En la salida a Matanza, sector Bosconia, un desprendimiento de rocas pone en riesgo a los conductores. Las lluvias y la tormenta eléctrica inundaron barrios en Bucaramanga, Floridablanca y Piedecuesta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "Loterías, Chances y Loterías, Viral, Estados Unidos",
   "lead": "Un estudiante de Carolina del Norte tuvo un inesperado giro de suerte después de que la impresora en una gasolinera fallara.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "Chances y Loterías, Resultados del chance, Sinuano día, Resultados Sinuano Día, Resultados del chance , Resultados hoy , Resultados hoy Sinuano Día, Sinuano Día",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, sábado 7 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "Caribeña día, Chances y Loterías, Resultados del chance, Caribeña Día, Ganador hoy Caribeña Día, Resultados Caribeña Día, Resultados del chance, Resultados hoy",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy 7 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "Impuesto Predial, Vivienda",
   "lead": "Una modificación en las áreas del inmueble o en su uso puede cambiar los límites legales que protegen al propietario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La pasión por el mundo de los vehículos en Autos y Motos del 7 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "Bolívar, Ataque terrorista, Ejército Nacional",
   "lead": "El hecho representa una grave vulneración del Derecho Internacional Humanitario y los Derechos Humanos. Las autoridades esperan establecer las circunstancias de esta acción violenta.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "IVA, Centro Democrático, Ecopetrol",
   "lead": "El Centro Democrático presentó una propuesta alterna a la reforma de ajuste fiscal del Gobierno, en la que pide un Estado más pequeño y una tributación “disruptiva”, que incluye eliminación de algunos impuestos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Abelardo De La Espriella, Caribe",
   "lead": "El presidente Abelardo De La Espriella dió a conocer la Operación Ópalo, un trabajo en conjunto con las autoridades contra estructuras criminales dedicadas a la extorsión y el secuestro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Museo Nacional",
   "lead": "Más de 80 museos de Bogotá abrirán sus puertas con actividades gratuitas durante una jornada que también conectará a la capital con instituciones culturales de 12 países iberoamericanos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "El emprendimiento familiar nació durante la pandemia y combina la elaboración de accesorios con la formación de mujeres en situación de vulnerabilidad. Sus creaciones han llegado a Colombiamoda y a publicaciones internacionales como Vogue y Marie Claire.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "Cali y el departamento tienen empresas de software, centros de investigación, desarrollos en robótica y biotecnología y un ecosistema de startups en expansión. Líderes en el Festival Valle Inspira advierten que el talento, la productividad y la articulación institucional serán determinantes para competir globalmente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "Se habla de seis muertos y 20 lesionados",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "Las autoridades confirmaron que no se registraron víctimas ni lesionados tras la acción terroristas. Se activó un dispositivo para ubicar a los responsables en el norte del Cauca",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "El llamado tiene lugar luego del ataque con explosivos contra el peaje de Mondomo que puso en riesgo a ocho familias que viven en los alrededores. La administración local solicitó la reubicación de esta población.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "El jefe de la diplomacia dijo que se trata de una directriz del presidente Abelardo de la Espriella para reafirmar la defensa de la democracia, la libertad y la seguridad nacional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "",
   "lead": "El hecho violento ocurrió luego de que la patrulla de policía atendiera un doble homicidio en el centro de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "Este domingo 8 de noviembre de 2026 habrá varios cierres viales y desvíos. Conozca las alternativas que ofrece el Distrito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "La Fiscalía General de la Nación confirmó la captura de cuatro personas, entre ellas, el hijo de la víctima.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "La producción revive uno de los episodios más dolorosos de la historia de Colombia. En A Vivir que son dos días, sus protagonistas hablaron sobre sus personajes, el proceso de investigación y la importancia de mantener viva la memoria de lo ocurrido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "Johan Rojas se quedaría sin minutos en Vasco da Gama por una cláusula económica",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "La Procuraduría General de la Nación oficializó su escala salarial para 2026 con un aumento del 7%. Le contamos las fechas clave y el procedimiento de reclamación para los aspirantes de su concurso de mérito.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "Recuerde que el pico y placa regional cubre ciertas vías del casco urbano de la ciudad. Téngalo en cuenta y evite multas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "La operación militar se desarrolló en la vereda Bajo Villanueva en zona rural de La Macarena en el Meta",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "La Tercera División reiteró que el ataque habría sido perpetrado mediante el uso de drones. Sin afectaciones para los civiles en el peaje de Mondomo, Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "A la organización se le atribuyen al menos 40 hurtos, de los cuales 10 cuentan con denuncia formal",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "El caso es investigado por el Gaula de la Policía, que adelanta las labores para establecer qué ocurrió con ellas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "Orden Público,Ataque aéreo,Ataque a la fuerza publica,ataque explosivo,Actos terroristas,Terrorismo,Fuerzas Militares,Terrorismo internacional,Gobernación de Bolívar,Vigilancia,Bolívar",
   "lead": "Los drones cargados con explosivos impactaron el Cantón Militar de Santa Rosa; las autoridades activan máxima alerta de segurida.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "Internacional,Política internacional,Estados Unidos,israel,Diplomacia,Conflicto diplomático",
   "lead": "Mientras que en EE. UU. los demócratas lograron una victoria contundente del Partido Demócrata, en Israel el resultado fue un empate técnico que deja un fu...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,6 +1789,193 @@
   "palabras": "Política,Centro Democrático,Reforma tributaria,Impuesto de Renta,Beneficios tributarios,medidas fiscales,Medidas económicas,Plan de austeridad,Marco fiscal,Proyecto de ley,Álvaro Uribe",
   "lead": "El partido rechaza el aumento del IVA, pide eliminar y fusionar entidades del Estado.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lanzan campaña \"Medellín sin Pólvora\": buscan disminuir cifra de quemados con pirotecnia de 2025",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/lanzan-campana-medellin-sin-polvora-buscan-disminuir-cifra-de-quemados-con-pirotecnia-de-2025-rg10",
+  "fecha": "2026-11-07T14:23:35-05:00",
+  "palabras": "Quemados con pólvora, Medellín, Noticias de hoy",
+  "lead": "Autoridades recordaron que la temporada 2025 - 2026 dejó 82 lesionados con pirotecnia, entre ellos 29 menores de edad y un 43,9 % de víctimas que no manipulaban los elementos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ejército Nacional halló un depósito con más de 30 kilos de explosivos en Santa Rosa de Osos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/ejercito-nacional-hallo-un-deposito-con-mas-de-30-kilos-de-explosivos-en-santa-rosa-de-osos-rg10",
+  "fecha": "2026-11-07T14:38:48-05:00",
+  "palabras": "Ejército Nacional, Antioquia, Disidencias Farc, Clan del Golfo",
+  "lead": "Los artefactos pertenecían al Frente 36 de las disidencias e iban a ser usados para ataques con la Fuerza Pública.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Tarde, resultado del último sorteo hoy  sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-tarde-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T14:37:22-05:00",
+  "palabras": "Chances y Loterías, Resultados del chance, Dorado Tarde, Dorado Tarde, Ganador Dorado Tarde, Resultados del chance , Resultados del chance Dorado Tarde , Resultados del chance hoy, Resultados hoy Dorado Tarde",
+  "lead": "El chance Dorado Tarde juega de lunes a sábado a las 3:30 p.m. Revise aquí el número ganador hoy noviembre 7 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Sol, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-sol-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T14:37:29-05:00",
+  "palabras": "Chances y Loterías, Resultados del chance, Super Astro Sol, Resultados Super Astro Sol, Resultados del chance , Resultados hoy , Resultados hoy Astro Sol, Resultados hoy Super Astro Sol, Super Astro Sol",
+  "lead": "El sorteo del Super Astro Sol se realiza de lunes a sábado a las 4:00 p. m. Este 7 de noviembre de 2026, los jugadores pueden consultar el número ganador, las cifras premiadas y el signo zodiacal correspondiente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcalde Medellín pidió vigilar a alias ‘Tom’ ante su salida de prisión: “Le irá muy mal si delinque”",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/alcalde-medellin-pidio-vigilar-a-alias-tom-ante-su-salida-de-prision-le-ira-muy-mal-si-delinque-rg10",
+  "fecha": "2026-11-07T15:00:29-05:00",
+  "palabras": "Federico Gutiérrez, Medellín, Noticias de hoy, Fiscalía General de la Nación",
+  "lead": "Alias ‘Tom’, cabecilla de Los Chatas y de La Oficina saldría en las próximas horas de la cárcel La Picota en Bogotá, tras cumplir parte de su condena por concierto para delinquir.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia deberá moderar su discurso para negociar con los demócratas: el nuevo panorama con EE.UU.",
+  "enlace": "https://www.bluradio.com/nacion/colombia-debera-moderar-su-discurso-para-negociar-con-los-democratas-el-nuevo-panorama-con-ee-uu-so35",
+  "fecha": "2026-11-07T14:23:28-05:00",
+  "palabras": "Colombia, Partido Demócrata, Estados Unidos",
+  "lead": "La analista internacional examinó los resultados electorales en Estados Unidos, el futuro del Partido Republicano y la crisis política en Paraguay.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Renault Kwid brilla con una nueva cara en Colombia: diseño atrevido y seguridad a bajo precio",
+  "enlace": "https://www.bluradio.com/motor/renault-kwid-brilla-con-una-nueva-cara-en-colombia-diseno-atrevido-y-seguridad-a-bajo-precio-so35",
+  "fecha": "2026-11-07T14:50:08-05:00",
+  "palabras": "Renault, Colombia",
+  "lead": "El modelo tendrá seis airbags desde su versión de entrada y llegará a las vitrinas el 13 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de posiciones de la Premier League, tras triunfo del Arsenal y derrota del Manchester City",
+  "enlace": "https://caracol.com.co/2026/11/07/tabla-de-posiciones-de-la-premier-league-tras-triunfo-del-arsenal-y-derrota-del-manchest-city/",
+  "fecha": "2026-11-07T14:43:38-05:00",
+  "palabras": "",
+  "lead": "Los Gunners siguen tomando ventaja en la primera posición del campeonato; Manchester United entró a zona de descenso.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuál es el verdadero valor estratégico del Valle del Cauca? Retos y oportunidades",
+  "enlace": "https://caracol.com.co/2026/11/07/cual-es-el-verdadero-valor-estrategico-del-valle-del-cauca-retos-y-oportunidades/",
+  "fecha": "2026-11-07T14:44:44-05:00",
+  "palabras": "",
+  "lead": "Expertos de la región conversaron en el Festival Valle Inspira acerca de lo que hace al departamento un sector determinante para el desarrollo nacional. Fuga de cerebros, un punto álgido de la conversación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Fiscalía de Paraguay pide prisión preventiva contra Santiago Peña por el caso Ueno bank",
+  "enlace": "https://caracol.com.co/2026/11/07/la-fiscalia-de-paraguay-pide-prision-preventiva-contra-santiago-pena-por-el-caso-ueno-bank/",
+  "fecha": "2026-11-07T14:37:26-05:00",
+  "palabras": "",
+  "lead": "El Ministerio Público también pidió prisión preventiva para el expresidente del Banco Central, Carlos Carvallo, quien también fue imputado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cali quiere recuperar su lugar en la industria audiovisual: talento, inversión e historias propias",
+  "enlace": "https://caracol.com.co/2026/11/07/cali-quiere-recuperar-su-lugar-en-la-industria-audiovisual-talento-inversion-e-historias-propias/",
+  "fecha": "2026-11-07T14:34:21-05:00",
+  "palabras": "",
+  "lead": "En el Festival Valle Inspira 2026, productores analizaron las oportunidades que tiene el departamento para atraer grandes rodajes, fortalecer sus productoras y llevar sus historias a las audiencias del mundo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis muertos por tiroteo en el centro histórico de Cracovia",
+  "enlace": "https://www.lafm.com.co/internacional/ataque-terrorista-en-cracovia-polonia-deja-seis-muertos-416473",
+  "fecha": "2026-11-07T14:53:00-05:00",
+  "palabras": "Internacional,Polonia,Actos terroristas,Terrorismo internacional,Europa",
+  "lead": "Es el acto más violento en décadas registrado en la capital polaca.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cédula digital Colombia: cómo tramitarla, precio actualizado",
+  "enlace": "https://www.lafm.com.co/sociedad/cedula-digital-colombia-paso-a-paso-tramitarla-precio-actualizado-requisitos-registraduria-416464",
+  "fecha": "2026-11-07T14:48:00-05:00",
+  "palabras": "Sociedad,cédula,Duplicado de la cédula,Registraduría Nacional del Estado Civil,registraduría,Documento de identidad,Registro Civil,Dólar en Colombia",
+  "lead": "Se contará con una identificación en policarbonato y una versión que se activa directamente en el celular mediante una aplicación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dimayor ya tendría fecha para la última jornada de la Liga",
+  "enlace": "https://www.lafm.com.co/deportes/fecha-liga-definitiva-clasificados-cuadrangulares-416472",
+  "fecha": "2026-11-07T14:44:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Copa BetPlay,Semifinales,Dimayor,América de Cali,Atlético Nacional,Deportivo Cali,Millonarios,Independiente Santa Fe,Diciembre",
+  "lead": "La fase todas contra todos se vio seriamente afectada por cuenta de varias interrupciones en el calendario.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De la Espriella ordena intensificar operaciones tras ataque en el sur de Bolívar",
+  "enlace": "https://www.lafm.com.co/orden-publico/presidente-abelardo-de-la-espriella-ordena-intensificar-operaciones-tras-ataque-drones-sur-de-bolivar-416471",
+  "fecha": "2026-11-07T14:33:00-05:00",
+  "palabras": "Orden Público,Abelardo de la Espriella,Ataque a la fuerza publica,Ataque a uniformados,atentado,ataque explosivo,Terrorismo,Actos terroristas,Operativos militares,Fuerzas Militares,Víctimas",
+  "lead": "El mandatario también anunció medidas contra las estructuras criminales y atención para los soldados heridos y los familiares de quienes murieron en Santa ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El Nottingham de Muñoz da la sorpresa y tumba al Manchester City",
+  "enlace": "https://www.lafm.com.co/deportes/nottingham-forest-golea-manchester-city-mueve-tabla-de-posiciones-premier-league-416470",
+  "fecha": "2026-11-07T14:26:00-05:00",
+  "palabras": "Deportes,Manchester City,derrota,Premier League,Premier League de Inglaterra,tabla de posiciones",
+  "lead": "Nottingham Forest llegó a nueve puntos y se ubicó en la casilla 16 de la Premier League.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sencia responde por apagón en Millonarios vs. América",
+  "enlace": "https://www.lafm.com.co/deportes/apagon-estadio-el-campin-partido-millonarios-vs-america-liga-betplay-416467",
+  "fecha": "2026-11-07T14:01:00-05:00",
+  "palabras": "Deportes,Estadio El Campín,El Campín,Colombia,Bogotá,polémica,América,América de Cali,Millonarios",
+  "lead": "El estadio no sufrió daños y está disponible para cualquier evento.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
