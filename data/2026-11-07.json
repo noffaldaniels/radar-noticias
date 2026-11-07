@@ -480,7 +480,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Noticias de la Mañana del sábado, 7 de noviembre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Tesla, Carros eléctricos, Elon Musk",
   "lead": "Elon Musk anunció que Tesla reducirá la producción del Cybertruck en 2027, mientras busca aumentar la fabricación de su nuevo vehículo autónomo Cybercab.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Bucaramanga, Migración Colombia, Noticias de hoy, Blu Radio",
   "lead": "Los operativos se adelantaron en la capital santandereana en hoteles, residenciales y calles de la ciudad. Este año, la autoridad migratoria ha expulsado a más de 166 extranjeros del país.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Indígenas, Antioquia, Noticias de hoy",
   "lead": "La denuncia señala que los uniformados habrían ingresado sin autorización a una vivienda, causado daños materiales y hurtado dinero y pertenencias. El Ejército anunció investigaciones disciplinarias para esclarecer lo ocurrido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "El fútbol colombiano aparece como la tercera mejor liga de Sudamérica.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "El encuentro tendrá lugar en la sede alterna de la Presidencia de la República.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "La congresista también advirtió que estas denuncias no deben convertirse en una cortina de humo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "La concesión Nuevo Cauca rechazó el hecho. No hubo personas lesionadas, pero sí daños en la infraestructura.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "El club brasileño aseguró que las cotizaciones para fletar aeronaves alcanzaron los 900.000 dólares. En su lugar, invertirá cerca de 500.000 reales para garantizar la presencia de integrantes de sus barras organizadas en la final de la Copa Sudamericana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "En el estadio Centenario se darán cita las estrellas históricas de las selecciones de fútbol de Colombia y Ecuador",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "Con mensajes pedagógicos y jornadas de sensibilización casa a casa, la OAGRD promueve hábitos responsables",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "La madre ha mantenido en reserva la información sobre las condiciones en las que encontró a su hija.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "40 candidatas lucieron todos sus atributos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "La jornada será este 10 y 11 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Ya son 26 artefactos explosivos que han sido neutralizados en el municipio de San Rafael, como parte de las labores de desminado humanitario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "Política,Abelardo de la Espriella,Funcionarios denunciados,Fiscalía General de la Nación,Indagación preliminar,Investigaciones,Homicidios,investigados,Abogados",
   "lead": "El presidente Abelardo De La Espriella garantizó la protección de Carlos Ríos y de su familia, y pidió investigar hasta las últimas consecuencias.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "Sociedad,Polémicos contratos,Irregularidades en contratos,Cámara de Representantes,Corte Suprema de Justicia,Derecho a la intimidad",
   "lead": "Por ahora, los señalamientos siguen bajo verificación y cualquier responsabilidad deberá determinarse por las autoridades judiciales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "Orden Público,Popayán,ataque explosivo,Terrorismo,obras en vías,Antiexplosivos,Contratistas,Vigilancia",
   "lead": "Autoridades atribuyen ataque a un peaje en Mondomo, Cauca a las disidencias de las farc. Se trata del tercer ataque en el año 2026. No hay heridos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -677,6 +677,182 @@
   "fecha": "2026-11-07T08:12:00-05:00",
   "palabras": "Actualidad,desaparición de personas,Desaparecidos,Unidad de Búsqueda de Personas Desaparecidas,Sobreviviente,Barranquilla,Alcaldía de Bogotá,Víctimas",
   "lead": "Encuentran con vida en Bogotá a docente barranquillera desaparecida desde octubre de 2024. Su madre manifestó su alegría por volverla a abrazar.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La invitó a desayunar y la envenenó: hombre fue condenado a 26 años por feminicidio en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/la-invito-a-desayunar-y-la-enveneno-hombre-fue-condenado-a-26-anos-por-feminicidio-en-bucaramanga-rg10",
+  "fecha": "2026-11-07T09:40:48-05:00",
+  "palabras": "Santander, Noticias de hoy, Blu Radio, Feminicidio",
+  "lead": "Las pruebas de la Fiscalía acreditaron que José Luis Ortiz Santos sometió a la víctima a violencia y aislamiento antes de envenenarla con químicos en los alimentos el 10 de enero de 2020.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias en Medellín y ahorro de agua en viviendas elevan a 60 % el cumplimiento de la meta de EPM",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/lluvias-en-medellin-y-ahorro-de-agua-en-viviendas-elevan-a-60-el-cumplimiento-de-la-meta-de-epm-rg10",
+  "fecha": "2026-11-07T09:36:39-05:00",
+  "palabras": "Noticias de hoy, Alcaldía de Medellín, EPM, Racionamiento de agua",
+  "lead": "En el embalse Piedras Blancas, que suele ser el punto más crítico, se 56 litros de agua por hogar en las últimas horas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nequi confirma nueva función: así podrá usarla y recibir más plata",
+  "enlace": "https://www.bluradio.com/economia/nequi-confirma-nueva-funcion-asi-podra-usarla-y-recibir-mas-plata-so35",
+  "fecha": "2026-11-07T09:32:06-05:00",
+  "palabras": "Nequi, Aplicaciones móviles",
+  "lead": "La opción permite crear hasta 10 bolsillos con plazos y rendimientos definidos desde el momento de abrirlos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente De la Espriella respalda al director del Dapre tras denuncia de intimidaciones",
+  "enlace": "https://www.bluradio.com/nacion/presidente-de-la-espriella-respalda-al-director-del-dapre-tras-denuncia-de-intimidaciones-rg10",
+  "fecha": "2026-11-07T09:44:17-05:00",
+  "palabras": "Abelardo De La Espriella, Dapre",
+  "lead": "Tras conocerse que tres personas fueron encontradas dentro de la vivienda del director del Dapre, el presidente Abelardo de la Espriella anunció su respaldo al funcionario y pidió investigar las denuncias que ha presentado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Desmantelan banda que robaba celulares en conciertos y partidos de fútbol",
+  "enlace": "https://www.bluradio.com/nacion/desmantelan-banda-que-robaba-celulares-en-conciertos-y-partidos-de-futbol-rg10",
+  "fecha": "2026-11-07T09:54:50-05:00",
+  "palabras": "Robos, Robo celulares, Concierto",
+  "lead": "Se trata de ‘Venus’, una organización delincuencial a cuyos seis integrantes la Fiscalía les imputó cargos por su presunta participación en el hurto de elementos tecnológicos y otros equipos, avaluados en más de 12 millones de pesos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T10:06:12-05:00",
+  "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
+  "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 7 de noviembre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Linda Caicedo será titular ante Athletic Club: Real Madrid busca el liderato de la Liga F",
+  "enlace": "https://caracol.com.co/2026/11/07/linda-caicedo-sera-titular-ante-athletic-club-real-madrid-busca-el-liderato-de-la-liga-f/",
+  "fecha": "2026-11-07T09:56:41-05:00",
+  "palabras": "",
+  "lead": "El equipo de la colombiana necesita una victoria para llegar a 25 puntos y superar al Barcelona en la clasificación del fútbol femenino español.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Urgencias de Medellín están al 160% de sobreocupación: hay alerta por la temporada navideña",
+  "enlace": "https://caracol.com.co/2026/11/07/urgencias-de-medellin-estan-al-160-de-sobreocupacion-hay-alerta-por-la-temporada-navidena/",
+  "fecha": "2026-11-07T09:55:51-05:00",
+  "palabras": "",
+  "lead": "Las autoridades advierten mayor riesgo y demoras en la atención ante el aumento de las emergencias por riñas y quemados con pólvora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fuerte reclamo del alcalde de Calarcá, Quindío contra empresa Copetran por contaminación de ríos",
+  "enlace": "https://caracol.com.co/2026/11/07/fuerte-reclamo-del-alcalde-de-calarca-quindio-contra-empresa-coopetran-por-contaminacion-de-rios/",
+  "fecha": "2026-11-07T09:47:26-05:00",
+  "palabras": "",
+  "lead": "El derrame de 10.000 galones de ACPM por accidente de tránsito en la línea afectó las fuentes hídricas de Calarcá",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Construir puentes y transmitir la fe”: el mensaje del papa León XIV en Uruguay",
+  "enlace": "https://caracol.com.co/2026/11/07/construir-puentes-y-transmitir-la-fe-el-mensaje-del-papa-leon-xiv-en-uruguay/",
+  "fecha": "2026-11-07T09:45:06-05:00",
+  "palabras": "",
+  "lead": "Durante su discurso hecho en Uruguay, el sumo pontífice envió un mensaje de fe al que es considerado el país más laico de Sudamérica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente De la Espriella anunció medidas de seguridad para Carlos Ríos tras sus denuncias",
+  "enlace": "https://caracol.com.co/2026/11/07/presidente-de-la-espriella-anuncio-medidas-de-seguridad-para-carlos-rios-tras-sus-denuncias/",
+  "fecha": "2026-11-07T09:42:37-05:00",
+  "palabras": "",
+  "lead": "En un mensaje de X, el jefe de Estado aseguró que quien se mete con el director del Dapre, “se mete con el presidente de la República”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Búsqueda de Zoé se extiende hasta el río Magdalena tras tres días de labores",
+  "enlace": "https://caracol.com.co/2026/11/07/busqueda-de-zoe-se-extiende-hasta-el-rio-magdalena-tras-tres-dias-de-labores/",
+  "fecha": "2026-11-07T09:36:54-05:00",
+  "palabras": "",
+  "lead": "Las labores cuentan con la participación de más de 50 unidades de organismos de socorro y fuerzas de seguridad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gustavo Alfaro habría perdido entre 7 y 10 millones de dólares",
+  "enlace": "https://www.lafm.com.co/internacional/gustavo-alfaro-perderia-hasta-10-millones-dolares-crisis-paraguay-416444",
+  "fecha": "2026-11-07T09:12:00-05:00",
+  "palabras": "Internacional,Paraguay,declaración de quiebra,Conflicto de intereses,Irregularidades en manejo de recursos,Pérdidas millonarias,organizaciones criminales",
+  "lead": "La Conmebol también tendría cerca de 15 millones de dólares comprometidos, debido a que Ueno Bank había patrocinado las competiciones continentales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella designa seis embajadores de carrera",
+  "enlace": "https://www.lafm.com.co/politica/presidente-de-la-espriella-designa-seis-embajadores-de-carrera-y-ratifica-a-otros-cuatro-416443",
+  "fecha": "2026-11-07T09:07:00-05:00",
+  "palabras": "Política,Embajadores,Cargos diplomáticos,Diplomacia,Cancilleria de Colombia,Ministerio de Relaciones Exteriores,Nombramientos,Meritocracia,oficinas consulares,Funcionarios públicos,Posesión del cargo",
+  "lead": "El Gobierno escogió a los nuevos jefes de misión entre 25 diplomáticos de carrera.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué hará el papa León XIV en Uruguay? Esta es su agenda",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-xiv-visita-uruguay-agenda-papal-mensaje-solidaridad-fe-416441",
+  "fecha": "2026-11-07T09:04:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Uruguay,Vaticano",
+  "lead": "El periodista Nicolás Núñez, de Radio Viva, Canal 2 y Noticias BTV, explicó en entrevista con La FM Fin de Semana cómo se desarrolla la agenda papal.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Noche de los museos 2026 en Bogotá: 7 opciones poco conocidas",
+  "enlace": "https://www.lafm.com.co/sociedad/noche-de-los-museos-2026-bogota-7-opciones-poco-conocidas-416440",
+  "fecha": "2026-11-07T09:00:00-05:00",
+  "palabras": "Sociedad,Museos,Bogotá,Colombia,Turismo",
+  "lead": "La ciudad abre las puertas de sus museos para que sus habitantes puedan conocer parte de la cultura urbana.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
