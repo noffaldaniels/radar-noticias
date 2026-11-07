@@ -359,7 +359,7 @@
   "palabras": "Noticias de hoy, Abelardo De La Espriella, Barranquilla, Congreso de la República, Reforma tributaria",
   "lead": "Varios miembros de las comisiones económicas del legislativo presentarán sus objeciones y alternativas a la reforma de ajuste fiscal presentada por el Gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "Viral, Don Omar, Concierto",
   "lead": "La inscripción es gratuita y permite acceder a una fila prioritaria cuando comience la venta de entradas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "atentado terrorista, Vía panamericana, Cali, Popayán",
   "lead": "El ataque, fue perpetrado con un dron, dejó daños leves en la infraestructura, y cierre del corredor durante varias horas, mientras autoridades atendían el incidente.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "Piden a las autoridades de los dos países definir una ruta de política migratoria",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "En el ranking, la capital del Atlántico aparece por detrás de Medellín, que obtuvo 74,8 puntos, y Bogotá, con 73,4.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "Tras su destitución por juicio político, el expresidente paraguayo Santiago Peña fue puesto bajo arresto domiciliario junto al exdirector del Banco Central.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "El Museo Nacional de Colombia es el más antiguo de todo el país. Fue fundado en 1824. Conozca todos los detalles para conocerlo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "Autoridades responsabilizan al Eln del complejo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "El artista anunció oficialmente su regreso a Colombia a través de un live en medio de su concierto en Los Ángeles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "Reconocieron los errores que condicionaron el resultado y hablaron del reto de pasar la página para afrontar la semifinal de Copa Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,6 +469,215 @@
   "palabras": "Sociedad,ANI,infraestructura,aeropuerto,Colombia,Invias,Bogotá,Barranquilla,Abelardo de la Espriella,Cartagena,Palmira",
   "lead": "La Agencia Nacional de Infraestructura trazó una hoja de ruta que combina la modernización de terminales aéreas y la solución de 44 tribunales de arbitrame...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paraguay quiere recuperar confianza tras crisis política: Noticias de la Mañana, 7 de noviembre 2026",
+  "enlace": "https://www.bluradio.com/noticias-de-la-manana/paraguay-quiere-recuperar-confianza-tras-crisis-politica-noticias-de-la-manana-7-de-noviembre-2026-pr30",
+  "fecha": "2026-11-07T08:34:50-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "En Noticias de la Mañana del sábado, 7 de noviembre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Adiós al Cybertruck? Tesla toma drástica decisión por bajas ventas y prioriza el Cybercab",
+  "enlace": "https://www.bluradio.com/motor/adios-al-cybertruck-tesla-toma-drastica-decision-por-bajas-ventas-y-prioriza-el-cybercab-so35",
+  "fecha": "2026-11-07T08:59:13-05:00",
+  "palabras": "Tesla, Carros eléctricos, Elon Musk",
+  "lead": "Elon Musk anunció que Tesla reducirá la producción del Cybertruck en 2027, mientras busca aumentar la fabricación de su nuevo vehículo autónomo Cybercab.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Migración Colombia expulsó a 13 venezolanos con más de 320 anotaciones policivas en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/migracion-colombia-expulso-a-13-venezolanos-con-mas-de-320-anotaciones-policivas-en-bucaramanga-rg10",
+  "fecha": "2026-11-07T08:42:55-05:00",
+  "palabras": "Bucaramanga, Migración Colombia, Noticias de hoy, Blu Radio",
+  "lead": "Los operativos se adelantaron en la capital santandereana en hoteles, residenciales y calles de la ciudad. Este año, la autoridad migratoria ha expulsado a más de 166 extranjeros del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comunidad indígena Nutabe denunció presuntos daños en su territorio por parte de soldados en Ituango",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/comunidad-indigena-nutabe-denuncio-presuntos-danos-en-su-territorio-por-parte-de-soldados-en-ituango-rg10",
+  "fecha": "2026-11-07T08:55:10-05:00",
+  "palabras": "Indígenas, Antioquia, Noticias de hoy",
+  "lead": "La denuncia señala que los uniformados habrían ingresado sin autorización a una vivienda, causado daños materiales y hurtado dinero y pertenencias. El Ejército anunció investigaciones disciplinarias para esclarecer lo ocurrido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Liga colombiana, entre las 20 mejores del mundo: ¿Qué ligas están por encima?",
+  "enlace": "https://caracol.com.co/2026/11/07/liga-colombiana-entre-las-20-mejores-del-mundo-que-ligas-estan-por-encima/",
+  "fecha": "2026-11-07T09:10:58-05:00",
+  "palabras": "",
+  "lead": "El fútbol colombiano aparece como la tercera mejor liga de Sudamérica.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno y congresistas discutirán ajuste fiscal y reforma tributaria en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/07/gobierno-y-congresistas-discutiran-ajuste-fiscal-y-reforma-tributaria-en-barranquilla/",
+  "fecha": "2026-11-07T09:10:36-05:00",
+  "palabras": "",
+  "lead": "El encuentro tendrá lugar en la sede alterna de la Presidencia de la República.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Senadora Laura Ahumada pide garantías para Deicy Jiménez y que autoridades determinen si hubo delito",
+  "enlace": "https://caracol.com.co/2026/11/07/senadora-laura-ahumada-pide-garantias-para-deicy-jimenez-y-que-autoridades-determinen-si-hubo-delito/",
+  "fecha": "2026-11-07T09:10:07-05:00",
+  "palabras": "",
+  "lead": "La congresista también advirtió que estas denuncias no deben convertirse en una cortina de humo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevo atentado en el peaje de Mondomo, en Santander de Quilichao, sobre la vía Panamericana",
+  "enlace": "https://caracol.com.co/2026/11/07/nuevo-atentado-en-el-peaje-de-mondomo-en-santander-de-quilichao-sobre-la-via-panamericana/",
+  "fecha": "2026-11-07T08:52:29-05:00",
+  "palabras": "",
+  "lead": "La concesión Nuevo Cauca rechazó el hecho. No hubo personas lesionadas, pero sí daños en la infraestructura.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atlético Mineiro descarta vuelos chárter a Barranquilla para sus hinchas por los altos costos",
+  "enlace": "https://caracol.com.co/2026/11/07/atletico-mineiro-descarta-vuelos-charter-a-barranquilla-para-sus-hinchas-por-los-altos-costos/",
+  "fecha": "2026-11-07T07:57:25-05:00",
+  "palabras": "",
+  "lead": "El club brasileño aseguró que las cotizaciones para fletar aeronaves alcanzaron los 900.000 dólares. En su lugar, invertirá cerca de 500.000 reales para garantizar la presencia de integrantes de sus barras organizadas en la final de la Copa Sudamericana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mario Alberto Yepes y el partido Levantamos a Colombia 2.0 en Armenia por la reconstrucción",
+  "enlace": "https://caracol.com.co/2026/11/07/mario-alberto-yepes-y-el-partido-levantamos-a-colombia-20-en-armenia-por-la-reconstruccion/",
+  "fecha": "2026-11-07T08:44:22-05:00",
+  "palabras": "",
+  "lead": "En el estadio Centenario se darán cita las estrellas históricas de las selecciones de fútbol de Colombia y Ecuador",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía lanza campaña ciudadana tras retirar más de 3.800 toneladas de residuos en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/07/alcaldia-lanza-campana-ciudadana-tras-retirar-mas-de-3800-toneladas-de-residuos-en-cartagena/",
+  "fecha": "2026-11-07T08:44:23-05:00",
+  "palabras": "",
+  "lead": "Con mensajes pedagógicos y jornadas de sensibilización casa a casa, la OAGRD promueve hábitos responsables",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Después de dos años de búsqueda, encuentran en Bogotá a profesora desaparecida en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/07/despues-de-dos-anos-de-busqueda-encuentran-en-bogota-a-profesora-desaparecida-en-barranquilla/",
+  "fecha": "2026-11-07T08:40:05-05:00",
+  "palabras": "",
+  "lead": "La madre ha mantenido en reserva la información sobre las condiciones en las que encontró a su hija.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desfile en Traje de Baño del Reinado Popular 2026 en Plaza de la Aduana",
+  "enlace": "https://caracol.com.co/2026/11/07/desfile-en-traje-de-bano-del-reinado-popular-2026-en-plaza-de-la-aduana/",
+  "fecha": "2026-11-07T08:39:48-05:00",
+  "palabras": "",
+  "lead": "40 candidatas lucieron todos sus atributos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santander será sede de la primera Cumbre Nacional de Gestión Social con más de 20 primeras damas",
+  "enlace": "https://caracol.com.co/2026/11/07/santander-sera-sede-de-la-primera-cumbre-nacional-de-gestion-social-con-mas-de-20-primeras-damas/",
+  "fecha": "2026-11-07T08:31:25-05:00",
+  "palabras": "",
+  "lead": "La jornada será este 10 y 11 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército destruyó mina antipersonal en San Rafael, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/07/ejercito-destruyo-mina-antipersonal-en-san-rafael-antioquia/",
+  "fecha": "2026-11-07T08:29:16-05:00",
+  "palabras": "",
+  "lead": "Ya son 26 artefactos explosivos que han sido neutralizados en el municipio de San Rafael, como parte de las labores de desminado humanitario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De la Espriella rechaza intimidaciones a Carlos Ríos",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-respaldo-director-dapre-carlos-rios-416438",
+  "fecha": "2026-11-07T08:27:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Funcionarios denunciados,Fiscalía General de la Nación,Indagación preliminar,Investigaciones,Homicidios,investigados,Abogados",
+  "lead": "El presidente Abelardo De La Espriella garantizó la protección de Carlos Ríos y de su familia, y pidió investigar hasta las últimas consecuencias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué puede pasar con Petro? Exmagistrado explica los escenarios ante la justicia",
+  "enlace": "https://www.lafm.com.co/sociedad/caso-petro-claves-juridicas-delitos-fuero-presidencial-exmagistrado-416437",
+  "fecha": "2026-11-07T08:26:00-05:00",
+  "palabras": "Sociedad,Polémicos contratos,Irregularidades en contratos,Cámara de Representantes,Corte Suprema de Justicia,Derecho a la intimidad",
+  "lead": "Por ahora, los señalamientos siguen bajo verificación y cualquier responsabilidad deberá determinarse por las autoridades judiciales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Daños materiales deja el ataque con un explosivo a peaje",
+  "enlace": "https://www.lafm.com.co/orden-publico/peaje-mondomo-ataque-explosivo-santander-quilichao-cauca-416435",
+  "fecha": "2026-11-07T08:24:00-05:00",
+  "palabras": "Orden Público,Popayán,ataque explosivo,Terrorismo,obras en vías,Antiexplosivos,Contratistas,Vigilancia",
+  "lead": "Autoridades atribuyen ataque a un peaje en Mondomo, Cauca a las disidencias de las farc. Se trata del tercer ataque en el año 2026. No hay heridos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hallan con vida en Bogotá a docente desaparecida desde 2024",
+  "enlace": "https://www.lafm.com.co/actualidad/arleth-carolina-alvarez-castillo-encontrada-viva-barranquilla-416433",
+  "fecha": "2026-11-07T08:12:00-05:00",
+  "palabras": "Actualidad,desaparición de personas,Desaparecidos,Unidad de Búsqueda de Personas Desaparecidas,Sobreviviente,Barranquilla,Alcaldía de Bogotá,Víctimas",
+  "lead": "Encuentran con vida en Bogotá a docente barranquillera desaparecida desde octubre de 2024. Su madre manifestó su alegría por volverla a abrazar.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
