@@ -1987,7 +1987,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional",
   "lead": "El grupo generaba ganancias ilegales cercanas a los cinco millones de pesos semanales. Ocho personas fueron vinculadas a la investigación una de ellas ya pagaba cárcel.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Policía Nacional, Migración Colombia",
   "lead": "El hombre, de 26 años, volvió a ser capturado en Suratá por incumplir una resolución migratoria. La Policía confirmó que había sido detenido cinco veces durante 2026 y acumulaba 11 comparendos por riñas y agresiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Emergencias por lluvias, Santander, Gobernación de Santander",
   "lead": "Las precipitaciones mantienen en alerta al departamento. Hay inundaciones, caída de rocas y dificultades de movilidad en Bucaramanga, Floridablanca y Girón, además de afectaciones en corredores viales de Santander.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "Los hechos que son noticia en Colombia y el mundo en El Radar del 7 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "WhatsApp, Redes sociales",
   "lead": "WhatsApp permite revisar dispositivos vinculados, detectar sesiones desconocidas y cerrar accesos desde Android y iPhone para proteger tus conversaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "En el suceso varias personas perdieron la vida y otras más están lesionadas",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "Durante su administración se han realizado 377 acciones conjuntas con participación de la Brigada 13.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "",
   "lead": "Un polaco nacido en 2002 fue el responsable de los hechos, quien irrumpió con un carro en la plaza y empezó a disparar “al azar”.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "",
   "lead": "El mandatario envió un mensaje de solidaridad a las familias de los militares que resultaron muertos y heridos en los hechos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "",
   "lead": "El estadio Palogrande de Manizales recibe un duelo clave para la clasificación a los cuadrangulares finales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "",
   "lead": "El atentado se produjo con drones en un cantón militar",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "",
   "lead": "El mandatario le realizó la propuesta al empresario Dana White a través de su plataforma Truth Social.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "Internacional,Paraguay,Fiscalía General de la Nación,presidente de la República,Cárcel",
   "lead": "El exmandatario buscaba dimitir a su cargo para evitar la destitución del Congreso.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,7 +2130,7 @@
   "palabras": "Política,Abelardo de la Espriella,Operación,Extorsión,Secuestros,Clan del Golfo,organizaciones criminales,Delincuentes capturados,Persecución,Sicarios",
   "lead": "La Operación Ópalo dejó capturas en nueve departamentos y cuatro ciudades del país.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2141,6 +2141,215 @@
   "palabras": "Orden Público,ELN,Incautación de explosivos,Antiexplosivos,Ejército Nacional,ataque a fuerza pública,Norte de Santander,Actos terroristas,desminado",
   "lead": "El Ejército destruyó dispositivos explosivos atribuidos al ELN en zona rural de Convención, Norte de Santander, en operaciones adelantadas durante los últi...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video captó el momento en que un carro destruyó una tienda de ropa durante un en vivo",
+  "enlace": "https://www.bluradio.com/mundo/video-capto-el-momento-en-que-un-carro-destruyo-una-tienda-de-ropa-durante-un-en-vivo-rs15",
+  "fecha": "2026-11-07T16:15:51-05:00",
+  "palabras": "Viral, Redes sociales, Video",
+  "lead": "Una de las mujeres que se encontraba en la transmisión en vivo resultó herida tras el brutal golpe.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T16:56:04-05:00",
+  "palabras": "Paisita Noche, Chances y Loterías, Resultados del chance, Ganador Paisita Noche, Paisita Noche, Resultados Paisita Noche, Resultados del chance , Resultados hoy",
+  "lead": "El chance Paisita Noche realiza sorteos todos los días, después de las 6:00 p. m. Este sábado 7 de noviembre de 2026 los jugadores pueden consultar el resultado oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente de Israel encarga a opositor de formar gobierno y se acerca el fin de la era Netanyahu",
+  "enlace": "https://www.bluradio.com/mundo/presidente-de-israel-encarga-a-opositor-de-formar-gobierno-y-se-acerca-el-fin-de-la-era-netanyahu-cb20",
+  "fecha": "2026-11-07T16:18:03-05:00",
+  "palabras": "Israel",
+  "lead": "Las opciones son hacer alianzas con los partidos islamistas Raam y el laico Lista Conjunta, o con los dos partidos ultraortodoxos de Israel.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Don Omar le gana a Daddy Yankee y se queda con el trono del reguetón en Colombia, según estudio",
+  "enlace": "https://www.bluradio.com/entretenimiento/don-omar-le-gana-a-daddy-yankee-y-se-queda-con-el-trono-del-regueton-en-colombia-segun-estudio-rg10",
+  "fecha": "2026-11-07T16:34:12-05:00",
+  "palabras": "Daddy Yankee, Don Omar",
+  "lead": "Los resultados se conocen luego de que Don Omar anunciara que la preventa de boletería para su gira por Latinoamérica comenzará el próximo 19 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Al menos seis muertos y 15 heridos en un tiroteo en la ciudad polaca de Cracovia",
+  "enlace": "https://www.bluradio.com/mundo/al-menos-seis-muertos-y-15-heridos-en-un-tiroteo-en-la-ciudad-polaca-de-cracovia-cb20",
+  "fecha": "2026-11-07T16:52:10-05:00",
+  "palabras": "",
+  "lead": "La Policía indicó que los agentes abrieron fuego contra el hombre, quien resultó herido y fue trasladado a un hospital. Hasta el momento hay seis fallecidos, cuatro mujeres y dos hombres.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Avianca refuerza sus vuelos desde Argentina para la final de la Sudamericana en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/07/avianca-refuerza-sus-vuelos-desde-argentina-para-la-final-de-la-sudamericana-en-barranquilla/",
+  "fecha": "2026-11-07T17:07:33-05:00",
+  "palabras": "",
+  "lead": "La aerolínea habilitará vuelos directos desde Buenos Aires, incorporará aviones de mayor capacidad y sumará seis frecuencias entre Bogotá y Barranquilla para facilitar la llegada de los hinchas de Boca Juniors y Atlético Mineiro.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de posiciones Grupo B Torneo de Ascenso: Así va tras derrota de Quindío ante Tigres",
+  "enlace": "https://caracol.com.co/2026/11/07/tabla-de-posiciones-grupo-b-torneo-de-ascenso-asi-va-tras-derrota-de-quindio-ante-tigres/",
+  "fecha": "2026-11-07T17:01:52-05:00",
+  "palabras": "",
+  "lead": "El equipo de Armenia perdió su invicto en los cuadrangulares en su visita a Bogotá.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fitch Ratings ratificó a Medellín la máxima calificación crediticia por la solidez de sus finanzas",
+  "enlace": "https://caracol.com.co/2026/11/07/fitch-ratings-ratifico-a-medellin-la-maxima-calificacion-crediticia-por-la-solidez-de-sus-finanzas/",
+  "fecha": "2026-11-07T16:52:42-05:00",
+  "palabras": "",
+  "lead": "Ubican a la ciudad favorablemente frente a Bogotá, Cali y Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Turismo de naturaleza en el Valle del Cauca ¿Qué hace falta para consolidarlo?",
+  "enlace": "https://caracol.com.co/2026/11/07/turismo-de-naturaleza-en-el-valle-del-cauca-que-hace-falta-para-consolidarlo/",
+  "fecha": "2026-11-07T16:42:35-05:00",
+  "palabras": "",
+  "lead": "Cuatro expertos en biodiversidad conversaron en el Festival Valle Inspira sobre cómo conservar y capitalizar de forma sostenible el potencial biológico del departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Visita presidencial a Tunja tendría agenda reservada y un Consejo de Seguridad a puerta cerrada",
+  "enlace": "https://caracol.com.co/2026/11/07/visita-presidencial-a-tunja-tendria-agenda-reservada-y-un-consejo-de-seguridad-a-puerta-cerrada/",
+  "fecha": "2026-11-07T16:31:05-05:00",
+  "palabras": "",
+  "lead": "El mandatario Abelardo de la Espriella se reunirá este lunes con autoridades departamentales, comandantes de la Fuerza Pública y un grupo reducido de alcaldes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴EN VIVO Atlético Nacional vs. Deportivo Pereira: transmisión y minuto a minuto del partido",
+  "enlace": "https://caracol.com.co/2026/11/07/en-vivo-atletico-nacional-vs-deportivo-pereira-transmision-y-minuto-a-minuto-del-partido/",
+  "fecha": "2026-11-07T16:32:33-05:00",
+  "palabras": "",
+  "lead": "El Verdolaga se asegurará un punto invisible para cuadrangulares de conseguir una victoria en casa.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En los últimos tres meses se han registrado cinco atentados contra peajes de la región",
+  "enlace": "https://caracol.com.co/2026/11/07/en-los-ultimos-tres-meses-se-han-registrado-cinco-atentados-contra-peajes-de-la-region/",
+  "fecha": "2026-11-07T16:27:49-05:00",
+  "palabras": "",
+  "lead": "Piden la presencia permanente de la Fuerza Pública en las estaciones de peaje y en los corredores concesionados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá tendrá un centro de producción audiovisual de más de US$30 millones en Cota",
+  "enlace": "https://caracol.com.co/2026/11/07/bogota-tendra-un-centro-de-produccion-audiovisual-de-mas-de-us30-millones-en-cota/",
+  "fecha": "2026-11-07T16:25:25-05:00",
+  "palabras": "",
+  "lead": "El complejo contará inicialmente con dos estudios de grabación de 1.500 metros cuadrados cada uno, además de espacios para vestuario, maquillaje, oficinas de producción y dos naves de apoyo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jhon Bodmer y los motivos por los que no triunfó en Nacional: “Fui terco y no me entendí a mí mismo”",
+  "enlace": "https://caracol.com.co/2026/11/07/jhon-bodmer-y-los-motivos-por-los-que-no-triunfo-en-nacional-fui-terco-y-no-me-entendi-a-mi-mismo-2/",
+  "fecha": "2026-11-07T16:24:15-05:00",
+  "palabras": "",
+  "lead": "El técnico bogotano habló también de Camilo Mena, jugador que hizo debutar hace algunos años en Tigres.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan el homicidio de una mujer de 24 años en Ibagué: dos personas fueron detenidas",
+  "enlace": "https://caracol.com.co/2026/11/07/investigan-el-homicidio-de-una-mujer-de-24-anos-en-ibague-dos-personas-fueron-detenidas/",
+  "fecha": "2026-11-07T16:18:18-05:00",
+  "palabras": "",
+  "lead": "La Policía confirmó que la menor aprehendida y el adulto capturado quedaron a disposición de las autoridades competentes.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jhon Bodmer y los motivos por los que no triunfó en Nacional: “Fui terco y no me entendí a mí mismo”",
+  "enlace": "https://caracol.com.co/2026/11/07/jhon-bodmer-y-los-motivos-por-los-que-no-triunfo-en-nacional-fui-terco-y-no-me-entendi-a-mi-mismo/",
+  "fecha": "2026-11-07T16:20:56-05:00",
+  "palabras": "",
+  "lead": "El técnico bogotano habló también de Camilo Mena, jugador que hizo debutar hace algunos años en Tigres.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "19 personas fueron capturadas en Neiva durante operativos de la última semana",
+  "enlace": "https://caracol.com.co/2026/11/07/19-personas-fueron-capturadas-en-neiva-durante-operativos-de-la-ultima-semana/",
+  "fecha": "2026-11-07T16:12:00-05:00",
+  "palabras": "",
+  "lead": "Las autoridades también incautaron dos armas de fuego y 700 dosis de estupefacientes durante la última semana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Antonelli, campeón de F1, saldrá tercero en el GP de Brasil",
+  "enlace": "https://www.lafm.com.co/deportes/norris-gano-pole-gran-premio-brasil-416479",
+  "fecha": "2026-11-07T16:25:00-05:00",
+  "palabras": "Deportes,Formula 1,McLaren,Lewis Hamilton,Max Verstappen,actualidad",
+  "lead": "La jornada de clasificación se vio seriamente afectada por cuenta de las fuertes lluvias que se vivieron en el circuito de la carrera.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los retos que debe asumir el nuevo presidente de Paraguay",
+  "enlace": "https://www.lafm.com.co/internacional/crisis-politica-en-paraguay-retos-del-nuevo-presidente-416474",
+  "fecha": "2026-11-07T15:03:00-05:00",
+  "palabras": "Internacional,Paraguay,Política internacional,presidente de la República,Latinoamericanos",
+  "lead": "El Congreso aprobó el ascenso de Pedro Alliana, pero su antecesor le deja serias dificultades.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
