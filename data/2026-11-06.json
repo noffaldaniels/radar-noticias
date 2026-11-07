@@ -4594,7 +4594,7 @@
   "palabras": "Secretaría de Movilidad, Multas , Bogotá, Alcaldía Mayor de Bogotá, mal parqueados, mal parqueados en Bogotá, multas, multas de tránsito, multas en Bogotá",
   "lead": "Una vez el alcalde ponga su firma, los ciudadanos podrán enviar la evidencia para que se haga efectiva la multa.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "Viral, Homicidios",
   "lead": "Su familia creía que lo que ocurría estaba relacionado con brujería debido a los cambios repentinos que tuvo este hombre antes y después de cometer el crímen.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Clínica Foscal de Bucaramanga, Gobierno nacional",
   "lead": "La institución aseguró que el 90 % de la cartera pendiente corresponde a obligaciones de Nueva EPS y el FOMAG.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Los dos hombres fueron capturados en la operación Iron 2.0 y estarán en la cárcel mientras avanza el proceso",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "Paraguay",
   "lead": "El exmandatario fue atrapado en su casa tras la orden emitida por la Fiscalía, en medio de la crisis política desatada por el cierre de Ueno bank.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "Barranquilla, Carros, Viral",
   "lead": "El hecho ocurrió en el sector de Alameda del Río, donde un vehículo terminó impactando directamente contra la tienda de descuento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "Selección Colombia, Selección Chile",
   "lead": "Néstor Lorenzo tendrá dos partidos consecutivos contra la selección chilena en donde seguirá probando nuevas caras y encontrando el equipo ideal para el camino al Mundial 2030.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "",
   "lead": "Figuras comunitarias, la academia y del desarrollo regional conversaron en el Festival Valle Inspira sobre los avances de Cali y el departamento en materia social, desde el trabajo conjunto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "",
   "lead": "El fútbol nacional e internacional tendrá una semana cargada de actividad, con la disputa de la fecha 18 de la Liga Colombiana, las principales competiciones europeas y un nuevo amistoso de la Tricolor.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "",
   "lead": "Líderes en el Festival Valle Inspira conversaron sobre el proceso productivo que reúne a comunidades campesinas, indígenas, sector privado y Estado. El dialogó, dijeron, llevó al gremio a duplicar la producción por árbol y abrir nuevas oportunidades comerciales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "",
   "lead": "La institución de salud pidió intervención del Gobierno Nacional. Asegura que la falta de pagos compromete el pago de nóminas, proveedores y la continuidad de tratamientos para miles de pacientes. Nueva EPS y Fomag los que más deben.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4715,7 +4715,7 @@
   "palabras": "",
   "lead": "La institución fue reconocida por Alpza tras 60 años de trayectoria. El sello destaca su trabajo en conservación, bienestar animal, investigación y educación ambiental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4726,7 +4726,7 @@
   "palabras": "",
   "lead": "El 6 de noviembre de 2026 el autor Fernando Cárdenas presentará su cómic periodístico en la XII edición de la Feria del Libro de Pereira.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "",
   "lead": "Durante los combates murieron en desarrollo de operaciones militares tres integrantes de esta organización.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "",
   "lead": "En el Festival Valle Inspira 2026 representantes del sector privado y organizaciones sociales expusieron sus estrategias ejecutadas hasta ahora para atender a las comunidades afectadas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "",
   "lead": "Las intervenciones buscan mejorar las condiciones del servicio de energía en estas localidades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "",
   "lead": "El equipo vallecaucano venció a Envigado y quedó a un paso de asegurar su clasificación a la final del campeonato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "Internacional,Donald Trump,Estados Unidos,Partidos políticos,Congreso de la República",
   "lead": "El presidente de EE.UU tendrá dos años de negociaciones y debates intensos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "Economía,Contenido patrocinado,finanzas,créditos",
   "lead": "Contenido patrocinado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,7 +4803,7 @@
   "palabras": "Deportes,Contenido patrocinado,Deporte,Fútbol,Directv",
   "lead": "Contenido patrocinado.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4813,6 +4813,446 @@
   "fecha": "2026-11-06T18:02:00-05:00",
   "palabras": "Política,Gustavo Petro,Derecho a la intimidad,Celular,Funcionarios denunciados,Fiscalía General de la Nación",
   "lead": "El expresidente Gustavo Petro está en medio de una polémica tras la denuncia de Deicy Jiménez.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "6 de noviembre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/6-de-noviembre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-11-06T19:16:20-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 6 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Papa León XIV recibió regalo colombiano en avión hacia Uruguay",
+  "enlace": "https://www.bluradio.com/mundo/papa-leon-xiv-recibio-regalo-colombiano-en-el-inicio-de-la-gira-por-latinoamerica-rs15",
+  "fecha": "2026-11-06T19:32:10-05:00",
+  "palabras": "Papa León XIV, Colombia, Iglesia católica, Papa León XIV, obsequio papa, papa, regalo papa",
+  "lead": "Aunque el sumo pontífice no visitará nuestro país, sí envió un mensaje a los feligreses colombianos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En plena alerta por El Niño, habitantes de La Estrella protestaron por obras pendientes de acueducto",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-plena-alerta-por-el-nino-habitantes-de-la-estrella-protestaron-por-obras-pendientes-de-acueducto-rg10",
+  "fecha": "2026-11-06T19:35:43-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "La manifestación se dio por unas obras de acueducto que, seis años después de recibir aprobación presupuestal, todavía no se traducen en una solución definitiva.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Latin Grammy 2026: fecha, dónde ver y cuáles son los colombianos nominados",
+  "enlace": "https://www.bluradio.com/entretenimiento/latin-grammy-2026-fecha-donde-ver-y-cuales-son-los-colombianos-nominados-so35",
+  "fecha": "2026-11-06T19:47:28-05:00",
+  "palabras": "Viral, Latin Grammy",
+  "lead": "Todo listo en Las Vegas para una nueva edición de los Latin Grammy. Conozca cuándo son y cuáles son los colombianos nominados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Manuel Turizo rompe las barreras del género con su nuevo álbum 'Apambichao, Vol. 2'",
+  "enlace": "https://www.bluradio.com/entretenimiento/manuel-turizo-rompe-las-barreras-del-genero-con-su-nuevo-album-apambichao-vol-2-so35",
+  "fecha": "2026-11-06T19:58:26-05:00",
+  "palabras": "Música",
+  "lead": "El artista multiplatino y nominado al Latin Grammy continúa explorando nuevos sonidos sin perder la identidad que lo ha consolidado como una de las figuras destacadas de la música latina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "FIFA reduce sanción contra futbolista de Argentina por incidentes en final del Mundial",
+  "enlace": "https://www.bluradio.com/deportes/futbol/fifa-reduce-sancion-contra-futbolista-de-argentina-por-incidentes-en-final-del-mundial-cb20",
+  "fecha": "2026-11-06T20:11:48-05:00",
+  "palabras": "FIFA, selección Argentina",
+  "lead": "En agosto la FIFA accedió a una petición de la AFA para que los partidos suspendidos se descuenten en amistosos y encuentros oficiales de Conmebol.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo presidente de Paraguay promete compensar a afectados por el \"descalabro financiero\"",
+  "enlace": "https://www.bluradio.com/mundo/nuevo-presidente-de-paraguay-promete-compensar-a-afectados-por-el-descalabro-financiero-cb20",
+  "fecha": "2026-11-06T20:22:41-05:00",
+  "palabras": "Paraguay",
+  "lead": "Pedro Alliana, hasta hoy vicepresidente, juró ante el Congreso como nuevo mandatario poco después de la destitución de Peña, en un juicio político.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nueva App de TikTok: La Nube, programa completo 6 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/nueva-app-de-tiktok-la-nube-programa-completo-6-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-06T20:39:56-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 6 de noviembre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos hombres que se movilizaban en taxi con un revólver en Arjona",
+  "enlace": "https://caracol.com.co/2026/11/07/dos-hombres-que-se-movilizaban-en-taxi-con-un-revolver-en-arjona/",
+  "fecha": "2026-11-06T20:40:44-05:00",
+  "palabras": "",
+  "lead": "El arma y cuatro cartuchos fueron encontrados debajo del asiento trasero del vehículo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dumek Turbay y estudiantes de Umayor acordaron abrir mesa de diálogo para buscar soluciones",
+  "enlace": "https://caracol.com.co/2026/11/07/dumek-turbay-y-estudiantes-de-umayor-acordaron-abrir-mesa-de-dialogo-para-buscar-soluciones/",
+  "fecha": "2026-11-06T20:36:49-05:00",
+  "palabras": "",
+  "lead": "El encuentro será este lunes 9 de noviembre y contará con el concejal Armando Córdoba como garante",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Imputan a policía que se habría robado 11 millones de pesos de víctima del terremoto en Cali",
+  "enlace": "https://caracol.com.co/2026/11/07/imputan-a-policia-que-se-habria-robado-con-11-millones-de-pesos-de-victima-del-terremoto-en/",
+  "fecha": "2026-11-06T20:32:16-05:00",
+  "palabras": "",
+  "lead": "El patrullero no aceptó los cargos. La imputación fue avalada por el juez de control de garantías.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Apambichao Vol. 2″: Manuel Turizo le apuesta a sonidos diferentes  con su nuevo álbum",
+  "enlace": "https://caracol.com.co/2026/11/07/apambichao-vol-2-manuel-turizo-le-apuesta-a-nuevos-sonidos-con-su-nuevo-album/",
+  "fecha": "2026-11-06T20:20:32-05:00",
+  "palabras": "",
+  "lead": "El artista nominado al Latin Grammy llega con un proyecto de tintes tropicales que reúne a figuras cómo J Balvin, Kapo y Hamilton.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo la IA afecta el proceso educativo en niños?: recomendaciones para practicas adecuadas",
+  "enlace": "https://caracol.com.co/2026/11/07/como-la-ia-dentro-del-proceso-educativo-en-ninos-recomendaciones-para-practicas-adecuadas/",
+  "fecha": "2026-11-06T20:15:25-05:00",
+  "palabras": "",
+  "lead": "El uso de esta herramienta debe usarse bajo propósitos y criterios en los que no se sustituya el proceso de aprendizaje de los niños.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué necesita Buenaventura para aprovechar su potencial? Esto concluyeron expertos",
+  "enlace": "https://caracol.com.co/2026/11/07/que-necesita-buenaventura-para-aprovechar-su-potencial-esto-concluyeron-expertos/",
+  "fecha": "2026-11-06T20:09:01-05:00",
+  "palabras": "",
+  "lead": "El Festival Valle Inspira reunió a grandes personalidades de la ciudad para discutir acerca de sus necesidades y las acciones que se pueden realizar para que crezca como territorio portuario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Fortaleza vs. Medellín por Liga Colombiana 2026: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/07/en-vivo-fortaleza-vs-medellin-por-liga-colombiana-2026-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-11-06T20:36:18-05:00",
+  "palabras": "",
+  "lead": "El ‘Poderoso’ tiene la posibilidad de clasificar a las finales frente a un Fortaleza que es último.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lotería de Risaralda: resultados viernes 6 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/loteria-de-risaralda-resultados-viernes-6-de-noviembre-de-2026/",
+  "fecha": "2026-11-06T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Estos son los resultados del sorteo de la lotería de Risaralda del viernes 6 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados Lotería de Medellín, Santander, Risaralda y MiLoto HOY 6 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/resultados-loteria-de-medellin-santander-risaralda-y-miloto-hoy-6-de-noviembre-de-2026/",
+  "fecha": "2026-11-06T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Vea los números ganadores del premio mayor de las loterías de Medellín, Santander, Risaralda y MiLoto de este 6 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lotería de Medellín: resultados del viernes 6 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/loteria-de-medellin-resultados-del-viernes-6-de-noviembre-de-2026/",
+  "fecha": "2026-11-06T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Vea la transmisión de la Lotería de Medellín y conozca todos los premios que trae este 6 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lotería de Santander: resultados viernes 6 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/loteria-de-santander-resultados-viernes-6-de-noviembre-de-2026/",
+  "fecha": "2026-11-06T20:00:00-05:00",
+  "palabras": "",
+  "lead": "Estos son los resultados del sorteo de la lotería de Santander del viernes 6 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Teatro para un dios sordo: la obra poco convencional que llega al Teatro Colón de Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/07/teatro-para-un-dios-sordo-la-obra-poco-convencional-que-llega-al-teatro-colon-de-bogota/",
+  "fecha": "2026-11-06T19:59:09-05:00",
+  "palabras": "",
+  "lead": "“No puedo decir que es tragedia, ni que es comedia. Es todo a la vez, cómo nuestras propias vidas”. Con 40 artistas en el escenario y diferentes escenas simultáneas, esta obra será una experiencia única para quienes buscan vivir algo diferente en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Valle alberga el 12 % de las start-ups del país, pero aún invierte poco en ellas",
+  "enlace": "https://caracol.com.co/2026/11/07/el-valle-alberga-el-12-de-las-start-ups-del-pais-pero-aun-invierte-poco-en-ellas/",
+  "fecha": "2026-11-06T19:55:06-05:00",
+  "palabras": "",
+  "lead": "En el Festival Valle Inspira, empresarios y representantes del ecosistema emprendedor reconocieron que la región tiene talento y capacidad para crear negocios innovadores, pero necesita fortalecer la inversión local, el trabajo en equipo y su ambición de crecer internacionalmente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deportivo Pasto entra en cese de actividades: juveniles enfrentarán a Santa Fe en El Campín",
+  "enlace": "https://caracol.com.co/2026/11/07/deportivo-pasto-entra-en-cese-de-actividades-juveniles-enfrentaran-a-santa-fe-en-el-campin/",
+  "fecha": "2026-11-06T19:44:45-05:00",
+  "palabras": "",
+  "lead": "Una nómina integrada principalmente por canteranos viajará a Bogotá para disputar el partido de este domingo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena se prepara para recibir a las candidatas del Concurso Nacional de Belleza 2026",
+  "enlace": "https://caracol.com.co/2026/11/07/cartagena-se-prepara-para-recibir-a-las-candidatas-del-concurso-nacional-de-belleza-2026/",
+  "fecha": "2026-11-06T19:47:43-05:00",
+  "palabras": "",
+  "lead": "La programación irá del 8 al 16 de noviembre y cerrará con la elección de Señorita Colombia 2026-2027",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres presuntos integrantes de ‘Los Pachencas’ fueron capturados cuando cobraban una extorsión",
+  "enlace": "https://caracol.com.co/2026/11/07/tres-presuntos-integrantes-de-los-pachencas-fueron-capturados-cuando-cobraban-una-extorsion/",
+  "fecha": "2026-11-06T19:43:00-05:00",
+  "palabras": "",
+  "lead": "Los hombres habrían recibido dos millones de pesos producto de amenazas contra una finca en Zona Bananera. En el operativo fueron incautadas dos motocicletas y tres celulares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jóvenes del Valle piden oportunidades reales y mayor presencia empresarial en los territorios",
+  "enlace": "https://caracol.com.co/2026/11/07/jovenes-del-valle-piden-oportunidades-reales-y-mayor-presencia-empresarial-en-los-territorios/",
+  "fecha": "2026-11-06T19:41:36-05:00",
+  "palabras": "",
+  "lead": "Líderes de Cali, Yumbo y Tumaco señalaron en el Festival Valle Inspira las barreras para acceder al empleo, la educación y la participación. Pidieron al Estado y al sector privado pasar de los programas puntuales a procesos sostenidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Afidro plantea paquete de medidas para recatar y aliviar las deudas del sistema de salud",
+  "enlace": "https://caracol.com.co/2026/11/07/afidro-plantea-paquete-de-medidas-para-recatar-y-aliviar-las-deudas-del-sistema-de-salud/",
+  "fecha": "2026-11-06T17:44:00-05:00",
+  "palabras": "",
+  "lead": "El gremio farmacéutico propone nueve alternativas que permitirían conseguir cerca de $9,68 billones para saldar deudas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía recuperó celular de turista brasileño víctima de hurto por un taxista en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/07/policia-recupero-celular-de-turista-brasileno-victima-de-hurto-por-un-taxista-en-cartagena/",
+  "fecha": "2026-11-06T19:39:29-05:00",
+  "palabras": "",
+  "lead": "El visitante recibió su teléfono antes de regresar a Brasil",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“¿La lealtad es con la corrupción?“: Margarita Guerra responde a quienes la señalan de desleal",
+  "enlace": "https://caracol.com.co/2026/11/07/la-lealtad-es-con-la-corrupcion-margarita-guerra-responde-a-quienes-la-senalan-de-desleal/",
+  "fecha": "2026-11-06T19:17:07-05:00",
+  "palabras": "",
+  "lead": "La gobernadora cuestionó las obras inconclusas, la pérdida de recursos públicos y las deficiencias en hospitales. Aunque no mencionó nombres, su pronunciamiento se produce en medio de las críticas por sus recientes acercamientos políticos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "SENA publicó curso de confección gratuito y virtual: requisitos y link para inscribirse",
+  "enlace": "https://caracol.com.co/2026/11/07/sena-publico-curso-de-confeccion-gratuito-y-virtual-requisitos-y-link-para-inscribirse/",
+  "fecha": "2026-11-06T19:17:06-05:00",
+  "palabras": "",
+  "lead": "En Caracol Radio le contamos sobre los módulos que verá durante la aplicación del curso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Damnificados en Risaralda siguen sin ayudas tras terremoto",
+  "enlace": "https://www.lafm.com.co/actualidad/damnificados-terremoto-risaralda-sin-ayudas-piden-explicaciones-416420",
+  "fecha": "2026-11-06T20:34:00-05:00",
+  "palabras": "Actualidad,terremoto,Terremoto en Colombia,Risaralda,Eje Cafetero,Pereira,damnificados",
+  "lead": "Miles de damnificados por el terremoto en Risaralda siguen sin subsidios, pese a estar censados, mientras se anuncia un nuevo giro de recursos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los departamentos que recibirán recursos para las zonas afectadas por el Frente Frío",
+  "enlace": "https://www.lafm.com.co/sociedad/departamentos-municipios-recibiran-recursos-frente-frio-416424",
+  "fecha": "2026-11-06T20:24:00-05:00",
+  "palabras": "Sociedad,Inundaciones,Desastres naturales,Fenómenos naturales,Catastrofes climáticas,Financiamiento,Fondo de Emergencias,Inversión social,damnificados,Gobernación del Chocó,Gobernación de Bolívar",
+  "lead": "La UNGRD proyecta invertir $8,68 billones en 70 proyectos para recuperar las zonas afectadas por el Frente Frío en ocho departamentos. Aunque ya identificó...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ahorro en noviembre: 4 pasos para eliminar deudas pequeñas",
+  "enlace": "https://www.lafm.com.co/economia/estrategias-de-ahorro-eliminar-deudas-fin-de-ano-416417",
+  "fecha": "2026-11-06T20:17:00-05:00",
+  "palabras": "Economía,finanzas,economía digital,CDT,Navidad,Año nuevo",
+  "lead": "Noviembre marca el plan financiero: cómo anticipar deudas, usar la prima con estrategia y evitar tarjetas de crédito para cerrar 2026 y 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Murió Gustavo Cardona Parra: este es su legado en Almacenes La 14",
+  "enlace": "https://www.lafm.com.co/actualidad/murio-gustavo-cardona-parra-legado-historia-almacenes-la-14-416422",
+  "fecha": "2026-11-06T20:15:00-05:00",
+  "palabras": "Actualidad,Colombia,almacenes,Muertos,Empresas",
+  "lead": "El empresario creció en un ambiente de emprendedores.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Medidas de seguridad para la vía Panamericana",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobierno-implementa-medidas-de-seguridad-para-pasto-416419",
+  "fecha": "2026-11-06T19:59:00-05:00",
+  "palabras": "Orden Público,Ministerio de Transporte,Gobierno,Transportadores,Alteración al orden público",
+  "lead": "El Ejecutivo invertirá más de $228.000 millones del Fondo de Seguridad Vial para equipar a la Fuerza Pública y reactivará el mantenimiento de corredores vi...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Papa León XIV en su visita a Uruguay: pidió por la salud pública gratuita",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-xvi-visita-uruguay-esto-dijo-416418",
+  "fecha": "2026-11-06T19:37:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Uruguay,América Latina,Religión,Iglesia Católica",
+  "lead": "El sumo pontífice cumplió con su visite tras la intervención quirúrgica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cárcel a implicados en feminicidio de mujer embarazada",
+  "enlace": "https://www.lafm.com.co/orden-publico/fiscalia-judicializo-a-presuntos-implicados-en-feminicidio-416416",
+  "fecha": "2026-11-06T19:30:00-05:00",
+  "palabras": "Orden Público,Fiscalía General de la Nación,Capturados",
+  "lead": "Camilo Moncayo Solano y Ángelo Ochoa Ríos habrían ayudado a ocultar el cuerpo de la víctima de 21 años tras ser atacada para extraerle su bebé de ocho mese...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia tiene prohibido exportar células madre nacionales",
+  "enlace": "https://www.lafm.com.co/sociedad/salud-celulas-madre-genetica-donaciones-atencion-pacientes-416357",
+  "fecha": "2026-11-06T19:24:00-05:00",
+  "palabras": "Sociedad,Células madre,Donaciones,pacientes,Ministerio de Salud,Acuerdos internacionales,relaciones",
+  "lead": "Una barrera regulatoria impide que los donantes inscritos en el registro colombiano DarCélulas puedan realizar donaciones a pacientes de otros países.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Feria de mascotas y Festival de hamburguesas gratis Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/bogota-estrena-feria-de-mascotas-y-festival-de-hamburguesas-gratis-416414",
+  "fecha": "2026-11-06T19:05:00-05:00",
+  "palabras": "Sociedad,Gastronomía,Bogotá,hamburguesas,Animales,Eventos presenciales",
+  "lead": "Velú & Friends y Burfest llegan a Bogotá con entrada gratis, 16 hamburgueserías, asesorías veterinarias y planes para mascotas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Combates con disidencias en Timba dejan dos soldados muertos",
+  "enlace": "https://www.lafm.com.co/actualidad/combates-con-disidencias-en-timba-dejan-dos-soldados-muertos-y-tres-heridos-416412",
+  "fecha": "2026-11-06T18:49:00-05:00",
+  "palabras": "Actualidad,Ejército Nacional,Combates,Asesinado,Disidentes de las Farc",
+  "lead": "Dos soldados murieron y otros tres resultaron heridos durante los enfrentamientos entre el Ejército y la disidencia Jaime Martínez en Timba, Valle",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pacto Histórico debatirá señalamientos contra Gustavo Petro",
+  "enlace": "https://www.lafm.com.co/politica/pacto-historico-abrira-debate-interno-tras-senalamientos-de-deicy-jimenez-contra-el-expresidente-gustavo-petro-416408",
+  "fecha": "2026-11-06T18:03:00-05:00",
+  "palabras": "Política,Pacto Histórico,Gustavo Petro,David Racero,Irregularidades en contratos,Denuncias por abuso,Acusaciones,debate político,Indagación preliminar,Abelardo de la Espriella",
+  "lead": "David Racero se pronunció desde Bucaramanga sobre las declaraciones de Deicy Jiménez y aseguró que el Pacto Histórico debatirá internamente el tema.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
