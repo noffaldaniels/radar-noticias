@@ -1063,7 +1063,7 @@
   "palabras": "Viral, Redes sociales, Brasil, Video",
   "lead": "El episodio quedó registrado en video y provocó una decisión de la alcaldía sobre la administración del centro asistencial, además de una reacción de rechazo por parte del gremio médico.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "Cali, Vendedores ambulantes",
   "lead": "Tras una reunión con vendedores informales, la Alcaldía avanzó en acuerdos sobre el espacio público. Sin embargo, comerciantes denuncian que reciben sus mercancías en malas condiciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "Viajes",
   "lead": "Averías, accidentes y noches adicionales pueden aumentar el presupuesto de las vacaciones si no se cuenta con un plan para imprevistos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "Vida en pareja, Estilo de vida, Psicología",
   "lead": "Karol Suescún explicó por qué volver a la soltería después de una relación larga puede sentirse tan diferente y qué errores pueden dificultar conocer nuevas personas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Nottingham Forest busca sumar en casa ante Manchester City para alejarse de la zona de descenso en la Premier League.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "El senador y presidente del Senado agradeció la distinción, que relacionó con sus raíces samarias y su trayectoria en el servicio público.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "Las elecciones generales de Nueva Zelanda dejaron un resultado muy ajustado con ventaja en votos para la oposición laborista, aunque el Partido Nacional del primer ministro Christopher Luxon logró más escaños.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "Operadores turísticos, agencias de viajes y guías recorrieron diferentes atractivos de la ciudad para conocer su oferta gastronómica, cultural y patrimonial de cara al partido del próximo 21 de noviembre en el estadio Metropolitano.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "Las investigaciones determinaron que el grupo criminal generaba ingresos superiores a los 100 millones de pesos mensuales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "La casa Christie’s subastará en París 363 fotografías históricas de la colección de Roger Thérond, destacando la primera imagen conocida de Bogotá realizada en 1842.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "Los organismos de socorro siguen recibiendo reportes de afectaciones por el aguacero de las últimas horas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "Los hechos ocurrido este sábado en una carretera de la región costera de Valparaíso, según informó el gobierno.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "La gobernadora Margarita Guerra confirmó a Caracol Radio que los automotores adquiridos en Israel ya están comprados y que actualmente se adelantan los trámites para su ingreso a Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "Se trata de la transferencia en modalidad de giro. Le contamos lo informado por el Departamento de Prosperidad Social.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "La actividad ilícita generaría más de 1.200 millones de pesos mensuales y habría contaminado la quebrada La Baja y el río Suratá, fuentes de abastecimiento del acueducto de Bucaramanga",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Actualidad,pico y placa en Bogotá,TransMilenio,Metro de Bogotá,Cierres viales,obras en vías,Secretaría de Movilidad,Pico y placa,Cierre de La Línea,Transporte público",
   "lead": "Transmilenio hizo varios anuncios sobre el estado de varias estaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Sociedad,aviación,aeropuerto,Medellín, Colombia,Antioquia",
   "lead": "Aeropuerto José María Córdova tendrá 19 cierres nocturnos de pista en noviembre: estas son las fechas y los horarios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,6 +1250,204 @@
   "palabras": "Internacional,Inteligencia artificial,Ciencia,Vacuna,enfermedades,Científicos",
   "lead": "Un experimento determinó que la tecnología aún no permite establecer curas efectivas por sí sola.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué están cerrando tantos restaurantes?: Casa Blu del 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/casa-blu/por-que-estan-cerrando-tantos-restaurantes-casa-blu-del-7-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-07T13:01:21-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Haga de su casa un hogar en Casa Blu este sábado, 7 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Advierten riesgo en Chocó por deterioro en vegetación: piden medidas para protegerlo",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/advierten-riesgo-en-choco-por-deterioro-en-vegetacion-piden-medidas-para-protegerlo-so35",
+  "fecha": "2026-11-07T12:26:40-05:00",
+  "palabras": "Chocó, Medioambiente",
+  "lead": "La deforestación y la minería ilegal amenazan los bosques y los ríos de una región que se extiende por Colombia, Panamá y Ecuador.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día, resultado del último sorteo de hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-de-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T12:30:49-05:00",
+  "palabras": "Paisita día, Resultados del chance, Chances y Loterías, Paisita Día, Resultados del chance, Resultados del chance , Resultados hoy , Resultados hoy Paisita Día",
+  "lead": "El chance Paisita Día juega todos los días después del mediodía. Consulte aquí el número ganador del sorteo de hoy, sábado 7 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Día, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-dia-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-rs15",
+  "fecha": "2026-11-07T12:30:50-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Día, Chontico Día, Ganador hoy , Resultados del chance, Resultados hoy, Resultados hoy , Resultados hoy Chontico Día",
+  "lead": "El chance Chontico Día juega todos los días a las 1 p. m.. Revise aquí el número ganador hoy sábado 7 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría pide explicaciones por atención a menores que estuvieron en riesgo en hotel de Medellín",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/procuraduria-pide-explicaciones-por-atencion-a-menores-que-estuvieron-en-riesgo-en-hotel-de-medellin-rg10",
+  "fecha": "2026-11-07T12:53:32-05:00",
+  "palabras": "Procuraduría General de la Nación, Alcaldía de Medellín, Federico Gutiérrez, Noticias de hoy",
+  "lead": "El Ministerio Público solicitó información a la Alcaldía de Medellín sobre las medidas de protección y acompañamiento brindadas a los niños de 7 y 9 años, quienes denunciaron estar en riesgo con José Luis Botero, de 43 años.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Frustran falso allanamiento en el sur de Cali: un capturado y arsenal incautado",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/frustran-falso-allanamiento-en-el-sur-de-cali-un-capturado-y-arsenal-incautado-rg10",
+  "fecha": "2026-11-07T13:10:00-05:00",
+  "palabras": "Cali, Policía Nacional",
+  "lead": "La persecución inició en el barrio El Refugio y terminó en Lourdes, donde la Policía capturó a un hombre y recuperó una camioneta hurtada que tenía dos placas falsas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Guásimo: el restaurante que rescata la memoria gastronómica del Magdalena",
+  "enlace": "https://caracol.com.co/2026/11/07/guasimo-el-restaurante-que-rescata-la-memoria-gastronomica-del-magdalena/",
+  "fecha": "2026-11-07T12:51:14-05:00",
+  "palabras": "",
+  "lead": "El chef Fabián Rodríguez combina investigación culinaria, arte y productos locales para construir una propuesta gastronómica que representa las tradiciones, los sabores y la identidad cultural del departamento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jesús López, el ejecutivo detrás de grandes estrellas, recibe un reconocimiento de la música español",
+  "enlace": "https://caracol.com.co/2026/11/07/jesus-lopez-el-ejecutivo-detras-de-grandes-estrellas-recibe-un-reconocimiento-de-la-musica-espanol/",
+  "fecha": "2026-11-07T12:50:37-05:00",
+  "palabras": "",
+  "lead": "La Academia de la Música de España lo nombró Académico de Honor 2026 por su aporte a la industria y al impulso de artistas internacionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiestas de Independencia: una celebración que dinamiza la economía en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/07/fiestas-de-independencia-una-celebracion-que-dinamiza-la-economia-en-cartagena/",
+  "fecha": "2026-11-07T12:47:37-05:00",
+  "palabras": "",
+  "lead": "Detrás de cada escenario, de cada evento y de los miles de ciudadanos que salen a disfrutar la celebración, también se mueve el comercio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Esta es la propuesta del Centro Democrático para modificar la ley de rescate fiscal del Gobierno",
+  "enlace": "https://caracol.com.co/2026/11/07/esta-es-la-propuesta-del-centro-democratico-para-modificar-la-ley-de-rescate-fiscal-del-gobierno/",
+  "fecha": "2026-11-07T12:24:44-05:00",
+  "palabras": "",
+  "lead": "El expresidente Álvaro Uribe dio a conocer el primer borrador antes de la reunión del Ejecutivo con integrantes de las comisiones económicas del Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ICA capacita a productores del Magdalena para prevenir enfermedades en cultivos de plátano y banano",
+  "enlace": "https://caracol.com.co/2026/11/07/ica-capacita-a-productores-del-magdalena-para-prevenir-enfermedades-en-cultivos-de-platano-y-banano/",
+  "fecha": "2026-11-07T12:45:00-05:00",
+  "palabras": "",
+  "lead": "La jornada se realizó en Zona Bananera y estuvo enfocada en la detección temprana del moko y la marchitez por Fusarium Raza 4 Tropical, dos amenazas para la producción agrícola.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abrir la Casa 2026: el festival de teatro que presenta obras en apartamentos de Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/07/abrir-la-casa-2026-el-festival-de-teatro-que-presenta-obras-en-apartamentos-de-bogota/",
+  "fecha": "2026-11-07T12:43:06-05:00",
+  "palabras": "",
+  "lead": "Seis agrupaciones teatrales y cinco espacios independientes de Teusaquillo y Chapinero participan en esta iniciativa que lleva las artes escénicas a viviendas particulares. El festival finalizará el domingo 8 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena transforma aprendizaje con un colegio que se convierte en superhéroe por un día",
+  "enlace": "https://caracol.com.co/2026/11/07/cartagena-transforma-aprendizaje-con-un-colegio-que-se-convierte-en-superheroe-por-un-dia/",
+  "fecha": "2026-11-07T12:41:30-05:00",
+  "palabras": "",
+  "lead": "La apuesta parte de reconocer que la educación no ocurre exclusivamente dentro del salón de clases",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "SuperSalud inspecciona a Colsubsidio, dispensario de Sanitas, por fallas en entrega de medicamentos",
+  "enlace": "https://caracol.com.co/2026/11/07/supersalud-inspecciona-a-colsubsidio-dispensario-de-sanitas-por-fallas-en-entrega-de-medicamentos/",
+  "fecha": "2026-11-07T12:40:57-05:00",
+  "palabras": "",
+  "lead": "La entidad realiza una vigilancia en varios puntos de entrega de medicamentos en Bogotá, tras la congestión reportada por los usuarios debido al cambio de operador.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autodefensas de la Sierra niegan que las 104 armas incautadas fueran para su organización",
+  "enlace": "https://caracol.com.co/2026/11/07/autodefensas-de-la-sierra-niegan-que-las-104-armas-incautadas-fueran-para-su-organizacion/",
+  "fecha": "2026-11-07T12:34:55-05:00",
+  "palabras": "",
+  "lead": "El grupo armado respondió a los señalamientos del presidente Abelardo De la Espriella, quien aseguró que el arsenal decomisado en aguas de La Guajira tenía como destino esa estructura ilegal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EPA Cartagena realizará Feria de Negocios Verdes 2026 para promover emprendimiento y sostenibilidad",
+  "enlace": "https://caracol.com.co/2026/11/07/epa-cartagena-realizara-feria-de-negocios-verdes-2026-para-promover-emprendimiento-y-sostenibilidad/",
+  "fecha": "2026-11-07T12:33:31-05:00",
+  "palabras": "",
+  "lead": "La jornada tendrá lugar en el Centro Comercial La Serrezuela",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Valle, referente en salud, ante el reto de acercar sus capacidades a las zonas rurales",
+  "enlace": "https://caracol.com.co/2026/11/07/el-valle-referente-en-salud-ante-el-reto-de-acercar-sus-capacidades-a-las-zonas-rurales/",
+  "fecha": "2026-11-07T12:17:38-05:00",
+  "palabras": "",
+  "lead": "En el Festival Valle Inspira expertos conversaron sobre el liderazgo histórico de la región en materia de salud y los desafíos para extender sus capacidades de atención a los territorios apartados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sanitas: puntos para reclamar medicamentos en Medellín y Cali",
+  "enlace": "https://www.lafm.com.co/sociedad/sanitas-entrega-de-medicamentos-en-bogota-cali-y-medellin-416454",
+  "fecha": "2026-11-07T11:53:00-05:00",
+  "palabras": "Sociedad,EPS,medicamentos,Colombia,Cali, Colombia,Medellín, Colombia",
+  "lead": "Con Colsubsidio como aliada de la EPS en Bogotá, surgen dudas de si cambiaron también en otras ciudades.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
