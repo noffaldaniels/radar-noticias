@@ -1701,7 +1701,7 @@
   "palabras": "Policía Nacional, Disidencias Farc, Antioquia, Noticias de hoy",
   "lead": "Los dos hechos se atribuyen a frentes de las disidencias al mando de alias Calarcá: el cuarto y el 36. Las autoridades investigan si lo sucedido guarda relación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "Clan del Golfo, Defensoría del Pueblo, Chocó, Medellín, Noticias de hoy",
   "lead": "Las familias huyeron de sus territorios por los enfrentamientos entre el Clan del Golfo y el ELN, que dejan dos personas asesinadas y otra presuntamente secuestrada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "Álvaro Uribe Vélez, Corte Constitucional",
   "lead": "La Sala Plena estudiará este lunes el conflicto de competencias entre la Fiscalía General de la Nación y la Comisión de Investigación y Acusación de la Cámara de Representantes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "En la misma noche, otras dos personas fueron asesinadas en la capital antioqueña.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "La ACL expresó su solidaridad con periodistas, directivos y demás colaboradores de los medios afectados, y pidió a las autoridades acompañar y hacer seguimiento a las denuncias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "",
   "lead": "El uso de una pistola antidrones fue clave para evitar que las granadas fueran lanzadas en la vereda Guarato, del municipio de Tadó, Chocó.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "Internacional,Egipto,Accidente,Siniestro vial,Choque múltiple,Heridos,Víctimas",
   "lead": "Un tren que cubría la ruta entre Guiza y Fayum impactó por detrás a otro que se dirigía desde El Cairo hacia la ciudad de Asuán",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "Actualidad,Temblor,Servicio Geológico Colombiano,Dabeiba,Terremoto en Colombia",
   "lead": "El Servicio Geológico Colombiano ha estado enviando información a instantes acerca de los distintos temblores reportados en el país.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,6 +1800,182 @@
   "palabras": "Sociedad,Renta ciudadana,Colombia,Gobierno,noviembre,Departamento de Prosperidad Social",
   "lead": "Los ciudadanos pueden reclamar su bono entre la segunda semana de noviemrbe.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Time Out eligió los 22 mejores destinos para Navidad en 2026: hay uno latinoamericano",
+  "enlace": "https://www.bluradio.com/turismo/time-out-eligio-los-22-mejores-destinos-para-navidad-en-2026-hay-uno-latinoamericano-so35",
+  "fecha": "2026-11-08T15:46:26-05:00",
+  "palabras": "Noticias de hoy, Viajes, Navidad",
+  "lead": "Entre los lugares recomendados hay ciudades reconocidas por sus celebraciones tradicionales y otras que ofrecen alternativas para quienes prefieren pasar las fiestas en climas cálidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué sentimos que se nos \"sube el muerto\"?, la ciencia detrás de la parálisis del sueño",
+  "enlace": "https://www.bluradio.com/salud/por-que-sentimos-que-se-nos-sube-el-muerto-la-ciencia-detras-de-la-paralisis-del-sueno-so35",
+  "fecha": "2026-11-08T15:34:48-05:00",
+  "palabras": "Salud mental, transtornos mentales, Sueño, Viral, parálisis del sueño, se \"sube el muerto\"",
+  "lead": "Sentir que alguien se sienta sobre el pecho, escuchar voces o ver sombras mientras duerme puede provocar terror. La ciencia explica qué ocurre realmente durante estos episodios nocturnos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Papa León XIV en América Latina: lo que hay detrás de su primera gira por la región",
+  "enlace": "https://www.bluradio.com/mundo/papa-leon-xiv-en-america-latina-lo-que-hay-detras-de-su-primera-gira-por-la-region-pr30",
+  "fecha": "2026-11-08T15:39:36-05:00",
+  "palabras": "Papa León XIV, Vaticano",
+  "lead": "Néstor Pongutá, periodista especializado en el Vaticano, explicó las claves de este recorrido, la conexión del pontífice con los fieles y los cambios que prepara para la Iglesia católica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cauca: $800.000 millones para reconstruirse por el terremoto y un potencial exportador sorprendente",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/cauca-800-000-millones-para-reconstruirse-por-el-terremoto-y-un-potencial-exportador-sorprendente-so35",
+  "fecha": "2026-11-08T15:44:18-05:00",
+  "palabras": "Cauca",
+  "lead": "La violencia y los daños del terremoto agravan la situación del Cauca, un departamento que necesita $800.000 millones para reconstruir su infraestructura y recuperar su potencial económico.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“La gran deuda es el desarrollo territorial”: Iris Marín sobre el Acuerdo de Paz",
+  "enlace": "https://www.bluradio.com/nacion/la-gran-deuda-es-el-desarrollo-territorial-iris-marin-sobre-el-acuerdo-de-paz-pr30",
+  "fecha": "2026-11-08T15:57:58-05:00",
+  "palabras": "Acuerdo de paz, Iris Marín, FARC",
+  "lead": "La funcionaria reconoció avances en la implementación, pero advirtió que esfuerzos institucionales han sido insuficientes para transformar las condiciones de territorios más afectados por la violencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El 86 % de los trabajadores considera que el bienestar es tan importante como el salario",
+  "enlace": "https://www.bluradio.com/economia/el-86-de-los-trabajadores-considera-que-el-bienestar-es-tan-importante-como-el-salario-so35",
+  "fecha": "2026-11-08T15:59:18-05:00",
+  "palabras": "",
+  "lead": "El agotamiento laboral y las nuevas expectativas de los empleados están llevando a las empresas a replantear sus estrategias para fortalecer la confianza y retener el talento humano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mindefensa asegura que Gustavo Petro no dejó recursos garantizados para compra de sistema antidrones",
+  "enlace": "https://www.bluradio.com/nacion/mindefensa-asegura-que-gustavo-petro-no-dejo-recursos-garantizados-para-compra-de-sistema-antidrones-rg10",
+  "fecha": "2026-11-08T16:07:41-05:00",
+  "palabras": "Ministerio de Defensa, Gustavo Petro, Drones",
+  "lead": "El jefe de la cartera aseguró que no existían recursos apropiados para esa compra en el presupuesto de 2026 ni un contrato adjudicado que hubiera sido cancelado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De aulas tradicionales a espacios de innovación: así evoluciona la infraestructura de los colegios",
+  "enlace": "https://www.bluradio.com/sociedad/educacion/de-aulas-tradicionales-a-espacios-de-innovacion-asi-evoluciona-la-infraestructura-de-los-colegios-so35",
+  "fecha": "2026-11-08T16:07:59-05:00",
+  "palabras": "",
+  "lead": "Los colegios enfrentan el reto de ofrecer ambientes que no solo faciliten la transmisión de conocimientos, sino que también estimulen la curiosidad, la creatividad, el pensamiento crítico y la capacidad de resolver problemas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“El PetroQuinterismo busca incautos”: gobernador Rendón tras visita de Petro a Medellín",
+  "enlace": "https://caracol.com.co/2026/11/08/el-petroquinterismo-busca-incautos-gobernador-rendon-tras-visita-de-petro-a-medellin/",
+  "fecha": "2026-11-08T16:12:00-05:00",
+  "palabras": "",
+  "lead": "El expresidente se reunió con varios representantes del Pacto Histórico para abordar diferentes asuntos políticos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Alfonso celebró sus 33 años con un sold out en Bogotá: ¿Quiénes lo acompañaron?",
+  "enlace": "https://caracol.com.co/2026/11/08/luis-alfonso-celebro-sus-33-anos-con-un-sold-out-en-bogota-quienes-lo-acompanaron/",
+  "fecha": "2026-11-08T15:56:41-05:00",
+  "palabras": "",
+  "lead": "‘La Fonda del Señorazo’ reunió a miles de asistentes en el Coliseo MedPlus, con invitados musicales, una sorpresa familiar y un homenaje a Yeison Jiménez.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El papa León XIV llega a Argentina y es recibido por el presidente Javier Milei",
+  "enlace": "https://caracol.com.co/2026/11/08/el-papa-leon-xiv-llega-a-argentina-y-es-recibido-por-el-presidente-javier-milei/",
+  "fecha": "2026-11-08T15:44:22-05:00",
+  "palabras": "",
+  "lead": "Argentina es la segunda parada de la gira por Sudamérica que inició el Papa en Uruguay y que culminará en Perú.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Remezón en oficinas de control interno de varias entidades: esta fue la orden del presidente",
+  "enlace": "https://caracol.com.co/2026/11/08/remezon-en-oficinas-de-control-interno-de-varias-entidades-esta-fue-la-orden-del-presidente/",
+  "fecha": "2026-11-08T15:32:21-05:00",
+  "palabras": "",
+  "lead": "El mandatario ya había señalado que quienes ocupen esos cargos deben dar “garantía de que los recursos de las distintas entidades del Estado se van a administrar como debe ser”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴EN VIVO Jaguares vs. Bucaramanga: siga el minuto a minuto del partido",
+  "enlace": "https://caracol.com.co/2026/11/08/en-vivo-jaguares-vs-bucaramanga-siga-el-minuto-a-minuto-del-partido/",
+  "fecha": "2026-11-08T15:30:53-05:00",
+  "palabras": "",
+  "lead": "Jaguares recibe este domingo 8 de noviembre al Atlético Bucaramanga en el estadio Jaraguay de Montería, por la fecha 18 de la Liga.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Norris y Mercedes fueron los ganadores en el GP de Brasil",
+  "enlace": "https://www.lafm.com.co/deportes/norris-victoria-formula-uno-brasil-416534",
+  "fecha": "2026-11-08T15:37:00-05:00",
+  "palabras": "Deportes,Formula 1,McLaren,Max Verstappen,Mundial 2026,campeón,Carreras de automovilismo,Brasil,ganador",
+  "lead": "El campeón Andrea Kimmi Antonelli quedó en el quinto lugar de la clasificaicón a 36.017 segundos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Próximo festivo de noviembre en Colombia: qué se celebra",
+  "enlace": "https://www.lafm.com.co/sociedad/proximo-festivo-16-noviembre-2026-lunes-que-se-celebra-416526",
+  "fecha": "2026-11-08T15:18:00-05:00",
+  "palabras": "Sociedad,puente festivo de noviembre,Día de la Independencia,noviembre,Puentes festivo,Días festivos,Cartagena",
+  "lead": "El primero fue el lunes 2 de noviembre, cuando se conmemoró el Día de Todos los Santos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La lucha de playa entrega nueva medalla a Colombia en Dakar",
+  "enlace": "https://www.lafm.com.co/deportes/medallas-colombiano-juegos-olimpicos-juventud-416532",
+  "fecha": "2026-11-08T15:07:00-05:00",
+  "palabras": "Deportes,Juegos Olímpicos,Medallas de oro,Medalla de plata,Medalla de bronce,Selección Colombia,deportistas colombianos,Ciclismo,esgrima,Eventos deportivos,Juegos",
+  "lead": "Los primeros juegos en territorio africano han sido un descubrimiento de grandes talentos para nuestro país en otras disciplinas.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
