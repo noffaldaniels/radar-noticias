@@ -1987,7 +1987,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
   "lead": "El sorteo de Paisita Noche se realiza todos los días después de las 6:00 p. m. Los participantes pueden consultar aquí el resultado de la jornada, las últimas cifras y conocer las modalidades de apuesta y los requisitos para reclamar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Navidad, Novenas de Navidad, dónde ver nieve real en Bogotá",
   "lead": "Un centro comercial de Bogotá anunció la llegada de una atracción con nieve 100 % real, que estará disponible durante la temporada navideña y ofrecerá actividades para toda la familia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "",
   "lead": "Según la Fiscalía, los automotores eran desmantelados y sus autopartes comercializadas ilegalmente en Bogotá.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "",
   "lead": "El expresidente señaló a la actual administración de dejar “expuestas” a las tropas. El ministro de Defensa también respondió.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "",
   "lead": "Fue detenida por la Policía Fiscal y Aduanera, la Fiscalía General de la Nación y la Oficina de Investigaciones de Seguridad Nacional de los Estados Unidos (HSI).",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "La ceremonia de la edición número 27 de los Latin Grammy contará con la participación de Karol G, Nathy Peluso, Grupo Niche y Jay Wheeler, entre otros artistas. Además, rendirá un homenaje especial al salsero Willie Colón.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "El deterioro del monumento del ‘Cacique de La Junta’ generó rechazo en redes sociales y reabrió el debate sobre el cuidado de los símbolos del vallenato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "",
   "lead": "Max Verstappen terminó segundo después de largar desde la posición 21, mientras que Mercedes aseguró el título de constructores.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "Deportes,Barcelona,FC Barcelona,Atlético de Madrid,España,Liga Española,Madrid",
   "lead": "El equipo de Hansi Flick logró sobreponerse al golpe en el primer tiempo y sigue líder en España.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "Internacional,Papa León XIV,Javier Milei,Argentina,Vaticano,Latinoamerica",
   "lead": "El papa continúa su viaje por Latinoamérica tras su intervención quirúrgica.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "Sociedad,Astrología,Numerología,Predicciones,Signos zodiacales,sistema planetario,Religión,Reflexión,Superación personal,Principio de oportunidad",
   "lead": "La astróloga Paola Montoya, habló en entrevista con La FM, sobre el origen de esta creencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "Internacional,Donald Trump,Estados Unidos,Inmigrantes,Latinoamericanos",
   "lead": "El mandatario parece cambiar su enfoque de migración tras la derrota en las elecciones de medio término.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "Sociedad,becas,Bogotá,Alcaldía de Bogotá,Colombia,Universidades de Colombia,universidades",
   "lead": "Los interesados deberán tener un proceso de admisión con una institución de educación superior.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,6 +2130,226 @@
   "palabras": "Orden Público,Ataque aéreo,Drones,Ataque a uniformados,Ataque con granada,ataque explosivo,Tecnología,Ejército Nacional,Fuerzas Militares,Antiexplosivos,Operativos militares",
   "lead": "El procedimiento se realizó en la vereda Guarato, donde uniformados utilizaron un equipo especializado para interferir las señales del aparato aéreo no tri...",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aumenta a 22 la cifra de soldados heridos trasladados a Santander desde el sur de Bolívar",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/aumenta-a-22-la-cifra-de-soldados-heridos-trasladados-a-santander-desde-el-sur-de-bolivar-rg10",
+  "fecha": "2026-11-08T17:35:38-05:00",
+  "palabras": "Santander, Gobernación de Santander, Ejército Nacional, Noticias de hoy, Blu Radio",
+  "lead": "El Hospital Universitario de Santander (HUS), en Bucaramanga, atiende a 14 de los soldados lesionados tras el atentado contra el Cantón Militar de Santa Rosa del Sur, Bolívar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nvidia investigará a su propio director ejecutivo por amorío con una supuesta espía china",
+  "enlace": "https://www.bluradio.com/mundo/nvidia-investigara-a-su-propio-director-ejecutivo-por-amorio-con-una-supuesta-espia-china-cb20",
+  "fecha": "2026-11-08T18:10:17-05:00",
+  "palabras": "China, Estados Unidos, Donald Trump",
+  "lead": "La junta directiva de Nvidia anunció una investigación independiente tras informes que señalan que su CEO, Jensen Huang, habría sido blanco de una operación de inteligencia extranjera.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Santa Fe golea a un Pasto lleno de juveniles en El Campín y asegura su clasificación a los ocho",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/santa-fe-golea-a-un-pasto-lleno-de-juveniles-en-el-campin-y-asegura-su-clasificacion-a-los-ocho-so35",
+  "fecha": "2026-11-08T17:44:11-05:00",
+  "palabras": "Santa Fe, Liga BetPlay, Deportivo Pasto, Hugo Rodallega",
+  "lead": "Independiente Santa Fe cumplió con los pronósticos y selló su tiquete a los cuadrangulares semifinales de la Liga BetPlay 2026-II tras vencer con contundencia al Deportivo Pasto en El Campín.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "ICBF responde a madres comunitarias de Pereira: operador del Cesar ofrece contratarlas",
+  "enlace": "https://www.bluradio.com/nacion/icbf-responde-a-madres-comunitarias-de-pereira-operador-del-cesar-ofrece-contratarlas-rg10",
+  "fecha": "2026-11-08T17:47:08-05:00",
+  "palabras": "ICBF",
+  "lead": "Desde la dirección del instituto aseguran que el nuevo operador en Risaralda ofrece contratar a las madres locales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comunidades wayuu recibieron equipos para mejorar la calidad del agua para consumo en La Guajira",
+  "enlace": "https://www.bluradio.com/regiones/caribe/comunidades-wayuu-recibieron-equipos-para-mejorar-la-calidad-del-agua-para-consumo-en-la-guajira-rg10",
+  "fecha": "2026-11-08T18:00:34-05:00",
+  "palabras": "Wayúu, La Guajira",
+  "lead": "Las unidades fueron distribuidas entre el corregimiento de Wimpiraleim, en Uribia, y el resguardo Perratpu, en Riohacha, y beneficiarán a cerca de 1.400 personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La economía debe estar al servicio de las personas”: Papa ante Milei y Argentina en primer discurso",
+  "enlace": "https://caracol.com.co/2026/11/08/la-economia-debe-estar-al-servicio-de-las-personas-papa-ante-milei-y-argentina-en-primer-discurso/",
+  "fecha": "2026-11-08T18:12:34-05:00",
+  "palabras": "",
+  "lead": "Argentina es la segunda parada del Papa León VIX en el marco de su gira por América Latina, la cual cerrará en Perú.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bucaramanga goleó a Jaguares en Montería y consiguió una victoria clave en la Liga: resumen",
+  "enlace": "https://caracol.com.co/2026/11/08/bucaramanga-goleo-a-jaguares-en-monteria-y-consiguio-una-victoria-clave-en-la-liga-resumen/",
+  "fecha": "2026-11-08T15:30:53-05:00",
+  "palabras": "",
+  "lead": "Brandon Caicedo marcó un doblete y Fabián Sambueza también se reportó en el marcador. El equipo local sufrió una expulsión en los primeros minutos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió hombre tras accidente en una mina de Barranco de Loba, sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/08/murio-hombre-tras-accidente-en-una-mina-de-barranco-de-loba-sur-de-bolivar/",
+  "fecha": "2026-11-08T18:08:21-05:00",
+  "palabras": "",
+  "lead": "El deceso se produjo en Cartagena, donde era atendido por complicaciones de salud",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 1.000 personas fueron desalojadas de zonas de minería ilegal en Ataco, Tolima",
+  "enlace": "https://caracol.com.co/2026/11/08/mas-de-1000-personas-fueron-desalojadas-de-zonas-de-mineria-ilegal-en-ataco-tolima/",
+  "fecha": "2026-11-08T17:57:18-05:00",
+  "palabras": "",
+  "lead": "La operación se concentró en el sector de Puente Amarillo, en las riberas de los ríos Atá y Saldaña.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ICBF anuncia alternativas tras suspensión del servicio a 3.000 niños en Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/08/icbf-anuncia-alternativas-tras-suspension-del-servicio-a-3000-ninos-en-antioquia/",
+  "fecha": "2026-11-08T18:02:51-05:00",
+  "palabras": "",
+  "lead": "La entidad aseguró que los operadores seleccionados por la entidad tienen disposición de vincular a las madres comunitarias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Tolima vs. Millonarios: siga el minuto a minuto de la Liga colombiana",
+  "enlace": "https://caracol.com.co/2026/11/08/en-vivo-tolima-vs-millonarios-siga-el-minuto-a-minuto-de-la-liga-colombiana/",
+  "fecha": "2026-11-08T18:10:40-05:00",
+  "palabras": "",
+  "lead": "El equipo embajador visita Ibagué con la necesidad de conseguir una victoria que le permita asegurar su clasificación a los cuadrangulares semifinales.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jaminton Campaz se pierde la fecha FIFA con Colombia: ¿cuál sería la razón de su ausencia?",
+  "enlace": "https://caracol.com.co/2026/11/08/jaminton-campaz-se-pierde-la-fecha-fifa-con-colombia-cual-seria-la-razon-de-su-ausencia/",
+  "fecha": "2026-11-08T17:35:37-05:00",
+  "palabras": "",
+  "lead": "No estará en la concentración del combinado nacional. Venía de tener protagonismo en el fútbol argentino.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conozca las medidas y recomendaciones para Festival Náutico y Bololó del Arsenal 2026",
+  "enlace": "https://caracol.com.co/2026/11/08/conozca-las-medidas-y-recomendaciones-para-festival-nautico-y-bololo-del-arsenal-2026/",
+  "fecha": "2026-11-08T17:32:10-05:00",
+  "palabras": "",
+  "lead": "El evento será este 13 y 14 de noviembre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a cuatro personas por presunta minería ilegal en Yaguará",
+  "enlace": "https://caracol.com.co/2026/11/08/cuatro-personas-fueron-capturadas-durante-operativo-contra-la-mineria-ilegal-en-yaguara/",
+  "fecha": "2026-11-08T17:30:29-05:00",
+  "palabras": "",
+  "lead": "El operativo se realizó en zona rural de Yaguará, donde fueron incautados cinco motores y herramientas avaluados en más de 20 millones de pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las Palmeras, campeón del torneo ascenso de Sóftbol “Juega por tu barrio”",
+  "enlace": "https://caracol.com.co/2026/11/08/las-palmeras-campeon-del-torneo-ascenso-de-softbol-juega-por-tu-barrio/",
+  "fecha": "2026-11-08T17:23:56-05:00",
+  "palabras": "",
+  "lead": "El perdedor de la jornada fue Zaragocilla",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aumenta a 22 el número de militares heridos que están siendo atendidos en Santander",
+  "enlace": "https://caracol.com.co/2026/11/08/aumenta-a-22-el-numero-de-militares-heridos-que-estan-siendo-atendidos-en-santander/",
+  "fecha": "2026-11-08T17:18:55-05:00",
+  "palabras": "",
+  "lead": "14 de ellos se encuentran en el Hospital Universitario de Santander.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAgricultura propuso en la Cumbre Cafetera trabajar sostenibilidad y transformación",
+  "enlace": "https://caracol.com.co/2026/11/08/minagricultura-propuso-en-la-cumbre-cafetera-trabajar-sostenibilidad-y-transformacion/",
+  "fecha": "2026-11-08T17:15:06-05:00",
+  "palabras": "",
+  "lead": "También enfatizó en la amenaza que enfrentan los cultivadores del grano",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kris R se convierte en papá: el cantante inicia una nueva etapa junto a Karina García",
+  "enlace": "https://caracol.com.co/2026/11/08/kris-r-se-convierte-en-papa-el-cantante-inicia-una-nueva-etapa-junto-a-karina-garcia/",
+  "fecha": "2026-11-08T17:12:14-05:00",
+  "palabras": "",
+  "lead": "El artista urbano y Karina García le dieron la bienvenida a su bebé. La noticia marca un momento especial en la vida personal de Kris R, quien ahora suma la paternidad a su camino en la música.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Selección Colombia confirma baja para fecha FIFA de noviembre",
+  "enlace": "https://www.lafm.com.co/deportes/seleccion-colombia-confirma-baja-para-fecha-fifa-de-noviembre-416539",
+  "fecha": "2026-11-08T17:32:00-05:00",
+  "palabras": "Deportes,Selección Colombia,FIFA,Chile,Selección Chile,Colombia,Fútbol",
+  "lead": "Néstor Lorenzo pierde una de sus piezas fundamentales para la reconstrucción del equipo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Parques Nacionales Naturales a Bogotá tras 66 años de historia",
+  "enlace": "https://www.lafm.com.co/sociedad/parques-nacionales-naturales-llevara-biodiversidad-colombia-bogota-actividades-66-anos-416535",
+  "fecha": "2026-11-08T17:22:00-05:00",
+  "palabras": "Sociedad,Parques Nacionales Naturales de Colombia,Biodiversidad,Conservación de especies,Ecoturismo,Parque Nacional,Bogotá,Eventos presenciales,Eventos virtuales",
+  "lead": "La experiencia incluirá recorridos virtuales por 15 áreas protegidas, muestras artísticas y espacios de intercambio sobre conservación, saberes tradicional...",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
