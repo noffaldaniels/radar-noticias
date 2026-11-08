@@ -480,7 +480,7 @@
   "palabras": "Cauca, Betulia",
   "lead": "Autoridades pidieron a conductores, motociclistas y peatones transitar con máxima precaución, evitar acercarse a elementos sospechosos y abstenerse de manipular objetos que pueda representar riesgo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Clan del Golfo, Antioquia, Noticias de hoy",
   "lead": "Los hechos ocurrieron cuando la víctima regresaba de su jornada laboral y fue interceptada por hombres armados que le dispararon.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Cali, Emergencias por lluvias, Cortes de agua",
   "lead": "Las fuertes lluvias y la alta turbiedad del río Cali obligaron a Emcali a suspender temporalmente la potabilización de agua en la Planta Río Cali por arrastre de material vegetal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Santander, Gobernación de Santander, Ejército Nacional, Hospital Universitario de Santander",
   "lead": "Ocho reciben atención médica en el Hospital Universitario de Santander, uno de los uniformados ingresó de gravedad a cirugía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Cáncer, Fomag, Antioquia, Noticias de hoy",
   "lead": "Luego de que el Ministerio de Educación anunciara el fin del contrato de la Fiduprevisora con el Fomag, la entidad logró llegar a acuerdos con Clínica y hospitales de Antioquia para formalizar contratos y fortalecer la atención en salud de los maestros.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Subsidios, Bre-B, Colsubsidio",
   "lead": "Más de 408.000 afiliados podrán enviar este beneficio a una cuenta financiera propia sin necesidad de retirar efectivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "El ministro Jorge Mora anunció el despliegue de todas las capacidades para prevenir cualquier atentado, esclarecer los hechos y capturar a los responsables.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "El técnico de Atlético Nacional aseguró que no es coherente que Álvaro Montero no haya sido citado para los amistosos ante Chile, pero sí sus jugadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "Con 300 funcionarios del INPEC y la Policía Nacional se adelantó una intervención de registro y control en el centro penitenciario de Boyacá. El presidente Abelardo de la Espriella destacó los resultados y anunció más controles contra las redes criminales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "El temblor alcanzó el nivel 5 de la escala sísmica nipona (de 7 niveles y centrada en medir la agitación sobre la superficie y los potenciales daños) en algunas zonas de las prefecturas de Aichi, Nagano, Gifu y Shizuoka.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "La rápida intervención del Ejército Nacional permitió evitar que el hombre fuera asesinado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "El técnico del Deportivo Cali destacó el rendimiento táctico de su equipo ante el América y valoró la fortaleza competitiva que ha mostrado en las últimas jornadas.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Fueron capturadas y judicializadas 10 personas que harían parte de esta organización delincuencial. Los vehículos hurtados en carreteras de Tolima eran desmantelados y sus partes comercializadas de manera ilegal de Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "La medida estará disponible desde el 9 de junio 2026 y hasta finalizar la vigencia del Plan Nacional de Desarrollo 2022-2026 del presente Gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "Sociedad,sector turístico,Turismo,Arrendamientos,Lavado de activos,Trata de personas,organizaciones criminales",
   "lead": "El general (r) Juan Carlos Buitrago, explicó que detrás de la informalidad de este mercado se estaría consolidando un sistema de economías criminales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "Orden Público,Fuerzas Militares,Ejército Nacional,Inseguridad,Operativos militares,Ley de Seguridad Ciudadana,Grupos Armados Organizados",
   "lead": "El concejal de Bogotá por el Centro Democrático, Julián Uscátegui, aseguró que la ciudad atraviesa una crisis de seguridad y sostuvo que la presencia milit...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "Orden Público,Ataque a uniformados,Ataque a la fuerza publica,Actos terroristas,Fuerzas Militares,Heridos,Cuidados intensivos,Tratamiento médico,Cirugías vitales,Atención a pacientes,Gobernación de Bolívar",
   "lead": "Dos de los ocho uniformados trasladados a Santander, permanecen en la Unidad de Cuidados Intensivos (UCI).",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "Sociedad,enfermedades,Ratones,Alerta,Salud",
   "lead": "La enfermedad transmitida por bacterias presentes en la orina de animales infectados, puede afectar a las personas por el contacto con agua.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -677,6 +677,138 @@
   "fecha": "2026-11-08T07:15:00-05:00",
   "palabras": "Sociedad,Turismo,turistas,Cali, Colombia",
   "lead": "En la ciudad de Cali fue desarticulada una banda dedicada a robar a turistas en la ciudad de Cali, Valle del Cauca.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Consejo de Estado condenó a la Clínica de la Policía en Envigado por lesiones permanentes a un niño",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/consejo-de-estado-condeno-a-la-clinica-de-la-policia-en-envigado-por-lesiones-permanentes-a-un-nino-rg10",
+  "fecha": "2026-11-08T10:08:25-05:00",
+  "palabras": "Policía Nacional, Envigado, Consejo de Estado, Noticias de hoy",
+  "lead": "La condena de segunda instancia es contra la Policía Nacional por las graves lesiones físicas y mentales que sufrió un niño de cuatro años, por una inyección de dipirona en 2008.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "TransMilenio se cansó de estos pasajeros: pondrán costosa multa por estos actos",
+  "enlace": "https://www.bluradio.com/regiones/bogota/transmilenio-se-canso-de-estos-pasajeros-pondran-costosa-multa-por-estos-actos-so35",
+  "fecha": "2026-11-08T09:52:15-05:00",
+  "palabras": "Transmilenio, Multas",
+  "lead": "TransMilenio sancionará con costosas multas a los pasajeros que incomoden y afecten el trayecto de los demás usuarios en el sistema.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No hemos tenido suerte con el arbitraje”: Flavio Robatto, molesto tras derrota frente a Once Caldas",
+  "enlace": "https://caracol.com.co/2026/11/08/no-hemos-tenido-suerte-con-el-arbitraje-flavio-robatto-molesto-tras-derrota-frente-a-once-caldas/",
+  "fecha": "2026-11-08T10:05:59-05:00",
+  "palabras": "",
+  "lead": "El técnico de Águilas Doradas destacó el rendimiento de su equipo a pesar de su inconformidad con la actuación arbitral.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Indignación en Valledupar por vandalismo a la estatua de Diomedes Díaz: le mutilaron un brazo",
+  "enlace": "https://caracol.com.co/2026/11/08/indignacion-en-valledupar-por-vandalismo-a-la-estatua-de-diomedes-diaz-le-mutilaron-un-brazo/",
+  "fecha": "2026-11-08T10:06:15-05:00",
+  "palabras": "",
+  "lead": "El hecho provocó la reacción del alcalde de Valledupar, Ernesto Orozco Durán, quien rechazó lo sucedido y pidió a propios y visitantes respetar las esculturas de la ciudad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trágico accidente en Brasil: 10 muertos, entre ellas 5 niños, tras caída de un carro a un lago",
+  "enlace": "https://caracol.com.co/2026/11/08/tragico-accidente-en-brasil-10-muertos-entre-ellas-5-ninos-tras-caida-de-un-carro-a-un-lago/",
+  "fecha": "2026-11-08T10:00:48-05:00",
+  "palabras": "",
+  "lead": "Según dieron a conocer las autoridades, todas las víctimas eran miembros de una misma familia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Radamel Uribe, la voz de Kbeto Zuleta que deja una huella en el vallenato: ¿Cuál fue su legado?",
+  "enlace": "https://caracol.com.co/2026/11/08/radamel-uribe-la-voz-de-kbeto-zuleta-que-deja-una-huella-en-el-vallenato-cual-fue-su-legado/",
+  "fecha": "2026-11-08T09:52:01-05:00",
+  "palabras": "",
+  "lead": "El corista y primera voz de la agrupación falleció a los 55 años tras el accidente de tránsito ocurrido el pasado 26 de octubre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "14 Emergencias se registraron en la ciudad de Armenia debido a las lluvias de este fin de semana",
+  "enlace": "https://caracol.com.co/2026/11/08/14-emergencias-se-registraron-en-la-ciudad-de-armenia-debido-a-las-lluvias-de-este-fin-de-semana/",
+  "fecha": "2026-11-08T09:42:37-05:00",
+  "palabras": "",
+  "lead": "Los deslizamientos de tierra, la principal atención de los organismos de socorro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres buques petroleros se incendiaron en el estrecho de Ormuz, según Irán",
+  "enlace": "https://caracol.com.co/2026/11/08/tres-buques-petroleros-se-incendiaron-en-el-estrecho-de-ormuz-segun-iran/",
+  "fecha": "2026-11-08T09:37:57-05:00",
+  "palabras": "",
+  "lead": "Según medios públicos de Emiratos Árabes Unidos, 22 personas han sido rescatadas de un barco en llamas en el Golfo de Omán y se encuentran en un estado estable.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Chiquinquirá desarticulan banda dedicada al tráfico de drogas y capturan a ocho personas",
+  "enlace": "https://caracol.com.co/2026/11/08/en-chiquinquira-desarticulan-banda-dedicada-al-trafico-de-drogas-y-capturan-a-ocho-personas/",
+  "fecha": "2026-11-08T09:38:03-05:00",
+  "palabras": "",
+  "lead": "La estructura delincuencial conocida como ‘Los Crack’ operaba en sectores como la plaza de mercado, el terminal de transporte y escenarios deportivos. Una mujer, señalada de coordinar la organización, estaría entre los implicados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos gemelas de 12 años habrían resultado heridas en medio de un procedimiento policial",
+  "enlace": "https://caracol.com.co/2026/11/08/dos-gemelas-de-12-anos-habrian-resultado-heridas-en-medio-de-un-procedimiento-policial/",
+  "fecha": "2026-11-08T09:34:28-05:00",
+  "palabras": "",
+  "lead": "Una de las menores habría recibido un disparo en un ojo y permanece bajo pronóstico reservado. La Fiscalía investiga lo ocurrido",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "“El sexo débil somos los hombres”: médico explica por qué",
+  "enlace": "https://www.lafm.com.co/sociedad/esperanza-vida-hombres-mujeres-colombia-diferencia-416510",
+  "fecha": "2026-11-08T09:53:00-05:00",
+  "palabras": "Sociedad,Brecha de género,Diferencia de edad,Hombres,Envejecimiento,Estilo de vida,Homicidios,Tabaquismo,Autocuidado,Estrés,trastorno psicológico",
+  "lead": "El médico Juan Manuel Anaya Cabrera explicó que existen diferencias biológicas importantes entre ambos sexos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan a hacker que tenía información de inteligencia del Estado",
+  "enlace": "https://www.lafm.com.co/orden-publico/capturan-hacker-neiva-informacion-inteligencia-contrainteligencia-estado-416504",
+  "fecha": "2026-11-08T09:34:00-05:00",
+  "palabras": "Orden Público,Neiva,Dirección Nacional de Inteligencia,Capturados,Informe de inteligencia",
+  "lead": "El hombre sería integrante de la Dirección Nacional de Inteligencia (DNI), donde presuntamente se desempeñaría como gestor de inteligencia.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
