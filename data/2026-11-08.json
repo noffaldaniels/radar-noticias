@@ -381,7 +381,7 @@
   "palabras": "Papa León XIV, Uruguay",
   "lead": "Durante su visita a Casavalle, en Montevideo, el pontífice alertó sobre el impacto del narcotráfico, la pobreza y la inseguridad en la vida de los menores y sus familias.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Caracol TV, atentado terrorista, Abelardo De La Espriella, ELN",
   "lead": "El mandatario aseguró que impartió instrucciones para proteger a periodistas, trabajadores y sus familias.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "El Hospital Universitario de Santander recibió a ocho integrantes de las Fuerzas Militares heridos durante el ataque terrorista.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "Nueve sectores de Yumbo tendrán suministro de agua mediante carrotanques mientras EMCALI trabaja para reparar la tubería y normalizar el servicio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "Un hombre fue asesinado luego de que aparentemente ofreciera dinero a dos niñas para que ingresaran a su hotel.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "El portero guajiro terminó siendo figura en el título de la Liga Argentina alcanzado por el equipo Xeneize.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "Recuerde que todas las ciudades cuentan con un indicador diferente. Le hacemos el listado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "De acuerdo con la información entregada por las autoridades, los procedimientos se desarrollaron a través de actividades de registro, control, prevención y disuasión.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,6 +469,215 @@
   "palabras": "Política,Abelardo de la Espriella,Sistema carcelario,Reforma Carcelaria,Inpec,Cárcel,Cárcel La Picota,bienes incautados,establecimientos,Represión",
   "lead": "Celulares, armas cortopunzantes, droga y licor fueron incautados en la cárcel El Barne, en Cómbita, Boyacá.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alerta en Suárez, Cauca, por activación de artefacto explosivo en la vía al corregimiento Betulia",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/alerta-en-suarez-cauca-por-activacion-de-artefacto-explosivo-en-la-via-al-corregimiento-betulia-rg10",
+  "fecha": "2026-11-08T08:42:17-05:00",
+  "palabras": "Cauca, Betulia",
+  "lead": "Autoridades pidieron a conductores, motociclistas y peatones transitar con máxima precaución, evitar acercarse a elementos sospechosos y abstenerse de manipular objetos que pueda representar riesgo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Empresario resultó herido en ataque a tiros atribuido al Clan del Golfo en zona rural de Yarumal",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/empresario-resulto-herido-en-ataque-a-tiros-atribuido-al-clan-del-golfo-en-zona-rural-de-yarumal-rg10",
+  "fecha": "2026-11-08T08:45:11-05:00",
+  "palabras": "Clan del Golfo, Antioquia, Noticias de hoy",
+  "lead": "Los hechos ocurrieron cuando la víctima regresaba de su jornada laboral y fue interceptada por hombres armados que le dispararon.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Emergencia por lluvias afecta el suministro de agua en 24 barrios de Cali",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/emergencia-por-lluvias-afecta-el-suministro-de-agua-en-24-barrios-de-cali-rg10",
+  "fecha": "2026-11-08T08:51:22-05:00",
+  "palabras": "Cali, Emergencias por lluvias, Cortes de agua",
+  "lead": "Las fuertes lluvias y la alta turbiedad del río Cali obligaron a Emcali a suspender temporalmente la potabilización de agua en la Planta Río Cali por arrastre de material vegetal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Remiten a Santander a soldados heridos en ataque a base militar de Santa Rosa del Sur",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/remiten-a-santander-a-soldados-heridos-en-ataque-a-base-militar-de-santa-rosa-del-sur-rg10",
+  "fecha": "2026-11-08T09:06:56-05:00",
+  "palabras": "Santander, Gobernación de Santander, Ejército Nacional, Hospital Universitario de Santander",
+  "lead": "Ocho reciben atención médica en el Hospital Universitario de Santander, uno de los uniformados ingresó de gravedad a cirugía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fomag anuncia acuerdos con centros asistenciales en Antioquia: vuelven servicios de cancerología",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/fomag-anuncia-acuerdos-con-centros-asistenciales-en-antioquia-vuelven-servicios-de-cancerologia-rg10",
+  "fecha": "2026-11-08T08:54:39-05:00",
+  "palabras": "Cáncer, Fomag, Antioquia, Noticias de hoy",
+  "lead": "Luego de que el Ministerio de Educación anunciara el fin del contrato de la Fiduprevisora con el Fomag, la entidad logró llegar a acuerdos con Clínica y hospitales de Antioquia para formalizar contratos y fortalecer la atención en salud de los maestros.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Subsidios se podrán transferir por Bre-B: usuarios de caja de compensación tendrán pago inmediato",
+  "enlace": "https://www.bluradio.com/economia/subsidios-se-podran-transferir-por-bre-b-usuarios-de-caja-de-compensacion-tendran-pago-inmediato-so35",
+  "fecha": "2026-11-08T09:09:06-05:00",
+  "palabras": "Subsidios, Bre-B, Colsubsidio",
+  "lead": "Más de 408.000 afiliados podrán enviar este beneficio a una cuenta financiera propia sin necesidad de retirar efectivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinDefensa anunció que se tomarán medidas para proteger a medios de comunicación tras amenazas",
+  "enlace": "https://caracol.com.co/2026/11/08/mindefensa-anuncio-que-se-tomaran-medidas-para-proteger-a-medios-de-comunicacion-tras-amenazas/",
+  "fecha": "2026-11-08T09:16:26-05:00",
+  "palabras": "",
+  "lead": "El ministro Jorge Mora anunció el despliegue de todas las capacidades para prevenir cualquier atentado, esclarecer los hechos y capturar a los responsables.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lucas González pide coherencia a Lorenzo: “Nuestros jugadores tienen que ir o el club es sancionado”",
+  "enlace": "https://caracol.com.co/2026/11/08/lucas-gonzalez-pide-coherencia-a-lorenzo-nuestros-jugadores-tienen-que-ir-o-el-club-es-sancionado/",
+  "fecha": "2026-11-08T09:11:06-05:00",
+  "palabras": "",
+  "lead": "El técnico de Atlético Nacional aseguró que no es coherente que Álvaro Montero no haya sido citado para los amistosos ante Chile, pero sí sus jugadores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incautan 264 celulares y drogas en cárcel de El Barne en Cómbita, Boyacá",
+  "enlace": "https://caracol.com.co/2026/11/08/incautan-264-celulares-y-drogas-en-carcel-de-el-barne-en-combita-boyaca/",
+  "fecha": "2026-11-08T09:04:14-05:00",
+  "palabras": "",
+  "lead": "Con 300 funcionarios del INPEC y la Policía Nacional se adelantó una intervención de registro y control en el centro penitenciario de Boyacá. El presidente Abelardo de la Espriella destacó los resultados y anunció más controles contra las redes criminales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un terremoto de 5,7 sacude el centro de Japón y deja al menos una veintena de heridos",
+  "enlace": "https://caracol.com.co/2026/11/08/un-terremoto-de-57-sacude-el-centro-de-japon-y-deja-al-menos-una-veintena-de-heridos/",
+  "fecha": "2026-11-08T08:59:18-05:00",
+  "palabras": "",
+  "lead": "El temblor alcanzó el nivel 5 de la escala sísmica nipona (de 7 niveles y centrada en medir la agitación sobre la superficie y los potenciales daños) en algunas zonas de las prefecturas de Aichi, Nagano, Gifu y Shizuoka.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empresario resultó herido tras ataque armado del Clan del Golfo en zona rural de Yarumal",
+  "enlace": "https://caracol.com.co/2026/11/08/empresario-resulto-herido-tras-ataque-armado-del-clan-del-golfo-en-zona-rural-de-yarumal/",
+  "fecha": "2026-11-08T08:57:08-05:00",
+  "palabras": "",
+  "lead": "La rápida intervención del Ejército Nacional permitió evitar que el hombre fuera asesinado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rafael Dudamel, satisfecho con el empate en el clásico: “Hemos hecho un partido bravísimo”",
+  "enlace": "https://caracol.com.co/2026/11/08/rafael-dudamel-satisfecho-con-el-empate-en-el-clasico-hemos-hecho-un-partido-bravisimo/",
+  "fecha": "2026-11-08T08:54:24-05:00",
+  "palabras": "",
+  "lead": "El técnico del Deportivo Cali destacó el rendimiento táctico de su equipo ante el América y valoró la fortaleza competitiva que ha mostrado en las últimas jornadas.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En falsos puestos de control ‘Los Mimos’ secuestraban a conductores y robaban sus carros",
+  "enlace": "https://caracol.com.co/2026/11/08/en-falsos-puestos-de-control-los-mimos-secuestraban-a-conductores-y-robaban-sus-carros/",
+  "fecha": "2026-11-08T08:43:07-05:00",
+  "palabras": "",
+  "lead": "Fueron capturadas y judicializadas 10 personas que harían parte de esta organización delincuencial. Los vehículos hurtados en carreteras de Tolima eran desmantelados y sus partes comercializadas de manera ilegal de Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En qué consiste el plan de oportunidades ICETEX con cartera castigada: Beneficios y condonación",
+  "enlace": "https://caracol.com.co/2026/11/08/en-que-consiste-el-plan-de-oportunidades-icetex-con-cartera-castigada-beneficios-y-condonacion/",
+  "fecha": "2026-11-08T08:26:42-05:00",
+  "palabras": "",
+  "lead": "La medida estará disponible desde el 9 de junio 2026 y hasta finalizar la vigencia del Plan Nacional de Desarrollo 2022-2026 del presente Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Va a alquilar un apartamento para vacaciones? Conozca los riesgos",
+  "enlace": "https://www.lafm.com.co/sociedad/viviendas-turisticas-colombia-inseguridad-evasion-fiscal-416508",
+  "fecha": "2026-11-08T08:53:00-05:00",
+  "palabras": "Sociedad,sector turístico,Turismo,Arrendamientos,Lavado de activos,Trata de personas,organizaciones criminales",
+  "lead": "El general (r) Juan Carlos Buitrago, explicó que detrás de la informalidad de este mercado se estaría consolidando un sistema de economías criminales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Militares en las calles? Bogotá podría desplegar 2.000 soldados",
+  "enlace": "https://www.lafm.com.co/orden-publico/bogota-militarizacion-proponen-desplegar-2000-militares-calles-barrios-afectados-inseguridad-416505",
+  "fecha": "2026-11-08T08:46:00-05:00",
+  "palabras": "Orden Público,Fuerzas Militares,Ejército Nacional,Inseguridad,Operativos militares,Ley de Seguridad Ciudadana,Grupos Armados Organizados",
+  "lead": "El concejal de Bogotá por el Centro Democrático, Julián Uscátegui, aseguró que la ciudad atraviesa una crisis de seguridad y sostuvo que la presencia milit...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "HUS revela estado de salud de militares heridos en Bolívar",
+  "enlace": "https://www.lafm.com.co/orden-publico/soldados-heridos-tras-atentado-con-drones-explosivos-canton-militar-bolivar-hospital-universitario-santander-entrega-balance-estado-salud-416507",
+  "fecha": "2026-11-08T08:43:00-05:00",
+  "palabras": "Orden Público,Ataque a uniformados,Ataque a la fuerza publica,Actos terroristas,Fuerzas Militares,Heridos,Cuidados intensivos,Tratamiento médico,Cirugías vitales,Atención a pacientes,Gobernación de Bolívar",
+  "lead": "Dos de los ocho uniformados trasladados a Santander, permanecen en la Unidad de Cuidados Intensivos (UCI).",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Van más de 4.200 casos de leptospirosis en Colombia",
+  "enlace": "https://www.lafm.com.co/sociedad/leptospirosis-enfermedada-asociada-roedores-van-mas-de-4200-casos-en-colombia-alerta-prevencion-sintomas-416506",
+  "fecha": "2026-11-08T08:35:00-05:00",
+  "palabras": "Sociedad,enfermedades,Ratones,Alerta,Salud",
+  "lead": "La enfermedad transmitida por bacterias presentes en la orina de animales infectados, puede afectar a las personas por el contacto con agua.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Desarticulan banda dedicada a robar turistas en Cali",
+  "enlace": "https://www.lafm.com.co/sociedad/turistas-extranjeros-cali-robos-los-obligaban-realizar-millonarias-transferencias-bancarias-desde-celular-416497",
+  "fecha": "2026-11-08T07:15:00-05:00",
+  "palabras": "Sociedad,Turismo,turistas,Cali, Colombia",
+  "lead": "En la ciudad de Cali fue desarticulada una banda dedicada a robar a turistas en la ciudad de Cali, Valle del Cauca.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
