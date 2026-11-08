@@ -205,7 +205,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Congreso de la República, Reforma tributaria, Abelardo De La Espriella",
   "lead": "Este sábado se reunieron los congresistas de las comisiones económicas con el Ejecutivo en la sede alterna de la Presidencia en Barranquilla. El Centro Democrático presentó un borrador de propuestas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Barranquilla, Vallenato",
   "lead": "La muerte del músico se suma a la de otros integrantes de la agrupación vallenata que viajaban en el bus que cayó al río Ariguaní. El cantante Kbeto Zuleta continúa hospitalizado en Barranquilla.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Bogotá, Calle 13, Movilidad",
   "lead": "Durante el primer mes, los tiempos de ingreso a Bogotá desde el occidente se redujeron un 53,7 %, según las mediciones oficiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Autoridades en máxima alerta por acciones del ELN",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Se trata de Radamel Uribe Navarro, quien se desempeñaba como corista y primera voz de la agrupación",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "Con cilindros cargados con explosivos se pretendía afectar una unidad militar",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "El departamento de salud entregó recomendaciones en caso de intoxicación o quemaduras",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "La cita es para el jueves 12 de noviembre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "El técnico del América analizó el empate sin goles frente al Deportivo Cali y se refirió al estado del Pascual Guerrero.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "47 hombres y mujeres también permanecen heridos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "El aumento de la turbiedad y el arrastre de material vegetal obligaron a EMCALI a suspender temporalmente la captación y potabilización de agua",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Intolerancia y faltas de respeto entre las partes abundan en los procedimientos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "Orden Público,Sur de Bolívar,Ataque con granada,ataque explosivo,Ejército Nacional,Abelardo de la Espriella",
   "lead": "El Ejército Nacional reveló la identidad de los tres soldados que murieron tras un ataque terrorista en el sur de Bolívar.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "Internacional,terremoto,japón,Heridos,Temblor,Asia",
   "lead": "Japón está situado en la conjunción de cuatro grandes placas tectónicas y sufre alrededor de 18% de los sismos registrados a nivel mundial.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "Actualidad,Lluvias,Emergencia,Inundaciones,Agua,Acueducto,Emcali",
   "lead": "Autoridades hacen seguimiento a la caída de árboles en Cali y la suspensión del servicio de acueducto en más de 20 barrios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -369,6 +369,105 @@
   "fecha": "2026-11-08T06:52:00-05:00",
   "palabras": "Actualidad,Gobernación del Magdalena,críticas,polémica,Irregularidades en manejo de recursos,Irregularidades en contratos,Polémicos contratos,Quejas,debate político,Oposición,Funcionarios públicos",
   "lead": "La funcionaria respondió a críticas de algunos sectores políticos, que la calificaron de desleal.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Papa León XIV denuncia la violencia contra los niños durante su visita a barrio peligroso de Uruguay",
+  "enlace": "https://www.bluradio.com/mundo/papa-leon-xiv-denuncia-la-violencia-contra-los-ninos-durante-su-visita-a-barrio-peligroso-de-uruguay-cb20",
+  "fecha": "2026-11-08T08:21:33-05:00",
+  "palabras": "Papa León XIV, Uruguay",
+  "lead": "Durante su visita a Casavalle, en Montevideo, el pontífice alertó sobre el impacto del narcotráfico, la pobreza y la inseguridad en la vida de los menores y sus familias.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Ningún grupo narcoterrorista silenciará a medios”: De La Espriella tras amenazas a Caracol TV y RCN",
+  "enlace": "https://www.bluradio.com/nacion/ningun-grupo-narcoterrorista-silenciara-a-medios-de-la-espriella-tras-amenazas-a-caracol-tv-y-rcn-so35",
+  "fecha": "2026-11-08T08:15:29-05:00",
+  "palabras": "Caracol TV, atentado terrorista, Abelardo De La Espriella, ELN",
+  "lead": "El mandatario aseguró que impartió instrucciones para proteger a periodistas, trabajadores y sus familias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En la UCI del HUS permanecen dos militares tras atentado contra cantón militar en el Sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/08/en-la-uci-del-hus-permanecen-dos-militares-tras-atentado-contra-canton-militar-en-el-sur-de-bolivar/",
+  "fecha": "2026-11-08T08:21:49-05:00",
+  "palabras": "",
+  "lead": "El Hospital Universitario de Santander recibió a ocho integrantes de las Fuerzas Militares heridos durante el ataque terrorista.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daño en tubería y fuertes lluvias afectan el suministro de agua en Yumbo, Valle",
+  "enlace": "https://caracol.com.co/2026/11/08/dano-en-tuberia-y-fuertes-lluvias-afectan-el-suministro-de-agua-en-yumbo-valle/",
+  "fecha": "2026-11-08T08:21:20-05:00",
+  "palabras": "",
+  "lead": "Nueve sectores de Yumbo tendrán suministro de agua mediante carrotanques mientras EMCALI trabaja para reparar la tubería y normalizar el servicio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría pidió informe por presunta explotación sexual que terminó en homicidio en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/08/procuraduria-pidio-informe-por-presunta-explotacion-sexual-que-termino-en-homicidio-en-medellin/",
+  "fecha": "2026-11-08T08:18:02-05:00",
+  "palabras": "",
+  "lead": "Un hombre fue asesinado luego de que aparentemente ofreciera dinero a dos niñas para que ingresaran a su hotel.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Álvaro Montero tras su primer título con Boca Juniors: “Vengo con hambre de ganar”",
+  "enlace": "https://caracol.com.co/2026/11/08/alvaro-montero-tras-su-primer-titulo-con-boca-juniors-vengo-con-hambre-de-ganar/",
+  "fecha": "2026-11-08T08:05:21-05:00",
+  "palabras": "",
+  "lead": "El portero guajiro terminó siendo figura en el título de la Liga Argentina alcanzado por el equipo Xeneize.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo marcar desde celular a teléfono fijo en Colombia? Lista completa de indicativos por ciudad",
+  "enlace": "https://caracol.com.co/2026/11/08/como-marcar-desde-celular-a-telefono-fijo-en-colombia-lista-completa-de-indicativos-por-ciudad/",
+  "fecha": "2026-11-08T08:13:16-05:00",
+  "palabras": "",
+  "lead": "Recuerde que todas las ciudades cuentan con un indicador diferente. Le hacemos el listado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía captura a 24 personas e incauta cuatro armas en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/08/policia-captura-a-24-personas-e-incauta-cuatro-armas-en-barranquilla/",
+  "fecha": "2026-11-08T08:12:25-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con la información entregada por las autoridades, los procedimientos se desarrollaron a través de actividades de registro, control, prevención y disuasión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella ordena operación en la cárcel El Barne",
+  "enlace": "https://www.lafm.com.co/politica/de-la-espriella-operacion-carcel-el-barne-combita-boyaca-la-picota-416496",
+  "fecha": "2026-11-08T06:55:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Sistema carcelario,Reforma Carcelaria,Inpec,Cárcel,Cárcel La Picota,bienes incautados,establecimientos,Represión",
+  "lead": "Celulares, armas cortopunzantes, droga y licor fueron incautados en la cárcel El Barne, en Cómbita, Boyacá.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
