@@ -821,7 +821,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Girón, Emergencias por lluvias",
   "lead": "La víctima fue identificada como Carlos Arturo Gómez Pico, conocido como 'Pico' en el corregimiento de Acapulco. Su cuerpo fue localizado en la vereda Barbosa después de un amplio operativo de búsqueda.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Valle del Cauca, Homicidios, Policía Nacional",
   "lead": "Las víctimas se encontraban en el barrio San Sebastián cuando fueron interceptadas por varios sujetos que, al parecer, las atacaron con arma de fuego. El menor de edad fue trasladado a un hospital.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Noticias de hoy, Economía, Medellín, Alcaldía de Medellín",
   "lead": "En la comparación con sus pares, la ciudad se ubica por encima de Bogotá, Cali, Barranquilla y el departamento de Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "Adolescentes",
   "lead": "La alimentación, algunas enfermedades y las deficiencias vitamínicas también pueden influir en la salud capilar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "Noticias de hoy, San Andrés y Providencia, Ministerio de Salud, Superintendencia de Salud, Abelardo De La Espriella",
   "lead": "La agente Interventora, Marjorie Englehard, denunció que los dineros asignados no están en las cuentas del centro asistencial. Saldos pendientes corresponden a hechos ocurridos antes de la intervención.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "En Blu Jeans del domingo, 8 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "Dos hombres llegaron disparando a un establecimiento comercial del municipio. La Policía confirmó la captura de uno de los presuntos responsables.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "Expresó que las acciones del Gobierno nacional permitirán recuperar la seguridad en esta zona de Bolívar",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "Federico Gutiérrez aseguró que las organizaciones criminales no pueden imponer el miedo entre los ciudadanos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "En este capítulo de Mis Preguntas, Roberto Pombo plantea: ¿Se salió de control la Inteligencia Artificial?.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "La Policía realizó una jornada de acercamiento con residentes y vendedores informales de este sector turístico de Santa Marta, donde entregó recomendaciones de seguridad y recordó la importancia de denunciar a través de la línea 165.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "La invitación permanecerá abierta hasta el 29 de noviembre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Entretanto, los organismos de socorro mantienen las labores de búsqueda de Zoé, que se han extendido hasta el río Magdalena.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Las actividades están generando erosión, inestabilidad del terreno y afectaciones a fuentes hídricas y cobertura vegetal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Los fósiles de este animal están en el Museo del Servicio Geológico Colombiano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "En una misa al aire libre hecha en el marco de su gira por América Latina, el pontífice hizo un llamado a los hombres de la región.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Los órganos electorales también se pronunciaron y pidieron garantizar la labor y seguridad de quienes ejercen el periodismo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "Ante el fallecimiento de una persona con obligaciones financieras, es importante revisar las condiciones del crédito y los seguros asociados antes de asumir que la deuda debe ser pagada por sus familiares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Internacional,Papa León XIV,Vaticano,Javier Milei,Argentina,Iglesia Católica,Pobreza",
   "lead": "El periodista argentino Facundo Landívar explicó que el entusiasmo responde, en buena medida, a una deuda histórica.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "Sociedad,Cuidado de la piel,cosméticos,Protector solar,manchas en la piel,Dermatología,recomendaciones,Protección,Luz ultravioleta,tratamientos estéticos",
   "lead": "Algunas fórmulas tienen ingredientes como el ácido hialurónico, utilizados en productos hidratantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "Internacional,ultraderecha,Jair Bolsonaro,Política internacional,debate político,Polarización,Líderes religiosos",
   "lead": "Figuras como Donald Trump en Estados Unidos y Jair Bolsonaro en Brasil han impulsado nuevas formas de hacer política, caracterizadas por la confrontación c...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "Política,Abelardo de la Espriella,Drones,Ataque a la fuerza publica,Grupos terroristas,Fuerzas Militares,Víctimas,Ataque aéreo",
   "lead": "El jefe de Estado explicó que la apuesta tiene dos frente, una de esas es para neutralizar los drones que usan los grupos armados contra la Fuerza Pública.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "Orden Público,Guerra,Ucrania,Rusia,viaje,Día de la Madre,Madres cabeza de familia,Antioquia",
   "lead": "La última comunicación fue el mismo día del ataque. Ana Cecilia cuenta que su hijo, que tenía a cargo la radio y el celular de su unidad.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,6 +1074,182 @@
   "palabras": "Política,Gustavo Petro,Polémicos contratos,Irregularidades en contratos,Contratación,contratos,Investigaciones,Conflicto de intereses,Lucha anticorrupción,Fiscalía General de la Nación",
   "lead": "La nueva conversación se conoce en medio de las investigaciones por los denominados “sexocontratos”.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Detienen a querido futbolista por chocar y conducir ebrio",
+  "enlace": "https://www.bluradio.com/deportes/detienen-a-querido-futbolista-por-chocar-y-conducir-ebrio-cb20",
+  "fecha": "2026-11-08T11:20:48-05:00",
+  "palabras": "Chile, Accidente de tránsito",
+  "lead": "El futbolista, salió ileso del accidente, pero el conductor contra el que chocó tuvo que ser trasladado a un hospital.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Choque de trenes provoca cuatro muertos y 88 heridos en una zona al sur de El Cairo, Egipto",
+  "enlace": "https://www.bluradio.com/mundo/choque-de-trenes-provoca-cuatro-muertos-y-88-heridos-en-una-zona-al-sur-de-el-cairo-egipto-cb20",
+  "fecha": "2026-11-08T11:42:56-05:00",
+  "palabras": "Egipto, Accidente de tránsito",
+  "lead": "Las autoridades ordenaron una investigación urgente para establecer las causas del siniestro y determinar posibles responsabilidades, mientras los equipos de emergencia trabajan en la zona.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hamilton llevó sonidos afrocaribeños al medio tiempo de la NFL en Madrid: así fue su presentación",
+  "enlace": "https://caracol.com.co/2026/11/08/hamilton-llevo-los-sonidos-afrocaribenos-al-medio-tiempo-de-la-nfl-en-madrid/",
+  "fecha": "2026-11-08T12:10:32-05:00",
+  "palabras": "",
+  "lead": "El artista cartagenero fue invitado sorpresa de Manuel Turizo durante el espectáculo del NFL Madrid Game 2026, en el estadio Santiago Bernabéu, donde interpretó ‘YOYO’ junto a Zaider.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Culmina la renovación de uno de los mercados más tradicionales de Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/08/culmina-la-renovacion-de-uno-de-los-mercados-mas-tradicionales-de-barranquilla/",
+  "fecha": "2026-11-08T12:10:06-05:00",
+  "palabras": "",
+  "lead": "Con esta cuarta fase, la administración distrital reportó un total de 702 locales comerciales y 138 espacios de ampliación, como resultado de una inversión que supera los $41.000 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Metro de Bogotá supera el 84% de ejecución tras completar el puente de la NQS con calle 8 sur",
+  "enlace": "https://caracol.com.co/2026/11/08/el-metro-de-bogota-supera-el-84-de-ejecucion-tras-completar-el-puente-de-la-nqs-con-calle-8-sur/",
+  "fecha": "2026-11-08T12:05:58-05:00",
+  "palabras": "",
+  "lead": "La estructura tiene una longitud de 159 metros, distribuidos en tres tramos: dos laterales de 45 metros y uno central de 69 metros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cargos a concejales de Cantagallo- Bolívar por presuntas irregularidades en adición presupuestal",
+  "enlace": "https://caracol.com.co/2026/11/08/cargos-a-concejales-de-cantagallo-bolivar-por-presuntas-irregularidades-en-adicion-presupuestal/",
+  "fecha": "2026-11-08T12:05:50-05:00",
+  "palabras": "",
+  "lead": "Los recursos en cuestión están cercanos a 11 mil millones de pesos",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por fin, están notificando a beneficiaros de tarifa diferencial de $700 pesos en peajes en Quindío",
+  "enlace": "https://caracol.com.co/2026/11/08/por-fin-estan-notificando-a-beneficiaros-de-tarifa-diferencial-de-700-pesos-en-peajes-en-quindio/",
+  "fecha": "2026-11-08T11:59:33-05:00",
+  "palabras": "",
+  "lead": "Así lo confirmó el alcalde del municipio de Filandia, Quindío, Duberney Pareja",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín recolectó más de 47 toneladas de alimentos y $624 millones en donatón contra el hambre",
+  "enlace": "https://caracol.com.co/2026/11/08/medellin-recolecto-mas-de-47-toneladas-de-alimentos-y-624-millones-en-donaton-contra-el-hambre/",
+  "fecha": "2026-11-08T11:59:00-05:00",
+  "palabras": "",
+  "lead": "Los resultado hicieron parte de la tercera Donatón de la Alianza Medellín Cero Hambre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Violencia en Santa Rosa y sur de Bolívar exige respuesta urgente del Estado: Defensoría del Pueblo",
+  "enlace": "https://caracol.com.co/2026/11/08/violencia-en-santa-rosa-y-sur-de-bolivar-exige-respuesta-urgente-del-estado-defensoria-del-pueblo/",
+  "fecha": "2026-11-08T11:58:16-05:00",
+  "palabras": "",
+  "lead": "El organismo señaló que el atentado ocurrió mientras se desarrollaba un consejo de seguridad en la alcaldía municipal",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Golpe al delito en el Magdalena: 15 capturados y más de 500 dosis de estupefacientes incautadas",
+  "enlace": "https://caracol.com.co/2026/11/08/golpe-al-delito-en-el-magdalena-15-capturados-y-mas-de-500-dosis-de-estupefacientes-incautadas/",
+  "fecha": "2026-11-08T11:55:00-05:00",
+  "palabras": "",
+  "lead": "Entre los detenidos está alias ‘Chico’, señalado por la Policía de pertenecer al Clan del Golfo y estar relacionado con hechos de sicariato. También fue incautada una pistola y 14 cartuchos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Junior vs. Cúcuta, por la fecha 18 de la Liga colombiana: prográmese con el juego decisivo",
+  "enlace": "https://caracol.com.co/2026/11/08/junior-vs-cucuta-por-la-fecha-18-de-la-liga-colombiana-programese-con-el-juego-decisivo/",
+  "fecha": "2026-11-08T11:44:45-05:00",
+  "palabras": "",
+  "lead": "El equipo Motilón necesita ganar en Barranquilla para mantener sus opciones de clasificar a los cuadrangulares semifinales.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Es un pirómano en el poder”: Hassan Nassar, periodista, sobre Gustavo Petro",
+  "enlace": "https://caracol.com.co/2026/11/08/es-un-piromano-en-el-poder-hassan-nassar-periodista-sobre-gustavo-petro/",
+  "fecha": "2026-11-08T11:25:38-05:00",
+  "palabras": "",
+  "lead": "Hassan Nassar, periodista colombiano, explicó el significado de su nuevo libro ‘Un pirómano en el poder’, mencionado que el expresidente Petro hace parte de ese concepto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Es un hecho que enluta nuestro municipio”: alcalde de Santa Rosa del sur tras atentado a Ejército",
+  "enlace": "https://caracol.com.co/2026/11/08/es-un-hecho-que-enluta-nuestro-municipio-alcalde-de-santa-rosa-del-sur-tras-atentado-a-ejercito/",
+  "fecha": "2026-11-08T11:18:26-05:00",
+  "palabras": "",
+  "lead": "El mandatario Milton Olaya, pidió además el apoyo del Gobierno Nacional",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos anunció la creación de un grupo para bloquear rutas terrestres hacia Irán",
+  "enlace": "https://caracol.com.co/2026/11/08/estados-unidos-anuncio-la-creacion-de-un-grupo-para-bloquear-rutas-terrestres-hacia-iran/",
+  "fecha": "2026-11-08T11:11:50-05:00",
+  "palabras": "",
+  "lead": "La decisión fue tomada, según Washington, para evitar el envío de armas y mercancía ilegal.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dólar en casas de cambio hoy 8 de noviembre: precio de compra y venta",
+  "enlace": "https://www.lafm.com.co/economia/dolar-casas-cambio-hoy-8-noviembre-2026-precio-compra-y-venta-416517",
+  "fecha": "2026-11-08T12:12:00-05:00",
+  "palabras": "Economía,Tasa Representativa del Mercado,Dólar en Colombia,Casas de cambio,Superintendencia Financiera de Colombia,Superfinanciera,Banco de la República,Dólar",
+  "lead": "Para quienes necesitan comprar o vender dólares, las casas de cambio manejan cotizaciones propias que pueden variar entre establecimientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿De qué murió Charles Porter, el actor de series como ‘Dr. House’ y ‘Bones’?",
+  "enlace": "https://www.lafm.com.co/entretenimiento/murio-charles-porter-actor-series-dr-house-bones-perfil-416519",
+  "fecha": "2026-11-08T11:41:00-05:00",
+  "palabras": "Entretenimiento,actor,Cáncer,Oncología,Parte médico,Días de luto,celebridades",
+  "lead": "Porter también actuó en ‘Celtic Pride’ (1996), ‘Johnny Was’ (2006) y ‘Peppermint’.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
