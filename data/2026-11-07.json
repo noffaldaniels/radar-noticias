@@ -2636,7 +2636,7 @@
   "palabras": "Gatos, Animales, Mi gato no ronronea, felinos , gatos",
   "lead": "Que su gato no ronronee al recibir caricias puede generar dudas, pero existen varias explicaciones para este comportamiento, desde su personalidad hasta señales de salud que conviene identificar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2647,7 +2647,7 @@
   "palabras": "Diomedes Diaz, Vallenato, Viral",
   "lead": "La estatua de Diomedes Díaz fue vandalizada en Valledupar. El alcalde Ernesto Orozco rechazó el hecho y anunció medidas para repararla.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "NASA, Estados Unidos, La Luna",
   "lead": "Funcionarios de la NASA revelaron en una rueda de prensa que otorgaron un contrato base de 94 millones de dólares para transportar en 2028 al vehículo, llamado Promise, hasta el polo sur de la Luna.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "Accidente de tránsito, Movilidad",
   "lead": "Según las primeras versiones, el siniestro habría involucrado a dos motociclistas, un bus y un vehículo particular.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "",
   "lead": "Así funciona la estrategia de pasajes gratis en Bogotá para beneficiarios del programa Ingreso Mínimo Garantizado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2691,7 +2691,7 @@
   "palabras": "",
   "lead": "Vea EN VIVO el sorteo 4650 de la Lotería de Boyacá de este sábado y conozca los números ganadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2702,7 +2702,7 @@
   "palabras": "",
   "lead": "Los heroicos superaron por la mínima diferencia a Real Cundinamarca",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2713,7 +2713,7 @@
   "palabras": "",
   "lead": "Ambos equipos siguen en carrera para conseguir el punto invisible.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "",
   "lead": "La víctima se recupera en un centro asistencial y está fuera de peligro",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "",
   "lead": "El equipo antioqueño se aseguró, como mínimo, terminar segundo en dicha tabla al final",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "",
   "lead": "El atacante samario registra 13 anotaciones en la presente temporada con el club portugués.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,7 +2757,7 @@
   "palabras": "",
   "lead": "El mandatario advirtió que si Juan Carlos Mesa Vallejo continúa delinquiendo mantendrá los operativos contra su estructura criminal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2768,7 +2768,7 @@
   "palabras": "Política,Reforma tributaria,Impuestos,déficit fiscal,Recaudo tributario,Plan de austeridad,Centro Democrático,José Manuel Restrepo,Abelardo de la Espriella",
   "lead": "Durante la reunión con las comisiones económicas del Congreso, el Ejecutivo presentó los principales aspectos de la reforma tributaria.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2779,7 +2779,7 @@
   "palabras": "Economía,obligaciones tributarias,Daviplata,Impuestos,Beneficios tributarios,Incentivos tributarios,Recaudo tributario,Cuentas bancarias,Cuenta bancaria,Bancos colombianos",
   "lead": "El Gravamen a los Movimientos Financieros (GMF), conocido como 4x1000, corresponde a un impuesto que se aplica a ciertas operaciones financieras.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "Deportes,Boca Juniors,Defensa y Justicia,campeón,Copa Sudamericana,Superliga Argentina,Recopa Sudamericana,Barranquilla,Sebastián Villa",
   "lead": "Todos en el estadio Gigante de Arroyito festejaron de manera anticipada el título de la Tabla Anual que terminó ganando Boca Juniors.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "Sociedad,Colegios,Calendarios escolares,pruebas,Examen,Ministerio de Educación,Matemáticas,educación virtual,Maestros,secretaria de Educación,resultados",
   "lead": "La evaluación contempla a alumnos de tercero, quinto, séptimo y noveno en Matemáticas, Lenguaje y Desarrollo Socioemocional, con opciones online y offline.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "Sociedad,ICBF,Primera Infancia,contratos,Acuerdo,Negociación,Contratistas,Rendición de cuentas,Documentos",
   "lead": "El ICBF y las comunidades indígenas del Cauca fijaron las exigencias de supervisión para contratos 2026 del programa 'Semillas de Vida'.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "Sociedad,Tsunami,Sistema de Alertas Tempranas,Evacuación de civiles,Tumaco,Inundaciones,Vigilancia,Investigaciones,Científicos,Desastres naturales",
   "lead": "Más de 470 personas participaron en jornadas de capacitación sobre prevención, mientras autoridades avanzan en comités locales, mapas de inundación y rutas...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "Actualidad,Vendedores ambulantes,Cali, Colombia,Alcaldía de Cali,espacio,Policía Nacional,funcionario público,funcionarios",
   "lead": "Tras un operativo de recuperación del espacio público en el centro de Cali, las autoridades avanzan en la devolución de la mercancía incautada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "Orden Público,Concejo de Bogotá,Distrito,Carlos Fernando Galán,Inseguridad",
   "lead": "Cabildo en Bogotá: ¿el Ejército debe salir a las calles? 2.000 efectivos, asistencia militar vs militarización y límites frente a delitos comunes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2855,6 +2855,149 @@
   "fecha": "2026-11-07T13:23:00-05:00",
   "palabras": "Orden Público,Concierto para delinquir,hurto,Grupo Delincuencial Organizado,organizaciones criminales,Red delincuencial,Delincuentes capturados,Fiscalía General de la Nación,Acusaciones,presos",
   "lead": "Con identidades falsas y tareas repartidas entre sus miembros, la organización habría distraído a los equipos de seguridad para apoderarse de objetos allí.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de Boyacá: resultado del último sorteo sábado 7 de noviembre",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-boyaca-resultado-del-ultimo-sorteo-sabado-7-de-noviembre-so35",
+  "fecha": "2026-11-07T21:40:02-05:00",
+  "palabras": "Lotería de Boyacá, Resultado de loterías de hoy, Chances y Loterías",
+  "lead": "El sorteo 4649 de la Lotería de Boyacá del sábado 7 de noviembre de 2026 entregó el premio mayor de $15.000 millones; revise su billete.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T21:43:35-05:00",
+  "palabras": "Chontico Noche , Chances y Loterías, Resultados del chance, Chontico Noche, Ganador Chontico Noche, Resultados Chontico Noche, Resultados del chance, Resultados hoy",
+  "lead": "El chance Chontico Noche realiza sorteos todos los días, con horarios que varían según la jornada. Este sábado 7 de noviembre podrá conocer todos los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Noche, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-noche-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T21:42:51-05:00",
+  "palabras": "Dorado Noche, Chances y Loterías, Resultados del chance, Dorado Noche , Ganador Dorado Noche , Resultados del chance , Resultados del chance Dorado Noche , Resultados hoy",
+  "lead": "El chance Dorado Noche tiene sorteos los fines de semana y días festivos. Este sábado 7 de noviembre de 2026 los apostadores pueden consultar el resultado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T21:40:44-05:00",
+  "palabras": "Sinuano noche, Chances y Loterías, Resultados del chance, Ganador hoy, Resultados Sinuano Noche, Resultados del chance , Resultados hoy, Sinuano Noche",
+  "lead": "El chance Sinuano Noche realiza su sorteo todos los días a las 8:30 p. m. Este sábado 7 e noviembre de 2026 los apostadores pueden consultar las cifras ganadoras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultados Lotería del Cauca: resultado del último sorteo sábado 7 de noviembre",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultados-loteria-del-cauca-resultado-del-ultimo-sorteo-sabado-7-de-noviembre-so35",
+  "fecha": "2026-11-07T21:40:04-05:00",
+  "palabras": "Valle del Cauca, Resultado de loterías de hoy, Chances y Loterías",
+  "lead": "La Lotería del Cauca realizó el sorteo 2636 este sábado 7 de noviembre de 2026. Miles de personas esperan llevarse el premio mayor de $8.000 millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T21:39:17-05:00",
+  "palabras": "Caribeña noche, Resultados del chance, Chances y Loterías, Caribeña Noche, Ganador Caribeña Noche, Resultados Caribeña Noche, Resultados del chance , Resultados hoy",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna. Este sábado 7 de noviembre de 2026 los jugadores pueden consultar los resultados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Súper Astro Luna, resultado del último sorteo hoy sábado 7 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-luna-resultado-del-ultimo-sorteo-hoy-sabado-7-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-07T21:38:36-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance, Chances y Loterías, Ganador del chance , Resultados de Súper Astro Luna, Resultados del chance , Resultados hoy , Súper Astro Luna",
+  "lead": "El Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Este sábado 7 de noviembre de 2026 los jugadores pueden consultar el resultado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caracol Televisión confirma amenaza de seguridad contra sus instalaciones en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/08/evacuan-la-sede-de-caracol-television-en-bogota-por-amenaza-de-seguridad/",
+  "fecha": "2026-11-07T21:12:37-05:00",
+  "palabras": "",
+  "lead": "Ciudadanos reportaron la presencia de un helicóptero, al parecer de la Policía Nacional, que ha sobrevolado durante varios minutos el sector de La Floresta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "TierraSua desata choque político: Daniel Briceño acusa y Carlos Amaya responde",
+  "enlace": "https://caracol.com.co/2026/11/08/tierrasua-desata-choque-politico-daniel-briceno-acusa-y-carlos-amaya-responde/",
+  "fecha": "2026-11-07T21:07:48-05:00",
+  "palabras": "",
+  "lead": "El congresista aseguró que el fondo mixto habría sido utilizado como un mecanismo para facilitar contratos en Boyacá. El gobernador rechazó los señalamientos, habló de un audio manipulado y anunció acciones ante la justicia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lotería de Boyacá, Cauca y Baloto HOY sábado 7 de noviembre: resultados y números ganadores",
+  "enlace": "https://caracol.com.co/2026/11/08/loteria-de-boyaca-cauca-y-baloto-hoy-sabado-7-de-noviembre-resultados-y-numeros-ganadores/",
+  "fecha": "2026-11-07T21:07:47-05:00",
+  "palabras": "",
+  "lead": "Vea los resultados del último sorteo de las loterías de Boyacá y Cauca y conozca los números ganadores del Baloto y Baloto Revancha de este 7 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Evacuan instalaciones de Caracol Televisión por aparente amenaza de bomba",
+  "enlace": "https://www.lafm.com.co/actualidad/evacuan-instalaciones-de-caracol-television-por-aparente-amenaza-de-bomba-416488",
+  "fecha": "2026-11-07T21:36:00-05:00",
+  "palabras": "Actualidad,Alerta de seguridad,Evacuación edificio,Alerta,atentado",
+  "lead": "Las autoridades adelantan las verificaciones correspondientes frente a la situación de seguridad reportada en el canal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué preparar con tres ingredientes? Recetas fáciles",
+  "enlace": "https://www.lafm.com.co/sociedad/recetas-cocina-preparar-comidas-tres-ingredientes-416458",
+  "fecha": "2026-11-07T20:56:00-05:00",
+  "palabras": "Sociedad,recetas de cocina,cocina,Aprender a cocinar,Nutrición,Huevos,plátanos,batidos,bebidas,postres,productos lácteos",
+  "lead": "La clave está en aprovechar alimentos que suelen encontrarse en la cocina, como huevos, bananos, harina, yogur, etc.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo de la Lotería de Boyacá: resultado premio mayor hoy 7 de noviembre",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-de-la-loteria-de-boyaca-resultado-premio-mayor-hoy-7-de-noviembre-416487",
+  "fecha": "2026-11-07T20:56:00-05:00",
+  "palabras": "Sociedad,Lotería de Boyacá,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
+  "lead": "La Lotería de Boyacá tiene nuevo número ganador del premio mayor este sábado.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
