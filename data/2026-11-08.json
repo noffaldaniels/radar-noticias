@@ -689,7 +689,7 @@
   "palabras": "Policía Nacional, Envigado, Consejo de Estado, Noticias de hoy",
   "lead": "La condena de segunda instancia es contra la Policía Nacional por las graves lesiones físicas y mentales que sufrió un niño de cuatro años, por una inyección de dipirona en 2008.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "Transmilenio, Multas",
   "lead": "TransMilenio sancionará con costosas multas a los pasajeros que incomoden y afecten el trayecto de los demás usuarios en el sistema.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "El técnico de Águilas Doradas destacó el rendimiento de su equipo a pesar de su inconformidad con la actuación arbitral.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "El hecho provocó la reacción del alcalde de Valledupar, Ernesto Orozco Durán, quien rechazó lo sucedido y pidió a propios y visitantes respetar las esculturas de la ciudad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "Según dieron a conocer las autoridades, todas las víctimas eran miembros de una misma familia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "El corista y primera voz de la agrupación falleció a los 55 años tras el accidente de tránsito ocurrido el pasado 26 de octubre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "Los deslizamientos de tierra, la principal atención de los organismos de socorro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "Según medios públicos de Emiratos Árabes Unidos, 22 personas han sido rescatadas de un barco en llamas en el Golfo de Omán y se encuentran en un estado estable.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "La estructura delincuencial conocida como ‘Los Crack’ operaba en sectores como la plaza de mercado, el terminal de transporte y escenarios deportivos. Una mujer, señalada de coordinar la organización, estaría entre los implicados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "Una de las menores habría recibido un disparo en un ojo y permanece bajo pronóstico reservado. La Fiscalía investiga lo ocurrido",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Sociedad,Brecha de género,Diferencia de edad,Hombres,Envejecimiento,Estilo de vida,Homicidios,Tabaquismo,Autocuidado,Estrés,trastorno psicológico",
   "lead": "El médico Juan Manuel Anaya Cabrera explicó que existen diferencias biológicas importantes entre ambos sexos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,6 +810,270 @@
   "palabras": "Orden Público,Neiva,Dirección Nacional de Inteligencia,Capturados,Informe de inteligencia",
   "lead": "El hombre sería integrante de la Dirección Nacional de Inteligencia (DNI), donde presuntamente se desempeñaría como gestor de inteligencia.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Murió motociclista tras creciente de una quebrada en el municipio de Girón, Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/hombre-fallecio-tras-ser-arrastrado-por-una-creciente-de-una-quebrada-en-el-municipio-de-giron-rg10",
+  "fecha": "2026-11-08T10:37:51-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Girón, Emergencias por lluvias",
+  "lead": "La víctima fue identificada como Carlos Arturo Gómez Pico, conocido como 'Pico' en el corregimiento de Acapulco. Su cuerpo fue localizado en la vereda Barbosa después de un amplio operativo de búsqueda.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un hombre murió y un menor resultó herido en medio de balacera en Roldanillo, Valle",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/un-hombre-murio-y-un-menor-resulto-herido-en-medio-de-balacera-en-roldanillo-valle-rg10",
+  "fecha": "2026-11-08T10:58:55-05:00",
+  "palabras": "Valle del Cauca, Homicidios, Policía Nacional",
+  "lead": "Las víctimas se encontraban en el barrio San Sebastián cuando fueron interceptadas por varios sujetos que, al parecer, las atacaron con arma de fuego. El menor de edad fue trasladado a un hospital.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fitch Ratings ratificó calificación crediticia de Medellín y respaldó capacidad de endeudamiento",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/fitch-ratings-ratifico-calificacion-crediticia-de-medellin-y-respaldo-capacidad-de-endeudamiento-rg10",
+  "fecha": "2026-11-08T11:05:55-05:00",
+  "palabras": "Noticias de hoy, Economía, Medellín, Alcaldía de Medellín",
+  "lead": "En la comparación con sus pares, la ciudad se ubica por encima de Bogotá, Cali, Barranquilla y el departamento de Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Alopecia desde la adolescencia? Ojo a estas causas que pueden provocar calvicie desde muy joven",
+  "enlace": "https://www.bluradio.com/salud/alopecia-desde-la-adolescencia-ojo-a-estas-causas-que-pueden-provocar-calvicie-desde-muy-joven-so35",
+  "fecha": "2026-11-08T10:41:03-05:00",
+  "palabras": "Adolescentes",
+  "lead": "La alimentación, algunas enfermedades y las deficiencias vitamínicas también pueden influir en la salud capilar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El hospital de San Andrés se quedó sin recursos para equipos básicos de salud",
+  "enlace": "https://www.bluradio.com/regiones/caribe/el-hospital-de-san-andres-se-quedo-sin-recursos-para-equipos-basicos-de-salud-rg10",
+  "fecha": "2026-11-08T11:12:15-05:00",
+  "palabras": "Noticias de hoy, San Andrés y Providencia, Ministerio de Salud, Superintendencia de Salud, Abelardo De La Espriella",
+  "lead": "La agente Interventora, Marjorie Englehard, denunció que los dineros asignados no están en las cuentas del centro asistencial. Saldos pendientes corresponden a hechos ocurridos antes de la intervención.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué muchos prefieren vivir experiencias que lo material? En Blu Jeans, 8 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/en-blu-jeans/por-quemuchos-prefieren-vivir-experiencias-que-lo-material-en-blu-jeans-8-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-08T11:02:17-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "En Blu Jeans del domingo, 8 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hombre llegó disparando a un establecimiento en El Retén: un muerto, tres heridos y un capturado",
+  "enlace": "https://caracol.com.co/2026/11/08/hombre-llego-disparando-a-un-establecimiento-en-el-reten-un-muerto-tres-heridos-y-un-capturado/",
+  "fecha": "2026-11-08T11:08:30-05:00",
+  "palabras": "",
+  "lead": "Dos hombres llegaron disparando a un establecimiento comercial del municipio. La Policía confirmó la captura de uno de los presuntos responsables.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernador Yamil Arana cuestionó atentado en Santa Rosa del sur donde murieron tres militares",
+  "enlace": "https://caracol.com.co/2026/11/08/gobernador-yamil-arana-cuestiono-atentado-en-santa-rosa-del-sur-donde-murieron-tres-militares/",
+  "fecha": "2026-11-08T11:03:21-05:00",
+  "palabras": "",
+  "lead": "Expresó que las acciones del Gobierno nacional permitirán recuperar la seguridad en esta zona de Bolívar",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Medellín rechazó amenazas contra Caracol Radio y otros medios de comunicación",
+  "enlace": "https://caracol.com.co/2026/11/08/alcalde-de-medellin-rechazo-amenazas-contra-caracol-radio-y-otros-medios-de-comunicacion/",
+  "fecha": "2026-11-08T10:59:14-05:00",
+  "palabras": "",
+  "lead": "Federico Gutiérrez aseguró que las organizaciones criminales no pueden imponer el miedo entre los ciudadanos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mis Preguntas, con Roberto Pombo: ¿Se salió de control la Inteligencia Artificial?",
+  "enlace": "https://caracol.com.co/2026/11/08/mis-preguntas-con-roberto-pombo-se-salio-de-control-la-inteligencia-artificial/",
+  "fecha": "2026-11-08T11:00:00-05:00",
+  "palabras": "",
+  "lead": "En este capítulo de Mis Preguntas, Roberto Pombo plantea: ¿Se salió de control la Inteligencia Artificial?.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "GAULA entrega mercados y refuerza prevención contra la extorsión en El Rodadero",
+  "enlace": "https://caracol.com.co/2026/11/08/gaula-entrega-mercados-y-refuerza-prevencion-contra-la-extorsion-en-el-rodadero/",
+  "fecha": "2026-11-08T10:47:37-05:00",
+  "palabras": "",
+  "lead": "La Policía realizó una jornada de acercamiento con residentes y vendedores informales de este sector turístico de Santa Marta, donde entregó recomendaciones de seguridad y recordó la importancia de denunciar a través de la línea 165.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "FICCI 66 abre convocatoria para cineastas de Cartagena y el Caribe Colombiano",
+  "enlace": "https://caracol.com.co/2026/11/08/ficci-66-abre-convocatoria-para-cineastas-de-cartagena-y-el-caribe-colombiano/",
+  "fecha": "2026-11-08T10:46:59-05:00",
+  "palabras": "",
+  "lead": "La invitación permanecerá abierta hasta el 29 de noviembre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía de Soledad acompaña a la familia de Zoé Soto, niña desaparecida en el arroyo El Salao",
+  "enlace": "https://caracol.com.co/2026/11/08/alcaldia-de-soledad-acompana-a-la-familia-de-zoe-soto-nina-desaparecida-en-el-arroyo-el-salao/",
+  "fecha": "2026-11-08T10:41:21-05:00",
+  "palabras": "",
+  "lead": "Entretanto, los organismos de socorro mantienen las labores de búsqueda de Zoé, que se han extendido hasta el río Magdalena.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "CDMB alerta por persistencia de minería ilegal en la escarpa de Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/11/08/cdmb-alerta-por-persistencia-de-mineria-ilegal-en-la-escarpa-de-bucaramanga/",
+  "fecha": "2026-11-08T10:41:00-05:00",
+  "palabras": "",
+  "lead": "Las actividades están generando erosión, inestabilidad del terreno y afectaciones a fuentes hídricas y cobertura vegetal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pesaba más de 4 toneladas y vivió en Bogotá hace 6.000 años: así era el Gonfoterio o mastodonte",
+  "enlace": "https://caracol.com.co/2026/11/08/pesaba-mas-de-4-toneladas-y-vivio-en-bogota-hace-6000-anos-asi-era-el-gonfoterio-o-mastodonte/",
+  "fecha": "2026-11-08T10:36:24-05:00",
+  "palabras": "",
+  "lead": "Los fósiles de este animal están en el Museo del Servicio Geológico Colombiano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El papa León XIV se despide de Uruguay con un llamado al “respeto” por las mujeres",
+  "enlace": "https://caracol.com.co/2026/11/08/el-papa-leon-xiv-se-despide-de-uruguay-con-un-llamado-al-respeto-por-las-mujeres/",
+  "fecha": "2026-11-08T10:30:17-05:00",
+  "palabras": "",
+  "lead": "En una misa al aire libre hecha en el marco de su gira por América Latina, el pontífice hizo un llamado a los hombres de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Partidos y congresistas reaccionaron ante alerta de atentados contra medios de comunicación",
+  "enlace": "https://caracol.com.co/2026/11/08/partidos-y-congresistas-reaccionaron-ante-alerta-de-atentados-contra-medios-de-comunicacion/",
+  "fecha": "2026-11-08T10:14:16-05:00",
+  "palabras": "",
+  "lead": "Los órganos electorales también se pronunciaron y pidieron garantizar la labor y seguridad de quienes ejercen el periodismo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué pasa con las deudas cuando muere el titular de un crédito? Esto es lo que debe revisar",
+  "enlace": "https://caracol.com.co/2026/11/08/que-pasa-con-las-deudas-cuando-muere-el-titular-de-un-credito-esto-es-lo-que-debe-revisar/",
+  "fecha": "2026-11-08T10:15:27-05:00",
+  "palabras": "",
+  "lead": "Ante el fallecimiento de una persona con obligaciones financieras, es importante revisar las condiciones del crédito y los seguros asociados antes de asumir que la deuda debe ser pagada por sus familiares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Papa León XIV visitará Argentina después de 40 años",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-xiv-visitara-argentina-40-anos-despues-sin-visita-papal-416513",
+  "fecha": "2026-11-08T11:13:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Vaticano,Javier Milei,Argentina,Iglesia Católica,Pobreza",
+  "lead": "El periodista argentino Facundo Landívar explicó que el entusiasmo responde, en buena medida, a una deuda histórica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Diferencias entre maquillaje híbrido y una base tradicional",
+  "enlace": "https://www.lafm.com.co/sociedad/maquillaje-hibrido-diferencias-base-tradicional-cuidado-piel-416509",
+  "fecha": "2026-11-08T11:02:00-05:00",
+  "palabras": "Sociedad,Cuidado de la piel,cosméticos,Protector solar,manchas en la piel,Dermatología,recomendaciones,Protección,Luz ultravioleta,tratamientos estéticos",
+  "lead": "Algunas fórmulas tienen ingredientes como el ácido hialurónico, utilizados en productos hidratantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué tienen en común los líderes radicales? Análisis política",
+  "enlace": "https://www.lafm.com.co/internacional/mesianismo-politico-por-que-lideres-se-presentan-elegidos-por-dios-416516",
+  "fecha": "2026-11-08T10:33:00-05:00",
+  "palabras": "Internacional,ultraderecha,Jair Bolsonaro,Política internacional,debate político,Polarización,Líderes religiosos",
+  "lead": "Figuras como Donald Trump en Estados Unidos y Jair Bolsonaro en Brasil han impulsado nuevas formas de hacer política, caracterizadas por la confrontación c...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella prepara defensa antidrones para uniformados",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-de-la-espriella-desmiente-petro-escudo-antidrones-nuevas-capacidades-fuerza-publica-416515",
+  "fecha": "2026-11-08T10:24:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Drones,Ataque a la fuerza publica,Grupos terroristas,Fuerzas Militares,Víctimas,Ataque aéreo",
+  "lead": "El jefe de Estado explicó que la apuesta tiene dos frente, una de esas es para neutralizar los drones que usan los grupos armados contra la Fuerza Pública.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Madre de Antioquia habló con su hijo antes que lo mataran en Rusia",
+  "enlace": "https://www.lafm.com.co/orden-publico/madre-hablo-hijo-minutos-antes-morir-guerra-rusia-drones-antioquia-restos-416360",
+  "fecha": "2026-11-08T10:17:00-05:00",
+  "palabras": "Orden Público,Guerra,Ucrania,Rusia,viaje,Día de la Madre,Madres cabeza de familia,Antioquia",
+  "lead": "La última comunicación fue el mismo día del ataque. Ana Cecilia cuenta que su hijo, que tenía a cargo la radio y el celular de su unidad.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "‘No es tan bonita como aparece’: el chat atribuido a Petro",
+  "enlace": "https://www.lafm.com.co/politica/nuevo-chat-petro-angie-rodriguez-contratacion-presidencia-416500",
+  "fecha": "2026-11-08T10:16:00-05:00",
+  "palabras": "Política,Gustavo Petro,Polémicos contratos,Irregularidades en contratos,Contratación,contratos,Investigaciones,Conflicto de intereses,Lucha anticorrupción,Fiscalía General de la Nación",
+  "lead": "La nueva conversación se conoce en medio de las investigaciones por los denominados “sexocontratos”.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
