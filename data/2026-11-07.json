@@ -2592,7 +2592,7 @@
   "palabras": "Prosperidad Social, Devolución del IVA, Renta ciudadana, Subsidios, Devolución del IVA noviembre, Renta Ciudadana noviembre 2026, fecha de pago Renta Ciudadana, pagos Prosperidad Social",
   "lead": "Los beneficiarios deberán estar atentos a las fechas de entrega y a las modalidades habilitadas para reclamar los recursos, pues tendrán un plazo limitado para hacerlo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2603,7 +2603,7 @@
   "palabras": "Iván Cepeda, Gustavo Petro",
   "lead": "La imagen difundida se habría tomado el 13 de mayo del año 2025, en las instalaciones del Congreso de la República.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2614,7 +2614,7 @@
   "palabras": "",
   "lead": "Al término de la reunión, varios congresistas resaltaron que hay disposición del Ejecutivo para escuchar y dialogar en torno a los puntos más sensibles de la reforma.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2624,6 +2624,237 @@
   "fecha": "2026-11-07T18:20:00-05:00",
   "palabras": "",
   "lead": "Las labores se realizarán en Barranquilla, Sabanagrande, Santo Tomás, Palmar de Varela y sectores de Malambo y Puerto Colombia.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Su gato dejó de ronronear?, esta señal podría revelar lo que hay detrás de esta conducta",
+  "enlace": "https://www.bluradio.com/sociedad/su-gato-dejo-de-ronronear-esta-senal-podria-revelar-lo-que-hay-detras-de-esta-conducta-so35",
+  "fecha": "2026-11-07T19:25:24-05:00",
+  "palabras": "Gatos, Animales, Mi gato no ronronea, felinos , gatos",
+  "lead": "Que su gato no ronronee al recibir caricias puede generar dudas, pero existen varias explicaciones para este comportamiento, desde su personalidad hasta señales de salud que conviene identificar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dejaron 'mocho' a Diomedes Díaz: vandalizaron la estatua del Cacique en Valledupar",
+  "enlace": "https://www.bluradio.com/regiones/caribe/dejaron-mocho-a-diomedes-diaz-vandalizaron-la-estatua-del-cacique-en-valledupar-so35",
+  "fecha": "2026-11-07T19:46:18-05:00",
+  "palabras": "Diomedes Diaz, Vallenato, Viral",
+  "lead": "La estatua de Diomedes Díaz fue vandalizada en Valledupar. El alcalde Ernesto Orozco rechazó el hecho y anunció medidas para repararla.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La NASA enviará un explorador con energía nuclear a la Luna para alistar la primera base",
+  "enlace": "https://www.bluradio.com/tecnologia/la-nasa-enviara-un-explorador-con-energia-nuclear-a-la-luna-para-alistar-la-primera-base-cb20",
+  "fecha": "2026-11-07T20:29:53-05:00",
+  "palabras": "NASA, Estados Unidos, La Luna",
+  "lead": "Funcionarios de la NASA revelaron en una rueda de prensa que otorgaron un contrato base de 94 millones de dólares para transportar en 2028 al vehículo, llamado Promise, hasta el polo sur de la Luna.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Grave accidente de tránsito en la vía Bogotá–Mesitas deja dos personas lesionadas",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/grave-accidente-de-transito-en-la-via-bogota-mesitas-deja-dos-personas-lesionadas-so35",
+  "fecha": "2026-11-07T20:18:02-05:00",
+  "palabras": "Accidente de tránsito, Movilidad",
+  "lead": "Según las primeras versiones, el siniestro habría involucrado a dos motociclistas, un bus y un vehículo particular.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Transmilenio dará pasajes gratis a 714.000 usuarios en noviembre: así se activan las recargas",
+  "enlace": "https://caracol.com.co/2026/11/08/transmilenio-dara-pasajes-gratis-a-714000-usuarios-en-noviembre-asi-se-activan-las-recargas/",
+  "fecha": "2026-11-07T20:33:01-05:00",
+  "palabras": "",
+  "lead": "Así funciona la estrategia de pasajes gratis en Bogotá para beneficiarios del programa Ingreso Mínimo Garantizado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vea EN VIVO el sorteo de la Lotería de Boyacá de HOY 7 de noviembre 2026: premio mayor y ganadores",
+  "enlace": "https://caracol.com.co/2026/11/08/vea-en-vivo-el-sorteo-de-la-loteria-de-boyaca-de-hoy-7-de-noviembre-2026-premio-mayor-y-ganadores/",
+  "fecha": "2026-11-07T20:33:20-05:00",
+  "palabras": "",
+  "lead": "Vea EN VIVO el sorteo 4650 de la Lotería de Boyacá de este sábado y conozca los números ganadores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena ganó en el estadio Jaime Morón y sigue buscando un paso a la final",
+  "enlace": "https://caracol.com.co/2026/11/08/real-cartagena-gano-en-el-estadio-jaime-moron-y-sigue-buscando-un-paso-a-la-final/",
+  "fecha": "2026-11-07T20:32:21-05:00",
+  "palabras": "",
+  "lead": "Los heroicos superaron por la mínima diferencia a Real Cundinamarca",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO América de Cali vs Deportivo Cali: transmisión y minuto a minuto del clásico vallecaucano",
+  "enlace": "https://caracol.com.co/2026/11/08/en-vivo-america-de-cali-vs-deportivo-cali-transmision-y-minuto-a-minuto-del-clasico-vallecaucano/",
+  "fecha": "2026-11-07T20:26:08-05:00",
+  "palabras": "",
+  "lead": "Ambos equipos siguen en carrera para conseguir el punto invisible.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hombre resultó herido a bala tras ataque sicarial en el barrio Nelson Mandela",
+  "enlace": "https://caracol.com.co/2026/11/08/hombre-resulto-herido-a-bala-tras-ataque-sicarial-en-el-barrio-nelson-mandela/",
+  "fecha": "2026-11-07T20:23:09-05:00",
+  "palabras": "",
+  "lead": "La víctima se recupera en un centro asistencial y está fuera de peligro",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nacional, clasificado a la Copa Libertadores 2027: Así va la Reclasificación",
+  "enlace": "https://caracol.com.co/2026/11/07/reclasificacion-2026-cupos-a-torneos-conmebol-tras-victoria-del-medellin/",
+  "fecha": "2026-11-07T20:07:33-05:00",
+  "palabras": "",
+  "lead": "El equipo antioqueño se aseguró, como mínimo, terminar segundo en dicha tabla al final",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Video: Luis Javier Suárez le da la victoria al Sporting Lisboa con un golazo",
+  "enlace": "https://caracol.com.co/2026/11/08/video-luis-javier-suarez-le-da-la-victoria-al-sporting-lisboa-con-un-golazo/",
+  "fecha": "2026-11-07T19:22:21-05:00",
+  "palabras": "",
+  "lead": "El atacante samario registra 13 anotaciones en la presente temporada con el club portugués.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Medellín pidió vigilar a alias ‘Tom’ ante su posible salida de la cárcel",
+  "enlace": "https://caracol.com.co/2026/11/08/alcalde-de-medellin-pidio-vigilar-a-alias-tom-ante-su-posible-salida-de-la-carcel/",
+  "fecha": "2026-11-07T19:09:24-05:00",
+  "palabras": "",
+  "lead": "El mandatario advirtió que si Juan Carlos Mesa Vallejo continúa delinquiendo mantendrá los operativos contra su estructura criminal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Reforma Tributaria: De la Espriella socializó Ley de Rescate Fiscal",
+  "enlace": "https://www.lafm.com.co/politica/gobierno-de-la-espriella-ley-rescate-fiscal-reforma-tributaria-barranquilla-criticas-centro-democratico-416485",
+  "fecha": "2026-11-07T19:33:00-05:00",
+  "palabras": "Política,Reforma tributaria,Impuestos,déficit fiscal,Recaudo tributario,Plan de austeridad,Centro Democrático,José Manuel Restrepo,Abelardo de la Espriella",
+  "lead": "Durante la reunión con las comisiones económicas del Congreso, el Ejecutivo presentó los principales aspectos de la reforma tributaria.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Eximir Nequi o Daviplata del 4x1000: Topes actualizados",
+  "enlace": "https://www.lafm.com.co/economia/nequi-daviplata-4x1000-eximir-cuentas-topes-actualizados-416480",
+  "fecha": "2026-11-07T19:20:00-05:00",
+  "palabras": "Economía,obligaciones tributarias,Daviplata,Impuestos,Beneficios tributarios,Incentivos tributarios,Recaudo tributario,Cuentas bancarias,Cuenta bancaria,Bancos colombianos",
+  "lead": "El Gravamen a los Movimientos Financieros (GMF), conocido como 4x1000, corresponde a un impuesto que se aplica a ciertas operaciones financieras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Rosario Central: blanco de críticas por festejo anticipado",
+  "enlace": "https://www.lafm.com.co/deportes/rosario-central-burlas-hinchas-celebracion-416486",
+  "fecha": "2026-11-07T19:03:00-05:00",
+  "palabras": "Deportes,Boca Juniors,Defensa y Justicia,campeón,Copa Sudamericana,Superliga Argentina,Recopa Sudamericana,Barranquilla,Sebastián Villa",
+  "lead": "Todos en el estadio Gigante de Arroyito festejaron de manera anticipada el título de la Tabla Anual que terminó ganando Boca Juniors.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pruebas ‘Quiero Ser, Quiero Saber’: colegios, con más plazo",
+  "enlace": "https://www.lafm.com.co/sociedad/educacion-mineducacion-colegios-colombia-tendran-mas-plazo-presentar-pruebas-quiero-ser-quiero-saber-416482",
+  "fecha": "2026-11-07T18:20:00-05:00",
+  "palabras": "Sociedad,Colegios,Calendarios escolares,pruebas,Examen,Ministerio de Educación,Matemáticas,educación virtual,Maestros,secretaria de Educación,resultados",
+  "lead": "La evaluación contempla a alumnos de tercero, quinto, séptimo y noveno en Matemáticas, Lenguaje y Desarrollo Socioemocional, con opciones online y offline.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "ICBF y CRIC acuerdan condiciones para Semillas de Vida 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/icbf-y-indigenas-cric-nuevas-condiciones-contratar-programa-semillas-de-vida-2026-primera-infancia-416481",
+  "fecha": "2026-11-07T17:43:00-05:00",
+  "palabras": "Sociedad,ICBF,Primera Infancia,contratos,Acuerdo,Negociación,Contratistas,Rendición de cuentas,Documentos",
+  "lead": "El ICBF y las comunidades indígenas del Cauca fijaron las exigencias de supervisión para contratos 2026 del programa 'Semillas de Vida'.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Municipios de Nariño, con validación mundial ante tsunamis",
+  "enlace": "https://www.lafm.com.co/sociedad/narino-tumaco-francisco-pizarro-buscan-reconocimiento-internacional-preparacion-tsunamis-416466",
+  "fecha": "2026-11-07T13:50:00-05:00",
+  "palabras": "Sociedad,Tsunami,Sistema de Alertas Tempranas,Evacuación de civiles,Tumaco,Inundaciones,Vigilancia,Investigaciones,Científicos,Desastres naturales",
+  "lead": "Más de 470 personas participaron en jornadas de capacitación sobre prevención, mientras autoridades avanzan en comités locales, mapas de inundación y rutas...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Regresan mercancía incautada a vendedores ambulantes en Cali",
+  "enlace": "https://www.lafm.com.co/actualidad/cali-autoridades-devuelven-mercancia-incautada-a-vendedores-informales-tras-desmanes-en-el-centro-416462",
+  "fecha": "2026-11-07T13:37:00-05:00",
+  "palabras": "Actualidad,Vendedores ambulantes,Cali, Colombia,Alcaldía de Cali,espacio,Policía Nacional,funcionario público,funcionarios",
+  "lead": "Tras un operativo de recuperación del espacio público en el centro de Cali, las autoridades avanzan en la devolución de la mercancía incautada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cabildo abierto: se debate propuesta de militarizar Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/cabildo-abierto-en-bogota-debate-por-militarizacion-y-seguridad-416460",
+  "fecha": "2026-11-07T13:32:00-05:00",
+  "palabras": "Orden Público,Concejo de Bogotá,Distrito,Carlos Fernando Galán,Inseguridad",
+  "lead": "Cabildo en Bogotá: ¿el Ejército debe salir a las calles? 2.000 efectivos, asistencia militar vs militarización y límites frente a delitos comunes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Banda ‘Venus’ se hacían pasar por funcionarios para robar",
+  "enlace": "https://www.lafm.com.co/orden-publico/fiscalia-golpea-red-venus-senalada-hurtos-conciertos-eventos-masivos-colombia-416459",
+  "fecha": "2026-11-07T13:23:00-05:00",
+  "palabras": "Orden Público,Concierto para delinquir,hurto,Grupo Delincuencial Organizado,organizaciones criminales,Red delincuencial,Delincuentes capturados,Fiscalía General de la Nación,Acusaciones,presos",
+  "lead": "Con identidades falsas y tareas repartidas entre sus miembros, la organización habría distraído a los equipos de seguridad para apoderarse de objetos allí.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
