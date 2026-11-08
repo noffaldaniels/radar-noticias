@@ -7,7 +7,7 @@
   "palabras": "Lotería de Boyacá, Resultado de loterías de hoy, Chances y Loterías, Lotería de Boyacá, cómo cayó la lotería de boyacá 7 de noviembre, lotería de boyacá hoy, lotería de boyacá sábado 7 de noviembre, número ganador lotería de boyacá, premio mayor lotería de boyacá, qué número cayó en la lotería de boyacá",
   "lead": "El sorteo 4649 de la Lotería de Boyacá del sábado 7 de noviembre de 2026 entregó el premio mayor de $15.000 millones; revise su billete.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Valle del Cauca, Resultado de loterías de hoy, Chances y Loterías",
   "lead": "La Lotería del Cauca realizó el sorteo 2636 este sábado 7 de noviembre de 2026. Miles de personas esperan llevarse el premio mayor de $8.000 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Baloto, Chances y Loterías, Resultado de loterías de hoy",
   "lead": "El sorteo del miércoles 4 de noviembre no tuvo ganador del premio mayor. El Baloto sube a $19.200 millones y la Revancha a $5.000 millones para el lunes 9.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Caracol Televisión",
   "lead": "Por estos hechos, el personal que trabajaba en la noche de este sábado en el canal fue evacuado de inmediato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Japón, Terremoto hoy",
   "lead": "Un fuerte temblor sacudió de madrugada el centro de Japón, dejó heridos en dos prefecturas, ventanas rotas y la suspensión temporal del servicio de trenes en la región.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "",
   "lead": "La Alcaldía solicitó la convocatoria inmediata del Centro Integrado de Información e Inteligencia (CI3), mientras la Policía Metropolitana de Bogotá adoptó medidas preventivas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "",
   "lead": "Las autoridades pidieron esclarecer los hechos y garantizar la seguridad de los periodistas y trabajadores.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "",
   "lead": "La fecha 18 de la Liga comenzó con los triunfos de Boyacá Chicó sobre Inter de Bogotá y de Independiente Medellín frente a Fortaleza.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "",
   "lead": "Escarlatas y azucareros igualaron en el Pascual Guerrero, por la fecha 18 de la Liga, dándole ventaja a Nacional.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "",
   "lead": "En coordinación con las autoridades, activamos los protocolos y las medidas preventivas necesarias para proteger a nuestros periodistas, colaboradores y visitantes.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "",
   "lead": "La comunidad denuncia la muerte de cinco perros y la afectación de otros ocho. La Policía investiga videos en los que aparecen tres encapuchados arrojando alimentos a varias viviendas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Actualidad,Amenazas,atentado,ataque explosivo,Libertad de expresión,Procuraduría General de la Nación,Fiscalía General de la Nación,Alerta de seguridad,Periodismo,Periodistas,Informe de inteligencia",
   "lead": "El procurador general, Gregorio Eljach, rechazó las amenazas contra Caracol y defendió la libertad de prensa en Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Actualidad,Defensoría del Pueblo,Amenazas,Alerta de seguridad,atentado,ataque explosivo,Periodistas,Medios de comunicación,Periodismo",
   "lead": "La funcionaria expresó su solidaridad con los trabajadores de ambos medios de comunicación y rechazó cualquier forma de intimidación o violencia contra la ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Actualidad,Alerta,Alerta de seguridad,Amenazas,atentado,Terrorismo,Actos terroristas,protocolos,Periodistas,Medios de comunicación,Periodismo",
   "lead": "La empresa señaló que, en coordinación con las autoridades, activó los protocolos de seguridad y las medidas preventivas necesarias para proteger a sus per...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  }
 ]
