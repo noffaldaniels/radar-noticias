@@ -1261,7 +1261,7 @@
   "palabras": "Viral, Taxis, Armas blancas",
   "lead": "El hecho ocurrió en el sur de la capital. El conductor habría intimidado con un arma cortopunzante a los ocupantes de otro vehículo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "Gabinete Gustavo Petro, Presidencia de la República, Medellín, Noticias de hoy",
   "lead": "En un evento privado denominado ‘Primer Gran Encuentro Somos Resistencia’, realizado en el Club Unión y con presencia de políticos del Pacto Histórico, se refirió indirectamente al caso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Comunicado a la opinión pública Bogotá, 8 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Ejército Nacional",
   "lead": "Ocho uniformados están hospitalizados en el HUS, donde dos permanecen en cuidados intensivos con pronóstico reservado. Familiares viven momentos de angustia mientras esperan su recuperación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Reflexión del día, Oración de hoy",
   "lead": "Durante su reflexión dominical en Blu Radio, el líder religioso invitó a dejar atrás los pensamientos negativos, perseverar en la oración y confiar en las promesas de Dios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Reflexión del día, Oración de hoy",
   "lead": "A partir de la parábola de las diez jóvenes, el sacerdote invitó a mantener encendida la lámpara del amor, la misericordia y la esperanza, sin aplazar las decisiones de fe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Gustavo Petro, Igualdad de género",
   "lead": "Sofía y Antonella Petro se pronunciaron sobre las denuncias hechas por Deicy Jiménez contra el expresidente y pidieron que las investigaciones avancen con celeridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Reflexión del día, Oración de hoy",
   "lead": "En su reflexión dominical, el pastor invitó a confiar en Dios durante las pruebas, permanecer firmes en la fe y entender que esas circunstancias adversas pueden tener un propósito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "Chontico Día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Chontico Día juega todos los días a la 1:00 p. m. Consulte aquí el número ganador de hoy, domingo 8 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "Defensors de los derechos de las mujeres han solicitado la convocatoria de una mesa urgente de trabajo y una declaratoria de emergencia en el departamento del Atlántico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "La Corte Suprema de Justicia rechaza cualquier acto de violencia, amenaza o intimidación contra los medios de comunicación y sus periodistas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "El español Daniel Holgado, su compañero de equipo, se quedó con la victoria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "Más de mil 800 emprendedores recibirán créditos condonables de hasta $5 millones",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "Dos de las víctimas fatales eran hermanos",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "Quienes ingresan a Bogotá por la calle 13, a la altura de la carrera 128, pueden tomar la avenida La Esperanza hasta la carrera 103 y conectar con la avenida El Dorado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "Las hijas del expresidente Gustavo Petro publicaron un mensaje en el que también hablaron de tomar con seriedad las denuncias de las mujeres.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "Las principales víctimas de estas intimidaciones son los comerciantes",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,6 +1448,248 @@
   "palabras": "Política,Gustavo Petro,Fiscalía General de la Nación,Colombia,Investigaciones",
   "lead": "Las hijas del expresidente pidieron proteger a la denunciante, rechazaron su revictimización.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Golpes al microtráfico dejan 13 capturados en operativos realizados en Medellín y Bello",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/golpes-al-microtrafico-dejan-13-capturados-en-operativos-realizados-en-medellin-y-bello-rg10",
+  "fecha": "2026-11-08T13:56:44-05:00",
+  "palabras": "Fiscalía General de la Nación, Policía Nacional, Medellín, Bello",
+  "lead": "Las autoridades incautaron casi 4.000 dosis de estupefacientes, cerraron locales comerciales y recuperaron vehículos junto a varias armas blancas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alerta en el Suroeste: 17 grupos delincuenciales disputan control territorial con el Clan del Golfo",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/alerta-en-el-suroeste-17-grupos-delincuenciales-disputan-control-territorial-con-el-clan-del-golfo-rg10",
+  "fecha": "2026-11-08T13:59:35-05:00",
+  "palabras": "Clan del Golfo, Antioquia, Gobernación de Antioquia, Policía Nacional",
+  "lead": "El gobernador Andrés Julián Rendón confirmó que las autoridades tratan de establecer si detrás de la disputa hay intereses del ELN.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asamblea le aprobó al gobernador capitalizar la Sociedad Promotora Ferrocarril de Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/asamblea-le-aprobo-al-gobernador-capitalizar-la-sociedad-promotora-ferrocarril-de-antioquia-rg10",
+  "fecha": "2026-11-08T14:04:28-05:00",
+  "palabras": "Gobernación de Antioquia, Avenida del Ferrocarril, Noticias de hoy",
+  "lead": "Los recursos permitirán avanzar en la estructuración del corredor férreo entre Bello y Puerto Berrío, y preparar el proceso precontractual para su eventual desarrollo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Canasta familiar en Antioquia estaría en riesgo por el fenómeno de El Niño, dice estudio de la UPB",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/canasta-familiar-en-antioquia-estaria-en-riesgo-por-el-fenomeno-de-el-nino-dice-estudio-de-la-upb-rg10",
+  "fecha": "2026-11-08T14:16:34-05:00",
+  "palabras": "Fenómeno de El Niño, Antioquia, Noticias de hoy, Canasta familiar, Alimentos",
+  "lead": "Un estudio económico de la Universidad Pontificia Bolivariana advierte que la baja producción de alimentos elevará los precios, afectando el bolsillo de los hogares paisas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comandante del Ejército visitó a militares heridos en ataque que reciben atención en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/comandante-del-ejercito-visito-a-militares-heridos-en-ataque-que-reciben-atencion-en-bucaramanga-rg10",
+  "fecha": "2026-11-08T13:22:06-05:00",
+  "palabras": "Santander, Ejército Nacional, Blu Radio, Noticias de hoy",
+  "lead": "El mayor general José Bertulfo Soto Sánchez llegó al Hospital Universitario de Santander para acompañar a los uniformados del Batallón de Selva N.° 48, evacuados tras el ataque ocurrido en Bolívar. También expresó su respaldo a las familias y destacó la labor del personal médico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día: resultado del último sorteo hoy domingo 8 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-hoy-domingo-8-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-08T13:36:22-05:00",
+  "palabras": "Paisita día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Paisita Día juega de lunes a sábado a la 1:00 p. m. y los domingos y festivos a las 2:00 p. m. Consulte aquí el resultado de hoy.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"¿Nos engañó?\": exministra de Agricultura cuestiona a Gustavo Petro tras denuncias en su contra",
+  "enlace": "https://www.bluradio.com/nacion/nos-engano-exministra-de-agricultura-cuestiona-a-gustavo-petro-tras-denuncias-en-su-contra-so35",
+  "fecha": "2026-11-08T13:41:13-05:00",
+  "palabras": "Gustavo Petro, Ministerio de Agricultura",
+  "lead": "La exministra habló de las acusaciones que rodean al expresidente, recordó su paso por el Gobierno y señaló las consecuencias para el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día: resultado del último sorteo hoy domingo 8 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-hoy-domingo-8-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-08T13:42:36-05:00",
+  "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador de hoy, domingo 8 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día: resultado del último sorteo hoy domingo 8 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-resultado-del-ultimo-sorteo-hoy-domingo-8-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-08T13:48:27-05:00",
+  "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Caribeña Día juega de lunes a sábado a las 4:00 p. m. Consulte aquí el número ganador del último sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Los escándalos sexuales que golpean a Gustavo Petro: Sala de Prensa Blu, 8 de noviembre",
+  "enlace": "https://www.bluradio.com/sala-de-prensa-blu/los-escandalos-sexuales-que-golpean-a-gustavo-petro-sala-de-prensa-blu-8-de-noviembre-so35",
+  "fecha": "2026-11-08T14:19:58-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 8 de noviembre de 2026",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Santa Fe vs. Deportivo Pasto por Liga Colombiana 2026: minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/08/en-vivo-santa-fe-vs-deportivo-pasto-por-liga-colombiana-2026-minuto-a-minuto/",
+  "fecha": "2026-11-08T14:14:17-05:00",
+  "palabras": "",
+  "lead": "El cuadro bogotano busca asegurar su clasificación a los cuadrangulares finales.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Descarrilamiento de tren en Egipto deja varios muertos y cientos de heridos",
+  "enlace": "https://caracol.com.co/2026/11/08/descarrilamiento-de-tren-en-egipto-deja-varios-muertos-y-cientos-de-heridos/",
+  "fecha": "2026-11-08T13:47:33-05:00",
+  "palabras": "",
+  "lead": "Las autoridades se encuentran investigando las causas del accidente.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres explosiones en un mes tienen en alerta a Suárez, Cauca por presencia de explosivos en vía rural",
+  "enlace": "https://caracol.com.co/2026/11/08/tres-explosiones-en-un-mes-tienen-en-alerta-a-suarez-cauca-por-presencia-de-explosivos-en-via-rural/",
+  "fecha": "2026-11-08T13:45:23-05:00",
+  "palabras": "",
+  "lead": "Los hechos ocurrieron el 6 y el 26 de octubre, y el más reciente el 7 de noviembre, en la vereda Playa Rica, donde fue encontrada una pancarta de las disidencias de las Farc.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tener un hijo en Colombia puede costar hasta $2.800 millones, según expertos: tips para sus finanzas",
+  "enlace": "https://caracol.com.co/2026/11/08/tener-un-hijo-en-colombia-puede-costar-hasta-2800-millones-segun-expertos-tips-para-sus-finanzas/",
+  "fecha": "2026-11-08T13:32:34-05:00",
+  "palabras": "",
+  "lead": "Alimentación, salud, educación y sostenimiento representan compromisos económicos durante el crecimiento de los hijos. Planificar estos gastos desde los primeros años puede ayudar a las familias a construir oportunidades sin comprometer su estabilidad financiera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Cartagena Acuacar clausuró Clubes Defensores del Agua 2026",
+  "enlace": "https://caracol.com.co/2026/11/08/en-cartagena-acuacar-clausuro-clubes-defensores-del-agua-2026/",
+  "fecha": "2026-11-08T13:17:52-05:00",
+  "palabras": "",
+  "lead": "El encuentro realizado en la Universidad Tecnológica de Bolívar, reunió a los 100 niños que participaron en el proceso",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía de Bolívar reportó un capturado y 10 canarios recuperados",
+  "enlace": "https://caracol.com.co/2026/11/08/policia-de-bolivar-reporto-un-capturado-y-10-canarios-recuperados/",
+  "fecha": "2026-11-08T13:14:14-05:00",
+  "palabras": "",
+  "lead": "La acción se desarrolló sobre la carretera que comunica a San Juan Nepomuceno con Cartagena",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Sabía que en la Tierra existen los dragones y, aunque no escupen fuego, su mordedura es letal?",
+  "enlace": "https://caracol.com.co/2026/11/08/sabia-que-en-la-tierra-aun-existen-los-dragones-y-aunque-no-escupen-fuego-su-mordedura-es-letal/",
+  "fecha": "2026-11-08T13:11:06-05:00",
+  "palabras": "",
+  "lead": "En Caracol Radio le contamos todo lo que debe saber sobre esta reconocida especie que es llamada como dragón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Local comercial se incendió en el centro histórico de Cartagena: bomberos atendieron emergencia",
+  "enlace": "https://caracol.com.co/2026/11/08/local-comercial-se-incendio-en-el-centro-historico-de-cartagena-bomberos-atendieron-emergencia/",
+  "fecha": "2026-11-08T13:10:12-05:00",
+  "palabras": "",
+  "lead": "Las causas del siniestro son materia de investigación",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ueno Bank: ¿Cuánto dinero perdieron los futbolistas paraguayos?",
+  "enlace": "https://www.lafm.com.co/deportes/crisis-paraguay-ueno-bank-perdidas-millonarias-futbolistas-paraguayos-federacion-416521",
+  "fecha": "2026-11-08T13:16:00-05:00",
+  "palabras": "Deportes,Pérdidas millonarias,Paraguay,seleccion paraguay,Fútbol,Gustavo Alfaro,Pérdidas económicas",
+  "lead": "El balance podría cambiar a medida que se conozca el alcance real de los recursos comprometidos por los jugadores y el cuerpo técnico de la Federación Para...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Metro de Bogotá supera el 84,6% de ejecución: así va la obra",
+  "enlace": "https://www.lafm.com.co/actualidad/metro-de-bogota-construccion-linea-846-culminan-puente-conexion-avenida-nqs-416525",
+  "fecha": "2026-11-08T13:06:00-05:00",
+  "palabras": "Actualidad,Metro de Bogotá,Alcaldía de Bogotá,obras en vías,Secretaría de Movilidad",
+  "lead": "La entrega de la obra está prevista para el 15 de marzo de 2028.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jefe de la Nasa advierte por carrera espacial con China",
+  "enlace": "https://www.lafm.com.co/internacional/jefe-nasa-preocupad-carrera-espacial-china-416523",
+  "fecha": "2026-11-08T13:00:00-05:00",
+  "palabras": "Internacional,Nasa,Astronomía,China,Estados Unidos,espacio",
+  "lead": "Isaacman aseguró que cree que la Nasa aún está por delante del resto del mundo en el ámbito científico.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Habrá beneficios a deudores de impuesto automotor en Valle",
+  "enlace": "https://www.lafm.com.co/sociedad/duenos-vehiculos-afectados-terremoto-en-valle-tendran-beneficios-tributarios-416522",
+  "fecha": "2026-11-08T12:58:00-05:00",
+  "palabras": "Sociedad,Impuestos,Gobernación del Valle,alivios financieros,automóviles",
+  "lead": "Autoridades aprobaron beneficios para deudores del impuesto automotor en el departamento del Valle del Cauca afectados por el terremoto.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
