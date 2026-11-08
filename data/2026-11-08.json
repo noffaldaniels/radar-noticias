@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "El técnico bogotano aseguró que cometieron errores tanto en ataque como en defensa en el juego ante el Deportivo Pereira.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,6 +172,28 @@
   "palabras": "",
   "lead": "Las fuertes precipitaciones provocaron el desbordamiento de quebradas, afectaciones en viviendas y daños en las vías de Palmor y San Javier, Magdalena.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "1.450 presos murieron bajo custodia del INPEC y los suicidios siguen en aumento",
+  "enlace": "https://caracol.com.co/2026/11/08/1450-presos-murieron-bajo-custodia-del-inpec-y-los-suicidios-siguen-en-aumento/",
+  "fecha": "2026-11-08T07:00:00-05:00",
+  "palabras": "",
+  "lead": "De 2022 a octubre de 2026, 1.450 personas privadas de la libertad fallecieron en las cárceles del INPEC, así lo informó la entidad en respuesta a un derecho de petición de Caracol Radio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Solidaridad con medios por alerta de atentado a Caracol",
+  "enlace": "https://www.lafm.com.co/politica/alerta-atentados-caracol-reacciones-mensajes-solidaridad-medios-comunicacion-416492",
+  "fecha": "2026-11-08T07:06:00-05:00",
+  "palabras": "Política,atentado,ataque explosivo,Alerta de seguridad,Alerta,Evacuación edificio,Grupos terroristas,Medios de comunicación,Periodismo,Informe de inteligencia,Colombia",
+  "lead": "“Es grave y profundamente preocupante la información sobre amenazas o riesgos de atentados\", dijo la defensora del Pueblo.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
