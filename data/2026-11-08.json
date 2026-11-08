@@ -152,5 +152,27 @@
   "seccion": "alto",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lucas González, autocrítico pese a triunfo de Nacional: “Ha sido un desastre hoy, el peor partido”",
+  "enlace": "https://caracol.com.co/2026/11/08/lucas-gonzalez-autocritico-pese-a-triunfo-de-nacional-ha-sido-un-desastre-hoy-el-peor-partido/",
+  "fecha": "2026-11-08T06:41:04-05:00",
+  "palabras": "",
+  "lead": "El técnico bogotano aseguró que cometieron errores tanto en ataque como en defensa en el juego ante el Deportivo Pereira.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Emergencia en Palmor por lluvias: inundaciones, familias afectadas y vías dañadas en Sierra Nevada",
+  "enlace": "https://caracol.com.co/2026/11/08/emergencia-en-palmor-por-lluvias-inundaciones-familias-afectadas-y-vias-danadas-en-sierra-nevada/",
+  "fecha": "2026-11-08T06:15:00-05:00",
+  "palabras": "",
+  "lead": "Las fuertes precipitaciones provocaron el desbordamiento de quebradas, afectaciones en viviendas y daños en las vías de Palmor y San Javier, Magdalena.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
  }
 ]
