@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "De 2022 a octubre de 2026, 1.450 personas privadas de la libertad fallecieron en las cárceles del INPEC, así lo informó la entidad en respuesta a un derecho de petición de Caracol Radio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,6 +194,182 @@
   "palabras": "Política,atentado,ataque explosivo,Alerta de seguridad,Alerta,Evacuación edificio,Grupos terroristas,Medios de comunicación,Periodismo,Informe de inteligencia,Colombia",
   "lead": "“Es grave y profundamente preocupante la información sobre amenazas o riesgos de atentados\", dijo la defensora del Pueblo.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Congreso y Gobierno conformaron mesas técnicas para discutir ley de rescate económico",
+  "enlace": "https://www.bluradio.com/regiones/caribe/congreso-y-gobierno-conformaron-mesas-tecnicas-para-discutir-ley-de-rescate-economico-rg10",
+  "fecha": "2026-11-08T08:02:05-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Congreso de la República, Reforma tributaria, Abelardo De La Espriella",
+  "lead": "Este sábado se reunieron los congresistas de las comisiones económicas con el Ejecutivo en la sede alterna de la Presidencia en Barranquilla. El Centro Democrático presentó un borrador de propuestas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Falleció Radamell Uribe, corista de Kbeto Zuleta, tras permanecer hospitalizado por accidente de bus",
+  "enlace": "https://www.bluradio.com/regiones/caribe/fallecio-radamell-uribe-corista-de-kbeto-zuleta-tras-permanecer-hospitalizado-por-accidente-de-bus-rs15",
+  "fecha": "2026-11-08T07:46:39-05:00",
+  "palabras": "Barranquilla, Vallenato",
+  "lead": "La muerte del músico se suma a la de otros integrantes de la agrupación vallenata que viajaban en el bus que cayó al río Ariguaní. El cantante Kbeto Zuleta continúa hospitalizado en Barranquilla.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Reversible en avenida La Esperanza se extenderá hasta diciembre: así funcionará en Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/reversible-en-avenida-la-esperanza-se-extendera-hasta-diciembre-asi-funcionara-en-bogota-so35",
+  "fecha": "2026-11-08T08:00:52-05:00",
+  "palabras": "Bogotá, Calle 13, Movilidad",
+  "lead": "Durante el primer mes, los tiempos de ingreso a Bogotá desde el occidente se redujeron un 53,7 %, según las mediciones oficiales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Frustran atentado terrorista en la vía Pamplona-Bucaramanga",
+  "enlace": "https://caracol.com.co/2026/11/08/frustran-atentado-terrorista-en-la-via-pamplona-bucaramanga/",
+  "fecha": "2026-11-08T07:48:59-05:00",
+  "palabras": "",
+  "lead": "Autoridades en máxima alerta por acciones del ELN",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Falleció tercer integrante de la agrupación de Kbeto Zuleta tras accidente de tránsito",
+  "enlace": "https://caracol.com.co/2026/11/08/fallecio-tercer-integrante-de-la-agrupacion-de-kbeto-zuleta-tras-accidente-de-transito/",
+  "fecha": "2026-11-08T08:00:37-05:00",
+  "palabras": "",
+  "lead": "Se trata de Radamel Uribe Navarro, quien se desempeñaba como corista y primera voz de la agrupación",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército evitó ataque contra sus unidades en Convención",
+  "enlace": "https://caracol.com.co/2026/11/08/ejercito-evito-ataque-contra-sus-unidades-en-convencion/",
+  "fecha": "2026-11-08T07:41:47-05:00",
+  "palabras": "",
+  "lead": "Con cilindros cargados con explosivos se pretendía afectar una unidad militar",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Cartagena Dadis invita a disfrutar las Fiestas de Independencia sin pólvora",
+  "enlace": "https://caracol.com.co/2026/11/08/en-cartagena-dadis-invita-a-disfrutar-las-fiestas-de-independencia-sin-polvora/",
+  "fecha": "2026-11-08T07:46:39-05:00",
+  "palabras": "",
+  "lead": "El departamento de salud entregó recomendaciones en caso de intoxicación o quemaduras",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Este año el bando inicia a las 10:00 a.m. en Cartagena: ¿Qué está prohibido?",
+  "enlace": "https://caracol.com.co/2026/11/08/este-ano-el-bando-inicia-a-las-1000-am-en-cartagena-que-esta-prohibido/",
+  "fecha": "2026-11-08T07:39:58-05:00",
+  "palabras": "",
+  "lead": "La cita es para el jueves 12 de noviembre",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Los muchachos compitieron de manera increíble”: González tras empatar el clásico vallecaucano",
+  "enlace": "https://caracol.com.co/2026/11/08/los-muchachos-compitieron-de-manera-increible-gonzalez-tras-empatar-el-clasico-vallecaucano/",
+  "fecha": "2026-11-08T07:29:33-05:00",
+  "palabras": "",
+  "lead": "El técnico del América analizó el empate sin goles frente al Deportivo Cali y se refirió al estado del Pascual Guerrero.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército reveló identidades de los fallecidos tras ataque a batallón en Santa Rosa, sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/08/ejercito-revelo-identidades-de-los-fallecidos-tras-ataque-a-batallon-en-santa-rosa-sur-de-bolivar/",
+  "fecha": "2026-11-08T07:23:40-05:00",
+  "palabras": "",
+  "lead": "47 hombres y mujeres también permanecen heridos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fuertes lluvias dejan 24 barrios de Cali afectados por suspensión de la planta del río Cali",
+  "enlace": "https://caracol.com.co/2026/11/08/fuertes-lluvias-dejan-24-barrios-de-cali-afectados-por-suspension-de-la-planta-del-rio-cali/",
+  "fecha": "2026-11-08T07:17:55-05:00",
+  "palabras": "",
+  "lead": "El aumento de la turbiedad y el arrastre de material vegetal obligaron a EMCALI a suspender temporalmente la captación y potabilización de agua",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Grescas y ataques en operativos de tránsito en Cúcuta",
+  "enlace": "https://caracol.com.co/2026/11/08/grescas-y-ataques-en-operativos-de-transito-en-cucuta/",
+  "fecha": "2026-11-08T07:16:28-05:00",
+  "palabras": "",
+  "lead": "Intolerancia y faltas de respeto entre las partes abundan en los procedimientos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Estos eran los 3 soldados asesinados en Santa Rosa del Sur",
+  "enlace": "https://www.lafm.com.co/orden-publico/identidad-santa-rosa-bolivar-ataque-drones-canton-militar-416499",
+  "fecha": "2026-11-08T07:23:00-05:00",
+  "palabras": "Orden Público,Sur de Bolívar,Ataque con granada,ataque explosivo,Ejército Nacional,Abelardo de la Espriella",
+  "lead": "El Ejército Nacional reveló la identidad de los tres soldados que murieron tras un ataque terrorista en el sur de Bolívar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Japón registra sismo de 5,7: hay heridos y daños en varias ciudades",
+  "enlace": "https://www.lafm.com.co/internacional/terremoto-japon-sismo-57-balance-heridos-ciudades-afectadas-416498",
+  "fecha": "2026-11-08T07:17:00-05:00",
+  "palabras": "Internacional,terremoto,japón,Heridos,Temblor,Asia",
+  "lead": "Japón está situado en la conjunción de cuatro grandes placas tectónicas y sufre alrededor de 18% de los sismos registrados a nivel mundial.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Preocupan fuertes lluvias de las últimas horas en Cali",
+  "enlace": "https://www.lafm.com.co/actualidad/lluvias-cali-20-barrios-sin-servicio-acueducto-decenas-arboles-caidos-416495",
+  "fecha": "2026-11-08T06:55:00-05:00",
+  "palabras": "Actualidad,Lluvias,Emergencia,Inundaciones,Agua,Acueducto,Emcali",
+  "lead": "Autoridades hacen seguimiento a la caída de árboles en Cali y la suspensión del servicio de acueducto en más de 20 barrios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobernadora de Magdalena cuestiona uso de recursos públicos",
+  "enlace": "https://www.lafm.com.co/actualidad/gobernadora-magdalena-margarita-guerra-cuestiona-uso-recursos-publicos-manejo-hospitales-obras-inconclusas-416493",
+  "fecha": "2026-11-08T06:52:00-05:00",
+  "palabras": "Actualidad,Gobernación del Magdalena,críticas,polémica,Irregularidades en manejo de recursos,Irregularidades en contratos,Polémicos contratos,Quejas,debate político,Oposición,Funcionarios públicos",
+  "lead": "La funcionaria respondió a críticas de algunos sectores políticos, que la calificaron de desleal.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
