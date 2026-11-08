@@ -1811,7 +1811,7 @@
   "palabras": "Noticias de hoy, Viajes, Navidad",
   "lead": "Entre los lugares recomendados hay ciudades reconocidas por sus celebraciones tradicionales y otras que ofrecen alternativas para quienes prefieren pasar las fiestas en climas cálidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "Salud mental, transtornos mentales, Sueño, Viral, parálisis del sueño, se \"sube el muerto\"",
   "lead": "Sentir que alguien se sienta sobre el pecho, escuchar voces o ver sombras mientras duerme puede provocar terror. La ciencia explica qué ocurre realmente durante estos episodios nocturnos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "Papa León XIV, Vaticano",
   "lead": "Néstor Pongutá, periodista especializado en el Vaticano, explicó las claves de este recorrido, la conexión del pontífice con los fieles y los cambios que prepara para la Iglesia católica.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "Cauca",
   "lead": "La violencia y los daños del terremoto agravan la situación del Cauca, un departamento que necesita $800.000 millones para reconstruir su infraestructura y recuperar su potencial económico.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "Acuerdo de paz, Iris Marín, FARC",
   "lead": "La funcionaria reconoció avances en la implementación, pero advirtió que esfuerzos institucionales han sido insuficientes para transformar las condiciones de territorios más afectados por la violencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "",
   "lead": "El agotamiento laboral y las nuevas expectativas de los empleados están llevando a las empresas a replantear sus estrategias para fortalecer la confianza y retener el talento humano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "Ministerio de Defensa, Gustavo Petro, Drones",
   "lead": "El jefe de la cartera aseguró que no existían recursos apropiados para esa compra en el presupuesto de 2026 ni un contrato adjudicado que hubiera sido cancelado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "",
   "lead": "Los colegios enfrentan el reto de ofrecer ambientes que no solo faciliten la transmisión de conocimientos, sino que también estimulen la curiosidad, la creatividad, el pensamiento crítico y la capacidad de resolver problemas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "",
   "lead": "El expresidente se reunió con varios representantes del Pacto Histórico para abordar diferentes asuntos políticos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "",
   "lead": "‘La Fonda del Señorazo’ reunió a miles de asistentes en el Coliseo MedPlus, con invitados musicales, una sorpresa familiar y un homenaje a Yeison Jiménez.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "",
   "lead": "Argentina es la segunda parada de la gira por Sudamérica que inició el Papa en Uruguay y que culminará en Perú.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,7 +1932,7 @@
   "palabras": "",
   "lead": "El mandatario ya había señalado que quienes ocupen esos cargos deben dar “garantía de que los recursos de las distintas entidades del Estado se van a administrar como debe ser”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1943,7 +1943,7 @@
   "palabras": "",
   "lead": "Jaguares recibe este domingo 8 de noviembre al Atlético Bucaramanga en el estadio Jaraguay de Montería, por la fecha 18 de la Liga.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,7 +1954,7 @@
   "palabras": "Deportes,Formula 1,McLaren,Max Verstappen,Mundial 2026,campeón,Carreras de automovilismo,Brasil,ganador",
   "lead": "El campeón Andrea Kimmi Antonelli quedó en el quinto lugar de la clasificaicón a 36.017 segundos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Sociedad,puente festivo de noviembre,Día de la Independencia,noviembre,Puentes festivo,Días festivos,Cartagena",
   "lead": "El primero fue el lunes 2 de noviembre, cuando se conmemoró el Día de Todos los Santos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,6 +1976,160 @@
   "palabras": "Deportes,Juegos Olímpicos,Medallas de oro,Medalla de plata,Medalla de bronce,Selección Colombia,deportistas colombianos,Ciclismo,esgrima,Eventos deportivos,Juegos",
   "lead": "Los primeros juegos en territorio africano han sido un descubrimiento de grandes talentos para nuestro país en otras disciplinas.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Paisita Noche hoy domingo 8 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-paisita-noche-hoy-domingo-8-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-08T17:08:23-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
+  "lead": "El sorteo de Paisita Noche se realiza todos los días después de las 6:00 p. m. Los participantes pueden consultar aquí el resultado de la jornada, las últimas cifras y conocer las modalidades de apuesta y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nieve 100 % real en Bogotá: conozca dónde estará esta experiencia invernal y cómo podrá visitarla",
+  "enlace": "https://www.bluradio.com/regiones/bogota/nieve-100-real-en-bogota-conozca-donde-estara-esta-experiencia-invernal-y-como-podra-visitarla-so35",
+  "fecha": "2026-11-08T16:52:59-05:00",
+  "palabras": "Navidad, Novenas de Navidad, dónde ver nieve real en Bogotá",
+  "lead": "Un centro comercial de Bogotá anunció la llegada de una atracción con nieve 100 % real, que estará disponible durante la temporada navideña y ofrecerá actividades para toda la familia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con falsos retenes y armas robaban camiones en vías del Tolima: diez fueron capturados",
+  "enlace": "https://caracol.com.co/2026/11/08/con-falsos-retenes-y-armas-robaban-camiones-en-vias-del-tolima-diez-fueron-capturados/",
+  "fecha": "2026-11-08T17:04:29-05:00",
+  "palabras": "",
+  "lead": "Según la Fiscalía, los automotores eran desmantelados y sus autopartes comercializadas ilegalmente en Bogotá.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Mentira”: así fue el choque entre Petro y el Gobierno De la Espriella por sistemas antidrones",
+  "enlace": "https://caracol.com.co/2026/11/08/mentira-asi-fue-el-choque-entre-petro-y-el-gobierno-de-la-espriella-por-sistemas-antidrones/",
+  "fecha": "2026-11-08T17:02:50-05:00",
+  "palabras": "",
+  "lead": "El expresidente señaló a la actual administración de dejar “expuestas” a las tropas. El ministro de Defensa también respondió.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturada mujer dedicada al envío ilegal de material de guerra desde EE.UU. a Cali",
+  "enlace": "https://caracol.com.co/2026/11/08/capturada-mujer-dedicada-al-envio-ilegal-de-material-de-guerra-desde-eeuu-a-cali/",
+  "fecha": "2026-11-08T16:37:57-05:00",
+  "palabras": "",
+  "lead": "Fue detenida por la Policía Fiscal y Aduanera, la Fiscalía General de la Nación y la Oficina de Investigaciones de Seguridad Nacional de los Estados Unidos (HSI).",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Latin Grammy 2026 anuncia nuevos artistas: Karol G y Grupo Niche entre los invitados",
+  "enlace": "https://caracol.com.co/2026/11/08/latin-grammy-2026-anuncia-nuevos-artistas-karol-g-y-grupo-niche-entre-los-invitados/",
+  "fecha": "2026-11-08T16:54:53-05:00",
+  "palabras": "",
+  "lead": "La ceremonia de la edición número 27 de los Latin Grammy contará con la participación de Karol G, Nathy Peluso, Grupo Niche y Jay Wheeler, entre otros artistas. Además, rendirá un homenaje especial al salsero Willie Colón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seguidores de Diomedes Díaz reaccionan al daño de su estatua: ¿Qué dijeron?",
+  "enlace": "https://caracol.com.co/2026/11/08/seguidores-de-diomedes-diaz-reaccionan-al-dano-de-su-estatua-que-dijeron/",
+  "fecha": "2026-11-08T16:25:58-05:00",
+  "palabras": "",
+  "lead": "El deterioro del monumento del ‘Cacique de La Junta’ generó rechazo en redes sociales y reabrió el debate sobre el cuidado de los símbolos del vallenato.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lando Norris gana el GP de Brasil: Verstappen protagoniza una remontada y Mercedes es campeón",
+  "enlace": "https://caracol.com.co/2026/11/08/lando-norris-gana-el-gp-de-brasil-verstappen-protagoniza-una-remontada-y-mercedes-es-campeon/",
+  "fecha": "2026-11-08T16:22:36-05:00",
+  "palabras": "",
+  "lead": "Max Verstappen terminó segundo después de largar desde la posición 21, mientras que Mercedes aseguró el título de constructores.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Barcelona remontó al Real Madrid: goles y resultado",
+  "enlace": "https://www.lafm.com.co/deportes/atletico-de-madrid-vs-barcelona-laliga-goles-y-resultado-416538",
+  "fecha": "2026-11-08T17:05:00-05:00",
+  "palabras": "Deportes,Barcelona,FC Barcelona,Atlético de Madrid,España,Liga Española,Madrid",
+  "lead": "El equipo de Hansi Flick logró sobreponerse al golpe en el primer tiempo y sigue líder en España.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "León XIV llega a Argentina y lo recibe Milei, cuyo ajuste cuestiona la Iglesia",
+  "enlace": "https://www.lafm.com.co/internacional/papa-leon-en-argentina-javier-milei-lo-recibe-416537",
+  "fecha": "2026-11-08T16:57:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Javier Milei,Argentina,Vaticano,Latinoamerica",
+  "lead": "El papa continúa su viaje por Latinoamérica tras su intervención quirúrgica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Viernes 13 no es de mala suerte en todo el mundo: estas culturas temen otras fechas",
+  "enlace": "https://www.lafm.com.co/sociedad/viernes-13-no-es-de-mala-suerte-en-todo-el-mundo-estas-culturas-temen-otras-fechas-416533",
+  "fecha": "2026-11-08T16:33:00-05:00",
+  "palabras": "Sociedad,Astrología,Numerología,Predicciones,Signos zodiacales,sistema planetario,Religión,Reflexión,Superación personal,Principio de oportunidad",
+  "lead": "La astróloga Paola Montoya, habló en entrevista con La FM, sobre el origen de esta creencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Trump admite que su política de deportaciones fue \"demasiado dura\"",
+  "enlace": "https://www.lafm.com.co/internacional/trump-ademite-politica-deportaciones-demasiado-dura-416524",
+  "fecha": "2026-11-08T16:29:00-05:00",
+  "palabras": "Internacional,Donald Trump,Estados Unidos,Inmigrantes,Latinoamericanos",
+  "lead": "El mandatario parece cambiar su enfoque de migración tras la derrota en las elecciones de medio término.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Cómo aplicar a Jóvenes a la E? Esta es la guía",
+  "enlace": "https://www.lafm.com.co/sociedad/jovenes-a-la-e-como-aplicar-estudiar-universidades-416536",
+  "fecha": "2026-11-08T16:02:00-05:00",
+  "palabras": "Sociedad,becas,Bogotá,Alcaldía de Bogotá,Colombia,Universidades de Colombia,universidades",
+  "lead": "Los interesados deberán tener un proceso de admisión con una institución de educación superior.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ejército neutralizó ataque con dron con explosivos en Chocó",
+  "enlace": "https://www.lafm.com.co/orden-publico/ejercito-neutralizo-ataque-dron-cargado-explosivos-en-tado-choco-colombia-416531",
+  "fecha": "2026-11-08T14:48:00-05:00",
+  "palabras": "Orden Público,Ataque aéreo,Drones,Ataque a uniformados,Ataque con granada,ataque explosivo,Tecnología,Ejército Nacional,Fuerzas Militares,Antiexplosivos,Operativos militares",
+  "lead": "El procedimiento se realizó en la vereda Guarato, donde uniformados utilizaron un equipo especializado para interferir las señales del aparato aéreo no tri...",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
