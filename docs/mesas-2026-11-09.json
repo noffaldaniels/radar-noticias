@@ -34,6 +34,27 @@
    "quien": "Nicolás Rodríguez, periodista de Mañanas Blu",
    "que": "Informó la captura y judicialización de cuatro personas por reclutamiento ilícito que mantenían retenidos en hoteles de Soacha a cuatro menores de edad reclutados por el frente Franco Benavides de las disidencias de las FARC para enviarlos al Guaviare.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:49",
+   "quien": "Mónica Paola Saldarriaga, Viceministra de Agua y Saneamiento Básico",
+   "que": "Informó que las reparaciones a la infraestructura de acueducto tras el sismo demandan cerca de 150.000 millones de pesos y reveló que examinan proyectos por cerca de 5 billones de pesos que se encuentran suspendidos o con trabas administrativas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:50",
+   "quien": "Jorge Eliécer Laverde, Contralor General de la República",
+   "que": "Declaró de impacto nacional hallazgos fiscales por más de 61.200 millones de pesos en el proyecto Aerocafé e informó que en Caldas hay 36 obras inconclusas de las más de 1.000 identificadas en el país.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:52",
+   "quien": "Carlos Meisel, Senador del Centro Democrático",
+   "que": "Manifestó la preocupación del partido frente al proyecto de ley de rescate fiscal del Gobierno por el impacto de nuevos impuestos como el IVA y cargas parafiscales, destacando que presentaron 16 puntos con alternativas para atender la crisis.",
+   "resaltar": true
   }
  ],
  "avisos": []
