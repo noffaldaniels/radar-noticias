@@ -2504,7 +2504,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Chontico Noche",
   "lead": "El sorteo del Chontico Noche se realiza todos los días, aunque su horario cambia según la jornada. Consulte el resultado de este domingo 8 de noviembre y conozca las modalidades de apuesta y los requisitos para reclamar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2515,7 +2515,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Caribeña noche",
   "lead": "El chance Caribeña Noche se juega de lunes a sábado y sus resultados suelen publicarse después de las 10:30 p. m. Los participantes pueden consultar aquí el número ganador y conocer las modalidades disponibles para apostar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Sinuano noche",
   "lead": "El chance Sinuano Noche realiza sus sorteos todos los días. Los participantes pueden consultar aquí el resultado de este domingo 8 de noviembre, conocer las modalidades de apuesta y revisar los requisitos para reclamar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Super Astro Luna",
   "lead": "El sorteo de Super Astro Luna se realiza todos los días, incluidos domingos y festivos. Los jugadores pueden consultar aquí el resultado de este domingo 8 de noviembre y verificar si acertaron la combinación de cuatro cifras y el signo zodiacal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,7 +2548,7 @@
   "palabras": "Indonesia, Accidentes aéreos, Viral",
   "lead": "La aeronave perdió estabilidad durante una maniobra para abastecerse de agua y terminó sumergida parcialmente. El impactante momento quedó registrado en video.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2559,7 +2559,7 @@
   "palabras": "Cali",
   "lead": "El hotel, afectado por el terremoto del 10 de agosto, registró nuevos movimientos estructurales. Su demolición ya fue aprobada por el Consejo Distrital y estará a cargo de sus propietarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2570,7 +2570,7 @@
   "palabras": "Selección Colombia, Federación Colombiana de Fútbol, Fútbol",
   "lead": "La doble jornada de amistosos de noviembre representa una oportunidad para que Néstor Lorenzo pruebe variantes y observe nuevos nombres dentro del proceso de la Selección Colombia.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2581,7 +2581,7 @@
   "palabras": "Dirección Nacional de Inteligencia – DNI, Gustavo Petro",
   "lead": "Documentos reservados de la DNI revelarían presunto espionaje a expresidentes, intentos de interferencia electoral e irregularidades en millonarios contratos durante el gobierno Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2592,7 +2592,7 @@
   "palabras": "",
   "lead": "Al parecer, los hoy fallecidos iban a exceso de velocidad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2603,7 +2603,7 @@
   "palabras": "",
   "lead": "El alcalde Nelson Garzón Chitiva espera que la visita presidencial a Boyacá permita fortalecer el diálogo con los municipios y avanzar en proyectos estratégicos para la región.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2614,7 +2614,7 @@
   "palabras": "",
   "lead": "Los dos equipos se enfrentan en Valledupar por la fecha 18, sin posibilidades de clasificar a los cuadrangulares semifinales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2625,7 +2625,7 @@
   "palabras": "",
   "lead": "Este suceso se suma a los atentados contra los puntos de recaudo viales de los municipios de La Sierra y Santander de Quilichao en el Cauca durante la última semana.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2636,7 +2636,7 @@
   "palabras": "",
   "lead": "El vicepresidente defendió el proceso de selección de proyectos para presentar ante inversionistas en Nueva York y pidió corregir la información publicada sobre las cifras, tras los cuestionamientos de la exministra Diana Morales. También negó haber estigmatizado a los medios de comunicación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2647,7 +2647,7 @@
   "palabras": "",
   "lead": "El senador reconoció que las estructuras de la colectividad todavía reproducen prácticas patriarcales y pidió que la lealtad política no se convierta en una excusa para silenciar denuncias de violencia contra las mujeres.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "",
   "lead": "Los integrantes de ese partido que hacen parte de la Comisión de Acusaciones cambiaron de postura y señalaron que la investigación debe ir al ente acusador y no a la corporación del Legislativo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "",
   "lead": "Palmeiras se impuso en la tanda de penales ante Vasco da Gama y aseguró su lugar en la final. Los dos colombianos tuvieron participación en el compromiso.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "",
   "lead": "El IDEAM advierte que el evento climático tendría una intensidad muy fuerte hasta enero y podría extenderse durante el primer semestre del próximo año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2691,7 +2691,7 @@
   "palabras": "",
   "lead": "El suceso se registró cerca a Membrillal",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2702,7 +2702,7 @@
   "palabras": "",
   "lead": "El pronunciamiento se conoce después de las alertas sobre posibles atentados contra varios medios, incluyendo Caracol Radio, en Bogotá. El gremio pidió investigar las intimidaciones y proteger a periodistas y trabajadores de los medios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2713,7 +2713,7 @@
   "palabras": "Política,Acuerdo de paz,Farc EP,Disidentes de las Farc,disidencias,ONU",
   "lead": "El funcionario se refirió al proceso de paz de 2016 y respondió al expresidente Juan Manuel Santos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "Orden Público,Hostigamiento,Actos terroristas,Terrorismo,Ataque a la fuerza publica,Disidentes de las Farc,Grupos Armados Residuales,Fuerzas Militares,Operativos militares,victimas del conflicto armado",
   "lead": "Este nuevo ataque en el Cauca contra el peaje de Villa Rica, que dejó un un civil herido, fue adjudicado a la columna 'Jaime Martínez'.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "Internacional,Papa León XIV,Vaticano,Argentina,Latinoamerica,Javier Milei",
   "lead": "El sumo pontífice se refirió a las dificultades que vive la población en Argentina.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "Orden Público,ELN,ataque a fuerza pública,Ataques aéreos,Antiexplosivos,Incautación de explosivos,Actos terroristas,Ataque a uniformados,Ejército Nacional,Militares,Víctimas",
   "lead": "Los artefactos explosivos fueron ubicados en zonas rurales de Convención, Pamplona y Villa del Rosario. Según el Ejército, habrían sido instalados por inte...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,7 +2757,7 @@
   "palabras": "Orden Público,Ataque a uniformados,Ataque a la fuerza publica,Ataque aéreo,Heridos,Cuidados intensivos,Atención a pacientes,médicos,Departamento de Santander,Bucaramanga,Fuerzas Militares",
   "lead": "14 de los uniformados reciben atención médica en el Hospital Universitario de Santander (HUS), otro militar permanece en el dispensario de Bucaramanga y si...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2767,6 +2767,105 @@
   "fecha": "2026-11-08T18:36:00-05:00",
   "palabras": "Economía,Mipymes,Emprendedores,Comercio exterior,Comercio internacional,Mercados internacionales,Organización de las Naciones Unidas,Sostenibilidad,Industria,microempresas,Proyectos sostenibles",
   "lead": "La agenda contempla certificaciones de calidad, parques ecoindustriales y proyectos para integrar pequeños negocios colombianos a cadenas comerciales de al...",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Papa León XIV lanzó contundente mensaje a Milei: “La economía debe estar al servicio de las personas”",
+  "enlace": "https://www.bluradio.com/mundo/papa-leon-xiv-lanzo-contundente-mensaje-a-milei-la-economia-debe-estar-al-servicio-de-la-persona-cb20",
+  "fecha": "2026-11-08T21:26:52-05:00",
+  "palabras": "Papa León XIV, Argentina, Javier Milei",
+  "lead": "El pontífice se pronunció ante el propio Milei, quien escuchó sentado a su lado en el auditorio del antiguo Centro Cultural Kirchner (CCK), rebautizado como Palacio Libertad.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Donald Trump reconoce que su política de deportaciones fue \"demasiado dura\"",
+  "enlace": "https://www.bluradio.com/mundo/donald-trump-reconoce-que-su-politica-de-deportaciones-fue-demasiado-dura-cb20",
+  "fecha": "2026-11-08T21:19:38-05:00",
+  "palabras": "Estados Unidos, Donald Trump, ICE, Deportados de Estados Unidos",
+  "lead": "Sus declaraciones se producen tras los comicios del martes, en los que los demócratas ganaron las mayorías de la Cámara de Representantes y el Senado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hasta las últimas consecuencias”: Ocampo estudia acciones legales tras reporte de la primera dama",
+  "enlace": "https://caracol.com.co/2026/11/09/hasta-las-ultimas-consecuencias-ocampo-estudia-acciones-legales-tras-reporte-de-la-primera-dama/",
+  "fecha": "2026-11-08T21:59:02-05:00",
+  "palabras": "",
+  "lead": "El senador aseguró que el informe de los aportes a la fundación de la primera dama es incompleto e insatisfactorio por la falta de información contable.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tabla de posiciones Liga colombiana: Millonarios perdió ante Tolima y aplazó su clasificación",
+  "enlace": "https://caracol.com.co/2026/11/09/tabla-de-posiciones-liga-colombiana-millonarios-perdio-ante-tolima-y-aplazo-su-clasificacion/",
+  "fecha": "2026-11-07T23:15:18-05:00",
+  "palabras": "",
+  "lead": "La fecha 18 dejó movimientos importantes en la lucha por los cuadrangulares.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cursos gratis de cocina navideña, café y sistemas en Bogotá con el IPES",
+  "enlace": "https://caracol.com.co/2026/11/09/cursos-gratis-de-cocina-navidena-cafe-y-sistemas-en-bogota-con-el-ipes/",
+  "fecha": "2026-11-08T21:19:17-05:00",
+  "palabras": "",
+  "lead": "La oferta está dirigida a vendedores informales, sus familias y comerciantes de las Plazas Distritales de Mercado. Aquí le contamos cómo inscribirse.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Motocicleta y bus intermunicipal chocaron de frente en Magangué",
+  "enlace": "https://caracol.com.co/2026/11/09/motocicleta-y-bus-intermunicipal-chocaron-de-frente-en-magangue/",
+  "fecha": "2026-11-08T21:16:25-05:00",
+  "palabras": "",
+  "lead": "Presuntamente el lesionado incurrió en una invasión de carril",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Renta Ciudadana y Devolución IVA tendrán quinto ciclo en Noviembre: DPS anunció nuevas fechas",
+  "enlace": "https://caracol.com.co/2026/11/09/renta-ciudadana-y-devolucion-iva-tendran-quinto-ciclo-en-noviembre-dps-anuncio-nuevas-fechas/",
+  "fecha": "2026-11-08T21:04:47-05:00",
+  "palabras": "",
+  "lead": "Prosperidad Social anunció las fechas para los pagos de los programas para familias vulnerables en noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno reiteró que no administra donaciones del sector privado para atención del terremoto",
+  "enlace": "https://caracol.com.co/2026/11/09/gobierno-reitero-que-no-administra-donaciones-del-sector-privado-para-atencion-del-terremoto/",
+  "fecha": "2026-11-08T20:55:30-05:00",
+  "palabras": "",
+  "lead": "El vocero de la Presidencia de la República entregó un balance de algunos recursos que se han invertido para la reconstrucción.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 2.000 personas disfrutaron Domingo de Diversión en Nuevo Chambacú",
+  "enlace": "https://caracol.com.co/2026/11/09/mas-de-2000-personas-disfrutaron-domingo-de-diversion-en-nuevo-chambacu/",
+  "fecha": "2026-11-08T20:51:00-05:00",
+  "palabras": "",
+  "lead": "Fue una jornada familiar coordinada desde la Alcaldía de Cartagena",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
