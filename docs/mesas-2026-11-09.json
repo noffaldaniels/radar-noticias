@@ -76,6 +76,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Centro Democrático, encabezado por Álvaro Uribe, presentó un documento de 14 puntos con modificaciones a la ley de rescate fiscal, rechazando nuevos impuestos y cambios al IVA y proponiendo alternativas como la venta de empresas estatales como ISA.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:02",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Informó que un atentado del ELN con drones cargados de explosivos contra un batallón militar en Santa Rosa del Sur (Bolívar) dejó 3 soldados muertos y 47 heridos, 16 de ellos de gravedad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:05",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Anunció que la Contraloría abrió una investigación prioritaria sobre cinco contratos de la Dirección Nacional de Inteligencia (DNI) por presuntas irregularidades que superan los 20.000 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:06",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Reportó la captura en Neiva de Carlos Oyola, vinculado a la DNI, quien presuntamente tenía la misión de atacar el software de la Registraduría y alterar los resultados de las elecciones del pasado 21 de junio.",
+   "resaltar": false
   }
  ],
  "avisos": []
