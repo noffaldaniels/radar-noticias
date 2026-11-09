@@ -1140,7 +1140,7 @@
   "palabras": "Bolívar, Homicidios, Magdalena Medio, Policía Nacional, ELN, Clan del Golfo, Santander, Blu Radio, Noticias de hoy, Santa Rosa",
   "lead": "Tres hombres fueron asesinados en un ataque armado en un bar y otro fue víctima de homicidio en Mina Paraíso. Las autoridades no descartan que detrás de estos hechos estén el ELN y el Clan del Golfo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "Bucaramanga, Santander, Ropa, Asia, Fenalco, Blu Radio",
   "lead": "Los empresarios de las confecciones de Santander advierten que eliminar los aranceles a la ropa asiática pondría en desventaja a los productores colombianos y amenazaría el empleo y la industria nacional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "Noticias de hoy, Santa Marta",
   "lead": "El animal murió después de ser arrollado en El Rodadero. Un video muestra a operarios de la empresa de aseo depositando el cuerpo en un vehículo recolector, situación que provocó cuestionamientos ciudadanos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "El alcalde, Cristian Portilla pondera el apoyo del jefe de Estado en temas de seguridad a través del Bloque de Defensa Urbana.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "El impacto económico trasciende las embarcaciones: proveedores de alimentos y bebidas, grupos folclóricos, restaurantes, hoteles, transportadores, comerciantes y distintos oficios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "Esta semana la ciudad se viste de Fiesta",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "El entrenador Cardenal destacó el rendimiento de su equipo, tras la contundente victoria frente a los volcánicos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "La estructura presentó un nuevo movimiento lo que obligó a las autoridades a ampliar el perímetro de seguridad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "20 municipios reportan algún tipo de alerta por desabastecimiento de agua previo a la etapa más intensa del Fenómeno de El Niño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Orden Público,Protestas en Colombia,protesta,Proyecto de ley,Protocolo sobre protesta social,Corte Constitucional,Abelardo de la Espriella",
   "lead": "La iniciativa plantea endurecer las medidas contra quienes utilizan prendas o máscaras para cubrirse el rostro mientras participan en hechos violentos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "Orden Público,Antioquia,reclutamiento,Reclutamiento forzoso,Defensoría del Pueblo,factura de servicios públicos,plan de seguridad nacional",
   "lead": "En entrevista con La FM, explicó las razones de su postura y se refirió a otros asuntos de la agenda regional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,6 +1261,325 @@
   "palabras": "Internacional,Tiroteo,Polonia,Asesinato",
   "lead": "El hombre de 24 años asesinó a sus padres, su hermana, y tres adultos más.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobernación de Antioquia negó cupo para traslado de Miguel Quintero a cárcel de Yarumito",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobernacion-de-antioquia-nego-cupo-para-traslado-de-miguel-quintero-a-carcel-de-yarumito-rg10",
+  "fecha": "2026-11-09T09:17:26-05:00",
+  "palabras": "Antioquia, Gobernación de Antioquia, Daniel Quintero, Fiscalía General de la Nación, Inpec",
+  "lead": "La Administración Departamental alegó que el centro penitenciario regional, ubicado en Itagüí, es de seguridad mínima y no cuenta con capacidades operativas para el perfil de riesgo del hermano del exmandatario.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“En el Gobierno Petro encontré gente maravillosa y gente muy mala”: Luis Fernando Velasco",
+  "enlace": "https://www.bluradio.com/nacion/en-el-gobierno-petro-encontre-gente-maravillosa-y-gente-muy-mala-luis-fernando-velasco-pr30",
+  "fecha": "2026-11-09T09:18:00-05:00",
+  "palabras": "",
+  "lead": "El exministro Luis Fernando Velasco sostuvo que nunca intentó evadir a la justicia y que ejercerá su defensa plenamente en libertad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "DANE ya tiene fecha para publicar el último IPC de 2026: ¿qué aumentará en 2027?",
+  "enlace": "https://www.bluradio.com/economia/dane-ya-tiene-fecha-para-publicar-el-ultimo-ipc-de-2026-que-aumentara-en-2027-so35",
+  "fecha": "2026-11-09T09:00:05-05:00",
+  "palabras": "Dane, Índice de Precios al Consumidor (IPC)",
+  "lead": "El dato de inflación servirá como referencia para actualizar arriendos, pensiones y otros cobros durante el próximo año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría pone lupa a contrato de $310.000 millones en vía Duitama – Charalá – San Gil",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/procuraduria-pone-lupa-a-contrato-de-310-000-millones-en-via-duitama-charala-san-gil-rg10",
+  "fecha": "2026-11-09T09:07:11-05:00",
+  "palabras": "Blu Radio, Movilidad, San Gil, Corrupción, Procuraduría General de la Nación, Noticias de hoy",
+  "lead": "La actuación se produce luego de las denuncias, quienes manifestaron su preocupación por las condiciones del proyecto, especialmente por la construcción de un paso nacional que atravesaría a Charalá.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Siamesas nacieron unidas por el pecho: así fue la cirugía de 11 horas para separarlas en Cali",
+  "enlace": "https://www.bluradio.com/nacion/siamesas-nacieron-unidas-por-el-pecho-asi-fue-la-cirugia-de-11-horas-para-separarlas-en-cali-so35",
+  "fecha": "2026-11-09T09:14:34-05:00",
+  "palabras": "Cali, Bebé, Los Informantes",
+  "lead": "Nicole y Felipe esperaron durante meses la operación de sus hijas siamesas, nacidas unidas por el pecho. De acuerdo con el equipo médico, las bebés compartían el pecho y el diafragma, una condición que comprometía su capacidad respiratoria y ponía en riesgo sus vidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Maluma: preventa de Loco X Volver en Bogotá; podrán comprar hasta 6 boletas",
+  "enlace": "https://www.bluradio.com/entretenimiento/maluma-confirma-preventa-de-su-gira-loco-x-volver-estas-personas-podran-comprar-hasta-6-boletas-so35",
+  "fecha": "2026-11-09T09:26:11-05:00",
+  "palabras": "Viral, Maluma, Movistar Arena Bogotá, Concierto, concierto, maluma",
+  "lead": "La venta anticipada comienza este 9 de noviembre y estará disponible durante 48 horas o hasta completar el 50 % del aforo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por reducir muertes en las vías, Medellín es elegida como referente global de seguridad vial",
+  "enlace": "https://caracol.com.co/2026/11/09/por-reducir-muertes-en-las-vias-medellin-es-elegida-como-referente-global-de-seguridad-vial/",
+  "fecha": "2026-11-09T09:30:53-05:00",
+  "palabras": "",
+  "lead": "La capital de Antioquia ingresa a una red global de 30 urbes tras destacar en políticas públicas y control de velocidad para proteger la vida en las vías.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Son situaciones maquiavélicas”: alcalde de Popayán sobre el reclutamiento de menores en la región",
+  "enlace": "https://caracol.com.co/2026/11/09/por-eso-le-llamamos-con-gritos-que-venga-a-la-capital-del-cauca-alcalde-de-popayan-al-presidente/",
+  "fecha": "2026-11-09T09:03:24-05:00",
+  "palabras": "",
+  "lead": "El mandatario local pidió la presencia del presidente en el territorio ante la situación de orden público, los ataques contra la vía Panamericana y las necesidades sociales de la población.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bad Bunny rompe récord en Spotify: ¿Cómo superó los 20 mil millones de reproducciones?",
+  "enlace": "https://caracol.com.co/2026/11/09/bad-bunny-rompe-record-en-spotify-como-supero-los-20-mil-millones-de-reproducciones/",
+  "fecha": "2026-11-09T09:26:23-05:00",
+  "palabras": "",
+  "lead": "El puertorriqueño se convirtió en el primer artista en alcanzar esta cifra durante 2026, reafirmando el impacto global de su música y su presencia en las plataformas digitales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La fiscal Patiño estaba en campaña para la Corte Suprema”: Luis Fernando Velasco sobre su detención",
+  "enlace": "https://caracol.com.co/2026/11/09/la-fiscal-patino-estaba-en-campana-para-la-corte-suprema-luis-fernando-velasco-sobre-su-detencion/",
+  "fecha": "2026-11-09T09:25:24-05:00",
+  "palabras": "",
+  "lead": "Luis Fernando Velasco habló en 6AM W sobre su detención por el caso UNGRD.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Jazz y los “Bolebucos” de Sara Aldana que regresan a Colombia en gira nacional",
+  "enlace": "https://caracol.com.co/2026/11/09/el-jazz-y-los-bolebucos-de-sara-aldana-que-regresan-a-colombia-en-gira-nacional/",
+  "fecha": "2026-11-09T09:24:57-05:00",
+  "palabras": "",
+  "lead": "Sara Aldana regresa a Colombia con “Matices”, un álbum que mezcla jazz, raíces afrocolombianas y nuevas exploraciones sonoras",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "12 viviendas averiadas y 12 familias afectadas dejaron las lluvias del fin de semana en el Quindío",
+  "enlace": "https://caracol.com.co/2026/11/09/12-viviendas-averiadas-y-12-familias-afectadas-dejaron-las-lluvias-del-fin-de-semana-en-el-quindio/",
+  "fecha": "2026-11-09T09:00:00-05:00",
+  "palabras": "",
+  "lead": "Los municipios de Armenia y Calarcá reportaron la mayoría de atenciones y reportes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hugo Rodallega y su solidaridad con los juveniles del Pasto: “No quería faltarles el respeto”",
+  "enlace": "https://caracol.com.co/2026/11/09/hugo-rodallega-y-su-solidaridad-con-los-juveniles-del-pasto-no-queria-faltarles-el-respeto/",
+  "fecha": "2026-11-09T09:20:13-05:00",
+  "palabras": "",
+  "lead": "El experimentado delantero fue la gran figura de Santa Fe, marcando tres de los cinco goles ante el cuadro nariñense.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría vigila obras de más de $310 mil millones en la vía Duitama–Charalá–San Gil, Santander",
+  "enlace": "https://caracol.com.co/2026/11/09/procuraduria-vigila-obras-de-mas-de-310-mil-millones-en-la-via-duitamacharalasan-gil-santander/",
+  "fecha": "2026-11-09T09:03:24-05:00",
+  "palabras": "",
+  "lead": "La entidad hace seguimiento preventivo por posibles irregularidades en la ejecución física y financiera del contrato.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos personas muertas y dos viviendas destruidas deja un incendio estructural en Ibagué",
+  "enlace": "https://caracol.com.co/2026/11/09/dos-personas-muertas-y-dos-viviendas-destruidas-deja-un-incendio-estructural-en-ibague/",
+  "fecha": "2026-11-09T09:20:26-05:00",
+  "palabras": "",
+  "lead": "Según Humberto Leal, secretario de Ambientes y Gestión del Riesgo de Ibagué, las causas del incendio son material de investigación.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Roy Barreras hace una “autopsia” de la derrota de la izquierda en Colombia en su nuevo libro",
+  "enlace": "https://caracol.com.co/2026/11/09/roy-barreras-hace-una-autopsia-de-la-derrota-de-la-izquierda-en-colombia-en-su-nuevo-libro/",
+  "fecha": "2026-11-09T09:03:59-05:00",
+  "palabras": "",
+  "lead": "“¡Y se los comió el tigre!” es el nombre del nuevo libro del excandidato presidencial, del cual habló en Caracol Radio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Magdalena tendría en 2027 su primera Granja Integral para veteranos de la Fuerza Pública",
+  "enlace": "https://caracol.com.co/2026/11/09/magdalena-tendria-en-2027-su-primera-granja-integral-para-veteranos-de-la-fuerza-publica/",
+  "fecha": "2026-11-09T09:19:57-05:00",
+  "palabras": "",
+  "lead": "El proyecto se desarrollaría en Orihueca, corregimiento de Zona Bananera. El anuncio se conoció durante una tertulia con veteranos en Santa Marta, liderada por el SLP (r) Jhon Carlos Reyes Carrascal, director de la Dirección de Veteranos y Rehabilitación Inclusiva del Ministerio de Defensa Nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 9 de noviembre de 2026 en Colombia: la divisa inicia la jornada con un crecimiento de 9.25",
+  "enlace": "https://caracol.com.co/2026/11/09/dolar-hoy-9-de-noviembre-de-2026-en-colombia-la-divisa-inicia-la-jornada-con-un-crecimiento-de-925/",
+  "fecha": "2026-11-09T08:55:27-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este lunes, 9 de noviembre. Conozca el comportamiento del dólar estadounidense, canadiense y australiano, además del petróleo y el bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Gobernación de Antioquia negó el cupo para Miguel Quintero en la cárcel de Yarumito",
+  "enlace": "https://caracol.com.co/2026/11/09/la-gobernacion-de-antioquia-nego-el-cupo-para-miguel-quintero-en-la-carcel-de-yarumito/",
+  "fecha": "2026-11-09T09:10:06-05:00",
+  "palabras": "",
+  "lead": "El gobierno seccional explicó que el señor Miguel Andrés Quintero Calle, durante los hechos investigados, no ostentaba la condición de servidor público, ni habría actuado en ejercicio de funciones públicas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los dos funcionarios de Petro que siguen en sus cargos a casi 100 días del gobierno De la Espriella",
+  "enlace": "https://caracol.com.co/2026/11/09/los-dos-funcionarios-de-petro-que-siguen-en-sus-cargos-a-casi-100-dias-del-gobierno-de-la-espriella/",
+  "fecha": "2026-11-09T09:07:58-05:00",
+  "palabras": "",
+  "lead": "A una semana de que el gobierno de Abelardo de la Espriella cumpla 100 días, el próximo 15 de noviembre, dos directivos nombrados durante el mandato de Gustavo Petro siguen al frente de sus entidades: Elizabeth Blandón Bermúdez, en el Instituto Colombiano para la Evaluación de la Educación (ICFES), y Nicolás Corso Salamanca, en la Central de Inversiones S.A. (CISA).",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La USO rechaza la propuesta de vender acciones de Ecopetrol",
+  "enlace": "https://www.lafm.com.co/economia/uso-rechaza-venta-parcial-de-ecopetrol-propuesta-por-uribe-416582",
+  "fecha": "2026-11-09T09:15:00-05:00",
+  "palabras": "Economía,Ecopetrol,Unión Sindical Obrera,Sindicatos,Venta de acciones,Centro Democrático,Oposición,Protestas en Colombia,Reforma tributaria,Líderes sindicales",
+  "lead": "La USO asegura que Ecopetrol aportó más de $180 billones a Colombia en cuatro años por impuestos, dividendos y regalías.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mamdani aprovecha el éxito en las elecciones y prepara un candidato presidencial del ala más progresista demócrata",
+  "enlace": "https://www.lafm.com.co/internacional/zohran-mamdani-alcalde-nueva-york-organiza-reuniones-elecciones-2028-416580",
+  "fecha": "2026-11-09T09:05:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Elecciones presidenciales,Nueva York",
+  "lead": "El alcalde de Nueva York no puede presentarse a las presidenciales de 2028 debido a que nació en Uganda.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Corte Constitucional define si proceso contra el expresidente Uribe va a comisión de acusaciones o sigue en Fiscalía",
+  "enlace": "https://www.lafm.com.co/politica/corte-constitucional-define-si-proceso-contra-el-expresidente-uribe-va-a-comision-de-acusaciones-o-sigue-en-fiscalia-416579",
+  "fecha": "2026-11-09T09:02:00-05:00",
+  "palabras": "Política,Álvaro Uribe,Colombia,Corte Constitucional,Fiscalía General de la Nación",
+  "lead": "Además, el proceso de las 48 podría tener más exfuncionarios involucrados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Apareció una misteriosa bóveda con sistema de seguridad israelí durante el allanamiento a la casa de Santiago Peña",
+  "enlace": "https://www.lafm.com.co/internacional/santiago-pena-presidente-paraguay-boveda-israeli-allanamiento-domicilio-416577",
+  "fecha": "2026-11-09T08:46:00-05:00",
+  "palabras": "Internacional,Paraguay,Asunción,Latinoamerica",
+  "lead": "Santiago Peña permanece en prisión tras ser destituido por juicio político.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fiscalía lista para imputarle cargos a Zulma Guzmán por homicidio de menores envenenadas con talio",
+  "enlace": "https://www.lafm.com.co/orden-publico/fiscalia-lista-para-imputarle-cargos-a-zulma-guzman-por-homicidio-de-menores-envenenadas-con-talio-416574",
+  "fecha": "2026-11-09T08:31:00-05:00",
+  "palabras": "Orden Público,Muere menor de edad,Asesinato,Homicidios,Víctimas,Intoxicación,Medicina Legal,Fiscalía General de la Nación,Órdenes de captura,Capturados",
+  "lead": "También deberá responder por el intento de homicidio de otra menor y el hermano mayor de una de las niñas que murió en medio de este plan criminal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Petro responde pruebas del presunto envenenamiento de Angie Rodríguez",
+  "enlace": "https://www.lafm.com.co/politica/gustavo-petro-responde-pruebas-envenenamiento-angie-rodriguez-416573",
+  "fecha": "2026-11-09T08:24:00-05:00",
+  "palabras": "Política,Gustavo Petro,Medicina Legal,Fiscalía General de la Nación,Tóxico,Intoxicación,Relación tóxica,Investigaciones,Indagación preliminar,Abelardo de la Espriella",
+  "lead": "Petro cuestionó el informe toxicológico presentado por la defensa de Angie Rodríguez por el presunto envenenamiento y aseguró que los resultados explicaría...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobernación de Antioquia negó el traslado a Miguel Quintero",
+  "enlace": "https://www.lafm.com.co/orden-publico/niegan-traslado-yarumito-miguel-quintero-hechos-de-corrupcion-gobernacion-de-antioquia-416572",
+  "fecha": "2026-11-09T08:22:00-05:00",
+  "palabras": "Orden Público,Gobernación de Antioquia,Daniel Quintero,Investigaciones,Medellín, Colombia",
+  "lead": "Esta es la razón por la que Gobernación de Antioquia negó el traslado a la cárcel de Yarumito al hermano de Daniel Quintero",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Misterio por la muerte de Ramsés Felipe Vargas en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/muerte-ramses-felipe-vargas-bogota-encuentran-cuerpo-chapinero-alto-signos-violencia-gimnasio-moderno-autoridades-investigan-416571",
+  "fecha": "2026-11-09T08:12:00-05:00",
+  "palabras": "Orden Público,Homicidios,Bogotá,Alcaldía de Bogotá,Policía Nacional,Chapinero",
+  "lead": "El hombre fue estudiante del Gimnasio Moderno de Bogotá. Fue conformado un grupo especial para esclarecer el caso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atlético Nacional vs Selección Colombia: disputa por convocatoria de Néstor Lorenzo",
+  "enlace": "https://www.lafm.com.co/deportes/nacional-seleccion-colombia-lucas-gonzalez-cuestiona-nestor-lorenzo-416569",
+  "fecha": "2026-11-09T08:01:00-05:00",
+  "palabras": "Deportes,Néstor Lorenzo,Selección Colombia,polémica,Partido amistoso,Álvaro Montero,Atlético Nacional,Estadio Pascual Guerrero,Arquero,Selección Colombia Sub 20,Selección Colombia Sub 17",
+  "lead": "El director técnico de Nacional cuestiona las maneras de Néstor Lorenzo en sus convocatorias y 'permisos' a algunos clubes en la Selección Colombia.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
