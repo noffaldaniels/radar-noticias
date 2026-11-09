@@ -711,7 +711,7 @@
   "palabras": "Gobierno nacional, Centro Democrático, IVA",
   "lead": "Sobre la ley de ajuste fiscal, aunque existen diferencias profundas sobre la visión económica global, ambas partes coinciden en la necesidad de abordar el problema de finanzas públicas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Noticias de hoy, Shakira",
   "lead": "La artista barranquillera reaccionó a las jornadas de incertidumbre que rodearon a su entorno familiar, luego de que, durante la semana, circularan rumores sobre una presunta hospitalización de su progenitor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "La compañía aseguró que, por ahora, no existen indicios de que sus secretos comerciales o la seguridad nacional estadounidense hayan sido comprometidos. Según The New York Times, el presidente Donald Trump habría sido informado desde el año pasado sobre la relación del empresario con la presunta agente china, pero decidió no intervenir.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "Secuestraban a sus víctimas en taxis y les hurtaban dinero de sus cuentas bancarias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "Un habitante de la vereda Molagavita en la provincia García Rovira manifiesta que tienen un reto pendiente: conseguir un los recursos para un puente vehicular.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "Luis Fernando Velasco afirmó en 6AMW que fue una banda criminal la que llegó a la UNGRD a saquearla y buscó cómplices, pero la Fiscalía no ha querido investigar lo que realmente pasó.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "La temporada también proyectaba movilizar a más de 18 mil viajeros por el Muelle La Bodeguita",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "De acuerdo con los boletines del Departamento de Policía Córdoba, las capturas por tráfico, fabricación o porte de estupefacientes han aumentado significativamente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Orden Público,Fuerzas Militares,Ejército Nacional,Catatumbo,Norte de Santander,Fuerza Aérea Colombiana,disidencias,Ataque aéreo",
   "lead": "De los siete bombardeos ordenados por el presidente Abelardo De la Espriella, este es el tercero que se ejecuta en Norte de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,6 +810,325 @@
   "palabras": "Internacional,terremoto,Temblor,Perú,Servicio Geológico Colombiano,Terremoto en Colombia,recomendaciones,Defensa Civil,Volcán,Falla geológica,Fenómenos naturales",
   "lead": "Parcialmente no se reportan daños materiales ni pérdidas de vidas humanas tras el sismo en el país inca, que comparte con Colombia el Cinturón del Fuego de...",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Petro propone alianza política a Uribe de cara a elecciones regionales y votar no a Ley de Rescate",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/petro-propone-alianza-politica-a-uribe-de-cara-a-elecciones-regionales-y-votar-no-a-ley-de-rescate-rg10",
+  "fecha": "2026-11-09T07:59:22-05:00",
+  "palabras": "Gustavo Petro, Álvaro Uribe Vélez, Gobierno nacional, Abelardo De La Espriella, Medellín",
+  "lead": "El expresidente Petro también convocó desde la capital de Antioquia a una nueva jornada de movilización para el 19 de noviembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Minería ilegal afecta fuentes hídricas en el área metropolitana: CDMB reporta 20 capturas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/mineria-ilegal-afecta-fuentes-hidricas-en-el-area-metropolitana-cdmb-reporta-20-capturas-rg10",
+  "fecha": "2026-11-09T07:36:50-05:00",
+  "palabras": "Santander, Bucaramanga, Minería Ilegal, Corporaciones Autónomas Regionales, Blu Radio",
+  "lead": "Las explotaciones a cielo abierto en la zona de escarpa están provocando erosión, pérdida de cobertura vegetal y obstrucción de cauces naturales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En video viral patrullera rescató a recién nacido abandonado en Bogotá: ¿cuándo pasó?",
+  "enlace": "https://www.bluradio.com/regiones/bogota/en-video-viral-patrullera-rescato-a-recien-nacido-abandonado-en-bogota-cuando-paso-so35",
+  "fecha": "2026-11-09T07:50:41-05:00",
+  "palabras": "Viral, Menores de edad, Policía Nacional",
+  "lead": "El menor presentaba señales de un parto reciente y tuvo que recibir atención médica para ser estabilizado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caen dos mujeres que transportaban armas y cocaína en Santander: así las descubrieron",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/caen-dos-mujeres-que-transportaban-armas-y-cocaina-en-santander-asi-las-descubrieron-rg10",
+  "fecha": "2026-11-09T07:37:00-05:00",
+  "palabras": "Santander, Mujeres, Arma de fuego, Blu Radio, Noticias de hoy",
+  "lead": "Durante la inspección, al interior de un bolso encontraron un revólver calibre 38, con cinco cartuchos, y una pistola marca Walther, calibre 9 milímetros, que tenía dos proveedores y 14 cartuchos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Cantón militar estaba protegido con antidrones, raro el ataque”: alcalde de Santa Rosa del Sur",
+  "enlace": "https://www.bluradio.com/nacion/canton-militar-estaba-protegido-con-antidrones-raro-el-ataque-alcalde-de-santa-rosa-del-sur-so35",
+  "fecha": "2026-11-09T08:01:47-05:00",
+  "palabras": "Bolívar, ELN, Ejército Nacional",
+  "lead": "El alcalde de Santa Rosa del Sur, Milton Olaya, cuestiona la falla del sistema antidrones con el que aparentemente contaba en el cantón militar atacado en el sur de Bolívar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pekín niega que la empresaria china vinculada al director ejecutivo de Nvidia sea espía",
+  "enlace": "https://www.bluradio.com/mundo/pekin-niega-que-la-empresaria-china-vinculada-al-director-ejecutivo-de-nvidia-sea-espia-cb20",
+  "fecha": "2026-11-09T08:17:05-05:00",
+  "palabras": "Estados Unidos, China",
+  "lead": "La mujer, según el informe, estaba reclutada para recopilar información sobre Huang, como parte de una iniciativa de la mayor agencia de espionaje de Pekín.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Valle del Cauca impulsa el turismo para recuperar su economía tras millonarias pérdidas por el sismo",
+  "enlace": "https://www.bluradio.com/turismo/valle-del-cauca-impulsa-el-turismo-para-recuperar-su-economia-tras-millonarias-perdidas-por-el-sismo-so35",
+  "fecha": "2026-11-09T08:22:22-05:00",
+  "palabras": "Cali, Valle del Cauca",
+  "lead": "Caravanas Solidarias, turismo de salud, conectividad aérea y grandes eventos deportivos son los frentes de la Gobernación para reactivar los municipios golpeados por el sismo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Expresidente Uribe cierra la puerta a una posible alianza electoral con Petro: “Eso nunca”",
+  "enlace": "https://caracol.com.co/2026/11/09/expresidente-uribe-cierra-la-puerta-a-una-posible-alianza-electoral-con-petro-eso-nunca/",
+  "fecha": "2026-11-09T07:59:31-05:00",
+  "palabras": "",
+  "lead": "El expresidente Álvaro Uribe pasó por los micrófonos de 6AM W.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Listo Plan de Manejo de Tránsito para el Gran Desfile del Bando de la Independencia de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/09/listo-plan-de-manejo-de-transito-para-el-gran-desfile-del-bando-de-la-independencia-de-cartagena/",
+  "fecha": "2026-11-09T08:16:48-05:00",
+  "palabras": "",
+  "lead": "Desde las 00:00 del 12 de noviembre se implementarán cierres viales y desde las 8:00 a. m. se cerrará la avenida Santander, entre Las Tenazas y el túnel de Crespo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hay nuevo secretario del Interior de Bucaramanga; revisan hojas de vida para gerente de ciudad",
+  "enlace": "https://caracol.com.co/2026/11/09/hay-nuevo-secretario-del-interior-de-bucaramanga-revisan-hojas-de-vida-para-gerente-de-ciudad/",
+  "fecha": "2026-11-09T08:14:40-05:00",
+  "palabras": "",
+  "lead": "Antes de terminar octubre se fueron 6 integrantes del gabinete del alcalde, Cristian Portilla, algunos de los cuales participarán en las elecciones regionales de 2.027.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinDefensa asegura que recibió el proyecto antidrones sin “financiación ni viabilidad técnica”",
+  "enlace": "https://caracol.com.co/2026/11/09/mindefensa-asegura-que-recibio-el-proyecto-antidrones-sin-financiacion-ni-viabilidad-tecnica/",
+  "fecha": "2026-11-09T07:56:21-05:00",
+  "palabras": "",
+  "lead": "El ministro Mora se refirió a los desplazamientos internacionales de la entonces viceministra para la Estrategia y Planeación y el exministro de Defensa, y enumeró los destinos que visitaron.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“¿Por qué no preguntan por ‘El Manchi’? Ahí están las respuestas\": Luis Fernando Velasco a Fiscalía",
+  "enlace": "https://caracol.com.co/2026/11/09/por-que-no-preguntan-por-el-manchi-pregunten-que-ahi-estan-las-respuestas-exministro-velasco/",
+  "fecha": "2026-11-09T07:48:18-05:00",
+  "palabras": "",
+  "lead": "El exministro Luis Fernando Velasco aseguró que lo que tiene que investigar la Fiscalía en el caso UNGRD es quién es ‘el Manchi’ y quién es la hija de ‘el Manchi’.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corte Constitucional decide este lunes si proceso al expresidente Uribe pasa a Comisión de Acusación",
+  "enlace": "https://caracol.com.co/2026/11/09/corte-constitucional-decide-este-lunes-si-proceso-al-expresidente-uribe-pasa-a-comision-de-acusacion/",
+  "fecha": "2026-11-09T07:58:33-05:00",
+  "palabras": "",
+  "lead": "Se prevé un resultado apretado en decisión sobre competencia en procesos por asesinato de Jesús María Valle y masacres de La Granja y El Aro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deudas de las EPS cercana a los $2 billones ponen en riesgo la atención en salud en Santander",
+  "enlace": "https://caracol.com.co/2026/11/09/deudas-de-las-eps-cercana-a-los-2-billones-ponen-en-riesgo-la-atencion-en-salud-en-santander/",
+  "fecha": "2026-11-09T07:59:26-05:00",
+  "palabras": "",
+  "lead": "Autoridades piden la intervención del Gobierno Nacional ante la crisis financiera que amenaza la sostenibilidad de hospitales y clínicas del departamento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades adelantan investigaciones para esclarecer la muerte de egresado del Gimnasio Moderno",
+  "enlace": "https://caracol.com.co/2026/11/09/autoridades-adelantan-investigaciones-para-esclarecer-la-muerte-de-egresado-del-gimnasio-moderno/",
+  "fecha": "2026-11-09T07:38:45-05:00",
+  "palabras": "",
+  "lead": "El hombre se dedicada el mundo ganadero, por lo que las autoridades adelantan los nexos con este mundo comercial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Petro propone a Álvaro Uribe un acuerdo electoral en contra del proyecto de Abelardo de la Espriella",
+  "enlace": "https://caracol.com.co/2026/11/09/petro-propone-a-alvaro-uribe-un-acuerdo-electoral-en-contra-del-proyecto-de-abelardo-de-la-espriella/",
+  "fecha": "2026-11-09T07:40:28-05:00",
+  "palabras": "",
+  "lead": "El expresidente Álvaro Uribe rechazó de plano la invitación, en los micrófonos de Caracol Radio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daniela Navarro asume como  secretaria de la Oficina de Gestión del Riesgo en el Magdalena",
+  "enlace": "https://caracol.com.co/2026/11/09/daniela-navarro-asume-como-secretaria-de-la-oficina-de-gestion-del-riesgo-en-el-magdalena/",
+  "fecha": "2026-11-09T07:44:44-05:00",
+  "palabras": "",
+  "lead": "Tendrá la responsabilidad de liderar y articular las acciones , orientadas a fortalecer la capacidad de respuesta institucional ante fenómenos naturales y eventos asociados al cambio climático.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alberto Gamero, autocrítico tras derrota de Millonarios ante el Tolima: “Jugamos muy mal”",
+  "enlace": "https://caracol.com.co/2026/11/09/alberto-gamero-autocritico-tras-derrota-de-millonarios-ante-el-tolima-jugamos-muy-mal/",
+  "fecha": "2026-11-09T07:42:56-05:00",
+  "palabras": "",
+  "lead": "El técnico samario reconoció que no han podido encadenar dos buenos partidos consecutivos.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno francés negocia aumentos salariales para frenar las protestas sociales",
+  "enlace": "https://caracol.com.co/2026/11/09/gobierno-frances-negocia-aumentos-salariales-para-frenar-las-protestas-sociales/",
+  "fecha": "2026-11-09T07:42:11-05:00",
+  "palabras": "",
+  "lead": "El primer ministro Sébastien Lecornu se reúne con sindicatos y organizaciones estudiantiles para anunciar posibles concesiones.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno De la Espriella derogó las polémicas APPA en más de 48 mil hectáreas del Tolima",
+  "enlace": "https://caracol.com.co/2026/11/09/gobierno-de-la-espriella-derogo-las-polemicas-appa-en-mas-de-48-mil-hectareas-del-tolima/",
+  "fecha": "2026-11-09T07:39:21-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Agricultura derogó las áreas priorizadas por el gobierno Petro para la producción agrícola en ocho municipios del Tolima.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan muerte de joven de 21 años recluido en la cárcel La 40 de Pereira",
+  "enlace": "https://caracol.com.co/2026/11/09/investigan-muerte-de-joven-de-21-anos-recluido-en-la-carcel-la-40-de-pereira/",
+  "fecha": "2026-11-09T07:38:41-05:00",
+  "palabras": "",
+  "lead": "El fallecido era un exauxiliar de la Policía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Geoffrey Hinton advierte sobre un posible “Chernóbil” de la inteligencia artificial",
+  "enlace": "https://caracol.com.co/2026/11/09/geoffrey-hinton-advierte-sobre-un-posible-chernobil-de-la-inteligencia-artificial/",
+  "fecha": "2026-11-09T07:36:05-05:00",
+  "palabras": "",
+  "lead": "El científico británico y premio Nobel de Física aseguró que la inteligencia artificial podría provocar, antes de finalizar 2027, una crisis de gran magnitud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cocaína hallada en Cartagena iba a Libia: De La Espriella",
+  "enlace": "https://www.lafm.com.co/politica/presidente-de-la-espriella-cocaina-puerto-cartagena-libia-878-kilos-droga-416564",
+  "fecha": "2026-11-09T08:24:00-05:00",
+  "palabras": "Política,Narcotráfico,Abelardo de la Espriella,Estupefacientes,operativo antidrogas,artículos decomisados,Capturados,organizaciones criminales,estructuras criminales,Grupos terroristas,Colombia",
+  "lead": "La Policía Nacional sacó de circulación 878 kilos de droga en dos operaciones, una de ellas en Chinchiná, Caldas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Las diferencias entre el Centro Democrático y la reforma tributaria del Gobierno",
+  "enlace": "https://www.lafm.com.co/politica/reforma-tributaria-reparos-del-centro-democratico-las-diferencias-con-el-gobierno-416566",
+  "fecha": "2026-11-09T07:50:00-05:00",
+  "palabras": "Política,Reforma tributaria,Abelardo de la Espriella,Colombia,Centro Democrático,Gobierno",
+  "lead": "El Congreso tiene en sus oficinas el archivo de propuesta de reforma tributaria.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cuidado: así estafan con falsos pasajes por WhatsApp en Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/viajes-diciembre-compra-pasajes-via-whatsapp-ventas-fraudulentas-asi-operan-416557",
+  "fecha": "2026-11-09T07:49:00-05:00",
+  "palabras": "Sociedad,Terminal de transportes,Estafa,Alerta de seguridad,Boletería,pagos digitales,pagos electrónicos",
+  "lead": "Con la llegada de las festividades, es habitual que los usuarios dejen la compra de sus tiquetes para última hora o busquen alternativas para agilizar el p...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Dónde está la plata de Aerocafé? Contraloría investiga",
+  "enlace": "https://www.lafm.com.co/sociedad/contraloria-investiga-irregularidades-aerocafe-61-mil-millones-obras-sin-construir-416563",
+  "fecha": "2026-11-09T07:48:00-05:00",
+  "palabras": "Sociedad,Irregularidades en contratos,Contraloría,Irregularidades en manejo de recursos,Indagación preliminar,Fallo fiscal",
+  "lead": "De acuerdo con la jefa de la Unidad de Investigaciones Especiales contra la Corrupción de la Contraloría, los hallazgos fiscales se originaron en la revisi...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así avanza la tecnología antidrones en el mundo: 10 ejemplos",
+  "enlace": "https://www.lafm.com.co/sociedad/tecnologia-antidrones-en-el-mundo-10-ejemplos-416561",
+  "fecha": "2026-11-09T07:00:00-05:00",
+  "palabras": "Sociedad,Tecnología,Drones,Colombia,mundo,Abelardo de la Espriella,Gustavo Petro",
+  "lead": "En medio de la crisis de seguridad que vive Colombia por los ataques, el presidente afirmó que buscarían nuevas tecnologías para defender al país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nuevas acciones violentas a través de drones con explosivos",
+  "enlace": "https://www.lafm.com.co/orden-publico/ataque-con-drones-explosivos-en-tibu-deja-varias-viviendas-destruidas-416560",
+  "fecha": "2026-11-09T06:57:00-05:00",
+  "palabras": "Orden Público,Catatumbo,disidencias,ELN,Drones",
+  "lead": "Ante la gravedad de la situación y el temor de quedar en medio del fuego cruzado, la comunidad civil tomó la decisión de desplegar banderas blancas en sus ...",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Shakira se pronunció sobre el estado de salud de su padre",
+  "enlace": "https://www.lafm.com.co/entretenimiento/shakira-atraviesa-una-dificil-semana-familiar-y-envio-un-mensaje-a-sus-seguidores-416555",
+  "fecha": "2026-11-09T06:14:00-05:00",
+  "palabras": "Entretenimiento,Shakira,William Mebarak,Salud,Barranquilla,música,Pies Descalzos",
+  "lead": "La difícil semana que vive Shakira por su padre: la cantante envió un mensaje que conmovió a sus seguidores",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
