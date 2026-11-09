@@ -414,7 +414,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Caribe, Alejandro Char",
   "lead": "Serán instaladas más de 300 cámaras de última generación y una nueva red de internet.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "Esta semana, se decidiría la suerte del acuerdo para tramitar un empréstito por $500 mil millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "El comandante de la Policía verificó el lugar y aseguró que no existe reporte",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "Cinco máquinas y 25 bomberos atendieron la emergencia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,6 +458,248 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Estas son las noticias más importantes de este lunes en La FM.",
   "seccion": "mesas",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lluvias generan inundaciones, deslizamientos y caída de rocas en vías de Santander",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/lluvias-generan-inundaciones-deslizamientos-y-caida-de-rocas-en-vias-de-santander-rg10",
+  "fecha": "2026-11-09T06:40:45-05:00",
+  "palabras": "Emergencias por lluvias, Lluvias en Colombia, Emergencias, Santander, Bucaramanga, Floridablanca, UNGRD, Blu Radio, Noticias de hoy, Santander",
+  "lead": "Las lluvias afectan al Magdalena Medio, el área metropolitana de Bucaramanga y corredores nacionales. Las autoridades advierten que las lluvias continuarán durante los próximos días.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gemelas murieron en extrañas condiciones tras uso de jabón artesanal: esto se sabe",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gemelas-murieron-en-extranas-condiciones-tras-uso-de-jabon-artesanal-esto-se-sabe-so35",
+  "fecha": "2026-11-09T06:34:52-05:00",
+  "palabras": "Medellín",
+  "lead": "Sus familiares las encontraron inconscientes en su vivienda. Un jabón artesanal y medicamentos tendrían que ver.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "España pide investigar los más de mil videos de abuso sexual infantil detectados en TikTok",
+  "enlace": "https://www.bluradio.com/mundo/espana-pide-investigar-los-mas-de-mil-videos-de-abuso-sexual-infantil-detectados-en-tiktok-cb20",
+  "fecha": "2026-11-09T06:34:37-05:00",
+  "palabras": "España, TikTok",
+  "lead": "En su tercera investigación sobre la supuesta \"inacción\" de TikTok frente al material de abuso sexual infantil, denuncia que su buscador es \"una herramienta sin filtros para un pedófilo\" porque, junto al algoritmo de recomendación, permite encontrar estos contenidos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cybertruck: por qué la camioneta de Tesla se convirtió en su mayor fracaso comercial",
+  "enlace": "https://www.bluradio.com/motor/cybertruck-por-que-la-camioneta-de-tesla-se-convirtio-en-su-mayor-fracaso-comercial-so35",
+  "fecha": "2026-11-09T06:46:36-05:00",
+  "palabras": "Tesla",
+  "lead": "La camioneta eléctrica cedió espacio al robotaxi Cybercab luego de dos años de caídas en ventas, precios elevados y once campañas de revisión en EE. UU.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobernador de Santander pide mantener ofensiva contra el ELN tras ataque con drones",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/gobernador-de-santander-pide-mantener-ofensiva-contra-el-eln-tras-ataque-con-drones-rg10",
+  "fecha": "2026-11-09T06:52:40-05:00",
+  "palabras": "Ejército Nacional, Drones, Bolívar, ELN, Santander, Blu Radio, Noticias de hoy",
+  "lead": "El gobernador insistió en que las operaciones militares deben continuar y que no se puede permitir que las retaliaciones de los grupos ilegales frenen las acciones de la Fuerza Pública.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan una mula cargada con 100 minas y explosivos del ELN en Anorí, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/09/hallan-una-mula-cargada-con-100-minas-y-explosivos-del-eln-en-anori-antioquia/",
+  "fecha": "2026-11-09T07:05:25-05:00",
+  "palabras": "",
+  "lead": "Los elementos en el animal fueron encontrados tras un combate del Ejército Nacional contra el ELN.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría revisará cinco millonarios contratos de DNI: dron, antidrones y sistema de inteligencia",
+  "enlace": "https://caracol.com.co/2026/11/09/contraloria-revisara-cinco-millonarios-contratos-de-dni-dron-antidrones-y-sistema-de-inteligencia/",
+  "fecha": "2026-11-09T07:05:18-05:00",
+  "palabras": "",
+  "lead": "El ente de control afirmó que la seguridad nacional no puede convertirse en una excepción al deber de proteger los recursos públicos. Por eso, indagará si hay presuntas irregularidades en la contratación de la Dirección Nacional de Inteligencia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Cumbre del Clima empieza en Turquía con el reto de financiar una agricultura sostenible",
+  "enlace": "https://caracol.com.co/2026/11/09/la-cumbre-del-clima-empieza-en-turquia-con-el-reto-de-financiar-una-agricultura-sostenible/",
+  "fecha": "2026-11-09T07:04:37-05:00",
+  "palabras": "",
+  "lead": "Los sistemas alimentarios generan un tercio de las emisiones mundiales de gases de efecto invernadero, pero reciben apenas el 4% de la financiación climática. La FAO advierte que el aumento de las temperaturas, las sequías y las inundaciones amenazan las cosechas y agravan la inseguridad alimentaria que afecta a millones de personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lluvias en Pereira dejan más de 20 afectados y obligan a evacuar varias viviendas",
+  "enlace": "https://caracol.com.co/2026/11/09/lluvias-en-pereira-dejan-mas-de-20-afectados-y-obligan-a-evacuar-varias-viviendas/",
+  "fecha": "2026-11-09T07:04:18-05:00",
+  "palabras": "",
+  "lead": "Las precipitaciones provocaron cuatro emergencias en distintos sectores de la ciudad, entre ellas inundaciones y movimientos en masa que requirieron la intervención de los organismos de socorro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro municipios de Boyacá que hacen parte de la CAR en alerta amarilla por suministro de agua",
+  "enlace": "https://caracol.com.co/2026/11/09/cuatro-municipios-de-boyaca-que-hacen-parte-de-la-car-en-alerta-amarilla-por-suministro-de-agua/",
+  "fecha": "2026-11-09T07:02:08-05:00",
+  "palabras": "",
+  "lead": "La CAR advierte que las lluvias de octubre no fueron suficientes para recuperar las fuentes hídricas y anticipa un diciembre con déficit de precipitaciones de hasta el 80 %.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinAgricultura anuncia venta de Almagrario",
+  "enlace": "https://caracol.com.co/2026/11/09/minagricultura-anuncia-venta-de-almagrario/",
+  "fecha": "2026-11-09T06:44:08-05:00",
+  "palabras": "",
+  "lead": "“El Ministerio de Agricultura no está para administrar bodegas”, dijo el jefe de la cartera nacional, Indalecio Dangond durante la 90.ª Cumbre Cafetera de Asoexport, realizada en Cartagena.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Fernando Suárez, optimista tras victoria sobre Millonarios: “Este grupo merece clasificar”",
+  "enlace": "https://caracol.com.co/2026/11/09/luis-fernando-suarez-optimista-tras-victoria-sobre-millonarios-este-grupo-merece-clasificar/",
+  "fecha": "2026-11-09T06:59:13-05:00",
+  "palabras": "",
+  "lead": "El estratega destacó la conexión del plantel Pijao y revivió la esperanza respecto a la clasificación a cuadrangulares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Policía reporta 8 capturas y la incautación de 133 armas blancas en operativos en Ibagué",
+  "enlace": "https://caracol.com.co/2026/11/09/la-policia-reporta-8-capturas-y-la-incautacion-de-133-armas-blancas-en-operativos-en-ibague/",
+  "fecha": "2026-11-09T06:59:02-05:00",
+  "palabras": "",
+  "lead": "Según las autoridades se impusieron 204 comparendos por comportamientos contrarios a la convivencia en el marco del Código Nacional de Seguridad y Convivencia Ciudadanía.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mataron a subintendente de la Sijín durante intento de atraco en Gambote",
+  "enlace": "https://caracol.com.co/2026/11/09/mataron-a-subintendente-de-la-sijin-durante-intento-de-atraco-en-gambote/",
+  "fecha": "2026-11-09T06:50:55-05:00",
+  "palabras": "",
+  "lead": "Fabio Enrique Castillo Cobos estaba de permiso cuando fue interceptado por hombres armado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía de Paraguay registró casa de Santiago Peña en investigación por caso Ueno Bank",
+  "enlace": "https://caracol.com.co/2026/11/09/fiscalia-de-paraguay-registro-casa-de-santiago-pena-en-investigacion-por-caso-ueno-bank/",
+  "fecha": "2026-11-09T06:51:37-05:00",
+  "palabras": "",
+  "lead": "Durante el allanamiento, los investigadores encontraron una bóveda blindada oculta detrás de una pared falsa, que estaría protegida por un sofisticado sistema de seguridad. Según medios paraguayos, las autoridades aún no han logrado acceder a su interior, por lo que se desconoce qué contiene.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trabajadores del Hospital La Misericordia de Calarcá protestan por retrasos en sus salarios",
+  "enlace": "https://caracol.com.co/2026/11/09/vuelve-y-juega-trabajadores-del-segundo-hospital-del-quindio-protestaron-por-no-pago-de-salarios/",
+  "fecha": "2026-11-09T06:35:03-05:00",
+  "palabras": "",
+  "lead": "Es la segunda oportunidad en menos de dos meses que nuevamente se manifiestan enfermeras, auxiliares que reclaman el pago oportuno de sus salarios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Planean apertura de oficina de atención al migrante en la frontera",
+  "enlace": "https://caracol.com.co/2026/11/09/planean-apertura-de-oficina-de-atencion-al-migrante-en-la-frontera/",
+  "fecha": "2026-11-09T06:40:28-05:00",
+  "palabras": "",
+  "lead": "Estaría motivada por las recientes deportaciones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno Nacional instaló la Mesa Interinstitucional de Tierras para Urabá",
+  "enlace": "https://caracol.com.co/2026/11/09/gobierno-nacional-instalo-la-mesa-interinstitucional-de-tierras-para-uraba/",
+  "fecha": "2026-11-09T06:37:13-05:00",
+  "palabras": "",
+  "lead": "Desde la Unidad de Restitución de Tierras indicaron que con esta estrategia se busca mejorar la presencia en esta región antioqueña.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena esperaba más de 112 mil pasajeros durante las Fiestas de Independencia",
+  "enlace": "https://caracol.com.co/2026/11/09/cartagena-esperaba-mas-de-112-mil-pasajeros-durante-las-fiestas-de-independencia/",
+  "fecha": "2026-11-09T06:35:25-05:00",
+  "palabras": "",
+  "lead": "La temporada también proyectaba movilizar a más de 18 mil viajeros por el Muelle La Bodeguita",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Embajador Gaona víctima de campaña negra de desprestigio",
+  "enlace": "https://www.lafm.com.co/politica/embajador-gaona-victima-de-campana-negra-de-desprestigio-416558",
+  "fecha": "2026-11-09T06:50:00-05:00",
+  "palabras": "Política,ONU,Colombia,Políticos,Embajadores",
+  "lead": "El funcionario se ha defendido de las acusaciones en su contra.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Las acciones de Nvidia se desploman en medio de romance de su CEO con presunta espía china",
+  "enlace": "https://www.lafm.com.co/internacional/jensen-huang-ceo-nvidia-relacion-amorosa-presunta-espia-china-416556",
+  "fecha": "2026-11-09T06:35:00-05:00",
+  "palabras": "Internacional,NVIDIA,Estados Unidos,Inteligencia artificial,China",
+  "lead": "La compañía encargó la revisión a sus consejeros independientes y a un bufete externo tras la relación de Jensen Huang con una presunta enviada de Pekín.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "CEO de Nvidia es investigado por presunto espionaje de China",
+  "enlace": "https://www.lafm.com.co/internacional/quien-es-el-ceo-de-nvidia-investigado-por-espionaje-china-416554",
+  "fecha": "2026-11-09T06:09:00-05:00",
+  "palabras": "Internacional,China,Estados Unidos,NVIDIA,Tecnología",
+  "lead": "La empresa de tecnología investiga a su CEO, luego de que admitiera una infidelidad.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
