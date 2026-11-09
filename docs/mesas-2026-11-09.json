@@ -454,6 +454,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Un contratista en Santander recibió 129.000 millones de pesos para arreglar el problema de la Mojana.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:41",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El equipo Tolima remontó 2-1 con tantos de Ever Valencia y Kelvin Flores, llegando a 26 puntos en la liga colombiana.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:41",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Tolima debe vencer al Cali en Palmaseca en la última fecha y esperar resultados para entrar a los cuadrangulares.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:47",
+   "quien": "Alcalde de Santa Rosa del Sur",
+   "que": "Reportó casi 50 heridos y tres militares muertos, además de 22 heridos graves, tras un ataque del ELN.",
+   "resaltar": false
   }
  ],
  "avisos": [
