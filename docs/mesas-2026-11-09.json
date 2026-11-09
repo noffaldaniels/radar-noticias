@@ -1,0 +1,19 @@
+{
+ "puntos": [
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:49",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se conoció la hoja de vida de Hitler Rousseau Chávarra Ovalle, exsecretario general del Ministerio del Interior, quien fue designado como nuevo gerente de la Imprenta Nacional en cargo grado 24.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:55",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El presidente de la República visita Tunja para liderar un consejo de seguridad y la jornada 'Gobierno en territorio' junto al gobernador Carlos Amaya y varios alcaldes de Boyacá, bajo restricciones y ley seca decretadas por la Alcaldía local.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
