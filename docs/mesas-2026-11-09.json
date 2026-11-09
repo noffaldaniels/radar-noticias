@@ -202,6 +202,27 @@
    "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
    "que": "Defendió la propuesta del Centro Democrático de vender una participación adicional de Ecopetrol para mitigar el endeudamiento del país y establecer un acuerdo de gobernabilidad que proteja a la compañía.",
    "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:38",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Frente a las denuncias sobre la presunta instalación de micrófonos y GPS por parte de la DNI en vehículos de seguridad de los expresidentes, afirmó que apenas se enteraba de la noticia y pidió que sea la justicia la que se pronuncie.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:39",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Aseguró que respetará la decisión de la Corte Constitucional sobre si su proceso penal continúa en la Fiscalía o va a la Comisión de Acusación, reiterando que es un juicio injusto y pidiendo que se sigan practicando todas las pruebas de manera pública.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:43",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Informó que la Contraloría General hará una revisión prioritaria a cinco contratos de la Dirección Nacional de Inteligencia (DNI) por más de 20.700 millones de pesos, debido a presuntas fallas técnicas, incumplimientos y posibles sobrecostos en equipos como drones y sistemas de inteligencia.",
+   "resaltar": false
   }
  ],
  "avisos": [
