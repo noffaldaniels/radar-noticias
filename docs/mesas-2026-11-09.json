@@ -13,6 +13,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El presidente de la República visita Tunja para liderar un consejo de seguridad y la jornada 'Gobierno en territorio' junto al gobernador Carlos Amaya y varios alcaldes de Boyacá, bajo restricciones y ley seca decretadas por la Alcaldía local.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:50",
+   "quien": "Juanita Troncoso, periodista de Mañanas Blu",
+   "que": "Reveló informes reservados de la DNI sobre presunto espionaje a expresidentes, compras cuestionadas como un helicóptero por $9.000 millones y la vinculación del 'hacker' Carlos Andrés Oyola, señalado de intentar alterar resultados electorales.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:55",
+   "quien": "Carlos Fernando Galán, alcalde mayor de Bogotá",
+   "que": "Rechazó la propuesta del representante José Jaime Uscátegui (Centro Democrático) de militarizar zonas críticas de Bogotá con 2.000 soldados, asegurando que octubre fue el segundo mes con menos homicidios en los registros y destacando caídas en Ciudad Bolívar.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:56",
+   "quien": "Nicolás Rodríguez, periodista de Mañanas Blu",
+   "que": "Informó la captura y judicialización de cuatro personas por reclutamiento ilícito que mantenían retenidos en hoteles de Soacha a cuatro menores de edad reclutados por el frente Franco Benavides de las disidencias de las FARC para enviarlos al Guaviare.",
+   "resaltar": false
   }
  ],
  "avisos": []
