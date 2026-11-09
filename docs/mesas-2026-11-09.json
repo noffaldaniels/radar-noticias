@@ -97,6 +97,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Reportó la captura en Neiva de Carlos Oyola, vinculado a la DNI, quien presuntamente tenía la misión de atacar el software de la Registraduría y alterar los resultados de las elecciones del pasado 21 de junio.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:11",
+   "quien": "Daniel Jerez, periodista de Noticias La FM con Juan Lozano",
+   "que": "En reunión entre congresistas de comisiones económicas y el Gobierno en Barranquilla, se fijaron líneas rojas contra el IVA a la canasta familiar y el alza a la cotización de salud al 8%, advirtiendo que el recaudo no llegará a 80 billones de pesos sino a entre 15 y 20 billones. El Centro Democrático fue el único en llevar una propuesta alternativa que incluye vender acciones estatales de Ecopetrol y eliminar el 4x1000 y el impuesto al patrimonio.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:16",
+   "quien": "Gregorio Eljach, procurador general de la Nación",
+   "que": "Confirmó la apertura de indagaciones disciplinarias y la práctica de pruebas por el escándalo de contratación en el Gobierno nacional, tras citar a declarar a Delsy Jiménez.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:17",
+   "quien": "Presidente de la Corte Suprema de Justicia",
+   "que": "Señaló que existe articulación con la Fiscalía y la Comisión de Acusaciones, aclarando que a la Sala Especial de Instrucción le compete estudiar exclusivamente las actuaciones de Gustavo Petro cuando ejercía como congresista.",
+   "resaltar": false
   }
  ],
  "avisos": [
