@@ -160,6 +160,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Se lleva a cabo un consejo de seguridad en Tunja con la participación de la cúpula militar y de policía para definir nuevas medidas.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:29",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Denunció el crecimiento de los grupos criminales, indicando que pasaron de unos 7.000 hombres en armas al final de su mandato a cerca de 28.000 en la actualidad, mientras que el remanente de cocaína al mercado aumentó de 150 a 2.100 toneladas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:37",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Rechazó de forma contundente la propuesta de Gustavo Petro para un acuerdo electoral, afirmando que ese asunto nunca ha existido y no formará parte de la agenda del Centro Democrático.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:38",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reportó un informe que señala que en la Dirección Nacional de Inteligencia (DNI) presuntamente se estarían intentando instalar micrófonos y dispositivos GPS para hacer seguimiento a expresidentes del país.",
+   "resaltar": false
   }
  ],
  "avisos": [
