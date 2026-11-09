@@ -821,7 +821,7 @@
   "palabras": "Gustavo Petro, Álvaro Uribe Vélez, Gobierno nacional, Abelardo De La Espriella, Medellín",
   "lead": "El expresidente Petro también convocó desde la capital de Antioquia a una nueva jornada de movilización para el 19 de noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Santander, Bucaramanga, Minería Ilegal, Corporaciones Autónomas Regionales, Blu Radio",
   "lead": "Las explotaciones a cielo abierto en la zona de escarpa están provocando erosión, pérdida de cobertura vegetal y obstrucción de cauces naturales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Viral, Menores de edad, Policía Nacional",
   "lead": "El menor presentaba señales de un parto reciente y tuvo que recibir atención médica para ser estabilizado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "Santander, Mujeres, Arma de fuego, Blu Radio, Noticias de hoy",
   "lead": "Durante la inspección, al interior de un bolso encontraron un revólver calibre 38, con cinco cartuchos, y una pistola marca Walther, calibre 9 milímetros, que tenía dos proveedores y 14 cartuchos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "Bolívar, ELN, Ejército Nacional",
   "lead": "El alcalde de Santa Rosa del Sur, Milton Olaya, cuestiona la falla del sistema antidrones con el que aparentemente contaba en el cantón militar atacado en el sur de Bolívar.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "Estados Unidos, China",
   "lead": "La mujer, según el informe, estaba reclutada para recopilar información sobre Huang, como parte de una iniciativa de la mayor agencia de espionaje de Pekín.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Cali, Valle del Cauca",
   "lead": "Caravanas Solidarias, turismo de salud, conectividad aérea y grandes eventos deportivos son los frentes de la Gobernación para reactivar los municipios golpeados por el sismo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "El expresidente Álvaro Uribe pasó por los micrófonos de 6AM W.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "Desde las 00:00 del 12 de noviembre se implementarán cierres viales y desde las 8:00 a. m. se cerrará la avenida Santander, entre Las Tenazas y el túnel de Crespo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "Antes de terminar octubre se fueron 6 integrantes del gabinete del alcalde, Cristian Portilla, algunos de los cuales participarán en las elecciones regionales de 2.027.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "El ministro Mora se refirió a los desplazamientos internacionales de la entonces viceministra para la Estrategia y Planeación y el exministro de Defensa, y enumeró los destinos que visitaron.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "El exministro Luis Fernando Velasco aseguró que lo que tiene que investigar la Fiscalía en el caso UNGRD es quién es ‘el Manchi’ y quién es la hija de ‘el Manchi’.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Se prevé un resultado apretado en decisión sobre competencia en procesos por asesinato de Jesús María Valle y masacres de La Granja y El Aro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Autoridades piden la intervención del Gobierno Nacional ante la crisis financiera que amenaza la sostenibilidad de hospitales y clínicas del departamento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "El hombre se dedicada el mundo ganadero, por lo que las autoridades adelantan los nexos con este mundo comercial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "El expresidente Álvaro Uribe rechazó de plano la invitación, en los micrófonos de Caracol Radio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Tendrá la responsabilidad de liderar y articular las acciones , orientadas a fortalecer la capacidad de respuesta institucional ante fenómenos naturales y eventos asociados al cambio climático.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "El técnico samario reconoció que no han podido encadenar dos buenos partidos consecutivos.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "El primer ministro Sébastien Lecornu se reúne con sindicatos y organizaciones estudiantiles para anunciar posibles concesiones.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "El Ministerio de Agricultura derogó las áreas priorizadas por el gobierno Petro para la producción agrícola en ocho municipios del Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "El fallecido era un exauxiliar de la Policía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "El científico británico y premio Nobel de Física aseguró que la inteligencia artificial podría provocar, antes de finalizar 2027, una crisis de gran magnitud.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "Política,Narcotráfico,Abelardo de la Espriella,Estupefacientes,operativo antidrogas,artículos decomisados,Capturados,organizaciones criminales,estructuras criminales,Grupos terroristas,Colombia",
   "lead": "La Policía Nacional sacó de circulación 878 kilos de droga en dos operaciones, una de ellas en Chinchiná, Caldas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "Política,Reforma tributaria,Abelardo de la Espriella,Colombia,Centro Democrático,Gobierno",
   "lead": "El Congreso tiene en sus oficinas el archivo de propuesta de reforma tributaria.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "Sociedad,Terminal de transportes,Estafa,Alerta de seguridad,Boletería,pagos digitales,pagos electrónicos",
   "lead": "Con la llegada de las festividades, es habitual que los usuarios dejen la compra de sus tiquetes para última hora o busquen alternativas para agilizar el p...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "Sociedad,Irregularidades en contratos,Contraloría,Irregularidades en manejo de recursos,Indagación preliminar,Fallo fiscal",
   "lead": "De acuerdo con la jefa de la Unidad de Investigaciones Especiales contra la Corrupción de la Contraloría, los hallazgos fiscales se originaron en la revisi...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "Sociedad,Tecnología,Drones,Colombia,mundo,Abelardo de la Espriella,Gustavo Petro",
   "lead": "En medio de la crisis de seguridad que vive Colombia por los ataques, el presidente afirmó que buscarían nuevas tecnologías para defender al país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "Orden Público,Catatumbo,disidencias,ELN,Drones",
   "lead": "Ante la gravedad de la situación y el temor de quedar en medio del fuego cruzado, la comunidad civil tomó la decisión de desplegar banderas blancas en sus ...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,6 +1129,138 @@
   "palabras": "Entretenimiento,Shakira,William Mebarak,Salud,Barranquilla,música,Pies Descalzos",
   "lead": "La difícil semana que vive Shakira por su padre: la cantante envió un mensaje que conmovió a sus seguidores",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Investigan asesinato de cuatro hombres en dos ataques armados en Santa Rosa, Bolívar",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/investigan-asesinato-de-cuatro-hombres-en-dos-ataques-armados-en-santa-rosa-bolivar-rg10",
+  "fecha": "2026-11-09T08:36:05-05:00",
+  "palabras": "Bolívar, Homicidios, Magdalena Medio, Policía Nacional, ELN, Clan del Golfo, Santander, Blu Radio, Noticias de hoy, Santa Rosa",
+  "lead": "Tres hombres fueron asesinados en un ataque armado en un bar y otro fue víctima de homicidio en Mina Paraíso. Las autoridades no descartan que detrás de estos hechos estén el ELN y el Clan del Golfo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gremio de confecciones de Santander rechazan propuesta de Fenalco sobre ropa asiática",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/gremio-de-confecciones-de-santander-rechazan-propuesta-de-fenalco-sobre-ropa-asiatica-rg10",
+  "fecha": "2026-11-09T08:49:04-05:00",
+  "palabras": "Bucaramanga, Santander, Ropa, Asia, Fenalco, Blu Radio",
+  "lead": "Los empresarios de las confecciones de Santander advierten que eliminar los aranceles a la ropa asiática pondría en desventaja a los productores colombianos y amenazaría el empleo y la industria nacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Indignación en Santa Marta: cuerpo de burro atropellado terminó en camión recolector de basura",
+  "enlace": "https://www.bluradio.com/regiones/caribe/indignacion-en-santa-marta-cuerpo-de-burro-atropellado-termino-en-camion-recolector-de-basura-rg10",
+  "fecha": "2026-11-09T08:47:36-05:00",
+  "palabras": "Noticias de hoy, Santa Marta",
+  "lead": "El animal murió después de ser arrollado en El Rodadero. Un video muestra a operarios de la empresa de aseo depositando el cuerpo en un vehículo recolector, situación que provocó cuestionamientos ciudadanos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente Abelardo De La Espriella vendrá a Bucaramanga antes de terminar el año",
+  "enlace": "https://caracol.com.co/2026/11/09/presidente-abelardo-de-la-espriella-vendra-a-bucaramanga-antes-de-terminar-el-ano/",
+  "fecha": "2026-11-09T08:49:26-05:00",
+  "palabras": "",
+  "lead": "El alcalde, Cristian Portilla pondera el apoyo del jefe de Estado en temas de seguridad a través del Bloque de Defensa Urbana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Festival Náutico: una apuesta de las Fiestas de Independencia para el sector marítimo",
+  "enlace": "https://caracol.com.co/2026/11/09/festival-nautico-una-apuesta-de-las-fiestas-de-independencia-para-el-sector-maritimo/",
+  "fecha": "2026-11-09T08:49:02-05:00",
+  "palabras": "",
+  "lead": "El impacto económico trasciende las embarcaciones: proveedores de alimentos y bebidas, grupos folclóricos, restaurantes, hoteles, transportadores, comerciantes y distintos oficios",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Agenda oficial de las Fiestas de Independencia del 11 de Noviembre en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/09/agenda-oficial-de-las-fiestas-de-independencia-del-11-de-noviembre-en-cartagena/",
+  "fecha": "2026-11-09T08:41:12-05:00",
+  "palabras": "",
+  "lead": "Esta semana la ciudad se viste de Fiesta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pablo Repetto tras goleada de Santa Fe sobre el Pasto: “Estamos mejor que ayer”",
+  "enlace": "https://caracol.com.co/2026/11/09/pablo-repetto-tras-goleada-de-santa-fe-sobre-el-pasto-estamos-mejor-que-ayer/",
+  "fecha": "2026-11-09T08:36:45-05:00",
+  "palabras": "",
+  "lead": "El entrenador Cardenal destacó el rendimiento de su equipo, tras la contundente victoria frente a los volcánicos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se desprenden escombros del antiguo Hotel La Luna, afectado por el terremoto en Cali",
+  "enlace": "https://caracol.com.co/2026/11/09/se-desprenden-escombros-del-antiguo-hotel-la-luna-afectado-por-el-terremoto-en-cali/",
+  "fecha": "2026-11-09T08:32:59-05:00",
+  "palabras": "",
+  "lead": "La estructura presentó un nuevo movimiento lo que obligó a las autoridades a ampliar el perímetro de seguridad.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "CAR Cundinamarca alertó estrés hídrico severo en el departamento",
+  "enlace": "https://caracol.com.co/2026/11/09/car-cundinamarca-alerto-estres-hidrico-severo-en-el-departamento/",
+  "fecha": "2026-11-09T08:29:06-05:00",
+  "palabras": "",
+  "lead": "20 municipios reportan algún tipo de alerta por desabastecimiento de agua previo a la etapa más intensa del Fenómeno de El Niño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley anticapuchos: ¿protección o persecución a protestas?",
+  "enlace": "https://www.lafm.com.co/orden-publico/ley-anticapuchos-acto-vandalico-capucha-tipificar-delito-416570",
+  "fecha": "2026-11-09T08:46:00-05:00",
+  "palabras": "Orden Público,Protestas en Colombia,protesta,Proyecto de ley,Protocolo sobre protesta social,Corte Constitucional,Abelardo de la Espriella",
+  "lead": "La iniciativa plantea endurecer las medidas contra quienes utilizan prendas o máscaras para cubrirse el rostro mientras participan en hechos violentos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobernador de Antioquia cuestiona alerta de la Defensoría",
+  "enlace": "https://www.lafm.com.co/orden-publico/gobernador-rendon-cuestiona-alerta-defensoria-escuelas-reclutamiento-clan-del-golfo-oriente-antioqueno-416568",
+  "fecha": "2026-11-09T08:43:00-05:00",
+  "palabras": "Orden Público,Antioquia,reclutamiento,Reclutamiento forzoso,Defensoría del Pueblo,factura de servicios públicos,plan de seguridad nacional",
+  "lead": "En entrevista con La FM, explicó las razones de su postura y se refirió a otros asuntos de la agenda regional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Polonia busca respuestas tras el mortal tiroteo en Cracovia donde hubo siete muertos, incluido el joven tirador",
+  "enlace": "https://www.lafm.com.co/internacional/tiroteo-crcaovia-polonia-joven-24-anios-asesina-seis-personas-416567",
+  "fecha": "2026-11-09T07:51:00-05:00",
+  "palabras": "Internacional,Tiroteo,Polonia,Asesinato",
+  "lead": "El hombre de 24 años asesinó a sus padres, su hermana, y tres adultos más.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
