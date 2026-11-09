@@ -469,7 +469,7 @@
   "palabras": "Emergencias por lluvias, Lluvias en Colombia, Emergencias, Santander, Bucaramanga, Floridablanca, UNGRD, Blu Radio, Noticias de hoy, Santander",
   "lead": "Las lluvias afectan al Magdalena Medio, el área metropolitana de Bucaramanga y corredores nacionales. Las autoridades advierten que las lluvias continuarán durante los próximos días.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "Medellín",
   "lead": "Sus familiares las encontraron inconscientes en su vivienda. Un jabón artesanal y medicamentos tendrían que ver.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "España, TikTok",
   "lead": "En su tercera investigación sobre la supuesta \"inacción\" de TikTok frente al material de abuso sexual infantil, denuncia que su buscador es \"una herramienta sin filtros para un pedófilo\" porque, junto al algoritmo de recomendación, permite encontrar estos contenidos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Tesla",
   "lead": "La camioneta eléctrica cedió espacio al robotaxi Cybercab luego de dos años de caídas en ventas, precios elevados y once campañas de revisión en EE. UU.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Ejército Nacional, Drones, Bolívar, ELN, Santander, Blu Radio, Noticias de hoy",
   "lead": "El gobernador insistió en que las operaciones militares deben continuar y que no se puede permitir que las retaliaciones de los grupos ilegales frenen las acciones de la Fuerza Pública.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "Los elementos en el animal fueron encontrados tras un combate del Ejército Nacional contra el ELN.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "El ente de control afirmó que la seguridad nacional no puede convertirse en una excepción al deber de proteger los recursos públicos. Por eso, indagará si hay presuntas irregularidades en la contratación de la Dirección Nacional de Inteligencia.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "Los sistemas alimentarios generan un tercio de las emisiones mundiales de gases de efecto invernadero, pero reciben apenas el 4% de la financiación climática. La FAO advierte que el aumento de las temperaturas, las sequías y las inundaciones amenazan las cosechas y agravan la inseguridad alimentaria que afecta a millones de personas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "Las precipitaciones provocaron cuatro emergencias en distintos sectores de la ciudad, entre ellas inundaciones y movimientos en masa que requirieron la intervención de los organismos de socorro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "La CAR advierte que las lluvias de octubre no fueron suficientes para recuperar las fuentes hídricas y anticipa un diciembre con déficit de precipitaciones de hasta el 80 %.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "“El Ministerio de Agricultura no está para administrar bodegas”, dijo el jefe de la cartera nacional, Indalecio Dangond durante la 90.ª Cumbre Cafetera de Asoexport, realizada en Cartagena.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "El estratega destacó la conexión del plantel Pijao y revivió la esperanza respecto a la clasificación a cuadrangulares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Según las autoridades se impusieron 204 comparendos por comportamientos contrarios a la convivencia en el marco del Código Nacional de Seguridad y Convivencia Ciudadanía.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Fabio Enrique Castillo Cobos estaba de permiso cuando fue interceptado por hombres armado",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "Durante el allanamiento, los investigadores encontraron una bóveda blindada oculta detrás de una pared falsa, que estaría protegida por un sofisticado sistema de seguridad. Según medios paraguayos, las autoridades aún no han logrado acceder a su interior, por lo que se desconoce qué contiene.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Es la segunda oportunidad en menos de dos meses que nuevamente se manifiestan enfermeras, auxiliares que reclaman el pago oportuno de sus salarios",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "Estaría motivada por las recientes deportaciones",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Desde la Unidad de Restitución de Tierras indicaron que con esta estrategia se busca mejorar la presencia en esta región antioqueña.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "La temporada también proyectaba movilizar a más de 18 mil viajeros por el Muelle La Bodeguita",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "Política,ONU,Colombia,Políticos,Embajadores",
   "lead": "El funcionario se ha defendido de las acusaciones en su contra.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Internacional,NVIDIA,Estados Unidos,Inteligencia artificial,China",
   "lead": "La compañía encargó la revisión a sus consejeros independientes y a un bufete externo tras la relación de Jensen Huang con una presunta enviada de Pekín.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -699,6 +699,116 @@
   "fecha": "2026-11-09T06:09:00-05:00",
   "palabras": "Internacional,China,Estados Unidos,NVIDIA,Tecnología",
   "lead": "La empresa de tecnología investiga a su CEO, luego de que admitiera una infidelidad.",
+  "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "IVA a híbridos y plataformas digitales: los puntos en que coinciden Gobierno y Centro Democrático",
+  "enlace": "https://www.bluradio.com/economia/iva-a-hibridos-y-plataformas-digitales-los-puntos-en-que-coinciden-gobierno-y-centro-democratico-pr30",
+  "fecha": "2026-11-09T07:28:13-05:00",
+  "palabras": "Gobierno nacional, Centro Democrático, IVA",
+  "lead": "Sobre la ley de ajuste fiscal, aunque existen diferencias profundas sobre la visión económica global, ambas partes coinciden en la necesidad de abordar el problema de finanzas públicas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Shakira se pronunció tras difícil semana de salud que vivió su padre",
+  "enlace": "https://www.bluradio.com/sociedad/shakira-se-pronuncio-tras-dificil-semana-de-salud-que-vivio-su-padre-rg10",
+  "fecha": "2026-11-09T07:16:30-05:00",
+  "palabras": "Noticias de hoy, Shakira",
+  "lead": "La artista barranquillera reaccionó a las jornadas de incertidumbre que rodearon a su entorno familiar, luego de que, durante la semana, circularan rumores sobre una presunta hospitalización de su progenitor.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nvidia investigará a su propio director ejecutivo por amorío con una supuesta espía china",
+  "enlace": "https://caracol.com.co/2026/11/09/nvidia-investigara-a-su-propio-director-ejecutivo-por-amorio-con-una-supuesta-espia-china/",
+  "fecha": "2026-11-09T07:30:56-05:00",
+  "palabras": "",
+  "lead": "La compañía aseguró que, por ahora, no existen indicios de que sus secretos comerciales o la seguridad nacional estadounidense hayan sido comprometidos. Según The New York Times, el presidente Donald Trump habría sido informado desde el año pasado sobre la relación del empresario con la presunta agente china, pero decidió no intervenir.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así operaban ‘Los Nocturnos’, banda dedicada al paseo millonario en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/09/asi-operaban-los-nocturnos-banda-dedicada-al-paseo-millonario-en-bogota/",
+  "fecha": "2026-11-09T07:24:08-05:00",
+  "palabras": "",
+  "lead": "Secuestraban a sus víctimas en taxis y les hurtaban dinero de sus cuentas bancarias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comunidad en Santander pide apoyo para construir puente vehicular en el Cañón de Chicamocha",
+  "enlace": "https://caracol.com.co/2026/11/09/comunidad-en-santander-pide-apoyo-para-construir-puente-vehicular-en-el-canon-de-chicamocha/",
+  "fecha": "2026-11-09T07:16:19-05:00",
+  "palabras": "",
+  "lead": "Un habitante de la vereda Molagavita en la provincia García Rovira manifiesta que tienen un reto pendiente: conseguir un los recursos para un puente vehicular.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La Fiscalía no ha querido investigar las barbaridades de la UNGRD”: Luis Fernando Velasco",
+  "enlace": "https://caracol.com.co/2026/11/09/la-fiscalia-no-ha-querido-investigar-las-barbaridades-de-la-ungrd-luis-fernando-velasco/",
+  "fecha": "2026-11-09T07:19:54-05:00",
+  "palabras": "",
+  "lead": "Luis Fernando Velasco afirmó en 6AMW que fue una banda criminal la que llegó a la UNGRD a saquearla y buscó cómplices, pero la Fiscalía no ha querido investigar lo que realmente pasó.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena espera más de 112 mil pasajeros durante las Fiestas de Independencia",
+  "enlace": "https://caracol.com.co/2026/11/09/cartagena-espera-mas-de-112-mil-pasajeros-durante-las-fiestas-de-independencia/",
+  "fecha": "2026-11-09T06:35:25-05:00",
+  "palabras": "",
+  "lead": "La temporada también proyectaba movilizar a más de 18 mil viajeros por el Muelle La Bodeguita",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturas por estupefacientes en Córdoba aumentan un 51% en 2026",
+  "enlace": "https://caracol.com.co/2026/11/09/capturas-por-estupefacientes-en-cordoba-aumentan-un-51-en-2026/",
+  "fecha": "2026-11-09T07:15:21-05:00",
+  "palabras": "",
+  "lead": "De acuerdo con los boletines del Departamento de Policía Córdoba, las capturas por tráfico, fabricación o porte de estupefacientes han aumentado significativamente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Séptimo bombardeo fue contra las disidencias en el Catatumbo",
+  "enlace": "https://www.lafm.com.co/orden-publico/septimo-bombardero-abelardo-de-la-espriella-frente-33-catatumbo-colombia-416562",
+  "fecha": "2026-11-09T07:28:00-05:00",
+  "palabras": "Orden Público,Fuerzas Militares,Ejército Nacional,Catatumbo,Norte de Santander,Fuerza Aérea Colombiana,disidencias,Ataque aéreo",
+  "lead": "De los siete bombardeos ordenados por el presidente Abelardo De la Espriella, este es el tercero que se ejecuta en Norte de Santander.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sismo en Perú de magnitud 5.3 este 9 de noviembre de 2026",
+  "enlace": "https://www.lafm.com.co/internacional/temblor-peru-9noviembre-magnitud-epicentro-reportes-416559",
+  "fecha": "2026-11-09T06:53:00-05:00",
+  "palabras": "Internacional,terremoto,Temblor,Perú,Servicio Geológico Colombiano,Terremoto en Colombia,recomendaciones,Defensa Civil,Volcán,Falla geológica,Fenómenos naturales",
+  "lead": "Parcialmente no se reportan daños materiales ni pérdidas de vidas humanas tras el sismo en el país inca, que comparte con Colombia el Cinturón del Fuego de...",
   "seccion": "internacional",
   "nueva": true,
   "tambien": []
