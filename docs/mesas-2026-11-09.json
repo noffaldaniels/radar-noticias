@@ -55,6 +55,27 @@
    "quien": "Carlos Meisel, Senador del Centro Democrático",
    "que": "Manifestó la preocupación del partido frente al proyecto de ley de rescate fiscal del Gobierno por el impacto de nuevos impuestos como el IVA y cargas parafiscales, destacando que presentaron 16 puntos con alternativas para atender la crisis.",
    "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:02",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Ejército confirmó que 3 soldados fueron asesinados y 8 quedaron heridos de gravedad tras un ataque contra el cantón militar de Santa Rosa, en el sur de Bolívar.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:02",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Caracol Radio, Caracol Televisión y RCN recibieron una alerta de seguridad por parte de la Fiscalía General de la Nación ante la amenaza de un posible atentado contra sus instalaciones.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:04",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Centro Democrático, encabezado por Álvaro Uribe, presentó un documento de 14 puntos con modificaciones a la ley de rescate fiscal, rechazando nuevos impuestos y cambios al IVA y proponiendo alternativas como la venta de empresas estatales como ISA.",
+   "resaltar": true
   }
  ],
  "avisos": []
