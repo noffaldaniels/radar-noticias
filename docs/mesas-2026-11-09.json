@@ -678,6 +678,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Informan sobre los preparativos de la visita del Papa en Buenos Aires, Argentina, indicando que se esperan entre 1,5 y 2 millones de personas.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:31",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La acción de Nvidia cayó a 50,2%, perdiendo terreno desde el viernes cuando estaba en 4,91%.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:31",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Las acciones de Nvidia costaban 140 dólares en octubre y ahora en noviembre cuestan 177 dólares.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:32",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Nvidia es de lejos la empresa más influyente en el mercado de microprocesadores y microchips.",
+   "resaltar": false
   }
  ],
  "avisos": [
