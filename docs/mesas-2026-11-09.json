@@ -608,6 +608,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Gobierno, mediante el MinHacienda, derogó la resolución que declaraba más de 48.000 hectáreas del Tolima (en Fresno, Herveo, Murillo, Casabianca, Líbano, Policabildo, Vianí, Hermosa y Falan) como áreas de protección para la producción de alimentos.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:18",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "Luis Fernando Velasco fue ministro del Interior del gobierno Petro y estuvo preso desde diciembre del año pasado hasta hace unos días, cuando el Tribunal Superior de Bogotá consideró que se puede defender en libertad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:18",
+   "quien": "Fiscal Patiño (Fiscalía)",
+   "que": "La fiscal Patiño habla de contratos por 670 mil millones de pesos, pero no le cuenta al país o no lo ha investigado lo suficiente que esos contratos en su gran mayoría se adjudicaron en el gobierno del señor expresidente Duque.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:18",
+   "quien": "Velásquez (Exministro)",
+   "que": "Velasco dijo que había que comprar congresistas. Pues las ocho personas distintas al doctor Olmedo que estuvieron en esa reunión dicen que eso es falso.",
+   "resaltar": false
   }
  ],
  "avisos": [
