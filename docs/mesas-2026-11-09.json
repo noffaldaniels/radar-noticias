@@ -181,6 +181,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Reportó un informe que señala que en la Dirección Nacional de Inteligencia (DNI) presuntamente se estarían intentando instalar micrófonos y dispositivos GPS para hacer seguimiento a expresidentes del país.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:42",
+   "quien": "Abelardo De La Espriella, presidente de la República",
+   "que": "Informó que durante la madrugada ordenó un bombardeo contra estructuras narcoterroristas en respuesta a los recientes atentados y que responderá con mayor contundencia y letalidad.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:43",
+   "quien": "Marcela Peña, periodista de Mañanas Blu",
+   "que": "Reportó que el Centro Democrático criticó el proyecto de ley fiscal de 44 billones de pesos, señalando que la austeridad oficial cubre apenas el 30% de los recursos y pidiendo marchitar entidades de los acuerdos rurales de paz.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:44",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Defendió la propuesta del Centro Democrático de vender una participación adicional de Ecopetrol para mitigar el endeudamiento del país y establecer un acuerdo de gobernabilidad que proteja a la compañía.",
+   "resaltar": true
   }
  ],
  "avisos": [
