@@ -244,6 +244,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Las exportaciones de Cali, en un 80%, se dirigen al mercado ecuatoriano (manufacturera, salud y textil), saliendo por carros; a muy pocos kilómetros de Cali está el peaje de Villarrica y en los peajes del Cauca se han presentado ataques y bloqueos, destacando que el país cuenta con dos peajes en el Cauca o tres si se incluye el Valle al sur occidente colombiano.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:58",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El Centro Democrático llegó a una reunión en Barranquilla con un borrador de contrarreforma tributaria, planteando que no haya más impuestos y que la postura durante la reunión fue crítica ante la posibilidad de crear nuevos impuestos.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:58",
+   "quien": "Senador Ciro Ramírez",
+   "que": "Afirmó que hay un acuerdo con el gobierno en que se necesita un ajuste fiscal, pero criticó que las diferencias están en cómo se va a hacer ese ajuste, planteando 14 puntos al gobierno.",
+   "resaltar": false
   }
  ],
  "avisos": [
