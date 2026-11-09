@@ -559,6 +559,27 @@
    "quien": "Alcalde de Santa Rosa del Sur",
    "que": "El producto primario y renglón productivo principal es el oro, seguido por profesionales, ingenieros y geólogos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:00",
+   "quien": "María Camila Roa, Periodista de Mañanas Blu",
+   "que": "Jensen Huang, CEO de Nvidia, está bajo investigación en EE.UU. por supuestamente obtener beneficios e información de chips fabricados por Nvidia para el gobierno chino, a través de una espía.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:01",
+   "quien": "María Camila Roa, Periodista de Mañanas Blu",
+   "que": "La esposa de Jensen Huang, Lori Huang, estuvo en una cena con el presidente chino Xi Jinping hace una semana en Washington. El gobierno de EE.UU. investiga los vínculos de Huang con avances en inteligencia artificial.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:04",
+   "quien": "María Camila Roa, Periodista de Mañanas Blu",
+   "que": "El valor de Nvidia en el mercado es de 4,51 billones de dólares. Sus acciones cayeron casi 6% tras conocerse la investigación, estimando pérdidas por 270.000 millones de dólares.",
+   "resaltar": false
   }
  ],
  "avisos": [
