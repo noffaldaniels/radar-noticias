@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "Esa medida se tomó, pero se advirtió que aún no se cumplen las metas de ahorro",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "Paraguay",
   "lead": "Gustavo Leite, copartidario del exmandatario, aseguró que Peña “traicionó a todos los paraguayos” y anticipó que podría enfrentar nuevas imputaciones por lavado de dinero.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "Gustavo Petro",
   "lead": "Tres meses después de que la plenaria del Senado autorizara al expresidente Gustavo Petro a realizar viajes internacionales, el senador de Salvación Nacional anunció que buscará revocar esa decisión. El congresista solicitó conocer las condiciones bajo las cuales fue aprobado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "Disidencias Farc, Catatumbo, ELN",
   "lead": "El mandatario anunció capturas de presuntos integrantes de disidencias de las FARC en Tibú, incautación de armas en Uribia y la recuperación de un menor reclutado en Suárez, Cauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Dorado Mañana",
   "lead": "El sorteo de Dorado Mañana se realiza de lunes a sábado a las 11:00 a. m. Consulte el resultado de este lunes 9 de noviembre, revise las últimas cifras y conozca cuánto paga cada modalidad de apuesta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Abuso sexual Menores de Edad, Fiscalía General de la Nación",
   "lead": "De acuerdo con la investigación, más de 600 videos y fotografías de abuso sexual infantil habrían circulado en dos grupos privados de mensajería instantánea a los que, presuntamente, se podía acceder mediante el pago de dinero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "Prima navideña, Navidad",
   "lead": "Los trabajadores formales recibirán este ingreso antes de Navidad. El auxilio de transporte también cuenta para liquidarlo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "Otros ocupantes continúan en el inmueble, lo que ha impedido que más de 130 beneficiarios puedan desarrollar sus actividades agrícolas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "Conozca cómo está el precio del bolívar en dólares y otras divisas del mundo. También, cómo ha sido su movimiento en los últimos días.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "El consejero de Paz de Norte de Santander, Luis Fernando Niño, advirtió que la confrontación armada en la región continúa intensificándose.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "El cantante reunió a miles de seguidores y compartió escenario con figuras del género urbano y el vallenato.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "La jornada incluirá talleres de hoja de vida, orientación vocacional y formación práctica en herramientas digitales adaptadas al mercado actual.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "El actor y comediante británico fue declarado culpable el jueves de tres cargos de agresión sexual y un cargo de violación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "Las autoridades hacen un llamado a los propietarios de estos animales para que no los dejen solos y a la tenencia responsable de los mismos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "El portavoz de la Lista Conjunta Árabe y miembro del Partido Jadash, Mauricio Lapchik, aseguró que para acabar el conflicto con una solución política “es necesario el apoyo también de los países árabes”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "Los trabajos permanecían suspendidos por dificultades técnicas, financieras y contractuales. También se anunció una nueva inversión para el tramo Gallego–Belén.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "Economía,Nivel de embalses en el país,Embalses,Sequía,Fenómeno de El Niño,Temporada seca,Comisión de Regulación de Energía y Gas,Racionamiento de energía,Electricaribe,situación financiera",
   "lead": "Los bajos aportes de agua a los embalses y una generación térmica insuficiente podrían amenazar el suministro eléctrico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "Política,Reforma tributaria,Impuestos,medidas fiscales,Medidas económicas,Recaudo tributario,Proyecto de ley,Centro Democrático,Abelardo de la Espriella,Reforma a la salud,Cámara de Representantes",
   "lead": "Esta semana habrá mesas técnicas entre el Gobierno y el Congreso para seguir concertando el proyecto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,6 +1789,457 @@
   "palabras": "Economía,Reforma pensional,Pensión en Colombia,Asofondos,devoluciones,Irregularidades en manejo de recursos",
   "lead": "Andrés Mauricio Velasco, presidente ejecutivo de Asofondos, explicó cuáles son las alternativas que tienen los colombianos para completar sus cotizaciones.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Rosario Central celebró un título que ganó Boca Juniors: así fue la insólita confusión",
+  "enlace": "https://www.bluradio.com/deportes/futbol/rosario-central-celebro-un-titulo-que-gano-boca-juniors-asi-fue-la-insolita-confusion-so35",
+  "fecha": "2026-11-09T10:46:45-05:00",
+  "palabras": "Argentina, Rosario Central, Boca Juniors, Viral",
+  "lead": "Una confusión provocó la invasión de la cancha y festejos entre jugadores e hinchas. Este sábado, la definición del fútbol argentino dejó una escena inesperada.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ejército captura a cuatro disidentes de las Farc y recuperan a un menor de edad en Tibú",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ejercito-captura-a-cuatro-disidentes-de-las-farc-y-recuperan-a-un-menor-de-edad-en-tibu-rg10",
+  "fecha": "2026-11-09T10:59:34-05:00",
+  "palabras": "Disidencias Farc, Catatumbo, Norte de Santader, Cúcuta, Santander, Tibú, Ejército Nacional, Bandas criminales, Blu Radio, Noticias de hoy",
+  "lead": "Entre los capturados están alias Eddy, señalado como segundo cabecilla de escuadra, y alias Franyer y Franklin, presuntamente vinculados a actividades de sicariato.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MinSalud amplía el acceso a medicamento para tratar el VIH en Colombia",
+  "enlace": "https://www.bluradio.com/salud/minsalud-amplia-el-acceso-a-medicamento-para-tratar-el-vih-en-colombia-rg10",
+  "fecha": "2026-11-09T10:47:21-05:00",
+  "palabras": "Ministerio de Salud, VIH, Medicamentos",
+  "lead": "Con la Circular Externa 033 de 2026, el Ministerio de Salud estableció que todas las personas que viven con VIH y están afiliadas al sistema de salud podrán recibir el medicamento DLT, siempre que exista una indicación médica. También ordenó a las EPS garantizar su entrega sin trámites adicionales…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Campetrol advierte que el gas importado cuesta hasta cuatro veces más que el nacional",
+  "enlace": "https://www.bluradio.com/economia/campetrol-advierte-que-el-gas-importado-cuesta-hasta-cuatro-veces-mas-que-el-nacional-pr30",
+  "fecha": "2026-11-09T11:23:31-05:00",
+  "palabras": "Gas natural, Fracking",
+  "lead": "En relación con la propuesta de reparar y habilitar el gasoducto binacional con Venezuela para abastecer al mercado colombiano, el dirigente gremial sostuvo que, si bien constituye una alternativa valiosa, no resuelve de fondo el problema estructural de abastecimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hallan bóveda oculta en mansión de Santiago Peña, expresidente de Paraguay: Fiscalía no pudo abrirla",
+  "enlace": "https://www.bluradio.com/mundo/hallan-boveda-oculta-en-mansion-de-santiago-pena-fiscalia-no-logro-abrirla-so35",
+  "fecha": "2026-11-09T11:15:47-05:00",
+  "palabras": "Paraguay",
+  "lead": "El recinto fue descubierto durante un allanamiento en la residencia de verano del expresidente paraguayo, investigado por el caso Ueno Bank.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Vender Ecopetrol es “traicionar a la patria”: advierte la USO y convocará a defenderla",
+  "enlace": "https://www.bluradio.com/nacion/vender-ecopetrol-es-traicionar-a-la-patria-advierte-la-uso-y-convocara-a-defenderla-rg10",
+  "fecha": "2026-11-09T11:04:25-05:00",
+  "palabras": "Ecopetrol, USO, Reforma tributaria",
+  "lead": "El sindicato rechazó las propuestas de vender la petrolera para enfrentar la crisis fiscal, recordó que aportó más de 180 billones de pesos a la Nación en cuatro años y advirtió sobre los riesgos para la soberanía energética del país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "De La Espriella anuncia captura de presuntos responsables de ataque en Medellín que dejó 3 muertos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/de-la-espriella-anuncia-captura-de-presuntos-responsables-de-ataque-en-medellin-que-dejo-3-muertos-rg10",
+  "fecha": "2026-11-09T11:38:56-05:00",
+  "palabras": "Abelardo De La Espriella",
+  "lead": "Entre las personas que fallecieron estaba el patrullero Andrés Hamilton Santa Aguirre.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinSalud amplía el acceso al medicamento contra el VIH: ya no estará limitado a tres poblaciones",
+  "enlace": "https://caracol.com.co/2026/11/09/minsalud-amplia-el-acceso-al-medicamento-contra-el-vih-ya-no-estara-limitado-a-tres-poblaciones/",
+  "fecha": "2026-11-09T11:29:22-05:00",
+  "palabras": "",
+  "lead": "La Circular Externa 033 de 2026 amplía la cobertura del antirretroviral DLT a todas las personas afiliadas al sistema de salud que viven con VIH, siempre que exista prescripción médica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "18 indígenas desplazados de Nuquí por combates entre el Clan del Golfo y el ELN llegan a Medellín",
+  "enlace": "https://caracol.com.co/2026/11/09/18-indigenas-desplazados-por-enfrentamientos-entre-el-clan-del-golfo-y-el-eln-llegaron-a-medellin/",
+  "fecha": "2026-11-09T10:49:16-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de Medellín activó la ruta de atención a víctimas para garantizar asistencia humanitaria, orientación institucional, acompañamiento psicológico y alojamiento temporal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ELN habría hecho inteligencia días antes del ataque en Bolivar que dejó tres militares asesinados",
+  "enlace": "https://caracol.com.co/2026/11/09/eln-habria-hecho-inteligencia-con-d-antes-del-ataque-en-bolivar-que-dejo-tres-militares-asesinados/",
+  "fecha": "2026-11-09T11:21:45-05:00",
+  "palabras": "",
+  "lead": "La fuente relató que, inicialmente, algunos uniformados no dimensionaron el riesgo que representaban esos sobrevuelo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinCiencias lanzó ruta ‘Hecho con Ciencia’ para visibilizar la innovación empresarial",
+  "enlace": "https://caracol.com.co/2026/11/09/minciencias-lanzo-ruta-hecho-con-ciencia-para-visibilizar-la-innovacion-empresarial/",
+  "fecha": "2026-11-09T11:21:35-05:00",
+  "palabras": "",
+  "lead": "La iniciativa busca identificar empresas que estén aplicando investigación, desarrollo tecnológico e innovación en sus procesos productivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“El tema que más nos afecta es el carcelario”: alcalde de La Unión sobre extorsiones",
+  "enlace": "https://caracol.com.co/2026/11/09/el-tema-que-mas-nos-afecta-es-el-carcelario-alcalde-de-la-union-sobre-extorsiones/",
+  "fecha": "2026-11-09T11:20:06-05:00",
+  "palabras": "",
+  "lead": "Germán Villaquirán destacó la articulación de la Fuerza Pública frente al microtráfico y alertó que las llamadas extorsivas provienen principalmente de centros carcelarios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hugo Santander, él escritor santandereano, presenta su nueva novela: ‘Los límites de la eternidad’",
+  "enlace": "https://caracol.com.co/2026/11/09/hugo-santander-el-escritor-santandereano-presenta-su-nueva-novela-los-limites-de-la-eternidad/",
+  "fecha": "2026-11-09T11:14:38-05:00",
+  "palabras": "",
+  "lead": "El escritor santandereano presentará su obra el próximo jueves 12 de noviembre en la Casa de Bolívar, en Bucaramanga y viernes 13 en la Biblioteca Pública Gabriel Turbay.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maluma desata la demanda en Bogotá: 40.000 personas esperan por entradas para su concierto",
+  "enlace": "https://caracol.com.co/2026/11/09/maluma-desata-la-demanda-en-bogota-40000-personas-esperan-por-entradas-para-su-concierto/",
+  "fecha": "2026-11-09T11:13:18-05:00",
+  "palabras": "",
+  "lead": "La fila virtual registra miles de usuarios interesados en conseguir una entrada para su regreso a la capital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigador de Unicartagena entre los científicos de mayor impacto mundial por su trayectoria",
+  "enlace": "https://caracol.com.co/2026/11/09/investigador-de-unicartagena-entre-los-cientificos-de-mayor-impacto-mundial-por-su-trayectoria/",
+  "fecha": "2026-11-09T11:13:26-05:00",
+  "palabras": "",
+  "lead": "El docente e investigador figura en la edición 2026 del ranking World’s Top 2% Scientists, en la categoría Career-Long Impact",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "AMB Catastro Cartagena: así será la atención al público durante las Fiestas de la Independencia",
+  "enlace": "https://caracol.com.co/2026/11/09/amb-catastro-cartagena-asi-sera-la-atencion-al-publico-durante-las-fiestas-de-la-independencia/",
+  "fecha": "2026-11-09T11:11:29-05:00",
+  "palabras": "",
+  "lead": "El gestor catastral de la Heroica se acogerá al Decreto 0478 del 19 de octubre de 2026, que declara tres días cívicos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El DJ y productor colombiano Julián Cardona celebra 20 años de trayectoria",
+  "enlace": "https://caracol.com.co/2026/11/09/el-dj-y-productor-colombiano-julian-cardona-celebra-20-anos-de-trayectoria/",
+  "fecha": "2026-11-09T11:09:05-05:00",
+  "palabras": "",
+  "lead": "Como referente de la electrónica colombiana",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades destruyen dos laboratorios para procesar cocaína en zona rural de San José del Fragua",
+  "enlace": "https://caracol.com.co/2026/11/09/autoridades-destruyen-dos-laboratorios-para-procesar-cocaina-en-zona-rural-de-san-jose-del-fragua/",
+  "fecha": "2026-11-09T11:07:33-05:00",
+  "palabras": "",
+  "lead": "Las operaciones permitieron incautar combustibles, químicos, maquinaria y cerca de 210 litros de producto destilado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Orquesta Sinfónica de la UNAB  cerrará su temporada 2026 en Bucaramanga, Santander",
+  "enlace": "https://caracol.com.co/2026/11/09/la-orquesta-sinfonica-de-la-unab-cerrara-su-temporada-2026-en-bucaramanga-santander/",
+  "fecha": "2026-11-09T10:41:18-05:00",
+  "palabras": "",
+  "lead": "La Orquesta Sinfónica contará con sus dos ultimas funciones para este año el 10 y 11 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió a los 80 años Alan Jones, leyenda australiana de la Fórmula 1 y campeón mundial en 1980",
+  "enlace": "https://caracol.com.co/2026/11/09/murio-a-los-80-anos-alan-jones-leyenda-australiana-de-la-formula-1-y-campeon-mundial-en-1980/",
+  "fecha": "2026-11-09T11:05:30-05:00",
+  "palabras": "",
+  "lead": "Jones, que había cumplido 80 años el pasado lunes, logró doce victorias en grandes premios durante su carrera en la máxima categoría y se convirtió en el segundo australiano en conquistar el título mundial, después de Jack Brabham.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Preocupación en Ocaña por secuestros: familias siguen esperando pruebas de supervivencia",
+  "enlace": "https://caracol.com.co/2026/11/09/preocupacion-en-ocana-por-secuestros-familias-siguen-esperando-pruebas-de-supervivencia/",
+  "fecha": "2026-11-09T11:04:59-05:00",
+  "palabras": "",
+  "lead": "El defensor de derechos humanos Freddy Arengas alertó sobre la vulnerabilidad de los corredores de entrada y salida de Ocaña, Norte de Santander.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Andrés Cepeda anuncia ‘Latitudes’, su nueva gira por Colombia en 2027",
+  "enlace": "https://caracol.com.co/2026/11/09/andres-cepeda-anuncia-latitudes-su-nueva-gira-por-colombia-en-2027/",
+  "fecha": "2026-11-09T10:57:25-05:00",
+  "palabras": "",
+  "lead": "El cantante recorrerá siete ciudades del país y tendrá dos presentaciones en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín fortalece la prevención para evitar la captación de niñas con fines de explotación sexual",
+  "enlace": "https://caracol.com.co/2026/11/09/medellin-fortalece-la-prevencion-para-evitar-la-captacion-de-ninas-con-fines-de-explotacion-sexual/",
+  "fecha": "2026-11-09T10:57:20-05:00",
+  "palabras": "",
+  "lead": "A través del programa Parceritas, la ciudad desarrolla acciones pedagógicas y psicosociales dirigidas a menores de 12 a 15 años, con herramientas para identificar riesgos, reconocer mecanismos de engaño y activar redes de apoyo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "San Antonio de Pereira recuperó su emblemático parque con más de los $6.552 millones",
+  "enlace": "https://caracol.com.co/2026/11/09/san-antonio-de-pereira-recupero-su-emblematico-parque-con-mas-de-los-6552-millones/",
+  "fecha": "2026-11-09T10:46:12-05:00",
+  "palabras": "",
+  "lead": "La renovación permitió recuperar elementos históricos y arquitectónicos, proteger la riqueza natural y devolverle a la comunidad uno de sus principales espacios de encuentro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Eglantina Zingg: “El fútbol femenino hoy no se ve como una obligación, sino como una inversión”",
+  "enlace": "https://caracol.com.co/2026/11/09/eglantina-zingg-el-futbol-femenino-hoy-no-se-ve-como-una-obligacion-sino-como-una-inversion/",
+  "fecha": "2026-11-09T10:45:12-05:00",
+  "palabras": "",
+  "lead": "La ex presentadora de MTV habló sobre el crecimiento de la organización que promueve el fútbol femenino, el trabajo con niñas en comunidades vulnerables y su decisión de regresar a Venezuela después de 25 años viviendo en Estados Unidos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gadiel y J Álvarez se unen en ‘Juntitos’, una apuesta de reguetón sobre la atracción sin compromisos",
+  "enlace": "https://caracol.com.co/2026/11/09/gadiel-y-j-alvarez-se-unen-en-juntitos-una-apuesta-de-regueton-sobre-la-atraccion-sin-compromisos/",
+  "fecha": "2026-11-09T10:43:02-05:00",
+  "palabras": "",
+  "lead": "Los artistas presentan una colaboración que combina sensualidad, sonidos urbanos y una propuesta audiovisual de tres colores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comunidades del Catatumbo denuncian abandono estatal, desplazamiento silencioso y falta de garantías",
+  "enlace": "https://caracol.com.co/2026/11/09/comunidades-del-catatumbo-denuncian-abandono-estatal-desplazamiento-silencioso-y-falta-de-garantias/",
+  "fecha": "2026-11-09T10:41:58-05:00",
+  "palabras": "",
+  "lead": "ASCAMCAT advirtió que las comunidades rurales continúan viviendo bajo amenazas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Santa Marta se refuerzan los controles de movilidad durante la temporada de fin de año",
+  "enlace": "https://caracol.com.co/2026/11/09/en-santa-marta-se-refuerzan-los-controles-de-movilidad-durante-la-temporada-de-fin-de-ano/",
+  "fecha": "2026-11-09T10:39:23-05:00",
+  "palabras": "",
+  "lead": "Se contempla la expedición de un nuevo decreto para regular el estacionamiento de vehículos en el Centro Histórico y el sector de El Rodadero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "León XIV cuestiona la exclusión de personas con discapacidad durante su visita a Argentina",
+  "enlace": "https://caracol.com.co/2026/11/09/leon-xiv-cuestiona-la-exclusion-de-personas-con-discapacidad-durante-su-visita-a-argentina/",
+  "fecha": "2026-11-09T10:37:41-05:00",
+  "palabras": "",
+  "lead": "Durante una visita a un hogar de personas con discapacidad en Buenos Aires, el papa León XIV pidió a Argentina garantizar la inclusión.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Internacional de Bogotá vs America: fecha y hora del partido de ida de la semifinal de Copa Colombia",
+  "enlace": "https://caracol.com.co/2026/11/09/internacional-de-bogota-vs-america-fecha-y-hora-del-partido-de-ida-de-la-semifinal-de-copa-colombia/",
+  "fecha": "2026-11-09T10:33:54-05:00",
+  "palabras": "",
+  "lead": "El equipo capitalino buscará sacar ventaja en el estadio Metropolitano de Techo ante un cuadro Escarlata que parte como favorito.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinSalud amplía el acceso a medicamento contra el VIH",
+  "enlace": "https://www.lafm.com.co/sociedad/ministerio-salud-pacientes-vih-tratamiento-medico-atencion-medicamentos-acceso-416595",
+  "fecha": "2026-11-09T11:23:00-05:00",
+  "palabras": "Sociedad,VIH,Ministerio de Salud,Vigilancia,Superintendencia Nacional de Salud,pacientes,médicos,medidas sanitarias,Salubridad",
+  "lead": "Todas las personas que viven con VIH y están afiliadas al sistema de salud podrán acceder a este tratamiento, siempre que exista una indicación médica.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hidroituango alcanza cota 420: ¿qué significa para Colombia?",
+  "enlace": "https://www.lafm.com.co/actualidad/hidroituango-llegue-a-la-cota-420-fenomeno-de-el-nino-416592",
+  "fecha": "2026-11-09T11:20:00-05:00",
+  "palabras": "Actualidad,Hidroituango,Energía,Medellín, Colombia,Antioquia,Ministerio de Minas y Energía",
+  "lead": "Hidroituango alcanza la cota 420: qué significa para la capacidad energética del país: EPM explica",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bombardeo en Norte de Santander: balance preliminar",
+  "enlace": "https://www.lafm.com.co/orden-publico/bombardeo-catatumbo-cuatro-abatidos-seis-capturados-frente-33-colombia-416600",
+  "fecha": "2026-11-09T11:14:00-05:00",
+  "palabras": "Orden Público,Fuerzas Militares,Catatumbo,Norte de Santander,Ejército Nacional,Fuerza Aérea Colombiana,disidencias",
+  "lead": "A esta hora, los soldados avanzan por tierra para determinar si hay más disidentes dados de baja en medio de la operación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Incidente de seguridad genera alarma en inmediaciones de la Casa Blanca: Esto se sabe",
+  "enlace": "https://www.lafm.com.co/internacional/incidente-seguridad-casa-blanca-washington-dc-416602",
+  "fecha": "2026-11-09T11:10:00-05:00",
+  "palabras": "Internacional,Washington,Estados Unidos",
+  "lead": "El incidente ocurrió este lunes en Washington y provocó el cierre preventivo del área de prensa del ala oeste.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Avianca suma vuelos para final en el país de la Sudamericana",
+  "enlace": "https://www.lafm.com.co/sociedad/avianca-vuelos-final-barranquilla-sudamericana-boca-atletico-mineiro-416589",
+  "fecha": "2026-11-09T10:46:00-05:00",
+  "palabras": "Sociedad,Vuelos,Avianca,Barranquilla,Buenos Aires,Bogotá,Copa Sudamericana,Operaciones aéreas,Transporte aéreo,Aviones,Eventos deportivos",
+  "lead": "Avianca refuerza vuelos a Barranquilla para la Sudamericana: directos Buenos Aires-Barranquilla y más capacidad en la ruta Bogotá-Argentina.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan a disidentes de las Farc en zona Catatumbo",
+  "enlace": "https://www.lafm.com.co/orden-publico/capturan-a-cinco-disidentes-de-las-farc-por-terrorismo-en-norte-de-santander-416575",
+  "fecha": "2026-11-09T10:42:00-05:00",
+  "palabras": "Orden Público,Catatumbo,ELN,Disidentes de las Farc,Capturados",
+  "lead": "Investigaciones señalan que los automotores decomisados facilitaban la logística ilegal de la estructura armada, movilizando armamento, insumos y personal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "CAXDAC: traslado de pilotos a Colpensiones puede costar 9 billones",
+  "enlace": "https://www.lafm.com.co/economia/traslado-pilotos-colpensiones-9billones-nacion-caxdac-416598",
+  "fecha": "2026-11-09T10:34:00-05:00",
+  "palabras": "Economía,Colpensiones,Reforma pensional,Ley 100,Problemas económicos,Pérdidas económicas,costos,Detrimento patrimonial,Investigaciones,Funcionarios denunciados,Fiscalía General de la Nación",
+  "lead": "Jorge Mario Medina aseguró que CAXDAC tiene recursos para garantizar las pensiones hasta 2120 y advirtió que el traslado de pilotos a Colpensiones podría c...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Russell Brand condenado a más de 10 años por agresión sexual",
+  "enlace": "https://www.lafm.com.co/entretenimiento/russell-brand-condena-mas-de-diez-anos-por-agresion-sexual-416596",
+  "fecha": "2026-11-09T10:28:00-05:00",
+  "palabras": "Entretenimiento,Condena,violaciones,Delitos sexuales,prisión,imputan cargos,Acusaciones,proceso penal,juez,testigo,teorías conspirativas",
+  "lead": "Seis mujeres acusaban a Brand de violación y agresiones sexuales cometidas entre 1999 y 2009.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿A quién quería contratar Trump? La confusión que se hizo viral",
+  "enlace": "https://www.lafm.com.co/deportes/donald-trump-dana-white-oferta-secretario-prensa-casa-blanca-416591",
+  "fecha": "2026-11-09T10:07:00-05:00",
+  "palabras": "Deportes,Donald Trump,UFC,Falsos rumores,rumores,teorías conspirativas,Desinformación",
+  "lead": "En su red social, Truth Social, Trump argumentó esta decisión afirmando que Dana era \"un luchador y guerrero feroz\".",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Buscan peligrosa banda que roba en trancones en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/trancones-bogota-delincuentes-roban-vehiculos-autopista-norte-alhambra-se-hacen-pasar-vendedores-ambulantes-416587",
+  "fecha": "2026-11-09T09:44:00-05:00",
+  "palabras": "Orden Público,hurto,Bogotá,Policía Nacional,vehículos",
+  "lead": "Decenas de ciudadanos denuncian que los asaltantes se hacen pasar como vendedores ambulantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿El humano detuvo una era de hielo? Esto piensa la ciencia",
+  "enlace": "https://www.lafm.com.co/sociedad/ciencia-cree-ser-humano-freno-era-de-hielo-quemar-combustibles-fosiles-416583",
+  "fecha": "2026-11-09T09:17:00-05:00",
+  "palabras": "Sociedad,Ciencia,Fenómenos naturales,combustible,humanidad",
+  "lead": "El proceso natural de la Tierra pudo verse afectado por la industrialización.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
