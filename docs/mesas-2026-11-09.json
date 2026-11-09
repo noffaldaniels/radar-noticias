@@ -223,6 +223,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Informó que la Contraloría General hará una revisión prioritaria a cinco contratos de la Dirección Nacional de Inteligencia (DNI) por más de 20.700 millones de pesos, debido a presuntas fallas técnicas, incumplimientos y posibles sobrecostos en equipos como drones y sistemas de inteligencia.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:49",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se investiga un decreto que cambiaba las reglas para dar un papel a la DNI junto al Ministerio de Defensa y la Unidad Nacional de Protección para tener participación en la selección de camionetas blindadas para ex presidentes, además de la captura de Carlos Andrés Oyola Tovar, funcionario de la DNI del gobierno de Gustavo Petro, señalado de alterar elecciones con información y ciberseguridad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:49",
+   "quien": "Fabián Alonso Romero España, Secretario de Gobierno del Departamento del Cauca",
+   "que": "La escalada terrorista de este fin de semana en el Cauca dejó ataques a dos peajes: el de Mondomo, en construcción en Santander de Quilichao (doble calzada Popayán-Santander de Quilichao), y el del municipio de Villarrica; además de una vía rural del municipio de Suárez activada con carga explosiva y disparos contra la subestación de policía anoche en Morales por hombres armados. Afortunadamente no hay afectación a la población civil ni a la fuerza pública.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:55",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Las exportaciones de Cali, en un 80%, se dirigen al mercado ecuatoriano (manufacturera, salud y textil), saliendo por carros; a muy pocos kilómetros de Cali está el peaje de Villarrica y en los peajes del Cauca se han presentado ataques y bloqueos, destacando que el país cuenta con dos peajes en el Cauca o tres si se incluye el Valle al sur occidente colombiano.",
+   "resaltar": false
   }
  ],
  "avisos": [
