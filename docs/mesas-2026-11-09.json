@@ -118,6 +118,27 @@
    "quien": "Presidente de la Corte Suprema de Justicia",
    "que": "Señaló que existe articulación con la Fiscalía y la Comisión de Acusaciones, aclarando que a la Sala Especial de Instrucción le compete estudiar exclusivamente las actuaciones de Gustavo Petro cuando ejercía como congresista.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:12",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Confirmó que en la propuesta de 14 puntos del Centro Democrático se contempla otorgar descuentos sobre una cartera morosa de 70 billones de pesos para facilitar el recaudo antes del 31 de mayo, autorizando también a entidades territoriales y corporaciones autónomas.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:15",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Manifestó la oposición de su bancada a gravar con IVA la canasta familiar, el internet para estratos 1, 2 y 3, la maquinaria e insumos del sector agropecuario y las pólizas de salud, las cuales hoy cubren a más de 4 millones de colombianos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:16",
+   "quien": "Álvaro Uribe Vélez, expresidente de Colombia",
+   "que": "Respaldó la propuesta de cobrar IVA a los vapeadores y aplicar IVA y aranceles a las importaciones de paquetes inferiores a 200 dólares, que este año superarán los 110 millones de envíos.",
+   "resaltar": false
   }
  ],
  "avisos": [
