@@ -7,7 +7,7 @@
   "palabras": "",
   "lead": "El ataque contra el peaje de Villa Rica no fue el único hecho violento este fin de semana. También fue atacado con explosivos el peaje de Mondomo, y se reportó una detonación en una vía de Suárez.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Liga BetPlay, Millonarios, Santa Fe, Atlético Nacional",
   "lead": "La jornada dejó a Santa Fe y Bucaramanga en los cuadrangulares, mientras Millonarios tendrá que buscar su clasificación en la última fecha.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Estilo de vida, Viral, Cómo hacer el Ritual del 11/11, qué se necesita para Ritual del 11/11",
   "lead": "Algunas personas aprovechan esta fecha para hacer rituales de manifestación, escribir sus propósitos y establecer intenciones para los próximos meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Alzhéimer, Vivienda, Psicología",
   "lead": "Escuche las mejores historias, conversaciones y recomendaciones de Encuentros Blu en la emisión de este domingo, 8 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Paraguay, Corrupción",
   "lead": "El exmandatario, destituido tras ser hallado culpable de \"mal desempeño de funciones\", fue imputado el sábado por presunta lesión de confianza y administración en provecho propio por lo que permanece recluido en el Regimiento de Escolta Presidencial, una unidad militar en Asunción.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "ELN, Bucaramanga, Ataque terrorista, Bolívar, Santander, Ejército Nacional, Barrancabermeja, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "Los uniformados sufrieron lesiones de gravedad en el ataque con drones cargados de explosivos. Otros 20 militares reciben atención especializada en Bucaramanga y Barrancabermeja.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Donald Trump, Estados Unidos, Irán",
   "lead": "Ocho meses después del inicio de la ofensiva estadounidense e israelí, la guerra se encuentra en un punto muerto, sin grandes operaciones militares ni avances en las negociaciones de paz, mientras Irán sigue atacando buques en el estrecho de Ormuz.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Polonia, Tiroteo",
   "lead": "La investigación la ha asumido un fiscal de la sección de Cracovia de la Fiscalía Nacional y abarcará el asesinato de cuatro mujeres y dos hombres, incluidos un británico de 32 años y una austríaca de 51, según Krzysztof Jan Klęczar, el gobernador de Pequeña Polonia, cuya capital es Cracovia, así…",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Antioquia, EPM, Hidroituango, Fenómeno de El Niño",
   "lead": "Autoridades en Antioquia advierten que esta medida no será suficiente para enfrentar por sí sola las consecuencias del fuerte calor que vendrá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Asesinatos, Gimnasio Moderno, Chapinero",
   "lead": "El hombre, de 31 años, fue encontrado con un impacto de bala en Chapinero. Las autoridades buscan la camioneta blindada en la que se movilizaba.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "Bucaramanga, Alcaldía de Bucaramanga, Blu Radio",
   "lead": "Las autoridades también encontraron a menores de edad en los alrededores de las discotes y bares de la zona de rumba de Bucaramanga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Sismo hoy, Perú",
   "lead": "El movimiento ocurrió a las 5:23 a. m. en la Amazonía peruana, con profundidad superficial, según datos del Servicio Geológico de los Estados Unidos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "",
   "lead": "Según la ultima actualización, el departamento gubernamental informó del fallecimiento de siete personas en el siniestro y elevó a 112 la cifra de heridos, si bien el número todavía podría aumentar hasta que finalicen las labores de rescate.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Dirección Nacional de Inteligencia – DNI, Contraloría General",
   "lead": "El contralor Jorge Eliécer Laverde ordenó examinar cinco contrataciones de la Dirección Nacional de Inteligencia tras denuncias por fallas técnicas y posibles sobrecostos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "Álvaro Uribe enfatizó en la necesidad de reducir impuestos y, también, al Estado. “Hay que poner la economía a crecer con un Estado pequeño; el país avanzaría mucho”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "",
   "lead": "Autoridades mantienen acciones preventivas en la región",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "Esta semana, se decidiría la suerte del acuerdo para tramitar un empréstito por $500 mil millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "",
   "lead": "En la comuna 10, más de 25 motociclistas fueron seleccionados para recibir dispositivos de rastreo gratuitos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "La atención presencial se prestará en sedes de la Agencia de Desarrollo Rural (ADR) y del Instituto Colombiano Agropecuario (ICA) mientras avanza el alistamiento de las nuevas instalaciones de la ANT.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "Habitantes del corregimiento Pacelli, en Tibú, exigieron respeto a los grupos armados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Se trata de Carlos Oyola, quien habría liderado una red al interior de la DNI durante el gobierno anterior para atacar los sistemas de la Registraduría durante las elecciones presidenciales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Las bajas precipitaciones en las zonas de nacimiento de las quebradas que abastecen el embalse han reducido sus niveles de almacenamiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "El hecho se presentó en el corregimiento de Versalles",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "El nuevo lugar espera atender a 850 personas diariamente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "La organización social también rechazó ataques con drones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "La construcción del puente vehicular del intercambiador vial obliga a modificar la circulación entre Mamatoco y La Lucha. El acceso al barrio El Líbano estará cerrado hasta el 27 de enero.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "Los hechos se presentaron en La Laguna y en Antonia Santos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "Uno de los principales componentes del plan será la recuperación ambiental de la Ciénaga de Mallorquín",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Operativo militar desarrollado en la zona rural de Tibú",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "La artista ha estado en Barranquilla acompañando a su padre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "A corte del 30 de septiembre, las cuentas por pagar de Air-e ascendían a $6,293 billones, según documento Conpes",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "Los operativos dejaron además dos armas de fuego incautadas, más de 600 gramos de estupefacientes y 72 comparendos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Orden Público,Antioquia,exsecuestrados,Cali, Colombia",
   "lead": "Gobernador de Antioquia solicita al Gobierno liberar a joven secuestrada en el Valle del Cauca, cuya familia reside en el departamento",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,6 +403,61 @@
   "palabras": "Actualidad,Medellín, Colombia,Investigaciones,medicamentos",
   "lead": "Investigan muerte de dos hermanas gemelas en una vivienda de la comuna 13 de Medellín: esto se sabe hasta ahora",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estadio Metropolitano en Barranquilla estrenará videovigilancia con IA y cámaras de 61 megapíxeles",
+  "enlace": "https://www.bluradio.com/regiones/caribe/estadio-metropolitano-en-barranquilla-estrenara-videovigilancia-con-ia-y-camaras-de-61-megapixeles-rg10",
+  "fecha": "2026-11-09T06:27:01-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Caribe, Alejandro Char",
+  "lead": "Serán instaladas más de 300 cámaras de última generación y una nueva red de internet.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía de Bucaramanga espera esta semana decisión sobre préstamo bancario para obras y semáforos",
+  "enlace": "https://caracol.com.co/2026/11/09/alcaldia-de-bucaramanga-espera-esta-semana-decision-sobre-prestamo-bancario-para-obras-y-semaforos/",
+  "fecha": "2026-11-09T06:09:56-05:00",
+  "palabras": "",
+  "lead": "Esta semana, se decidiría la suerte del acuerdo para tramitar un empréstito por $500 mil millones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía desmintió supuesto hurto masivo en estación de servicio de Membrillal",
+  "enlace": "https://caracol.com.co/2026/11/09/policia-desmintio-supuesto-hurto-masivo-en-estacion-de-servicio-de-membrillal/",
+  "fecha": "2026-11-09T06:25:38-05:00",
+  "palabras": "",
+  "lead": "El comandante de la Policía verificó el lugar y aseguró que no existe reporte",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bomberos atendieron incendio en la ‘La Casa del Suzuki’, en el Pie de La Popa",
+  "enlace": "https://caracol.com.co/2026/11/09/bomberos-atendieron-incendio-en-la-la-casa-del-suzuki-en-el-pie-de-la-popa/",
+  "fecha": "2026-11-09T06:22:33-05:00",
+  "palabras": "",
+  "lead": "Cinco máquinas y 25 bomberos atendieron la emergencia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano | lunes 9 de noviembre de 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/las-seis-de-las-6-con-juan-lozano-lunes-9-de-noviembre-de-2026-416547",
+  "fecha": "2026-11-09T06:26:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este lunes en La FM.",
+  "seccion": "mesas",
   "nueva": true,
   "tambien": []
  }
