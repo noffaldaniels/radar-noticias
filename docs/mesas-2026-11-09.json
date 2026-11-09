@@ -741,6 +741,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "30.000 viviendas en Popayán están ubicadas en barrios anormales o asentamientos y buscan legalizarlas para evitar que el acueducto se quiebre.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:38",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El exministro del Interior Luis Fernando Velasco recuperó su libertad y habla sobre el proceso en el que están involucrados exfuncionarios del gobierno y parlamentarios.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:44",
+   "quien": "Néstor Morales",
+   "que": "Se discute la presunción de inocencia de Velasco y si existen pruebas en su contra, aparte del testimonio del caso de corrupción en la Unidad Nacional para la Gestión del Riesgo de Desastres (Ungrd).",
+   "resaltar": false
   }
  ],
  "avisos": [
