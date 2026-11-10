@@ -524,6 +524,27 @@
    "quien": "Ricardo Roa (Presidente de Ecopetrol)",
    "que": "Ecopetrol emitió bonos a 8 años por 2.000 millones de dólares, recibiendo solicitudes por 7.000 millones de dólares, lo que triplicó la oferta inicial.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:00",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "A las 3:00 de la tarde en la plenaria del Senado será el escenario del segundo debate del acto legislativo que busca evitar que la JEP vaya más allá de 2028.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:00",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Se entregó a las autoridades Andri Johanna Lugo Chavarro, exsecretaria de Planeación e Infraestructura de Ataco en el Tolima, implicada en el escándalo de corrupción por 21.000 millones de pesos que tiene privados de la libertad al alcalde Héctor Fabio Muñoz y al exalcalde Miller Aldana.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Fueron incautadas 2,7 toneladas de marihuana que pertenecían a los comandos de frontera en Putumayo. La operación se desarrolló en un muelle en el municipio de Puerto Asís.",
+   "resaltar": false
   }
  ],
  "avisos": [
