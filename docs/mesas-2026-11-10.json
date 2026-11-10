@@ -384,6 +384,27 @@
    "quien": "Alberto Casas",
    "que": "El Museo de Arte Contempor&#225;neo del Barrio Minuto de Dios, fundado por el Padre Rafael Garc&#237;a Herreros, cumple 60 a&#241;os forjando patrimonio cultural de Colombia.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:31",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Llegaron los primeros 13 millones de pesos del giro para subsidios dispersados a través de un convenio a cero costo con SuperGIROS. El segundo giro llegará por cerca de 17.000 millones de pesos, pendientes de una firma para dispersar en 14 municipios.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:37",
+   "quien": "Gobernador del Tolima",
+   "que": "La doctora Ana María Cuartas todavía está designada, pero está muy atenta en el proceso, acompañando a los municipios y departamentos con los PMU y solicitudes del Gobierno nacional.",
+   "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:37",
+   "quien": "Gobernador del Tolima",
+   "que": "Se necesita celeridad. Tres meses después del terremoto, se debe cumplir con el plan de acción específico aprobado por el Gobierno nacional.",
+   "resaltar": true
   }
  ],
  "avisos": [
