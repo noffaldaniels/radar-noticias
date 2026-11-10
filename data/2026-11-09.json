@@ -4814,7 +4814,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este lunes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4825,7 +4825,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Páramo de Santurbán, Ministerio de Ambiente",
   "lead": "La concertación incluye medidas para la reconversión de actividades productivas, el control de la minería, la protección del agua y la restauración ambiental.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4836,7 +4836,7 @@
   "palabras": "Homicidios, Argentina",
   "lead": "La mujer tiene antecedentes de tratamiento en salud mental desde los 18 años y, según familiar, había mostrado comportamientos extraños antes de ser hallado sin vida.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4847,7 +4847,7 @@
   "palabras": "Noticias de hoy, Caribe, Ministerio de Comercio, Barranquilla",
   "lead": "Desde la Plaza de la Aduana en Barranquilla, el ministro Mauricio Gómez destacó que la idea será tener acuerdos y “escuchar todas contrapropuestas para llegar al mejor texto posible”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4858,7 +4858,7 @@
   "palabras": "Dane, Inflación, inflación, inflación en colombia, inflación en octubre",
   "lead": "Mientras que la inflación mensual, correspondiente a la comparación entre octubre y septiembre de 2026, fue de 0,02 %.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4869,7 +4869,7 @@
   "palabras": "Bogotá, Turismo, Fin de Año",
   "lead": "Cada año, destinos como Medellín, Santa Marta, Cartagena y San Andrés figuran entre los más apetecidos por los viajeros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4880,7 +4880,7 @@
   "palabras": "Noticias de hoy, Fútbol, Liga BetPlay",
   "lead": "De los equipos en disputa por los cupos restantes, solo tres dependen de sí mismos en la última fecha de la fase regular.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "Ministerio de Ciencia, Ministerio de Ciencia, diplomas falsos, juliana guerrero, títulos falsos",
   "lead": "La ministra Claudia Benavides denunció la vinculación de una persona que habría utilizado títulos universitarios falsos para acceder a un contrato durante la administración anterior.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4902,7 +4902,7 @@
   "palabras": "JEP, FARC, JEP, excomandantes farc, farc, guerrilla farc",
   "lead": "La decisión se basa en los relatos de 743 víctimas, entre ellas mujeres, personas de la población diversa y menores de edad al momento de los hechos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4913,7 +4913,7 @@
   "palabras": "",
   "lead": "La congresista Carol Borda, de Salvación Nacional, pidió “perdón” por su pasado en la izquierda política de Colombia, donde hizo campaña por Gustavo Petro en 2018.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "",
   "lead": "El presidente de Estados Unidos, Donald Trump, afirmó este lunes que la guerra con Irán está “prácticamente terminada en el plano militar”, tras reunirse en Washington con el primer ministro y titular de Exteriores de Catar, Mohamed bin Abderrahmán Al Thani, mediador en el conflicto.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "",
   "lead": "Alias Ratón sigue vinculado a la investigación. Las dos personas fueron capturadas durante el fin de semana y este lunes se reportó la judicialización.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4946,7 +4946,7 @@
   "palabras": "",
   "lead": "El conjunto motilón necesita una victoria para mantener sus posibilidades de clasificar a los cuadrangulares.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4957,7 +4957,7 @@
   "palabras": "",
   "lead": "Juliana Giraldo respaldó al colombiano luego de su cobro fallido en la eliminación de Vasco da Gama frente a Palmeiras.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4968,7 +4968,7 @@
   "palabras": "",
   "lead": "La representante a la cámara por el partido Salvación Nacional, Carol Borda, estuvo en Sin Anestesia de La Luciérnaga",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4979,7 +4979,7 @@
   "palabras": "",
   "lead": "El país cuenta con diferentes lugares para disfrutar de esta gran temporada, sin gastar mucho dinero",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4990,7 +4990,7 @@
   "palabras": "",
   "lead": "La representante por Salvación Nacional, Carol Borda, cuestionó la decisión de la Corte Constitucional sobre el aborto y pidió llevar el debate al Congreso",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5001,7 +5001,7 @@
   "palabras": "",
   "lead": "La red troncal de microondas, propia de Claro, atraviesa 410 kilómetros de selva con el fin de mejorar la conectividad en ese territorio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5012,7 +5012,7 @@
   "palabras": "",
   "lead": "La Junta Directiva asegura que es propietaria del inmueble desde 1939 y cuestiona los fallos del Juzgado Décimo Administrativo y del Tribunal Administrativo de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5023,7 +5023,7 @@
   "palabras": "",
   "lead": "El material reclicable podría salvarle la decoración y el bolsillo esta navidad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5034,7 +5034,7 @@
   "palabras": "",
   "lead": "La administración distrital aseguró que el cuerpo del animal fue retirado por Atesa y posteriormente sepultado. El accidente ocurrió en la carrera cuarta y es materia de investigación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5045,7 +5045,7 @@
   "palabras": "Orden Público,Álvaro Uribe,Fiscalía General de la Nación,Masacre,Acusaciones,Asesinado,Audiencia judicial",
   "lead": "Se trata de la segunda sesión de indagatoria que fue convocada luego de la Corte Constitucional se inhibiera para resolver un conflicto de jurisdicciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5056,7 +5056,7 @@
   "palabras": "Economía,Renta ciudadana,IVA,Departamento de Prosperidad Social,Subsidios",
   "lead": "Los hogares pueden consultar si hacen parte de los beneficiarios de estos subsidios a través de una plataforma oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5067,7 +5067,7 @@
   "palabras": "Economía,Ministerio del Trabajo,Salario Mínimo,Sectores económicos,sectores productores",
   "lead": "Economistas, abogados laboralistas y centros de pensamiento aportaron análisis sobre productividad, inflación e informalidad en una mesa de diálogo técnico...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5078,7 +5078,7 @@
   "palabras": "Actualidad,Ministerio de Ambiente,Acuerdo,Negociación,Proyectos ambientales,Sostenibilidad,Gobernación de Santander,Organizaciones sociales,Reforestación,páramo",
   "lead": "El Ministerio de Ambiente reconoció los acuerdos suscritos en 2021 y 2022, incluida la línea de delimitación concertada",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5089,6 +5089,446 @@
   "palabras": "Sociedad,Colombia,bebidas,establecimientos,sector turístico,hotelería,Antioquia,recomendaciones,bares,Alcohol",
   "lead": "Además de Alquímico, Colombia ubicó dos bares más dentro del listado global, ambos ubicados en Medellín. Ambos bares se encuentran en El Poblado.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "9 de noviembre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/9-de-noviembre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-11-09T19:45:00-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 9 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aeropuerto José María Córdova tendrá cierres temporales en noviembre por mantenimiento",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/aeropuerto-jose-maria-cordova-tendra-cierres-temporales-en-noviembre-por-mantenimiento-rg10",
+  "fecha": "2026-11-09T19:54:06-05:00",
+  "palabras": "Antioquia, Rionegro, Aeropuerto José María Córdoba, Noticias de hoy",
+  "lead": "Las interrupciones en las pistas sumarán 88 horas, por lo que se sugiere a los usuarios verificar el estado de sus vuelos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El presupuesto de 2027 mantiene sus vacíos, incluso si prospera la reforma fiscal: CARF",
+  "enlace": "https://www.bluradio.com/economia/el-presupuesto-de-2027-mantiene-sus-vacios-incluso-si-prospera-la-reforma-fiscal-carf-rg10",
+  "fecha": "2026-11-09T19:26:52-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "Factores como el personal, las pensiones, la salud, energía y el terremoto presionan un gasto sin cubrir, mientras un tercio del recaudo se va en intereses.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Juan Palau, actor de la 'Reina del Flow', se lanzó como cantante y estrenó su primer álbum: \"Un sueño\"",
+  "enlace": "https://www.bluradio.com/entretenimiento/actor-de-la-reina-del-flow-se-lanzo-como-cantante-y-estreno-su-primer-album-un-sueno-rs15",
+  "fecha": "2026-11-09T19:40:56-05:00",
+  "palabras": "Viral",
+  "lead": "El cantante habló sobre los momentos difíciles que marcaron su trayectoria, el apoyo de su familia, su paso por 'La Reina del Flow' y la madurez musical que refleja este proyecto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inflación aumentó 0,79 % en un año: Armenia, Bucaramanga y Medellín tuvieron el mayor incremento",
+  "enlace": "https://www.bluradio.com/economia/inflacion-aumento-0-79-en-un-ano-armenia-bucaramanga-y-medellin-tuvieron-el-mayor-incremento-rg10",
+  "fecha": "2026-11-09T19:25:33-05:00",
+  "palabras": "Inflación, Dane, Dane, Inflación, economía colombiana, inflación en Colombia",
+  "lead": "El IPC anual llegó al 6,30 %, mientras que la variación acumulada entre enero y octubre fue de 5,94 %, reportó el Dane.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Reconstrucción vial tras el terremoto requeriría $2,7 billones: MinTransporte",
+  "enlace": "https://www.bluradio.com/economia/reconstruccion-vial-tras-el-terremoto-requeriria-2-7-billones-mintransporte-rg10",
+  "fecha": "2026-11-09T19:44:03-05:00",
+  "palabras": "Terremoto hoy, Ministerio de Transporte",
+  "lead": "De los 113 puntos viales afectados, 103 ya tienen paso total y 10 continúan con problemas críticos que requieren obras de estabilización y reconstrucción.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A más de 25.000 personas no se les olvidó que Reykon sigue siendo el líder",
+  "enlace": "https://www.bluradio.com/entretenimiento/a-mas-de-25-000-personas-no-se-les-olvido-que-reykon-sigue-siendo-el-lider-rs15",
+  "fecha": "2026-11-09T19:57:38-05:00",
+  "palabras": "",
+  "lead": "Dos arenas llenas probaron que uno de los grandes pioneros del reguetón colombiano sigue en el corazón de miles de fans y de varios colegas que ven con respeto su trayectoria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Director de Nvidia con supuesta espía china: La Nube, programa completo 9 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/director-de-nvidia-con-supuesta-espia-china-la-nube-programa-completo-9-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-09T20:25:39-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 9 de noviembre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "SIC archiva investigación por presuntas prácticas anticompetitivas en contratación de helicópteros",
+  "enlace": "https://www.bluradio.com/nacion/sic-archiva-investigacion-por-presuntas-practicas-anticompetitivas-en-contratacion-de-helicopteros-rg10",
+  "fecha": "2026-11-09T20:01:17-05:00",
+  "palabras": "Superintendencia de Industria y Comercio, contratación helicópteros, helicóptero, helicópteros",
+  "lead": "La Superintendencia de Industria y Comercio dice que no había pruebas suficientes de direccionamiento contractual ni de acuerdos para beneficiar irregularmente a Helistar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Selección de Chile se prepara para enfrentar a Colombia en últimos amistoso del año",
+  "enlace": "https://www.bluradio.com/deportes/futbol/seleccion-de-chile-se-prepara-para-enfrentar-a-colombia-en-ultimos-amistoso-del-ano-cb20",
+  "fecha": "2026-11-09T20:04:58-05:00",
+  "palabras": "Selección Chile, Selección Colombia",
+  "lead": "El encuentro ante los cafeteros tiene carácter benéfico y la recaudación se destinará a los damnificados por el terremoto que afectó a ese país en agosto.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados de las loterías de Cundinamarca, Tolima, ColorLoto y Baloto Revancha HOY 9 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/10/resultados-de-las-loterias-de-cundinamarca-tolima-colorloto-y-baloto-revancha-hoy-9-de-noviembre/",
+  "fecha": "2026-11-09T20:39:38-05:00",
+  "palabras": "",
+  "lead": "Conozca los resultados y los números ganadores de los premios que entregan las loterías de Cundinamarca, Tolima, ColorLoto y Baloto Revancha para este martes 9 de noviembre.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Belinda y Danna sorprendieron con un beso durante el concierto de ‘Mentiras All Stars’",
+  "enlace": "https://caracol.com.co/2026/11/10/belinda-y-danna-sorprendieron-con-un-beso-durante-el-concierto-de-mentiras-all-stars/",
+  "fecha": "2026-11-09T20:39:32-05:00",
+  "palabras": "",
+  "lead": "Las cantantes protagonizaron uno de los momentos más comentados de la presentación en el Auditorio Nacional de Ciudad de México.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nemocón suspende clases presenciales en una escuela por problemas de calidad del aire",
+  "enlace": "https://caracol.com.co/2026/11/10/nemocon-suspende-clases-presenciales-en-una-escuela-por-problemas-de-calidad-del-aire/",
+  "fecha": "2026-11-09T20:06:47-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Educación suspendió las clases presenciales en la Institución Educativa Rural Departamental Patio Bonito, la medida se suma a las acciones preventivas adoptadas en la zona.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Panamá aumenta su tránsito de buques en el Canal de Panamá",
+  "enlace": "https://caracol.com.co/2026/11/10/panama-aumenta-su-transito-de-buques-en-el-canal-de-panama/",
+  "fecha": "2026-11-09T20:31:31-05:00",
+  "palabras": "",
+  "lead": "El Canal de Panamá aumentará su paso de buques a causa del fenómeno de El Niño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cancillería vuelve a denunciar “corbatas” en gobierno anterior: 322 contratos suscritos en 2 días",
+  "enlace": "https://caracol.com.co/2026/11/10/cancilleria-vuelve-a-denunciar-corbatas-en-gobierno-anterior-322-contratos-suscritos-en-2-dias/",
+  "fecha": "2026-11-09T20:10:37-05:00",
+  "palabras": "",
+  "lead": "Se trata de contratos firmados por más de $100.000 millones en el gobierno Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un joven de 17 años murió ahogado en un charco de San Rafael, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/10/un-joven-de-17-anos-murio-ahogado-en-un-charco-de-san-rafael-antioquia/",
+  "fecha": "2026-11-09T20:15:13-05:00",
+  "palabras": "",
+  "lead": "El menor ingresó al afluente y desapareció. Por ello fue necesario activar buzos expertos que recuperaron el cuerpo sin vida en lo profundo del charco.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno busca recursos para reconstruir las vías afectadas por el terremoto: necesita $2,7 billones",
+  "enlace": "https://caracol.com.co/2026/11/10/gobierno-busca-recursos-para-reconstruir-las-vias-afectadas-por-el-terremoto-necesita-27-billones/",
+  "fecha": "2026-11-09T18:25:00-05:00",
+  "palabras": "",
+  "lead": "Advirtió que el sector enfrenta más de $100 billones en sentencias, demandas y reclamaciones contra el Estado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Zulma Guzmán no fue imputada porque no se conectó a la audiencia virtual",
+  "enlace": "https://caracol.com.co/2026/11/09/zulma-guzman-no-fue-imputada-porque-no-se-conecto-a-la-audiencia-virtual/",
+  "fecha": "2026-11-09T11:35:00-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía busca imputarle los delitos de homicidio agravado y tentativa de homicidio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pronóstico IDEAM para esta semana: lista de regiones con fuertes lluvias del 9 al 13 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/10/pronostico-ideam-para-esta-semana-lista-de-regiones-con-fuertes-lluvias-del-9-al-13-de-noviembre/",
+  "fecha": "2026-11-09T20:05:28-05:00",
+  "palabras": "",
+  "lead": "El IDEAM emitió una alerta por lluvias de alta intensidad en varias regiones del país. Conozca el reporte oficial para los próximos días",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deicy Jiménez pidió aplazar declaración ante la Fiscalía y se aplazó hasta el 13 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/10/deicy-jimenez-pidio-aplazar-declaracion-ante-la-fiscalia-y-se-aplazo-hasta-el-13-de-noviembre/",
+  "fecha": "2026-11-09T19:57:21-05:00",
+  "palabras": "",
+  "lead": "Se trata de la mujer que denunció al expresidente Gustavo Petro porque presuntamente le habría dado contratos en diferente entidades del Estado a cambio de favores sexuales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan Palau presenta “33” su primer álbum: “No soy un género, soy una vibra”",
+  "enlace": "https://caracol.com.co/2026/11/10/juan-palau-presenta-33-su-primer-album-no-soy-un-genero-soy-una-vibra/",
+  "fecha": "2026-11-09T19:54:03-05:00",
+  "palabras": "",
+  "lead": "Este álbum cuenta con la premisa de contar momentos de gratitud y de cuidar el lenguaje de este álbum que va a estar enfocado hacia el amor.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Ellos son los violentos, ellos son los que dañan las protestas”: Carol Borda sobre Ley Anticapuchos",
+  "enlace": "https://caracol.com.co/2026/11/10/ellos-son-los-violentos-ellos-son-los-que-danan-las-protestas-carol-borda-sobre-ley-anticapuchos/",
+  "fecha": "2026-11-09T19:18:57-05:00",
+  "palabras": "",
+  "lead": "La representante a la cámara, habló sobre la Ley Anticapuchos y su papel en este proyecto de ley",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La IA en el aula: los alumnos “ya no pueden pensar por sí mismos”",
+  "enlace": "https://caracol.com.co/2026/11/10/la-ia-en-el-aula-los-alumnos-ya-no-pueden-pensar-por-si-mismos/",
+  "fecha": "2026-11-09T19:30:55-05:00",
+  "palabras": "",
+  "lead": "Estudios muestran claramente que si los jóvenes no utilizan la inteligencia artificial de forma adecuada, su rendimiento escolar puede desplomarse. Para los docentes, esto supone un desafío enorme.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla activa alerta amarilla y despliega red médica para la final de la Sudamericana",
+  "enlace": "https://caracol.com.co/2026/11/10/barranquilla-activa-alerta-amarilla-y-despliega-red-medica-para-la-final-de-la-sudamericana/",
+  "fecha": "2026-11-09T19:46:39-05:00",
+  "palabras": "",
+  "lead": "La ciudad contará con seis ambulancias, 14 médicos, cuatro enfermeras y una red de clínicas públicas y privadas para atender emergencias durante el evento deportivo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá devolverá el dinero de 567 comparendos a motociclistas por error en restricción de Halloween",
+  "enlace": "https://caracol.com.co/2026/11/10/bogota-devolvera-el-dinero-de-567-comparendos-a-motociclistas-por-error-en-restriccion-de-halloween/",
+  "fecha": "2026-11-09T19:44:10-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía dejará sin efecto las multas impuestas durante la noche del 29 de octubre, antes de que entrara en vigencia el decreto que restringía la circulación de motocicletas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Comunidad educativa protestó ante incertidumbre por anuncio de no continuar con colegio en Quindío",
+  "enlace": "https://caracol.com.co/2026/11/10/comunidad-educativa-protesto-ante-incertidumbre-por-anuncio-de-no-continuar-con-colegio-en-quindio/",
+  "fecha": "2026-11-09T19:31:06-05:00",
+  "palabras": "",
+  "lead": "Las autoridades departamentales evalúan las estrategias que permitan la continuidad en la formación académica de más de mil estudiantes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estratega de la campaña de Paloma Valencia habló de supuesta infiltración",
+  "enlace": "https://caracol.com.co/2026/11/10/estratega-de-la-campana-de-paloma-valencia-hablo-de-supuesta-infiltracion/",
+  "fecha": "2026-11-09T19:24:04-05:00",
+  "palabras": "",
+  "lead": "Luis Duque publicó un comunicado en el que se refirió a la versión de una presunta relación suya con el gobierno de Gustavo Petro que habría impactado en la campaña a de la también exsenadora del Centro Democrático.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Riña en el barrio La María dejó un herido con arma de fuego: hay un capturado",
+  "enlace": "https://caracol.com.co/2026/11/10/rina-en-el-barrio-la-maria-dejo-un-herido-con-arma-de-fuego-hay-un-capturado/",
+  "fecha": "2026-11-09T19:10:26-05:00",
+  "palabras": "",
+  "lead": "El presunto responsable quedó a disposición de la fiscalía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Galapa tendrá suspensión de energía este martes por obras en nuevo circuito eléctrico",
+  "enlace": "https://caracol.com.co/2026/11/10/galapa-tendra-suspension-de-energia-este-martes-por-obras-en-nuevo-circuito-electrico/",
+  "fecha": "2026-11-09T19:08:19-05:00",
+  "palabras": "",
+  "lead": "Air-e Intervenida avanzará en la construcción del circuito Caracolí 7. Los trabajos también provocarán interrupciones del servicio en sectores de Manatí y Barranquilla.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Julián Quintana: Petro no autorizó intervenir el Bronx",
+  "enlace": "https://www.lafm.com.co/politica/gustavo-petro-operativo-bronx-intervencion-julian-quintana-cti-416677",
+  "fecha": "2026-11-09T20:24:00-05:00",
+  "palabras": "Política,Investigaciones,Secuestros,Víctimas,Capturados,Órdenes de captura,organizaciones criminales,Narcotráfico,Homicidios,Alcaldía de Bogotá",
+  "lead": "Julián Quintana, exdirector del CTI, narra que la Alcaldía recibió videos de niñas esclavizadas y frenó la intervención.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Crimen de Juan Felipe Rincón: Fiscalía acusó a cinco presuntos implicados en tortura",
+  "enlace": "https://www.lafm.com.co/orden-publico/crimen-juan-felipe-rincon-fiscalia-acuso-a-cinco-presuntos-implicados-en-tortura-416675",
+  "fecha": "2026-11-09T20:08:00-05:00",
+  "palabras": "Orden Público,Tortura,Homicidios,Menores delincuentes,Medicina Legal,Fiscalía General de la Nación,imputan cargos,Investigaciones,actos violentos,Víctimas,Indagación preliminar",
+  "lead": "También fueron acusados por uso de menores para la comisión de delitos, ocultamiento y alteración de elemento material probatorio y soborno a testigo en la...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Agente de tránsito fue atacado en el centro de Medellín",
+  "enlace": "https://www.lafm.com.co/orden-publico/agente-de-transito-fue-atacado-a-golpes-y-con-un-cuchillo-en-el-centro-de-medellin-416674",
+  "fecha": "2026-11-09T20:05:00-05:00",
+  "palabras": "Orden Público,agente de tránsito,agresión,actos violentos,Medellín, Colombia,Secretaría de Movilidad",
+  "lead": "De acuerdo con la Secretaría, el presunto agresor ya estaba identificado: el 31 de octubre le inmovilizaron una motocicleta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Anulan 567 comparendos a motos por falla legal",
+  "enlace": "https://www.lafm.com.co/sociedad/567-comparendos-seran-anulados-416673",
+  "fecha": "2026-11-09T19:50:00-05:00",
+  "palabras": "Sociedad,Alcaldía de Bogotá,multa,Motociclistas",
+  "lead": "La Alcaldía reconoció que el Decreto 472 de 2026 entró en vigor un día después de los operativos del 29 de octubre. La Secretaría de Movilidad archivará la...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ordenan salida de tres generales en Arauca y Nariño",
+  "enlace": "https://www.lafm.com.co/orden-publico/ordenan-salida-tres-generales-ejercito-arauca-narino-colombia-416668",
+  "fecha": "2026-11-09T19:46:00-05:00",
+  "palabras": "Orden Público,Ejército Nacional,Ministerio de Defensa,Abelardo de la Espriella,Militares,Militares retirados",
+  "lead": "La FM confirmó que se trata de tres comandantes, uno de ellos de una División y otros dos de Brigadas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "De La Espriella anuncia plan de seguridad en Tunja",
+  "enlace": "https://www.lafm.com.co/politica/inversion-para-boyaca-y-medidas-de-seguridad-416670",
+  "fecha": "2026-11-09T19:29:00-05:00",
+  "palabras": "Política,Presidencia de la República,Tunja",
+  "lead": "Boyacá será el piloto nacional de los sistemas de vigilancia interconectados y recibirá un paquete de recursos para salud, educación, vivienda y el campo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Megaoperativos logran 96,95% de efectividad en capturas",
+  "enlace": "https://www.lafm.com.co/orden-publico/megaoperativos-cuatro-ciudades-efectividad-capturas-legalizadas-ataque-informatico-ministerio-justicia-416667",
+  "fecha": "2026-11-09T18:58:00-05:00",
+  "palabras": "Orden Público,Ministerio de Justicia,Mega operativo,Gobierno",
+  "lead": "Iván Cancino confirmó que el Ministerio de Justicia fue víctima de un ataque informático.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "JEP imputa a ex-Farc crímenes sin perdón judicial",
+  "enlace": "https://www.lafm.com.co/politica/11-excomandantes-imputados-por-crimnes-de-lesa-humanidad-416665",
+  "fecha": "2026-11-09T18:47:00-05:00",
+  "palabras": "Política,JEP,imputan cargos,Crimen de lesa humanidad,Farc EP",
+  "lead": "La decisión se fundamenta en los relatos de 743 víctimas acreditadas, entre ellas mujeres, niñas, niños y personas con orientaciones sexuales e identidades...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El euro subió 5,41 % y cerró la jornada en $3.669,69",
+  "enlace": "https://www.lafm.com.co/economia/euro-subio-cerro-jornada-colombia-416663",
+  "fecha": "2026-11-09T18:28:00-05:00",
+  "palabras": "Economía,Euros,Dólar,Tasa Representativa del Mercado,Dólar en Colombia,Monedas,Unión Europea,Viajes internacionales",
+  "lead": "Algunas entidades como Bank of America y Bankinter concuerdan en que el euro tendrá una recuperación moderada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Qué se sabe de la muerte de Ramsés Felipe Vargas Quevedo?",
+  "enlace": "https://www.lafm.com.co/orden-publico/habitantes-barrio-paraiso-piden-intervencion-autoridades-tras-hallazgo-hombre-chapinero-alto-416660",
+  "fecha": "2026-11-09T17:56:00-05:00",
+  "palabras": "Orden Público,Inseguridad,Hallazgo de cuerpos,Chapinero,Alcaldía de Bogotá,Actividad judicial,Fiscalía General de la Nación",
+  "lead": "Mientras los vecinos piden seguridad tras el hallazgo, las autoridades investiga un posible impacto de bala.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Denuncian presunta puerta giratoria entre IDRD y Sencia",
+  "enlace": "https://www.lafm.com.co/actualidad/concejal-denuncia-presunta-puerta-giratoria-entre-el-idrd-sencia-contrato-campin-416650",
+  "fecha": "2026-11-09T16:38:00-05:00",
+  "palabras": "Actualidad,Concejo de Bogotá,contrato,Eventos presenciales,Alcaldía de Bogotá,Carlos Fernando Galán",
+  "lead": "Quintero denuncia posible puerta giratoria IDRD–Sencia en concesión del El Campín y radicará pruebas ante Personería, Procuraduría y Fiscalía.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
