@@ -636,6 +636,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Chaparral Tolima declaró la calamidad pública ante la actividad sísmica registrada en la zona.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:37",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La encuesta de Atlas Intel muestra una favorabilidad del presidente Gustavo Petro del 54 por ciento y una desfavorabilidad del 48 por ciento.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:37",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Petrobras ha prestado 2.000 millones de dólares a Ecopetrol a tasas entre 6,25 y 5,125 por ciento.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:37",
+   "quien": "Néstor Morales (Conductor de Mañanas Blu)",
+   "que": "La revista The Economist publicó un balance de los primeros 100 días de gobierno del presidente Gustavo Petro, describiéndolo como un populista de derecha.",
+   "resaltar": false
   }
  ],
  "avisos": [
