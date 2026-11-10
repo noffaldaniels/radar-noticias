@@ -579,7 +579,7 @@
   "palabras": "Floridablanca, Homicidios, Bucaramanga, sicariato, Santander, Policía Nacional, Blu Radio, Noticias de hoy,  Floridablanca",
   "lead": "El hecho violento ocurrió en el barrio El Carmen, frente a un establecimiento de comidas rápidas y cerca de los semáforos de la vía que comunica con el barrio La Cumbre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo de la Espriella confirmó la noticia y expresó sus condolencias al exgobernador de Bolívar y a sus familiares",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "Durante su visita, aseguró que los responsables de secuestros, homicidios y atentados deberán responder ante la justicia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Bajo el lema “Amemos a Colombia”, la organización apela a sus 70 años de trayectoria social",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "El hermano de la reconocida periodista, Leonardo Betancur, alertó que este 10 de noviembre “inicia el tercer día de hospitalización en la Clínica Palermo” de su familiar, “a la espera de un nefrólogo que, curiosamente, no aparece”.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -633,6 +633,281 @@
   "fecha": "2026-11-10T06:17:43-05:00",
   "palabras": "",
   "lead": "El gerente de la compañía aseguró que todavía no existen informes técnicos que permitan establecer las causas",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Niño santandereano murió en un accidente mientras practicaba motocross en Estados Unidos",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nino-santandereano-murio-en-un-accidente-mientras-practicaba-motocross-en-estados-unidos-rg10",
+  "fecha": "2026-11-10T06:47:48-05:00",
+  "palabras": "Bucaramanga, Santander, Estados Unidos, Blu Radio",
+  "lead": "La familia de Ryan Addiel Mantilla Angarita busca ayuda económica para repatriar su cuerpo desde Denver, Colorado, donde ocurrió el accidente.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombianos podrían dejar de pagar importante impuesto: esta sería la fecha",
+  "enlace": "https://www.bluradio.com/economia/colombianos-podrian-dejar-de-pagar-importante-impuesto-esta-seria-la-fecha-so35",
+  "fecha": "2026-11-10T06:35:34-05:00",
+  "palabras": "Impuestos de renta, Abelardo De La Espriella",
+  "lead": "La propuesta también elevaría el patrimonio mínimo para quedar obligado a declarar y pagar este tributo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comienzan las negociaciones Rusia-Ucrania-EEUU en Abu Dabi",
+  "enlace": "https://www.bluradio.com/mundo/comienzan-las-negociaciones-rusia-ucrania-eeuu-en-abu-dabi-cb20",
+  "fecha": "2026-11-10T06:31:08-05:00",
+  "palabras": "Ucrania, Rusia, Estados Unidos",
+  "lead": "Al comienzo de la reunión, el jefe negociador ruso y asesor presidencial Vladímir Medinski agradeció a los anfitriones \"por su hospitalidad\" y a la parte estadounidense \"por sus esfuerzos pacificadores\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Trump defiende al director de Nvidia en caso de una presunta espía china y promete indagar",
+  "enlace": "https://www.bluradio.com/mundo/trump-defiende-al-director-de-nvidia-en-caso-de-una-presunta-espia-china-y-promete-indagar-cb20",
+  "fecha": "2026-11-10T06:47:33-05:00",
+  "palabras": "Donald Trump, Estados Unidos",
+  "lead": "\"En primer lugar, me sorprendí, porque lo considero una persona de gran calidad\", narró en una rueda de prensa improvisada en la Casa Blanca.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo parte médico de soldados heridos en ataque con drones; estables en Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nuevo-parte-medico-de-soldados-heridos-en-ataque-con-drones-estables-en-barrancabermeja-rg10",
+  "fecha": "2026-11-10T07:01:53-05:00",
+  "palabras": "Santander, Ejército Nacional, Drones, Blu Radio, Noticias de hoy",
+  "lead": "Los seis militares no presentan condiciones de gravedad y permanecen en proceso de recuperación.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿En qué queda investigación contra Uribe por paramilitarismo tras decisión de Corte Constitucional?",
+  "enlace": "https://www.bluradio.com/opinion/en-que-queda-investigacion-contra-uribe-por-paramilitarismo-tras-decision-de-corte-constitucional-pr30",
+  "fecha": "2026-11-10T06:58:44-05:00",
+  "palabras": "Álvaro Uribe Vélez, Corte Constitucional, Justicia",
+  "lead": "En cualquier caso, la puerta no quedó cerrada definitivamente para una nueva solicitud en el mismo sentido, que eventualmente podría llegar en otra oportunidad a la Corte Constitucional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dumek Turbay celebró la venta de Real Cartagena y confirmó su respaldo al proyecto",
+  "enlace": "https://caracol.com.co/2026/11/10/dumek-turbay-celebro-la-venta-de-real-cartagena-y-confirmo-su-respaldo-al-proyecto/",
+  "fecha": "2026-11-10T06:54:57-05:00",
+  "palabras": "",
+  "lead": "El Distrito acompañará esta nueva etapa",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asonal Judicial en el Tolima protestará contra la sobrecarga laboral",
+  "enlace": "https://caracol.com.co/2026/11/10/asonal-judicial-en-el-tolima-protestara-contra-la-sobrecarga-laboral/",
+  "fecha": "2026-11-10T06:53:20-05:00",
+  "palabras": "",
+  "lead": "Según Kirov Rojas, presidente de Asonal Judicial en el Tolima, la reducción del presupuesto para el año 2027 afectará la administración de justicia del país debido a que no se podrá ampliar la planta de personal, pese a la congestión judicial que existe.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió niño santandereano en accidente de motocross en EE.UU.; familia pide ayuda para repatriarlo",
+  "enlace": "https://caracol.com.co/2026/11/10/murio-nino-santandereano-en-accidente-de-motocross-en-eeuu-familia-pide-ayuda-para-repatriarlo/",
+  "fecha": "2026-11-10T06:44:28-05:00",
+  "palabras": "",
+  "lead": "El pequeño, de siete años, sufrió graves lesiones cerebrales luego de que una motocicleta cayera sobre él durante una práctica de motocross en Denver, Colorado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Huila registra baja donación de órganos mientras aumenta la lista de pacientes en espera",
+  "enlace": "https://caracol.com.co/2026/11/10/huila-registra-baja-donacion-de-organos-mientras-aumenta-la-lista-de-pacientes-en-espera/",
+  "fecha": "2026-11-10T06:48:44-05:00",
+  "palabras": "",
+  "lead": "En el departamento hay entre 60 y 70 personas a la espera de un riñón y las negativas familiares siguen siendo un obstáculo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena viajará a Mosquera sin el apoyo de su hinchada por decisión de las autoridades",
+  "enlace": "https://caracol.com.co/2026/11/10/real-cartagena-viajara-a-mosquera-sin-el-apoyo-de-su-hinchada-por-decision-de-las-autoridades/",
+  "fecha": "2026-11-10T06:45:57-05:00",
+  "palabras": "",
+  "lead": "Real Cundinamarca prohibió el ingreso de aficionados visitantes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Llegan nuevos equipos Biomig para agilizar el ingreso de viajeros al Cortissoz",
+  "enlace": "https://caracol.com.co/2026/11/10/llegan-nuevos-equipos-biomig-para-agilizar-el-ingreso-de-viajeros-al-cortissoz/",
+  "fecha": "2026-11-10T06:45:34-05:00",
+  "palabras": "",
+  "lead": "También se habilitarán 10 puestos de Migración para reducir los tiempos de espera de los viajeros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El barril de Brent baja de 90 dólares por primera vez desde agosto",
+  "enlace": "https://caracol.com.co/2026/11/10/el-barril-de-brent-baja-de-90-dolares-por-primera-vez-desde-agosto/",
+  "fecha": "2026-11-10T06:44:00-05:00",
+  "palabras": "",
+  "lead": "Su equivalente estadounidense, el West Texas Intermediate, caía el martes 2,08% a 85,04 dólares el barril.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Teófilo Gutiérrez: “Real Madrid no ganó títulos en el último año; Junior ha ganado dos″",
+  "enlace": "https://caracol.com.co/2026/11/10/teofilo-gutierrez-real-madrid-no-gano-titulos-en-el-ultimo-ano-junior-ha-ganado-dos/",
+  "fecha": "2026-11-10T06:37:54-05:00",
+  "palabras": "",
+  "lead": "El delantero de 41 años disputó su último partido en Barranquilla como jugador del Junior.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Afinia anunció operativos contra comercios que roban energía en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/10/afinia-anuncio-operativos-contra-comercios-que-roban-energia-en-cartagena/",
+  "fecha": "2026-11-10T06:41:09-05:00",
+  "palabras": "",
+  "lead": "La empresa intensificará los controles en establecimientos comerciales e industriales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un Airbus A350-1000ULR batió récord mundial de distancia recorrida por un avión comercial: así fue",
+  "enlace": "https://caracol.com.co/2026/11/10/un-airbus-a350-1000ulr-batio-record-mundial-de-distancia-recorrida-por-un-avion-comercial/",
+  "fecha": "2026-11-10T06:40:34-05:00",
+  "palabras": "",
+  "lead": "La aeronave permaneció más de 24 horas en el aire, atravesó tres continentes y dos océanos, y transportó únicamente a 13 personas como parte de un programa de pruebas. El nuevo modelo permitirá a Qantas operar vuelos directos entre Australia, Londres y Nueva York a partir de finales de 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La nueva Knéset de Israel arrancará con pugna presidencial e investigará lo ocurrido el 7 de octubre",
+  "enlace": "https://caracol.com.co/2026/11/10/la-nueva-kneset-de-israel-arrancara-con-pugna-presidencial-e-investigara-lo-ocurrido-el-7-de-octubre/",
+  "fecha": "2026-11-10T06:40:10-05:00",
+  "palabras": "",
+  "lead": "El presidente Isaac Herzog encargó al líder opositor Gadi Eisenkot formar Gobierno, tras recibir el respaldo de 67 diputados frente a los 46 que apoyaron a Benjamín Netanyahu.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía de España apoya extraditar a EE.UU. al filántropo Chambers Jr por delitos de terrorismo",
+  "enlace": "https://caracol.com.co/2026/11/10/fiscalia-de-espana-apoya-extraditar-a-eeuu-al-filantropo-chambers-jr-por-delitos-de-terrorismo/",
+  "fecha": "2026-11-10T06:36:30-05:00",
+  "palabras": "",
+  "lead": "La vista de extradición se celebra este viernes y en ella el Ministerio Público apoyará la entrega del filántropo, mientras que el equipo de abogados que le asiste en España, del despacho del exjuez Baltasar Garzón, Ilocad, mostrará su rechazo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Lonja asegura que Medellín no es la ciudad más cara para comprar vivienda en Colombia",
+  "enlace": "https://caracol.com.co/2026/11/10/la-lonja-asegura-que-medellin-no-es-la-ciudad-mas-cara-para-comprar-vivienda-en-colombia/",
+  "fecha": "2026-11-10T06:34:19-05:00",
+  "palabras": "",
+  "lead": "El Gremio Inmobiliario adelantó un estudio en las principales ciudades del país para verificar el valor de la vivienda nueva y usada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió un agente de la Policía Nacional de España en una explosión en Oviedo",
+  "enlace": "https://caracol.com.co/2026/11/10/murio-un-agente-de-la-policia-nacional-de-espana-en-una-explosion-en-oviedo/",
+  "fecha": "2026-11-10T06:32:47-05:00",
+  "palabras": "",
+  "lead": "Los agentes acudieron a la vivienda en donde ocurrió la explosión tras producirse un tiroteo en el que una mujer resultó herida, sobre las 7:00 horas de este martes.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno español aprobó un decreto de medidas urgentes para reforzar la seguridad ferroviaria",
+  "enlace": "https://caracol.com.co/2026/11/10/gobierno-espanol-aprobo-un-decreto-de-medidas-urgentes-para-reforzar-la-seguridad-ferroviaria/",
+  "fecha": "2026-11-10T06:30:14-05:00",
+  "palabras": "",
+  "lead": "Tras el grave accidente de alta velocidad en Urda (Toledo) que dejó 69 fallecidos y la huelga convocada por los maquinistas, el Ministerio de Transportes quiere dar respuesta a las reivindicaciones de las organizaciones sindicales, apunta en un comunicado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano | martes 10 de noviembre 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-martes-10-de-noviembre-2026-416693",
+  "fecha": "2026-11-10T06:51:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este martes en La FM.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El contexto del nuevo video de Deicy Jiménez y Gustavo Petro que reveló Darcy Quinn",
+  "enlace": "https://www.lafm.com.co/politica/contexto-nuevo-video-deicy-jimenez-gustavo-petro-darcy-quinn-416698",
+  "fecha": "2026-11-10T06:37:00-05:00",
+  "palabras": "Política,Irregularidades en contratos,Conflicto de intereses,Relación sentimental,Gustavo Petro,María Jimena Duzán,Investigaciones,Fiscalía General de la Nación,periodismo investigativo,Periodistas,Acusaciones",
+  "lead": "Darcy Quinn reveló nuevos detalles del caso de Gustavo Petro y Deicy Jiménez, a partir de un video y chats que mencionan solicitudes de contratos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Víctimas del conflicto llevan sus historias a teatro en Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/victimas-conflicto-armado-historias-teatro-muestra-gratuita-bogota-416697",
+  "fecha": "2026-11-10T06:34:00-05:00",
+  "palabras": "Sociedad,victimas del conflicto armado,Proceso de Paz,Reconciliación,Bogotá,Teatro,Obras de teatro,Eventos presenciales,Desplazamiento forzado,Cultura,Artistas",
+  "lead": "Bogotá presenta el martes 10/11 a las 5 pm en El Ensueño un montaje con 97 víctimas: teatro, música y danza por la paz. Entrada gratis.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Miloto cayó en Barranquilla: este fue el numero ganador",
+  "enlace": "https://www.lafm.com.co/sociedad/miloto-numero-ganador-cayo-en-barranquilla-416696",
+  "fecha": "2026-11-10T06:27:00-05:00",
+  "palabras": "Sociedad,Colombia,Apuestas,Barranquilla,Coljuegos",
+  "lead": "Es la cuarta vez que el 'pez gordo' cae en la capital del Atlántico en la historia del juego de azar.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
