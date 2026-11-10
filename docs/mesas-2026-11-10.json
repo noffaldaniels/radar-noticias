@@ -1,5 +1,27 @@
 {
- "puntos": [],
+ "puntos": [
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:57",
+   "quien": "Oyente \u0000",
+   "que": "Tres meses despu&eacute;s de la misi&oacute;n Milagro en Pereira, los servicios no funcionan y se deben demoler muchos sectores en Pereira y Dosquebradas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:57",
+   "quien": "Alvaro Uribe",
+   "que": "El expresidente respondio a la ley de rescate fiscal del gobierno y cuestion&oacute; el plan para enfrentar la situaci&oacute;n financiera del pa&iacute;s.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "05:57",
+   "quien": "Mark Pocan",
+   "que": "El congresista dem&oacute;crata por Wisconsin se refiri&oacute; a la carta en la que se opone junto a otros 18 congresistas a cualquier apoyo por parte de Estados Unidos a la reanudaci&oacute;n de la fumigaci&oacute;n a&eacute;rea en Colombia.",
+   "resaltar": false
+  }
+ ],
  "avisos": [
   "Blu Radio: la IA no respondió de 05:47 a 05:57 (sí hubo audio)",
   "La FM: la IA no respondió de 05:47 a 05:57 (sí hubo audio)"
