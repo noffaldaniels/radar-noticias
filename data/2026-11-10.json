@@ -3021,7 +3021,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Valentina, de 17 años, tiene un gran tumor en su cuello que le impide poder hablar, comer y hasta respirar. Su salud se deteriora cada día. Permanece hospitalizada en Barranquilla.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3032,7 +3032,7 @@
   "palabras": "Cigarrillo, Salud",
   "lead": "Red PaPaz, la Liga Colombiana Contra el Cáncer, Fundación Anáas, ReCeTa Colombia y NATTI pidieron al Congreso mantener el texto aprobado por el Senado durante la conciliación del proyecto de ley.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3043,7 +3043,7 @@
   "palabras": "Dian",
   "lead": "Los contribuyentes pueden pagar intereses del 4,5 % anual y reducir las sanciones al 15 % de su valor.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3054,7 +3054,7 @@
   "palabras": "Bogotá",
   "lead": "Más de 90 artistas y personas víctimas del conflicto armado se reunirán este 10 de noviembre en el Teatro El Ensueño, en Ciudad Bolívar. Habrá teatro, música, danza, pintura y otras expresiones artísticas con las que buscan convertir sus experiencias en mensajes de memoria, convivencia y paz.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3065,7 +3065,7 @@
   "palabras": "Noticias de hoy, Huila, Seguridad ciudadana, Robos",
   "lead": "La mujer fue despojada de su dinero cuando se disponía a realizar una consignación. Autoridades investigan el caso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3076,7 +3076,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Con esta imagen, las autoridades buscan dar con su paradero y hacerlo responder por intento de homicidio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3087,7 +3087,7 @@
   "palabras": "Bogotá, Feminicidio, Violencia de Género, Abuso sexual",
   "lead": "La preocupación de la madre está relacionada con que, pese a la sentencia por el feminicidio de la menor de edad en Bogotá, el condenado, quien es su hermanastro, no ha sido capturado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3098,7 +3098,7 @@
   "palabras": "",
   "lead": "La firma se realizó durante el Primer Encuentro Interinstitucional para la Protección de la Niñez, en el que se reunieron comisarios, defensores y jueces de familia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3109,7 +3109,7 @@
   "palabras": "Feminicidio, Bogotá",
   "lead": "Los hechos por los que es investigado ocurrieron durante la madrugada del 17 de octubre, cuando Vanessa Vera se encontraba departiendo con varios vecinos en un barrio de la localidad de Usaquén, en Bogotá.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3120,7 +3120,7 @@
   "palabras": "",
   "lead": "La ampliación y modernización de la terminal busca elevar su capacidad de 7 a 11 millones de pasajeros",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3131,7 +3131,7 @@
   "palabras": "",
   "lead": "La mujer sobrevivió a tres paros cardiorrespiratorios, sufrió graves lesiones y tuvo que acudir a tutelas para recibir atención médica",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3142,7 +3142,7 @@
   "palabras": "",
   "lead": "La gran mayoría de los partidos se estarán disputando el próximo sábado 14 de noviembre.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3153,7 +3153,7 @@
   "palabras": "",
   "lead": "La delegación antioqueña consiguió 26 medallas de oro, 25 de plata y 17 de bronce en los Juegos Sudamericanos realizados en Argentina.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3164,7 +3164,7 @@
   "palabras": "",
   "lead": "La Gobernación de Antioquia ha destinado más de $7.200 millones para recuperar viviendas afectadas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3175,7 +3175,7 @@
   "palabras": "",
   "lead": "Invias traslado la responsabilidad a la entidad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3186,7 +3186,7 @@
   "palabras": "",
   "lead": "20 gestoras sociales del país se reunieron en Santander para construir una hoja de ruta que permita mantener los proyectos sociales como empalme para los cambios de gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3197,7 +3197,7 @@
   "palabras": "",
   "lead": "El señalado cabecilla de una banda criminal habría escapado de un resguardo indígena en el Valle del Cauca. Fue expulsado de Panamá y ahora enfrenta un nuevo proceso por fuga de presos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3208,7 +3208,7 @@
   "palabras": "",
   "lead": "English LesSongs ofrece lecciones interactivas de pronunciación, vocabulario y gramática a través de YouTube. La iniciativa cuenta con diez clases gratuitas que incluyen karaoke y ejercicios para evaluar lo aprendido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3219,7 +3219,7 @@
   "palabras": "",
   "lead": "A través de MUPAPA, estudiantes del corregimiento de La Peña, en Sabanalarga, participan en actividades de investigación científica y educación ambiental. Su semillero Xilópalos está nominado a los premios GEMAS.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3230,7 +3230,7 @@
   "palabras": "",
   "lead": "Después de nueve años de la tragedia en Mocoa, las viviendas siguen sin ser entregadas, los proyectos sin terminar por falta de ejecución y gestión gubernamental.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3241,7 +3241,7 @@
   "palabras": "",
   "lead": "284 asesinatos en 32 masacres se perpetraron en los Montes de María.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3252,7 +3252,7 @@
   "palabras": "",
   "lead": "Luis Alfonso Torres combina su trabajo como vigilante con la preparación y venta de postres. A través de su emprendimiento, Luis Postres, busca hacer crecer su negocio y cumplir su sueño de tener un local propio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3263,7 +3263,7 @@
   "palabras": "",
   "lead": "Siguen siendo bastantes las víctimas del terremoto en Colombia que están esperando apoyo del gobierno. A esto se le suma la tardanza de las aseguradoras en desembolsar las indemnizaciones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3274,7 +3274,7 @@
   "palabras": "",
   "lead": "En Caracol Radio le contamos las razones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3285,7 +3285,7 @@
   "palabras": "",
   "lead": "El nuevo integrante de la familia HONOR 600 Series aterriza con protección IP68, IP69 e IP69K y una cámara principal de 108 MP capaz de convertir fotos estáticas en secuencias cinematográficas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3296,7 +3296,7 @@
   "palabras": "Política,Financiamiento,Partidos políticos,Partido político,Centro Democrático,Partido Conservador,Cambio Radical,Alianza Verde,Partido de la U,Cámara de Representantes,Elecciones en Colombia",
   "lead": "En total las colectividades recibirán más de 38.000 millones de pesos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3307,7 +3307,7 @@
   "palabras": "Política,Icfes,Posesión del cargo,Renuncia de funcinarios,Cargos gerenciales",
   "lead": "El instituto, encargado de las pruebas Saber, quedó sin cabeza y la Presidencia aún no publica la hoja de vida de quien asumiría la dirección.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3318,6 +3318,446 @@
   "palabras": "Sociedad,Bogotá,Museos,Eventos presenciales,Alcaldía de Bogotá,Patrimonio cultural,Cultura,horarios,Patrimonio Cultural Inmaterial,Cultura ciudadana",
   "lead": "Este 13 de noviembre, Bogotá abre 80+ museos gratis con la Noche de Museos 2026: 200 actividades y el lema “Museos uniendo un mundo dividido”.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Su carro podría transmitir olores según publicidades en carretera: así funciona la curiosa propuesta",
+  "enlace": "https://www.bluradio.com/motor/su-carro-podria-transmitir-olores-segun-publicidades-en-carretera-asi-funciona-la-curiosa-propuesta-so35",
+  "fecha": "2026-11-10T14:00:40-05:00",
+  "palabras": "Carros, Publicidad, Tecnología",
+  "lead": "Sony propuso una patente que busca que los carros puedan detectar anuncios en carretera y liberen olores relacionados con la publicidad, incluso según la edad de los pasajeros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día, consulte el resultado del último sorteo de hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-consulte-el-resultado-del-ultimo-sorteo-de-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T13:39:36-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano día",
+  "lead": "El chance Sinuano Día realiza sorteos todos los días a las 2:30 p. m. Consulte el resultado de este martes 10 de noviembre de 2026, verifique las cifras ganadoras y conozca las modalidades de apuesta y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Día, consulte el resultado del último sorteo de hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-dia-consulte-el-resultado-del-ultimo-sorteo-de-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T13:51:37-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Caribeña día",
+  "lead": "El chance Caribeña Día realiza sus sorteos de lunes a sábado a las 2:30 p. m. Consulte el número ganador de este martes 10 de noviembre de 2026, revise las modalidades de apuesta y conozca los requisitos para cobrar un eventual premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inflación en Barranquilla: el impacto se refleja hasta en el precio del queso y el sancocho",
+  "enlace": "https://www.bluradio.com/regiones/caribe/inflacion-en-barranquilla-el-impacto-se-refleja-hasta-en-el-precio-del-queso-y-el-sancocho-rg10",
+  "fecha": "2026-11-10T13:32:17-05:00",
+  "palabras": "",
+  "lead": "El valor de los arriendos también se ha incrementado hasta en un 8% a lo largo de este año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué sectores quedarían más golpeados por la ley de ajuste?: Mañanas Blu, 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/que-sectores-quedarian-mas-golpeados-por-la-ley-de-ajuste-mananas-blu-10-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-10T14:04:38-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 10 de noviembre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Avanza reconstrucción de los primeros 12.000 hogares en el Valle, tres meses después del terremoto",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/avanza-reconstruccion-de-los-primeros-12-000-hogares-en-el-valle-tres-meses-despues-del-terremoto-rg10",
+  "fecha": "2026-11-10T14:05:13-05:00",
+  "palabras": "",
+  "lead": "La gobernadora Dilian Francisca Toro dijo que la meta es entregar 5.426 viviendas nuevas y ayudas para el mejoramiento de 33.810 viviendas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luz Stella Murgas es la nueva presidenta de la Asociación Nacional de Empresarios de Colombia, ANDI",
+  "enlace": "https://www.bluradio.com/economia/luz-stella-murgas-es-la-nueva-presidenta-de-la-asociacion-nacional-de-empresarios-de-colombia-andi-rg10",
+  "fecha": "2026-11-10T13:45:42-05:00",
+  "palabras": "ANDI",
+  "lead": "Es la primera mujer elegida para ese cargo en 70 años de la asociación. Murgas llega en reemplazo de Bruce Mac Master, quien salió del cargo el pasado primero de octubre, tras 13 años frente al gremio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Critican a Invías por mal estado de vía Medellín - Bogotá: denuncian tramo con casi 1.000 huecos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/mal-estado-de-la-via-medellin-bogota-habria-ocasionado-muerte-de-docente-del-pascual-bravo-rg10",
+  "fecha": "2026-11-10T13:54:35-05:00",
+  "palabras": "Medellín",
+  "lead": "La tragedia reactivó duras críticas contra el Invías por la falta de mantenimiento en un corredor donde se reportan casi 1.000 huecos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chocó enfrenta otro reto tras 3 meses del terremoto: recuperar vías requiere 1 billón de pesos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/choco-enfrenta-otro-reto-tras-3-meses-del-terremoto-recuperar-vias-requiere-1-billon-de-pesos-rg10",
+  "fecha": "2026-11-10T14:29:26-05:00",
+  "palabras": "Terremoto hoy, Chocó, Gobernación de Chocó, Noticias de hoy",
+  "lead": "Minstransporte indicó que de los 2,7 billones que necesita el país para reconstruir las vías afectadas por el sismo, el 37% debe ser destinado solo al Chocó.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inflación golpea la canasta familiar en Medellín: ¿qué productos subieron de precio?",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/inflacion-golpea-la-canasta-familiar-en-medellin-que-productos-subieron-de-precio-rg10",
+  "fecha": "2026-11-10T14:20:07-05:00",
+  "palabras": "Medellín, Inflación, Dane, Noticias de hoy",
+  "lead": "Por tercer mes consecutivo, la ciudad supera el 7% de inflación y se ubica con el mayor índice en el país en el cálculo anual, junto con Armenia y Bucaramanga superaron ese porcentaje.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos personas fallecieron tras la explosión de una polvorería en zona rural de Caldas, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/10/dos-personas-fallecieron-tras-la-explosion-de-una-polvoreria-en-zona-rural-de-caldas-antioquia/",
+  "fecha": "2026-11-10T14:25:17-05:00",
+  "palabras": "",
+  "lead": "La emergencia se reportó en la vereda Salinas hasta donde llegaron bomberos, policía y funcionarios de la administración municipal.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Pulso del Fútbol, 10 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/10/el-pulso-del-futbol-10-de-noviembre-de-2026/",
+  "fecha": "2026-11-10T14:18:09-05:00",
+  "palabras": "",
+  "lead": "El Pulso del Fútbol destaca la carrera de Teófilo Gutiérrez en el balompié y su aporte al fútbol colombiano",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinComercio felicitó a Luz Stella Murgas por su llegada a Andi: dispuesto a trabajar articuladamente",
+  "enlace": "https://caracol.com.co/2026/11/10/mincomercio-felicito-a-luz-stella-murgas-por-su-llegada-a-andi-dispuesto-a-trabajar-articuladamente/",
+  "fecha": "2026-11-10T14:05:36-05:00",
+  "palabras": "",
+  "lead": "Mauricio Gómez, jefe de la cartera de comercio, celebró esta designación. Por su parte, Carlos Suárez, presidente de la junta directiva de Ecopetrol, afirmó que ella tiene una nueva visión de la relación gremio-gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Republicanos cierran investigación sobre Epstein y descartan implicación de Trump",
+  "enlace": "https://caracol.com.co/2026/11/10/republicanos-cierran-investigacion-sobre-epstein-y-descartan-implicacion-de-trump/",
+  "fecha": "2026-11-10T13:58:33-05:00",
+  "palabras": "",
+  "lead": "Tras 15 meses de indagaciones, el Comité de Supervisión de la Cámara de Representantes publicó un informe de 136 páginas que señala fallas de las autoridades en el manejo del caso. Los demócratas rechazan las conclusiones y buscan que un fiscal especial investigue al presidente.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Horóscopo del profesor Salomón HOY 10 de noviembre 2026: las cosas empezarán a mejorar para Virgo",
+  "enlace": "https://caracol.com.co/2026/11/10/horoscopo-del-profesor-salomon-hoy-10-de-noviembre-2026-las-cosas-empezaran-a-mejorar-para-virgo/",
+  "fecha": "2026-11-10T13:37:02-05:00",
+  "palabras": "",
+  "lead": "El profesor Salomón compartió las predicciones del tarot y el horóscopo para este 10 de noviembre de 2026. Descubra qué le deparan los astros a su signo en el plano económico, además de los números de la suerte para esta jornada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luz Stella Murgas fue elegida presidente de la Andi: la primera mujer en ocupar el cargo",
+  "enlace": "https://caracol.com.co/2026/11/10/luz-stella-murgas-fue-elegida-como-presidente-de-la-andi-la-primera-mujer-en-ocupar-el-cargo/",
+  "fecha": "2026-11-10T13:20:40-05:00",
+  "palabras": "",
+  "lead": "La nueva líder del gremio de los empresarios es abogada y venía de la presidencia de Naturgas. Fuentes señalan que el Gobierno le hizo saber a la junta del gremio de empresarios que ella era su candidata.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Adultos mayores, cuidadoras y habitantes de Hogar de Paso Segundas Oportunidades estarán en el Bando",
+  "enlace": "https://caracol.com.co/2026/11/10/adultos-mayores-cuidadoras-y-habitantes-de-hogar-de-paso-segundas-oportunidades-estaran-en-el-bando/",
+  "fecha": "2026-11-10T13:38:13-05:00",
+  "palabras": "",
+  "lead": "Toda la coordinación irá por cuenta del Gobierno Distrital",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "España pide suspender TikTok tras detectar miles de videos de abuso sexual infantil",
+  "enlace": "https://caracol.com.co/2026/11/10/espana-pide-suspender-tiktok-tras-detectar-miles-de-videos-de-abuso-sexual-infantil/",
+  "fecha": "2026-11-10T13:37:45-05:00",
+  "palabras": "",
+  "lead": "La ministra de Juventud e Infancia solicitó a la autoridad de protección de datos que evalúe la suspensión temporal de la plataforma,",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Franco Pérez, hijo de Omar Pérez, convocado por Argentina tras salir de la convocatoria de Colombia",
+  "enlace": "https://caracol.com.co/2026/11/10/franco-perez-hijo-de-omar-perez-convocado-por-argentina-tras-salir-de-la-convocatoria-de-colombia/",
+  "fecha": "2026-11-10T13:33:08-05:00",
+  "palabras": "",
+  "lead": "El mediocampista de Boca Juniors salió de la convocatoria definitiva de 23 jugadores de Colombia, días después, apareció en la lista de la Albiceleste.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DIMAR refuerza controles marítimos para Festival Náutico en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/10/dimar-refuerza-controles-maritimos-para-festival-nautico-en-cartagena/",
+  "fecha": "2026-11-10T13:33:04-05:00",
+  "palabras": "",
+  "lead": "La Autoridad Marítima Colombiana hizo un llamado a los propietarios de embarcaciones, tripulantes y asistentes para que cumplan las medidas de seguridad y eviten prácticas que pongan en riesgo la vida",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alemania retira drones chinos de sus instalaciones militares por temor a espionaje",
+  "enlace": "https://caracol.com.co/2026/11/10/alemania-retira-drones-chinos-de-sus-instalaciones-militares-por-temor-a-espionaje/",
+  "fecha": "2026-11-10T13:29:37-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Defensa ordenó reemplazar los equipos de fabricación china por tecnología europea y prohibió el ingreso de algunos automóviles a los cuarteles por el riesgo de filtración de información sensible.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vincent Kompany regresa al Bayern Múnich tras su hospitalización",
+  "enlace": "https://caracol.com.co/2026/11/10/vincent-kompany-regresa-al-bayern-munich-tras-su-hospitalizacion/",
+  "fecha": "2026-11-10T13:30:33-05:00",
+  "palabras": "",
+  "lead": "El entrenador belga volvió a la ciudad deportiva del conjunto alemán, después de más de dos semanas de ausencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presunto autor de homicidio agravado en Bogotá fue capturado en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/10/presunto-autor-de-homicidio-agravado-en-bogota-fue-capturado-en-cartagena/",
+  "fecha": "2026-11-10T13:28:47-05:00",
+  "palabras": "",
+  "lead": "La fiscalía hizo efectiva una orden judicial",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rionegro sembró 6.000 árboles para recuperar y proteger el ecosistema del Cerro El Capiro",
+  "enlace": "https://caracol.com.co/2026/11/10/rionegro-sembro-6000-arboles-para-recuperar-y-proteger-el-ecosistema-del-cerro-el-capiro/",
+  "fecha": "2026-11-10T13:27:10-05:00",
+  "palabras": "",
+  "lead": "La jornada de reforestación se realizó en la vereda Santa Teresa, dentro del Distrito Regional de Manejo Integrado Cerro El Capiro, con el propósito de fortalecer la biodiversidad y recuperar la cobertura vegetal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Armada de Colombia recibió Conferencia de Submarinos de las Américas 2026 en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/10/armada-de-colombia-recibio-conferencia-de-submarinos-de-las-americas-2026-en-cartagena/",
+  "fecha": "2026-11-10T13:24:04-05:00",
+  "palabras": "",
+  "lead": "Brasil, Canadá, Chile, Colombia, Ecuador, Perú y Estados Unidos estuvieron presentes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Drummond apuesta por educación y ambiente en Cesar y Magdalena",
+  "enlace": "https://www.lafm.com.co/sociedad/drummond-impulsa-al-cesar-magdalena-con-educacion-cuidado-ambiental-emprendimiento-416757",
+  "fecha": "2026-11-10T14:18:00-05:00",
+  "palabras": "Sociedad,Contenido patrocinado,Multinacional Drummond,Sostenibilidad,Acciones sostenibles,Proyectos ambientales,Reforestación,Emprendimiento,Emprendedores,Innovación,Cultura ciudadana,Eventos presenciales",
+  "lead": "Contenido patrocinado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liga BetPlay: esto necesita su equipo para llegar a cuadrangulares",
+  "enlace": "https://www.lafm.com.co/deportes/liga-betplay-2026-ultima-fecha-cuentas-para-llegar-a-cuadrangulares-416745",
+  "fecha": "2026-11-10T13:54:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,tabla de posiciones,Semifinales,Millonarios,Independiente Santa Fe,Deportes Tolima",
+  "lead": "La diferencia entre varios de ellos es mínima, por lo que un triunfo puede cambiar por completo el panorama de la clasificación.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Juan Camilo Nariño ofrece trabajar con Murgas tras votación",
+  "enlace": "https://www.lafm.com.co/economia/juan-camilo-narino-reaccion-eleccion-luz-stella-murgas-andi-416755",
+  "fecha": "2026-11-10T13:53:00-05:00",
+  "palabras": "Economía,Agencia Nacional de Minería,ANDI,Empresas",
+  "lead": "El presidente del gremio minero agradeció a los miembros de la Junta que respaldaron su candidatura y dijo que seguirá trabajando por la inversión y el emp...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Luz Stella Murgas en la ANDI y las reacciones a su elección",
+  "enlace": "https://www.lafm.com.co/economia/luz-stella-murgas-andi-reacciones-a-su-eleccion-416754",
+  "fecha": "2026-11-10T13:52:00-05:00",
+  "palabras": "Economía,lideresa,Cargos gerenciales,ANDI",
+  "lead": "El gremio del gas destacó su gestión en el abastecimiento y el Ministerio de Comercio ofreció trabajar con los empresarios en inversión y empleo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "DIRECTV Open: el tenis internacional llega a Colombia",
+  "enlace": "https://www.lafm.com.co/deportes/directv-open-reunira-en-colombia-a-figuras-del-tenis-internacional-416753",
+  "fecha": "2026-11-10T13:42:00-05:00",
+  "palabras": "Deportes,Contenido patrocinado,Directv,Tenis",
+  "lead": "Contenido patrocinado.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan al presunto asesino de Vanessa Vera quien fue atacada brutalmente por defender a una vecina en Bogotá",
+  "enlace": "https://www.lafm.com.co/orden-publico/capturan-presunto-asesino-de-vanessa-vera-atacada-brutalmente-por-defender-a-una-vecina-en-bogota-416752",
+  "fecha": "2026-11-10T13:35:00-05:00",
+  "palabras": "Orden Público,violencia intrafamiliar,Violencia de género,Asesinato,Víctimas,Crimen familiar,Secretaría de la Mujer,Fiscalía General de la Nación,Policía Nacional,Asesinado",
+  "lead": "Ante la gravedad de los hechos la Fiscalía le imputará cargos al capturado por el delito de homicidio agravado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nvidia pierde millones en bolsa tras el escándalo de su CEO",
+  "enlace": "https://www.lafm.com.co/internacional/nvidia-pierde-mas-400000-millones-dolares-bolsa-escandalo-ceo-416751",
+  "fecha": "2026-11-10T13:34:00-05:00",
+  "palabras": "Internacional,NVIDIA,Espía,Inteligencia,Inteligencia artificial,Pérdidas millonarias,Mercados bursátiles,inversionistas,Conflicto de intereses,Bolsa de valores",
+  "lead": "El escándalo surge en un momento de turbulencia para las empresas de IA en los mercados financieros.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Navidad en Macondo: 120 artistas recrearán el universo de Gabo",
+  "enlace": "https://www.lafm.com.co/sociedad/navidad-macondo-artistas-recrearan-universo-gabriel-garcia-marquez-musical-colombiano-416749",
+  "fecha": "2026-11-10T13:32:00-05:00",
+  "palabras": "Sociedad,Navidad,Diciembre,Noche de velitas,Novena de Aguinaldos,Villancicos,Día de las Velitas,escritores,Teatro,Bogotá,Colombia",
+  "lead": "Macondo y Navidad se mezclan en Colombia Canta y Encanta: musical con 120 niños y jóvenes. Estreno 22 nov, 4:00 p.m., Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "25 % de las pymes en Colombia ha sufrido ataques de phishing",
+  "enlace": "https://www.lafm.com.co/sociedad/pymes-colombia-sufrido-ataques-phishing-kaspersky-ciberdelincuentes-416748",
+  "fecha": "2026-11-10T13:27:00-05:00",
+  "palabras": "Sociedad,Pymes,ciberseguridad,Seguridad informática,Delincuentes cibernéticos,Delitos informáticos,Intento de hackeo,Ransomware,contraseñas,Protección,recomendaciones",
+  "lead": "Kaspersky alerta: 25% de pymes en Colombia sufrió phishing. Claves para protegerse: contraseñas seguras, actualizaciones, copias y capacitación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"La JEP está en fase de ir entregando resultados\": Danilo Rojas",
+  "enlace": "https://www.lafm.com.co/actualidad/nuevo-presidente-de-la-jep-afirma-que-deben-entregarse-resultados-416747",
+  "fecha": "2026-11-10T13:25:00-05:00",
+  "palabras": "Actualidad,JEP,Magistrados,Farc EP,Disidentes de las Farc,disidencias,Colombia,Proceso de Paz",
+  "lead": "El magistrado se refirió a la última etapa de la Jurisdicción Especial para la Paz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Esto es lo que prevé recaudar Anthropic en su debut en bolsa",
+  "enlace": "https://www.lafm.com.co/internacional/esto-preve-recaudar-anthropic-debut-wall-street-416746",
+  "fecha": "2026-11-10T13:19:00-05:00",
+  "palabras": "Internacional,Inteligencia artificial,Venta de acciones,Bolsa de valores,Mercados bursátiles,inversionistas,multinacionales,Empresas",
+  "lead": "La compañía advierte asimismo de que sus posicionamientos públicos sobre la regulación y la seguridad de la IA podrían exponerla a \"un revés político\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "JEP imputa a nueve exintegrantes de la Armada y dos policías",
+  "enlace": "https://www.lafm.com.co/orden-publico/jep-imputa-a-11-exmilitares-y-policias-por-32-masacres-en-los-montes-de-maria-416744",
+  "fecha": "2026-11-10T13:11:00-05:00",
+  "palabras": "Orden Público,JEP,Fuerzas Militares,Armada Nacional",
+  "lead": "JEP imputó a 11 exmiembros de Armada y Policía por 32 masacres en Montes de María: 284 asesinatos y 107 víctimas de violencia sexual.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alerta por numerosos asesinatos de mujeres en el Atlántico",
+  "enlace": "https://www.lafm.com.co/orden-publico/feminicidios-bandas-criminales-asesinatos-mujeres-atlantico-416743",
+  "fecha": "2026-11-10T12:57:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Violencia de género,Homicidios,Víctimas,actos violentos,organizaciones criminales,estructuras criminales,Grupos delincuenciales,Investigaciones,Desplazamiento forzado",
+  "lead": "La defensora de derechos humanos alertó sobre la violencia contra las mujeres en el Atlántico y cuestionó la falta de respuestas de las autoridades para es...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Manuel Abud, CEO de Latin Grammy, sobre el futuro de la música",
+  "enlace": "https://www.lafm.com.co/entretenimiento/manuel-abud-latin-grammy-futuro-musica-inteligencia-artificial-416741",
+  "fecha": "2026-11-10T12:23:00-05:00",
+  "palabras": "Entretenimiento,Latin Grammy,Inteligencia artificial,Nominaciones,música,Artistas,América Latina,Estados Unidos,Eventos presenciales,Ritmos urbanos,Expertos",
+  "lead": "Latin Grammy 27 en Las Vegas: Manuel Abud explica cómo la IA se usa solo como herramienta, y destaca la mezcla de géneros y nuevas generaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La ciencia hace honor a Messi: así es la planta que lleva su nombre",
+  "enlace": "https://www.lafm.com.co/sociedad/lionel-messi-planta-lleva-su-nombre-por-que-416740",
+  "fecha": "2026-11-10T12:20:00-05:00",
+  "palabras": "Sociedad,Lionel Messi,Deporte,siembra de plantas,Fútbol,Argentina,Ciencia",
+  "lead": "Los investigadores encontraron una flor endémica en los Andes de Perú; está en peligro de extinción.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
