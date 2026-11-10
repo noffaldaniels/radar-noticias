@@ -1129,7 +1129,7 @@
   "palabras": "Cali",
   "lead": "Cali recibió cerca de 400.000 millones de pesos de privados. Eder asegura que esos recursos no pasan por el presupuesto público y explica en qué se han invertido.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "Europa, Accidente de tránsito",
   "lead": "La niebla redujo la visibilidad en la vía que conecta Sofía con Burgas. Las autoridades mantienen cerrado el corredor.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "Bucaramanga, Santander, Ministerio de Salud, Blu Radio",
   "lead": "La deuda de las EPS con las instituciones de salud públicas y privadas en Santander se acerca a los $2 billones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "Durante la mesa técnica, la Aerocivil reconoció la que el software es obsoleto y admitió que el sistema adquirido en 2013 requiere una renovación.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "Medellín, Noticias de hoy",
   "lead": "Todos los involucrados fueron capturados por las autoridades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "IVA, Reforma tributaria, Abelardo De La Espriella",
   "lead": "Según la colectividad, mantener la estructura de impuestos para las empresas podría recaudar cerca de 11 billones de pesos anuales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "Accidente de tránsito, Medellín, Noticias de hoy",
   "lead": "La Secretaría de Movilidad junto al funcionario ya interpusieron las denuncias correspondientes. Van dos casos en una semana en el Valle de Aburrá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Atlético Bucaramanga, Bucaramanga, Fútbol, Santander, Federación Colombiana de Fútbol, Blu Radio, Noticias de hoy, Deportes, Bucaramanga",
   "lead": "Nilson Castrillón, Fabry Castro y Diego Novoa avanzan en sus procesos de recuperación, mientras que Luis Mateus también permanece bajo manejo médico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Risaralda, Pereira, Terremoto hoy",
   "lead": "Aunque el gobernador reconoció la presencia del Gobierno nacional en la zona, destacando que el presidente de la República ha visitado cinco veces la ciudad de Pereira, recalcó que la comunidad requiere resultados inmediatos y desembolsos efectivos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Precio de la cerveza, Diciembre",
   "lead": "Fenaltiendas advierte que los ingresos por venta de cerveza podrían caer de $25,8 billones a $13 billones si se aprueba la reforma.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "La droga, que al parecer iba a ser enviada a Perú y Chile, fue hallada en operativos realizados en Popayán, Jambaló y Santander de Quilichao. Dos personas fueron capturadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Seis equipos llegan con vida a la última fecha, luchando por los últimos tres cupos a los cuadrangulares.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "La senadora del pacto histórico pidió respetar la presunción de inocencia y rechazó que se tomen decisiones políticas en el partido por estas acusaciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "Ambientalistas cuestionan la ratificación de los acuerdos suscritos con el municipio de Vetas durante el gobierno Duque. Aseguran que se pretende sustraer más de 700 hectáreas de páramo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Lisette Ríos, habitante del sector de La Lorena, afirmó que pese a que ella y su hijo, de 16 años, están inscritos en el RUT desde el 18 de agosto, no han recibido nada.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "Así mismo, advirtieron que no han recibido dinero del Fondo Milagro. “Aquí no ha llegado plata”, dijeron.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "",
   "lead": "Se estudian tres alternativas para garantizar la conexión entre Boyacá y Casanare.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "",
   "lead": "Las autoridades investigan posible retaliación de estructuras criminales en el hecho violento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "",
   "lead": "La hoja de trabajo contempla gobernanza, inversiones y proyectos, así como reinversión y compensación, con seguimiento quincenal y participación del Gobierno nacional, autoridades territoriales, comunidades, gremios y sector privado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "",
   "lead": "El Tribunal Administrativo de Cundinamarca aseguró que el cuerpo de agua en el predio San Jacinto no es un humedal, lo que valida la licencia de la ANLA para la construcción de la troncal. Accenorte continuará las obras.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "",
   "lead": "Según el documento publicado por el Parlamento Europeo bajo el título ‘Riesgos de retrocesos en los derechos de las mujeres y de las personas LGBTIQ+ en Colombia’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "El curso, organizado por EXAS A&M Engineering TEEX Extension Service, está orientado al desarrollo de conocimientos y habilidades para la intervención en escenarios de emergencia relacionados con estructuras colapsadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "El alcalde encargado Nicolás Méndez señaló que el proyecto aún requiere estudios de prefactibilidad y destacó su importancia para fortalecer el turismo en el Alto y Bajo Ricaurte.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "Arabia Saudí, Emiratos Árabes Unidos, Catar, Baréin, Kuwait y Omán acordaron establecer un centro de mando militar avanzado en Kuwait.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "187 sedes educativas resultaron afectadas por el terremoto en los 12 municipios del Quindío",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "Netfali, vendedor de comida rápida en Pereira, aseguró que durante mes y medio no pudo vender nada y vivió de la caridad de los demás.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "La Alcaldía de Bucaramanga realizó la entrega del mejoramiento del talud del muro de la Hormigas, con un letrero de Yo Amo Bucaramanga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "Los municipios beneficiados con estas obras son Turbo, Necoclí, San Juan de Urabá y Arboletes en el Urabá antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "La víctima, de 42 años, presentaba heridas con arma blanca. El sospechoso huyó y es buscado por las autoridades",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "Sociedad,Ministerio de Cultura,Terremoto en Colombia,Diplomacia,relaciones,Ayudas humanitarias,Apoyo económico",
   "lead": "Holguín rinde cuentas en Cultura: 551.123 dólares en cooperación para reparar el terremoto y descongelar vínculos con EE. UU., Israel, Suiza y Reino Unido.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "Economía,Proyecto de ley,Reforma tributaria,medidas fiscales,Impuestos,Impuesto de Renta,Recaudo tributario,obligaciones tributarias,Marco fiscal,Actividad económica,déficit fiscal",
   "lead": "El exdirector de la DIAN afirmó que la carga tributaria empresarial en Colombia se acerca al 70%, frente a niveles del 25% en Panamá y Costa Rica.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "Deportes,Real Madrid,Atlético Junior,Partido amistoso,Estadio Metropolitano,Barranquilla,Florentino Pérez,Santiago Bernabéu,Estadio El Campín",
   "lead": "Mauricio Gómez afirmó que habló con Florentino Pérez, presidente del club español, sobre posibles amistosos en Barranquilla y Madrid entre ambos equipos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "Deportes,Teófilo Gutiérrez,Atlético Junior,Barranquilla,Liga BetPlay,Wilmar Roldán,Estadio Metropolitano,Goleador,Mejores goles,Celebraciones",
   "lead": "El delantero barranquillero se despidió en el Estadio Romelio Martínez a la espera de su partido homenaje en diciembre.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "Economía,índice de precios al consumidor,precios,Banco de la República,arriendos en Colombia,arriendo,Salario Mínimo,Aumento salarial,productividad,Encuestas,Negociación",
   "lead": "Los alimentos subieron 7,31 % en doce meses. En octubre, bajaron la cebolla, las frutas frescas y los aceites de cocina.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "Orden Público,Aerocivil,Aeropuerto El Dorado,Procuraduría General de la Nación,Bogotá,ElDorado,Colombia",
   "lead": "Aeronáutica admite obsolescencia de AIRCON ICOM tras falla del 4-N en El Dorado; la Procuraduría vigilará la renovación con INDRA.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,6 +1514,149 @@
   "palabras": "Sociedad,becas,Colombia,Alcaldía de Bogotá,Investigaciones,tips para estudiar en el exterior,Estudio en el exterior",
   "lead": "La entidad educativa impulsa el apoyo educacional para personas que quieran adquirir nuevos conocimientos.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Corte Constitucional exige al gobierno hoja de ruta para acatar compromisos del acuerdo de paz",
+  "enlace": "https://www.bluradio.com/nacion/corte-constitucional-exige-al-gobierno-hoja-de-ruta-para-acatar-compromisos-del-acuerdo-de-paz-rg10",
+  "fecha": "2026-11-10T08:25:41-05:00",
+  "palabras": "Acuerdo de paz, Proceso de paz, Gobierno nacional",
+  "lead": "El alto tribunal le dio un plazo entre 20 y 30 días hábiles para que las diferentes entidades expliquen cómo se están cumpliendo con recursos, proyectos y acciones concretas para cumplir lo pactado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Judicializados 33 presuntos integrantes de ‘Puentes II’ por homicidios y tráfico de drogas en Bogotá",
+  "enlace": "https://www.bluradio.com/judicial/judicializados-33-presuntos-integrantes-de-puentes-ii-por-homicidios-y-trafico-de-drogas-en-bogota-rg10",
+  "fecha": "2026-11-10T08:36:48-05:00",
+  "palabras": "Bandas criminales",
+  "lead": "Algunos de sus integrantes estarían encargados de la venta de estupefacientes al menudeo en entornos académicos, parques y otros lugares de alta concurrencia, mientras que otros cumplirían labores de vigilancia, coordinación logística y participación en ataques con armas de fuego.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así califica The Economist los primeros tres meses de Abelardo De La Espriella",
+  "enlace": "https://www.bluradio.com/nacion/asi-califica-the-economist-los-primeros-tres-meses-de-abelardo-de-la-espriella-so35",
+  "fecha": "2026-11-10T08:44:49-05:00",
+  "palabras": "The Economist, Abelardo De La Espriella",
+  "lead": "El semanario británico analizó el arranque del gobierno de ‘El Tigre’: reconoce su ofensiva contra grupos armados y una reforma tributaria que sorprendió a los economistas, pero advierte sobre sus tendencias autoritarias, su choque con el Congreso y la creciente protesta en las calles.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Catherine Juvinao prende las alarmas sobre el Fondo Milagro: “Es un cheque en blanco”",
+  "enlace": "https://caracol.com.co/2026/11/10/catherine-juvinao-prende-las-alarmas-sobre-el-fondo-milagro-es-un-cheque-en-blanco/",
+  "fecha": "2026-11-10T08:27:27-05:00",
+  "palabras": "",
+  "lead": "Los congresistas Catherine Juvinao y Germán Rodríguez hablaron sobre el Fondo Milagro del Gobierno de Abelardo de la Espriella en los micrófonos de 6AM W.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Existe más presencia del sector privado que del Gobierno” Geyson Copete sobre Fondo Milagro",
+  "enlace": "https://caracol.com.co/2026/11/10/existe-mas-presencia-del-sector-privado-que-del-gobierno-geyson-copete-sobre-fondo-milagro/",
+  "fecha": "2026-11-10T08:40:34-05:00",
+  "palabras": "",
+  "lead": "El alcalde del municipio del Chocó La Unión Panamericana se pronunció sobre el avance que ha tenido el Fondo Milagro en su comunidad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rescatan en Soacha a cuatro menores de edad que habían sido reclutados por disidencias en Nariño",
+  "enlace": "https://caracol.com.co/2026/11/10/rescatan-en-soacha-a-cuatro-menores-de-edad-que-habian-sido-reclutados-por-disidencias-en-narino/",
+  "fecha": "2026-11-10T08:38:10-05:00",
+  "palabras": "",
+  "lead": "Ocho integrantes del Frente Franco Benavides de las disidencias Farc se escondían en dos hoteles en Soacha, donde fueron capturados. Tenían como destino el departamento del Guaviare.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Ejército recuperó y puso a salvo a un menor reclutado por las disidencias en Suárez, Cauca",
+  "enlace": "https://caracol.com.co/2026/11/10/el-ejercito-recupero-y-puso-a-salvo-a-un-menor-reclutado-por-las-disidencias-en-suarez-cauca/",
+  "fecha": "2026-11-10T08:37:32-05:00",
+  "palabras": "",
+  "lead": "Tras amenazas el menor y parte de su familia fueron evacuados de la zona rural del norte del Cauca en una operación humanitaria con apoyo de la División de Aviación Asalto Aéreo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "70 kilos de pólvora negra fueron hallados en una vivienda en Pasto",
+  "enlace": "https://caracol.com.co/2026/11/10/70-kilos-de-polvora-negra-fueron-hallados-en-una-vivienda-en-pasto/",
+  "fecha": "2026-11-10T08:34:41-05:00",
+  "palabras": "",
+  "lead": "El material pretendía ser comercializado durante la temporada de fin de año",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Caldas, 42 puestos de votación para las elecciones regionales están con daños por el terremoto",
+  "enlace": "https://caracol.com.co/2026/11/10/en-caldas-42-puestos-de-votacion-para-las-elecciones-regionales-estan-con-danos-por-el-terremoto/",
+  "fecha": "2026-11-10T08:31:20-05:00",
+  "palabras": "",
+  "lead": "El calendario electoral publicado por la registraduría se cumple conforme a lo establecido.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "No era el primer golpe: caen dos hombres señalados de hurtos seriales a cadena comecial en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/10/no-era-el-primer-golpe-caen-dos-hombres-senalados-de-hurtos-seriales-a-cadena-comecial-en-medellin/",
+  "fecha": "2026-11-10T08:26:43-05:00",
+  "palabras": "",
+  "lead": "Con un arma de fuego y un vehículo de app listo para el escape, la dupla criminal buscaba concretar un nuevo golpe contra los comercios de una reconocida tienda de cadena en la capital antioqueña.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En 90 días de Gobierno crecieron el reclutamiento de menores, el confinamiento y los ataques armados",
+  "enlace": "https://caracol.com.co/2026/11/10/en-90-dias-de-gobierno-crecieron-el-reclutamiento-de-menores-el-confinamiento-y-los-ataques-armados/",
+  "fecha": "2026-11-10T08:26:41-05:00",
+  "palabras": "",
+  "lead": "Uno de los incrementos más pronunciados se registró en el reclutamiento ilícito de niños, niñas y adolescentes, que pasó de 52 a 131 casos, un aumento del 152 %.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salud en Colombia: Deuda hospitalaria llega a $27.8 billones",
+  "enlace": "https://www.lafm.com.co/sociedad/sistema-salud-deudas-clinicas-hospitales-27-billones-de-pesos-416712",
+  "fecha": "2026-11-10T08:34:00-05:00",
+  "palabras": "Sociedad,Salud,situación financiera,nueva eps,obligaciones financieras,Urgencia manifiesta,Ley de insolvencia",
+  "lead": "La cifra corresponde a las instituciones incluidas en el estudio del gremio y no representa la totalidad de las obligaciones del sistema.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá: concejal denuncia millonarios contratos por bonos en Kennedy",
+  "enlace": "https://www.lafm.com.co/politica/concejal-diana-diago-denuncia-contrartos-millonarios-kennedy-416714",
+  "fecha": "2026-11-10T08:19:00-05:00",
+  "palabras": "Política,Concejal,Irregularidades en contratos,Irregularidades en manejo de recursos,Concejo de Bogotá,Alcaldía de Bogotá,Investigaciones,Fiscalía General de la Nación,Quejas,Procuraduría General de la Nación,investigados",
+  "lead": "La cabildante cuestionó la firma de dos contratos en días consecutivos, los gastos administrativos y la selección de 900 beneficiarios. Anunció que llevará...",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
