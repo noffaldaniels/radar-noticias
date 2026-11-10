@@ -566,6 +566,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Se mencionó la administración de Ecopetrol llena de sombras alrededor de la transparencia.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:17",
+   "quien": "Juan Pablo (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "En el Parlamento Europeo se elevó una serie de preguntas a la Comisión Europea para establecer estrategias frente a la ofensiva del Gobierno de Abelardo de la Espriella contra los derechos de las mujeres y la población LGBTIQ en Colombia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:17",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Las fuerzas israelíes mataron a un adolescente palestino de 14 años en la Cisjordania ocupada. El ejército de Israel afirma que sus soldados abrieron fuego para impedir que palestinos lanzaran piedras contra un vehículo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:17",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Las autoridades colombianas incautaron 358 kilogramos de cocaína ocultos en el interior de dos generadores eléctricos en un contenedor con destino a Trípoli (Libia).",
+   "resaltar": false
   }
  ],
  "avisos": [
