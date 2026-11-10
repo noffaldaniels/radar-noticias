@@ -615,6 +615,27 @@
    "quien": "Expresidente del Paraguay",
    "que": "Afirmó que el Ministerio Público repito es selectivo, porque el Ministerio Público sabe con quién actuar y con quién no actuar, y expresó que lamentablemente está privatizado el gobierno en primer lugar.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:37",
+   "quien": "Juan Carlos Giraldo, director general de la Asociación Colombiana de Hospitales y Clínicas",
+   "que": "Advirtió que la deuda acumulada de las EPS con los hospitales del país alcanza los 27.8 billones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:37",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Los alimentos registraron una inflación anual del 7.31% en octubre, por encima del promedio nacional de 6.30% según el Dane.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:37",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Chaparral Tolima declaró la calamidad pública ante la actividad sísmica registrada en la zona.",
+   "resaltar": true
   }
  ],
  "avisos": [
