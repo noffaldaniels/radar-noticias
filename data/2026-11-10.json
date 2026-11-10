@@ -1525,7 +1525,7 @@
   "palabras": "Acuerdo de paz, Proceso de paz, Gobierno nacional",
   "lead": "El alto tribunal le dio un plazo entre 20 y 30 días hábiles para que las diferentes entidades expliquen cómo se están cumpliendo con recursos, proyectos y acciones concretas para cumplir lo pactado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "Bandas criminales",
   "lead": "Algunos de sus integrantes estarían encargados de la venta de estupefacientes al menudeo en entornos académicos, parques y otros lugares de alta concurrencia, mientras que otros cumplirían labores de vigilancia, coordinación logística y participación en ataques con armas de fuego.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "The Economist, Abelardo De La Espriella",
   "lead": "El semanario británico analizó el arranque del gobierno de ‘El Tigre’: reconoce su ofensiva contra grupos armados y una reforma tributaria que sorprendió a los economistas, pero advierte sobre sus tendencias autoritarias, su choque con el Congreso y la creciente protesta en las calles.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "Los congresistas Catherine Juvinao y Germán Rodríguez hablaron sobre el Fondo Milagro del Gobierno de Abelardo de la Espriella en los micrófonos de 6AM W.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "El alcalde del municipio del Chocó La Unión Panamericana se pronunció sobre el avance que ha tenido el Fondo Milagro en su comunidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "Ocho integrantes del Frente Franco Benavides de las disidencias Farc se escondían en dos hoteles en Soacha, donde fueron capturados. Tenían como destino el departamento del Guaviare.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "Tras amenazas el menor y parte de su familia fueron evacuados de la zona rural del norte del Cauca en una operación humanitaria con apoyo de la División de Aviación Asalto Aéreo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "El material pretendía ser comercializado durante la temporada de fin de año",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "El calendario electoral publicado por la registraduría se cumple conforme a lo establecido.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "Con un arma de fuego y un vehículo de app listo para el escape, la dupla criminal buscaba concretar un nuevo golpe contra los comercios de una reconocida tienda de cadena en la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "Uno de los incrementos más pronunciados se registró en el reclutamiento ilícito de niños, niñas y adolescentes, que pasó de 52 a 131 casos, un aumento del 152 %.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Sociedad,Salud,situación financiera,nueva eps,obligaciones financieras,Urgencia manifiesta,Ley de insolvencia",
   "lead": "La cifra corresponde a las instituciones incluidas en el estudio del gremio y no representa la totalidad de las obligaciones del sistema.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,6 +1657,292 @@
   "palabras": "Política,Concejal,Irregularidades en contratos,Irregularidades en manejo de recursos,Concejo de Bogotá,Alcaldía de Bogotá,Investigaciones,Fiscalía General de la Nación,Quejas,Procuraduría General de la Nación,investigados",
   "lead": "La cabildante cuestionó la firma de dos contratos en días consecutivos, los gastos administrativos y la selección de 900 beneficiarios. Anunció que llevará...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cámara de Comercio de Bucaramanga alerta por riesgo de cierre de servicios de la Foscal",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/camara-de-comercio-de-bucaramanga-alerta-por-riesgo-de-cierre-de-servicios-de-la-foscal-rg10",
+  "fecha": "2026-11-10T09:15:14-05:00",
+  "palabras": "Blu Radio, Santander, Floridablanca, Bucaramanga, Ministerio de Salud, Salud, Clínica Foscal de Bucaramanga, Abelardo De La Espriella, Noticias de hoy, Bucaramanga",
+  "lead": "La institución de slaud reportó una cartera pendiente de recaudo cercana a los $600.000 millones, de los cuales el 90 % corresponde a obligaciones de Nueva EPS, Famisanar y Fomag.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Mujer creyó en una relación con Brad Pitt, se divorció y envió millones: terminó en un psiquiátrico",
+  "enlace": "https://www.bluradio.com/mundo/mujer-creyo-en-una-relacion-con-brad-pitt-se-divorcio-y-envio-millones-termino-en-un-psiquiatrico-so35",
+  "fecha": "2026-11-10T09:07:09-05:00",
+  "palabras": "Viral, Estafas, Brad Pitt, Francia",
+  "lead": "Los estafadores utilizaron perfiles falsos, videos creados con inteligencia artificial y supuestas emergencias médicas para pedirle dinero.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bucaramanga tendrá Observatorio del Delito para monitorear la criminalidad las 24 horas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/bucaramanga-tendra-su-primer-observatorio-del-delito-para-monitorear-la-criminalidad-las-24-horas-rg10",
+  "fecha": "2026-11-10T09:05:19-05:00",
+  "palabras": "Bucaramanga, Santander, Alcaldía de Bucaramanga, Blu Radio",
+  "lead": "El centro funcionará en el tercer piso de la Alcaldía y contará con un equipo interdisciplinario, inteligencia artificial y conexión con la Policía, Fiscalía y Ejército.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conmebol dio la bienvenida a Atlético Nacional a la Copa Libertadores 2027",
+  "enlace": "https://caracol.com.co/2026/11/10/conmebol-dio-la-bienvenida-a-atletico-nacional-a-la-copa-libertadores-2027/",
+  "fecha": "2026-11-10T09:25:49-05:00",
+  "palabras": "",
+  "lead": "El cuadro antiqueño se convirtió en el segundo equipo clasificado al principal torneo de clubes en el continente.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las novedades que trae la versión 2026 de la Feria Ibagué, Negocios y Moda",
+  "enlace": "https://caracol.com.co/2026/11/10/las-novedades-que-trae-la-version-2026-de-la-feria-ibague-negocios-y-moda/",
+  "fecha": "2026-11-10T09:25:23-05:00",
+  "palabras": "",
+  "lead": "Del 25 al 27 de noviembre se desarrollará la feria, que en esta edición incluirá una mayor participación del sector industrial.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Gobernación de Caldas sigue esperando recursos del Fondo Milagro para la etapa de reconstrucción",
+  "enlace": "https://caracol.com.co/2026/11/10/la-gobernacion-de-caldas-sigue-esperando-recursos-del-fondo-milagro-para-la-etapa-de-reconstruccion/",
+  "fecha": "2026-11-10T09:20:47-05:00",
+  "palabras": "",
+  "lead": "Tres meses después del movimiento telúrico, el gobierno departamental ha destinado recursos propios para la entrega de ayudas y subsidios a los damnificados",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los proyectos que llevará el Tolima a la Milagro Week en Nueva York suman más de un billón de pesos",
+  "enlace": "https://caracol.com.co/2026/11/10/los-proyectos-que-llevara-el-tolima-a-la-milagro-week-en-nueva-york-suman-mas-de-un-billon-de-pesos/",
+  "fecha": "2026-11-10T09:21:56-05:00",
+  "palabras": "",
+  "lead": "Iniciativas del sector energético, minerales, logístico y agrícola llevará el departamento al evento que se realizará del 16 al 19 de noviembre.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín rediseña su narrativa turística para mostrar sus territorios lejos de los estereotipos",
+  "enlace": "https://caracol.com.co/2026/11/10/medellin-redisena-su-narrativa-turistica-para-mostrar-sus-territorios-lejos-de-los-estereotipos/",
+  "fecha": "2026-11-10T09:18:54-05:00",
+  "palabras": "",
+  "lead": "Con iniciativas territoriales en sectores como la Comuna 13, la urbe busca reemplazar los clichés comerciales por relatos basados en la verdad histórica y la memoria colectiva.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Federico Franco calificó caso Ueno Bank como “el robo colosal más grande en la historia” de Paraguay",
+  "enlace": "https://caracol.com.co/2026/11/10/federico-franco-califico-caso-ueno-bank-como-el-robo-colosal-mas-grande-en-la-historia-de-paraguay/",
+  "fecha": "2026-11-10T09:16:54-05:00",
+  "palabras": "",
+  "lead": "Expresidente de Paraguay Federico Franco cifró las pérdidas financieras entre cuatro mil y cinco mil millones de dólares.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bomberos de Santa Marta atendió una emergencia por incendio de ‘Taxi Marino’",
+  "enlace": "https://caracol.com.co/2026/11/10/bomberos-de-santa-marta-atendio-una-emergencia-por-incendio-de-taxi-marino/",
+  "fecha": "2026-11-10T09:14:44-05:00",
+  "palabras": "",
+  "lead": "La operación contó con la participación de ocho unidades bomberiles y el apoyo de Policía Judicial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ELN estaría detrás de ataque con explosivos lanzados desde un dron contra batallón en Cartago, Valle",
+  "enlace": "https://caracol.com.co/2026/11/10/eln-estaria-detras-de-ataque-con-explosivos-lanzados-desde-un-dron-contra-batallon-en-cartago-valle/",
+  "fecha": "2026-11-10T09:06:50-05:00",
+  "palabras": "",
+  "lead": "Un joven de 22 años fue capturado con un dron y explosivos. Según las autoridades, habría sido contactado por integrantes de esa guerrilla",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Parlamento Europeo alerta por retrocesos en derechos en Colombia",
+  "enlace": "https://caracol.com.co/2026/11/10/parlamento-europeo-alerta-por-retrocesos-en-derechos-en-colombia/",
+  "fecha": "2026-11-10T09:06:46-05:00",
+  "palabras": "",
+  "lead": "Eurodiputada pide a la Comisión Europea vigilar las políticas del Gobierno colombiano.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Instituciones Educativas Oficiales en Antioquia abren matriculas para el 2027",
+  "enlace": "https://caracol.com.co/2026/11/10/instituciones-educativas-oficiales-en-antioquia-abren-matriculas-para-el-2027/",
+  "fecha": "2026-11-10T09:04:41-05:00",
+  "palabras": "",
+  "lead": "Las familias de los 116 municipios no certificados del departamento podrán matricular a sus hijos hasta el 30 de noviembre. La proyección para el próximo año es de 370.079 estudiantes en el sistema educativo oficial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Shakira llevará su gira ‘Las Mujeres Ya No Lloran’ a Venezuela en 2027",
+  "enlace": "https://caracol.com.co/2026/11/10/shakira-llevara-su-gira-las-mujeres-ya-no-lloran-a-venezuela-en-2027/",
+  "fecha": "2026-11-10T09:01:16-05:00",
+  "palabras": "",
+  "lead": "La barranquillera llevará ‘Las Mujeres Ya No Lloran World Tour’ a Venezuela en 2027, como parte de la expansión de su recorrido por Latinoamérica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 10 de noviembre de 2026 en Colombia: ¿la divisa extranjera cerca de los $3.300?",
+  "enlace": "https://caracol.com.co/2026/11/10/dolar-hoy-10-de-noviembre-de-2026-en-colombia-la-divisa-extranjera-cerca-de-los-3300/",
+  "fecha": "2026-11-10T08:54:58-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este martes, 10 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además de la libra esterlina, el petróleo y el bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La FLIP advierte que aplazamientos judiciales ponen en riesgo la justicia en caso de Wilder Córdoba",
+  "enlace": "https://caracol.com.co/2026/11/10/la-flip-advierte-que-aplazamientos-judiciales-ponen-en-riesgo-la-justicia-en-caso-de-wilder-cordoba/",
+  "fecha": "2026-11-10T08:56:02-05:00",
+  "palabras": "",
+  "lead": "A casi cuatro años del crimen del periodista asesinado en la Unión-Nariño el proceso judicial sigue sin una sentencia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A tres meses del terremoto, 44 colegios del Tolima permanecen cerrados por colapsos",
+  "enlace": "https://caracol.com.co/2026/11/10/a-tres-meses-del-terremoto-44-colegios-del-tolima-permanecen-cerrados-por-colapsos/",
+  "fecha": "2026-11-10T08:55:04-05:00",
+  "palabras": "",
+  "lead": "El Tolima todavía espera la inversión inicial de 20 mil millones de pesos para iniciar la recuperación de los colegios.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Defensoría del Pueblo alerta dificultades en atención y recuperación tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/11/10/la-defensoria-del-pueblo-alerta-dificultades-en-atencion-y-recuperacion-tras-el-terremoto/",
+  "fecha": "2026-11-10T08:55:27-05:00",
+  "palabras": "",
+  "lead": "A tres meses del terremoto que sacudió a Colombia esta entidad hace un llamado para garantizar los recursos necesarios, superar las barreras en el registro de damnificados y avanzar en soluciones sostenibles",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Empresario denuncia que agente de tránsito de Girón bajó su carro de la grúa para “dar una vuelta”",
+  "enlace": "https://caracol.com.co/2026/11/10/empresario-denuncia-que-agente-de-transito-de-giron-bajo-carro-de-la-grua-para-dar-una-vuelta/",
+  "fecha": "2026-11-10T08:47:08-05:00",
+  "palabras": "",
+  "lead": "El vehículo de alta gama entró a los patios dos horas después de la inmovilización.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias ‘Caballo’ dinamizador de la extorsión y la minería ilegal en Popayán fue capturado",
+  "enlace": "https://caracol.com.co/2026/11/10/alias-caballo-dinamizador-de-la-extorsion-y-la-mineria-ilegal-en-popayan-fue-capturado/",
+  "fecha": "2026-11-10T08:52:21-05:00",
+  "palabras": "",
+  "lead": "El procedimiento de captura se realizó por medio de orden judicial en la vereda Cerrillos, de la ciudad blanca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Invías anuncia inversiones por $630.000 millones para las vías de Boyacá durante 2027",
+  "enlace": "https://caracol.com.co/2026/11/10/invias-anuncia-inversiones-por-630000-millones-para-las-vias-de-boyaca-durante-2027/",
+  "fecha": "2026-11-10T08:51:48-05:00",
+  "palabras": "",
+  "lead": "Los recursos contemplan la recuperación de corredores nacionales, la terminación de la variante de Sogamoso y obras en vías terciarias de los 123 municipios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Vicepresidente de EE.UU cancela su visita a Colombia",
+  "enlace": "https://www.lafm.com.co/internacional/vicepresidente-estados-unidos-cancela-visita-a-colombia-416723",
+  "fecha": "2026-11-10T09:19:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Colombia,Donald Trump,Elecciones en el exterior",
+  "lead": "El segundo al mando en el gigante norteamericano informó que se cancelaría su agenda internacional",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Angie Rodríguez dice que no obedece orden del juez y no se retracta de lo dicho contra Laura Sarabia",
+  "enlace": "https://www.lafm.com.co/politica/angie-rodriguez-dice-que-no-obedece-orden-del-juez-no-se-416722",
+  "fecha": "2026-11-10T09:15:00-05:00",
+  "palabras": "Política,Laura Sarabia,Gustavo Petro,Fiscalía General de la Nación,Colombia",
+  "lead": "El caso de las 48 sigue sumando nombres; Gustavo Petro dijo que se iría de X.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Franco Pérez, hijo de Omar Pérez, jugará con Argentina tras rechazo de Colombia",
+  "enlace": "https://www.lafm.com.co/deportes/franco-perez-jugara-argentina-rechazado-colombia-hijo-omar-perez-416719",
+  "fecha": "2026-11-10T08:46:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Selección Colombia Sub 20,Sudamericano Sub 20,Omar Pérez,Selección Argentina,Argentina",
+  "lead": "Franco Pérez, futbolista nacido en Medellín y canterano de Boca juniors, ahora vestirá la camiseta de Argentina tras su sueño frustrado en Colombia.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El enfrentamiento de El Salvador con pandillas haitianas genera fricción con su aliado más cercano, Estados Unidos",
+  "enlace": "https://www.lafm.com.co/internacional/el-salvador-pandillas-haiti-friccion-estados-unidos-416718",
+  "fecha": "2026-11-10T08:44:00-05:00",
+  "palabras": "Internacional,Haití,Estados Unidos,El Salvador,Nayib Bukele,Donald Trump",
+  "lead": "Trump había dado luz verde a Bukele para enfrentar pandillas en Haití, según Axios.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario mínimo 2027: ¿inflación del 6,5% marcaría el punto de partida de una negociación explosiva?",
+  "enlace": "https://www.lafm.com.co/economia/salario-minimo-2027-inflacion-del-65-marcaria-el-punto-de-partida-de-una-negociacion-explosiva-416709",
+  "fecha": "2026-11-10T07:51:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Negociación,Colombia,Canasta familiar",
+  "lead": "El aumento de la inflación en Colombia podría generar tensiones en la mesa tripartita.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
