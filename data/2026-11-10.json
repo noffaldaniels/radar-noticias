@@ -4451,7 +4451,7 @@
   "palabras": "Carros eléctricos, Vehículos",
   "lead": "Leapmotor presentó las camionetas B10 y C10 en Colombia, dos vehículos eléctricos de rango extendido que combinan un motor eléctrico con un generador a gasolina.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4462,7 +4462,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "Santander, Hospital Universitario de Santander, Ejército Nacional, Noticias de hoy, Blu Radio",
   "lead": "Los uniformados heridos en el ataque terrorista del 7 de noviembre reciben atención médica en diferentes centros asistenciales. En Bucaramanga, Barrancabermeja, Aguachica, Santa Rosa y Bolivar.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "Puerto Gaitán, Noticias de hoy",
   "lead": "Según las denuncias, las nueve hectáreas estaban avaluadas el año pasado en 180 millones de pesos, y hoy la Alcaldía pretende comprarlas en 12.870 millones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este martes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "Paola Jara, Jessi Uribe",
   "lead": "La pareja dio un show histórico en donde la música de ambos se mezcló en una velada que los más fanáticos no olvidarán.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "Juan Manuel Santos, Abelardo De La Espriella",
   "lead": "Durante un foro sobre los diez años del Acuerdo de Paz, el expresidente defendió lo pactado con las Farc y advirtió sobre los riesgos de volver a prácticas del pasado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "Antioquia, Noticias de hoy, ELN, violencia",
   "lead": "La guerrilla del ELN estaría tras estas acciones para atentar contra la fuerza pública y la población civil en esa zona del Nordeste del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "América de Cali, Internacional de Bogotá, Copa BetPlay, américa de cali hoy, internacional de bogotá",
   "lead": "La Copa BetPlay llega a su recta final y estos equipos buscan un cupo a la gran final en donde podrían enfrentarse a Atlético Nacional u Once Caldas.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "Noticias de hoy, Palmira",
   "lead": "En medio de la emergencia, se confirmó que, hasta el momento, no se reportan personas heridas ni víctimas entre la población civil o integrantes de la fuerza pública que se encontraban en el área.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "Disidencias Farc, Abelardo De La Espriella",
   "lead": "El presidente Abelardo De La Espriella anunció que entre los capturados hay tres señalados integrantes de una célula que habría planeado los atentados con explosivos del pasado 7 de agosto en Manizales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "Huila",
   "lead": "Su prima, Natalia Herrera Arce, relató a Blu Radio las últimas horas en las que tuvieron noticias del joven y las diferentes versiones que han conocido sobre lo sucedido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "Carros, Camionetas, Superbid Colombia, carros de segunda mano, compra de vehículos, mercado automotor colombiano, subastas de carros, vehículos usados, venta de vehículos",
   "lead": "Se conocieron el top de las marcas que más siguen comprando los colombianos y el carro más vendido en el mes de septiembre en la modalidad de subasta digital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "EPS, Nueva EPS",
   "lead": "Ante el aumento de las acciones judiciales relacionadas con la atención en salud, Nueva EPS anunció la implementación de un plan de choque que busca agilizar las autorizaciones, mejorar la respuesta a los juzgados y garantizar que las órdenes de tutela se conviertan en servicios efectivamente…",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "Educación, Icfes",
   "lead": "El Icfes anunció la llegada de una nueva directora encargada, luego de que el Gobierno declarara insubsistente a Elizabeth Blandón, quien estuvo al frente de la entidad desde agosto de 2023 y trabajó hasta el pasado 9 de noviembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "",
   "lead": "El municipio está entre los más destacados del país por su desempeño fiscal",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "",
   "lead": "Se desempeñaba como directora de Calidad para la Educación Preescolar, Básica y Media del Ministerio de Educación",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "",
   "lead": "Contiene siete ejes sobre descentralización, educación, patriotismo y seguridad, políticas sociales, crecimiento económico e inversión privada, entre otros.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "",
   "lead": "El llamado lo hizo la gobernadora Adriana Matiz durante un debate de control político en la Comisión Quinta del Senado.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "",
   "lead": "El funcionario hace parte de la Metropolitana Cartagena",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "",
   "lead": "El 30 de diciembre de 2026 será la fecha límite para establecer el salario mínimo en Colombia. El aumento deberá regir a partir del 1 de enero de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "",
   "lead": "El menor estaba en la vereda Trinidad y fue hallado herido en la vereda Mata Blanco.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "",
   "lead": "El fallecido respondía al nombre de Luis Gilberto Fajardo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "",
   "lead": "El Gobierno y el Distrito avanzan en la consolidación del plan para cumplir con las obras del Metro de Bogotá.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4715,7 +4715,7 @@
   "palabras": "",
   "lead": "El señalado agresor se autolesionó y permanece bajo atención médica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4726,7 +4726,7 @@
   "palabras": "",
   "lead": "Directivas del Servicio Geológico anunciaron el despliegue de una comisión de campo para comenzar a subsanar la falta de estudios que permitan comprender los más de 1.700 sismos registrados en menos de dos meses.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "",
   "lead": "El alucinógeno tenía como destino un puerto en África",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "",
   "lead": "De los capturados, 25 estarían relacionados con homicidio, 23 con tráfico de estupefacientes, 17 con hurto, tres con lesiones personales, dos con porte ilegal de armas, uno con feminicidio, uno con concierto para delinquir, uno con extorsión y 16 con otros delitos.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "",
   "lead": "Las autoridades adelantan varias investigaciones en su contra.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "",
   "lead": "Los futbolistas de la Selección Colombia hablaron sobre lo que esperan de los amistosos frente a Chile.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "",
   "lead": "La dotación beneficiará a más de 17.000 habitantes y permitirá ampliar la capacidad del centro asistencial para realizar estudios radiológicos y apoyar el diagnóstico de enfermedades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "",
   "lead": "La iniciativa, que supera los $500 millones, contemplaba recursos para alumbrado público, educación, vigilancia y mantenimiento de la malla vial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,7 +4803,7 @@
   "palabras": "",
   "lead": "El funcionario alcanzó a ser atendido en una clínica de Montería, pero falleció ante la gravedad de las lesiones",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4814,7 +4814,7 @@
   "palabras": "",
   "lead": "La pareja de artistas colombianos llenó el histórico Ritz Theatre de Nueva Jersey en una noche que celebró la música popular, apenas dos días después de su participación en los Premios HEAT 2026.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4825,7 +4825,7 @@
   "palabras": "",
   "lead": "El Tribunal de Conducta de la colectividad tomó la decisión este 10 de noviembre",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4836,7 +4836,7 @@
   "palabras": "Política,Reforma tributaria,Partido Conservador,medidas fiscales,Proyecto de ley,Impuestos,debate político",
   "lead": "La colectividad planteará la enajenación de activos como ISA para conseguir más recursos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4847,7 +4847,7 @@
   "palabras": "Actualidad,Robo,Pitalito,Bancos colombianos,Huila",
   "lead": "Millonario asalto en Pitalito: roban cerca de $800 millones a mujer cuando iba a consignarlos en un banco",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4858,7 +4858,7 @@
   "palabras": "Política,Proyecto de ley,Partido Conservador,Consejo Gremial Nacional,inversionistas,Inversiones,Ley de Garantías,Propuestas",
   "lead": "La iniciativa está siendo liderada por la bancada del Partido Conservador y el Consejo Gremial.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4869,7 +4869,7 @@
   "palabras": "Sociedad,desaparecido,Desaparecidos,desaparición de personas,Boyacá,Medellín, Colombia,Envigado",
   "lead": "Quien tenga información puede comunicarse con la línea de la Ruta Urgente de Búsqueda de la Alcaldía de Medellín, 305 404 53 79.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4880,7 +4880,7 @@
   "palabras": "Orden Público,JEP,Corte Suprema de Justicia,Farc EP,Miguel Uribe",
   "lead": "La JEP pidió a la Corte Suprema información sobre Sandra Ramírez y el magnicidio de Miguel Uribe Turbay; la respuesta será en 3 días.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "Economía,Dólar en Colombia,Banco de la República,Dólar,Tasa Representativa del Mercado,Tasas de interés,Sistema de Reserva Federal,índice de precios al consumidor,Dow Jones,Mercados bursátiles",
   "lead": "Wall Street prevé que la FED aumentará sus tasas en el último mes del año, luego de tener caídas en las acciones debido a la preocupación por la inflación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4901,6 +4901,281 @@
   "fecha": "2026-11-10T15:56:00-05:00",
   "palabras": "Sociedad,Supersalud,Vigilancia,Superintendencia Nacional de Salud,Quejas de usuarios,Quejas,Atención a pacientes,pacientes,desabastecimiento de productos,Domicilios",
   "lead": "La Supersalud desplegó equipos técnicos y científicos en los puntos de dispensación de Colsubsidio en los que se entregan medicamentos a los afiliados de E...",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T17:51:29-05:00",
+  "palabras": "Paisita Noche, Resultados del chance",
+  "lead": "El sorteo de Paisita Noche se realiza todos los días después de las 6:00 p. m. Los participantes pueden consultar aquí el resultado de la jornada, las últimas cifras y conocer las modalidades de apuesta y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T17:51:56-05:00",
+  "palabras": "Chontico Noche , Resultados del chance",
+  "lead": "El sorteo del Chontico Noche se realiza todos los días, aunque su horario cambia según la jornada. Consulte el resultado de este lunes 9 de noviembre y conozca las modalidades de apuesta y los requisitos para reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un alza del mínimo muy superior a 8 % complicaría bajar la inflación en 2027: Aval Asset Management",
+  "enlace": "https://www.bluradio.com/economia/un-alza-del-minimo-muy-superior-a-8-complicaria-bajar-la-inflacion-en-2027-aval-asset-management-rg10",
+  "fecha": "2026-11-10T17:22:35-05:00",
+  "palabras": "Salario mínimo, Aumento del salario mínimo, Inflación",
+  "lead": "Los economistas ven un aumento cercano a 8 % como referencia razonable y advierten que uno mayor presionaría precios, empleo formal y tasas de interés.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Atlético Nacional vs. Once Caldas EN VIVO: online y gratis HOY la Copa BetPlay 2026",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/en-vivo-atletico-nacional-vs-once-caldas-online-y-gratis-hoy-la-copa-betplay-2026-so35",
+  "fecha": "2026-11-10T17:58:16-05:00",
+  "palabras": "Atlético Nacional, Once Caldas, Partidos de hoy, Copa BetPlay",
+  "lead": "El cuadro verdolaga busca su cuarta Copa BetPlay de manera consecutiva, pero antes deberá vencer a un Once Caldas que no le dejará las cosas fáciles en la semifinal.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luz Stella Murgas recalca trabajar en conjunto tras ser elegida presidenta de la Andi",
+  "enlace": "https://www.bluradio.com/economia/los-grandes-logros-se-construyen-colectivamente-murgas-tras-ser-elegida-presidenta-de-la-andi-rg10",
+  "fecha": "2026-11-10T17:34:54-05:00",
+  "palabras": "ANDI, Andi, Luz Stella Murgas, nueva presidenta Andi, presidenta Andi",
+  "lead": "La primera mujer en llegar a la presidencia de este gremio dijo que asumirá el cargo con “profundo respeto por la historia de la Andi” y sobre las bases construidas bajo el liderazgo de Bruce Mac Master.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Invertirán $127.873 millones en vía que conecta a Orocué con Casanare",
+  "enlace": "https://www.bluradio.com/nacion/invertiran-127-873-millones-en-via-que-conecta-a-orocue-con-casanare-rg10",
+  "fecha": "2026-11-10T17:52:39-05:00",
+  "palabras": "Casanare, Noticias de hoy",
+  "lead": "Son 15 kilómetros entre el sector de Guanapalo y Orocué los que serán construidos en un plazo de 24 meses.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "JEP pide a la Corte Suprema aclarar si Sandra Ramírez está vinculada al crimen de Miguel Uribe",
+  "enlace": "https://www.bluradio.com/nacion/jep-pide-a-la-corte-suprema-aclarar-si-sandra-ramirez-esta-vinculada-al-crimen-de-miguel-uribe-rg10",
+  "fecha": "2026-11-10T17:37:52-05:00",
+  "palabras": "Partido Comunes, Miguel Uribe Turbay, JEP",
+  "lead": "El tribunal requirió a la corte información sobre la presunta vinculación de la exsenadora de Comunes en este caso y si existen elementos que la relacionen con el crimen. La solicitud hace parte del seguimiento a los compromisos que asumió al someterse a la justicia transicional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Acolgen rechaza atentado contra hidroeléctrica de Amaime y pide garantías de seguridad",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/acolgen-rechaza-atentado-contra-hidroelectrica-de-amaime-y-pide-garantias-de-seguridad-rg10",
+  "fecha": "2026-11-10T18:14:19-05:00",
+  "palabras": "",
+  "lead": "A través de un pronunciamiento, Acolgen advirtió que este tipo de acciones violentas comprometen la seguridad de los trabajadores y ponen en riesgo la continuidad del suministro eléctrico.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Narrador de fútbol relató llegada del papa León XIV a Argentina como un partido de Córdoba",
+  "enlace": "https://www.bluradio.com/mundo/narrador-de-futbol-relato-llegada-del-papa-leon-xiv-a-argentina-como-un-partido-pr30",
+  "fecha": "2026-11-10T18:00:06-05:00",
+  "palabras": "Argentina, Papa León XIV, papa en Argentina, papa león, papa león XIV",
+  "lead": "El relator describió cada movimiento del sumo pontífice en su visita a Córdoba.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A los 45 años ya empiezan a cerrarle la puerta a muchos colombianos en el trabajo, según expertos",
+  "enlace": "https://www.bluradio.com/nacion/a-los-45-anos-ya-empiezan-a-cerrarle-la-puerta-a-muchos-colombianos-en-el-trabajo-segun-expertos-rg10",
+  "fecha": "2026-11-10T18:10:46-05:00",
+  "palabras": "Desempleo, Noticias de hoy",
+  "lead": "Si los programas de Inteligencia Artificial aprenden de reclutadores con prejuicios, el rechazo por edad se multiplicará, advirtió Ana Eloisa Zúñiga, del Movimiento Perennial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Seguir fortaleciendo una voz empresarial que dialogue”: Luz Stella Murgas tras llegar a la Andi",
+  "enlace": "https://caracol.com.co/2026/11/10/seguir-fortaleciendo-una-voz-empresarial-que-dialogue-luz-stella-murgas-tras-llegar-a-la-andi/",
+  "fecha": "2026-11-10T17:31:57-05:00",
+  "palabras": "",
+  "lead": "La nueva presidente de la Andi aseguró que asume esta responsabilidad con profundo respeto por la historia de la ANDI y por el camino construido bajo el liderazgo de Bruce Mac Master.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Smart se consolida como la academia de idiomas más grande de Colombia, según ranking",
+  "enlace": "https://caracol.com.co/2026/11/10/smart-se-consolida-como-la-academia-de-idiomas-mas-grande-de-colombia-segun-ranking/",
+  "fecha": "2026-11-10T17:37:11-05:00",
+  "palabras": "",
+  "lead": "La Academia de Idiomas Smart, con sedes en las principales ciudades del país, es un referente de éxito académico en el país. Su modelo flexible y amplia cobertura la posicionan en lo más alto del ranking.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atlántico realizará consejo de seguridad ante aumento de violencia contra las mujeres",
+  "enlace": "https://caracol.com.co/2026/11/10/atlantico-realizara-consejo-de-seguridad-ante-aumento-de-violencia-contra-las-mujeres/",
+  "fecha": "2026-11-10T17:35:55-05:00",
+  "palabras": "",
+  "lead": "El encuentro se llevará este miércoles 11 de noviembre en la Gobernación del Atlántico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴EN VIVO América de Cali vs. Internacional: siga la semifinal de ida de la Copa Colombia",
+  "enlace": "https://caracol.com.co/2026/11/10/en-vivo-america-de-cali-vs-internacional-siga-la-semifinal-de-ida-de-la-copa-colombia/",
+  "fecha": "2026-11-10T18:09:22-05:00",
+  "palabras": "",
+  "lead": "El equipo escarlata visita al conjunto bogotano en el estadio Metropolitano de Techo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Después de medio siglo, comienza la pavimentación para el desarrollo en Casanare",
+  "enlace": "https://caracol.com.co/2026/11/10/despues-de-medio-siglo-comienza-la-pavimentacion-para-el-desarrollo-en-casanare/",
+  "fecha": "2026-11-10T17:28:20-05:00",
+  "palabras": "",
+  "lead": "La gobernación de Casanare dispuso más de 127 mil millones de pesos destinados a pavimentar 15 km del tramo que conecta el sector de Guanapalo con el municipio de Orocué.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía reveló nómina oficial de artistas que estarán en el Festival Náutico 2026 de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/10/alcaldia-revelo-nomina-oficial-de-artistas-que-estaran-en-el-festival-nautico-2026-de-cartagena/",
+  "fecha": "2026-11-10T17:25:57-05:00",
+  "palabras": "",
+  "lead": "Ryan Castro, Juan Luis Guerra, Gilberto Santa Rosa, Beéle, Nicky Jam y Silvestre Dangond lideran la lista",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nequi anunció el lanzamiento de bolsillos con rentabilidad: ¿Cómo funciona y quiénes pueden acceder?",
+  "enlace": "https://caracol.com.co/2026/11/10/nequi-anuncio-el-lanzamiento-de-bolsillos-con-rentabilidad-como-funciona-y-quienes-pueden-acceder/",
+  "fecha": "2026-11-10T17:25:35-05:00",
+  "palabras": "",
+  "lead": "Con esta opción podrá tener plazos establecidos que van desde los 30 hasta los 365 días, mientras que el monto mínimo para comenzar es de $50.000",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cierran en Santa Marta negocio que vendía agua de carrotanques con certificados del acueducto",
+  "enlace": "https://caracol.com.co/2026/11/10/cierran-en-santa-marta-negocio-que-vendia-agua-de-carrotanques-con-certificados-del-acueducto/",
+  "fecha": "2026-11-10T17:23:56-05:00",
+  "palabras": "",
+  "lead": "La autoridad ambiental encontró inconsistencias entre el origen del agua suministrada mediante carrotanques y los certificados de laboratorio presentados por el establecimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Judicializan a bailarín profesional del Sanjuanero Huilense por presunto acoso sexual en Neiva",
+  "enlace": "https://caracol.com.co/2026/11/10/judicializan-a-bailarin-profesional-del-sanjuanero-huilense-por-presunto-acoso-sexual-en-neiva/",
+  "fecha": "2026-11-10T17:23:21-05:00",
+  "palabras": "",
+  "lead": "El hombre habría acosado durante cerca de cuatro meses a una joven de 24 años que se preparaba para participar en el Reinado Departamental del Bambuco.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuándo es el sorteo de los cuadrangulares de la Liga colombiana? Fecha y hora",
+  "enlace": "https://caracol.com.co/2026/11/10/cuando-es-el-sorteo-de-los-cuadrangulares-de-la-liga-colombiana-fecha-y-hora/",
+  "fecha": "2026-11-10T17:21:52-05:00",
+  "palabras": "",
+  "lead": "La DIMAYOR confirmó que el horario en el que se realizará y definirá la conformación de los grupos semifinales.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dengue en Colombia ya deja 73 muertes en 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/dengue-salud-casos-acciones-riesgo-contagios-zancudo-transmisor-enfermedad-muerte-416785",
+  "fecha": "2026-11-10T17:43:00-05:00",
+  "palabras": "Sociedad,Dengue,Vigilancia,Autocuidado,medidas sanitarias,Sistema de Alertas Tempranas,Atención a pacientes,Cambio climático,Sequía,Población vulnerable",
+  "lead": "Colombia registra 98.096 casos de dengue y 73 muertes confirmadas. Durante octubre se concentró el 13 % de los contagios y el 23 % de los fallecimientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan a alias Danielito, presunto sucesor de alias Nain",
+  "enlace": "https://www.lafm.com.co/politica/presidente-de-la-espriella-captura-alias-danielito-sucesor-alias-nain-riohacha-416784",
+  "fecha": "2026-11-10T17:35:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Delincuentes capturados,Órdenes de captura,Cabecilla de grupo armado,Narcotráfico,Homicidios,Asesinado,Grupo Delincuencial Organizado,organizaciones criminales,estructuras criminales",
+  "lead": "El mandatario insistió en que el Estado no cede ante la delincuencia y le dio la bienvenida a La Guajira a la Patria Milagro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atacan con explosivos la Central Hidroeléctrica de Amaime",
+  "enlace": "https://www.lafm.com.co/actualidad/atacan-con-explosivos-la-central-hidroelectrica-de-amaime-en-palmira-416783",
+  "fecha": "2026-11-10T17:34:00-05:00",
+  "palabras": "Actualidad,ataque explosivo,Zona rural,Palmira,Valle del Cauca",
+  "lead": "Dos hombres armados atacaron con explosivos la Central Hidroeléctrica en zona rural de Palmira. No se reportaron personas heridas ni fallecidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tres presuntos hombres de Iván Mordisco capturados en Cali",
+  "enlace": "https://www.lafm.com.co/actualidad/capturan-en-cali-tres-presuntos-integrantes-disiidencias-de-ivan-mordisco-416779",
+  "fecha": "2026-11-10T16:56:00-05:00",
+  "palabras": "Actualidad,disidencias,Disidentes de las Farc,Cali, Colombia,Capturados,Abelardo de la Espriella",
+  "lead": "Capturan en Cali tres presuntos integrantes de la estructura Jaime Martínez, vinculados a Iván Mordisco y señalados de planear atentados en Manizales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Falso sacerdote se fugaba de hoteles sin pagar la cuenta",
+  "enlace": "https://www.lafm.com.co/orden-publico/se-hacia-pasar-por-sacerdote-y-salia-de-hoteles-sin-pagar-capturan-a-abogado-en-rionegro-antioquia-416778",
+  "fecha": "2026-11-10T16:47:00-05:00",
+  "palabras": "Orden Público,Tusi,Policía Nacional,Rionegro,Antioquia",
+  "lead": "Se hacía pasar por sacerdote y salía de hoteles sin pagar: capturan a abogado en Rionegro, Antioquia",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
