@@ -160,6 +160,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Se anunció que la línea de atención nacional para IPS Sineres es 300 912 5366 para consultas de columna vertebral.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:57",
+   "quien": "Néstor Morales (Director de Mañanas Blu)",
+   "que": "El temblor del 10 de agosto, a las 7:04 de la mañana, dejó 153 muertos y más de 21.000 familias damnificadas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:57",
+   "quien": "Hugo Mario Palomar (Periodista de Mañanas Blu)",
+   "que": "En Cali, las constructoras han donado 15 apartamentos nuevos a familias damnificadas, y el Fondo Milagro está entregando la segunda mesada de un millón 50 mil pesos a familias inscritas en el registro único de damnificados.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:57",
+   "quien": "Alejandro Eder (Alcalde de Cali)",
+   "que": "En Cali se han demolido 20 edificios y hay otros 85 en lista para demolición; la prioridad del alcalde es entregar viviendas antes de que termine el año a 700 familias que perdieron totalmente sus hogares.",
+   "resaltar": false
   }
  ],
  "avisos": [
