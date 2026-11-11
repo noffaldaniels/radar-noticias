@@ -4913,7 +4913,7 @@
   "palabras": "Paisita Noche, Resultados del chance",
   "lead": "El sorteo de Paisita Noche se realiza todos los días después de las 6:00 p. m. Los participantes pueden consultar aquí el resultado de la jornada, las últimas cifras y conocer las modalidades de apuesta y los requisitos para reclamar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "Chontico Noche , Resultados del chance",
   "lead": "El sorteo del Chontico Noche se realiza todos los días, aunque su horario cambia según la jornada. Consulte el resultado de este lunes 9 de noviembre y conozca las modalidades de apuesta y los requisitos para reclamar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "Salario mínimo, Aumento del salario mínimo, Inflación",
   "lead": "Los economistas ven un aumento cercano a 8 % como referencia razonable y advierten que uno mayor presionaría precios, empleo formal y tasas de interés.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4946,7 +4946,7 @@
   "palabras": "Atlético Nacional, Once Caldas, Partidos de hoy, Copa BetPlay",
   "lead": "El cuadro verdolaga busca su cuarta Copa BetPlay de manera consecutiva, pero antes deberá vencer a un Once Caldas que no le dejará las cosas fáciles en la semifinal.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4957,7 +4957,7 @@
   "palabras": "ANDI, Andi, Luz Stella Murgas, nueva presidenta Andi, presidenta Andi",
   "lead": "La primera mujer en llegar a la presidencia de este gremio dijo que asumirá el cargo con “profundo respeto por la historia de la Andi” y sobre las bases construidas bajo el liderazgo de Bruce Mac Master.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4968,7 +4968,7 @@
   "palabras": "Casanare, Noticias de hoy",
   "lead": "Son 15 kilómetros entre el sector de Guanapalo y Orocué los que serán construidos en un plazo de 24 meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4979,7 +4979,7 @@
   "palabras": "Partido Comunes, Miguel Uribe Turbay, JEP",
   "lead": "El tribunal requirió a la corte información sobre la presunta vinculación de la exsenadora de Comunes en este caso y si existen elementos que la relacionen con el crimen. La solicitud hace parte del seguimiento a los compromisos que asumió al someterse a la justicia transicional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4990,7 +4990,7 @@
   "palabras": "",
   "lead": "A través de un pronunciamiento, Acolgen advirtió que este tipo de acciones violentas comprometen la seguridad de los trabajadores y ponen en riesgo la continuidad del suministro eléctrico.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5001,7 +5001,7 @@
   "palabras": "Argentina, Papa León XIV, papa en Argentina, papa león, papa león XIV",
   "lead": "El relator describió cada movimiento del sumo pontífice en su visita a Córdoba.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5012,7 +5012,7 @@
   "palabras": "Desempleo, Noticias de hoy",
   "lead": "Si los programas de Inteligencia Artificial aprenden de reclutadores con prejuicios, el rechazo por edad se multiplicará, advirtió Ana Eloisa Zúñiga, del Movimiento Perennial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5023,7 +5023,7 @@
   "palabras": "",
   "lead": "La nueva presidente de la Andi aseguró que asume esta responsabilidad con profundo respeto por la historia de la ANDI y por el camino construido bajo el liderazgo de Bruce Mac Master.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5034,7 +5034,7 @@
   "palabras": "",
   "lead": "La Academia de Idiomas Smart, con sedes en las principales ciudades del país, es un referente de éxito académico en el país. Su modelo flexible y amplia cobertura la posicionan en lo más alto del ranking.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5045,7 +5045,7 @@
   "palabras": "",
   "lead": "El encuentro se llevará este miércoles 11 de noviembre en la Gobernación del Atlántico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5056,7 +5056,7 @@
   "palabras": "",
   "lead": "El equipo escarlata visita al conjunto bogotano en el estadio Metropolitano de Techo.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5067,7 +5067,7 @@
   "palabras": "",
   "lead": "La gobernación de Casanare dispuso más de 127 mil millones de pesos destinados a pavimentar 15 km del tramo que conecta el sector de Guanapalo con el municipio de Orocué.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5078,7 +5078,7 @@
   "palabras": "",
   "lead": "Ryan Castro, Juan Luis Guerra, Gilberto Santa Rosa, Beéle, Nicky Jam y Silvestre Dangond lideran la lista",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5089,7 +5089,7 @@
   "palabras": "",
   "lead": "Con esta opción podrá tener plazos establecidos que van desde los 30 hasta los 365 días, mientras que el monto mínimo para comenzar es de $50.000",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5100,7 +5100,7 @@
   "palabras": "",
   "lead": "La autoridad ambiental encontró inconsistencias entre el origen del agua suministrada mediante carrotanques y los certificados de laboratorio presentados por el establecimiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5111,7 +5111,7 @@
   "palabras": "",
   "lead": "El hombre habría acosado durante cerca de cuatro meses a una joven de 24 años que se preparaba para participar en el Reinado Departamental del Bambuco.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5122,7 +5122,7 @@
   "palabras": "",
   "lead": "La DIMAYOR confirmó que el horario en el que se realizará y definirá la conformación de los grupos semifinales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5133,7 +5133,7 @@
   "palabras": "Sociedad,Dengue,Vigilancia,Autocuidado,medidas sanitarias,Sistema de Alertas Tempranas,Atención a pacientes,Cambio climático,Sequía,Población vulnerable",
   "lead": "Colombia registra 98.096 casos de dengue y 73 muertes confirmadas. Durante octubre se concentró el 13 % de los contagios y el 23 % de los fallecimientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5144,7 +5144,7 @@
   "palabras": "Política,Abelardo de la Espriella,Delincuentes capturados,Órdenes de captura,Cabecilla de grupo armado,Narcotráfico,Homicidios,Asesinado,Grupo Delincuencial Organizado,organizaciones criminales,estructuras criminales",
   "lead": "El mandatario insistió en que el Estado no cede ante la delincuencia y le dio la bienvenida a La Guajira a la Patria Milagro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5155,7 +5155,7 @@
   "palabras": "Actualidad,ataque explosivo,Zona rural,Palmira,Valle del Cauca",
   "lead": "Dos hombres armados atacaron con explosivos la Central Hidroeléctrica en zona rural de Palmira. No se reportaron personas heridas ni fallecidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5166,7 +5166,7 @@
   "palabras": "Actualidad,disidencias,Disidentes de las Farc,Cali, Colombia,Capturados,Abelardo de la Espriella",
   "lead": "Capturan en Cali tres presuntos integrantes de la estructura Jaime Martínez, vinculados a Iván Mordisco y señalados de planear atentados en Manizales",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5176,6 +5176,314 @@
   "fecha": "2026-11-10T16:47:00-05:00",
   "palabras": "Orden Público,Tusi,Policía Nacional,Rionegro,Antioquia",
   "lead": "Se hacía pasar por sacerdote y salía de hoteles sin pagar: capturan a abogado en Rionegro, Antioquia",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan a ‘Danielito’, presunto cabecilla de ‘Los JJ’; controlaba extorsión en Riohacha",
+  "enlace": "https://www.bluradio.com/regiones/caribe/capturan-a-danielito-presunto-cabecilla-de-los-jj-controlaba-extorsion-en-riohacha-rg10",
+  "fecha": "2026-11-10T18:43:44-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Gaula, La Guajira",
+  "lead": "Alias ‘Danielito’ también es investigado por su presunta participación en el asesinato de un tendero el pasado 16 de junio en La Guajira.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras tres años de retrasos, arrancan obras en los 21 frentes de la doble calzada Buga-Buenaventura",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/tras-tres-anos-de-retrasos-arrancan-obras-en-los-21-frentes-de-la-doble-calzada-buga-buenaventura-rg10",
+  "fecha": "2026-11-10T18:21:39-05:00",
+  "palabras": "Buga, Buenaventura",
+  "lead": "La Vía Alterna Interna de Buenaventura, que estuvo en riesgo de salir de la concesión, tendrá 6,5 kilómetros de segunda calzada y un patio para 350 tractomulas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comunidades de Vetas celebran que se mantenga la línea concertada para delimitar Santurbán",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/comunidades-de-vetas-celebran-que-se-mantenga-la-linea-concertada-para-delimitar-santurban-rg10",
+  "fecha": "2026-11-10T18:21:04-05:00",
+  "palabras": "Blu Radio, Noticias de hoy, Santander, Ministerio de Ambiente, Páramo de Santurbán",
+  "lead": "La presidenta de Asomineros y la mandataria municipal calificaron la decisión del Ministerio de Ambiente como un triunfo para las comunidades de Soto Norte. Los acuerdos alcanzados en 2021 y 2022, incluida la línea de delimitación concertada, serán mantenidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tribunal del Atlántico ordena al Igac corregir mapa oficial entre Barranquilla y Puerto Colombia",
+  "enlace": "https://www.bluradio.com/regiones/caribe/tribunal-del-atlantico-ordena-al-igac-corregir-mapa-oficial-entre-barranquilla-y-puerto-colombia-rg10",
+  "fecha": "2026-11-10T18:55:47-05:00",
+  "palabras": "Caribe, Barranquilla, Puerto Colombia, Instituto Geográfico Agustín Codazzi",
+  "lead": "El Área Metropolitana de Barranquilla deberá entregar al Distrito una copia organizada de la base catastral de los predios que están en la zona en disputa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturan al presunto responsable de muerte deValeria Márquez, influencer en México: es peligroso cabecilla",
+  "enlace": "https://www.bluradio.com/mundo/capturan-presunto-responsable-de-muerte-de-influencer-en-mexico-es-peligroso-cabecilla-so35",
+  "fecha": "2026-11-10T18:49:21-05:00",
+  "palabras": "Viral, México",
+  "lead": "La muerte de la reconocida influencer se dio en 2025 en plena transmisión en vivo y consternó a todo México, abriendo una amplia investigación.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Supernotariado revoca contratos por $110.000 millones tras detectar fallas de planeación",
+  "enlace": "https://www.bluradio.com/nacion/supernotariado-revoca-contratos-por-110-000-millones-tras-detectar-fallas-de-planeacion-rg10",
+  "fecha": "2026-11-10T18:34:25-05:00",
+  "palabras": "Superintendencia de Notariado y Registro, Supernotariado",
+  "lead": "En la revisión además se encontraron siete contratos de prestación de servicios sin ninguna ejecución, con honorarios superiores a $12 millones mensuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre asesinó a su expareja, su amigo y luego se quitó la vida en Puerto Rico",
+  "enlace": "https://www.bluradio.com/mundo/hombre-asesino-a-su-expareja-su-amigo-y-luego-se-quito-la-vida-en-extrano-caso-rs15",
+  "fecha": "2026-11-10T19:03:28-05:00",
+  "palabras": "Puerto Rico, Puerto Rico",
+  "lead": "El crimen habría iniciado por una discusión entre los involucrados. Se encontraron al menos doce casquillos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los colombianos pueden llegar a estar solteros por estas 7 razones: cuáles son",
+  "enlace": "https://caracol.com.co/2026/11/11/los-colombianos-pueden-llegar-a-estar-solteros-por-estas-7-razones-cuales-son/",
+  "fecha": "2026-11-10T19:05:35-05:00",
+  "palabras": "",
+  "lead": "La decisión de estar soltero corresponde a diferentes motivaciones o prioridades dentro del proyecto de vida de las personas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué paso con la plata para los Equipos Básicos en Salud de Buenaventura?: Hospital denuncia",
+  "enlace": "https://caracol.com.co/2026/11/11/que-paso-con-la-plata-para-los-equipos-basicos-en-salud-de-buenaventura-hospital-denuncia/",
+  "fecha": "2026-11-10T18:05:00-05:00",
+  "palabras": "",
+  "lead": "Cerca de $5.000 millones que el Ministerio de Salud giró al Hospital Luis Ablanque de la Plata de Buenaventura habrían sido utilizados para cubrir otros gastos durante la administración anterior.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "JEP pidió información sobre posible investigación contra Sandra Ramírez por crimen de Miguel Uribe",
+  "enlace": "https://caracol.com.co/2026/11/10/jep-pidio-informacion-sobre-posible-investigacion-contra-sandra-ramirez-por-crimen-de-miguel-uribe/",
+  "fecha": "2026-11-10T18:35:29-05:00",
+  "palabras": "",
+  "lead": "La solicitud se hizo ante la Corte Suprema de Justicia como ya se había pedido a la Fiscalía",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Barranquilla a ‘Danielito’, señalado integrante de estructuras criminales de La Guajira",
+  "enlace": "https://caracol.com.co/2026/11/11/capturan-en-barranquilla-a-danielito-senalado-integrante-de-estructuras-criminales-de-la-guajira/",
+  "fecha": "2026-11-10T18:58:34-05:00",
+  "palabras": "",
+  "lead": "Según investigaciones, habría asumido el control de redes de microtráfico y extorsión en Riohacha, tras muerte de alias ‘Bendito Menor’.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Impuestos al tabaco: versión de la Cámara podría provocar 46.408 muertes prematuras adicionales",
+  "enlace": "https://caracol.com.co/2026/11/10/impuestos-al-tabaco-version-de-la-camara-podria-provocar-46408-muertes-prematuras-adicionales/",
+  "fecha": "2026-11-10T18:53:25-05:00",
+  "palabras": "",
+  "lead": "Una microsimulación de investigadores de las universidades del Rosario, Icesi y Adolfo Ibáñez de Chile advierte que el texto aprobado por la Cámara podría aumentar el número de fumadores de cigarrillos convencionales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Desarticulan red que esclavizaba a colombianos en centros de estafas en Camboya",
+  "enlace": "https://caracol.com.co/2026/11/10/desarticulan-red-que-esclavizaba-a-colombianos-en-centros-de-estafas-en-camboya/",
+  "fecha": "2026-11-10T18:53:40-05:00",
+  "palabras": "",
+  "lead": "La organización se encargaba de gestionar pasaportes, tiquetes aéreos y conexiones internacionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno propone reconocer deudas históricas con el sistema de salud y redefinir solvencia de EPS",
+  "enlace": "https://caracol.com.co/2026/11/10/gobierno-propone-reconocer-deudas-historicas-con-el-sistema-de-salud-y-redefinir-solvencia-de-eps/",
+  "fecha": "2026-11-10T18:47:04-05:00",
+  "palabras": "",
+  "lead": "La iniciativa está incluida en la propuesta del Plan Nacional de Desarrollo y contempla un mecanismo excepcional para evaluar y reconocer las obligaciones de la Nación con el sistema de salud.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cierran 11 IPS en Soledad por incumplir normas de calidad en la prestación de servicios de salud",
+  "enlace": "https://caracol.com.co/2026/11/10/cierran-11-ips-en-soledad-por-incumplir-normas-de-calidad-en-la-prestacion-de-servicios-de-salud/",
+  "fecha": "2026-11-10T18:44:08-05:00",
+  "palabras": "",
+  "lead": "Con estos nuevos operativos, ya son 119 las instituciones prestadoras de servicios de salud cerradas durante 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuánto aumentarían las pensiones en 2027, según el último IPC? Cálculo para SMMLV",
+  "enlace": "https://caracol.com.co/2026/11/10/cuanto-aumentarian-las-pensiones-en-2027-segun-el-ultimo-ipc-calculo-para-smmlv/",
+  "fecha": "2026-11-10T18:39:14-05:00",
+  "palabras": "",
+  "lead": "El valor estimado de las mesadas pensionales para el año 2027 se vinculará directamente al aumento del salario mínimo y a otros factores que influirán en el crecimiento de los montos actuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevos movimientos del Gobierno en Embajadas: hermano de Efraín Cepeda llega a Italia",
+  "enlace": "https://caracol.com.co/2026/11/10/nuevos-movimientos-del-gobierno-en-embajadas-hermano-de-efrain-cepeda-llega-a-italia/",
+  "fecha": "2026-11-10T18:12:16-05:00",
+  "palabras": "",
+  "lead": "Además, la hoja de vida de Miguel Uribe Londoño volvió a ser publicada en Aspirantes Presidencia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Black Friday y Cyber Monday en Colombia 2026: búsqueda de ofertas y productos con mayores descuentos",
+  "enlace": "https://caracol.com.co/2026/11/10/black-friday-y-cyber-monday-en-colombia-2026-busqueda-de-ofertas-y-productos-con-mayores-descuentos/",
+  "fecha": "2026-11-10T18:30:27-05:00",
+  "palabras": "",
+  "lead": "En el Black Friday y el Cyber Monday la tecnología, los productos para el hogar, la ropa y más se toman las tiendas del país. Conozca cómo buscar y aprovechar las ofertas sin caer en estafas digitales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tribunal ordena entregar a Barranquilla copia de la base catastral en disputa con Puerto Colombia",
+  "enlace": "https://caracol.com.co/2026/11/10/tribunal-ordena-entregar-a-barranquilla-copia-de-la-base-catastral-en-disputa-con-puerto-colombia/",
+  "fecha": "2026-11-10T18:28:27-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de Puerto Colombia considera que el fallo no afecta su autonomía catastral y evalúa posibles recursos judiciales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se encendió la polémica por los ponentes de la ley de rescate fiscal: oposición habló de exclusión",
+  "enlace": "https://caracol.com.co/2026/11/10/se-encendio-la-polemica-por-los-ponentes-de-la-ley-de-rescate-fiscal-oposicion-hablo-de-exclusion/",
+  "fecha": "2026-11-10T18:21:16-05:00",
+  "palabras": "",
+  "lead": "Varios congresistas denunciaron que solo se ha nombrado un ponente por comisión, lo que limitaría la participación de la mayoría de los partidos en la construcción de las ponencias. El presidente del Congreso habló al respecto.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atacan con explosivos hidroeléctrica en zona rural de Palmira",
+  "enlace": "https://caracol.com.co/2026/11/10/atacan-con-explosivos-hidroelectrica-en-zona-rural-de-palmira/",
+  "fecha": "2026-11-10T18:13:28-05:00",
+  "palabras": "",
+  "lead": "La empresa de energía Celsia confirmó que el atentado no dejó heridos ni fallecidos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hasta 5 millones serían las cuotas exigidas por el EGC a comerciantes para los regalos de navidad",
+  "enlace": "https://caracol.com.co/2026/11/10/hasta-5-millones-serian-las-cuotas-exigidas-por-el-egc-a-comerciantes-para-los-regalos-de-navidad/",
+  "fecha": "2026-11-10T18:14:32-05:00",
+  "palabras": "",
+  "lead": "Las fuentes del Nordeste, Norte y Occidente de Antioquia aseguraron que las reuniones son citadas por los denominados jefes sociales del gripo ilegal en Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno activa obras en la vía Buga–Buenaventura tras tres años de retrasos por licenciamientos",
+  "enlace": "https://caracol.com.co/2026/11/10/gobierno-activa-obras-en-la-via-bugabuenaventura-tras-tres-anos-de-retrasos-por-licenciamientos/",
+  "fecha": "2026-11-10T17:09:00-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Transporte confirmó que se superaron los problemas que tenían frenados nueve de estos tramos, relacionados con licencias, adquisición de predios y conflictos con las comunidades. La meta es terminar las obras en febrero de 2028.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Director de Nvidia tendría “el divorcio más caro de la historia”: lista de separaciones más costosas",
+  "enlace": "https://caracol.com.co/2026/11/10/director-de-nvidia-tendria-el-divorcio-mas-caro-de-la-historia-lista-de-separaciones-mas-costosas/",
+  "fecha": "2026-11-10T18:09:57-05:00",
+  "palabras": "",
+  "lead": "La actual esposa de Jensen Huang, Lori Huang, podría quedarse, según las leyes de California, con la mitad de su extenso patrimonio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "CIDH le levantó la inhabilidad a Luís Alfonso Hoyos",
+  "enlace": "https://www.lafm.com.co/politica/cidh-luis-alfonso-hoyos-fallo-inhabilidad-politico-procuraduria-416794",
+  "fecha": "2026-11-10T18:27:00-05:00",
+  "palabras": "Política,Comisión Interamericana de Derechos Humanos,CIDH,inhabilidad,Pérdida de curul,Reparación de víctimas,Indemnización,Consejo de Estado,Derechos humanos,violaciones,Audiencia judicial",
+  "lead": "El organismo internacional aprobó el Informe 233/25 en el que responsabiliza al Estado por vulnerar la protección judicial y la igualdad ante la ley tras l...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Arleth Carolina: su madre la encontró en Bogotá y volvió a perder su rastro",
+  "enlace": "https://www.lafm.com.co/actualidad/madre-arleth-carolina-alvarez-hija-volvio-a-perderse-en-bogota-416791",
+  "fecha": "2026-11-10T18:23:00-05:00",
+  "palabras": "Actualidad,Desaparecidos,profesores,profesor,Barranquilla,Carnaval de Barranquilla,Bogotá,La Fm,Fiscalía General de la Nación,Psiquiatría",
+  "lead": "La docente de 34 años fue ubicada en el centro de Bogotá. Su madre regresó al lugar donde se alojaba, pero esta vez no la encontró.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Premios Territorios Inclusivos: Valle y Bogotá entre los ganadores",
+  "enlace": "https://www.lafm.com.co/actualidad/premios-territorios-inclusivos-valle-cauca-bogota-manizales-territorios-reconocidos-416789",
+  "fecha": "2026-11-10T17:55:00-05:00",
+  "palabras": "Actualidad,inclusión,Integración Social,personas con discapacidad,Adultos mayores,Secretaría de Integración Social,Bienestar familiar,Comunidades vulnerables,Sostenibilidad,Terremoto en Colombia,Gobernación del Valle",
+  "lead": "Nueve territorios ganaron Territorios Inclusivos por programas que mejoran la vida de personas con discapacidad, mayores y cuidadores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Una bala le arrebató al vida a  una madre de familia",
+  "enlace": "https://www.lafm.com.co/orden-publico/mujer-asesinada-atlantico-madre-cabeza-hogar-cuatro-hijos-claman-justicia-416782",
+  "fecha": "2026-11-10T17:15:00-05:00",
+  "palabras": "Orden Público,Asesinato,Homicidios,actos violentos,Sicarios,Madres cabeza de familia",
+  "lead": "Zabit Barrios compartía con sus familiares cuando dos hombres en moto llegaron disparando contra un joven en el sur de Barranquilla.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
