@@ -557,7 +557,7 @@
   "palabras": "Bucaramanga, Bomberos de Bucaramanga, Incendio, Santander, Blu Radio, Noticias de hoy, Emergencias,  Bucaramanga",
   "lead": "Las autoridades adelantan las verificaciones para determinar qué provocó el incendio en el centro de la capital santandereana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "España, Vivienda",
   "lead": "El paro general, el primero desde 2012, estaba teniendo un seguimiento \"muy relevante\" en algunos sectores, según los sindicatos, si bien la principal patronal del país lo consideró \"bajo\".",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "En algunos departamentos se han registrado máximas cercanas a los 36 grados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "Hasta el momento, han recibido subsidios de arrendamiento gracias a aportes de las administraciones municipales y de la UNGRD.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "La emergencia se registró en la carrera 22, entre calles 36 y 37, en el barrio Bolivar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,6 +623,248 @@
   "palabras": "",
   "lead": "La presión militar llevó a la entrega del jefe de la estructura Ismael Ruiz, junto a su pareja y tres integrantes de su seguridad.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Estos son los barrios afectados con el corte de agua durante 48 horas en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/estos-son-los-barrios-afectados-con-el-corte-de-agua-durante-48-horas-en-bucaramanga-rg10",
+  "fecha": "2026-11-11T06:34:57-05:00",
+  "palabras": "Bucaramanga, Santander, Cortes de agua, Blu Radio",
+  "lead": "Más de 70.000 usuarios estarán sin servicio de agua en Bucaramanga por mantenimientos del Acueducto Metropolitano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Republicanos bloquean juicio político a secretario de Defensa en el Congreso de EEUU",
+  "enlace": "https://www.bluradio.com/mundo/republicanos-bloquean-juicio-politico-a-secretario-de-defensa-en-el-congreso-de-eeuu-cb20",
+  "fecha": "2026-11-11T06:41:45-05:00",
+  "palabras": "Estados Unidos, Congreso de Estados Unidos, Irán",
+  "lead": "Por 211 votos frente a 204, la Cámara decidió remitir la iniciativa al Comité Judicial, lo que en la práctica reduce sus posibilidades de prosperar.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nissan reporta pérdidas por 224 millones de euros en el primer semestre de 2026",
+  "enlace": "https://www.bluradio.com/motor/nissan-reporta-perdidas-por-224-millones-de-euros-en-el-primer-semestre-fiscal-de-2026-so35",
+  "fecha": "2026-11-11T06:46:37-05:00",
+  "palabras": "Nissan",
+  "lead": "La automotriz japonesa atribuye el resultado negativo a los costos extraordinarios de su plan de reestructuración y a un entorno de mercado global exigente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Evacuados decenas de colegios en Italia por falsas amenazas de bomba",
+  "enlace": "https://www.bluradio.com/mundo/evacuados-decenas-de-colegios-en-italia-por-falsas-amenazas-de-bomba-cb20",
+  "fecha": "2026-11-11T06:56:36-05:00",
+  "palabras": "Italia, Europa",
+  "lead": "La alarma se activó a primera hora de la mañana tras la recepción de un mensaje amenazante remitido a las direcciones oficiales de múltiples centros escolares.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Secuestran a la primera dama de Uribia, en La Guajira",
+  "enlace": "https://www.bluradio.com/regiones/caribe/secuestran-a-la-primera-dama-de-uribia-en-la-guajira-rg10",
+  "fecha": "2026-11-11T07:06:05-05:00",
+  "palabras": "Noticias de hoy, La Guajira",
+  "lead": "La también gestora social fue abordada por hombres armados cerca de un gimnasio del municipio guajiro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tránsito de Girón, Santander explica por qué agente condujo carro  inmovilizado",
+  "enlace": "https://caracol.com.co/2026/11/11/transito-de-giron-santander-explica-por-que-agente-condujo-carro-inmovilizado/",
+  "fecha": "2026-11-11T06:59:33-05:00",
+  "palabras": "",
+  "lead": "Las autoridades dicen que no hay nada irregular y ponen el asunto en manos de los organismos de control; los hechos ocurrieron el sábado en un puesto de control.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Durante el jueves no habrá devolución de vehículos inmovilizados en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/11/durante-el-jueves-no-habra-devolucion-de-vehiculos-inmovilizados-en-cartagena/",
+  "fecha": "2026-11-11T06:59:08-05:00",
+  "palabras": "",
+  "lead": "Establecen horarios de atención del DATT durante las Fiestas de la Independencia 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inversión de $14.000 millones para UMayor: se ampliará sede en el barrio Armenia",
+  "enlace": "https://caracol.com.co/2026/11/11/inversion-de-14000-millones-para-umayor-se-ampliara-sede-en-el-barrio-armenia/",
+  "fecha": "2026-11-11T06:42:51-05:00",
+  "palabras": "",
+  "lead": "La destinación de los recursos busca también mejorar condiciones para los estudiantes",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estas situaciones incrementan el riesgo: piloto por falla del software de control aéreo en El Dorado",
+  "enlace": "https://caracol.com.co/2026/11/11/estas-situaciones-incrementan-el-riesgo-piloto-por-falla-del-software-de-control-aereo-en-el-dorado/",
+  "fecha": "2026-11-11T06:35:10-05:00",
+  "palabras": "",
+  "lead": "Luis Fernando Orjuela, piloto comercial, se refirió a lo informado por la Aerocivil y subrayó que “la seguridad operacional no es la ausencia de riesgo, sino que es el control o la mitigación de esos riesgos”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tras la fachada de cachivacheros se ocultaba red de microtráfico en Bogotá: utilizaban menores",
+  "enlace": "https://caracol.com.co/2026/11/11/tras-la-fachada-de-cachivacheros-se-ocultaba-red-de-microtrafico-en-bogota-utilizaban-a-ninos/",
+  "fecha": "2026-11-11T06:56:08-05:00",
+  "palabras": "",
+  "lead": "Los 9 capturados tienen antecedentes judiciales por varios delitos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Arabia Saudita condenó a 100 latigazos a una mujer keniana por tener un hijo fuera del matrimonio",
+  "enlace": "https://caracol.com.co/2026/11/11/arabia-saudita-condeno-a-100-latigazos-a-una-mujer-keniana-por-tener-un-hijo-fuera-del-matrimonio/",
+  "fecha": "2026-11-11T06:54:53-05:00",
+  "palabras": "",
+  "lead": "Esther Muthoni, de 40 años, también recibió un año de destierro. Aún no hay fecha para el castigo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió mujer que fue víctima de un ataque sicarial en el barrio El Valle, en Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/11/murio-mujer-que-fue-victima-de-un-ataque-sicarial-en-el-barrio-el-valle-en-barranquilla/",
+  "fecha": "2026-11-11T04:51:43-05:00",
+  "palabras": "",
+  "lead": "La víctima, de 42 años, fue atacada por un hombre que ingresó a un establecimiento comercial haciéndose pasar por cliente.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abogado de Miguel Quintero denuncia hostigamientos y un intento de estafa mediante suplantación",
+  "enlace": "https://caracol.com.co/2026/11/11/abogado-de-miguel-quintero-denuncia-hostigamientos-y-un-intento-de-estafa-mediante-suplantacion/",
+  "fecha": "2026-11-11T06:52:25-05:00",
+  "palabras": "",
+  "lead": "Felipe Alzate Gómez aseguró que terceros se hicieron pasar por funcionarios judiciales para pedirle dinero a la esposa de su defendido. El caso fue denunciado ante la Fiscalía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Discolmets implementará en Tunja un sistema de citas para reclamar medicamentos sin hacer filas",
+  "enlace": "https://caracol.com.co/2026/11/11/discolmets-implementara-en-tunja-un-sistema-de-citas-para-reclamar-medicamentos-sin-hacer-filas/",
+  "fecha": "2026-11-11T06:51:57-05:00",
+  "palabras": "",
+  "lead": "El nuevo punto funcionará en el edificio Green Life, diagonal al centro comercial Viva.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Frente Polisario anuncia movilización general contra Marruecos por tensión en el Sáhara",
+  "enlace": "https://caracol.com.co/2026/11/11/frente-polisario-anuncia-movilizacion-general-contra-marruecos-por-tension-en-el-sahara/",
+  "fecha": "2026-11-11T06:50:24-05:00",
+  "palabras": "",
+  "lead": "El movimiento saharaui denuncia movimientos militares marroquíes tras la decisión de la ONU sobre la Minurso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministerio de Relaciones Exteriores empezó a revertir traslados anunciados hace pocos días",
+  "enlace": "https://caracol.com.co/2026/11/11/ministerio-de-relaciones-exteriores-empezo-a-revertir-traslados-anunciados-hace-pocos-dias/",
+  "fecha": "2026-11-11T05:55:00-05:00",
+  "palabras": "",
+  "lead": "El correo recibido por los funcionarios llegó acompañado de un documento adjunto que deben completar y donde autorizan de manera expresa la revocatoria del acto administrativo",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El ejército alemán proscribe el uso de drones chinos",
+  "enlace": "https://caracol.com.co/2026/11/11/el-ejercito-aleman-proscribe-el-uso-de-drones-chinos/",
+  "fecha": "2026-11-11T06:39:59-05:00",
+  "palabras": "",
+  "lead": "La decisión responde al temor de que estos dispositivos puedan transmitir información sensible sobre ejercicios militares, instalaciones y armamento a los servicios de inteligencia de China.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Delegación internacional y ONU escuchan en Katansama la voz del pueblo arhuaco",
+  "enlace": "https://caracol.com.co/2026/11/11/delegacion-internacional-y-onu-escuchan-en-katansama-la-voz-del-pueblo-arhuaco/",
+  "fecha": "2026-11-11T06:40:08-05:00",
+  "palabras": "",
+  "lead": "Una delegación diplomática de Alemania, Canadá, Cataluña, Noruega, Países Bajos, Reino Unido, Suecia y la Unión Europea, acompañada por ONU Derechos Humanos, visitó nuestra comunidad de Katansama para conocer de primera mano la situación de seguridad y las necesidades de los pueblos de la Sierra Nevada de Santa Marta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boyacá reporta 12 muertes violentas de mujeres en 2026, ocho relacionadas con hurtos",
+  "enlace": "https://caracol.com.co/2026/11/11/boyaca-reporta-12-muertes-violentas-de-mujeres-en-2026-ocho-relacionadas-con-hurtos/",
+  "fecha": "2026-11-11T06:35:42-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Gobierno informó que 10 casos han sido esclarecidos y confirmó que dos muertes violentas permanecen bajo investigación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hoy Santos, Duque y Petro celebran 10 años de la firma del proceso de paz",
+  "enlace": "https://www.lafm.com.co/politica/hoy-santos-duque-y-petro-celebran-10-anos-de-la-firma-del-proceso-de-paz-416824",
+  "fecha": "2026-11-11T06:45:00-05:00",
+  "palabras": "Política,Juan Manuel Santos,Iván Duque,Gustavo Petro,Acuerdo de paz,Paz,Proceso de Paz,Colombia,Historia",
+  "lead": "La conmemoración de los diez años de la firma del Acuerdo de Paz con las FARC tendrá este miércoles un encuentro de alto contenido político en la Defensorí...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Octavo bombardeo de las Fuerzas Militares: se usó el Reaper",
+  "enlace": "https://www.lafm.com.co/actualidad/octavo-bombardeo-de-las-fuerzas-militares-se-uso-dron-reaper-416822",
+  "fecha": "2026-11-11T06:33:00-05:00",
+  "palabras": "Actualidad,Colombia,Fuerzas Armadas,Bombas,Drones,Estados Unidos",
+  "lead": "Es el segundo bombardeo apoyado por Estados Unidos por medio del uso del mega dron Reaper, que es implementado para labores de inteligencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "El papa irá a Perú y la primera dama representará a Colombia",
+  "enlace": "https://www.lafm.com.co/internacional/papa-gira-por-sudamerica-termino-visita-en-argentina-se-dirige-a-peru-416819",
+  "fecha": "2026-11-11T06:22:00-05:00",
+  "palabras": "Internacional,Papa León XIV,sudamerica,Latinoamerica,Argentina,Perú",
+  "lead": "El papa León XIV continúa su gira por la región del cono sur.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
