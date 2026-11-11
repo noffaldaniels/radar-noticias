@@ -146,6 +146,20 @@
    "quien": "Ana María Vesga, ministra de Salud",
    "que": "Denunció presuntas irregularidades en un contrato logístico suscrito durante el gobierno de Gustavo Petro por 1.750 millones de pesos, ampliado en 490 millones, el cual registra cuentas pendientes de cobro sin soportes por 1.798 millones de pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:12",
+   "quien": "José David, periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Reveló un informe de inteligencia del 19 de octubre que alerta sobre planes del ELN para perpetrar un atentado terrorista con drones contra la base aérea de Palanquero en Puerto Salgar, siendo la tercera alerta recibida por la Fuerza Aérea.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:16",
+   "quien": "Capitán Luis Fernando Orjuela, aviador e investigador de accidentes aéreos",
+   "que": "Cuestionó el parte de tranquilidad de la Aerocivil al advertir que la falla en el sistema de Indra sí elevó el riesgo operacional aéreo, en medio de los anuncios del Ministerio de Transporte sobre millonarias inversiones requeridas por obsolescencia tecnológica.",
+   "resaltar": false
   }
  ],
  "avisos": []
