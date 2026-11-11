@@ -1492,7 +1492,7 @@
   "palabras": "Trabajo, Consejo de Estado, SENA",
   "lead": "La decisión permite acordar esta etapa por escrito, pero no autoriza despidos automáticos ni elimina los derechos laborales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "Bandas criminales, Fiscalía General de la Nación",
   "lead": "Según la investigación, en algunas ocasiones las víctimas habrían tenido que pagar hasta 50 millones de pesos para recuperar sus viviendas después de haber sido expulsadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "ETB, Telefonía móvil, Internet, Bogotá",
   "lead": "Entre enero y septiembre, la empresa mejoró sus resultados, aumentó sus ingresos un 5,4 % y redujo sus gastos un 11,5 %. Sin embargo, todavía registra pérdidas al hacer el balance total.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "El volante cucuteño salvó un empate para Nacional en Manizales, con un auténtico golazo.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "El Ejército Nacional advirtió que las operaciones militares se han intensificado en el sur del departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Esto en respuesta a un derecho de petición del representante Alejandro Toro, del Pacto Histórico.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "El hombre fue capturado en un puesto de control en La Tebaida, Quindío",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "Sabina Carrau, portavoz del Sindicato de Inquilinas en Madrid, explicó el trasfondo de la huelga general que se adelanta en España.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "La alcaldesa Angélica María García Rodríguez y representantes del sector minero celebraron la decisión del Ministerio de Ambiente de ratificar los acuerdos concertados con el municipio en 2021 y 2022.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "La senadora María Clara Posada, se refirió acerca de su proyecto de ley y el caso de Santiago Uribe",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "La noticia sobre el cartel surgió después de que SZA diera pistas en sus redes sociales sobre los artistas principales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "La III Clínica de Proyectos de Animación ofrecerá acompañamiento especializado a nuevos creadores y contempla una residencia internacional de mes y medio en la Casa del Autor de Zapopan, México",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "Internacional,Rusia,Ucrania,Estados Unidos,Emiratos Árabes Unidos",
   "lead": "Después de meses, los tres países reanudaron contactos directos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Actualidad,Ministerio de Salud,medicamentos,Bogotá,Alcaldía de Bogotá",
   "lead": "Decenas de usuarios denuncian largas filas y falta de personal en los dispensarios, para poder reclamar sus tratamientos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Deportes,Luis Díaz,Paris Saint-Germain,Fichajes,Jugador lesionado,Bayern Múnich,Champions League,Bundesliga,Ligue 1",
   "lead": "El delantero colombiano se recupera de una complicada lesión muscular mientras los rumores prendieron las alarmas en el Bayern Munich.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "Orden Público,Corte Suprema de Justicia,Congreso de la República,Senado de la República",
   "lead": "La Corte Suprema abrió incidente de medida correctiva contra Astrid Salamanca por presunta obstrucción a inspección en Senado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,6 +1668,171 @@
   "palabras": "Actualidad,Secuestros,alcaldes,Inseguridad,Plan candado,La Guajira",
   "lead": "El secuestro ocurrió este miércoles en la mañana. La Fuerza Pública activó un plan candado y busca encontrarla.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bla Bla Blu, programa completo del 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/bla-bla-blu/bla-bla-blu-programa-completo-del-10-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-11T09:12:44-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 10 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Anif propone una reforma tributaria con menos IVA y plantea ajustes al gasto público",
+  "enlace": "https://www.bluradio.com/economia/anif-plantea-una-reforma-tributaria-con-menos-iva-y-plantea-ajustes-al-gasto-publico-rg10",
+  "fecha": "2026-11-11T09:17:32-05:00",
+  "palabras": "Reforma tributaria, Anif",
+  "lead": "El centro de estudios cree que es inconveniente eliminar los beneficios en salud para las empresas en pleno cambio tecnológico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 11 de noviembre de 2026 en Colombia: la moneda inicia la jornada recuperando terreno",
+  "enlace": "https://caracol.com.co/2026/11/11/dolar-hoy-11-de-noviembre-de-2026-en-colombia-la-moneda-inicia-la-jornada-recuperando-terreno/",
+  "fecha": "2026-11-11T09:12:40-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este miércoles, 11 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además del euro, el petróleo y el bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Banda habría expulsado a familias en Cali y cobraba $50 millones; afectó a un comedor comunitario",
+  "enlace": "https://caracol.com.co/2026/11/11/banda-habria-expulsado-a-familias-en-cali-y-cobraba-50-millones-afecto-a-un-comedor-comunitario/",
+  "fecha": "2026-11-11T09:16:14-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía documentó 37 casos de extorsión y 19 de desplazamiento forzado. Una familia perdió $28 millones tras ser expulsada de su vivienda, donde funcionaba un comedor comunitario",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Don Omar suspende nuevamente su gira tras recaída de una infección respiratoria",
+  "enlace": "https://caracol.com.co/2026/11/11/don-omar-suspende-nuevamente-su-gira-tras-recaida-de-una-infeccion-respiratoria/",
+  "fecha": "2026-11-11T09:14:57-05:00",
+  "palabras": "",
+  "lead": "El cantante puertorriqueño tuvo que cancelar las presentaciones que tenía pendientes en Ontario, Las Vegas y Salt Lake City por recomendación médica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Encontré el sentido a mi vida, salvar personas”: ‘Topito’, niño que rescató personas en Pereira",
+  "enlace": "https://caracol.com.co/2026/11/11/encontre-el-sentido-a-mi-vida-salvar-personas-topito-nino-que-rescata-personas-en-pereira/",
+  "fecha": "2026-11-11T08:53:40-05:00",
+  "palabras": "",
+  "lead": "‘Topito’ sueña con ser rescatista o bombero y se hizo tendencia tras decir su famosa frase “ningún colombiano puede dejar solo a su país” en medio de los trabajos de rescate tras el terremoto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Ha sido una luchadora incansable”: acalde de Uribia, Jaime Buitrago, sobre secuestro de su esposa",
+  "enlace": "https://caracol.com.co/2026/11/11/ha-sido-una-luchadora-incansable-acalde-de-uribia-jaime-buitrago-sobre-secuestro-de-su-esposa/",
+  "fecha": "2026-11-11T09:04:57-05:00",
+  "palabras": "",
+  "lead": "En horas de la mañana de este miércoles la primera dama de Uribia fue secuestrada en La Guajira",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Otra banda confirmó que no asistirá a su inducción al Salón de la Fama del Rock: ¿De quién se trata?",
+  "enlace": "https://caracol.com.co/2026/11/11/otra-banda-confirmo-que-no-asistira-a-su-induccion-al-salon-de-la-fama-del-rock-de-quien-se-trata/",
+  "fecha": "2026-11-11T09:06:51-05:00",
+  "palabras": "",
+  "lead": "La ceremonia de ingreso al Salón de la Fama del Rock & Roll tendrá lugar este sábado en el Peacock Theater de Los Ángeles, California.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concluyeron las negociaciones entre Rusia, Ucrania y Estados Unidos en Abu Dabi",
+  "enlace": "https://caracol.com.co/2026/11/11/concluyeron-las-negociaciones-entre-rusia-ucrania-y-estados-unidos-en-abu-dabi/",
+  "fecha": "2026-11-11T09:06:36-05:00",
+  "palabras": "",
+  "lead": "Uno de los principales puntos de discusión fue la posibilidad de intercambiar hasta 1.500 prisioneros de guerra por cada bando. Ucrania también planteó establecer una tregua para avanzar en las negociaciones, una propuesta que Rusia sigue rechazando, mientras Estados Unidos busca un acuerdo que garantice una paz duradera en Europa.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fenalco Antioquia alertó de compleja sostenibilidad de colegios y universidades por baja natalidad",
+  "enlace": "https://caracol.com.co/2026/11/11/fenalco-antioquia-alerto-de-compleja-sostenibilidad-de-colegios-y-universidades-por-baja-natalidad/",
+  "fecha": "2026-11-11T09:05:24-05:00",
+  "palabras": "",
+  "lead": "La reducción de la natalidad en los más recientes 8 años ha sido cercana al 30 por ciento en Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a extorsionistas que suplantaban a las disidencias de las Farc en San Antonio, Tolima",
+  "enlace": "https://caracol.com.co/2026/11/11/capturan-a-extorsionistas-que-suplantaban-a-las-disidencias-de-las-farc-en-san-antonio-tolima/",
+  "fecha": "2026-11-11T08:59:16-05:00",
+  "palabras": "",
+  "lead": "Los capturados citaban a comerciantes y campesinos a supuestas reuniones en zonas rurales, donde les exigían dinero a cambio de no atentar contra sus vidas.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reforma tributaria debe ser repartida a comisiones terceras y cuartas: Unidad Técnica Legislativa",
+  "enlace": "https://caracol.com.co/2026/11/11/reforma-tributaria-debe-ser-repartida-a-comisiones-terceras-y-cuartas-unidad-tecnica-legislativa/",
+  "fecha": "2026-11-11T08:56:26-05:00",
+  "palabras": "",
+  "lead": "Noticia en desarrollo...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Restrepo habló con el FMI sobre la regla fiscal de Colombia",
+  "enlace": "https://www.lafm.com.co/economia/restrepo-fmi-regla-fiscal-ajuste-ley-de-rescate-colombia-416856",
+  "fecha": "2026-11-11T09:15:00-05:00",
+  "palabras": "Economía,José Manuel Restrepo,Regla fiscal,Marco fiscal,déficit fiscal,Medidas económicas,medidas fiscales,Recaudo fiscal,Beneficios tributarios,Impuesto de Renta,Crecimiento económico",
+  "lead": "El vicepresidente José Manuel Restrepo dijo que expuso al FMI sus reparos al manejo de la regla fiscal y advirtió que, sin un ajuste, Colombia podría enfre...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "D'arcy Quinn: Gustavo Petro sale de X y entra Angie Rodríguez",
+  "enlace": "https://www.lafm.com.co/politica/gustavo-petro-sale-redes-sociales-entra-angie-rodriguez-416854",
+  "fecha": "2026-11-11T08:55:00-05:00",
+  "palabras": "Política,Gustavo Petro,Elecciones en Colombia,Abelardo de la Espriella,Procolombia,Ofertas laborales,periodismo investigativo",
+  "lead": "Angie Rodríguez prepara nuevas revelaciones contra Petro, mientras Pedro Sánchez suena como posible candidato a la Gobernación de Boyacá y crecen las dudas...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Debate por la deportación de delincuentes: ¿es necesaria la expulsión?",
+  "enlace": "https://www.lafm.com.co/politica/deportacion-extranjeros-de-colombia-debate-politica-migratoria-416844",
+  "fecha": "2026-11-11T08:21:00-05:00",
+  "palabras": "Política,Colombia,Abelardo de la Espriella,Venezuela,Delincuentes capturados,Inseguridad",
+  "lead": "Los derechos de los colombianos deben protegerse; pero, ¿la estrategia del gobierno puede ser contraproducente?",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
