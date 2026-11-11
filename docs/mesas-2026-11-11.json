@@ -727,6 +727,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Una mujer de 42 años fue asesinada con arma blanca en Candelaria (Valle del Cauca); su pareja sería el principal sospechoso y huyó del lugar. Con este caso se reportan 136 homicidios de mujeres durante este año en Valle del Cauca.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:32",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Presenta el caso de Roberto Mosquera del Peral, un ciudadano cubano detenido en Estados Unidos que lleva más de un año (17 meses) en una cárcel tras operaciones de ICE.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:34",
+   "quien": "Roberto Mosquera del Peral (Ciudadano cubano deportado)",
+   "que": "Relata que fue capturado en Estados Unidos por la inmigración al ir a firmar tras tener problemas legales de hace 30 años y fue trasladado a celdas con capacidad de 60 hombres donde estuvieron en condiciones precarias.",
+   "resaltar": false
   }
  ],
  "avisos": [
