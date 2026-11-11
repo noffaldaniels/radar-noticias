@@ -454,6 +454,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "La Gobernación del Atlántico convocó un consejo de seguridad con enfoque de género para analizar 73 asesinatos de mujeres registrados en el año en ese departamento y definir acciones concretas, tras denuncias de demoras de la Fiscalía donde apenas nueve casos han sido reconocidos como feminicidios.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:34",
+   "quien": "Daniel Coronell (Periodista)",
+   "que": "El uribismo tramita un proyecto de ley con dedicatoria (Ley con nombre propio) para favorecer al exsenador Santiago Uribe Vélez, condenado a 28 años de prisión por homicidio agravado y concierto para delinquir, buscando beneficiarlo con la prescripción y nulidad de su condena.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:39",
+   "quien": "Senadora María Clara Posada (Centro Democrático)",
+   "que": "Defendió el proyecto de ley que promueve, argumentando que busca corregir una supuesta injusticia con el exsenador Santiago Uribe Vélez, asegurando que su condena desconoce la jurisprudencia de la Corte Interamericana de Derechos Humanos y vulnera el derecho al debido proceso.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:40",
+   "quien": "Daniel Coronell (Periodista)",
+   "que": "Explicó los detalles jurídicos del caso de Santiago Uribe Vélez, señalando que la Corte Suprema de Justicia confirmó su condena de 28 años de prisión el 3 de junio de este año, y que el proyecto de ley impulsado por el uribismo busca crear una nueva oportunidad procesal para anular dicha condena.",
+   "resaltar": false
   }
  ],
  "avisos": [
