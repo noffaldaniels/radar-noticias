@@ -41,6 +41,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Senado de la República programó una sesión especial mediante comisión accidental para el seguimiento a la atención y reconstrucción tras el terremoto del 10 de agosto, con citación a funcionarios del Gobierno como Jaime Andrés Uribe, gerente del Fondo Milagro.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:54",
+   "quien": "Valentina Herrera, periodista de Mañanas Blu",
+   "que": "La Superintendencia Nacional de Salud ordenó medidas a la EPS Sanitas ante demoras y filas de 3 a 6 horas generadas por el cambio de operador a Colsubsidio para la entrega de medicamentos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:56",
+   "quien": "Juan Manuel Santos, expresidente de Colombia",
+   "que": "Cuestionó al mandatario por vestir uniforme militar, mostrar cadáveres y firmar bombas tras una operación contra disidencias de las FARC en el Catatumbo, advirtiendo sobre el riesgo de volver al pasado.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "05:58",
+   "quien": "Víctor Grosso, periodista de Mañanas Blu",
+   "que": "Reveló el borrador de casi 500 páginas del Plan Nacional de Desarrollo, que proyecta un crecimiento del 6%, llevar la inversión al 25% del PIB y reducir la pobreza monetaria del 28% al 20%.",
+   "resaltar": false
   }
  ],
  "avisos": []
