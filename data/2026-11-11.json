@@ -1679,7 +1679,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 10 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "Reforma tributaria, Anif",
   "lead": "El centro de estudios cree que es inconveniente eliminar los beneficios en salud para las empresas en pleno cambio tecnológico.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Así inició la jornada del dólar en Colombia este miércoles, 11 de noviembre. Conozca el comportamiento del dólar estadounidense y canadiense, además del euro, el petróleo y el bitcoin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "La Fiscalía documentó 37 casos de extorsión y 19 de desplazamiento forzado. Una familia perdió $28 millones tras ser expulsada de su vivienda, donde funcionaba un comedor comunitario",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "El cantante puertorriqueño tuvo que cancelar las presentaciones que tenía pendientes en Ontario, Las Vegas y Salt Lake City por recomendación médica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "‘Topito’ sueña con ser rescatista o bombero y se hizo tendencia tras decir su famosa frase “ningún colombiano puede dejar solo a su país” en medio de los trabajos de rescate tras el terremoto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "En horas de la mañana de este miércoles la primera dama de Uribia fue secuestrada en La Guajira",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "La ceremonia de ingreso al Salón de la Fama del Rock & Roll tendrá lugar este sábado en el Peacock Theater de Los Ángeles, California.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "",
   "lead": "Uno de los principales puntos de discusión fue la posibilidad de intercambiar hasta 1.500 prisioneros de guerra por cada bando. Ucrania también planteó establecer una tregua para avanzar en las negociaciones, una propuesta que Rusia sigue rechazando, mientras Estados Unidos busca un acuerdo que garantice una paz duradera en Europa.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "",
   "lead": "La reducción de la natalidad en los más recientes 8 años ha sido cercana al 30 por ciento en Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "",
   "lead": "Los capturados citaban a comerciantes y campesinos a supuestas reuniones en zonas rurales, donde les exigían dinero a cambio de no atentar contra sus vidas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "",
   "lead": "Noticia en desarrollo...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "Economía,José Manuel Restrepo,Regla fiscal,Marco fiscal,déficit fiscal,Medidas económicas,medidas fiscales,Recaudo fiscal,Beneficios tributarios,Impuesto de Renta,Crecimiento económico",
   "lead": "El vicepresidente José Manuel Restrepo dijo que expuso al FMI sus reparos al manejo de la regla fiscal y advirtió que, sin un ajuste, Colombia podría enfre...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "Política,Gustavo Petro,Elecciones en Colombia,Abelardo de la Espriella,Procolombia,Ofertas laborales,periodismo investigativo",
   "lead": "Angie Rodríguez prepara nuevas revelaciones contra Petro, mientras Pedro Sánchez suena como posible candidato a la Gobernación de Boyacá y crecen las dudas...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1832,6 +1832,391 @@
   "fecha": "2026-11-11T08:21:00-05:00",
   "palabras": "Política,Colombia,Abelardo de la Espriella,Venezuela,Delincuentes capturados,Inseguridad",
   "lead": "Los derechos de los colombianos deben protegerse; pero, ¿la estrategia del gobierno puede ser contraproducente?",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Las mujeres detrás de las flores colombianas: ocupan el 60 % de los empleos directos del sector",
+  "enlace": "https://www.bluradio.com/economia/las-mujeres-detras-de-las-flores-colombianas-ocupan-el-60-de-los-empleos-directos-del-sector-rg10",
+  "fecha": "2026-11-11T09:45:03-05:00",
+  "palabras": "Exportaciones, Mujeres, Empleo",
+  "lead": "La floricultura genera 240.000 empleos en Colombia, de los cuales 90.000 de los puestos directos están ocupados por mujeres. Blu Radio conoció sus historias en Bojacá, Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cundinamarca lanza 12 proyectos que aliviarán la vida a más de 200.000 personas: así funcionarán",
+  "enlace": "https://www.bluradio.com/regiones/cundinamarca/cundinamarca-lanza-12-proyectos-que-aliviaran-la-vida-a-mas-de-200-000-personas-asi-funcionaran-so35",
+  "fecha": "2026-11-11T09:42:20-05:00",
+  "palabras": "Agua potable, Jorge Emilio Rey",
+  "lead": "La Gobernación y EPC formalizaron acuerdos para ejecutar obras que mejorarán la calidad de vida urbana y rural en Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Mi pálpito es que el Fondo Milagro no tiene recursos, que empiece a operar”: alcalde de Pereira",
+  "enlace": "https://www.bluradio.com/nacion/mi-palpito-es-que-el-fondo-milagro-no-tiene-recursos-que-empiece-a-operar-alcalde-de-pereira-pr30",
+  "fecha": "2026-11-11T09:38:52-05:00",
+  "palabras": "Terremoto hoy, Pereira, Risaralda, Gobierno nacional",
+  "lead": "Pese a que el Presidente de la República ha visitado la ciudad en cinco ocasiones y anunció una partida inicial de 332.000 millones de pesos a través del Fondo Milagro, Salazar aclaró que dichos recursos aún no se han visto traducidos en entregas masivas, habiéndose entregado únicamente 85…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Incautan 1.100 toneladas de químico usado para fabricar explosivos en Santa Marta",
+  "enlace": "https://www.bluradio.com/regiones/caribe/incautan-1-100-toneladas-de-quimico-usado-para-fabricar-explosivos-en-santa-marta-rg10",
+  "fecha": "2026-11-11T10:18:06-05:00",
+  "palabras": "Noticias de hoy, Santa Marta",
+  "lead": "Se trata de nitrato de amonio de procedencia extranjera incautado por la Policía Fiscal y Aduanera durante un operativo de allanamiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Mañana, resultado del último sorteo de hoy miércoles 11 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-manana-resultado-del-ultimo-sorteo-de-hoy-miercoles-11-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-11T10:07:52-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Mañana",
+  "lead": "El sorteo de Dorado Mañana se realiza de lunes a sábado a las 11:00 a. m. Consulte aquí el resultado de este miércoles 11 de noviembre, las últimas cifras, la quinta balota y el plan de premios de este popular chance en Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fuerte advertencia del vicepresidente: sin reforma tributaria, el país entrará en crisis en 2027",
+  "enlace": "https://www.bluradio.com/economia/fuerte-advertencia-del-vicepresidente-sin-reforma-tributaria-el-pais-entrara-en-crisis-en-2027-pr30",
+  "fecha": "2026-11-11T10:10:23-05:00",
+  "palabras": "Economía, Reforma tributaria, José Manuel Restrepo",
+  "lead": "El alto dignatario señaló que, de no aprobarse la iniciativa durante el primer trimestre de 2027, el país enfrentará una severa crisis fiscal con un alto riesgo de impago (default), lo cual podría traducirse en un millón de colombianos adicionales en la pobreza y en un escenario de inflación o…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Roberto Prieto no aceptó cargos por financiación irregular de campaña presidencial de Santos",
+  "enlace": "https://www.bluradio.com/judicial/roberto-prieto-no-acepto-cargos-por-financiacion-irregular-de-campana-presidencial-de-santos-rg10",
+  "fecha": "2026-11-11T10:20:18-05:00",
+  "palabras": "Juan Manuel Santos, Roberto Prieto",
+  "lead": "La Fiscalía también señaló que la campaña recibió ingresos provenientes de fuentes prohibidas, entre ellos recursos relacionados con la multinacional brasileña Odebrecht, pese a lo cual recibió la reposición de votos correspondiente a las dos vueltas de las elecciones presidenciales de 2014.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tribunal Administrativo de Antioquia ordena recuperar en seis meses la vía Medellín-Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/11/tribunal-administrativo-de-antioquia-ordena-recuperar-en-seis-meses-la-via-medellin-bogota/",
+  "fecha": "2026-11-11T10:22:43-05:00",
+  "palabras": "",
+  "lead": "El fallo exige a Invías intervenir el tramo entre El Santuario y Caño Alegre. La decisión se conoce tras la reactivación del peaje de El Santuario, mientras Puerto Triunfo sigue sin cobro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Disparos en Cañaveral, Floridablanca: Comunidad persiguió y retuvo a un presunto ladrón",
+  "enlace": "https://caracol.com.co/2026/11/11/disparos-en-canaveral-floridablanca-comunidad-persiguio-y-retuvo-a-un-presunto-ladron/",
+  "fecha": "2026-11-11T10:16:32-05:00",
+  "palabras": "",
+  "lead": "El señalado ladrón fue reducido por los ciudadanos cerca de la Fosunab. La Policía recuperó un teléfono celular, avaluado en 800 mil pesos, e incautó una motocicleta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperar las zonas afectadas por minería ilegal en el Tolima costaría $270.000 millones",
+  "enlace": "https://caracol.com.co/2026/11/11/recuperar-las-zonas-afectadas-por-mineria-ilegal-en-el-tolima-costaria-270000-millones/",
+  "fecha": "2026-11-11T10:17:55-05:00",
+  "palabras": "",
+  "lead": "La cifra incluye labores de recuperación de los ríos, restauración de las hectáreas afectadas y la implementación de planes de manejo ambiental.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Aerocivil revela que emergencia en El Dorado estaría relacionada con fallas en red de comunicaciones",
+  "enlace": "https://caracol.com.co/2026/11/11/aerocivil-revela-que-emergencia-en-el-dorado-estaria-relacionada-con-fallas-en-red-de-comunicaciones/",
+  "fecha": "2026-11-11T10:18:39-05:00",
+  "palabras": "",
+  "lead": "El hallazgo contrasta con la explicación que la entidad entregó ante la Procuraduría, donde atribuyó la novedad a una indisponibilidad del software de INDRA.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "China reitera su apoyo a Cuba frente a sanciones",
+  "enlace": "https://caracol.com.co/2026/11/11/china-reitera-su-apoyo-a-cuba-frente-a-sanciones/",
+  "fecha": "2026-11-11T10:02:20-05:00",
+  "palabras": "",
+  "lead": "Ministro chino aseguró que Pekín está dispuesto a trabajar con La Habana para consolidar y desarrollar las relaciones de amistad entre ambos países.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Arcángel reúne a estrellas urbanas en Las Vegas durante la semana del Latin Grammy",
+  "enlace": "https://caracol.com.co/2026/11/11/arcangel-reune-a-estrellas-urbanas-en-las-vegas-durante-la-semana-del-latin-grammy/",
+  "fecha": "2026-11-11T10:12:01-05:00",
+  "palabras": "",
+  "lead": "El cantante puertorriqueño fue anfitrión de un encuentro organizado por Hypebeast Latam en Las Vegas, junto a artistas como Ryan Castro y Greeicy.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Me dijeron ‘welcome to Esuatini’ y llevo ya 17 meses aquí”: cubano deportado por EE. UU. a África",
+  "enlace": "https://caracol.com.co/2026/11/11/me-dijeron-welcome-to-esuatini-y-llevo-ya-17-meses-aqui-cubano-deportado-por-ee-uu-a-africa/",
+  "fecha": "2026-11-11T09:50:36-05:00",
+  "palabras": "",
+  "lead": "Roberto Mosquera Del Peral, fue arrestado en Estados Unidos durante una cita anual de rutina con inmigración y trasladado en un vuelo militar hacia Esuatini, país africano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 11 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/11/precio-y-cotizacion-del-dolar-en-venezuela-hoy-11-de-noviembre-de-2026/",
+  "fecha": "2026-11-11T10:04:44-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en dólares y otras divisas del mundo. También, cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ucrania y Rusia acordaron canje de prisioneros “a gran escala” en Abu Dabi",
+  "enlace": "https://caracol.com.co/2026/11/11/ucrania-y-rusia-acordaron-canje-de-prisioneros-a-gran-escala-en-abu-dabi/",
+  "fecha": "2026-11-11T09:51:22-05:00",
+  "palabras": "",
+  "lead": "Pese al acercamiento, persisten las diferencias sobre el control territorial y un posible alto el fuego. Los emisarios estadounidenses se reunirán este jueves con Vladímir Putin en Moscú y posteriormente con Volodímir Zelenski en Dublín para intentar avanzar hacia un acuerdo de paz.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Para las obras no queda plata: Jorge Bolívar advierte alto gasto en OPS en la Alcaldía de Ibagué",
+  "enlace": "https://caracol.com.co/2026/11/11/para-las-obras-no-queda-plata-jorge-bolivar-advierte-alto-gasto-en-ops-en-la-alcaldia-de-ibague/",
+  "fecha": "2026-11-11T10:01:01-05:00",
+  "palabras": "",
+  "lead": "El concejal del Partido Conservador advirtió que la Alcaldía de Ibagué tendrá cerca de $400 mil millones en recursos de libre destinación para el 2027, pero las obras las hará vía créditos y no con recursos propios.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Neiva reporta avances en salud pública y destaca la reducción de casos de dengue en el año 2026",
+  "enlace": "https://caracol.com.co/2026/11/11/neiva-reporta-avances-en-salud-publica-y-destaca-la-reduccion-de-casos-de-dengue-en-el-ano-2026/",
+  "fecha": "2026-11-11T09:58:46-05:00",
+  "palabras": "",
+  "lead": "La Secretaría de Salud registra 81 % de ejecución y destaca acciones de prevención, vigilancia sanitaria y atención.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autorregulación no ha dado resultados: experto sobre disminución de riesgos en redes sociales",
+  "enlace": "https://caracol.com.co/2026/11/11/autorregulacion-no-ha-dado-resultados-experto-sobre-disminucion-de-riesgos-en-redes-sociales/",
+  "fecha": "2026-11-11T09:58:26-05:00",
+  "palabras": "",
+  "lead": "Un experto en ciberseguridad dialogó en 6AM W y apuntó que, “al menos en Europa, hay unas directivas, en Estados Unidos también, que intentan encorsetar y, de alguna forma, poner un marco más rígido, transparente y también punible a las plataformas, sobre todo cuando se trata de la victimización de personas menores”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Millonarios, con tres bajas sensibles  confirmadas para el juego clave ante Alianza FC",
+  "enlace": "https://caracol.com.co/2026/11/11/millonarios-con-tres-bajas-sensibles-confirmadas-para-el-juego-clave-ante-alianza-fc/",
+  "fecha": "2026-11-11T09:54:38-05:00",
+  "palabras": "",
+  "lead": "El equipo bogotano se juega su clasificación en casa el próximo sábado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Falso sacerdote fue capturado con arma, municiones y tusi en Rionegro, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/11/falso-sacerdote-fue-capturado-con-arma-municiones-y-tusi-en-rionegro-antioquia/",
+  "fecha": "2026-11-11T09:51:24-05:00",
+  "palabras": "",
+  "lead": "Una de sus modalidades consistiría en hospedarse en hoteles y abandonar los establecimientos sin pagar las cuentas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín registra más de 22.000 casos de atención prehospitalaria entre enero y septiembre del 2026",
+  "enlace": "https://caracol.com.co/2026/11/11/medellin-registra-mas-de-22000-casos-de-atencion-prehospitalaria-entre-enero-y-septiembre-del-2026/",
+  "fecha": "2026-11-11T09:50:08-05:00",
+  "palabras": "",
+  "lead": "El Valle de Aburrá destacará la labor de los profesionales que responden ante situaciones de urgencia y emergencia, por medio de la conmemoración del día del APH.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército anuncia nuevo batallón para combatir la minería ilegal en el sur del Tolima",
+  "enlace": "https://caracol.com.co/2026/11/11/ejercito-anuncia-nuevo-batallon-para-combatir-la-mineria-ilegal-en-el-sur-del-tolima/",
+  "fecha": "2026-11-11T09:46:21-05:00",
+  "palabras": "",
+  "lead": "Se prevé que el nuevo batallón llegue al sur del Tolima en diciembre, luego de las críticas por el retiro de la Fuerza de Despliegue Rápido desde el 2025.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría dio ultimátum a Aerocivil tras no responder petición por fallas en aeropuerto El Dorado",
+  "enlace": "https://caracol.com.co/2026/11/11/contraloria-dio-ultimatum-a-aerocivil-tras-no-responder-peticion-por-fallas-en-aeropuerto-el-dorado/",
+  "fecha": "2026-11-11T09:45:46-05:00",
+  "palabras": "",
+  "lead": "La Aeronáutica Civil no respondió a la petición que le hizo la Contraloría General sobre las fallas en los radares o el software que provocó caos en el Aeropuerto El Dorado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juan Gossaín tomó posesión como embajador de Colombia en Francia",
+  "enlace": "https://caracol.com.co/2026/11/11/juan-gossain-tomo-posesion-como-embajador-de-colombia-en-francia/",
+  "fecha": "2026-11-11T09:41:25-05:00",
+  "palabras": "",
+  "lead": "El exgobernador de Bolívar también representará al país ante la Unesco",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "XPeng planea lanzar sus carros voladores a gran escala en China durante 2027",
+  "enlace": "https://caracol.com.co/2026/11/11/xpeng-planea-lanzar-sus-carros-voladores-a-gran-escala-en-china-durante-2027/",
+  "fecha": "2026-11-11T09:39:49-05:00",
+  "palabras": "",
+  "lead": "La compañía china ya recibió más de 7.000 pedidos y espera iniciar entregas limitadas antes del despliegue comercial.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "David González no se confía a pesar del triunfo en Copa: “Tenemos que hacer nuestro trabajo en Cali”",
+  "enlace": "https://caracol.com.co/2026/11/11/david-gonzalez-no-se-confia-a-pesar-del-triunfo-en-copa-tenemos-que-hacer-nuestro-trabajo-en-cali/",
+  "fecha": "2026-11-11T09:32:30-05:00",
+  "palabras": "",
+  "lead": "El entrenador Escarlata valoró la remontada 2-1 en Bogotá, por la semifinal de ida de la Copa Colombia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gerente del Fondo Milagro no asistirá al debate de control político sobre atención del terremoto",
+  "enlace": "https://caracol.com.co/2026/11/11/gerente-del-fondo-milagro-no-asistira-al-debate-de-control-politico-sobre-atencion-del-terremoto/",
+  "fecha": "2026-11-11T09:31:57-05:00",
+  "palabras": "",
+  "lead": "Asegura que no asistirá, pues fue “convocado de manera extraordinaria a acompañar una agenda del señor presidente en el municipio de Roldanillo, Valle del Cauca” para entregar “beneficios de vivienda”.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Alcaldía de Ibagué descarta invertir $1.700 millones en gasificación rural",
+  "enlace": "https://caracol.com.co/2026/11/11/la-alcaldia-de-ibague-descarta-invertir-1700-millones-en-gasificacion-rural/",
+  "fecha": "2026-11-11T09:31:29-05:00",
+  "palabras": "",
+  "lead": "Los recursos que hacen parte de un empréstito serán redireccionados para obras de infraestructura vial en la zona rural.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hegseth terminará el año en su cargo: Republicanos bloquean intento de juicio político",
+  "enlace": "https://www.lafm.com.co/internacional/pete-hegseth-supera-intento-juicio-politico-estados-unidos-416862",
+  "fecha": "2026-11-11T09:52:00-05:00",
+  "palabras": "Internacional,Estados Unidos,Capitolio Nacional,Donald Trump,Washington,Irán",
+  "lead": "A Hegseth se le acusa de abusar de su autoridad en la guerra con Irán.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Petro asegura que nunca vio a Deicy Jiménez como presidente",
+  "enlace": "https://www.lafm.com.co/politica/gustavo-petro-asegura-que-nunca-vio-a-deicy-jimenez-como-presidente-416859",
+  "fecha": "2026-11-11T09:24:00-05:00",
+  "palabras": "Política,Gustavo Petro,contratos,Sexualidad,María José Pizarro,Fiscalía General de la Nación,Irregularidades en contratos",
+  "lead": "El expresidente se refirió nuevamente al escándalo del caso de las 48.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "España paralizada: Inicia este miércoles huelga general por altos precios de la vivienda y bajos salarios",
+  "enlace": "https://www.lafm.com.co/internacional/espana-huelga-general-aumento-precios-viviendas-madrid-416858",
+  "fecha": "2026-11-11T09:22:00-05:00",
+  "palabras": "Internacional,España,Huelga,Madrid,índice de precios al consumidor",
+  "lead": "Los salarios pactados en convenios colectivos registran un incremento del 3%, frente a una inflación del 4,9%.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Rescate Económica: qué respalda y qué cuestiona ANIF",
+  "enlace": "https://www.lafm.com.co/economia/ley-de-rescate-economica-que-propone-anif-sobre-el-iva-y-la-venta-de-isa-416848",
+  "fecha": "2026-11-11T08:33:00-05:00",
+  "palabras": "Economía,Medidas económicas,Plan de austeridad,Regla fiscal,Impuestos,Recaudo tributario,Reforma pensional,Deuda externa,PIB,Inversiones,recursos públicos",
+  "lead": "ANIF plantea recortar más el gasto público, gravar las pensiones altas y desmontar de forma gradual el subsidio al ACPM.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los cinco nombres sorpresa de Colombia para enfrentar a Chile",
+  "enlace": "https://www.lafm.com.co/deportes/seleccion-colombia-partido-chile-convocatoria-sorpresas-fecha-fifa-416847",
+  "fecha": "2026-11-11T08:31:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Selección Chile,Federación Colombiana de Fútbol,James Rodríguez,Cali, Colombia,Colombia",
+  "lead": "El técnico argentino le ha apostado a la renovación luego de que James Rodríguez y varios referentes más terminaran su ciclo Tricolor.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Los retos del Gobierno y los gremios para definir el SMLV",
+  "enlace": "https://www.lafm.com.co/sociedad/salario-minimo-los-retos-para-el-gobierno-y-los-gremios-para-llegar-a-un-acuerdo-416836",
+  "fecha": "2026-11-11T07:58:00-05:00",
+  "palabras": "Sociedad,Salario Mínimo,Colombia,Gobierno,Gremio,Trabajadores,Empresas",
+  "lead": "Con una inflación creciente y con las partes divididas, el aumento podrá ayudar a nivelar la economía de la nación.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
