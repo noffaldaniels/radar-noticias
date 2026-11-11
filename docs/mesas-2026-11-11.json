@@ -181,6 +181,27 @@
    "quien": "Juan Pablo, periodista de Noticias La FM con Juan Lozano",
    "que": "OPAIN confirmó nuevas fallas en los servidores de El Dorado que afectaron las plataformas de registro, embarque de pasajeros y el sistema de verificación VeriPax.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:23",
+   "quien": "Hugo Mario Palomar, periodista de Mañanas Blu",
+   "que": "Reportó el cuarto atentado contra la sede de RCN en Cali, perpetrado a las 3:00 a. m. por dos sujetos en motocicleta que lanzaron un artefacto explosivo en el barrio Los Mangos; la Policía detuvo a dos sospechosos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:24",
+   "quien": "Abelardo de la Espriella, presidente de la República",
+   "que": "Ordenó el despliegue de la fuerza pública y de inteligencia para ubicar y capturar a los responsables del atentado a RCN, señalando que el Estado no permitirá que grupos narcoterroristas intimiden a la prensa.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:30",
+   "quien": "Néstor Morales, periodista de Mañanas Blu",
+   "que": "Informó que el Gobierno revocó la designación de Camilo Noguera Pardo como director del ICANH, luego de que modificara el manual de funciones a espaldas de la ministra de Cultura para poder asumir el cargo.",
+   "resaltar": false
   }
  ],
  "avisos": []
