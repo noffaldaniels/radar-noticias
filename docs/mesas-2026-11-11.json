@@ -692,6 +692,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Detalles sobre la situación familiar de 'El Topito', cuya madre perdió la vida por un derrame cerebral en 2020, quedando al cuidado de su madre y padrastros trabajadores en Pereira.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:32",
+   "quien": "Miguel Tellado (Portavoz del Partido Popular)",
+   "que": "Se pronunció en contra de la huelga de sindicatos en España, calificándola como una huelga preventiva frente al próximo gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:32",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Denunció que la Policía Nacional utilizó gas pimienta contra manifestantes y un ay sordos (líder sindical) durante protestas en España.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:37",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "Informó que dos importantes borrascas han provocado intensas lluvias y alertas en buena parte de España, complicando el acceso de muchas personas a sus trabajos.",
+   "resaltar": false
   }
  ],
  "avisos": [
