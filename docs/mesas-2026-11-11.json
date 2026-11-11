@@ -160,6 +160,27 @@
    "quien": "Capitán Luis Fernando Orjuela, aviador e investigador de accidentes aéreos",
    "que": "Cuestionó el parte de tranquilidad de la Aerocivil al advertir que la falla en el sistema de Indra sí elevó el riesgo operacional aéreo, en medio de los anuncios del Ministerio de Transporte sobre millonarias inversiones requeridas por obsolescencia tecnológica.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:11",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Luz Stella Murgas fue elegida nueva presidenta de la ANDI en reemplazo de Bruce Mac Master tras 13 años en el cargo; el Ministerio de Comercio y Carlos Suárez, presidente de la junta de Ecopetrol, manifestaron disposición para trabajar con el gremio.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:16",
+   "quien": "Pepe Morón, periodista de Noticias La FM con Juan Lozano",
+   "que": "La Aeronáutica Civil confirmó ante la Procuraduría que las fallas de pantallas en el aeropuerto El Dorado obedecen a la obsolescencia del software AirCon Icon implementado en 2013, y advirtió que la solución definitiva tardará hasta mediados del próximo año.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:18",
+   "quien": "Juan Pablo, periodista de Noticias La FM con Juan Lozano",
+   "que": "OPAIN confirmó nuevas fallas en los servidores de El Dorado que afectaron las plataformas de registro, embarque de pasajeros y el sistema de verificación VeriPax.",
+   "resaltar": false
   }
  ],
  "avisos": []
