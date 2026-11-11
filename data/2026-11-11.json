@@ -4451,7 +4451,7 @@
   "palabras": "Terremoto hoy, Cali",
   "lead": "La recuperación de la ciudad continúa entre evaluaciones estructurales, demoliciones y preocupaciones de los vecinos en un contexto donde cada edificio requiere una intervención diferente.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4462,7 +4462,7 @@
   "palabras": "Selección Colombia, Néstor Lorenzo, Cali, Juan David Cabal, Juan David Cabal, Selección Colombia",
   "lead": "La renovación en la tricolor luego del Mundial es un hecho y los nuevos llamados no quieres desaprovechar la oportunidad.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4473,7 +4473,7 @@
   "palabras": "Navidad, Bomberos de Bogotá, Cuándo armar el árbol de Navidad",
   "lead": "Con la llegada de la Navidad, muchas familias se preparan para decorar sus hogares. Sin embargo, hay una fecha tradicional para armar el árbol y recomendaciones al momento de decorarlo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4484,7 +4484,7 @@
   "palabras": "ANDI, Corficolombiana",
   "lead": "Corficolombiana plantea que la nueva dirigente de la Asociación deberá priorizar el ajuste fiscal, destrabar proyectos que requieren 150 billones y reconstruir la confianza con el Gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4495,7 +4495,7 @@
   "palabras": "Viral, Psicología",
   "lead": "La psicóloga Clàudia Hernández explica qué ocurre después de una traición, por qué ciertos comportamientos despiertan inseguridad y cuáles son las claves para reconstruir el vínculo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4506,7 +4506,7 @@
   "palabras": "Salario mínimo, Corficolombiana",
   "lead": "Para la Corporación, un alza desproporcionada tendría efectos similares al aumento del 23 % del salario mínimo para 2026, que, según estima, le costó cerca de $5 billones al presupuesto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4517,7 +4517,7 @@
   "palabras": "Noticias de hoy, Homicidios",
   "lead": "Lo que buscaría con esta herramienta jurídica es que los jefes de estructuras criminales tengan penas diferenciadas y no salgan rápidamente de las cárceles del país, como es el caso de alias 'Tom'.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4528,7 +4528,7 @@
   "palabras": "Salud, Sistema de salud, EPS",
   "lead": "La Academia Nacional de Medicina, la Asociación Colombiana de Sociedades Científicas y el Colegio Médico Colombiano presentaron una propuesta al Ministerio de Salud que busca mejorar el uso de los recursos, fortalecer la calidad de la atención y contribuir a la sostenibilidad financiera del sistema.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4539,7 +4539,7 @@
   "palabras": "Juan Manuel Santos, Iván Duque, JEP",
   "lead": "Durante un evento conmemorativo, los exmandatarios defendieron sus posiciones frente a la implementación del acuerdo con las Farc, reconocieron el cumplimiento de este durante sus gobiernos y cuestionaron sus resultados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4550,7 +4550,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Hasta el momento, se desconoce si hay personas heridas o fallecidas como consecuencia de este ataque.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4561,7 +4561,7 @@
   "palabras": "Aranceles, China, Vehículos",
   "lead": "El costo de importación de estos productos podría aumentar hasta un 88,64 %. El sector transportador advierte que la medida pondría presión sobre las tarifas y la operación de buses y camiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4572,7 +4572,7 @@
   "palabras": "IA, Inteligencia Artificial, inteligencia artificial",
   "lead": "Aunque casi todos los adultos del país ya tienen algún producto financiero, las dificultades para acceder a préstamos y encontrar soluciones que se ajusten a sus necesidades siguen marcando una brecha, especialmente en las zonas rurales y entre los jóvenes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4583,7 +4583,7 @@
   "palabras": "Antioquia, Fenómeno de El Niño, Noticias de hoy, Ideam, Medellín",
   "lead": "Algunos municipios han superado los 40° de temperatura por lo que las autoridades siguen pidiendo a la población medidas de prevención.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4594,7 +4594,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "El mejor equipo deportivo de la radio con las mejores noticias. Escuche el programa completo de Blog Deportivo de este miércoles.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4605,7 +4605,7 @@
   "palabras": "Noticias de hoy, Buenaventura",
   "lead": "La situación cobra especial relevancia si se tiene en cuenta que por Buenaventura se moviliza el 42 % de la carga de comercio internacional de Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4616,7 +4616,7 @@
   "palabras": "Terremoto hoy",
   "lead": "El Fondo cuenta con un presupuesto aprobado de $624.656 millones, provenientes de un crédito inicial de 200 millones de dólares con el Banco Mundial.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4627,7 +4627,7 @@
   "palabras": "Minería, Agricultura, accidentalidad laboral, accidentes laborales",
   "lead": "Entre los principales riesgos están la exposición al ruido, la caída de materiales, los gases peligrosos y partículas que pueden causar lesiones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4638,7 +4638,7 @@
   "palabras": "Paraguay",
   "lead": "Las autoridades de Paraguay intensifican la búsqueda internacional de fondos y bienes que estarían vinculados al escándalo financiero de Ueno Bank.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4649,7 +4649,7 @@
   "palabras": "Colegios privados, Menores de edad, Valeria Afanador, niña down",
   "lead": "Carlos Lozada, padre de familia y vocero de los estudiantes, explicó que algunos integrantes de la comunidad educativa consideran que la reubicación no responde a las garantías académicas necesarias e implica interrumpir procesos pedagógicos de varios años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4660,7 +4660,7 @@
   "palabras": "Ministerio de Agricultura, Gobierno nacional",
   "lead": "El Ministerio de Agricultura terminó la derogatoria de las Áreas de Protección para la Producción de Alimentos en un millón de hectareas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4671,7 +4671,7 @@
   "palabras": "Superintendencia de Transporte, Aeropuerto Internacional El Dorado, El Dorado, domoras el dorado",
   "lead": "La entidad acordó compromisos con Opain, la ANI, Aerocivil y las aerolíneas para mejorar la atención a los pasajeros y buscar alternativas que reduzcan el costo de los tiquetes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4682,7 +4682,7 @@
   "palabras": "",
   "lead": "El canciller presentó una carta ofreciendo excusas a los líderes demócratas por sus antiguas publicaciones en X, reconoció que usó un lenguaje “irrespetuoso”",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4693,7 +4693,7 @@
   "palabras": "",
   "lead": "En medio de su discurso durante la audiencia de conmemoración de los 10 años del Acuerdo de Paz, el expresidente Iván Duque fue abucheado tras cuestionar a la JEP. Una vez terminó su intervención, abandonó el recinto sin haber terminado el evento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4704,7 +4704,7 @@
   "palabras": "",
   "lead": "La noticia fue confirmada por el Ministerio de Cultura mediante un comunicado publicado en sus redes sociales.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4715,7 +4715,7 @@
   "palabras": "",
   "lead": "El secretario de Infraestructura, Luis Felipe Gutiérrez, explicó que antes de instalar la tubería sanitaria en ese tramo deben resolver la conexión del colector de aguas lluvias. También confirmó que el colector sanitario de Pescaito ya está en operación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4726,7 +4726,7 @@
   "palabras": "",
   "lead": "Le contamos como consultar si es beneficiario de Prosperidad Social, este es el paso a paso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4737,7 +4737,7 @@
   "palabras": "",
   "lead": "Miller Soto, vocero del presidente Abelardo De La Espriella, explicó cómo se reorientarán los recursos que inicialmente estaban contemplados para las plantas desalinizadoras.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4748,7 +4748,7 @@
   "palabras": "",
   "lead": "El combinado nacional regresa al estadio Olímpico Pascual Guerrero, después de 30 años",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4759,7 +4759,7 @@
   "palabras": "",
   "lead": "De acuerdo con el Ministerio, la revisión identificó deficiencias en la delimitación de las áreas protegidas e incluidas imprecisiones cartográficas",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4770,7 +4770,7 @@
   "palabras": "",
   "lead": "El espacio busca ser un complejo turístico",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4781,7 +4781,7 @@
   "palabras": "",
   "lead": "El extremo colombiano interesa en Inglaterra y a otros equipos europeos. Aunque tiene contrato hasta 2031.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4792,7 +4792,7 @@
   "palabras": "",
   "lead": "El boxeador colombiano llegó hasta las semifinales de los 50 kilogramos y aseguró el séptimo podio de la delegación nacional en Dakar 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4803,7 +4803,7 @@
   "palabras": "",
   "lead": "Julian Fernández, economista y profesor asistente de Finanzas de la Pontificia Universidad Javeriana, señaló que la banca digital impulsa la competencia y ayuda a desconcentrar el mercado financiero en Colombia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4814,7 +4814,7 @@
   "palabras": "",
   "lead": "El vicepresidente regional de IATA para las Américas señaló que solo se han implementado tres de las 23 recomendaciones del estudio de capacidad del aeropuerto y pidió acelerar las mejoras en la infraestructura aérea del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4825,7 +4825,7 @@
   "palabras": "",
   "lead": "Uno de los proyectos más ambiciosos es la construcción de la primera Villa Olímpica de Sucre, que se levanta en un terreno de 15 hectáreas sobre el corredor que comunica a Sincelejo con el Golfo de Morrosquillo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4836,7 +4836,7 @@
   "palabras": "",
   "lead": "El actual secretario del Ministerio de Salud llegaría a la entidad en calidad de encargo por un viaje de la viceministra Marcela Brun.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4847,7 +4847,7 @@
   "palabras": "",
   "lead": "Así puede revisar si es beneficiario del subsidio de Renta Ciudadana y cómo reclamarlo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4858,7 +4858,7 @@
   "palabras": "",
   "lead": "La Corte Constitucional dio luz verde al Estado de Emergencia Económica, Social y Ecológica decretado por el Gobierno tras el terremoto del 10 de agosto de 2026",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4869,7 +4869,7 @@
   "palabras": "",
   "lead": "El ministro de Gobierno, Marco Antonio Oviedo, aseguró que la estructura operaría desde el Trópico de Cochabamba",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4880,7 +4880,7 @@
   "palabras": "",
   "lead": "Caracol Radio conoció en primicia que todos los gremios se sentarán por primera vez con la cartera dirigida por Miguel Gómez para escuchar detalles de la ley de rescate fiscal, y exponer sus inquietudes y reparos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4891,7 +4891,7 @@
   "palabras": "",
   "lead": "Este medio de comunicación fue atacado con una granada en la madrugada de este miércoles 11 de noviembre.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4902,7 +4902,7 @@
   "palabras": "",
   "lead": "La concejal Tata Hernández cuestionó que recursos destinados a prevenir el feminicidio, apoyar a mujeres cuidadoras y promover la salud mental estén incluidos en un contrato de $868 millones para actividades recreativas y eventos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4913,7 +4913,7 @@
   "palabras": "",
   "lead": "Una mujer fue capturada y una camioneta incautada. El cargamento era transportado en compartimientos acondicionados para evadir los controles.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4924,7 +4924,7 @@
   "palabras": "",
   "lead": "La emergencia se reporta en el sector El Tambor, a pocos kilómetros del área urbana de esa población del Occidente de Antioquia, que tiene solo una vía de acceso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4935,7 +4935,7 @@
   "palabras": "",
   "lead": "Los casos más críticos se registran en los municipios de Moñitos y Los Córdobas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4946,7 +4946,7 @@
   "palabras": "",
   "lead": "Más de 100 organizaciones alertaron sobre las pérdidas para el Estado, los ahorros de millones de personas y el impacto en el empleo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4957,7 +4957,7 @@
   "palabras": "Política,Cancilleria de Colombia,Estados Unidos,Partido político",
   "lead": "En una carta fechada el 10 de noviembre, el jefe de la diplomacia colombiana dice que sus mensajes en redes eran \"inapropiados e irrespetuosos\". Asegura qu...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4968,7 +4968,7 @@
   "palabras": "Orden Público,Corte Constitucional,Terremoto en Colombia,Gobierno",
   "lead": "La Corte avaló la emergencia por el terremoto, pero exige límites territoriales y de recursos: no financiar déficit ni problemas anteriores.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4979,7 +4979,7 @@
   "palabras": "Política,Ministerio del interior,medidas fiscales,Medidas económicas,Propuestas,Políticos,Oposición,Congreso de la República",
   "lead": "Confirmó que también están avanzando los acercamientos con los partidos políticos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -4990,7 +4990,7 @@
   "palabras": "Política,Acuerdo de paz,Iván Duque,Juan Manuel Santos,Proceso de Paz,JurisdicciónEspecialParalaPaz,Justicia transicional,victimas del conflicto armado",
   "lead": "Mientras Santos aseguró que la paz no se hace solamente “bombardeando”, en una clara crítica al presidente De la Espriella, Duque aseguró que en la JEP “no...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5001,7 +5001,7 @@
   "palabras": "Sociedad,Patrimonio Cultural Inmaterial,Cartagena,Día de la Independencia,Ministerio de Cultura,Patrimonio cultural,Celebraciones,alcaldía de cartagena",
   "lead": "Cartagena suma a las Fiestas de Independencia a la Lista Representativa de Patrimonio Inmaterial Nacional (Res. 0668 de 2026).",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5012,6 +5012,391 @@
   "palabras": "Sociedad,Alcaldía de Bogotá,Candidatos,Bogotá,Concejo de Bogotá",
   "lead": "Rafael Humberto Amín, aseguró que comenzará a recorrer la ciudad y planteó la necesidad de unir a los sectores de derecha.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo hoy miércoles 11 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-hoy-miercoles-11-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-11T17:43:28-05:00",
+  "palabras": "Paisita Noche, Resultados del chance",
+  "lead": "El sorteo de Paisita Noche se realiza todos los días después de las 6:00 p. m. Los participantes pueden consultar aquí el resultado de la jornada, las últimas cifras y conocer las modalidades de apuesta y los requisitos para reclamar un premio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo hoy miércoles 11 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-hoy-miercoles-11-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-11T17:43:57-05:00",
+  "palabras": "Chontico Noche , Resultados del chance",
+  "lead": "El sorteo del Chontico Noche se realiza todos los días, aunque su horario cambia según la jornada. Consulte el resultado de este miércoles 11 de noviembre y conozca las modalidades de apuesta y los requisitos para reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Canciller Omar Bula se disculpa por sus publicaciones contra el Partido Demócrata de Estados Unidos",
+  "enlace": "https://www.bluradio.com/politica/canciller-omar-bula-se-disculpa-por-sus-publicaciones-contra-el-partido-democrata-de-estados-unidos-rg10",
+  "fecha": "2026-11-11T17:43:04-05:00",
+  "palabras": "Estados Unidos, Omar Bula Escobar",
+  "lead": "El Ministro de Relaciones Exteriores de Colombia pide disculpas al Partido Demócrata de Estados Unidos, ante publicaciones y comentarios con lenguaje inapropiado e irrespetuoso.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno evalúa nuevo crédito de USD 200 millones con el Banco Mundial para atender terremoto",
+  "enlace": "https://www.bluradio.com/economia/gobierno-evalua-nuevo-credito-de-usd-200-millones-con-el-banco-mundial-para-atender-terremoto-rg10",
+  "fecha": "2026-11-11T17:39:09-05:00",
+  "palabras": "Banco Mundial, Gobierno nacional, Fondo Milagro, terremoto, terremoto en Colombia",
+  "lead": "El anuncio lo planteó el ministro de Hacienda, durante el debate de la Comisión Accidental Bicameral sobre el Fondo Milagro.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Día de los Solteros: la fecha que invita a celebrar la individualidad y explorar nuevos estilos",
+  "enlace": "https://www.bluradio.com/sociedad/dia-de-los-solteros-la-fecha-que-invita-a-celebrar-la-individualidad-y-explorar-nuevos-estilos-rs15",
+  "fecha": "2026-11-11T17:40:08-05:00",
+  "palabras": "",
+  "lead": "La jornada del 11 de noviembre ha evolucionado hasta convertirse en una oportunidad para explorar nuevas formas de expresión y encontrar en el maquillaje una manera de reflejar el estilo personal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Metro de Medellín estrenó pagos sin contacto con tarjetas débito y crédito: así funcionan",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/metro-de-medellin-estreno-pagos-sin-contacto-con-tarjetas-debito-y-credito-asi-funcionan-so35",
+  "fecha": "2026-11-11T18:18:10-05:00",
+  "palabras": "Noticias de hoy, Medellín, Movilidad",
+  "lead": "La nueva modalidad está dirigida, especialmente, a visitantes, usuarios eventuales y personas que no cuentan con una tarjeta Cívica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Accidente que involucra al Tren de la Sabana deja una persona lesionada en Bogotá",
+  "enlace": "https://www.bluradio.com/regiones/bogota/accidente-que-involucra-al-tren-de-la-sabana-deja-una-persona-lesionada-en-bogota-so35",
+  "fecha": "2026-11-11T17:52:44-05:00",
+  "palabras": "Accidente de tránsito",
+  "lead": "De acuerdo con información preliminar, el herido sería un hombre que habría quedado debajo del tren.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Disminuye la pobreza, pero persiste la violencia”: Viviane Morales cuestionó el Acuerdo de Paz",
+  "enlace": "https://www.bluradio.com/nacion/disminuye-la-pobreza-pero-persiste-la-violencia-viviane-morales-cuestiono-el-acuerdo-de-paz-rg10",
+  "fecha": "2026-11-11T18:13:42-05:00",
+  "palabras": "Acuerdo de paz, Viviane Morales",
+  "lead": "La alta comisionada de Paz advirtió que pese a la inversión en los territorios PDET, persisten la violencia y los cultivos ilícitos durante el debate control político en las comisiones de Paz y Posconflicto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "JEP imputa a ocho exmilitares por su responsabilidad en genocidio de la Unión Patriótica",
+  "enlace": "https://www.bluradio.com/judicial/jep-imputa-a-ocho-exmilitares-por-su-responsabilidad-en-genocidio-de-la-union-patriotica-rg10",
+  "fecha": "2026-11-11T17:55:03-05:00",
+  "palabras": "Union Patriótica, JEP, Genocidio, JEP, UP, crímenes Unión Patriótica",
+  "lead": "Los ocho comparecientes tendrán 15 días hábiles para reconocer responsabilidad o controvertir los hallazgos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Comprar tiquetes de madrugada realmente es más barato? Aclaran mitos de viajeros",
+  "enlace": "https://www.bluradio.com/turismo/comprar-tiquetes-de-madrugada-realmente-es-mas-barato-aclaran-mitos-de-viajeros-so35",
+  "fecha": "2026-11-11T18:08:43-05:00",
+  "palabras": "Tiquetes aéreos, Viajes, Turismo",
+  "lead": "Muchos esperan hasta la madrugada para comprar tiquetes baratos y, en algunos casos, algunas personas han asegurado que esta táctica les ha funcionado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de 10.000 afectados deja colapso de puente en vía principal de Peque, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/mas-de-10-000-afectados-deja-colapso-de-puente-en-via-principal-de-peque-antioquia-rg10",
+  "fecha": "2026-11-11T18:19:25-05:00",
+  "palabras": "Antioquia, Noticias de hoy, Movilidad",
+  "lead": "En las últimas horas la Gobernación visitó la zona para definir medidas que permitan habilitar el paso provisional sobre el corredor que conduce a Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Impactante video: camión pierde el control en plena carretera y choca de frente contra un carro",
+  "enlace": "https://www.bluradio.com/mundo/impactante-video-camion-pierde-el-control-en-plena-carretera-y-choca-de-frente-contra-un-carro-rs15",
+  "fecha": "2026-11-11T18:21:54-05:00",
+  "palabras": "Viral, Rumania, Accidente de tránsito",
+  "lead": "La grabación también muestra cómo un segundo vehículo de carga terminó involucrado en el siniestro. Autoridades investigan la causa.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Corte Constitucional avala emergencia por terremoto, pero impone límites al Gobierno",
+  "enlace": "https://www.bluradio.com/nacion/corte-constitucional-avala-emergencia-por-terremoto-pero-impone-limites-al-gobierno-rg10",
+  "fecha": "2026-11-11T18:13:17-05:00",
+  "palabras": "Corte Constitucional, Gobierno nacional, terremoto, terremoto en Colombia",
+  "lead": "El Gobierno podrá mantener la emergencia económica por el terremoto, pero deberá justificar la necesidad de los gastos extraordinarios, garantizar controles sobre los recursos y limitar las medidas a los territorios afectados.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Contraloría revela presuntas irregularidades en DNI: millonario sistema biométrico que no funciona",
+  "enlace": "https://caracol.com.co/2026/11/11/contraloria-revela-presuntas-irregularidades-en-dni-millonario-sistema-biometrico-que-no-funciona/",
+  "fecha": "2026-11-11T18:24:05-05:00",
+  "palabras": "",
+  "lead": "La entidad señaló que pagaron $ 580 millones por un sistema biométrico que no funcionó y hay deficiencias en diseños del edificio de la sede operativa en Funza.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Defensa de Verónica Alcocer pidió a la Fiscalía acceso a indagación por narcotráfico",
+  "enlace": "https://caracol.com.co/2026/11/11/defensa-de-veronica-alcocer-pidio-a-la-fiscalia-acceso-a-indagacion-por-narcotrafico/",
+  "fecha": "2026-11-11T18:23:12-05:00",
+  "palabras": "",
+  "lead": "Esto luego de que la Fiscalía hubiese citado a Eva Ferrer a rendir declaración juramentada el próximo 24 y 25 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "DNI reconoce que nunca auditó sus inmuebles; denuncias pasaron a control disciplinario",
+  "enlace": "https://caracol.com.co/2026/11/11/dni-reconoce-que-nunca-audito-sus-inmuebles-denuncias-pasaron-a-control-disciplinario/",
+  "fecha": "2026-11-11T18:21:16-05:00",
+  "palabras": "",
+  "lead": "Contraloría y Congreso no pidieron cuentas. El informe de empalme no trae alertas sobre sus sedes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia pide apoyo a EEUU para encontrar a la subteniente María Pantoja, secuestrada por el ELN",
+  "enlace": "https://caracol.com.co/2026/11/11/colombia-pide-apoyo-a-eeuu-para-encontrar-a-la-subteniente-maria-pantoja-secuestrada-por-el-eln/",
+  "fecha": "2026-11-11T18:21:16-05:00",
+  "palabras": "",
+  "lead": "La subteniente Pantoja fue secuestrada el pasado 4 de noviembre en Saravena, Arauca, por hombres armados que se movilizaban en una motocicleta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia alista su ilusión mundialista: estas son las figuras de la Sub-17 para Catar 2026",
+  "enlace": "https://caracol.com.co/2026/11/11/colombia-alista-su-ilusion-mundialista-estas-son-las-figuras-de-la-sub-17-para-catar-2026/",
+  "fecha": "2026-11-11T18:18:31-05:00",
+  "palabras": "",
+  "lead": "Conozca los 21 jugadores convocados por el seleccionador Fredy Hurtado para disputar la Copa Mundial de la categoría.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salario mínimo 2027: ¿En cuánto quedaría la hora laboral con aumentos de empresarios y sindicatos?",
+  "enlace": "https://caracol.com.co/2026/11/11/salario-minimo-2027-en-cuanto-quedaria-la-hora-laboral-con-aumentos-de-empresarios-y-sindicatos/",
+  "fecha": "2026-11-11T18:09:32-05:00",
+  "palabras": "",
+  "lead": "El valor de la hora con salario mínimo podría dispararse en Colombia con una propuesta de aumento elevada: estas son las proyecciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Tiene cremas abiertas hace meses? Estas son las señales para saber si ya no sirven",
+  "enlace": "https://caracol.com.co/2026/11/11/tiene-cremas-abiertas-hace-meses-estas-son-las-senales-para-saber-si-ya-no-sirven/",
+  "fecha": "2026-11-11T18:03:10-05:00",
+  "palabras": "",
+  "lead": "Le contamos cómo reconocer las señales de un producto que ya no es efectivo, para evitar usar productos en mal estado y lastimar su piel",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carroza rendirá homenaje al Mercado de Bazurto en el Bando de Independencia",
+  "enlace": "https://caracol.com.co/2026/11/11/carroza-rendira-homenaje-al-mercado-de-bazurto-en-el-bando-de-independencia/",
+  "fecha": "2026-11-11T18:07:16-05:00",
+  "palabras": "",
+  "lead": "La obra fue concebida por el artista plástico Alfredo Atencio",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corte Suprema abrió indagación previa a ‘Marco Calarcá’ y Sandra Ramírez por caso de Miguel Uribe",
+  "enlace": "https://caracol.com.co/2026/11/11/corte-suprema-abrio-indagacion-previa-a-marco-calarca-y-sandra-ramirez-por-caso-de-miguel-uribe/",
+  "fecha": "2026-11-11T18:05:48-05:00",
+  "palabras": "",
+  "lead": "La magistrada Patricia del Socorro Hernández Zambrano de la Sala de Instrucción de la Corte Suprema de Justicia abrió indagación previa a Luis Alberto Albán ‘Marco Calarcá’ y Sandra Ramírez",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Dorado queda bajo inspección: Supertransporte exige soluciones a fallas que afectan a viajeros",
+  "enlace": "https://caracol.com.co/2026/11/11/el-dorado-queda-bajo-inspeccion-supertransporte-exige-soluciones-a-fallas-que-afectan-a-viajeros/",
+  "fecha": "2026-11-11T15:52:00-05:00",
+  "palabras": "",
+  "lead": "Equipajes, congestiones, transporte informal y atención a pasajeros con movilidad reducida están entre los problemas que deberán atender los operadores y las autoridades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cayeron ‘Los Tocayos’ por presunto robo de celular en el barrio Piedra de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/11/cayeron-los-tocayos-por-presunto-robo-de-celular-en-el-barrio-piedra-de-bolivar/",
+  "fecha": "2026-11-11T17:58:56-05:00",
+  "palabras": "",
+  "lead": "Los sujetos quedaron a disposición de la Fiscalía",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atacan nuevamente con explosivos lanzados desde drones el peaje de Mondomo en la vía Panamericana",
+  "enlace": "https://caracol.com.co/2026/11/11/atacan-nuevamente-con-explosivos-lanzados-desde-drones-el-peaje-de-mondomo-en-la-via-panamericana/",
+  "fecha": "2026-11-11T15:00:00-05:00",
+  "palabras": "",
+  "lead": "El ataque puso en riesgo a trabajadores del peaje, conductores y estudiantes de una institución educativa cercana. La movilidad ya fue restablecida.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan motocicleta en la que se movilizaba la niña Zoe Soto, arrastrada por arroyo en Soledad",
+  "enlace": "https://caracol.com.co/2026/11/11/hallan-motocicleta-en-la-que-se-movilizaba-la-nina-zoe-soto-arrastrada-por-arroyo-en-soledad/",
+  "fecha": "2026-11-11T17:50:00-05:00",
+  "palabras": "",
+  "lead": "La búsqueda de la menor continuará este jueves 12 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Conexión vial San Cristóbal- Hatoviejo- Arroyohondo fue entregada por el presidente de la Espriella",
+  "enlace": "https://caracol.com.co/2026/11/11/conexion-vial-san-cristobal-hatoviejo-arroyohondo-fue-entregada-por-el-presidente-de-la-espriella/",
+  "fecha": "2026-11-11T17:48:43-05:00",
+  "palabras": "",
+  "lead": "La intervención tiene 15,8 kilómetros de carpeta asfáltica",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Agresión en hospital de El Retén dejó daños en urgencias mientras atendían a cuatro heridos",
+  "enlace": "https://caracol.com.co/2026/11/11/agresion-en-hospital-de-el-reten-dejo-danos-en-urgencias-mientras-atendian-a-cuatro-heridos/",
+  "fecha": "2026-11-11T17:45:00-05:00",
+  "palabras": "",
+  "lead": "La Gobernación del Magdalena anunció acciones legales y medidas para garantizar la atención médica en el municipio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No voy a concentrar todos los esfuerzos en las grandes ciudades”: presidente de la Espriella",
+  "enlace": "https://caracol.com.co/2026/11/11/no-voy-a-concentrar-todos-los-esfuerzos-en-las-grandes-ciudades-presidente-de-la-espriella/",
+  "fecha": "2026-11-11T17:43:17-05:00",
+  "palabras": "",
+  "lead": "El mandatario indicó que en materia vial la inversión será para los proyectos rurales",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Corficolombiana propone subir 8 % el salario mínimo de 2027 y alerta por presión fiscal",
+  "enlace": "https://caracol.com.co/2026/11/11/corficolombiana-propone-subir-8-el-salario-minimo-de-2027-y-alerta-por-presion-fiscal/",
+  "fecha": "2026-11-11T13:40:00-05:00",
+  "palabras": "",
+  "lead": "César Pabón sostiene que un incremento superior al 8 % podría sumar presión a la inflación, el empleo y las cuentas del Estado. También advierte que, sin un ajuste fiscal suficiente, la deuda podría llegar al 82 % del PIB.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consulta previa en Colombia: el debate por los trámites que tienen en jaque a grandes proyectos",
+  "enlace": "https://caracol.com.co/2026/11/11/consulta-previa-en-colombia-el-debate-por-los-tramites-que-tienen-en-jaque-a-grandes-proyectos/",
+  "fecha": "2026-11-11T14:30:00-05:00",
+  "palabras": "",
+  "lead": "Mientras Corficolombiana advierte que los procesos se han multiplicado y acumulan años de retraso. Colectora y Sirius están entre los casos que expone Corficolombiana para advertir sobre consultas sucesivas y nuevas comunidades incorporadas durante los trámites del anterior gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jensen Huang habría sostenido un romance en Nvidia",
+  "enlace": "https://www.lafm.com.co/internacional/jensen-huang-habria-tenido-relacion-vicepresidenta-nvidia-416938",
+  "fecha": "2026-11-11T17:53:00-05:00",
+  "palabras": "Internacional,NVIDIA,Conflicto de intereses,Espía,Investigaciones,Inteligencia artificial,Informe de inteligencia,investigados,Relaciones interpersonales",
+  "lead": "Numerosas empresas cuentan con políticas que prohíben las relaciones entre directivos y personas bajo su supervisión.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SuperTransporte inicia inspección en el aeropuerto El Dorado",
+  "enlace": "https://www.lafm.com.co/sociedad/supertransporte-inicia-inspeccion-aeropuerto-el-dorado-demoras-equipajes-congestiones-costos-tiquetes-416934",
+  "fecha": "2026-11-11T17:18:00-05:00",
+  "palabras": "Sociedad,Superintendencia de Transporte,Aeropuerto El Dorado,Transporte aéreo,Operaciones aéreas,Aerocivil,Agencia Nacional de infraestructura,Transporte informal,Transporte de pasajeros,Costo pasaje,Control en fronteras",
+  "lead": "Las entidades deberán definir responsables y plazos para atender las fallas en equipajes, entre otros aspectos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Accidente del Tren de la Sabana dejó una persona herida",
+  "enlace": "https://www.lafm.com.co/orden-publico/emergencia-accidente-tren-sabana-norte-bogota-persona-lesionada-416933",
+  "fecha": "2026-11-11T17:07:00-05:00",
+  "palabras": "Orden Público,Accidente,Tren de La Sabana,Secretaría de Movilidad,Emergencia,Ministerio de Transporte",
+  "lead": "Además del accidente, la Secretaría Distrital de Movilidad informó sobre otras novedades viales en distintos puntos de Bogotá.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué es CoreWeave y de qué manera impulsó a Wall Street?",
+  "enlace": "https://www.lafm.com.co/internacional/que-coreweave-que-papel-tuvo-repunte-hubo-miercoles-wall-street-416928",
+  "fecha": "2026-11-11T16:17:00-05:00",
+  "palabras": "Internacional,Inteligencia artificial,Mercados bursátiles,Bolsa de valores,inversionistas,resultados,ganancias,rentabilidad,NVIDIA,semiconductores,Tecnología",
+  "lead": "CoreWeave reportó ingresos por US$3.660 millones, un avance de 168% interanual, en su informe del tercer trimestre",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
