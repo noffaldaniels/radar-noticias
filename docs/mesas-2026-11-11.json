@@ -104,6 +104,27 @@
    "quien": "Juan Lozano, Director de Noticias La FM con Juan Lozano",
    "que": "El Gobierno radicará el Plan de Desarrollo este viernes, el cual incluirá modificaciones trabajadas por Planeación Nacional para actualizar la estratificación y focalizar los subsidios de servicios públicos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:02",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se desarrolló un nuevo bombardeo militar en el Catatumbo contra disidencias de las FARC, dejando un saldo de cuatro muertos y seis capturados, entre ellos alias 'Barba de Chivo'.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:04",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Se reportaron atentados terroristas contra la sede de RCN Radio en Cali, con dos sospechosos capturados, y un ataque con drones cargados de explosivos a la central hidroeléctrica Amaime de Celsia en Palmira.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:05",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Luz Stella Murgas fue elegida como nueva presidenta de la ANDI tras la salida de Bruce Mac Master, convirtiéndose en la primera mujer al frente del gremio en sus 82 años de historia con el visto bueno del Gobierno.",
+   "resaltar": false
   }
  ],
  "avisos": []
