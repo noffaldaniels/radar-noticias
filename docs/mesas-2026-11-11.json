@@ -755,6 +755,27 @@
    "quien": "Periodista de Mañanas Blue",
    "que": "El Grupo Éxito alcanzó una utilidad cercana a los 436.000 millones de pesos en los primeros nueve meses de 2026, un crecimiento del 19,2%.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:01",
+   "quien": "Doctor Andrés Julián Rendón, Gobernador de Antioquia",
+   "que": "Anunció que en Urabá, en la costa caribeña de Antioquia, están preparados para albergar un puerto espacial.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:01",
+   "quien": "Alcalde de Pereira",
+   "que": "Anunció que fue aplazada la implosión del edificio Invico en Pereira tres meses después del terremoto porque necesitan tiempo para hacer ajustes técnicos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "09:01",
+   "quien": "Alcalde de Pereira",
+   "que": "Afirmó que el terremoto afectó a 103.000 personas y 45.000 familias en Pereira, siendo la ciudad quizás más afectada.",
+   "resaltar": false
   }
  ],
  "avisos": [
