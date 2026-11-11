@@ -5969,7 +5969,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 10 de noviembre de 2026 en un lenguaje sencillo que todos entienden.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5980,7 +5980,7 @@
   "palabras": "Antioquia, Inpec, Medellín, Valle de Aburrá, Noticias de hoy",
   "lead": "Un juez le concedió el beneficio de libertad condicional tras haber superado el 93% de cumplimiento de su condena impuesta en 2018.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5991,7 +5991,7 @@
   "palabras": "Noticias de hoy, Combustibles",
   "lead": "Los transportadores consideran insuficiente la compensación económica para llevar la gasolina desde Chachagüí hasta Pasto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6002,7 +6002,7 @@
   "palabras": "Cúcuta",
   "lead": "Fuentes le dijeron a Blu Radio que la orden de captura se habría efectuado desde Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6013,7 +6013,7 @@
   "palabras": "",
   "lead": "En Hora 20, los panelistas analizaron las estrategias del Gobierno para combatir a los grupos armados ilegales y la respuesta de esas estructuras.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6024,7 +6024,7 @@
   "palabras": "",
   "lead": "El artista colombiano compartió escenario en Cartagena con figuras internacionales como SECH y Gyptian. Además, su colaboración con Hamilton y The Prodigiez alcanzó el puesto 18 en Bogotá y el 21 en Medellín en Spotify Local Pulse.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6035,7 +6035,7 @@
   "palabras": "",
   "lead": "El borrador del Gobierno de Abelardo De La Espriella busca reestructurar varios programas y buscar una reparación integral para las personas afectadas por el conflicto armado en Colombia",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -6046,6 +6046,193 @@
   "palabras": "Actualidad,Abelardo de la Espriella,Plan de Desarrollo,Departamento de Prosperidad Social,Subsidios,Cuentas bancarias,Gobierno",
   "lead": "El borrador de las bases del Plan Nacional de Desarrollo 2026-2030 propone crear cuentas de ahorro para niños nacidos entre 2027 y 2030.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T21:43:12-05:00",
+  "palabras": "Sinuano noche, Resultados del chance",
+  "lead": "El chance Sinuano Noche realiza sus sorteos todos los días. Los participantes pueden consultar aquí el resultado de este 9 de noviembre, conocer las modalidades de apuesta y más.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T21:43:44-05:00",
+  "palabras": "Caribeña noche",
+  "lead": "El chance Caribeña Noche se juega de lunes a sábado y sus resultados suelen publicarse después de las 10:30 p. m. Los participantes pueden consultar aquí el número ganador y conocer las modalidades disponibles para apostar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Astro Luna, resultado del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/astro-luna-resultado-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T21:44:13-05:00",
+  "palabras": "Super Astro Luna, Resultados del chance",
+  "lead": "El sorteo de Super Astro Luna se realiza todos los días, incluidos domingos y festivos. Los jugadores pueden consultar aquí el resultado de este martes 10 de noviembre y verificar si acertaron la combinación de cuatro cifras y el signo zodiacal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería de la Cruz Roja, resultados del último soteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-de-la-cruz-roja-resultados-del-ultimo-soteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T21:44:30-05:00",
+  "palabras": "Lotería de la Cruz Roja, Resultado de loterías de hoy",
+  "lead": "La Lotería de la Cruz Roja juega este martes por un premio mayor de $10.000 millones. Consulte los resultados completos del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Lotería del Huila, resultados del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/loteria-del-huila-resultados-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T21:45:00-05:00",
+  "palabras": "Lotería del Huila, Resultado de loterías de hoy",
+  "lead": "La Lotería del Huila realiza este martes un nuevo sorteo por un premio mayor de $2.000 millones. Consulte los resultados completos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MiLoto, resultado del último sorteo hoy martes 10 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/miloto-resultado-del-ultimo-sorteo-hoy-martes-10-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-10T21:45:31-05:00",
+  "palabras": "MiLoto",
+  "lead": "Resultados MiLoto 10 de noviembre de 2026: números ganadores del sorteo 638 y acumulado de $120 millones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente de Undeco Cesar denuncia desplazamiento tras liderar paro contra extorsión en Bosconia",
+  "enlace": "https://www.bluradio.com/regiones/caribe/presidente-de-undeco-cesar-denuncia-desplazamiento-tras-liderar-paro-contra-extorsion-en-bosconia-rg10",
+  "fecha": "2026-11-10T21:43:47-05:00",
+  "palabras": "Noticias de hoy, Caribe, Cesar, Policía Nacional",
+  "lead": "Milton Javier Cotamo Rolón señaló que no es la primera ocasión en la que recibe amenazas en medio de su labor como líder gremial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Aeropuerto El Dorado presenta falla técnica en el registro de pasajeros HOY",
+  "enlace": "https://www.bluradio.com/regiones/bogota/aeropuerto-el-dorado-presenta-falla-tecnica-en-el-registro-de-pasajeros-activaron-protocolos-rs15",
+  "fecha": "2026-11-10T21:33:27-05:00",
+  "palabras": "Aeropuerto Internacional El Dorado, Opain S.A, Aeropuerto El Dorado, El dorado",
+  "lead": "La verificación de cada uno de los pasajeros en los vuelos se está realizando de manera manual.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno acuerda con empresa alemana impulsar cafés especiales en la Sierra Nevada y Perijá",
+  "enlace": "https://caracol.com.co/2026/11/11/gobierno-acuerda-con-empresa-alemana-impulsar-cafes-especiales-en-la-sierra-nevada-y-perija/",
+  "fecha": "2026-11-10T21:59:01-05:00",
+  "palabras": "",
+  "lead": "El Ministerio de Agricultura anunció una alianza con Neumann Kaffee Gruppe para desarrollar un programa piloto que también contempla a productores de la Serranía del Perijá",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno De la Espriella propone unificar subsidios sociales en nuevo PND: así sería, según borrador",
+  "enlace": "https://caracol.com.co/2026/11/11/gobierno-de-la-espriella-propone-unificar-subsidios-sociales-en-nuevo-pnd-asi-seria-segun-borrador/",
+  "fecha": "2026-11-10T21:56:38-05:00",
+  "palabras": "",
+  "lead": "El borrador del PND para el 2026-2030 plantea una reforma en la política social del país mediante la creación de “Programa Colombia”",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Supersalud impone medida cautelar a EPS Sanitas por demora en entrega de medicamentos",
+  "enlace": "https://caracol.com.co/2026/11/11/supersalud-impone-medida-cautelar-a-eps-sanitas-por-demora-en-entrega-de-medicamentos/",
+  "fecha": "2026-11-10T21:47:33-05:00",
+  "palabras": "",
+  "lead": "La EPS deberá ejecutar acciones inmediatas para garantizar la entrega oportuna de los medicamentos y la continuidad de los tratamientos de sus afiliados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Quiénes pelearán en Stream Fighters 5? La Valdiri regresa al ring, fecha y artistas confirmados",
+  "enlace": "https://caracol.com.co/2026/11/11/quienes-pelearan-en-stream-fighters-5-la-valdiri-regresa-al-ring-fecha-y-artistas-confirmados/",
+  "fecha": "2026-11-10T21:42:10-05:00",
+  "palabras": "",
+  "lead": "El evento contará con diez combates, y con la novedad de un enfrentamiento entre robots, conozca todos los detalles aquí",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Deserción universitaria: Estas son las instituciones con mayor tasa de abandono según MinEducación",
+  "enlace": "https://caracol.com.co/2026/11/11/desercion-universitaria-estas-son-las-instituciones-con-mayor-tasa-de-abandono-segun-mineducacion/",
+  "fecha": "2026-11-10T21:41:56-05:00",
+  "palabras": "",
+  "lead": "Según los datos presentados por el ministerio, hasta 1 de cada 10 estudiantes de educación superior en Colombia abandona sus estudios; además, solo 1 de cada 4 por cohorte termina graduándose.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Investigan accidente de tránsito donde murió joven de 27 años en el barrio Olaya",
+  "enlace": "https://caracol.com.co/2026/11/11/investigan-accidente-de-transito-donde-murio-joven-de-27-anos-en-el-barrio-olaya/",
+  "fecha": "2026-11-10T21:37:07-05:00",
+  "palabras": "",
+  "lead": "El hombre fue atendido en el Hospital Universitario del Caribe pero no resistió las lesiones",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Último sorteo de la Lotería de la Cruz Roja: resultado premio mayor hoy 10 de noviembre",
+  "enlace": "https://www.lafm.com.co/sociedad/ultimo-sorteo-de-la-loteria-de-la-cruz-roja-resultado-premio-mayor-hoy-10-de-noviembre-416808",
+  "fecha": "2026-11-10T21:45:00-05:00",
+  "palabras": "Sociedad,Cruz Roja,resultados de lotería,Juegos de azar,Coljuegos,Concurso",
+  "lead": "Este martes se llevó a cabo un nuevo sorteo de la lotería de la Cruz Roja.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sanitas: Supersalud impone medida por demoras en medicamentos",
+  "enlace": "https://www.lafm.com.co/actualidad/sanitas-supersalud-medida-cautelar-demora-en-medicamentos-416806",
+  "fecha": "2026-11-10T21:35:00-05:00",
+  "palabras": "Actualidad,Supersalud,EPS,medicamentos,Bogotá,Colsubsidio,Ministerio de Salud",
+  "lead": "Sanitas deberá presentar avances de su plan de acción y entregar un informe detallado sobre los reclamos de los usuarios, con soportes que demuestren cuánd...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Un muerto y dos heridos tras ataque con drones en Tibú",
+  "enlace": "https://www.lafm.com.co/orden-publico/ataque-con-drones-deja-saldo-fatal-en-zona-rural-de-tibu-416803",
+  "fecha": "2026-11-10T20:53:00-05:00",
+  "palabras": "Orden Público,Catatumbo,Drones,Tibú,combates entre grupos armados,ataque explosivo",
+  "lead": "La comunidad de la vereda El Diamante pidió ayuda al Gobierno y denunció que las familias campesinas están sufriendo directamente los ataques.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
