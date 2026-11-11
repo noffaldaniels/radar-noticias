@@ -202,6 +202,27 @@
    "quien": "Néstor Morales, periodista de Mañanas Blu",
    "que": "Informó que el Gobierno revocó la designación de Camilo Noguera Pardo como director del ICANH, luego de que modificara el manual de funciones a espaldas de la ministra de Cultura para poder asumir el cargo.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:22",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Tribunal Administrativo del Atlántico ordenó al IGAC entregar al Área Metropolitana de Barranquilla la base catastral de 1.402 hectáreas en disputa con Puerto Colombia, donde están en juego 100.000 millones de pesos en impuestos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:27",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Bloque de Seguridad Urbana de la Policía en Ibagué reportó 89 capturas: 29 por homicidio, 23 por tráfico de estupefacientes, 17 por hurto, 3 por lesiones personales, 2 por porte ilegal de armas y 1 por feminicidio.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:28",
+   "quien": "Nubia Carolina Córdoba Curi, gobernadora del Chocó",
+   "que": "Anunció que a través de la UNGRD se han entregado 8.000 millones de pesos inicialmente y luego 12.000 millones para subsidios de arriendo tras el sismo de agosto, atendiendo a 9.000 familias y proyectando 600 viviendas.",
+   "resaltar": false
   }
  ],
  "avisos": []
