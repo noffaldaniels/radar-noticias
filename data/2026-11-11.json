@@ -7,7 +7,7 @@
   "palabras": "Lotería del Huila, Resultado de loterías de hoy",
   "lead": "La Lotería del Huila realiza este martes un nuevo sorteo por un premio mayor de $2.000 millones. Consulte los resultados completos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "MiLoto",
   "lead": "Nadie acertó las cinco balotas en el sorteo 639. El juego dejó 12.224 ganadores en otras categorías y repartió $94.017.500 en premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Antioquia, Amalfi, Menores de edad, Muerte menores, Noticias de hoy",
   "lead": "Preliminarmente se conoce que en el momento de los hechos el menor de edad se encontraba acompañado por un familiar.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Noticias de hoy, Tolima",
   "lead": "Las autoridades habían ofrecido una recompensa de hasta 300 millones de pesos por información que permitiera su captura.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Superintendencia de Salud, EPS Sanitas, EPS Sanitas, Sanitas, colsubsidio, droguerías colsubsidio",
   "lead": "La EPS debe entregar a la entidad de control un informe con los detalles de cuál ha sido la repuesta a las quejas de sus afiliados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Papa León XIV, Noticias de hoy",
   "lead": "León XIV, como ha hecho varias veces en su etapa argentina, volvió a citar al papa Francisco y recordó la palabras que recorrieron el mundo durante la Jornada Mundial de la Juventud de Lisboa, cuando habló de una Iglesia de \"Todos, todos, todos\".",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Alcaldía Mayor de Bogotá, Alcaldía de Bogotá, Bogotá, reforma en Bogotá",
   "lead": "Seis entidades distritales podrían dejar de funcionar de manera independiente en Bogotá con el proyecto de la administración de Carlos Fernando Galán que busca reorganizar sus funciones y reducir los gastos de funcionamiento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Ministerio de Justicia, Ministerio de las TIC, Extorsión, Cárceles, extorsión, extorsión en cárceles, llamadas extorsivas",
   "lead": "Esta estadística hace parte del protocolo que anunció el Gobierno para frenar las llamadas extorsivas y amenazantes, así como impedir el ingreso de equipos a cárceles.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Gustavo Petro, Sistema de salud, Ministerio de Salud, contratos en minsalud, ministerio de salud, salud, sistema de salud",
   "lead": "El ministerio reveló inconsistencias y alertas en más de 20.600 contratos directos celebrados entre 2022 y 2026. El informe detalla 143 personas con contratos simultáneos, con cobros de honorarios de hasta $46 millones mensuales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Dirección Nacional de Inteligencia – DNI, Abelardo De La Espriella, DNI, hacker DNI, infiltraciones DNI, polémica DNI",
   "lead": "Vía Plan de Desarrollo, el Gobierno busca recuperar la cooperación internacional y la presencia de la entidad en operaciones de inteligencia e intercambio de información.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "Maná",
   "lead": "El especial reúne algunas de las canciones más representativas de la banda, que ha vendido más de 50 millones de discos y se ha consolidado como uno de los grandes referentes del rock en español.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Trata de personas",
   "lead": "Las autoridades capturaron a los coordinadores de una red vinculada a la mafia china que obligaba a las víctimas a trabajar hasta 12 horas diarias en estafas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Abelardo De La Espriella, Ministerio de Cultura",
   "lead": "El mandatario ordenó además la salida inmediata del director encargado, Javier Estrada, por alterar el manual de funciones de la entidad sin autorización de la ministra de Cultura, Paola Holguín.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Cali, Libertad de prensa",
   "lead": "La zona permanece acordonada, mientras las autoridades adelantan la correspondiente investigación.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Aeropuerto Internacional El Dorado, Viajes, Aeropuerto, El Dorado, Sistemas",
   "lead": "Opain recomendó llegar con anticipación a la terminal mientras los equipos técnicos trabajan para restablecer el servicio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "Homicidios, Barrancabermeja, Santander, sicariato, Floridablanca, Bucaramanga, Bandas criminales, Blu Radio, Noticias de hoy, Barrancabermeja",
   "lead": "La seguidilla de hechos violentos, ocurridos entre la tarde del martes 10 de noviembre y la madrugada de este miércoles 11 de noviembre, encendió nuevamente las alarmas en el puerto petrolero.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "Bombardeo, Disidencias Farc, Abelardo De La Espriella",
   "lead": "Este es el octavo desde que inició su mandato. Esto luego del bombardeo contra el Frente 33 del Estado Mayor de Bloques y Frentes (EMBF), la disidencia de las Farc que lidera alias Calarcá.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "Estados Unidos, Irán, Israel",
   "lead": "Bessent ha liderado los esfuerzos de su país por asfixiar la economía iraní desde el inicio de la guerra de Oriente Medio, mediante una serie de sanciones contra la república islámica y sus socios comerciales.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "Robos, Adultos mayores",
   "lead": "Los delincuentes ingresaron por una ventana, se llevaron dinero y pertenencias. La hija recuperó parte del botín por cuenta propia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Pico y placa, Bogotá, Movilidad, Vehículos, Multas",
   "lead": "La restricción vehicular aplica este miércoles 11 de noviembre para las placas terminadas en 6, 7, 8, 9 y 0 en la capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Pico y placa, Medellín, Movilidad",
   "lead": "La restricción vehicular aplica este miércoles de 5:00 a.m. a 8:00 p.m. para las placas terminadas en 0 y 2 en la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "El reporte también advierte que a los integrantes del ELN encargados de las labores de inteligencia les habrían ordenado “utilizar equipos de comunicación de alta frecuencia”.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "En el primer semestre de 2029 se espera que comience a prestar su servicio este nuevo complejo hospitalario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "De jueves a sábado estarán abiertos hasta las 3:00 a. m., y de domingo a miércoles hasta la 1:00 a. m.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "El gremio solicitó al Ministerio de Vivienda y a la Alcaldía Distrital priorizar las intervenciones en la planta El Roble, los pozos existentes y el alcantarillado de Salguero. También pidió establecer fechas concretas para el inicio de los trabajos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "La Tercera División reportó que la estructura Dagoberto Ramos dejará de recibir más de 425 millones de pesos tras el operativo desarrollado en jurisdicción de Santander de Quilichao.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Aún no se conocen los detalles de la nueva operación autorizada por Abelardo De La Espriella, en medio de la lucha contra grupos criminales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "Dos hombres que se movilizaban en motocicleta habrían lanzado el artefacto explosivo en las inmediaciones de la sede. No hubo personas lesionadas y se reportaron daños materiales menores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "“Estamos listos”, dijo la Alta Consejera Presidencial para las Regiones de Colombia, Valerie Lafaurie García",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "La víctima, de 42 años, fue atacada por un hombre que ingresó a un establecimiento comercial haciéndose pasar por cliente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Las comidas en establecimientos de servicio a la mesa registraron una variación anual de 9,47%",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "La intervención busca dar seguridad jurídica a las familias rurales de estos dos municipios, afectados por una emergencia que consumió más de 31.000 hectáreas en el departamento. En Natagaima se atenderán de manera concertada 29 resguardos indígenas y se utilizarán drones para obtener imágenes que apoyen el levantamiento predial.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "Nueve entidades del sector salud habrían celebrado más de 20.600 contratos directos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "",
   "lead": "La gestión de datos sobre consumo de combustible, el estado mecánico, el comportamiento de los conductores y la ubicación de los vehículos permite detectar gastos innecesarios, anticipar fallas y reaccionar ante situaciones de riesgo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "",
   "lead": "La hija del expresidente defendió su derecho a la intimidad, tras los videos difundidos recientemente en los que se ve con Deicy Jiménez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "",
   "lead": "El presidente también ordenó la salida del director encargado, Javier Mena, luego de que se modificaran los requisitos de cargos directivos del ICANH.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "El balance de la tragedia sigue siendo considerable. Según los registros del Registro Único de Damnificados, citados por la Defensoría del Pueblo el 10 de noviembre, 776.119 personas resultaron afectadas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "OPAIN informó que se implementaron protocolos manuales y de contingencia junto a las aerolíneas, lo cual abarca la expedición física de pasabordos, la etiquetado de maletas, procedimientos alternativos de embarque y la revisión manual de documentos en los accesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "",
   "lead": "La serie quedó abierta y se definirá en el estadio Atanasio Girardot.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "",
   "lead": "Los trabajos de mantenimiento en la subestación Santa Marta se realizarán en diferentes horarios. Algunos barrios tendrán interrupciones de hasta 12 horas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "",
   "lead": "El municipio ocupó el noveno lugar a nivel nacional y se posicionó como el primero de Boyacá. El alcalde Wilson Castiblanco Gil destacó la gestión de recursos, el recaudo de impuestos y la reducción de gastos como factores clave del resultado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "Actualidad,EPS,Supersalud,medidas cautelares,pacientes",
   "lead": "La EPS informó que amplió los horarios de atención en 19 sedes de Colsubsidio, reforzó el personal y extendió hasta el 30 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Política,Dapre,Gustavo Petro,mensajes,polémica",
   "lead": "En su nueva cuenta de X, la exdirectora del Dapre aseguró que tiene pruebas sobre varios de los hechos que ha denunciado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Deportes,Once Caldas,Atlético Nacional,Copa BetPlay,Fútbol,Colombia",
   "lead": "Con este resultado, la serie quedó abierta y se definirá en el partido de vuelta en el estadio Atanasio.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Política,Nombramientos,Abelardo de la Espriella,polémica,Ministerio de Cultura",
   "lead": "La decisión se produjo luego de que Noguera Pardo y Estrada adelantaran una modificación del manual de funciones del instituto sin permiso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Actualidad,Aeropuerto El Dorado,Fallas en sistema,Pasajeros varados,Operaciones aéreas,Transporte de pasajeros,Quejas de usuarios",
   "lead": "Según Opain, se activaron planes de contingencia en coordinación con las aerolíneas para garantizar la continuidad de la atención a los viajeros y reducir....",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Política,Amenazas,Denuncia por acoso,Denuncias virtuales,Medellín, Colombia,Daniel Quintero",
   "lead": "La denuncia se conoce días después de que la Gobernación de Antioquia negara el traslado de Quintero a la cárcel de Yarumito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,6 +546,83 @@
   "palabras": "Economía,Plan de Desarrollo,Abelardo de la Espriella,Subsidios,Servicios públicos,Factura de servicios,Superintendencia de Servicios Públicos",
   "lead": "El Gobierno propone actualizar la focalización de las ayudas para tener en cuenta la situación económica de los hogares y su capacidad de pago.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Una persona herida deja incendio en establecimiento comercial en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/una-persona-herida-deja-incendio-en-establecimiento-comercial-en-bucaramanga-rg10",
+  "fecha": "2026-11-11T06:18:32-05:00",
+  "palabras": "Bucaramanga, Bomberos de Bucaramanga, Incendio, Santander, Blu Radio, Noticias de hoy, Emergencias,  Bucaramanga",
+  "lead": "Las autoridades adelantan las verificaciones para determinar qué provocó el incendio en el centro de la capital santandereana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "España arranca una huelga general por la vivienda en la antesala de las elecciones",
+  "enlace": "https://www.bluradio.com/mundo/espana-arranca-una-huelga-general-por-la-vivienda-en-la-antesala-de-las-elecciones-cb20",
+  "fecha": "2026-11-11T06:23:36-05:00",
+  "palabras": "España, Vivienda",
+  "lead": "El paro general, el primero desde 2012, estaba teniendo un seguimiento \"muy relevante\" en algunos sectores, según los sindicatos, si bien la principal patronal del país lo consideró \"bajo\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ideam pronostica temperaturas superiores a los 32 grados en el Caribe",
+  "enlace": "https://caracol.com.co/2026/11/11/ideam-pronostica-temperaturas-superiores-a-los-32-grados-en-el-caribe/",
+  "fecha": "2026-11-11T06:29:50-05:00",
+  "palabras": "",
+  "lead": "En algunos departamentos se han registrado máximas cercanas a los 36 grados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habitantes en Belalcázar, San José y Anserma, esperan recursos del gobierno para la reconstrucción",
+  "enlace": "https://caracol.com.co/2026/11/11/habitantes-en-belalcazar-san-jose-y-anserma-esperan-recursos-del-gobierno-para-la-reconstruccion/",
+  "fecha": "2026-11-11T06:29:31-05:00",
+  "palabras": "",
+  "lead": "Hasta el momento, han recibido subsidios de arrendamiento gracias a aportes de las administraciones municipales y de la UNGRD.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "VIDEO: Incendio en un local comercial de Bucaramanga dejó una persona herida",
+  "enlace": "https://caracol.com.co/2026/11/11/video-incendio-en-un-local-comercial-de-bucaramanga-dejo-una-persona-herida/",
+  "fecha": "2026-11-11T06:23:48-05:00",
+  "palabras": "",
+  "lead": "La emergencia se registró en la carrera 22, entre calles 36 y 37, en el barrio Bolivar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Miércoles 11 de noviembre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/11/11/miercoles-11-de-noviembre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-11-11T06:20:45-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alias ‘Chapolo’, señalado cabecilla de las disidencias se entregó a las autoridades en el Huila",
+  "enlace": "https://caracol.com.co/2026/11/11/alias-chapolo-senalado-cabecilla-de-las-disidencias-se-entrego-a-las-autoridades-en-el-huila/",
+  "fecha": "2026-11-11T06:15:48-05:00",
+  "palabras": "",
+  "lead": "La presión militar llevó a la entrega del jefe de la estructura Ismael Ruiz, junto a su pareja y tres integrantes de su seguridad.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
