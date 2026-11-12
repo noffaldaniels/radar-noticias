@@ -5408,7 +5408,7 @@
   "palabras": "Fútbol",
   "lead": "Fue una de las grandes figuras en el fútbol colombiano y pasó por Nacional, América, Once Caldas, Unión Magdalena, Quindío y Millonarios.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5419,7 +5419,7 @@
   "palabras": "Verónica Alcocer, Eva Ferrer",
   "lead": "Defensa de Verónica Alcocer pidió a la Fiscalía acceso a la indagación por los señalamientos de Eva Ferrer sobre un supuesto transporte de drogas, armas y dinero durante un viaje a Venezuela.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5430,7 +5430,7 @@
   "palabras": "Corte Suprema de Justicia, Miguel Uribe Turbay, Marcos Calarcá, Miguel Uribe, Miguel Uribe Turbay, asesinato Miguel Uribe turbay",
   "lead": "La decisión se produjo tras una compulsa de copias de la Fiscalía. La JEP también le había pedido a la Corte Suprema establecer si existen elementos que relacionen a la exsenadora de Comunes con el asesinato.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5441,7 +5441,7 @@
   "palabras": "Caribe, Sucre, Liga contra el cáncer, Noticias de hoy",
   "lead": "La Liga invitó a los habitantes de ambos municipios a llegar temprano y aprovechar estos servicios orientados a la prevención y el cuidado de la salud.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5452,7 +5452,7 @@
   "palabras": "Noticias de hoy",
   "lead": "La decisión se tomó tras una reunión con congresistas del Centro Democrático para discutir medidas frente al déficit fiscal y posible aumento del IVA.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5463,7 +5463,7 @@
   "palabras": "Papa León XIV, Perú",
   "lead": "Entre cánticos y globos, una multitud acompañó el traslado del pontífice desde el Callao hasta el centro histórico de la capital peruana.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5474,7 +5474,7 @@
   "palabras": "",
   "lead": "El anuncio lo hizo el ministro de Hacienda, Miguel Gómez, en medio de un debate en el Congreso al que no asistió el gerente del Fondo Milagro.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5485,7 +5485,7 @@
   "palabras": "",
   "lead": "A las afueras del palacio de justicia de Armenia se llevó a cabo una manifestación por parte de los trabajadores de la rama judicial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5496,7 +5496,7 @@
   "palabras": "",
   "lead": "El Comando Conjunto de Antioquia (CCA) sería una alianza entre el grupo delincuencial Los Chatas y un reducto del desintegrado Frente 36.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5507,7 +5507,7 @@
   "palabras": "",
   "lead": "La empresa explicó que la Administración Municipal asumió la responsabilidad de adelantar los trámites correspondientes para disponer del lote",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5518,7 +5518,7 @@
   "palabras": "",
   "lead": "El presidente con mayor crecimiento en su imagen positiva respecto a la medición anterior fue el presidente reelecto de Brasil, Luiz Inácio Lula da Silva.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5529,7 +5529,7 @@
   "palabras": "",
   "lead": "Treinta y ocho iniciativas de 20 municipios participaron en el concurso Gobiernos Escolares por el Agua, que destacó propuestas de conservación, educación ambiental e innovación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5540,7 +5540,7 @@
   "palabras": "",
   "lead": "En agosto de 2025 se conoció un brote de tuberculosis que dejó 29 personas privadas de la libertad contagiadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5551,7 +5551,7 @@
   "palabras": "",
   "lead": "La emergencia se registró en la carrera 9 con calle 185, al norte de Bogotá. La persona lesionada fue atendida por organismos de emergencia y trasladada a un centro asistencial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5562,7 +5562,7 @@
   "palabras": "",
   "lead": "La exdirectora del DAPRE señaló que no se retracta de las acusaciones que lanzó contra Sarabia y en los próximos días presentará impugnación a la decisión que la obliga a retractarse.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5573,7 +5573,7 @@
   "palabras": "",
   "lead": "La ministra de Educación pidió revisar la operación, los contratos y la sede del instituto. También anunció que se buscará reactivar las pruebas censales suspendidas desde 2017.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5584,7 +5584,7 @@
   "palabras": "",
   "lead": "Estas cifras evidencian la necesidad de seguir integrando la reglamentación actual sobre Seguridad y Salud en el Trabajo y recuerdan que muchos accidentes podrían ser prevenidos con el uso de elementos de protección personal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5595,7 +5595,7 @@
   "palabras": "",
   "lead": "El Ministerio de Cultura le entregó la resolución al mandatario Dumek Turbay",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5606,7 +5606,7 @@
   "palabras": "Sociedad,Ofertas de empleo,Vacante laboral,Ofertas laborales,Convocatoria,reclutamiento,Contratación,Prestaciones sociales,Madres cabeza de familia,Eventos virtuales,Desempleo",
   "lead": "La convocatoria incluye oportunidades para jóvenes que buscan su primer empleo, personas sin experiencia, madres cabeza de familia y otros sectores con dif...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5617,7 +5617,7 @@
   "palabras": "Sociedad,Cardiopatías,problemas cardiacos,corazón,desmayos,Estrés,Hipertensión,infarto,ataque cerebrovascular,Atención a pacientes,Médicos especialistas",
   "lead": "Palpitaciones, falta de aire, mareos y fatiga inusual pueden ser señales de fibrilación auricular, una de las arritmias cardíacas más frecuentes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5628,7 +5628,7 @@
   "palabras": "Sociedad,Navidad,Feng shui,Fortuna,decoración,Diseño y decoración,Diciembre,Año nuevo,fin de año",
   "lead": "El calendario chino contempla cinco fechas de noviembre para decorar el hogar y recibir el próximo año con energías renovadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5639,7 +5639,7 @@
   "palabras": "Sociedad,Pico y placa en Medellín,Secretaría de Movilidad,Pico y placa,vehículos,Motocicletas,Paso restringido,seguridad vial,Transporte público",
   "lead": "Desde el pasado 3 de agosto, la medida acobija toda la movilidad de Medellín y se mantendrá hasta finalizar el año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -5650,6 +5650,314 @@
   "palabras": "Orden Público,Fiscalía General de la Nación,Verónica Alcocer,Indagación preliminar,Abogados,Procesos judiciales",
   "lead": "Fiscalía citó nuevamente a Eva Ferrer, esta vez por sus denuncias sobre los viajes a Venezuela de la exprimera dama y los señalamientos sobre estupefacient...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Infidelidad en Nvidia: La Nube, programa completo 11 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/la-nube/infidelidad-en-nvidia-la-nube-programa-completo-11-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-11T20:27:52-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche en La Nube todo sobre los últimos avances tecnológicos del 11 de noviembre de 2026 en un lenguaje sencillo que todos entienden.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "11 de noviembre de 2026 - Voz Populi, programa completo",
+  "enlace": "https://www.bluradio.com/voz-populi/11-de-noviembre-de-2026-voz-populi-programa-completo-pr30",
+  "fecha": "2026-11-11T20:08:17-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Escuche el mejor humor y el análisis de las noticias más importantes del mundo en Voz Populi de este 11 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Qué pasó con Baby Demoni? La necropsia y hallazgos que cuestionan hipótesis sobre su muerte",
+  "enlace": "https://www.bluradio.com/judicial/caso-baby-demoni-necropsia-hallazgos-muerte-rg10",
+  "fecha": "2026-11-11T19:37:16-05:00",
+  "palabras": "Feminicidio",
+  "lead": "La muerte de María Alejandra Parada, conocida como Baby Demoni, continúa rodeada de interrogantes. Su padre y uno de sus mejores amigos cuestionaron las circunstancias de su fallecimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colsubsidio anuncia medidas por filas en entrega de medicamentos Sanitas",
+  "enlace": "https://www.bluradio.com/salud/colsubsidio-responde-demoras-entrega-medicamentos-sanitas-bogota-medidas-so35",
+  "fecha": "2026-11-11T20:42:21-05:00",
+  "palabras": "Colsubsidio, EPS Sanitas, Medicamentos",
+  "lead": "La caja de compensación atribuyó la congestión a una demanda acumulada que supera en un 26 % las proyecciones diarias. Se habilitaron cajas rápidas y apertura desde las 6:00 a. m. tras exigencias de la Secretaría de Salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Al menos 1 muerto y 10 heridos tras colapso de un edificio en Nueva York, Estados Unidos",
+  "enlace": "https://www.bluradio.com/mundo/al-menos-1-muerto-y-10-heridos-tras-colapso-de-un-edificio-en-nueva-york-estados-unidos-cb20",
+  "fecha": "2026-11-11T19:47:48-05:00",
+  "palabras": "Estados Unidos, Nueva York",
+  "lead": "Al menos uno de los heridos permanece atrapado bajo los escombros, según informó un oficial del Cuerpo de Bomberos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Daddy Yankee anuncia que regresa a los conciertos: ¿vendrá a Colombia?",
+  "enlace": "https://www.bluradio.com/entretenimiento/daddy-yankee-anuncia-que-regresa-a-los-conciertos-vendra-a-colombia-so35",
+  "fecha": "2026-11-11T19:53:26-05:00",
+  "palabras": "Viral, Daddy Yankee",
+  "lead": "Por el legendario festival californiano desfilarán asimismo grandes nombres de la música actual como Steve Lacy, Becky G o Kehlani.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Porqué hay trancón en la calle 80 en Bogotá hoy miércoles 11 de noviembre",
+  "enlace": "https://www.bluradio.com/regiones/bogota/impresionante-trancon-en-la-calle-80-en-bogota-desespera-a-conductores-esto-se-sabe-rs15",
+  "fecha": "2026-11-11T20:01:51-05:00",
+  "palabras": "Calle 80, Trancones Bogotá, Trancón, Engativá, calle 80, trancón",
+  "lead": "Hasta en los barrios aledaños a esta importante vía principal se presentaron congestiones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Subsidio dedesempleo: estudio encontró que recibir el beneficio puede prolongar búsqueda de trabajo",
+  "enlace": "https://www.bluradio.com/economia/subsidio-dedesempleo-estudio-encontro-que-recibir-el-beneficio-puede-prolongar-busqueda-de-trabajo-so35",
+  "fecha": "2026-11-11T20:42:39-05:00",
+  "palabras": "Banco de la República, Trabajo, Desempleo, Subsidios",
+  "lead": "El documento estudia cómo el Mecanismo de Protección al Cesante influye en el tiempo que una persona tarda en conseguir empleo y en las condiciones del trabajo que obtiene después.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Todos los clientes de Ueno Bank en Paraguay han recibido un anticipo de sus ahorros",
+  "enlace": "https://www.bluradio.com/mundo/todos-los-clientes-de-ueno-bank-en-paraguay-han-recibido-un-anticipo-de-sus-ahorros-cb20",
+  "fecha": "2026-11-11T20:46:03-05:00",
+  "palabras": "Paraguay, Ueno Bank, banco paraguay, crisis paraguay",
+  "lead": "Este miércoles vencía el plazo para completar los desembolsos, en cumplimiento de una ley de emergencia aprobada por el Congreso.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fortalecen controles de seguridad en Aeropuerto Internacional Rafael Núñez de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/12/fortalecen-controles-de-seguridad-en-aeropuerto-internacional-rafael-nunez-de-cartagena/",
+  "fecha": "2026-11-11T20:48:10-05:00",
+  "palabras": "",
+  "lead": "La Policía Nacional y Migración Colombia lideran los operativos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“La ANDI no tiene que escoger entre la independencia y la interlocución”: Luz Estela Murgas",
+  "enlace": "https://caracol.com.co/2026/11/12/la-andi-no-tiene-que-escoger-entre-la-independencia-y-la-interlocucion-luz-estela-murgas/",
+  "fecha": "2026-11-11T20:39:23-05:00",
+  "palabras": "",
+  "lead": "Luz Stella Murgas, nueva presidenta de la ANDI, señaló que Colombia está abierta para el liderazgo de las mujeres en las decisiones que son relevantes para el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ataque armado deja dos muertos y un herido en zona rural de Santa Rosa de Osos",
+  "enlace": "https://caracol.com.co/2026/11/12/ataque-armado-deja-dos-muertos-y-un-herido-en-zona-rural-de-santa-rosa-de-osos/",
+  "fecha": "2026-11-11T20:42:59-05:00",
+  "palabras": "",
+  "lead": "El hecho violento se reportó en el sector conocido como El Turco. Por ahora no trasciende qué grupo es el responsable.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fonseca recibe un homenaje musical de jóvenes talentos en Las Vegas",
+  "enlace": "https://caracol.com.co/2026/11/12/fonseca-recibe-un-homenaje-musical-de-jovenes-talentos-en-las-vegas/",
+  "fecha": "2026-11-11T20:34:07-05:00",
+  "palabras": "",
+  "lead": "Becados y exalumnos de la Fundación Cultural Latin GRAMMY interpretaron sus éxitos en un encuentro que celebró su trayectoria y el futuro de la música latina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Calendario escolar 2026: ¿Cuándo salen a vacaciones los colegios públicos?",
+  "enlace": "https://caracol.com.co/2026/11/12/calendario-escolar-2026cuando-salen-a-vacaciones-los-colegios-publicos/",
+  "fecha": "2026-11-11T19:58:29-05:00",
+  "palabras": "",
+  "lead": "Llegan los últimos meses del año y con ellos, el final de la temporada escolar; conozca todos los detalles aquí.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 40.000 habitantes de El Recodo denuncian afectaciones por el paso de volquetas",
+  "enlace": "https://caracol.com.co/2026/11/12/mas-de-40000-habitantes-de-el-recodo-denuncian-afectaciones-por-el-paso-de-volquetas/",
+  "fecha": "2026-11-11T20:31:21-05:00",
+  "palabras": "",
+  "lead": "Los residentes de Fontibón alertan sobre el deterioro de las vías, contaminación y riesgos de seguridad por el tránsito de vehículos de carga pesada. El concejal Andrés Onzaga pide soluciones definitivas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Real Cartagena sumó un punto tras igualar de visitante contra Real Cundinamarca",
+  "enlace": "https://caracol.com.co/2026/11/12/real-cartagena-sumo-un-punto-tras-igualar-de-visitante-contra-real-cundinamarca/",
+  "fecha": "2026-11-11T20:24:32-05:00",
+  "palabras": "",
+  "lead": "Las acciones finalizaron 2-2 después de que El Heroico iniciara perdiendo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá ofrece 3.000 becas en 39 universidades privadas: requisitos y fechas para inscribirse",
+  "enlace": "https://caracol.com.co/2026/11/12/bogota-ofrece-3000-becas-en-39-universidades-privadas-requisitos-y-fechas-para-inscribirse/",
+  "fecha": "2026-11-11T20:20:42-05:00",
+  "palabras": "",
+  "lead": "La convocatoria de Jóvenes a la E estará abierta del 12 al 18 de noviembre de 2026. Los beneficiarios recibirán financiación de la matrícula y un apoyo económico semestral para cursar programas técnicos, tecnológicos y universitarios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Resultados Lotería del Valle, Manizales, Meta y Baloto HOY 11 de noviembre 2026: último sorteo",
+  "enlace": "https://caracol.com.co/2026/11/12/resultados-loteria-del-valle-manizales-meta-y-baloto-hoy-11-de-noviembre-2026-ultimo-sorteo/",
+  "fecha": "2026-11-11T20:09:44-05:00",
+  "palabras": "",
+  "lead": "Conozca los resultados de las loterías y el Baloto de este 11 de noviembre de 2026 y anote sus números de la suerte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno cedió y se nombrarán ponentes de varios partidos para la ley fiscal",
+  "enlace": "https://caracol.com.co/2026/11/12/gobierno-cedio-y-se-nombraran-ponentes-de-varios-partidos-para-la-ley-fiscal/",
+  "fecha": "2026-11-11T20:07:26-05:00",
+  "palabras": "",
+  "lead": "El proyecto también se tramitará por todas las comisiones económicas, pese a que el Ejecutivo buscaba que el debate se diera solo en las comisiones terceras.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cómo solicitar el pasaporte en línea? paso a paso y precio en la página de la Cancillería",
+  "enlace": "https://caracol.com.co/2026/11/12/como-solicitar-el-pasaporte-en-linea-paso-a-paso-y-precio-en-la-pagina-de-la-cancilleria/",
+  "fecha": "2026-11-11T20:03:58-05:00",
+  "palabras": "",
+  "lead": "Le contamos cuál es el paso a paso para que pueda solicitar este documento sin hacer filas en las sedes oficiales de la cancillería.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Quién fue Carlos Babington, el fallecido mundialista argentino que terminó su carrera en Junior?",
+  "enlace": "https://caracol.com.co/2026/11/12/quien-fue-carlos-babington-el-fallecido-mundialista-argentino-que-termino-su-carrera-en-junior/",
+  "fecha": "2026-11-11T20:02:33-05:00",
+  "palabras": "",
+  "lead": "El ‘Inglés’ Babington fue uno de los mayores referentes en la historia del Huracán y consiguió un subcampeonato con Junior de Barranquilla.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así se repartirán los $2,2 billones del presupuesto del Magdalena aprobado por la Asamblea para 2027",
+  "enlace": "https://caracol.com.co/2026/11/12/asi-se-repartiran-los-22-billones-del-presupuesto-del-magdalena-aprobado-por-la-asamblea-para-2027/",
+  "fecha": "2026-11-11T19:55:00-05:00",
+  "palabras": "",
+  "lead": "El 82,6 % de los recursos será destinado a inversión. Educación tendrá la mayor asignación, con más de $1,3 billones",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presunto chamán es sentenciado a 17 años de cárcel por el abuso sexual de seis mujeres",
+  "enlace": "https://caracol.com.co/2026/11/12/presunto-chaman-es-sentenciado-a-17-anos-de-carcel-por-el-abuso-sexual-de-seis-mujeres/",
+  "fecha": "2026-11-11T19:50:56-05:00",
+  "palabras": "",
+  "lead": "Las denuncias indican que los abusos ocurrieron entre el 2013 y el 2022 en las poblaciones de Medellín y San Carlos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Air-e anuncia trabajos eléctricos en Barranquilla y Santo Tomás: estos son los sectores intervenidos",
+  "enlace": "https://caracol.com.co/2026/11/12/air-e-anuncia-trabajos-electricos-en-barranquilla-y-santo-tomas-estos-son-los-sectores-intervenidos/",
+  "fecha": "2026-11-11T19:34:50-05:00",
+  "palabras": "",
+  "lead": "En Barranquilla, los trabajos se concentrarán en el barrio Los Olivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"Hubo pactos de silencio\": Las denuncias que siguen rodeando la toma del Palacio de Justicia",
+  "enlace": "https://www.lafm.com.co/orden-publico/hubo-pactos-de-silencio-las-denuncias-que-siguen-rodeando-la-toma-del-palacio-de-justicia-416950",
+  "fecha": "2026-11-11T20:35:00-05:00",
+  "palabras": "Orden Público,Palacio de Justicia,desaparición forzada,desaparición de personas,Víctimas,victimas del conflicto armado,violaciones,Homicidios,Asesinado,Hallazgo de cuerpos,Fallos judiciales",
+  "lead": "En 'Aquí y ahora' se abordó la toma del Palacio de Justicia, 14 años después, tras el estreno en Netflix de la serie ‘Palacio’.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno vendería bienes de la SAE para pagar deuda: hay fincas, aviones y Ferraris",
+  "enlace": "https://www.lafm.com.co/economia/venta-bienes-sae-pago-deuda-publica-ferraris-objetos-lujo-416948",
+  "fecha": "2026-11-11T20:27:00-05:00",
+  "palabras": "Economía,Ministerio de Hacienda y Crédito Público,déficit fiscal,SAE,bienes incautados,Ferrari,Aviones,ganadería,Deuda externa,Abelardo de la Espriella",
+  "lead": "El ministro de Hacienda explicó que los recursos obtenidos por estas ventas se destinarían exclusivamente al prepago de la deuda pública.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Prosperidad Social anuncia quinto pago de Renta Ciudadana",
+  "enlace": "https://www.lafm.com.co/economia/renta-ciudadana-devolcion-iva-prosperidad-social-pagos-noviembre-416947",
+  "fecha": "2026-11-11T20:01:00-05:00",
+  "palabras": "Economía,Departamento de Prosperidad Social,familia,Renta ciudadana,Subsidios",
+  "lead": "Entre el 13 y el 28 de noviembre de 2026, el Gobierno nacional destinará más de $332.969 millones para beneficiar a cerca de 780.400 familias en 1.105 muni...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colapso de edificio en Brooklyn deja fallecido y heridos",
+  "enlace": "https://www.lafm.com.co/internacional/colpaso-de-edificio-en-nueva-york-416946",
+  "fecha": "2026-11-11T19:21:00-05:00",
+  "palabras": "Internacional,Nueva York,Edificio,Derrumbe",
+  "lead": "El derrumbe de una estructura de tres plantas en el vecindario de Flatbush, en Brooklyn, obligó al despliegue de organismos de socorro para ubicar a posibl...",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
