@@ -475,6 +475,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Independencia en Cartagena no solo se recuerda, se baila y se canta, viviendo el evento en vivo y en directo.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:34",
+   "quien": "Iván Duque, expresidente",
+   "que": "Aseguró que la JEP está en deuda con Colombia porque después de 10 años de funcionamiento no ha impuesto sanciones ejemplarizantes ni proporcionales a los máximos responsables de las Farc.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:35",
+   "quien": "Fabio Arjona, ministro de Medio Ambiente",
+   "que": "Cuestionó que Colombia perdiera su autosuficiencia de gas natural durante el gobierno anterior después de 50 años, lo que llevó a la industria a utilizar combustibles más contaminantes.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:42",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que Alejandra Rubio, una emergencia con un avión de carga de Air Caribe que presentó una emergencia por una posible falla en el tren de aterrizaje, sobrevoló por varios minutos en el Tolima y estuvo esperando autorización para aterrizar en Bogotá y finalmente aterrizó hace unos minutos en el aeropuerto El Dorado, recibido por vehículos de emergencia.",
+   "resaltar": true
   }
  ],
  "avisos": [
