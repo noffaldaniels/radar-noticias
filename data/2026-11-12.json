@@ -7,7 +7,7 @@
   "palabras": "Lotería de Manizales, Resultado de loterías de hoy",
   "lead": "Conozca la lista de resultados que la Lotería de Manizales realizó este miércoles 11 de noviembre de 2026 por el sorteo 4980.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería del Valle, Resultado de loterías de hoy",
   "lead": "Conozca la lista de resultados que la Lotería del Valle realizó este miércoles 11 de noviembre de 2026 por el sorteo 4874.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Lotería del Meta, Resultado de loterías de hoy",
   "lead": "Todos los premios completos y el mayor que entrega 1.800 millones de pesos de la Lotería del Meta en su último sorteo 3324.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 11 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "",
   "lead": "La propuesta del Gobierno de incrementer el precio de algunos alimentos ha generado fuertes críticas desde varios partidos políticos, uno de esos el Centro Democrático que presentó otra idea.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Casanare, Policía Nacional, Casanare, hato corozal, policía nacional",
   "lead": "Otro agente resultó gravemente herido cuando hombres armados les dispararon en un puesto de control y luego les quitaron sus armas de dotación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Fonseca, Música",
   "lead": "El homenaje llega en un momento especial para Fonseca, quien celebra más de dos décadas de carrera artística y suma una nueva nominación al Latin Grammy.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Baloto",
   "lead": "El acumulado de Baloto está en $19.200 millones y la Revancha a $5.000 millones para este miércoles 11 de noviembre. Estos son los resultados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Abelardo De La Espriella, Seguridad ciudadana, Policía Nacional, Bucaramanga, Santander, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "El despliegue contó con dos helicópteros de la Policía y la participación del CTI, el Ejército y el Gaula. Fueron intervenidas estructuras señaladas de narcotráfico, extorsión y minería ilegal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "Cortes de luz, Enel - Codensa, Empresa de Energía de Bogotá",
   "lead": "El daño dejó sin servicio de energía a miles de familias en sectores de los barrios Normandía, La Cabaña, Jardín Botánico y Normandía Occidental.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "Papa León XIV, Perú, Vaticano",
   "lead": "Desde que fue elegido como líder de la Iglesia católica el 8 de mayo de 2025 y diese en español un afectuoso saludo a su querida diócesis de Chiclayo, en la que fue obispo por ocho años,.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "China, Estados Unidos",
   "lead": "Fuentes conocedoras del asunto informaron al medio que este miércoles tendrá lugar una reunión para discutir el futuro de Huang, cofundador de una de las principales empresas diseñadoras de microchips del mundo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Magdalena, Robos",
   "lead": "Los dos buscaban parar el vehículo con machetes en mano en el Magdalena, pero este no se detuvo en ningún momento y terminó arrollándolos. Ambos murieron en el sitio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "",
   "lead": "Los militares israelíes acusaron a Hamás, sin aportar pruebas, de \"almacenar armas\" en el hospital, así como de \"realizar interrogatorios y torturas\", \"operar salas de comando\" y establecer \"puestos de observación y refugios para terroristas\" dentro del complejo hospitalario.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "Exportaciones, Dian",
   "lead": "Uno de los elementos centrales de la investigación está relacionado con funcionarios de la DIAN, en Ipiales, quienes, de acuerdo con Fiscalía, habrían certificado falsamente la salida de mercancías.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "",
   "lead": "La Fiscalía realizó allanamientos en un inmueble del casco urbano de Villa del Rosario y dos establecimientos comerciales en La Parada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "Dos muertos y cuatro heridos en ataques sicariales",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "",
   "lead": "La concesión no faculta al particular para cercar el área, impedir el tránsito o el acceso al mar, cobrar por el ingreso a la playa, condicionar la permanencia en ella al consumo, ampliar el área autorizada ni ejecutar obras o construcciones sin la respectiva autorización.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "Durante la noche de este miércoles y la madrugada de este jueves hubo movimiento de agentes de seguridad en el norte de la ciudad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "La Fiscalía señaló a cabecillas de las disidencias de las FARC como responsables de ordenar el homicidio.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "El abogado de la contraparte, Alejandro Carranza, cuestionó la dilación del caso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "Con una inversión superior a los $3.000 millones, se avanza en la reposición de redes sanitarias en cuatro barrios del municipio, con obras que ya alcanzan el 75 % de ejecución.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "Stefany Paola Barraza de la Hoz fue asesinada cuando salía de una tienda",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "Según informó el hospital, los seis fallecidos en el ataque fueron un menor de 13 años, un médico de 52 y otros cuatro varones.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "Frente al flujo de adultos mayores que llegan del exterior a la capital antioqueña en busca de calidad de vida y longevidad activa, y al aumento de la población en edad mayor en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "Junto a Raimundo Angulo Pizarro, las 26 aspirantes comparten en la emblemática edificación, epicentro de la historia del certamen en el Centro Histórico de Cartagena",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "La entidad advirtió que la malla vial y el espacio público no estarán terminados para cuando inicien las pruebas del sistema.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "La Corte Constitucional tomó la decisión en respuesta a una tutela presentada por el hijo mayor del magistrado y su madre. Jorge Enrique Ibáñez había asegurado que su hijo era producto de un abuso sexual.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "",
   "lead": "El papa León XIV llegó al Perú, en un emotivo regreso al país donde vivió más de 20 años y cuya nacionalidad adquirió.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "",
   "lead": "Los reportes preliminares detallaron que dos policías que adelantaban labores de vigilancia y control en el municipio fueron sorprendidos por sus atacantes y, luego de que hasta les quitaran sus armas de dotación, les dispararon.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "",
   "lead": "La Secretaría de Educación recordó que las tarifas deben ajustarse a la resolución del Ministerio de Educación y que los cobros voluntarios no pueden convertirse en requisitos para matricular o garantizar la permanencia de los estudiantes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "",
   "lead": "La medida permitirá entregar subsidios de arrendamiento a las familias priorizadas para proteger su integridad y evitar riesgos para sus vidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Internacional,Estados Unidos,Edificio,Nueva York,Muertos,Heridos",
   "lead": "Se cree que la edificación colapsó por su antigüedad; pero también por excavaciones que se realizan a sus alrededores.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Emisiones,Juan Lozano,RCN Radio,La Fm",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Orden Público,agente de tránsito,Secretaría de Movilidad,Medellín, Colombia,Alteración al orden público",
   "lead": "Dos ataques contra agentes de tránsito en Medellín encienden las alarmas: capturaron a motociclista que hirió a un guarda en Robledo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "Actualidad,Metro de Bogotá,Contraloría General de la República,contralor general,megaproyecto,obras en vías,Irregularidades en contratos,Irregularidades en manejo de recursos,recursos públicos,Transporte público",
   "lead": "Aunque el avance de la obra contratada alcanza el 84,68 %, la entidad advirtió que la malla vial y el espacio público no estarán terminados cuando comience...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "Actualidad,Colsubsidio,pacientes,medicamentos,Supersalud",
   "lead": "La operación contempla medidas como la apertura de algunas droguerías desde las 6:00 de la mañana, la habilitación de cajas rápidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Orden Público,Asesinado,Policía Nacional,Ataque a uniformados,Muertos,Heridos,Casanare",
   "lead": "El presidente Abelardo De La Espriella condenó el hecho terrorista y ordenó el despliegue de operativos para dar con los responsables.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,6 +447,39 @@
   "palabras": "Entretenimiento,Liss Pereira,Ricardo Quevedo,Comedia,Matrimonio",
   "lead": "La comediante habló en Sin Filtro sobre las diferencias que ha tenido que manejar con su esposo y los acuerdos que han construido durante su relación.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Daddy Yankee hace historia: Latin Grammy lo reconoce como Persona del Año 2026",
+  "enlace": "https://caracol.com.co/2026/11/12/daddy-yankee-hace-historia-latin-grammy-lo-reconoce-como-persona-del-ano-2026/",
+  "fecha": "2026-11-12T06:23:52-05:00",
+  "palabras": "",
+  "lead": "El artista puertorriqueño recibe este reconocimiento por sus contribuciones a la música y el impacto de su trayectoria en la industria latina.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carrotanque cargado de combustible cayó a un abismo y terminó incinerado en la vía Gigante-Garzón",
+  "enlace": "https://caracol.com.co/2026/11/12/carrotanque-cargado-de-combustible-cayo-a-un-abismo-y-termino-incinerado-en-la-via-gigante-garzon/",
+  "fecha": "2026-11-12T06:23:41-05:00",
+  "palabras": "",
+  "lead": "La emergencia se registró en el sector de Los Altares. El percance vial ocasiono un enorme incendio forestal.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Oficial: Manchester United despide a Michael Carrick",
+  "enlace": "https://www.lafm.com.co/deportes/manchester-united-despide-micahel-carrick-premier-league-416966",
+  "fecha": "2026-11-12T06:20:00-05:00",
+  "palabras": "Deportes,Manchester United,Mauricio Pochettino,destitución,Nuevo técnico,Old Trafford,Liga Inglesa,Fichajes,Destitución de cargo",
+  "lead": "El histórico equipo rojo de Manchester está en zona de descenso y contratará a Mauricio Pochettino para intentar salvar la categoría.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
