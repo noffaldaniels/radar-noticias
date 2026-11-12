@@ -975,7 +975,7 @@
   "palabras": "Antioquia, Yondó, Noticias de hoy",
   "lead": "Hombres armados dispararon contra él y su pareja, quienes lograron salir ilesos por el blindaje del vehículo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "Alcaldía de Bucaramanga, Migración Colombia, Bucaramanga, Blu Radio",
   "lead": "Las autoridades señalaron que con este procedimiento, ya son más de 230 extranjeros expulsados durante 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "Viral,  Los Simpson",
   "lead": "En el episodio 'Una vida llena de errores', Los Simpson alertaron una situación que afectaría no solo a Estados Unidos, sino a todo el mundo y tomó relación con recientes declaraciones en el Gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "Cartagena, Bolívar, Turismo",
   "lead": "Para los viajeros apasionados por el turismo cultural, esta festividad representa una oportunidad única para conectar con el alma viva del Caribe colombiano más allá de sus famosas murallas y arquitectura colonial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "Aeropuerto José María Córdoba, Antioquia, Noticias de hoy",
   "lead": "Aunque en este momento está operando, el aeropuerto internacional reportó una falla en su sistema de energía, que afectó su iluminación y los servicios en la sala de Migración Colombia durante más de cinco horas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "Noticias de hoy, Medellín, Movilidad",
   "lead": "Las autoridades inmovilizaron la motocicleta, debido a que prestaba un servicio de transporte no autorizado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "Viral, Karol G, Latin Grammy",
   "lead": "Una vez más la paisa se muestra fuerte entre la nominaciones, no por nada son siete en total como el artista nacional con más presencia en esta gala.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "Noticias de hoy, Medellín, Seguridad ciudadana",
   "lead": "De acuerdo con las autoridades, los señalados agresores dispararon contra la víctima y se dieron a la fuga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "Medellín, Noticias de hoy",
   "lead": "La solicitud se da en medio de la compleja situación fiscal que atraviesa el país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "Viral, Daddy Yankee, Latin Grammy, Feid, J Balvin",
   "lead": "Yankee recordó a los DJ, bailarines y seguidores que contribuyeron a difundir aquella música desde los caseríos de Puerto Rico cundo el reguetón todavía no contaba con reconocimiento institucional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "Bucaramanga, Santander, Abelardo De La Espriella, Blu Radio",
   "lead": "La ofensiva Mano de Hierro, encabezada por el presidente Abelardo De La Espriella, dejó capturas, allanamientos e incautaciones de armas, explosivos y estupefacientes en Bucaramanga y Girón.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "El presidente volvió a encarar a los delincuentes capturados durante el operativo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Los hechos ocurrieron el primero de agosto de 2024 en un aula de informática, cuando la estudiante tenía 14 años.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "En las acciones en el norte de la ciudad, la fuerza pública capturó 136 personas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "La Fundación Santo Domingo, destinó 130 mil millones de pesos para la reconstrucción de los damnificados por el terremoto que el país vivió el pasado 10 de agosto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "El gremio pide al Gobierno que reforma fiscal priorice la producción nacional",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "El propósito de la comisión será ejercer vigilancia sobre la prestación del servicio de aseo y promover respuestas institucionales frente a las dificultades que afectan a los barrios y comunidades.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "Los cobros en los montallantas llegarían hasta los 500 mil pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "Alberto Casas, reconocido periodista y político colombiano, hizo una radiografía de la actualidad económica que afronta el país. Aseguró: “el Congreso está discutiendo la ley de rescate como si fuera otra vez una reforma tributaria y no, la reforma tributaria es más impuestos. Si el país no reconoce esa situación, vamos a un desastre mayor”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "El ataque con dinamita se produjo este jueves y fue accionado poco después de que el coronel comenzara a desplazarse.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "Este será el primero de dos partidos frente a la Roja, que cerrarán el 2026 para Colombia.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "Más de 30.000 personas estarían afectadas por racionamientos y retrasos en el Plan Maestro de Acueducto. La comunidad realizó un plantón en La Tablaza.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "El extremo guajiro se encuentra fuera de las canchas desde el pasado 21 de octubre, tras lesionarse en Liga de Campeones.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "Hoy, Prevost regresa como León XIV, recibido con honores de Estado por un país al que considera su segunda patria.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "El Instituto de Tránsito anunció el fortalecimiento de los operativos para verificar que los vehículos que transportan pasajeros cumplan con los requisitos legales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "Las declaraciones del jefe de Estado se dieron después de los cuestionamientos del expresidente Juan Manuel Santos por la manera en que el mandatario presenta los resultados de las operaciones militares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Según el revisor fiscal esos hallazgos corresponden a los últimos tres años",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "El presunto sicario del grupo armado figuraba en el cartel de los más buscados del departamento de Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "A tres meses de la emergencia, Mauricio Salazar advierte que las familias que perdieron sus viviendas y los comerciantes afectados aún no tienen claridad sobre cuándo recibirán los recursos prometidos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Actualidad,Salud,Fallas en sistema,Colombia,Valle del Cauca",
   "lead": "La denuncia se hizo por la crítica situación económica de la entidad prestadora de salud en el occidente de Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Entretenimiento,Boletería,TuBoleta,Proyecto de ley,Sanción económica,devoluciones,Concierto,Liga BetPlay,Cámara de Representantes,Fútbol,Federación Colombiana de Fútbol",
   "lead": "El proyecto ‘Boleta Justa’ propone fijar un tope al precio de las entradas revendidas, limitar las compras por persona y sancionar el uso de bots. La inici...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Orden Público,Corte Suprema de Justicia,Farc EP,Miguel Uribe,Comunes",
   "lead": "Gallo confirmó que la Corte Suprema abrió indagación preliminar contra Albán o Calarcá y Ramírez, tras señalamientos de la viuda de Miguel Uribe.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1337,6 +1337,61 @@
   "fecha": "2026-11-12T07:17:00-05:00",
   "palabras": "Actualidad,Feminicidio,Homicidios,Valle del Cauca,Colombia,Fiscalía General de la Nación",
   "lead": "Expertos consultados por La FM analizan las razones detrás del elevado número de asesinatos en contra de mujeres en el departamento del Valle.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No es la llave mágica”: Anif propone vender ISA, pero insiste en que la prioridad es recortar gasto",
+  "enlace": "https://www.bluradio.com/economia/no-es-la-llave-magica-anif-propone-vender-isa-pero-insiste-en-que-la-prioridad-es-recortar-gasto-pr30",
+  "fecha": "2026-11-12T08:44:33-05:00",
+  "palabras": "Anif, Reforma tributaria",
+  "lead": "El presidente de Anif, José Ignacio López, dijo que vender ISA podría dejar entre $12 y $15 billones, pero advirtió que solo es un paliativo frente a la crisis fiscal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se aplaza entrada en vigor del nuevo plan de abastecimiento de combustibles en Nariño",
+  "enlace": "https://caracol.com.co/2026/11/12/se-aplaza-entrada-en-vigor-del-nuevo-plan-de-abastecimiento-de-combustibles-en-narino/",
+  "fecha": "2026-11-12T08:47:33-05:00",
+  "palabras": "",
+  "lead": "Durante veinte días se realizarán mesas técnicas para evitar aumentos en el precio de combustibles",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército inhabilitó maquinaria minera valorada en $6.500 millones en el sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/12/ejercito-inhabilito-maquinaria-minera-valorada-en-6500-millones-en-el-sur-de-bolivar/",
+  "fecha": "2026-11-12T08:32:23-05:00",
+  "palabras": "",
+  "lead": "La operación se realizó en Simití y, según el Ejército, afectó las actividades de extracción de oro atribuidas a las disidencias de las FARC",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fedearroz alerta por IVA a insumos en Ley de Rescate Fiscal",
+  "enlace": "https://www.lafm.com.co/economia/fedearroz-alerta-iva-insumos-agropecuarios-ley-rescate-fiscal-416987",
+  "fecha": "2026-11-12T08:23:00-05:00",
+  "palabras": "Economía,Sector arrocero,medidas fiscales,Reforma tributaria,Impuestos,Recaudo fiscal,costos,Aranceles,Incentivos tributarios,Ministerio de Hacienda y Crédito Público,Ministerio de agricultura",
+  "lead": "Fedearroz respalda la búsqueda de recursos fiscales, pero advierte que gravar insumos agrícolas elevaría los costos de producción.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atlántico: aumento de homicidios de mujeres, estos son los motivos de los crímenes",
+  "enlace": "https://www.lafm.com.co/orden-publico/alerta-atlantico-aumento-homicidios-mujeres-motivos-crimenes-416986",
+  "fecha": "2026-11-12T08:22:00-05:00",
+  "palabras": "Orden Público,Feminicidio,Violencia de género,Homicidios,Asesinato,Sicarios,organizaciones criminales,estructuras criminales,actividad criminal,Grupos delincuenciales,Víctimas",
+  "lead": "María Lourdes Dávila, Secretaria de la Mujer y Equidad de Género del Departamento del Atlántico dio las explicaciones en La FM sobre el preocupante increme...",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
