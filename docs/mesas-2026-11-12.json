@@ -559,6 +559,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Alianza de Empresas y Fundaciones Unidas por Colombia ha logrado una coordinación muy importante entre más de 100 entidades del sector privado.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:56",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La red ProPacífico, ProAntioquia, Procesa Chocó, Procaldas y Proisarralda participan en la secretaría técnica y coordinación para comunicar avances en reactivación económica, educación y reconstrucción de colegios y centros de desarrollo infantil.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:56",
+   "quien": "Andrés (Oyente)",
+   "que": "El oyente desde el norte del Valle afirma que el gobierno del presidente Petro sigue siendo un show con improvisación total, destacando donaciones al sector privado en especie e irregularidades en anuncios de un billón de pesos en el Chocó.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Procuraduría General exigió a entidades del Estado adoptar medidas urgentes tras el atentado terrorista en Planadas, Tolima, que dejó cuatro fallecidos y dos semanas después sigue sin haber un censo oficial de afectados.",
+   "resaltar": true
   }
  ],
  "avisos": [
