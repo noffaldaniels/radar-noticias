@@ -748,6 +748,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Luis Carlos Vélez dijo en su voz que por comentarios que él había hecho, Enao llamó a RCN para que lo votaran.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:44",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el partido político de Fico Gutiérrez se analiza la estrategia electoral, descartando alianzas con Adedo o a bolígrafo, evaluando encuestas para definir la mejor opción.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:51",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Procuraduría emitió alertas sobre un contrato en la UPME relacionado con una estación en Lorica, un proyecto que se habría formado durante el gobierno de Gustavo Petro.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:45",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Congreso de Fedegán ratificó el rechazo al abandono de ganaderos en el departamento de Sucre y pidió una auditoría forense en el gremio.",
+   "resaltar": false
   }
  ],
  "avisos": [
