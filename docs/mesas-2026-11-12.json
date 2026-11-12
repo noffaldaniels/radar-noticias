@@ -321,6 +321,27 @@
    "quien": "Alcalde de Uribia",
    "que": "Debido a temores de seguridad, decidieron buscar cupo para su hijo Sebastián en una institución fuera de Uribia tras una pasantía en Medellín.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:13",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La restauración ambiental de las hectáreas arrasadas por la minería ilegal en el Tolima costaría más de 250.000 millones de pesos, según cifras oficiales.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:13",
+   "quien": "Iván Duque (Expresidente de la República)",
+   "que": "La implementación del acuerdo de paz ha costado 170 billones de pesos, en un contexto donde han transcurrido 10 años desde el inicio del proceso.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:13",
+   "quien": "Iván Duque (Expresidente de la República)",
+   "que": "Aún no existen condenas ejemplarizantes y la JEP está en deuda con Colombia, mientras la entidad enfrenta un pasivo con los máximos responsables de las Farc.",
+   "resaltar": false
   }
  ],
  "avisos": [
