@@ -720,6 +720,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La expectativa es que si en efecto se saca al señor Jensen Juan de supuesto como director ejecutivo, la acción pudiera caer un 20% más. En este momento de premercado la acción cae 8,5%, 158 la acción.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:40",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En norte de Santander, la Dijín y la Fiscalía ocuparon varios bienes del ELN adquiridos con dineros del narcotráfico. Cerca de 18 familias abandonaron sus viviendas en Catatumbo por enfrentamientos entre el ELN y las disidencias de las Farc.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:43",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el Centro Democrático buscan candidato a la Gobernación de Boyacá; se menciona a Hernando Pedraza, exsenador y exembajador, y a Rodrigo Rojas, que tiene garra y rival de Amaya y Carlos Amaya.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:43",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En Medellín, el movimiento Creemos del alcalde Fico Gutiérrez estará presente en las elecciones. Fico tiene dos candidatos: el exconcejal Andrés Tobón y el exsecretario privado del alcalde Manuel Villa Mejía.",
+   "resaltar": false
   }
  ],
  "avisos": [
