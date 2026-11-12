@@ -664,6 +664,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Rusia propuso hoy una nueva misión humanitaria conjunta entre Rusia y Ucrania en la ciudad de Kostiantinivka.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:27",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Discusión sobre la propuesta de gravar la canasta familiar y hacer una devolución para los hogares más vulnerables.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:30",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Análisis de la resistencia a gravar alimentos y la tributación general de la canasta básica.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:33",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "Debate sobre el impacto de la reforma tributaria en los hogares de menores ingresos.",
+   "resaltar": false
   }
  ],
  "avisos": [
