@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "05:55",
+   "quien": "Gerardo Mendoza, personero de Cali",
+   "que": "Denunció el retiro de su esquema de seguridad pese al riesgo que afronta por sus labores en el Ministerio Público. Reclamó atención de la Alcaldía y la Policía Metropolitana tras alertar sobre la desaparición de mujeres y el posible reclutamiento de menores en la ciudad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "05:55",
+   "quien": "William Calderón, periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que el Gobierno Nacional ratificó una inversión de 786.000 millones de pesos para el sistema de acueducto y alcantarillado de Santa Marta. La hoja de ruta proyecta bajar las pérdidas de agua del 60 % al 20 % y lograr hasta 20 horas de servicio continuo en cuatro años.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Juan Lozano, periodista de Noticias La FM con Juan Lozano",
+   "que": "Reportó que el vicepresidente de la República y el ministro de Hacienda, Miguel Gómez, pidieron en la asamblea de ANIF tramitar con urgencia la ley de rescate económico. Afirmó que el Ejecutivo tiene asegurados los votos en el Congreso para el recorte de gastos, mientras avanza en la concertación del componente tributario.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
