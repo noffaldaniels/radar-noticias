@@ -580,6 +580,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Procuraduría General exigió a entidades del Estado adoptar medidas urgentes tras el atentado terrorista en Planadas, Tolima, que dejó cuatro fallecidos y dos semanas después sigue sin haber un censo oficial de afectados.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:56",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se construye una plataforma de media hectárea sobre el agua en el centro histórico de Cartagena.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:03",
+   "quien": "Ministro Mauricio",
+   "que": "El ministro Mauricio anunció que a través de Fontur se crea el fondo de conectividad y Cartagena tendrá tres vuelos super claves desde Buenos Aires, además de conexiones con United.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:03",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El alcalde de Cartagena anunció más de 600 mil millones de pesos en inversión en colegios de diferentes zonas de la ciudad.",
+   "resaltar": false
   }
  ],
  "avisos": [
