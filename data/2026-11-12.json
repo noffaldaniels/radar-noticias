@@ -1404,7 +1404,7 @@
   "palabras": "Girón, Bucaramanga, Policía de Tránsito, Santander, Policía Nacional, Blu Radio, Noticias de hoy, Girón",
   "lead": "Según la entidad, el vehículo fue inmovilizado porque tenía vencido el SOAT y no contaba con la revisión técnico-mecánica, por lo que se impuso el comparendo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "Luis Díaz, PSG, Bayern Múnich",
   "lead": "Pese que esta temporada no ha estado al nivel de la anterior para Díaz, su calidad sigue despertando interés en Europa y un gigante tendría todo listo para ficharlo.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "Procuraduría General de la Nación, Córdoba, Noticias de hoy",
   "lead": "El ente de control advierte posibles vulneraciones, tras la exclusión de la empresa Enelca como participante del proceso de selección.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "Estados Unidos, China, Inteligencia Artificial",
   "lead": "La salida del empresario que lideró Nvidia durante 33 años sacude a la industria tecnológica. La compañía confirmó cambios inmediatos en su dirección mientras enfrenta una investigación interna.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "Viral, Boca Juniors",
   "lead": "Los hinchas xeneizes comenzaron su traslado hacia Barranquilla para vivir la final de la Copa Sudamericana frente a Mineiro. Se esperan a miles de argentinos en la Arenosa.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "El congresista de la Comisión Tercera de Asuntos Económicos se refirió a las trabas de procedimiento, la necesidad de ampliar la representación de ponentes y el apretado calendario legislativo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "El cofundador de Nvidia, Jensen Huang, dimitió este jueves con efecto inmediato como presidente, consejero delegado y miembro de la junta directiva del gigante tecnológico estadounidense, que nombró como directora ejecutiva interina a su directora financiera, Colette Kress, y designó por primera vez un presidente del consejo, Harvey C. Jones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "Explicó que gravar la medicina prepagada incrementaría notablemente su valor para las personas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "Tras las disculpas del canciller Omar Bula al Congreso de EE. UU., representantes del Pacto Histórico y del Centro Democrático dividen opiniones sobre si debe seguir en el cargo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "La maleta fue abandonada en el centro penitenciario, ubicado en la calle 7 con carrera 15.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "Un tiroteo registrado este jueves en Logan Circle, Washington, dejó varios heridos; la policía busca al sospechoso.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "Las viviendas de interés social VIS fueron entregadas gracias a proyectos de vivienda y apartamentos que desarrollan varias constructoras en la ciudad",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "El sábado se conocerán los tres equipos clasificados a los cuadrangulares finales del fútbol colombiano.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Se Espera que lleguen al lugar técnicos antiexplosivos acompañados de perros entrenados para que revisen una maleta",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "El DHS lo incluyó en su lista de arrestos de inmigrantes con condenas graves, junto a tres mexicanos y un camboyano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "Piden a la Fiscalía distinguir entre reuniones impuestas por grupos ilegales y actos de colaboración.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "Así inició la jornada del dólar en Colombia este jueves, 12 de noviembre. Conozca el comportamiento del dólar estadounidense y australiano, además del euro, el petróleo y el bitcoin.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "Recientemente, el Servicio Geológico Colombiano publicó la actualización del mapa de amenaza del volcán Cerro Machín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "Tras perder su casa por el terremoto de agosto, Inés Rojas, residente en Buga, recibirá una vivienda hecha con bloques de plástico reciclado. Está es la primera en su tipo avalada en Colombia que servirá como alternativa de reconstrucción de hogares sostenibles para las víctimas del terremoto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "El presidente volvió a encarar a los delincuentes capturados durante el operativo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "Las instituciones educativas San Lorenzo de Aburrá y Maestro Arenas Betancur representarán a la ciudad con iniciativas científicas e innovadoras para solucionar situaciones cotidianas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "Durante dos meses se desarrollarán las actividades de Navidad en los centros comerciales de Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Internacional,NVIDIA,Tecnología,Estados Unidos",
   "lead": "Huang tuvo dos relaciones extramaritales, una, con supuestamente una espía china.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "Política,Papa León XIV,ceremonia religiosa,Iglesia Católica,Cancilleria de Colombia,Ministerio de Relaciones Exteriores,relaciones,Líderes religiosos,Vaticano,Argentina",
   "lead": "La primera dama colombiana acompañó la recepción oficial del pontífice en Lima, tras una invitación de la presidenta peruana Keiko Fujimori. Después del en...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "Economía,Ecopetrol,situación financiera,ganancias,rentabilidad,Mercados bursátiles,inversionistas,metas financieras",
   "lead": "Ecopetrol presentará sus cifras trimestrales con expectativas de menores ganancias y un aumento en la producción.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,6 +1679,435 @@
   "palabras": "Sociedad,Luna,noviembre,Nasa,Planeta Tierra,Planeta",
   "lead": "El 24 de noviembre será la primera superluna de tres consecutivas que se verán en las noches del cierre de noviembre.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Olar de calor azota al Caribe: temperaturas sobrepasan los 35°C en principales ciudades",
+  "enlace": "https://www.bluradio.com/regiones/caribe/olar-de-calor-azota-al-caribe-temperaturas-sobrepasan-los-35-c-en-principales-ciudades-rg10",
+  "fecha": "2026-11-12T09:48:54-05:00",
+  "palabras": "Ola de calor, Fenómeno de El Niño, Barranquilla",
+  "lead": "En varias poblaciones hay alerta por probabilidad de incendios forestales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Declara calamidad pública por riesgo de colapso en más de 100 viviendas en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/declara-calamidad-publica-por-riesgo-de-colapso-en-mas-de-100-viviendas-en-bucaramanga-rg10",
+  "fecha": "2026-11-12T10:12:47-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Bucaramanga, Santander, Emergencias por lluvias, Emergencias, Alcaldía de Bucaramanga, Calamidad Pública, Bucaramanga",
+  "lead": "Las grietas en paredes, pisos y otras afectaciones estructurales, atribuidas a una falla geológica, mantienen en alerta a las familias de Villas de San Ignacio, en el norte de Bucaramanga.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Pacto Histórico anuncia marchas y lucha política contra la reforma tributaria de De La Espriella",
+  "enlace": "https://www.bluradio.com/nacion/pacto-historico-anuncia-marchas-y-lucha-politica-contra-la-reforma-tributaria-de-de-la-espriella-rg10",
+  "fecha": "2026-11-12T09:43:27-05:00",
+  "palabras": "Pacto Histórico, Abelardo De La Espriella",
+  "lead": "Cuestionó los impuestos a productos de la canasta familiar y advirtió sobre posibles efectos en el empleo, la inflación y el crecimiento económico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El Andorra deja en manos de Jesús Owono decisión de volver a jugar tras la muerte de Jesús de Miguel",
+  "enlace": "https://www.bluradio.com/deportes/el-andorra-deja-en-manos-de-jesus-owono-decision-de-volver-a-jugar-tras-la-muerte-de-jesus-de-miguel-so35",
+  "fecha": "2026-11-12T09:42:35-05:00",
+  "palabras": "",
+  "lead": "El técnico Carles Manso aseguró que el guardameta se ha refugiado en su entorno más cercano y que el club respetará sus tiempos tras el fatal choque en Segunda División.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Operativos contra bandas criminales continuarán en Bucaramanga; habrá vigilancia aérea",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/operativos-contra-bandas-criminales-continuaran-en-bucaramanga-habra-vigilancia-aerea-rg10",
+  "fecha": "2026-11-12T10:10:52-05:00",
+  "palabras": "Bucaramanga, Alcaldía de Bucaramanga, Abelardo De La Espriella",
+  "lead": "El alcalde de Bucaramanga, Cristian Portilla, anunció el fortalecimiento de la vigilancia aérea en las entradas y salidas de Bucaramanga.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Aún no compra el GTA 6? Estas son las diferencias de la versión ultimate y estándar",
+  "enlace": "https://www.bluradio.com/tecnologia/aun-no-compra-el-gta-6-estas-son-las-diferencias-de-la-version-ultimate-y-estandar-so35",
+  "fecha": "2026-11-12T10:18:31-05:00",
+  "palabras": "Viral",
+  "lead": "Faltan pocos días para que el esperado juego de Rockstar Games salga oficialmente al mercado y si bien ya son más de 9 millones de preventas, muchos aún no se deciden si comprarlo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Golpe a toda la delincuencia”: Gobernador detalla masivo operativo de seguridad en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/golpe-a-toda-la-delincuencia-gobernador-detalla-masivo-operativo-de-seguridad-en-bucaramanga-pr30",
+  "fecha": "2026-11-12T10:27:39-05:00",
+  "palabras": "",
+  "lead": "En declaraciones para Mañanas Blu, sobre los resultados de los procedimientos ejecutados desde la madrugada, el gobernador de Santander, Juvenal Díaz, resaltó la importancia de la ofensiva judicial y su impacto en la percepción de seguridad ciudadana.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Varios heridos deja tiroteo en Washington mientras la policía busca a sospechoso",
+  "enlace": "https://www.bluradio.com/mundo/varios-heridos-deja-tiroteo-en-washington-mientras-la-policia-busca-a-sospechoso-cb20",
+  "fecha": "2026-11-12T10:33:28-05:00",
+  "palabras": "",
+  "lead": "\"Se han producido tiroteos dentro y fuera del gimnasio Vida Fitness esta mañana en Logan Circle. Hay varias personas baleadas. No se acerquen a esta zona. La policía está buscando al sospechoso\", escribió en X la concejal Brooke Pinto.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Corte ordena trasladar a más de 2.600 detenidos ante crisis de hacinamiento carcelario",
+  "enlace": "https://www.bluradio.com/nacion/corte-ordena-trasladar-a-mas-de-2-600-detenidos-ante-crisis-de-hacinamiento-carcelario-rg10",
+  "fecha": "2026-11-12T10:28:19-05:00",
+  "palabras": "Cárceles",
+  "lead": "El alto tribunal fijó dos meses para el plan de traslado de los detenidos y ordenó a MinJusticia y la ANI buscar soluciones al déficit de infraestructura carcelaria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ya sabemos quién es el señor Omar Bula: congresista demócrata por disculpas del canciller colombiano",
+  "enlace": "https://caracol.com.co/2026/11/12/ya-sabemos-quien-es-el-senor-omar-bula-congresista-democrata-por-disculpas-del-canciller-colombiano/",
+  "fecha": "2026-11-12T10:18:29-05:00",
+  "palabras": "",
+  "lead": "La congresista demócrata Analilia Mejía cuestionó los mensajes en redes sociales el actual canciller de Colombia: “lo dijo cuando pensaba que no había consecuencias”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Quieren que me maten”: gobernador de Nariño frente a críticas por compra de vehículo blindado",
+  "enlace": "https://caracol.com.co/2026/11/12/quieren-que-me-maten-gobernador-de-narino-frente-a-criticas-por-compra-de-vehiculo-blindado/",
+  "fecha": "2026-11-12T10:30:56-05:00",
+  "palabras": "",
+  "lead": "El mandatario respondió a cuestionamientos por automotor adquirido en más de $800 millones de pesos",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Por restricciones del ELN, vehículos quedaron atravesados en la vía Cúcuta-Tibú",
+  "enlace": "https://caracol.com.co/2026/11/12/por-restricciones-del-eln-vehiculos-quedaron-atravesados-en-la-via-cucuta-tibu/",
+  "fecha": "2026-11-12T10:29:10-05:00",
+  "palabras": "",
+  "lead": "Los bloqueos se adelantaron en Campo Dos y La Llana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nvidia: Kimberly Powell, la ejecutiva señalada como la segunda amante de Jensen Huang",
+  "enlace": "https://caracol.com.co/2026/11/12/nvidia-kimberly-powell-la-ejecutiva-senalada-como-la-segunda-amante-de-jensen-huang/",
+  "fecha": "2026-11-12T10:19:45-05:00",
+  "palabras": "",
+  "lead": "Kimberly Powell, vicepresidenta del área de salud de Nvidia, fue señalada por una investigación de The New York Times como la segunda mujer con la que Jensen Huang.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Senadora Padilla revela denuncia contra la Universidad San Martin por experimentar con animal vivo",
+  "enlace": "https://caracol.com.co/2026/11/12/senadora-padilla-revela-denuncia-contra-la-universidad-san-martin-por-experimentar-con-animal-vivo/",
+  "fecha": "2026-11-12T10:13:09-05:00",
+  "palabras": "",
+  "lead": "La denuncia ocurrió debido a que la universidad usó a un gato vivo para experimentar, el gato contaba con buena salud y después de eso, su salud se deterioró",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sindicato cuestiona independencia de postulada para jefe de control interno en Previsora Seguros",
+  "enlace": "https://caracol.com.co/2026/11/12/sindicato-cuestiona-independencia-de-postulada-para-jefe-de-control-interno-en-previsora-seguros/",
+  "fecha": "2026-11-12T10:13:10-05:00",
+  "palabras": "",
+  "lead": "Sintraprevi aseguró que la entidad de seguros tiene un contrato con la empresa con la que Luisa Fernanda Chávez trabajó.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos municipios de Santander celebrarán sus Ferias y Fiestas este fin de semana: conozca cuáles son",
+  "enlace": "https://caracol.com.co/2026/11/12/dos-municipios-de-santander-celebraran-sus-ferias-y-fiestas-este-fin-de-semana-conozca-cuales-son/",
+  "fecha": "2026-11-12T10:06:53-05:00",
+  "palabras": "",
+  "lead": "Los municipios de El Páramo y San Andrés, Santander, tendrán una variada programación entre el 13 y el 16 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía pide condenar a excandidato al Concejo de Bogotá por presunto abuso sexual a menor",
+  "enlace": "https://caracol.com.co/2026/11/12/fiscalia-pide-condenar-a-excandidato-al-concejo-de-bogota-por-presunto-abuso-sexual-a-menor/",
+  "fecha": "2026-11-12T10:11:14-05:00",
+  "palabras": "",
+  "lead": "En esa misma línea, la Procuraduría también solicitó una fallo condenatorio.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades de salud de Cali alertan por uso de medicamentos para adelgazar sin control médico",
+  "enlace": "https://caracol.com.co/2026/11/12/autoridades-de-salud-de-cali-alertan-por-uso-de-medicamentos-para-adelgazar-sin-control-medico/",
+  "fecha": "2026-11-12T10:10:34-05:00",
+  "palabras": "",
+  "lead": "El uso de medicamentos como la semaglutida, la tirzepatida y otras terapias incretínicas con fines estéticos y sin valoración médica pueden ocasionar efectos adversos y complicaciones. La alerta se extiende ante el aumento de su popularidad para perder peso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La apuesta de Comfandi por el bienestar del Valle del Cauca",
+  "enlace": "https://caracol.com.co/2026/11/12/la-apuesta-de-comfandi-por-el-bienestar-del-valle-del-cauca/",
+  "fecha": "2026-11-12T09:56:35-05:00",
+  "palabras": "",
+  "lead": "El Festival Valle Inspira abrió con la intervención de Jacobo Tovar, director general de Comfandi, quien destacó que el desarrollo económico de la región debe ir de la mano con la generación de oportunidades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Es una persona tranquila y de mucha escucha”: el retrato de León XIV hecho por César Piscoya",
+  "enlace": "https://caracol.com.co/2026/11/12/es-una-persona-tranquila-y-de-mucha-escucha-el-retrato-de-leon-xiv-hecho-por-cesar-piscoya/",
+  "fecha": "2026-11-12T09:38:07-05:00",
+  "palabras": "",
+  "lead": "Piscoya, asesor del Consejo Episcopal Latinoamericano y Caribeño, y amigo cercano del papa, relató cómo lo conoció y cómo se forjó la relación. “Me hizo la invitación a ser sacerdote”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía revela detalles de investigación contra empresario de Cúcuta por presunto lavado de dinero",
+  "enlace": "https://caracol.com.co/2026/11/12/fiscalia-revela-detalles-de-investigacion-contra-empresario-de-cucuta-por-presunto-lavado-de-dinero/",
+  "fecha": "2026-11-12T10:01:19-05:00",
+  "palabras": "",
+  "lead": "Arvey Duque Villamizar está entre los siete capturados por una presunta red de exportaciones ficticias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Al menos ocho muertos por colapso de edificio en Nueva York",
+  "enlace": "https://caracol.com.co/2026/11/12/al-menos-ocho-muertos-por-colapso-de-edificio-en-nueva-york/",
+  "fecha": "2026-11-12T09:57:12-05:00",
+  "palabras": "",
+  "lead": "El derrumbe de un edificio residencial junto a una excavación en Brooklyn, Nueva York, dejó al menos ocho muertos y 19 heridos, mientras unos 250 rescatistas continúan la búsqueda.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Manuel Pellegrini entregó novedades sobre la recuperación del Cucho Hernández",
+  "enlace": "https://caracol.com.co/2026/11/12/manuel-pellegrini-entrego-novedades-sobre-la-recuperacion-del-cucho-hernandez/",
+  "fecha": "2026-11-12T09:55:03-05:00",
+  "palabras": "",
+  "lead": "La recuperación del delantero colombiano ha evolucionado y ya comenzó a realizar trabajos sobre el césped.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Precio y cotización del dólar en Venezuela HOY 12 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/12/precio-y-cotizacion-del-dolar-en-venezuela-hoy-12-de-noviembre-de-2026/",
+  "fecha": "2026-11-12T09:51:28-05:00",
+  "palabras": "",
+  "lead": "Conozca cómo está el precio del bolívar en dólares y otras divisas del mundo. También, cómo ha sido su movimiento en los últimos días.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cámara de Comercio de Cali llama a transformar el Valle del Cauca más allá de la reconstrucción",
+  "enlace": "https://caracol.com.co/2026/11/12/camara-de-comercio-de-cali-llama-a-transformar-el-valle-del-cauca-mas-alla-de-la-reconstruccion/",
+  "fecha": "2026-11-12T09:48:27-05:00",
+  "palabras": "",
+  "lead": "En el Festival Valle Inspira, la presidenta de esa entidad propuso convertir las dificultades recientes en un impulso para transformar la economía regional, aumentar la inversión y generar bienestar para la población.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Registran la residencia presidencial en Paraguay tras la intervención de Ueno bank",
+  "enlace": "https://caracol.com.co/2026/11/12/registran-la-residencia-presidencial-en-paraguay-tras-la-intervencion-de-ueno-bank/",
+  "fecha": "2026-11-12T09:46:15-05:00",
+  "palabras": "",
+  "lead": "El expresidente Santiago Peña y el exjefe del Banco Central, Carlos Carvallo, permanecen en prisión preventiva por presuntas irregularidades relacionadas con la entidad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inteligencia verifica video en el que ‘Marlon’ anuncia “juicios” contra secuestrados por Disidencias",
+  "enlace": "https://caracol.com.co/2026/11/12/inteligencia-verifica-video-en-el-que-marlon-anuncia-juicios-contra-secuestrados-por-disidencias/",
+  "fecha": "2026-11-12T09:44:47-05:00",
+  "palabras": "",
+  "lead": "Como argumento para esta determinación, alias Marlon acusa a los integrantes de la Fuerza Pública de haber participado directamente en operaciones militares y tareas de inteligencia contra las disidencias",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Latin Grammy 2026: El Best New Artist Showcase celebró a las nuevas voces de la música latina",
+  "enlace": "https://caracol.com.co/2026/11/12/latin-grammy-2026-el-best-new-artist-showcase-celebro-a-las-nuevas-voces-de-la-musica-latina/",
+  "fecha": "2026-11-12T09:41:21-05:00",
+  "palabras": "",
+  "lead": "El encuentro destacó el talento y las propuestas de artistas emergentes que buscan conquistar la industria musical.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Falleció Jorge Iván Restrepo Arias, concejal de Itagüí",
+  "enlace": "https://caracol.com.co/2026/11/12/fallecio-jorge-ivan-restrepo-arias-concejal-de-itagui/",
+  "fecha": "2026-11-12T09:39:32-05:00",
+  "palabras": "",
+  "lead": "La Alcaldía de Itagüí y el alcalde Diego Torres confirmaron la muerte del concejal este 12 de noviembre. Destacaron su trabajo comunitario y su compromiso con las personas mayores.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Frustran atentado contra líder social en Antioquia: explosivo estaba enterrado junto a su casa",
+  "enlace": "https://caracol.com.co/2026/11/12/frustran-atentado-contra-lider-social-en-antioquia-explosivo-estaba-enterrado-junto-a-su-casa/",
+  "fecha": "2026-11-12T09:33:33-05:00",
+  "palabras": "",
+  "lead": "El hecho terrorista fue cometido por integrantes del Clan del Golfo y el frente 5 de las disidencias de las FARC en Briceño.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fuerzas Militares no reportaron bombardeo en el Vichada",
+  "enlace": "https://www.lafm.com.co/orden-publico/bombardeo-fuerza-militares-en-vichada-no-fue-reportado-416994",
+  "fecha": "2026-11-12T10:25:00-05:00",
+  "palabras": "Orden Público,Fuerzas Militares,Iván Mordisco,disidencias,Vichada,Militares,Bombas",
+  "lead": "La FM conoció detalles de dicho bombardeo que se ejecutó en el departamento de Vichada contra un círculo de seguridad cercano de alias Iván Mordisco.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cámaras captaron camioneta del secuestro de Nancy Gómez",
+  "enlace": "https://www.lafm.com.co/actualidad/camioneta-secuestro-nancy-gomez-uribia-gestora-social-417002",
+  "fecha": "2026-11-12T10:20:00-05:00",
+  "palabras": "Actualidad,Secuestros,La Guajira,Grupos delincuenciales,ELN",
+  "lead": "El secretario de Gobierno de Uribia dijo en La FM que no está confirmado que Nancy Gómez esté en Venezuela.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Aeropuerto José María Córdova reportó falla eléctrica",
+  "enlace": "https://www.lafm.com.co/sociedad/medellin-aeropuerto-jose-maria-cordova-presento-falla-electrica-suspension-control-migratorio-416998",
+  "fecha": "2026-11-12T10:11:00-05:00",
+  "palabras": "Sociedad,aeropuerto,Medellín, Colombia,Fallas en sistema,Electricidad apagón,Corte de energía,Mantenimiento,Operaciones aéreas,Vuelos,Viajeros terminal",
+  "lead": "Las labores de mantenimiento continúan mientras se aplican medidas provisionales y permanecen vigentes los equipos de respaldo para atender a los viajeros.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quién será el sucesor de Fico Gutiérrez en Medellín?",
+  "enlace": "https://www.lafm.com.co/politica/elecciones-regionales-sucesor-de-fico-gutierrez-en-medellin-416972",
+  "fecha": "2026-11-12T10:03:00-05:00",
+  "palabras": "Política,Federico Gutiérrez,Medellín, Colombia,alcaldes,Elecciones en Colombia",
+  "lead": "Se calienta el panorama electoral regional en Colombia antes de terminar el 2026. D'arcy Quinn revela que el Centro Democrático está pensando en un candida...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cuatro heridos en Washington por tiroteo en inmediaciones de la Casa Blanca: Buscan al sospechoso",
+  "enlace": "https://www.lafm.com.co/internacional/tiroteo-washington-inmediaciones-casa-blanca-estados-unidos-417000",
+  "fecha": "2026-11-12T09:43:00-05:00",
+  "palabras": "Internacional,Washington,Tiroteo,Estados Unidos",
+  "lead": "Un hombre armado disparó por la espalda contra una persona dentro de un gimnasio.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Grupo Aval: utilidades, déficit fiscal y acuerdo con el FMI",
+  "enlace": "https://www.lafm.com.co/economia/grupo-aval-resultados-tercer-trimestre-2026-deficit-fiscal-fmi-utilidades-416999",
+  "fecha": "2026-11-12T09:39:00-05:00",
+  "palabras": "Economía,Grupo Aval,resultados,ganancias,rentabilidad,Tasas de interés,situación financiera,Actividad económica,metas financieras",
+  "lead": "El conglomerado financiero señaló que el ajuste fiscal, la seguridad y la inversión privada serán claves para impulsar la economía colombiana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "TransMilenio cambia el nombre de varias estaciones en Bogotá",
+  "enlace": "https://www.lafm.com.co/actualidad/estaciones-transmilenio-cambio-nombres-alianzas-empresarios-universidades-centros-comerciales-416997",
+  "fecha": "2026-11-12T09:26:00-05:00",
+  "palabras": "Actualidad,TransMilenio,Alcaldía de Bogotá,Bogotá,Secretaría de Movilidad",
+  "lead": "Los nuevos nombres de la estaciones se incorporaron mediante alianzas con instituciones educativas, centros comerciales y complejos empresariales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Quién es Colette Kress, el reemplazo de Jensen Huang en Nvidia",
+  "enlace": "https://www.lafm.com.co/internacional/salida-de-jensen-huang-quien-es-colette-kress-reemplazo-416995",
+  "fecha": "2026-11-12T09:21:00-05:00",
+  "palabras": "Internacional,NVIDIA,Estados Unidos,Empresas,actualidad",
+  "lead": "La salida de Huang, luego de que se revelaran infidelidades, le dan paso de manera interina a la ejecutiva.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Crisis carcelaria: ordena trasladar a 2.615 detenidos",
+  "enlace": "https://www.lafm.com.co/orden-publico/corte-constitucional-ordena-trasladar-a-2615-detenidos-y-destrabar-obras-carcelarias-416992",
+  "fecha": "2026-11-12T09:08:00-05:00",
+  "palabras": "Orden Público,Inpec,Corte Constitucional,Cárcel,Ministerio de Justicia,Gobierno",
+  "lead": "La Corte Constitucional ordenó una mesa técnica para destrabar obras carcelarias y el traslado en 2 meses de 2.615 presos en estaciones.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
