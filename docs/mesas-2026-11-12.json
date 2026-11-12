@@ -90,6 +90,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Tribunal Superior de Barranquilla declaró improcedente la tutela presentada por la defensa de Day Vásquez, por lo que se reanudará el proceso penal en su contra por presunta violación de datos a Laura Ojeda. El abogado de Ojeda anunció además una queja disciplinaria contra la contraparte por presuntas maniobras dilatorias.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:13",
+   "quien": "Miguel Gómez, ministro de Hacienda",
+   "que": "Cifró la deuda del Estado en 1.200 billones de pesos y situó el déficit de este año en 7,2% del PIB. Advirtió que la deuda podría superar el 71% del PIB y que a finales de la década su servicio absorbería casi el 45% de los ingresos de la Nación.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:14",
+   "quien": "Omar Bula, canciller de Colombia",
+   "que": "Envió una carta de disculpas con fecha del 10 de noviembre al congresista Gregory Meeks y a líderes del Partido Demócrata de EE. UU. por mensajes ofensivos previos a su cargo, reconociendo que usó un lenguaje inapropiado que no representa la postura del Gobierno.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:21",
+   "quien": "Darcy Quinn, periodista de Noticias La FM con Juan Lozano",
+   "que": "Reveló que la embajadora María Consuelo Araújo entregó personalmente la carta de disculpas a Gregory Meeks y que también la hará llegar directamente a cada uno de los miembros del Partido Demócrata.",
+   "resaltar": false
   }
  ],
  "avisos": []
