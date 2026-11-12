@@ -363,6 +363,20 @@
    "quien": "Claudia Camila, Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Aterrizó con éxito el Boeing 737-400 de Air Caribe que cubría la ruta Quito-Bogotá en el aeropuerto Internacional El Dorado.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:15",
+   "quien": "Juan, Presidente de la República",
+   "que": "La Corte Suprema le abrió un incidente de medida correctiva por la investigación de los contratos de Daisy Jiménez en el Congreso.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:17",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Van 75 mujeres asesinadas en el departamento del Atlántico, representando un incremento de los feminicidios en el 2024.",
+   "resaltar": false
   }
  ],
  "avisos": [
