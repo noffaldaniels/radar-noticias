@@ -496,6 +496,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Informó que Alejandra Rubio, una emergencia con un avión de carga de Air Caribe que presentó una emergencia por una posible falla en el tren de aterrizaje, sobrevoló por varios minutos en el Tolima y estuvo esperando autorización para aterrizar en Bogotá y finalmente aterrizó hace unos minutos en el aeropuerto El Dorado, recibido por vehículos de emergencia.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:53",
+   "quien": "Fernando Quijano, señor gerente del Hospital Universitario San José de Popayán",
+   "que": "La deuda del Hospital Universitario San José asciende a 447.000 millones de pesos, y las utilidades para funcionar son solo para ocho días más.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:53",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el Hospital San José de Popayán, que atiende a víctimas del terrorismo en la región del Cauca, se han atendido intervenciones con EPS como EPS Sanar (seis), Coosalud (seis) y nueve que pasaron por encargo, mientras que Nueva EPS ha tenido cinco.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:53",
+   "quien": "Teresa Mar Londoño Surec, secretaria de Turismo de Cartagena y madre del Malecón",
+   "que": "Se anunció el desarrollo del proyecto del Malecón de Cartagena, que abarca desde Playa Azul hasta el ingreso del centro histórico, financiado por el gobierno nacional para potenciar el turismo y la economía regional.",
+   "resaltar": false
   }
  ],
  "avisos": [
