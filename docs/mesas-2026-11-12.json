@@ -622,6 +622,27 @@
    "quien": "Néstor Morales (Periodista de Mañanas Blu)",
    "que": "La Contraloría informó que se ha ejecutado casi el 85% del proyecto del metro, con un costo estimado de 10 millones de dólares para 10 mil millones de pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:07",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Un avión de carga de Air Caribe presentó una emergencia por una posible falla en el tren de aterrizaje y estuvo sobrevolando por varios minutos en Tolima antes de aterrizar en Bogotá.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:07",
+   "quien": "Abelardo de la Espriella",
+   "que": "Entregó el balance de la operación Mano de Hierro realizada en Bucaramanga: van 136 capturas, 70 allanamientos, varias armas de fuego, estupefacientes, explosivos, municiones y dinero incautado.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:07",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Estudiantes del Gimnasio Campestre Los Laureles en Cajicá, Cundinamarca, donde estudiaba la menor que falleció, Valeria Afanador, hicieron un llamado al gobierno para que sus voces sean tenidas en cuenta y no se cierre esa institución educativa.",
+   "resaltar": false
   }
  ],
  "avisos": [
