@@ -237,6 +237,27 @@
    "quien": "Don Pepe Morón",
    "que": "Se explicaron los alcances de una decisión de la Corte Constitucional que avala la emergencia económica decretada por el gobierno tras el terremoto de agosto, poniendo condiciones concretas para que los beneficios lleguen de forma exclusiva a los municipios afectados.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:53",
+   "quien": "César Valderrama, Vicepresidente de Invamer",
+   "que": "El presidente Abelardo de la Espriella tiene una favorabilidad por debajo del 50%, superando a Iván Duque y Gustavo Petro, pero con menor favorabilidad que los expresidentes Santos, Uribe y Pastrana.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:53",
+   "quien": "César Valderrama, Vicepresidente de Invamer",
+   "que": "El presidente Abelardo de la Espriella tiene mejor favorabilidad en Cúcuta, Medellín, Barranquilla y Bucaramanga, y peor en Ibagué, Cali, Pereira y Bogotá.",
+   "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:53",
+   "quien": "César Valderrama, Vicepresidente de Invamer",
+   "que": "En la reconstrucción de Quibdó, la calificación de la gestión del presidente es alta, mientras que en Pereira y Cali la imagen y calificación son significativamente más bajas.",
+   "resaltar": false
   }
  ],
  "avisos": [
