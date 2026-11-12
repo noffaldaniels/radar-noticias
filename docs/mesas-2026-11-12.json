@@ -125,6 +125,27 @@
    "quien": "Néstor Morales (Periodista de Mañanas Blu)",
    "que": "En el año 2004, un juzgado de Ibagué declaró al hoy magistrado Jorge Enrique Ibáñez legalmente padre de Jorge Enrique Ibáñez Robles con unas pruebas de laboratorio que fueron avaladas por un juez hace 22 años y que hoy hacen parte de este largo proceso.",
    "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:24",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Ministro del Interior, Juan Fernando Cristo, cuestionó al expresidente Juan Manuel Santos por la entrega del país a las Farc y el diseño de la justicia transicional.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:25",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El exmandatario Iván Duque defendió su gobierno asegurando que al finalizar su mandato el cumplimiento del acuerdo de paz llegó al 31 por ciento y criticó la suspensión de la aspersión aérea de cultivos ilícitos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:29",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Las Fuerzas Militares de Colombia recibieron en Estados Unidos un nuevo hangar de aviación en Tolemaida para fortalecer la lucha contra el narcotráfico y entrenar tropas nacionales y extranjeras.",
+   "resaltar": false
   }
  ],
  "avisos": [
