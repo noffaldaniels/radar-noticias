@@ -3065,7 +3065,7 @@
   "palabras": "Noticias de hoy, Videojuegos",
   "lead": "Lo hace la Universidad Santiago de Cali y tendrá una duración de nueve semestres con formación en programación, inteligencia artificial, diseño, animación y tecnologías inmersivas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3076,7 +3076,7 @@
   "palabras": "Noticias de hoy, Cali",
   "lead": "De las más de 490 intersecciones semafóricas de Cali, hay 14 que reportan daños mayores y están fuera de servicio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3087,7 +3087,7 @@
   "palabras": "Noticias de hoy, Medellín, Emergencias por lluvias",
   "lead": "La recuperación del corredor vial tardará aproximadamente tres semanas, dejando a miles de habitantes con graves dificultades de movilidad tras el daño ocasionado por las lluvias, pese al clima seco de los últimos días.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3098,7 +3098,7 @@
   "palabras": "Noticias de hoy",
   "lead": "Secretaria de la mujer del Atlántico advierte que homicidios de mujeres han subido 86% en el departamento.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3109,7 +3109,7 @@
   "palabras": "Conflicto armado en Colombia, Nariño",
   "lead": "Hace más de un mes está secuestrado un empleado de la empresa y siguen llegando amenazas y extorsiones. Piden ayuda al Gobierno nacional.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3120,7 +3120,7 @@
   "palabras": "Fenómeno de El Niño, Ministerio de Minas y Energía",
   "lead": "La petición a los hogares es ahorrar electricidad especialmente entre las 6:00 de la mañana y las 9:00 de la noche.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3131,7 +3131,7 @@
   "palabras": "Zulma Guzman Castro",
   "lead": "El documento radicado ante la Fiscalía General de la Nación señala que el fallecimiento de Alicia Graham en 2021 fue presentado como una muerte natural por cáncer, pese a la existencia de exámenes de toxicología con altos niveles de talio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3142,7 +3142,7 @@
   "palabras": "Nueva York, Estados Unidos",
   "lead": "El inmueble, ubicado en el barrio de Flatbush, conocido como el 'pequeño Caribe', se vino abajo el pasado 8 de noviembre con varios residentes en su interior.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3153,7 +3153,7 @@
   "palabras": "Noticias de hoy",
   "lead": "El alcalde Alejandro Eder confirmó que la taquilla del partido Colombia vs. Chile se destinará para ayudas a los damnificados por el sismo del 10 de agosto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3164,7 +3164,7 @@
   "palabras": "Outlook",
   "lead": "En diferentes países se han registrados estos problemas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3175,7 +3175,7 @@
   "palabras": "",
   "lead": "El Pulso del Fútbol analiza la sanción del TAS al América de Cali por la inscripción de Yhormar Hurtado.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3186,7 +3186,7 @@
   "palabras": "",
   "lead": "El concejal también criticó los avances de la Aministración Distrital en la construcción de nuevos equipamentos de justicia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3197,7 +3197,7 @@
   "palabras": "",
   "lead": "El expresidente Álvaro Uribe se reunió por segunda vez con su bancada y trazó las líneas rojas y alternativas para el trámite.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3208,7 +3208,7 @@
   "palabras": "",
   "lead": "El senador Orlando de la Hoz advirtió que 75 mujeres han sido asesinadas en lo corrido del año, 33 de ellas en Barranquilla.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3219,7 +3219,7 @@
   "palabras": "",
   "lead": "En la acción violenta, otros tres uniformados resultados heridos.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3230,7 +3230,7 @@
   "palabras": "",
   "lead": "Olga Lucía Martínez asumió en encargo la presidencia de la entidad financiera",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3241,7 +3241,7 @@
   "palabras": "",
   "lead": "Nuevas asociaciones de camioneros y pescadores se unieron a las protestas contra el alza de los combustibles",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3252,7 +3252,7 @@
   "palabras": "",
   "lead": "El conmovedor mensaje de Emiliano López en Caracol Radio tras confirmarse la liberación de su padre, Rodrigo Antonio López, uno de los dos funcionarios de la Fiscalía que estuvieron secuestrados por el ELN en Arauca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3263,7 +3263,7 @@
   "palabras": "",
   "lead": "El texto confirma que el miembro de mayor rango del Comité de Asuntos Exteriores, Gregory Meeks, se reunió con la embajadora María Consuelo Araújo Castro",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3274,7 +3274,7 @@
   "palabras": "",
   "lead": "Los recursos son de hasta $ 25.000.000, según los daños de cada propiedad y esto hace parte del plan de reconstrucción de la ciudad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3285,7 +3285,7 @@
   "palabras": "Sociedad,Correo electrónico",
   "lead": "Las fallas también generaron reportes relacionados con Microsoft 365 y Teams. La compañía identificó una sobrecarga en parte de su infraestructura en varia...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3296,7 +3296,7 @@
   "palabras": "Economía,Fallas en sistema,Analdex,Comercio exterior,Régimen aduanero,Importaciones,Comercio internacional,Trámites,Control en fronteras",
   "lead": "Analdex alertó que las fallas tecnológicas de la DIAN están generando retrasos y mayores costos para las empresas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3307,7 +3307,7 @@
   "palabras": "Deportes,Conflicto de intereses,Irregularidades en contratos,periodismo investigativo,Cuentas bancarias,Comisión de Ética,sanciones,imputan cargos,Procesos judiciales,Funcionarios denunciados,investigados",
   "lead": "Alejandro Domínguez, presidente de Conmebol, recibió US$ 3,5 millones del Grupo Vázquez en siete transferencias, según una investigación de ABC Color que e...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3318,7 +3318,7 @@
   "palabras": "Política,JurisdicciónEspecialParalaPaz,Acuerdo de paz,medidas cautelares,Unidad Nacional de Protección,Defensoría del Pueblo,Procuraduría General de la Nación,desmovilizados,Homicidios,Amenazas,Desplazamiento forzado",
   "lead": "El ministro del Interior, Alejandro Ordóñez, anunció ante la JEP el fin de la “feria de los esquemas de seguridad” para los firmantes de paz",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3329,7 +3329,7 @@
   "palabras": "Política,Cancilleria de Colombia,Ministerio de Relaciones Exteriores,Diplomacia,Política internacional,Secuestros,organizaciones criminales",
   "lead": "Venezuela puso a sus autoridades a disposición de Colombia para dar con el paradero de quienes secuestraron a Nancy Gómez, primera dama de Uribia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3340,7 +3340,7 @@
   "palabras": "Internacional,Reino Unido,Inglaterra,Familia real,Guerra",
   "lead": "La primera dama del reinado inglés llamó la atención en una velada que suele ser dada a la sencillez.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3351,6 +3351,413 @@
   "palabras": "Actualidad,Contratación,Polémicos contratos,Nariño,vehículos",
   "lead": "La polémica se desató por la compra de un carro blindado para uso del gobernador de Nariño, Luis Alfonso Escobar.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Más impuestos o más recortes al gasto?: Mañanas Blu, 12 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/mas-impuestos-o-mas-recortes-al-gasto-mananas-blu-12-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-12T15:03:32-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 12 de noviembre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No hubo ningún tipo de negociación”: Gobernador de Arauca sobre liberación de agentes del CTI",
+  "enlace": "https://www.bluradio.com/nacion/no-hubo-ningun-tipo-de-negociacion-gobernador-de-arauca-sobre-liberacion-de-agentes-del-cti-pr30",
+  "fecha": "2026-11-12T14:41:43-05:00",
+  "palabras": "Arauca, CTI de la Fiscalía, ELN",
+  "lead": "El gobernador Renson Martínez calificó la entrega de Jesús Antonio Pacheco y Rodrigo Antonio López como un gesto humanitario y destacó las gestiones institucionales y el acompañamiento de las familias.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Fallo TAS América: Santa Fe no gana puntos pero Internacional sí",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/a-santa-fe-le-parece-extrano-fallo-de-los-puntos-demandados-al-tas-contra-america-pr30",
+  "fecha": "2026-11-12T15:11:18-05:00",
+  "palabras": "Independiente Santa Fe, TAS, América de Cali, América, TAS América, fallo TAS América",
+  "lead": "Aunque el Internacional de Bogotá ya recibió la confirmación de la obtención de los tres puntos, al conjunto cardenal se le mantuvo el punto del empate.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“No venimos a discutir la legitimidad de la JEP”: fuerte choque entre ministro Ordoñez y magistrado",
+  "enlace": "https://www.bluradio.com/nacion/no-venimos-a-discutir-la-legitimidad-de-la-jep-fuerte-choque-entre-ministro-ordonez-y-magistrado-rg10",
+  "fecha": "2026-11-12T14:48:03-05:00",
+  "palabras": "Alejandro Ordóñez, JEP",
+  "lead": "El ministro Alejandro Ordóñez cuestionó la legitimidad de la JEP y el magistrado Gustavo Salazar le pidió ceñirse al tema de seguridad de los firmantes de paz.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Condenaron a exfuncionaria por millonario desfalco a cuentas del municipio de San Roque, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/condenaron-a-exfuncionaria-por-millonario-desfalco-a-cuentas-del-municipio-de-san-roque-antioquia-rg10",
+  "fecha": "2026-11-12T15:06:09-05:00",
+  "palabras": "Antioquia, Corrupción, Noticias de hoy",
+  "lead": "A la procesada le negaron el beneficio de casa por cárcel y además deberá asumir una multa cercana a los 60 millones de pesos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Se agrava situación en Norte de Santander: tres soldados muertos dejó ataque con drones en Tibú",
+  "enlace": "https://www.bluradio.com/nacion/se-agrava-situacion-en-norte-de-santander-tres-soldados-muertos-dejo-ataque-con-drones-en-tibu-rg10",
+  "fecha": "2026-11-12T14:52:32-05:00",
+  "palabras": "Noticias de hoy, Tibú",
+  "lead": "Las detonaciones ocurrieron durante combates entablados, al parecer, con integrantes del ELN en la vereda Barco La Silla, un sector perteneciente a la región del Catatumbo y muy cercano a la zona de frontera con Venezuela.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Afinia sigue sin recibir los $800.000 millones que requiere para cerrar el 2026",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/afinia-sigue-sin-recibir-los-800-000-millones-que-requiere-para-cerrar-el-2026-rg10",
+  "fecha": "2026-11-12T15:27:20-05:00",
+  "palabras": "Antioquia, EPM, Aire y Afinia , Energía eléctrica",
+  "lead": "El alcalde Federico Gutiérrez reiteró al Gobierno Nacional la urgencia de desembolsar los recursos, cuya primera mitad debía llegar al finalizar octubre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ELN entregó pruebas de supervivencia de la subteniente Pantoja: llevaba ocho meses siguiéndola",
+  "enlace": "https://caracol.com.co/2026/11/12/eln-entrego-pruebas-de-supervivencia-de-la-subteniente-maria-camila-pantoja-secuestrada-en-arauca/",
+  "fecha": "2026-11-12T15:12:15-05:00",
+  "palabras": "",
+  "lead": "Según el grupo criminal, le venían haciendo seguimiento desde hace ocho meses antes de perpetrar el secuestro",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Las MiPymes apoyan una nueva reforma fiscal: Acopi",
+  "enlace": "https://caracol.com.co/2026/11/12/las-mipymes-apoyan-una-nueva-reforma-fiscal-acopi/",
+  "fecha": "2026-11-12T15:23:29-05:00",
+  "palabras": "",
+  "lead": "Los empresarios que participaron en el congreso anual de Acopi en Barranquilla, manifestaron no estar de acuerdo con el incremento en un porcentaje de aportes de salud por parte de los trabajadores",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Fé de Antioquia se llena de teatro, circo y música con la quinta edición del Festival de Artes",
+  "enlace": "https://caracol.com.co/2026/11/12/santa-fe-de-antioquia-se-llena-de-teatro-circo-y-musica-con-la-quinta-edicion-del-festival-de-artes/",
+  "fecha": "2026-11-12T14:33:16-05:00",
+  "palabras": "",
+  "lead": "Este viernes 13 de noviembre la quinta edición del Festival Artes de la Calle, una apuesta cultural de Comfama que llevará el teatro, la danza, el circo y la música a las calles y espacios públicos del municipio hasta el próximo lunes 16 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "San Victorino se prepara para Navidad: concejal explicó plan para garantizar seguridad y movilidad",
+  "enlace": "https://caracol.com.co/2026/11/12/san-victorino-se-prepara-para-navidad-concejal-explico-plan-para-garantizar-seguridad-y-movilidad/",
+  "fecha": "2026-11-12T15:21:18-05:00",
+  "palabras": "",
+  "lead": "El concejal de Bogotá, Elkin Huertas, detalló el plan integral de seguridad, movilidad y limpieza que se llevará a cabo en el centro de Bogotá",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobiernos de Colombia y Venezuela trabajan en conjunto para rescate de esposa de alcalde de Uribia",
+  "enlace": "https://caracol.com.co/2026/11/12/gobiernos-de-colombia-y-venezuela-trabajan-en-conjunto-para-rescate-de-esposa-de-alcalde-de-uribia/",
+  "fecha": "2026-11-12T15:04:56-05:00",
+  "palabras": "",
+  "lead": "Nancy Gómez, fue secuestrada en la mañana del pasado miércoles 11 de noviembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian a Juan De Bedout por el presunto homicidio de su esposa con talio",
+  "enlace": "https://caracol.com.co/2026/11/12/denuncian-a-juan-de-bedout-por-el-presunto-homicidio-de-su-esposa-con-talio/",
+  "fecha": "2026-11-12T15:21:02-05:00",
+  "palabras": "",
+  "lead": "La familia de Alicia Graham Sardi pide investigar en los hechos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estudiantes de Ingeniería de Alimentos crean snack de mondongo de res en Córdoba",
+  "enlace": "https://caracol.com.co/2026/11/12/estudiantes-de-ingenieria-de-alimentos-crean-snack-de-mondongo-de-res-en-cordoba/",
+  "fecha": "2026-11-12T15:16:39-05:00",
+  "palabras": "",
+  "lead": "Se trataría de un producto que buscaría convertirse en una proteína que aporte saciedad y contribuya a la masa muscular",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Trump amenaza con duplicar los aranceles a México por el avance de una caravana migrante",
+  "enlace": "https://caracol.com.co/2026/11/12/trump-amenaza-con-duplicar-los-aranceles-a-mexico-por-el-avance-de-una-caravana-migrante/",
+  "fecha": "2026-11-12T15:16:49-05:00",
+  "palabras": "",
+  "lead": "El grupo está integrado por unas 1.500 personas, en su mayoría centroamericanas, que esperan llegar a Ciudad de México para solicitar ayuda y continuar su camino hacia Estados Unidos",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Procuraduría exoneró a siete exfuncionarios de la alcaldía de Quintero en el caso de Aguas Vivas",
+  "enlace": "https://caracol.com.co/2026/11/12/la-procuraduria-exonero-a-siete-exfuncionarios-de-la-alcaldia-de-quintero-en-el-caso-de-aguas-vivas/",
+  "fecha": "2026-11-12T14:56:22-05:00",
+  "palabras": "",
+  "lead": "La entidad declaró no probada la presunta irregularidad en la transferencia y devolución del predio que ha generado polémica y que llevó a que la Contraloría le formulara pliego de cargos contra estas persona.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Autoridades piden explicaciones por presunto intoxicación por alimentación escolar en Luruaco",
+  "enlace": "https://caracol.com.co/2026/11/12/autoridades-piden-explicaciones-por-presunto-intoxicacion-por-alimentacion-escolar-en-luruaco/",
+  "fecha": "2026-11-12T15:10:51-05:00",
+  "palabras": "",
+  "lead": "Ocho estudiantes que resultaron afectados recibieron atención médica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fallas en Outlook afectan el acceso y envío de correos electrónicos",
+  "enlace": "https://caracol.com.co/2026/11/12/fallas-en-outlook-afectan-el-acceso-y-envio-de-correos-electronicos/",
+  "fecha": "2026-11-12T14:34:13-05:00",
+  "palabras": "",
+  "lead": "Microsoft confirmó problemas de conectividad en Exchange Online que afectan el acceso a las cuentas de correo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Condenado hombre por tortura agravada contra su pareja sentimental durante siete años en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/12/condenado-hombre-por-tortura-agravada-contra-su-pareja-sentimental-durante-siete-anos-en-cartagena/",
+  "fecha": "2026-11-12T15:04:06-05:00",
+  "palabras": "",
+  "lead": "Según la investigación, el sujeto la agredió con arma blanca e intentó asfixiarla",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hombres armados robaron camioneta de la Defensoría del Pueblo durante misión humanitaria en Cauca",
+  "enlace": "https://caracol.com.co/2026/11/12/hombres-armados-robaron-camioneta-de-la-defensoria-del-pueblo-durante-mision-humanitaria-en-cauca/",
+  "fecha": "2026-11-12T14:36:39-05:00",
+  "palabras": "",
+  "lead": "Los responsables obligaron al conductor a descender, pese a que les explicó que el vehículo pertenecía a una misión humanitaria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevo auditorio y salas de ensayo completan la entrega del Parque Biblioteca Santo Domingo Savio",
+  "enlace": "https://caracol.com.co/2026/11/12/nuevo-auditorio-y-salas-de-ensayo-completan-la-entrega-del-parque-biblioteca-santo-domingo-savio/",
+  "fecha": "2026-11-12T15:00:03-05:00",
+  "palabras": "",
+  "lead": "Tras más de una década cerrado por fallas estructurales, el equipamiento vuelve a operar al 100 % para el encuentro ciudadano y artístico.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos reporta desembolsos por US$12.110 millones de recursos venezolanos",
+  "enlace": "https://caracol.com.co/2026/11/12/estados-unidos-reporta-desembolsos-por-us12110-millones-de-recursos-venezolanos/",
+  "fecha": "2026-11-12T14:46:40-05:00",
+  "palabras": "",
+  "lead": "Un informe del Departamento de Estado detalla cómo se administran los ingresos petroleros y otros recursos naturales de Venezuela a través de una cuenta del Tesoro estadounidense.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Néstor Lorenzo: “Lo importante es armar un grupo fuerte para que vaya por todo”",
+  "enlace": "https://caracol.com.co/2026/11/12/nestor-lorenzo-lo-importante-es-armar-un-grupo-fuerte-para-que-vaya-por-todo/",
+  "fecha": "2026-11-12T14:55:11-05:00",
+  "palabras": "",
+  "lead": "El técnico de la Selección Colombia habló de la renovación de la Tricolor, la integración de los jóvenes, el futuro de los jugadores mundialistas y los objetivos de los amistosos frente a Chile.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Lo último que se pierde es la esperanza”: gobernador de Córdoba por situación del equipo Vaqueros",
+  "enlace": "https://caracol.com.co/2026/11/12/lo-ultimo-que-se-pierde-es-la-esperanza-gobernador-de-cordoba-por-situacion-del-equipo-vaqueros/",
+  "fecha": "2026-11-12T14:55:10-05:00",
+  "palabras": "",
+  "lead": "La novena monteriana se quedó por fuera de la temporada de béisbol 2026 – 2027",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde Dumek Turbay dio inicio al Gran Desfile de Independencia con la lectura del bando",
+  "enlace": "https://caracol.com.co/2026/11/12/alcalde-dumek-turbay-dio-inicio-al-gran-desfile-de-independencia-con-la-lectura-del-bando/",
+  "fecha": "2026-11-12T14:55:07-05:00",
+  "palabras": "",
+  "lead": "El mandatario distrital anunció la declaratoria cívica de los días 12 y 13 de noviembre de 2026",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Prevención, control y defensa de derechos: así se desarrolla la labor de la Procuraduría",
+  "enlace": "https://caracol.com.co/2026/11/12/prevencion-control-y-defensa-de-derechos-asi-se-desarrolla-la-labor-de-la-procuraduria/",
+  "fecha": "2026-11-12T14:50:36-05:00",
+  "palabras": "",
+  "lead": "La Procuraduría General de la Nación desarrolla su labor en distintos frentes: desde la prevención de riesgos y la intervención en procesos judiciales hasta la defensa de los derechos ciudadanos y la protección de los recursos públicos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con expertos del FBI, Medellín prepara su sexto congreso de Prevención de Violencias contra la niñez",
+  "enlace": "https://caracol.com.co/2026/11/12/con-expertos-del-fbi-medellin-prepara-su-sexto-congreso-de-prevencion-de-violencias-contra-la-ninez/",
+  "fecha": "2026-11-12T14:50:06-05:00",
+  "palabras": "",
+  "lead": "Durante dos jornadas, especialistas nacionales e internacionales entregarán herramientas para detectar señales de alerta en entornos físicos y virtuales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santander reforzará operativos contra el contrabando de licor durante la temporada de fin de año",
+  "enlace": "https://caracol.com.co/2026/11/12/santander-reforzara-operativos-contra-el-contrabando-de-licor-durante-la-temporada-de-fin-de-ano/",
+  "fecha": "2026-11-12T14:49:50-05:00",
+  "palabras": "",
+  "lead": "Las autoridades también alertaron sobre la comercialización de cervezas vencidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué está pasando con la salud de militares y maestros? Supersalud aumenta controles",
+  "enlace": "https://caracol.com.co/2026/11/12/que-esta-pasando-con-la-salud-de-militares-y-maestros-supersalud-aumenta-controles/",
+  "fecha": "2026-11-12T14:46:54-05:00",
+  "palabras": "",
+  "lead": "Las quejas por la atención médica llevaron a la entidad a revisar los servicios y contratos de Sanidad Militar. En el sistema de salud del Magisterio, continúa la vigilancia por incumplimientos y dificultades en la atención.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lula viaja la próxima semana a España para apoyar a Pedro Sánchez en la campaña electoral",
+  "enlace": "https://caracol.com.co/2026/11/12/lula-viaja-la-proxima-semana-a-espana-para-apoyar-a-pedro-sanchez-en-la-campana-electoral/",
+  "fecha": "2026-11-12T14:35:57-05:00",
+  "palabras": "",
+  "lead": "El mandatario brasileño se reunirá con Sánchez en el Palacio de la Moncloa para abordar las relaciones bilaterales y la cooperación internacional. Será su primera visita a España desde su reelección el pasado 25 de octubre.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia fortalece la alfabetización de 80 mil estudiantes en 2.943 sedes educativas",
+  "enlace": "https://caracol.com.co/2026/11/12/antioquia-fortalece-la-alfabetizacion-de-80-mil-estudiantes-en-2943-sedes-educativas/",
+  "fecha": "2026-11-12T14:41:45-05:00",
+  "palabras": "",
+  "lead": "La iniciativa de la Gobernación llega a 2.943 sedes educativas oficiales de 116 municipios no certificados. El programa implementa metodologías pedagógicas para mejorar la alfabetización desde transición hasta segundo de primaria.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Corinto, Cauca, denuncia amenazas de muerte",
+  "enlace": "https://caracol.com.co/2026/11/12/alcalde-de-corinto-cauca-denuncia-amenazas-de-muerte/",
+  "fecha": "2026-11-12T14:32:25-05:00",
+  "palabras": "",
+  "lead": "El mandatario Adrián Díaz denunció que recibió un ramo de flores acompañado de un mensaje intimidatorio. La Alcaldía de Corinto rechazó las amenazas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ley de Rescate Fiscal: Uribismo ya tiene listo borrador con propuesta alterna para presentarla al Gobierno",
+  "enlace": "https://www.lafm.com.co/politica/ley-de-rescate-fiscal-uribismo-tiene-listo-borrador-con-propuesta-alterna-para-presentarla-al-gobierno-417038",
+  "fecha": "2026-11-12T15:12:00-05:00",
+  "palabras": "Política,Centro Democrático,Álvaro Uribe,Reforma tributaria,medidas fiscales,Proyecto de ley,Medidas económicas,alivios financieros,Beneficios tributarios,Incentivos tributarios,Recaudo fiscal",
+  "lead": "La propuesta tiene 76 artículos en los que proponen eliminar el IVA a los alimentos y simplificar la tributación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tres militares asesinados en Tibú por ataque con dron",
+  "enlace": "https://www.lafm.com.co/orden-publico/tres-militares-asesinados-tres-heridos-ataque-dron-catatumbo-colombia-417035",
+  "fecha": "2026-11-12T14:52:00-05:00",
+  "palabras": "Orden Público,Drones,Ejército Nacional,Catatumbo,Norte de Santander,Grupos Armados Organizados",
+  "lead": "En la zona del ataque delinque el Frente 33 de las disidencias de las Farc y el ELN, por lo que avanzan en las investigaciones.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Inter Bogotá defendió su reclamo ante el TAS y confirmó que Fabricio Sanguinetti tiene mercado internacional",
+  "enlace": "https://www.lafm.com.co/deportes/inter-bogota-defendio-su-reclamo-ante-el-tas-y-confirmo-que-fabricio-sanguinetti-tiene-mercado-internacional-417036",
+  "fecha": "2026-11-12T14:49:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Colombia,América de Cali,Independiente Santa Fe,Fútbol",
+  "lead": "El directivo aprovechó para hablar de diferentes temas referentes al equipo bogotano.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caída de Outlook: Microsoft confirma fallas en sus servicios",
+  "enlace": "https://www.lafm.com.co/actualidad/outlook-microsoft-caida-masiva-falla-servicios-12-de-noviembre-417033",
+  "fecha": "2026-11-12T14:22:00-05:00",
+  "palabras": "Actualidad,Correo electrónico,caída,Fallas en sistema,Latinoamericanos,Estados Unidos,Colombia",
+  "lead": "Las fallas también generaron reportes relacionados con Microsoft 365 y Teams. La compañía identificó una sobrecarga en parte de su infraestructura en varia...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿El polaco Fydriszewki se va del Junior de Barranquilla? Esto se sabe",
+  "enlace": "https://www.lafm.com.co/deportes/junior-de-barranquilla-y-el-polaco-llegarian-a-un-acuerdo-de-final-de-contrato-417032",
+  "fecha": "2026-11-12T14:14:00-05:00",
+  "palabras": "Deportes,Junior,Atlético Junior,Barranquilla,Fútbol,BetPlay,Liga BetPlay,Colombia",
+  "lead": "El jugador y el club costeño buscarían un acuerdo para dar final al contrato del delantero.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
