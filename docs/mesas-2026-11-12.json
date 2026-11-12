@@ -685,6 +685,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Debate sobre el impacto de la reforma tributaria en los hogares de menores ingresos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:33",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La familia de Blanca Pardo, una adulta mayor asesinada en zona rural de San Bernardo (Nariño), exige justicia y denuncia que la Fiscalía lleva ocho meses sin entregar los resultados de medicina legal.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:33",
+   "quien": "Sandra Ramírez, subsecretaria o secretaria de mujeres del departamento de Nariño",
+   "que": "Se han registrado 17 casos de feminicidio en el departamento de Nariño.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:33",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El Ministerio de Minas denunció que, durante el gobierno de Gustavo Petro, se volvió recurrente asignar más combustibles del autorizado para vender con exenciones en la frontera, lo que le costó al Estado dejar de recaudar 72.878 millones de pesos.",
+   "resaltar": false
   }
  ],
  "avisos": [
