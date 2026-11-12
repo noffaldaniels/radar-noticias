@@ -279,6 +279,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "En Cartagena se desplegarán más de 1.000 uniformados, incluyendo 300 profesionales de la armada, para el desfile de la independencia y fiestas patrias.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:03",
+   "quien": "Presidente Gustavo Petro",
+   "que": "Anunció el despliegue total de la fuerza pública para rescatar a la esposa del alcalde de Uribia, doña Nancy Gómez, secuestrada hace 24 horas.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:03",
+   "quien": "Jaime Buitrago, Alcalde de Uribia",
+   "que": "Afirmó que hasta el momento no tienen noticias ni certeza sobre el paradero de su esposa, doña Nancy Gómez, ni de los secuestradores, y pidió gestión diplomática con Venezuela.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "07:03",
+   "quien": "Jaime Buitrago, Alcalde de Uribia",
+   "que": "Denunció que la Fiscalía le asignó un hombre de la UNP y un chaleco tras denunciar las amenazas y el secuestro de su esposa.",
+   "resaltar": false
   }
  ],
  "avisos": [
