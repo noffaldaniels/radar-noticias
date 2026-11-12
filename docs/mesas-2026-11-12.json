@@ -601,6 +601,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "El alcalde de Cartagena anunció más de 600 mil millones de pesos en inversión en colegios de diferentes zonas de la ciudad.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:04",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "En Girón fueron capturadas 50 de 136 personas detenidas en operativo en Bucaramanga; se incautaron 1.800 kilos de explosivos y dinero en efectivo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:10",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "La Contraloría General alertó sobre déficit de mano de obra y obras que no estarán terminadas al iniciar pruebas del metro de Bogotá, además de faltar cerca de 1.500 trabajadores calificados y no calificados.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:12",
+   "quien": "Néstor Morales (Periodista de Mañanas Blu)",
+   "que": "La Contraloría informó que se ha ejecutado casi el 85% del proyecto del metro, con un costo estimado de 10 millones de dólares para 10 mil millones de pesos.",
+   "resaltar": false
   }
  ],
  "avisos": [
