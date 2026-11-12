@@ -821,7 +821,7 @@
   "palabras": "Secuestro, La Guajira",
   "lead": "La mujer fue interceptada por hombres armados en un gimnasio y atribuyen este secuestro al ELN, principal grupo armado que opera en la zona.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Metro de Bogotá, China, Contraloría General",
   "lead": "Dice la Contraloría que el proyecto enfrenta un déficit de aproximadamente 1.500 trabajadores, cuyo ingreso tendría un costo cercano a los 10 millones de dólares.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "“El Caballo de La Salsa” fue distinguido con la Orden Civil al Mérito en el grado Comendador",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "Durante la mañana de este jueves, 12 de noviembre, se reportaron problemas en el suministro de energía eléctrica en este terminal aéreo que sirve a Medellín.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "La entidad cuestionó que, casi dos semanas después del atentado, todavía no se tenga siquiera un censo de las familias damnificadas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "Las personas deben estar entre los reportes oficiales de afectados causa del terremoto y que hayan sido certificadas por el Consejo Municipal de Gestión del Riesgo de Desastres.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "La acción judicial solicita una alternativa provisional para el tránsito de habitantes y productos; la Gobernación asegura que está en ejecución un puente vehicular en el sector.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "El llamado lo hace por alertas de explotación sexual a través de TikTok",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "La cantante colombiana fue recomendada por Billboard en Argentina",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "Las puertas se abren desde las 8 de la mañana",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "Orden Público,Unidad Nacional de Protección,Escoltas,ataque a fuerza pública,Inseguridad,Vigilancia",
   "lead": "Las autoridades invetigan para establecer si se trató de un intento de hurto o hubo otro móvil contra el vehículo al servicio de la Alcaldía de Caloto",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "Política,JEP,Iván Duque,JurisdicciónEspecialParalaPaz,Colombia,Juan Manuel Santos,Proceso de Paz",
   "lead": "El expresidente aseguró que la JEP debía entregar resultados y que deben ser ejemplarizantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "Deportes,Independiente Santa Fe,Renovación de contratos",
   "lead": "Mientras se alista para los cuadrangulares, Santa Fe trabaja en el futuro de Franco Fagúndez, Nahuel Bustos, Mosquera Marmolejo, Kilian Toscano y Hugo Roda...",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -963,6 +963,380 @@
   "fecha": "2026-11-12T05:58:00-05:00",
   "palabras": "Sociedad,Nasa,satélite,Marte,La Tierra,Estados Unidos",
   "lead": "La misión de la agencia estadounidense ha salido como se planeó y ambos aparatos viajarán hacia Marte.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Denuncian atentado contra César Vacca, precandidato a la alcaldía del municipio de Yondó",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/denuncian-atentado-contra-cesar-vacca-precandidato-a-la-alcaldia-del-municipio-de-yondo-rg10",
+  "fecha": "2026-11-12T08:19:39-05:00",
+  "palabras": "Antioquia, Yondó, Noticias de hoy",
+  "lead": "Hombres armados dispararon contra él y su pareja, quienes lograron salir ilesos por el blindaje del vehículo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Expulsión masiva de venezolanos que tenían 1.520 anotaciones delictivas en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/expulsion-masiva-de-venezolanos-que-tenian-1-520-anotaciones-delictivas-en-bucaramanga-rg10",
+  "fecha": "2026-11-12T07:48:08-05:00",
+  "palabras": "Alcaldía de Bucaramanga, Migración Colombia, Bucaramanga, Blu Radio",
+  "lead": "Las autoridades señalaron que con este procedimiento, ya son más de 230 extranjeros expulsados durante 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La predicción de Los Simpson que pasaría el 17 de noviembre que preocupa en el mundo",
+  "enlace": "https://www.bluradio.com/sociedad/la-prediccion-de-los-simpson-que-pasaria-el-17-de-noviembre-que-preocupa-en-el-mundo-rs15",
+  "fecha": "2026-11-12T07:59:58-05:00",
+  "palabras": "Viral,  Los Simpson",
+  "lead": "En el episodio 'Una vida llena de errores', Los Simpson alertaron una situación que afectaría no solo a Estados Unidos, sino a todo el mundo y tomó relación con recientes declaraciones en el Gobierno.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más allá de las murallas: el alma de las carrozas y tradiciones en la Inependiencia de Cartagena",
+  "enlace": "https://www.bluradio.com/turismo/mas-alla-de-las-murallas-el-alma-de-las-carrozas-y-tradiciones-en-la-inependiencia-de-cartagena-so35",
+  "fecha": "2026-11-12T07:51:28-05:00",
+  "palabras": "Cartagena, Bolívar, Turismo",
+  "lead": "Para los viajeros apasionados por el turismo cultural, esta festividad representa una oportunidad única para conectar con el alma viva del Caribe colombiano más allá de sus famosas murallas y arquitectura colonial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Falla eléctrica en aeropuerto José María Córdova de Rionegro generó filas y demoras en 4 vuelos",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/falla-electrica-en-aeropuerto-jose-maria-cordova-de-rionegro-genero-filas-y-demoras-en-4-vuelos-rg10",
+  "fecha": "2026-11-12T08:07:35-05:00",
+  "palabras": "Aeropuerto José María Córdoba, Antioquia, Noticias de hoy",
+  "lead": "Aunque en este momento está operando, el aeropuerto internacional reportó una falla en su sistema de energía, que afectó su iluminación y los servicios en la sala de Migración Colombia durante más de cinco horas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Motociclista agredió a agente de tránsito que defendió una mujer en Medellín: fue capturado",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/motociclista-agredio-a-agente-de-transito-que-defendio-una-mujer-en-medellin-fue-capturado-rg10",
+  "fecha": "2026-11-12T08:03:10-05:00",
+  "palabras": "Noticias de hoy, Medellín, Movilidad",
+  "lead": "Las autoridades inmovilizaron la motocicleta, debido a que prestaba un servicio de transporte no autorizado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Karol G, una de las favoritas para los Latin Grammy: estas son sus nominaciones",
+  "enlace": "https://www.bluradio.com/entretenimiento/karol-g-una-de-las-favoritas-para-los-latin-grammy-estas-son-sus-nominaciones-so35",
+  "fecha": "2026-11-12T08:13:03-05:00",
+  "palabras": "Viral, Karol G, Latin Grammy",
+  "lead": "Una vez más la paisa se muestra fuerte entre la nominaciones, no por nada son siete en total como el artista nacional con más presencia en esta gala.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Capturaron a 2 hombres tras homicidio en comuna San Javier de Medellín: les incautaron pistola Glock",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/capturaron-a-2-hombres-tras-homicidio-en-comuna-san-javier-de-medellin-les-incautaron-pistola-glock-rg10",
+  "fecha": "2026-11-12T08:14:24-05:00",
+  "palabras": "Noticias de hoy, Medellín, Seguridad ciudadana",
+  "lead": "De acuerdo con las autoridades, los señalados agresores dispararon contra la víctima y se dieron a la fuga.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno pidió a Medellín cronograma para pagar $ 660.000 millones adeudados al metro de la 80",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gobierno-pidio-a-medellin-cronograma-para-pagar-660-000-millones-adeudados-al-metro-de-la-80-rg10",
+  "fecha": "2026-11-12T08:24:53-05:00",
+  "palabras": "Medellín, Noticias de hoy",
+  "lead": "La solicitud se da en medio de la compleja situación fiscal que atraviesa el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Daddy Yankee recibe el Persona del Año en Latin Grammy: Feid y J Balvin lo homenajearon",
+  "enlace": "https://www.bluradio.com/entretenimiento/daddy-yankee-recibe-el-persona-del-ano-en-latin-grammy-feid-y-j-balvin-lo-homenajearon-cb20",
+  "fecha": "2026-11-12T08:28:03-05:00",
+  "palabras": "Viral, Daddy Yankee, Latin Grammy, Feid, J Balvin",
+  "lead": "Yankee recordó a los DJ, bailarines y seguidores que contribuyeron a difundir aquella música desde los caseríos de Puerto Rico cundo el reguetón todavía no contaba con reconocimiento institucional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Megaoperativo liderado por el presidente contra bandas criminales deja 136 capturas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/megaoperativo-liderado-por-el-presidente-contra-bandas-criminales-deja-136-capturas-rg10",
+  "fecha": "2026-11-12T08:32:06-05:00",
+  "palabras": "Bucaramanga, Santander, Abelardo De La Espriella, Blu Radio",
+  "lead": "La ofensiva Mano de Hierro, encabezada por el presidente Abelardo De La Espriella, dejó capturas, allanamientos e incautaciones de armas, explosivos y estupefacientes en Bucaramanga y Girón.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operación ‘Mano de Hierro’ en Bucaramanga: 136 capturas, extinciones de dominios e incautaciones",
+  "enlace": "https://caracol.com.co/2026/11/12/operacion-mano-de-hierro-en-bucaramanga-136-capturas-extinciones-de-dominios-e-incautaciones/",
+  "fecha": "2026-11-12T08:17:37-05:00",
+  "palabras": "",
+  "lead": "El presidente volvió a encarar a los delincuentes capturados durante el operativo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría confirma destitución e inhabilidad por 16 años a docente de la Escuela Normal de Tunja",
+  "enlace": "https://caracol.com.co/2026/11/12/procuraduria-confirma-destitucion-e-inhabilidad-por-16-anos-a-docente-de-la-escuela-normal-de-tunja/",
+  "fecha": "2026-11-12T08:21:41-05:00",
+  "palabras": "",
+  "lead": "Los hechos ocurrieron el primero de agosto de 2024 en un aula de informática, cuando la estudiante tenía 14 años.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente De La Espriella estuvo en Bucaramanga; lideró operación “Mano de Hierro”",
+  "enlace": "https://caracol.com.co/2026/11/12/presidente-de-la-espriella-estuvo-en-bucaramanga-lidero-operacion-mano-de-hierro/",
+  "fecha": "2026-11-12T08:15:36-05:00",
+  "palabras": "",
+  "lead": "En las acciones en el norte de la ciudad, la fuerza pública capturó 136 personas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Empresas y fundaciones Unidas por Colombia” la iniciativa liderada por la Fundación Santo Domingo",
+  "enlace": "https://caracol.com.co/2026/11/12/empresas-y-fundaciones-unidas-por-colombia-la-iniciativa-liderada-por-la-fundacion-santo-domingo/",
+  "fecha": "2026-11-12T08:06:41-05:00",
+  "palabras": "",
+  "lead": "La Fundación Santo Domingo, destinó 130 mil millones de pesos para la reconstrucción de los damnificados por el terremoto que el país vivió el pasado 10 de agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fedearroz rechaza IVA a insumos agropecuarios",
+  "enlace": "https://caracol.com.co/2026/11/12/fedearroz-rechaza-iva-a-insumos-agropecuarios/",
+  "fecha": "2026-11-12T08:14:54-05:00",
+  "palabras": "",
+  "lead": "El gremio pide al Gobierno que reforma fiscal priorice la producción nacional",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Radican propuesta para crear comisión del Congreso que vigile la crisis de basuras en Santa Marta",
+  "enlace": "https://caracol.com.co/2026/11/12/radican-propuesta-para-crear-comision-del-congreso-que-vigile-la-crisis-de-basuras-en-santa-marta/",
+  "fecha": "2026-11-12T08:11:19-05:00",
+  "palabras": "",
+  "lead": "El propósito de la comisión será ejercer vigilancia sobre la prestación del servicio de aseo y promover respuestas institucionales frente a las dificultades que afectan a los barrios y comunidades.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pinchallantas estarían actuando en la calle 13 y en la Autopista Norte en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/12/pinchallantas-estarian-actuando-en-la-calle-13-y-en-la-autopista-norte-en-bogota/",
+  "fecha": "2026-11-12T08:07:37-05:00",
+  "palabras": "",
+  "lead": "Los cobros en los montallantas llegarían hasta los 500 mil pesos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Si el país no acepta la ley de rescate fiscal, no es inflación, sino recesión”: Alberto Casas",
+  "enlace": "https://caracol.com.co/2026/11/12/si-el-pais-no-acepta-la-ley-de-rescate-fiscal-no-es-inflacion-sino-recesion-alberto-casas/",
+  "fecha": "2026-11-12T08:07:18-05:00",
+  "palabras": "",
+  "lead": "Alberto Casas, reconocido periodista y político colombiano, hizo una radiografía de la actualidad económica que afronta el país. Aseguró: “el Congreso está discutiendo la ley de rescate como si fuera otra vez una reforma tributaria y no, la reforma tributaria es más impuestos. Si el país no reconoce esa situación, vamos a un desastre mayor”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Muere militar ruso tras atentado a su vehículo en San Petersburgo",
+  "enlace": "https://caracol.com.co/2026/11/12/muere-militar-ruso-tras-atentado-a-su-vehiculo-en-san-petersburgo/",
+  "fecha": "2026-11-12T08:02:42-05:00",
+  "palabras": "",
+  "lead": "El ataque con dinamita se produjo este jueves y fue accionado poco después de que el coronel comenzara a desplazarse.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia vs. Chile: prográmese con el penúltimo partido de la selección en el año",
+  "enlace": "https://caracol.com.co/2026/11/12/colombia-vs-chile-programese-con-el-penultimo-partido-de-la-seleccion-en-el-ano/",
+  "fecha": "2026-11-12T07:57:50-05:00",
+  "palabras": "",
+  "lead": "Este será el primero de dos partidos frente a la Roja, que cerrarán el 2026 para Colombia.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Habitantes de La Estrella protestaron por fallas en el suministro de agua",
+  "enlace": "https://caracol.com.co/2026/11/12/habitantes-de-la-estrella-protestaron-por-fallas-en-el-suministro-de-agua/",
+  "fecha": "2026-11-12T07:52:40-05:00",
+  "palabras": "",
+  "lead": "Más de 30.000 personas estarían afectadas por racionamientos y retrasos en el Plan Maestro de Acueducto. La comunidad realizó un plantón en La Tablaza.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bayern Múnich da buenas noticias sobre la recuperación de Luis Díaz",
+  "enlace": "https://caracol.com.co/2026/11/12/bayern-munich-da-buenas-noticias-sobre-la-recuperacion-de-luis-diaz/",
+  "fecha": "2026-11-12T07:43:03-05:00",
+  "palabras": "",
+  "lead": "El extremo guajiro se encuentra fuera de las canchas desde el pasado 21 de octubre, tras lesionarse en Liga de Campeones.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "León XIV: El regreso a Perú, donde fue simplemente padre Roberto",
+  "enlace": "https://caracol.com.co/2026/11/12/leon-xiv-el-regreso-al-peru-donde-fue-simplemente-padre-roberto/",
+  "fecha": "2026-11-12T07:45:30-05:00",
+  "palabras": "",
+  "lead": "Hoy, Prevost regresa como León XIV, recibido con honores de Estado por un país al que considera su segunda patria.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sogamoso intensificará controles contra el transporte informal y advierte sanciones",
+  "enlace": "https://caracol.com.co/2026/11/12/sogamoso-intensificara-controles-contra-el-transporte-informal-y-advierte-sanciones/",
+  "fecha": "2026-11-12T07:48:17-05:00",
+  "palabras": "",
+  "lead": "El Instituto de Tránsito anunció el fortalecimiento de los operativos para verificar que los vehículos que transportan pasajeros cumplan con los requisitos legales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente De la Espriella defendió el uso de prendas militares: “Soy un soldado de la patria”",
+  "enlace": "https://caracol.com.co/2026/11/12/presidente-de-la-espriella-defendio-el-uso-de-prendas-militares-soy-un-soldado-de-la-patria/",
+  "fecha": "2026-11-12T07:42:29-05:00",
+  "palabras": "",
+  "lead": "Las declaraciones del jefe de Estado se dieron después de los cuestionamientos del expresidente Juan Manuel Santos por la manera en que el mandatario presenta los resultados de las operaciones militares.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallazgos fiscales por más de $1.300 millones en la Cámara de Comercio de Tunja",
+  "enlace": "https://caracol.com.co/2026/11/12/hallazgos-fiscales-por-mas-de-1300-millones-en-la-camara-de-comercio-de-tunja/",
+  "fecha": "2026-11-12T07:41:52-05:00",
+  "palabras": "",
+  "lead": "Según el revisor fiscal esos hallazgos corresponden a los últimos tres años",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a “Alambrito”, del Clan del Golfo, señalado de asesinar a un policía en Tarazá",
+  "enlace": "https://caracol.com.co/2026/11/12/capturan-a-alambrito-del-clan-del-golfo-senalado-de-asesinar-a-un-policia-en-taraza/",
+  "fecha": "2026-11-12T07:41:33-05:00",
+  "palabras": "",
+  "lead": "El presunto sicario del grupo armado figuraba en el cartel de los más buscados del departamento de Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jueves 12 de noviembre, las noticias más importantes de Armenia y Quindío",
+  "enlace": "https://caracol.com.co/2026/11/12/jueves-12-de-noviembre-las-noticias-mas-importantes-de-armenia-y-quindio/",
+  "fecha": "2026-11-12T07:33:02-05:00",
+  "palabras": "",
+  "lead": "Todos los días escuche la información local de 11:30AM a 12:00M en Caracol Radio en los 1.150AM y 106.4FM",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Pereira reclama al Gobierno respuestas sobre las ayudas para los damnificados",
+  "enlace": "https://caracol.com.co/2026/11/12/alcalde-de-pereira-reclama-al-gobierno-respuestas-sobre-las-ayudas-para-los-damnificados/",
+  "fecha": "2026-11-12T07:32:32-05:00",
+  "palabras": "",
+  "lead": "A tres meses de la emergencia, Mauricio Salazar advierte que las familias que perdieron sus viviendas y los comerciantes afectados aún no tienen claridad sobre cuándo recibirán los recursos prometidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hospital San José de Popayán, al borde del colapso",
+  "enlace": "https://www.lafm.com.co/actualidad/crisis-economica-hospital-san-jose-de-popayan-deuda-millonaria-416985",
+  "fecha": "2026-11-12T08:14:00-05:00",
+  "palabras": "Actualidad,Salud,Fallas en sistema,Colombia,Valle del Cauca",
+  "lead": "La denuncia se hizo por la crítica situación económica de la entidad prestadora de salud en el occidente de Colombia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Reventa de boletas en Colombia: así cambiarían las normas para fútbol y conciertos",
+  "enlace": "https://www.lafm.com.co/entretenimiento/reventa-boletas-colombia-nuevas-normas-futbol-conciertos-416981",
+  "fecha": "2026-11-12T07:40:00-05:00",
+  "palabras": "Entretenimiento,Boletería,TuBoleta,Proyecto de ley,Sanción económica,devoluciones,Concierto,Liga BetPlay,Cámara de Representantes,Fútbol,Federación Colombiana de Fútbol",
+  "lead": "El proyecto ‘Boleta Justa’ propone fijar un tope al precio de las entradas revendidas, limitar las compras por persona y sancionar el uso de bots. La inici...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Caso Miguel Uribe: Corte indaga a exintegrantes de Comunes",
+  "enlace": "https://www.lafm.com.co/orden-publico/julian-gallo-confirma-indagacion-contra-tres-exintegrantes-de-comunes-por-caso-miguel-uribe-416976",
+  "fecha": "2026-11-12T07:40:00-05:00",
+  "palabras": "Orden Público,Corte Suprema de Justicia,Farc EP,Miguel Uribe,Comunes",
+  "lead": "Gallo confirmó que la Corte Suprema abrió indagación preliminar contra Albán o Calarcá y Ramírez, tras señalamientos de la viuda de Miguel Uribe.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Preocupan los casos de homicidio contra mujeres en el Valle",
+  "enlace": "https://www.lafm.com.co/actualidad/por-que-asesinado-141-mujeres-valle-del-cauca-durante-2026-416975",
+  "fecha": "2026-11-12T07:17:00-05:00",
+  "palabras": "Actualidad,Feminicidio,Homicidios,Valle del Cauca,Colombia,Fiscalía General de la Nación",
+  "lead": "Expertos consultados por La FM analizan las razones detrás del elevado número de asesinatos en contra de mujeres en el departamento del Valle.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
