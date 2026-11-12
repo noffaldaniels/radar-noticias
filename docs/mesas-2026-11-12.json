@@ -216,6 +216,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Tres de las principales organizaciones médicas del país presentaron al Ministerio de Salud una propuesta para cambiar los criterios de distribución de recursos del sistema.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:53",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Se reportaron declaraciones de Juan Manuel Santos y de Echandía Duque sobre un evento organizado por la defensora, donde también participaron la senadora María Clara Posada y líderes de víctimas que organizaron un evento paralelo llamado Foro de la Verdad.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:53",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En la Guajira, el Consejo de Seguridad anunció una recompensa de hasta 300 millones de pesos para ubicar a la primera dama del municipio de Uribia, Nancy Gómez, tras el sobrevuelo de un dron que sobrevoló el gimnasio donde se encontraba.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:53",
+   "quien": "Don Pepe Morón",
+   "que": "Se explicaron los alcances de una decisión de la Corte Constitucional que avala la emergencia económica decretada por el gobierno tras el terremoto de agosto, poniendo condiciones concretas para que los beneficios lleguen de forma exclusiva a los municipios afectados.",
+   "resaltar": false
   }
  ],
  "avisos": [
