@@ -1349,7 +1349,7 @@
   "palabras": "Anif, Reforma tributaria",
   "lead": "El presidente de Anif, José Ignacio López, dijo que vender ISA podría dejar entre $12 y $15 billones, pero advirtió que solo es un paliativo frente a la crisis fiscal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "Durante veinte días se realizarán mesas técnicas para evitar aumentos en el precio de combustibles",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "La operación se realizó en Simití y, según el Ejército, afectó las actividades de extracción de oro atribuidas a las disidencias de las FARC",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "Economía,Sector arrocero,medidas fiscales,Reforma tributaria,Impuestos,Recaudo fiscal,costos,Aranceles,Incentivos tributarios,Ministerio de Hacienda y Crédito Público,Ministerio de agricultura",
   "lead": "Fedearroz respalda la búsqueda de recursos fiscales, pero advierte que gravar insumos agrícolas elevaría los costos de producción.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1392,6 +1392,292 @@
   "fecha": "2026-11-12T08:22:00-05:00",
   "palabras": "Orden Público,Feminicidio,Violencia de género,Homicidios,Asesinato,Sicarios,organizaciones criminales,estructuras criminales,actividad criminal,Grupos delincuenciales,Víctimas",
   "lead": "María Lourdes Dávila, Secretaria de la Mujer y Equidad de Género del Departamento del Atlántico dio las explicaciones en La FM sobre el preocupante increme...",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tránsito de Girón defiende procedimiento de agente que condujo vehículo inmovilizado",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/transito-de-giron-defiende-procedimiento-de-agente-que-condujo-vehiculo-inmovilizado-rg10",
+  "fecha": "2026-11-12T08:59:54-05:00",
+  "palabras": "Girón, Bucaramanga, Policía de Tránsito, Santander, Policía Nacional, Blu Radio, Noticias de hoy, Girón",
+  "lead": "Según la entidad, el vehículo fue inmovilizado porque tenía vencido el SOAT y no contaba con la revisión técnico-mecánica, por lo que se impuso el comparendo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Luis Díaz llama la atención del PSG, otro gigante europeo: sería prioridad en invierno",
+  "enlace": "https://www.bluradio.com/deportes/futbol/luis-diaz-llama-la-atencion-de-otro-gigante-europeo-seria-prioridad-en-invierno-so35",
+  "fecha": "2026-11-12T08:58:20-05:00",
+  "palabras": "Luis Díaz, PSG, Bayern Múnich",
+  "lead": "Pese que esta temporada no ha estado al nivel de la anterior para Díaz, su calidad sigue despertando interés en Europa y un gigante tendría todo listo para ficharlo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría pide a la UPME revocar convocatoria para construcción de subestación en Córdoba",
+  "enlace": "https://www.bluradio.com/regiones/caribe/procuraduria-pide-a-la-upme-revocar-convocatoria-para-construccion-de-subestacion-en-cordoba-rg10",
+  "fecha": "2026-11-12T09:12:27-05:00",
+  "palabras": "Procuraduría General de la Nación, Córdoba, Noticias de hoy",
+  "lead": "El ente de control advierte posibles vulneraciones, tras la exclusión de la empresa Enelca como participante del proceso de selección.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Renunció Jensen Huang, CEO de Nvidia, tras polémica con presunta espía china",
+  "enlace": "https://www.bluradio.com/mundo/renuncio-jensen-huang-ceo-de-nvidia-tras-polemica-con-presunta-espia-china-cb20",
+  "fecha": "2026-11-12T09:05:25-05:00",
+  "palabras": "Estados Unidos, China, Inteligencia Artificial",
+  "lead": "La salida del empresario que lideró Nvidia durante 33 años sacude a la industria tecnológica. La compañía confirmó cambios inmediatos en su dirección mientras enfrenta una investigación interna.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hincha de Boca Juniors viaja a Colombia en moto: lleva seis días de viaje",
+  "enlace": "https://www.bluradio.com/deportes/futbol/hincha-de-boca-juniors-viaja-a-colombia-en-moto-lleva-seis-dias-de-viaje-so35",
+  "fecha": "2026-11-12T09:34:54-05:00",
+  "palabras": "Viral, Boca Juniors",
+  "lead": "Los hinchas xeneizes comenzaron su traslado hacia Barranquilla para vivir la final de la Copa Sudamericana frente a Mineiro. Se esperan a miles de argentinos en la Arenosa.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Soy optimista que se apruebe la ley de rescate económico, no hay otro camino\": Christian Garcés",
+  "enlace": "https://www.bluradio.com/economia/soy-optimista-que-se-apruebe-la-ley-de-rescate-economico-no-hay-otro-camino-christian-garces-pr30",
+  "fecha": "2026-11-12T09:31:13-05:00",
+  "palabras": "",
+  "lead": "El congresista de la Comisión Tercera de Asuntos Económicos se refirió a las trabas de procedimiento, la necesidad de ampliar la representación de ponentes y el apretado calendario legislativo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jensen Huang, CEO de Nvidia, renunció a su cargo tras escándalo",
+  "enlace": "https://caracol.com.co/2026/11/12/jensen-huang-ceo-de-nvidia-renuncia-a-su-cargo/",
+  "fecha": "2026-11-12T09:13:41-05:00",
+  "palabras": "",
+  "lead": "El cofundador de Nvidia, Jensen Huang, dimitió este jueves con efecto inmediato como presidente, consejero delegado y miembro de la junta directiva del gigante tecnológico estadounidense, que nombró como directora ejecutiva interina a su directora financiera, Colette Kress, y designó por primera vez un presidente del consejo, Harvey C. Jones.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Exministro Ruiz advierte al Gobierno sobre impacto de reforma tributaria para la medicina prepagada",
+  "enlace": "https://caracol.com.co/2026/11/12/exministro-ruiz-advierte-al-gobierno-sobre-impacto-de-reforma-tributaria-para-la-medicina-prepagada/",
+  "fecha": "2026-11-12T09:24:25-05:00",
+  "palabras": "",
+  "lead": "Explicó que gravar la medicina prepagada incrementaría notablemente su valor para las personas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Omar Bula debe renunciar”: Pacto Histórico pide su salida, lo respaldan desde el Centro Democrático",
+  "enlace": "https://caracol.com.co/2026/11/12/omar-bula-debe-renunciar-heiner-gaitan-pide-su-salida-pero-alejandro-murcia-lo-respalda/",
+  "fecha": "2026-11-12T08:51:13-05:00",
+  "palabras": "",
+  "lead": "Tras las disculpas del canciller Omar Bula al Congreso de EE. UU., representantes del Pacto Histórico y del Centro Democrático dividen opiniones sobre si debe seguir en el cargo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Descartan presencia de explosivos en maleta abandonada frente a cárcel de Duitama",
+  "enlace": "https://caracol.com.co/2026/11/12/descartan-presencia-de-explosivos-en-maleta-abandonada-frente-a-carcel-de-duitama/",
+  "fecha": "2026-11-12T09:19:28-05:00",
+  "palabras": "",
+  "lead": "La maleta fue abandonada en el centro penitenciario, ubicado en la calle 7 con carrera 15.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Varias personas heridas en tiroteo en Washington mientras la policía busca a sospechoso",
+  "enlace": "https://caracol.com.co/2026/11/12/varias-personas-heridas-en-tiroteo-en-washington-mientras-la-policia-busca-a-sospechoso/",
+  "fecha": "2026-11-12T09:15:39-05:00",
+  "palabras": "",
+  "lead": "Un tiroteo registrado este jueves en Logan Circle, Washington, dejó varios heridos; la policía busca al sospechoso.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ministro de vivienda y gerente del Fondo Milagro entregaron 8 viviendas para damnificados en Armenia",
+  "enlace": "https://caracol.com.co/2026/11/12/ministro-de-vivienda-y-gerente-del-fondo-milagro-entregaron-8-viviendas-para-damnificados-en-armenia/",
+  "fecha": "2026-11-12T09:11:39-05:00",
+  "palabras": "",
+  "lead": "Las viviendas de interés social VIS fueron entregadas gracias a proyectos de vivienda y apartamentos que desarrollan varias constructoras en la ciudad",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué partidos dirigirán Roldán, Ortega y Rojas? Árbitros designados para la última fecha de la Liga",
+  "enlace": "https://caracol.com.co/2026/11/12/que-partidos-dirigiran-roldan-ortega-y-rojas-arbitros-designados-para-la-ultima-fecha-de-la-liga/",
+  "fecha": "2026-11-12T09:09:35-05:00",
+  "palabras": "",
+  "lead": "El sábado se conocerán los tres equipos clasificados a los cuadrangulares finales del fútbol colombiano.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta en Duitama por maleta sospechosa abandonada frente a la cárcel",
+  "enlace": "https://caracol.com.co/2026/11/12/alerta-en-duitama-por-maleta-sospechosa-abandonada-frente-a-la-carcel/",
+  "fecha": "2026-11-12T09:04:34-05:00",
+  "palabras": "",
+  "lead": "Se Espera que lleguen al lugar técnicos antiexplosivos acompañados de perros entrenados para que revisen una maleta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ICE arresta a un colombiano condenado por drogas en Pensilvania",
+  "enlace": "https://caracol.com.co/2026/11/12/ice-arresta-a-un-colombiano-condenado-por-drogas-en-pensilvania/",
+  "fecha": "2026-11-12T09:06:40-05:00",
+  "palabras": "",
+  "lead": "El DHS lo incluyó en su lista de arrestos de inmigrantes con condenas graves, junto a tres mexicanos y un camboyano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Líderes comunales del Huila denuncian temor por presión de grupos armados y procesos judiciales",
+  "enlace": "https://caracol.com.co/2026/11/12/lideres-comunales-del-huila-denuncian-temor-por-presion-de-grupos-armados-y-procesos-judiciales/",
+  "fecha": "2026-11-12T09:02:53-05:00",
+  "palabras": "",
+  "lead": "Piden a la Fiscalía distinguir entre reuniones impuestas por grupos ilegales y actos de colaboración.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dólar HOY 12 de noviembre de 2026 en Colombia: la divisa inicia la jornada manteniendo su valor",
+  "enlace": "https://caracol.com.co/2026/11/12/dolar-hoy-12-de-noviembre-de-2026-en-colombia-la-divisa-inicia-la-jornada-manteniendo-su-valor/",
+  "fecha": "2026-11-12T08:57:46-05:00",
+  "palabras": "",
+  "lead": "Así inició la jornada del dólar en Colombia este jueves, 12 de noviembre. Conozca el comportamiento del dólar estadounidense y australiano, además del euro, el petróleo y el bitcoin.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En dónde está ubicado Cerro Machín y qué tan peligroso es: ¿Podría hacer erupción el volcán?",
+  "enlace": "https://caracol.com.co/2026/11/12/en-donde-esta-ubicado-cerro-machin-y-que-tan-peligroso-es-podria-hacer-erupcion-el-volcan/",
+  "fecha": "2026-11-12T08:54:37-05:00",
+  "palabras": "",
+  "lead": "Recientemente, el Servicio Geológico Colombiano publicó la actualización del mapa de amenaza del volcán Cerro Machín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así será la primera vivienda hecha en plástico reciclado que apoyará la reconstrucción",
+  "enlace": "https://caracol.com.co/2026/11/12/asi-sera-la-primera-vivienda-hecha-en-plastico-reciclado-que-apoyara-la-reconstruccion/",
+  "fecha": "2026-11-12T08:53:15-05:00",
+  "palabras": "",
+  "lead": "Tras perder su casa por el terremoto de agosto, Inés Rojas, residente en Buga, recibirá una vivienda hecha con bloques de plástico reciclado. Está es la primera en su tipo avalada en Colombia que servirá como alternativa de reconstrucción de hogares sostenibles para las víctimas del terremoto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operación ‘Mano de Hierro’ en Bucaramanga: 136 capturas, extinción de dominios e incautaciones",
+  "enlace": "https://caracol.com.co/2026/11/12/operacion-mano-de-hierro-en-bucaramanga-136-capturas-extincion-de-dominios-e-incautaciones/",
+  "fecha": "2026-11-12T08:17:37-05:00",
+  "palabras": "",
+  "lead": "El presidente volvió a encarar a los delincuentes capturados durante el operativo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seis estudiantes de colegios de Medellín llevarán proyectos de investigación a Uruguay",
+  "enlace": "https://caracol.com.co/2026/11/12/seis-estudiantes-de-colegios-de-medellin-llevaran-proyectos-de-investigacion-a-uruguay/",
+  "fecha": "2026-11-12T08:51:22-05:00",
+  "palabras": "",
+  "lead": "Las instituciones educativas San Lorenzo de Aburrá y Maestro Arenas Betancur representarán a la ciudad con iniciativas científicas e innovadoras para solucionar situaciones cotidianas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los centros comerciales de Antioquia tienen una amplia programación para vivir la Navidad",
+  "enlace": "https://caracol.com.co/2026/11/12/los-centros-comerciales-de-antioquia-tienen-una-amplia-programacion-para-vivir-la-navidad/",
+  "fecha": "2026-11-12T08:49:53-05:00",
+  "palabras": "",
+  "lead": "Durante dos meses se desarrollarán las actividades de Navidad en los centros comerciales de Medellín.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Jensen Huang renuncia a la dirección de Nvidia, su principal figura y cofundador",
+  "enlace": "https://www.lafm.com.co/internacional/jensen-huang-nvidia-renuncia-ceo-416993",
+  "fecha": "2026-11-12T09:10:00-05:00",
+  "palabras": "Internacional,NVIDIA,Tecnología,Estados Unidos",
+  "lead": "Huang tuvo dos relaciones extramaritales, una, con supuestamente una espía china.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así fue la participación de la primera dama Ana Lucía Pineda en la llegada del papa León XIV a Perú",
+  "enlace": "https://www.lafm.com.co/politica/participacion-primera-dama-ana-lucia-pineda-papa-leon-peru-416991",
+  "fecha": "2026-11-12T08:53:00-05:00",
+  "palabras": "Política,Papa León XIV,ceremonia religiosa,Iglesia Católica,Cancilleria de Colombia,Ministerio de Relaciones Exteriores,relaciones,Líderes religiosos,Vaticano,Argentina",
+  "lead": "La primera dama colombiana acompañó la recepción oficial del pontífice en Lima, tras una invitación de la presidenta peruana Keiko Fujimori. Después del en...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ecopetrol: prevén utilidades de hasta $5 billones en 3T26",
+  "enlace": "https://www.lafm.com.co/economia/ecopetrol-resultados-tercer-trimestre-2026-utilidades-produccion-brava-energia-416990",
+  "fecha": "2026-11-12T08:50:00-05:00",
+  "palabras": "Economía,Ecopetrol,situación financiera,ganancias,rentabilidad,Mercados bursátiles,inversionistas,metas financieras",
+  "lead": "Ecopetrol presentará sus cifras trimestrales con expectativas de menores ganancias y un aumento en la producción.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué es la Luna de Castor y por qué se verá más grande en noviembre?",
+  "enlace": "https://www.lafm.com.co/sociedad/superluna-de-castor-noviembre-de-2026-por-que-se-vera-tan-grande-416989",
+  "fecha": "2026-11-12T08:34:00-05:00",
+  "palabras": "Sociedad,Luna,noviembre,Nasa,Planeta Tierra,Planeta",
+  "lead": "El 24 de noviembre será la primera superluna de tres consecutivas que se verán en las noches del cierre de noviembre.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
