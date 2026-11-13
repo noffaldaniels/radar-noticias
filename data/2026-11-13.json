@@ -403,7 +403,7 @@
   "palabras": "Uribia, Secuestro, Antioquia",
   "lead": "Familiares y autoridades de esta localidad del Nordeste antioqueño, de donde es oriunda Nancy Yaneth Gómez, exigieron el pronto retorno con su familia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "",
   "lead": "La Administración municipal señaló que los extranjeros expulsados estarían relacionados con hurtos, microtráfico, riñas y hechos de violencia callejera.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "",
   "lead": "La actividad busca exaltar las capacidades operacionales de la institución.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,6 +436,160 @@
   "palabras": "",
   "lead": "El gremio espera que se reactiven los subsidios para compra de vivienda VIS y mejoramiento de hogares. Aún no hay confirmación oficial por parte del Gobierno.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MiLoto cayó en Bogotá: un jugador ganó el acumulado de $200 millones en el sorteo 0640",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultados-de-miloto-hoy-jueves-12-de-noviembre-de-2026-numeros-ganadores-del-sorteo-640-so35",
+  "fecha": "2026-11-13T06:40:00-05:00",
+  "palabras": "MiLoto, Resultado MiLoto, Viral",
+  "lead": "Un apostador acertó los cinco números con una jugada manual en un punto de Paga Todo. Es la vez 32 que el premio mayor de este juego cae en 2026. (146 caracteres)",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ejército y Policía realizan patrullajes de seguridad en barrios de Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ejercito-y-policia-realizan-patrullajes-de-seguridad-en-barrios-de-barrancabermeja-rg10",
+  "fecha": "2026-11-13T06:36:45-05:00",
+  "palabras": "Santander, Barrancabermeja, Seguridad ciudadana, Blu Radio, Noticias de hoy",
+  "lead": "Estos patrullajes buscan fortalecer el control territorial, prevenir situaciones que afecten la convivencia y contrarrestar posibles amenazas terroristas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Inhabilitan por 12 años a exdirector del Banco Inmobiliario de Floridablanca por acoso",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/inhabilitan-por-12-anos-a-exdirector-del-banco-inmobiliario-de-floridablanca-por-acoso-rg10",
+  "fecha": "2026-11-13T06:47:45-05:00",
+  "palabras": "Floridablanca, Acoso sexual, Blu Radio, Noticias de hoy",
+  "lead": "La investigación estableció que el exfuncionario habría utilizado su posición de autoridad y superioridad jerárquica para acosar a una colaboradora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así fue el rescate de adolescente que estuvo seis días perdido en un bosque: impactante video",
+  "enlace": "https://www.bluradio.com/mundo/asi-fue-el-rescate-de-adolescente-que-estuvo-seis-dias-perdido-en-un-bosque-impactante-video-rs15",
+  "fecha": "2026-11-13T07:06:13-05:00",
+  "palabras": "Viral, Redes sociales, Australia, Video",
+  "lead": "El operativo reunió a más de 100 rescatistas y terminó con un emotivo reencuentro familiar. Las bajas temperaturas y las heridas hicieron aún más difícil su supervivencia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Suspenden el agua al Batallón de Ocaña, Norte de Santander, por falta de pago",
+  "enlace": "https://caracol.com.co/2026/11/13/suspenden-el-agua-al-batallon-de-ocana-norte-de-santander-por-falta-de-pago/",
+  "fecha": "2026-11-13T06:58:18-05:00",
+  "palabras": "",
+  "lead": "La deuda corresponde a cuatro meses de facturación.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Confirman segundo giro de recursos de la UNGRD para damnificados por el terremoto en Risaralda",
+  "enlace": "https://caracol.com.co/2026/11/13/confirman-segundo-giro-de-recursos-de-la-ungrd-para-damnificados-por-el-terremoto-en-risaralda/",
+  "fecha": "2026-11-13T06:50:08-05:00",
+  "palabras": "",
+  "lead": "Más de 17 mil personas podrán reclamar un mes de subsidio de arrendamiento.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Reclasificación 2026: Así quedaron los cupos a torneos Conmebol tras fallo contra el América",
+  "enlace": "https://caracol.com.co/2026/11/13/reclasificacion-2026-asi-quedaron-los-cupos-a-torneos-conmebol-tras-fallo-contra-el-america/",
+  "fecha": "2026-11-13T06:47:32-05:00",
+  "palabras": "",
+  "lead": "Luego del fallo del TAS por el caso del jugador Yhormar Hurtado, se movió la tabla que otorga los cupos a torneos internacionales en 2027.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La policía incauta 120 kilos de pólvora en Caldas, es el segundo cargamento interceptado en 15 días",
+  "enlace": "https://caracol.com.co/2026/11/13/la-policia-incauta-120-kilos-de-polvora-en-caldas-es-el-segundo-cargamento-interceptado-en-15-dias/",
+  "fecha": "2026-11-13T06:43:42-05:00",
+  "palabras": "",
+  "lead": "Las autoridades reforzarán las medidas en el segundo puente festivo de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seis municipios del Magdalena se unen por la conservación de la Ciénaga Grande con jornada ambiental",
+  "enlace": "https://caracol.com.co/2026/11/13/seis-municipios-del-magdalena-se-unen-por-la-conservacion-de-la-cienaga-grande-con-jornada-ambiental/",
+  "fecha": "2026-11-13T06:43:36-05:00",
+  "palabras": "",
+  "lead": "Las jornadas se desarrollaron en Sitionuevo, Remolino, Salamina, Pivijay, Cerro de San Antonio y El Piñón.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La barranquillera Aria Vega conquista su primer Grammy: ganó en la categoría ‘Mejor nuevo artista’",
+  "enlace": "https://caracol.com.co/2026/11/13/la-barranquillera-aria-vega-conquista-su-primer-grammy-gano-en-la-categoria-mejor-nuevo-artista/",
+  "fecha": "2026-11-13T06:34:46-05:00",
+  "palabras": "",
+  "lead": "La joven artista les ganó el pulso a otros artistas internacionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alerta por El Niño: Atlántico prepara acueductos, reservorios y distritos de riego",
+  "enlace": "https://caracol.com.co/2026/11/13/alerta-por-el-nino-atlantico-prepara-acueductos-reservorios-y-distritos-de-riego/",
+  "fecha": "2026-11-13T06:29:35-05:00",
+  "palabras": "",
+  "lead": "Seis carrotanques de agua potable suministrarán agua ante eventual desabastecimiento",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MiLoto cayó en Bogotá: ganador se llevó $200 millones",
+  "enlace": "https://www.lafm.com.co/actualidad/miloto-cayo-bogota-acumulado-200-millones-ganador-417084",
+  "fecha": "2026-11-13T07:04:00-05:00",
+  "palabras": "Actualidad,Baloto,sorteos,ganador,resultados,Bogotá,Juegos de azar,Boletería",
+  "lead": "El resultado es la vigésima tercera vez que el premio mayor de MiLoto cae en Bogotá desde el inicio del juego.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Libro de Roy Barreras: la mención a Vargas Lleras y su reunión con Petro",
+  "enlace": "https://www.lafm.com.co/politica/polemica-libro-roy-barreras-mencion-vargas-lleras-version-petro-417085",
+  "fecha": "2026-11-13T06:42:00-05:00",
+  "palabras": "Política,Roy Barreras,polémica,Difamación,Germán Vargas Lleras,Gustavo Petro,Cambio Radical,Debate presidencial,Desinformación",
+  "lead": "Roy Barreras desató polémica con su libro al revelar detalles de una supuesta reunión entre Gustavo Petro y Germán Vargas Lleras, lo que provocó la reacció...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Seis de las 6 con Juan Lozano viernes 13 de noviembre 2026",
+  "enlace": "https://www.lafm.com.co/carta-del-director/seis-de-las-6-con-juan-lozano-viernes-13-de-noviembre-2026-417083",
+  "fecha": "2026-11-13T06:21:00-05:00",
+  "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
+  "lead": "Estas son las noticias más importantes de este viernes en La FM.",
+  "seccion": "mesas",
   "nueva": true,
   "tambien": []
  }
