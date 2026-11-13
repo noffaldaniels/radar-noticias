@@ -160,6 +160,27 @@
    "quien": "Josh Quintero (Secretario de Seguridad)",
    "que": "Se reportan 4 soldados muertos y 5 heridos en Tibú, y 6 personas heridas en el Tarra por ataques con drones explosivos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:41",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Los alrededores de la escuela de Carabineros en el sur de Cali amanecen con presencia policial y daños en el enrejado del cementerio Jardines del Aurora tras la explosión de un artefacto instalado en un poste.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:41",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En el norte de Santander, 10 civiles resultaron heridos en un ataque con drones cargados de explosivos contra viviendas en zona rural de Tarma, sumándose a otro ataque atribuido al ELN en Catatumbo que dejó 4 militares muertos y 5 heridos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:41",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La cancillería colombiana informó que tres colombianos, entre ellos dos menores de edad, hacen parte de las ocho víctimas que dejó el colapso de un edificio en Nueva York.",
+   "resaltar": false
   }
  ],
  "avisos": [
