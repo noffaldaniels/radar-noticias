@@ -790,6 +790,27 @@
    "quien": "N&eacute;stor (Periodista de Ma&ntilde;anas Blu)",
    "que": "Microsoft y servicios de Microsoft est&aacute;n funcionando bien de momento, tras problemas inform&aacute;ticos que afectaron a servicios financieros y de justicia en el Reino Unido.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:51",
+   "quien": "Doña Arsi",
+   "que": "Explicó que la Universidad Externado es socia mayoritaria del Grupo Bolívar, tiene alrededor del 27% y cuenta con 4 billones de pesos de patrimonio.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:51",
+   "quien": "Andrés Acosta Luque, Ejecutivo de ExxonMobil",
+   "que": "Lidera el proceso de negociación para el regreso de la petrolera estadounidense a Venezuela después de casi 20 años de ausencia, tras firmar el entendimiento con Pdvsa el 9 de noviembre.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:51",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Informó que se busca una coalición entre partidos como el Conservador, Liberal, Centro Democrático y Cambio Radical para cerrar el avance del poder del gobernador Carlos Amaya y del petrismo en Boyacá.",
+   "resaltar": true
   }
  ],
  "avisos": [
