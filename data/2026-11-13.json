@@ -7,7 +7,7 @@
   "palabras": "Lotería del Quindío, Resultado de loterías de hoy",
   "lead": "Consulte los resultados de la Lotería del Quindío, sorteo 3024 del jueves 12 de noviembre de 2026. Regresa luego de varios meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,7 +18,7 @@
   "palabras": "Lotería de Bogotá, Resultado de loterías de hoy",
   "lead": "Conozca el número, la serie y los premios secos del sorteo 2872, que entregó un premio mayor de $12.000 millones con el plan Los Genios de la Suerte.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -29,7 +29,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 12 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -40,7 +40,7 @@
   "palabras": "Cali, atentado terrorista, Policía Nacional",
   "lead": "Las autoridades adelantan verificaciones para establecer si hubo personas heridas y quiénes estarían detrás del ataque.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -51,7 +51,7 @@
   "palabras": "Noticias de hoy, Selección Colombia, José Néstor Pékerman, Entrevista",
   "lead": "Sobre el mismo recambio, Pékerman dijo que no se debe presionar el buscar sucesores de futbolistas como James y Juan Fernando Quintero, y pidió \"tiempo\" para los nuevos jugadores.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -62,7 +62,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La recapitulación de las noticias más importantes en Colombia y el mundo, con las voces de expertos e informes especiales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -73,7 +73,7 @@
   "palabras": "Latin Grammy, Premios Grammy, Karol G, Rosalía",
   "lead": "La ceremonia celebrada en Las Vegas reconoció lo mejor de la música latina en diferentes géneros. Alejandro Sanz y Fonseca también estuvieron entre los artistas premiados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -84,7 +84,7 @@
   "palabras": "Microsoft, Tecnología",
   "lead": "El gigante tecnológico estadounidense atribuyó el parón, que se prolonga desde hace varias horas, a una \"carga elevada\" en su infraestructura. El problema también afecta a la aplicación de chat Teams y al asistente de inteligencia artificial Copilot.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -95,7 +95,7 @@
   "palabras": "Internet, Gobernación de Santander, Santander, Bucaramanga, Microsoft, Blu Radio, Noticias de hoy, Transformación digital, Microsoft",
   "lead": "Entre los servicios afectados se encuentran el correo electrónico institucional, la Ventanilla Única Virtual, el sistema de radicación de correspondencia y las notificaciones virtuales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -106,7 +106,7 @@
   "palabras": "Ojo de la noche, Tunjuelito, Préstamos gota a gota",
   "lead": "Las víctimas aseguran que han acudido a la Policía, la Fiscalía y la Alcaldía para pedir ayuda, pero siguen expuestas a intimidaciones que les impiden vivir tranquilas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -117,7 +117,7 @@
   "palabras": "Papa León XIV, Perú, Vaticano",
   "lead": "Tras un breve saludo en la capilla de la nunciatura, el papa se reunió con cada uno de ellos personalmente, escuchando sus historias de sufrimiento y su dolor, explicó una breve nota del Vaticano.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -128,7 +128,7 @@
   "palabras": "China, Tecnología, Estados Unidos",
   "lead": "La prueba de ello es que Longteng incluyó esos equipos como parte de un grupo de 193 servidores instalados en Shanghái que ofreció como aval para obtener financiación a principios del año pasado.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -139,7 +139,7 @@
   "palabras": "Bucaramanga, Santander, Minería Ilegal, Blu Radio, Abelardo De La Espriella",
   "lead": "El operativo permitió la incautación de 600 gramos de mercurio que, según las autoridades, tendrían como destino los puntos de explotación ilegal de minerales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -150,7 +150,7 @@
   "palabras": "Bogotá, Inseguridad en Bogotá",
   "lead": "En la localidad de Ciudad Bolívar, la Policía capturó mediante orden judicial a alias ‘El Temible’, un hombre de 50 años, señalado de ser el jefe urbano de ‘Los Pachenca’, con presencia en Ciénaga, Magdalena.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -161,7 +161,7 @@
   "palabras": "Girón, Bucaramanga, Santander, Homicidios, Bandas criminales, Policía Nacional, Blu Radio, Noticias de hoy, Bucaramanga",
   "lead": "Las autoridades avanzan en las investigaciones de estos hechos para establecer los móviles de los ataques e identificar a los responsables.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "Pico y placa, Bogotá, Multas , Transporte público, Movilidad",
   "lead": "La restricción vehicular aplica este viernes 13 de noviembre de 2026 para las placas terminadas en 6, 7, 8, 9 y 0 en la capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "Pico y placa, Medellín, Movilidad",
   "lead": "La restricción vehicular aplica este viernes 13 de noviembre para las placas terminadas en 7 y 9 en la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "",
   "lead": "El funcionario está siendo investigado por los presuntos delitos de concusión y prevaricato por acción.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "",
   "lead": "El alcalde llamó a respetar a la población civil, liberar a los retenidos y cesar hostilidades.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "",
   "lead": "La Alcaldía de Sabaneta anunció el despliegue de personal de tránsito, policía y comisarías de familia para atender el evento, programado para la tarde y la noche de este sábado, 14 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "",
   "lead": "El ataque también afectó viviendas y locales comerciales.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "",
   "lead": "Los recursos hacen parte del crédito de hasta $1,2 billones autorizado por el Gobierno Nacional",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "",
   "lead": "La operación permitió incautar e inutilizar combustibles, insumos y equipos",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "",
   "lead": "El ingreso entre las 12:30 a. m. y la 1:25 a. m. del domingo será únicamente por la estación Itagüí. Los últimos trenes hacia Niquía y La Estrella saldrán a la 1:30 a. m.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "",
   "lead": "Opine de nuestro tema del día en 6AM W con Julio Sánchez Cristo.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "",
   "lead": "Se trataría de un ataque contra patrulla del GOES, Uniformados acordonaron el lugar mientras avanzan las verificaciones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo De La Espriella confirmó la noticia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "",
   "lead": "Marlin Sierra Chaparro murió en un centro asistencial luego de ser atacada con arma de fuego en un sector ubicado entre los barrios Las Américas y Primero de Mayo. Otra persona habría resultado herida.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "",
   "lead": "El sumo pontífice les dijo que «cuando sufran, acudan a Jesús. No tengan miedo de hablarle con sinceridad, incluso cuando les cueste encontrar palabras para rezar».",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "",
   "lead": "Alejandra Pico Gama defendió su actuación durante la sesión de control político en la Asamblea Departamental y aseguró que la adquisición de los 1.155 chalecos respondió a las decisiones y especificaciones aprobadas por el Comité de Orden Público.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "Internacional,software,Fallas en sistema,Colombia",
   "lead": "Más de 13 horas completa el fallo en Outlook y otras plataformas de Microsoft 365, situación que afecta a millones de usuarios y empresas.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "Actualidad,Muertos,enfermedades,Abelardo de la Espriella,Colombia",
   "lead": "Camargo sufría de una grave enfermedad pulmonar y había sido traído a Colombia para su tratamiento.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "Entretenimiento,Latin Grammy,Karol G,Carlos Vives,Fonseca,música",
   "lead": "En total ocho galardones se llevaron los artistas, quienes enviaron sentidos mensajes de agradecimiento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "Actualidad,ELN,Secuestros,exsecuestrados,Liberación,Ayuda humanitaria,victimas del conflicto armado",
   "lead": "El funcionario fue liberado este jueves 12 de noviembre junto con Jesús Antonio Pacheco Oviedo, quien también permaneció secuestrado desde el 8 de mayo de ...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Orden Público,atentado,explosión,Policía Nacional,Cali, Colombia",
   "lead": "Una fuerte detonación se escuch cerca de una instalación de la Policía. La Alcaldía informó que una motocicleta habría provocado la explosión",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,6 +392,50 @@
   "palabras": "Actualidad,Fenómeno de El Niño,Ideam,Sequía,Calor",
   "lead": "El fenómeno alcanzaría una intensidad muy fuerte al cierre de 2026, pero comenzaría a perder fuerza durante el primer trimestre de 2027, de acuerdo con las...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "En Cisneros claman por la liberación de la primera dama de Uribia, secuestrada hace dos días",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/en-cisneros-claman-por-la-liberacion-de-la-primera-dama-de-uribia-secuestrada-hace-dos-dias-rg10",
+  "fecha": "2026-11-13T06:20:31-05:00",
+  "palabras": "Uribia, Secuestro, Antioquia",
+  "lead": "Familiares y autoridades de esta localidad del Nordeste antioqueño, de donde es oriunda Nancy Yaneth Gómez, exigieron el pronto retorno con su familia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cerca de 20 ciudadanos venezolanos fueron expulsados de Sogamoso tras operativo de seguridad",
+  "enlace": "https://caracol.com.co/2026/11/13/cerca-de-20-ciudadanos-venezolanos-fueron-expulsados-de-sogamoso-tras-operativo-de-seguridad/",
+  "fecha": "2026-11-13T06:22:08-05:00",
+  "palabras": "",
+  "lead": "La Administración municipal señaló que los extranjeros expulsados estarían relacionados con hurtos, microtráfico, riñas y hechos de violencia callejera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Espacio aéreo estará cerrado por más de dos horas en Bogotá por revista de aeronaves de la FAC",
+  "enlace": "https://caracol.com.co/2026/11/13/espacio-aereo-estara-cerrado-por-mas-de-dos-horas-en-bogota-por-revista-de-aeronaves-de-la-fac/",
+  "fecha": "2026-11-13T06:24:01-05:00",
+  "palabras": "",
+  "lead": "La actividad busca exaltar las capacidades operacionales de la institución.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Camacol Santander espera reactivación de subsidios para viviendas en 2027",
+  "enlace": "https://caracol.com.co/2026/11/13/camacol-santander-espera-reactivacion-de-subsidios-para-viviendas-en-2027/",
+  "fecha": "2026-11-13T06:21:10-05:00",
+  "palabras": "",
+  "lead": "El gremio espera que se reactiven los subsidios para compra de vivienda VIS y mejoramiento de hogares. Aún no hay confirmación oficial por parte del Gobierno.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
