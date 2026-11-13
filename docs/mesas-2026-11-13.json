@@ -496,6 +496,27 @@
    "quien": "Néstor Morales, Director de Mañanas Blu",
    "que": "Falleció en Medellín Don Lucio Chiquito, fundador de las empresas públicas de Medellín y reconocido por su trayectoria en la ingeniería paisa y colombiana, a los 110 años.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:43",
+   "quien": "Julián Uscátegui, Concejal del Centro Democrático",
+   "que": "Propuso la militarización fuerte de Bogotá debido a una grave crisis de seguridad y falta de personal y vehículos en la policía.",
+   "resaltar": true
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:45",
+   "quien": "Juan El Chuky Entrel, Alcalde Local de Los Mártires",
+   "que": "Participó en el cabildo abierto sobre seguridad y asistencia militar en Bogotá.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "07:49",
+   "quien": "Carlos Fernando Galán, Alcalde de Bogotá",
+   "que": "Expresó que no está de acuerdo con militarizar Bogotá y que se necesita apoyo de la policía, no asistencia militar.",
+   "resaltar": false
   }
  ],
  "avisos": [
