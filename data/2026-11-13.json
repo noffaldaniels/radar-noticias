@@ -2713,7 +2713,7 @@
   "palabras": "",
   "lead": "Este ataque sería una retaliación de las disidencias de las Farc por la reciente captura de uno de sus cabecillas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "Zulma Guzman Castro, Fiscalía General de la Nación, envenenamiento por talio",
   "lead": "En la denuncia se conoce “Una vez regresan al país el 29 de julio de 2021, se queda en la residencia de una pariente y no regresó a su casa hasta que se adelantaran las investigaciones correspondientes\".",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "Salud, Medellín, Noticias de hoy",
   "lead": "También en la Clínica Somer de Rionegro, docentes con tratamientos oncológicos esperan hasta 48 horas para ser atendidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "Noticias de hoy, Cali, Conmebol",
   "lead": "Esta donación se suma a las ganancias generadas por la venta de boletería del partido que se jugará esta noche en Cali, para apoyar a las familias damnificadas en la ciudad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,7 +2757,7 @@
   "palabras": "Medellín, Noticias de hoy, Robos",
   "lead": "Durante la reacción policial, uno de los sospechosos abordó un vehículo de transporte público para evadir el cerco, pero fue interceptado y detenido por los uniformados metros más adelante.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2768,7 +2768,7 @@
   "palabras": "Juanes, Davivienda, Medellín, Noticias de hoy",
   "lead": "Aunque ya todo está listo para el evento y se espera la presencia de una delegación del Gobierno nacional para su inauguración, concejales y habitantes de Sabaneta plantearon dudas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2779,7 +2779,7 @@
   "palabras": "Procuraduría General de la Nación, Noticias de hoy, Daniel Quintero",
   "lead": "El Ministerio Público declaró desvirtuados y no probados los cargos contra cinco integrantes del Comité de Conciliación y Fabio Andrés García Trujillo, subsecretario de Gestión Contractual.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2790,7 +2790,7 @@
   "palabras": "Gobernación de Antioquia, Clan del Golfo, Policía Nacional, Noticias de hoy",
   "lead": "Es investigado por su presunta participación en el asesinato del patrullero Lenin Rafael Suárez Osorio, ocurrido en abril de 2025 en Tarazá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2801,7 +2801,7 @@
   "palabras": "Dorado Tarde, Chances y Loterías, Resultados del chance",
   "lead": "El chance Dorado Tarde realiza sus sorteos de lunes a sábado a las 3:30 p. m. Consulte aquí el número ganador de este 13 de noviembre de 2026, las últimas cifras y la quinta balota.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2812,7 +2812,7 @@
   "palabras": "Medellín, Bucaramanga, Universidad del Rosario",
   "lead": "Aunque la capital lideró en adopción de las TIC y tamaño del mercado, la innovación sigue siendo uno de sus principales desafíos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2823,7 +2823,7 @@
   "palabras": "Cáncer, Sistema de salud",
   "lead": "La ginecóloga oncóloga cuenta con una amplia trayectoria institucional en atención oncológica, investigación y formación médica, además de ocupar diversos cargos directivos y asistenciales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2834,7 +2834,7 @@
   "palabras": "",
   "lead": "Tras una sesión con autoridades municipales y ambientales, la concejal María Teresa Reina pidió ampliar las estrategias de prevención y revisar la reapertura del Santuario de Fauna y Flora de Iguaque, afectado por el incendio del pasado 19 de septiembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2845,7 +2845,7 @@
   "palabras": "",
   "lead": "Los “médicos cirujanos” o los “médicos estéticos” no son lo mismo que un cirujano plástico certificado; por esta razón, la experta Carolina Hoyos Rave explica cómo elegir un especialista de forma segura y cómo verificar en minutos un médico, la clínica y la póliza antes de una cirugía estética",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2856,7 +2856,7 @@
   "palabras": "",
   "lead": "Caracol Radio conoció los testimonios de tres mujeres que aseguran haber sido declaradas insubsistentes pocos meses después de ingresar a la institución. Las funcionarias cuestionan que no les hayan explicado las razones de su retiro y piden investigar los procesos de incorporación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "",
   "lead": "Las autoridades prevén entre 50 y 60 manifestaciones en todo el país contra el encarecimiento del costo de vida y en defensa de los servicios públicos",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "",
   "lead": "Más de 200 cafeteros de los movimientos Dignidad Agropecuaria y Cafetera se dieron cita en Armenia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "",
   "lead": "En el balance del último año, la Fuerza reportó más de 41.000 horas de vuelo y 25.749 misiones aéreas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "",
   "lead": "La renuncia fue confirmada por el presidente Abelardo De La Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "",
   "lead": "El cierre en Medellín consolidó espacios de intercambio comercial y apropiación tecnológica entre empresarios, estudiantes e investigadores entorno al uso e.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "",
   "lead": "El Pulso del Fútbol está en la previa del partido amistoso entre la Selección Colombia y Chile en el estadio Pascual Guerrero.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2933,7 +2933,7 @@
   "palabras": "",
   "lead": "Ailanis, Ainara y Aitana nacieron en la Clínica La Merced, luego de un embarazo natural de tres bebés que requirió seguimiento médico especializado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2944,7 +2944,7 @@
   "palabras": "",
   "lead": "La motonave Alfred N arribó desde Estados Unidos a la costa pacífica nariñense para garantizar el suministro de combustible en tres zonas del departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2955,7 +2955,7 @@
   "palabras": "",
   "lead": "La administración departamental aseguró que desde el mes de febrero hasta la fecha se han entregado más 11 millones de litros de agua",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2966,7 +2966,7 @@
   "palabras": "",
   "lead": "ANDEL advierte que el país no tendría suficiente personal para atender a quienes necesitan asistencia permanente. Su directora alertó que, ante la falta de relevo, cada vez más adultos mayores podrían terminar cuidando a otros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2977,7 +2977,7 @@
   "palabras": "",
   "lead": "Del 13 al 15 de noviembre, este municipio costero abrirá sus escenarios a la edición número 27 del Festival.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2988,7 +2988,7 @@
   "palabras": "Sociedad,Eclipse,Astrología,Predicciones,Horóscopo,Signos zodiacales,recomendaciones,Principio de oportunidad,Reflexión",
   "lead": "La astróloga, Paola Montoya, en entrevista con La FM, detalló cómo interpretar estos fenómenos a partir de la carta natal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2999,7 +2999,7 @@
   "palabras": "Orden Público,Secuestros,ELN,Arauca,Saravena,Ejército Nacional,Ministerio de Defensa,Fuerzas Militares,Defensoría del Pueblo,Abelardo de la Espriella",
   "lead": "El video dura cuatro minutos y fue entregado por el ELN en las últimas horas, durante la liberación de los dos agentes del CTI de la Fiscalía.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3010,7 +3010,7 @@
   "palabras": "Economía,Plan Nacional de Desarrollo,Departamento Nacional de Planeación,Plan de Desarrollo,Conpes,Proyecto de ley,Cámara de Representantes,Propuestas",
   "lead": "El documento contempla siete ejes estratégicos y proyectos regionales estimados en $566,9 billones. El Gobierno prevé radicar el articulado el 7 de febrero...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3021,7 +3021,7 @@
   "palabras": "Política,Abelardo de la Espriella,Renuncia de funcinarios,renuncia,Fondo de Adaptación,Rendición de cuentas",
   "lead": "Jaime Andrés Uribe Tamayo deja la entidad que lidera la reconstrucción tras el terremoto del 10 de agosto.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3032,7 +3032,7 @@
   "palabras": "Política,Proyecto de ley,medidas fiscales,Cámara de Representantes,Senado de la República,Cambio Radical",
   "lead": "Quedó descartada la posibilidad de que haya ponentes únicos en las Comisiones Económicas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3043,7 +3043,7 @@
   "palabras": "Economía,arriendo,arriendos en Colombia,índice de precios al consumidor,Arrendamientos,arrendatarios,Salario Mínimo",
   "lead": "El porcentaje de incremento no depende del aumento del salario mínimo ni de una decisión unilateral del propietario.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3054,7 +3054,7 @@
   "palabras": "Deportes,Selección Colombia,Fútbol,Chile,Selección Chile,Colombia,Deporte",
   "lead": "Colombianos y chilenos han jugado en 44 ocasiones, pero la historia está más balanceada a favor de los australes.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3065,6 +3065,446 @@
   "palabras": "Orden Público,Fiscalía General de la Nación,Investigaciones,Indagación preliminar,Irregularidades en contratos,Contratación,Lucha anticorrupción,Procuraduría General de la Nación,Procesos judiciales,Abogados,Negocio ilegal",
   "lead": "La Fiscalía Delegada ante la Corte Suprema dejó en claro la urgencia de su declaración ante sus graves denuncias.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Está funcionando el Fondo Milagro tras el terremoto?: Mañanas Blu, 13 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/esta-funcionando-el-fondo-milagro-tras-el-terremoto-mananas-blu-13-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-13T15:09:52-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 13 de noviembre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Titular de la Selección Colombia para enfrentar a Chile en Cali HOY",
+  "enlace": "https://www.bluradio.com/deportes/futbol/esta-seria-la-nomina-de-la-seleccion-colombia-para-enfrentar-a-chile-en-cali-pr30",
+  "fecha": "2026-11-13T15:23:31-05:00",
+  "palabras": "Selección Colombia, Selección Chile, Estadio Pascual Guerrero, Cali, Selección Colombia, colombia vs chile, nómina colombia, titular colombia",
+  "lead": "El amistoso, que recolectará recursos para los damnificados por el terremoto, tendrá un importante regreso en el mediocampo de Lorenzo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia necesitará casi el doble de cuidadores formales en los próximos nueve años",
+  "enlace": "https://www.bluradio.com/sociedad/colombia-necesitara-casi-el-doble-de-cuidadores-formales-en-los-proximos-nueve-anos-rg10",
+  "fecha": "2026-11-13T14:49:16-05:00",
+  "palabras": "Colombia, Adultos mayores, cuidadores formales",
+  "lead": "Actualmente, 17 millones de personas requieren cuidados, asistencia o apoyo diariamente en el país. De ellas, 6,8 millones reciben atención de personas que realizan esta labor sin remuneración, en su mayoría mujeres.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Festivales, competencias deportivas y gastronomía: los planes para este puente festivo en Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/festivales-competencias-deportivas-y-gastronomia-los-planes-para-este-puente-festivo-en-antioquia-so35",
+  "fecha": "2026-11-13T14:55:10-05:00",
+  "palabras": "Noticias de hoy, Antioquia",
+  "lead": "Envigado y Medellín tendrán el centro de la programación en el Valle de Aburrá. Oriente lidera con varios eventos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Envían a la cárcel a Carlos Oyola, funcionario de la DNI investigado por fraude",
+  "enlace": "https://www.bluradio.com/judicial/envian-a-la-carcel-a-carlos-oyola-funcionario-de-la-dni-investigado-por-fraudes-informaticos-rs15",
+  "fecha": "2026-11-13T14:50:53-05:00",
+  "palabras": "Dirección Nacional de Inteligencia – DNI",
+  "lead": "El juez de control de garantías determinó que el procesado representa un riesgo de fuga y un peligro para la investigación al ostentar un cargo público. La Fiscalía le imputó cuatro delitos por presuntas irregularidades en la UNAD.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gremios Empresariales del Valle proponen mesa de trabajo ante ola de violencia en la región",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/gremios-empresariales-del-valle-proponen-mesa-de-trabajo-ante-ola-de-violencia-en-la-region-rg10",
+  "fecha": "2026-11-13T15:04:09-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "El CIEV señaló que estos acontecimientos generan una profunda preocupación entre los empresarios y la ciudadanía, debido a las consecuencias que pueden tener sobre la seguridad, la infraestructura esencial y el desarrollo económico de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Doble sismo en la tarde de este viernes en Colombia: esto se sabe",
+  "enlace": "https://www.bluradio.com/nacion/nuevo-sismo-en-la-tarde-de-este-viernes-en-colombia-esto-se-sabe-so35",
+  "fecha": "2026-11-13T14:57:26-05:00",
+  "palabras": "Servicio Geológico Colombiano - SGC, Sismo hoy, Temblor hoy, sismo, temblor hoy",
+  "lead": "El departamento que fue epicentro de este nuevo evento sísmico fue el Tolima.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Jueces penales de Bogotá respaldan protesta judicial y alertan ante falta de presupuesto",
+  "enlace": "https://www.bluradio.com/regiones/bogota/jueces-penales-de-bogota-respaldan-protesta-judicial-y-alertan-ante-falta-de-presupuesto-rg10",
+  "fecha": "2026-11-13T15:00:17-05:00",
+  "palabras": "Noticias de hoy, Judicial",
+  "lead": "A través de un comunicado, los funcionarios señalaron que existe una contradicción entre el aumento de las responsabilidades asignadas a los despachos judiciales y la disponibilidad de recursos para cumplirlas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Durante el 2026 se han registrado más de 60 ataques con explosivos en la Panamericana: Colfecar",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/durante-el-2026-se-han-registrado-mas-de-60-ataques-con-explosivos-en-la-panamericana-colfecar-rg10",
+  "fecha": "2026-11-13T15:57:32-05:00",
+  "palabras": "Noticias de hoy, Cali, Vía panamericana",
+  "lead": "Los transportadores están pidiendo mayor presencia de la Fuerza Pública a lo largo de este corredor.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Evacúan edificios en el centro de Ibagué tras sismo de 4.2 en Tolima",
+  "enlace": "https://www.bluradio.com/nacion/evacuan-edificios-en-el-centro-de-ibague-tras-sismo-de-5-0-en-tolima-so35",
+  "fecha": "2026-11-13T15:11:43-05:00",
+  "palabras": "Noticias de hoy, Tolima",
+  "lead": "Entre los inmuebles evacuados se encuentran los edificios de la Gobernación del Tolima y la Alcaldía de Ibagué",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Juez rechaza tiempo adicional pedido por Sandra Ramírez: este viernes se desarrolla su versión libre",
+  "enlace": "https://www.bluradio.com/judicial/juez-rechaza-tiempo-adicional-pedido-por-sandra-ramirez-este-viernes-se-desarrolla-su-version-libre-rg10",
+  "fecha": "2026-11-13T15:35:35-05:00",
+  "palabras": "JEP, JEP, Sandra Ramírez",
+  "lead": "La JEP aceptó reprogramar la diligencia por un día, debido a compromisos previos del abogado defensor, sin embargo, le advirtió a la defensa que deberá adoptar las medidas necesarias para garantizar su asistencia para evitar demoras en el proceso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Buscan a alias ‘El Animal’, presunto responsable de herir a policía tras balacera en Barranquilla",
+  "enlace": "https://www.bluradio.com/regiones/caribe/buscan-a-alias-el-animal-presunto-responsable-de-herir-a-policia-tras-balacera-en-barranquilla-rg10",
+  "fecha": "2026-11-13T15:50:07-05:00",
+  "palabras": "Noticias de hoy, Caribe, Barranquilla, Policía Nacional",
+  "lead": "Los investigadores de la Sijín adelantan las labores para dar con el paradero del señalado y establecer las circunstancias del ataque.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Barco chocó contra un crucero que transportaba a cientos de personas en el río Mississipi, EE. UU.",
+  "enlace": "https://www.bluradio.com/mundo/barco-choco-contra-un-crucero-que-transportaba-a-cientos-de-personas-en-el-rio-mississipi-ee-uu-so35",
+  "fecha": "2026-11-13T15:51:03-05:00",
+  "palabras": "Estados Unidos",
+  "lead": "Un video muestra a pasajeros aferrándose al costado del crucero, intentando bajarse mientras la nave comenzaba a girar y el agua a entrar en el barco impactado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dos sismos de magnitud 4.2 sacudieron al Tolima en menos de 20 minutos",
+  "enlace": "https://caracol.com.co/2026/11/13/dos-sismos-de-magnitud-42-sacudieron-al-tolima-en-menos-de-20-minutos/",
+  "fecha": "2026-11-13T15:45:23-05:00",
+  "palabras": "",
+  "lead": "Los sismos se registraron en el municipio de Chaparral, epicentro de un enjambre sísmico que acumula más de 1.700 movimientos telúricos.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Díaz y Christian González se encontraron en Alemania: intercambio colombiano en Múnich",
+  "enlace": "https://caracol.com.co/2026/11/13/luis-diaz-y-christian-gonzalez-se-encontraron-en-alemania-intercambio-colombiano-en-munich/",
+  "fecha": "2026-11-13T15:52:16-05:00",
+  "palabras": "",
+  "lead": "El delantero del Bayern Múnich compartió con el esquinero de los New England Patriots durante la visita del equipo de la NFL.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Armada de Colombia rescató 13 personas en Cartagena tras incendio de un yate",
+  "enlace": "https://caracol.com.co/2026/11/13/armada-de-colombia-rescato-13-personas-en-cartagena-tras-incendio-de-un-yate/",
+  "fecha": "2026-11-13T15:51:38-05:00",
+  "palabras": "",
+  "lead": "El siniestro se presentó en la bahía de Barbacoas",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La empresa colombiana Evolti denuncia hechos de extorsión y amenaza en Taminango, Nariño.",
+  "enlace": "https://caracol.com.co/2026/11/13/la-empresa-colombiana-evolti-denuncia-hechos-de-extorsion-y-amenaza-en-taminango-narino/",
+  "fecha": "2026-11-13T15:48:17-05:00",
+  "palabras": "",
+  "lead": "La empresa dedicada a la generación de energía limpia, denuncia dos hechos violentos en contra su personal y el abastecimiento energético de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estados Unidos supera los 5.400 casos de sarampión y pone en riesgo su estatus sanitario",
+  "enlace": "https://caracol.com.co/2026/11/13/estados-unidos-supera-los-5400-casos-de-sarampion-y-pone-en-riesgo-su-estatus-sanitario/",
+  "fecha": "2026-11-13T15:46:08-05:00",
+  "palabras": "",
+  "lead": "La OPS evalúa si puede conservar su reconocimiento como nación que ha eliminado la enfermedad",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel Carlos Oyola, exfuncionario de la DNI por presuntos fraudes informáticos en la UNAD",
+  "enlace": "https://caracol.com.co/2026/11/13/a-la-carcel-carlos-oyola-exfuncionario-de-la-dni-por-los-presuntos-fraudes-informaticos-en-la-unad/",
+  "fecha": "2026-11-13T15:39:56-05:00",
+  "palabras": "",
+  "lead": "Según la Fiscalía habría adulterado los registros académicos y financieros para facilitar la aprobación de materias y la obtención irregular de títulos universitarios. Una auditoría identificó 41 inconsistencias en sus calificaciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno radicó ante el Congreso las bases del Plan de Desarrollo",
+  "enlace": "https://caracol.com.co/2026/11/13/gobierno-radico-ante-el-congreso-las-bases-del-plan-de-desarrollo/",
+  "fecha": "2026-11-13T15:44:37-05:00",
+  "palabras": "",
+  "lead": "El ministro del Interior, Alejandro Ordóñez, reconoció que existe una necesidad de “dialogar con el Congreso de la República”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Puente festivo: 150 mil vehículos se movilizarán por la vía Bogotá-Girardot y habrá restricciones",
+  "enlace": "https://caracol.com.co/2026/11/13/puente-festivo-150-mil-vehiculos-se-movilizaran-por-la-via-bogota-girardot-y-habra-restricciones/",
+  "fecha": "2026-11-13T15:43:32-05:00",
+  "palabras": "",
+  "lead": "Habrá un incremento del 50 % en las unidades de asistencia, monitoreo permanente y restricciones para vehículos de carga.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden investigar si SAE vendió lote de escenario musical en Antioquia por precio debajo del avalúo",
+  "enlace": "https://caracol.com.co/2026/11/13/piden-investigar-si-sae-vendio-lote-de-escenario-musical-en-antioquia-por-precio-debajo-del-avaluo/",
+  "fecha": "2026-11-13T15:03:22-05:00",
+  "palabras": "",
+  "lead": "La red de Veedurías de Colombia presentó una denuncia ante la Fiscalía para que investiguen posibles irregularidades en la venta del predio donde está el DaviArena, Mencionan a influyentes políticos del gobierno Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Judicializados hombres que presuntamente acopiaban armas y drogas en viviendas de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/13/judicializados-hombres-que-presuntamente-acopiaban-armas-y-drogas-en-viviendas-de-cartagena/",
+  "fecha": "2026-11-13T15:34:29-05:00",
+  "palabras": "",
+  "lead": "Los tres sujetos no aceptaron los cargos, pero recibieron medida de aseguramiento intramural",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tembici le debe a Bogotá $5.260 millones por uso del espacio público",
+  "enlace": "https://caracol.com.co/2026/11/13/tembici-le-debe-a-bogota-5260-millones-por-uso-del-espacio-publico/",
+  "fecha": "2026-11-13T15:34:40-05:00",
+  "palabras": "",
+  "lead": "La secretaria de Movilidad inició tres procesos de presunto incumplimiento del contrato.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Díaz aparece en el radar del PSG tras la grave lesión de Kvaratskhelia",
+  "enlace": "https://caracol.com.co/2026/11/13/luis-diaz-aparece-en-el-radar-del-psg-tras-la-grave-lesion-de-kvaratskhelia/",
+  "fecha": "2026-11-13T15:31:17-05:00",
+  "palabras": "",
+  "lead": "La lesión del extremo georgiano abrió el debate sobre posibles refuerzos en París y el colombiano sería una de las alternativas que analiza la prensa europea.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "1.500 ciudadanos chinos llegarán  a trabajar en la primera línea del Metro de Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/13/1500-ciudadanos-chinos-llegaran-a-trabajar-en-la-primera-linea-del-metro-de-bogota/",
+  "fecha": "2026-11-13T15:27:39-05:00",
+  "palabras": "",
+  "lead": "La empresa Metro ha apoyado 600 procesos de visado para ciudadanos de la República China, quienes se sumarán a la mano de obra calificada para las obras de la línea 1.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "BID aprueba hoja de ruta para retomar sus operaciones en Venezuela, suspendidas desde 2019",
+  "enlace": "https://caracol.com.co/2026/11/13/bid-aprueba-hoja-de-ruta-para-retomar-sus-operaciones-en-venezuela-suspendidas-desde-2019/",
+  "fecha": "2026-11-13T15:26:22-05:00",
+  "palabras": "",
+  "lead": "El organismo definió tres ejes de trabajo enfocados en la recuperación económica, la atención a poblaciones vulnerables y la reconstrucción de infraestructura afectada por los terremotos de junio",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gran Desfile de Independencia 2026 impulsó economía de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/13/gran-desfile-de-independencia-2026-impulso-economia-de-cartagena/",
+  "fecha": "2026-11-13T15:22:14-05:00",
+  "palabras": "",
+  "lead": "Entre la música, los bailes y las muestras culturales, los vendedores informales también tuvieron un papel importante",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jueces penales de Bogotá alertan sobre crisis económica en la Rama Judicial",
+  "enlace": "https://caracol.com.co/2026/11/13/jueces-penales-de-bogota-alertan-sobre-crisis-economica-en-la-rama-judicial/",
+  "fecha": "2026-11-13T15:00:00-05:00",
+  "palabras": "",
+  "lead": "Los funcionarios respaldaron las jornadas de protesta nacional programadas para la próxima semana y señalaron que hay sobrecarga laboral.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lina María Trujillo asumió como directora encargada del Instituto Nacional de Cancerología",
+  "enlace": "https://caracol.com.co/2026/11/13/lina-maria-trujillo-asumio-como-directora-encargada-del-instituto-nacional-de-cancerologia/",
+  "fecha": "2026-11-13T14:54:37-05:00",
+  "palabras": "",
+  "lead": "La médica especialista en ginecología oncológica llega a la dirección del Instituto tras ocupar varios cargos dentro de la entidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La JEP impone Sanciones Propias a cinco exmilitares por ‘falsos positivos’ en Dabeiba y Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/13/la-jep-impone-sanciones-propias-a-cinco-exmilitares-por-falsos-positivos-en-dabeiba-y-antioquia/",
+  "fecha": "2026-11-13T14:52:09-05:00",
+  "palabras": "",
+  "lead": "Los cinco comparecientes deberán cumplir restricciones de libertad y ejecutar nueve proyectos restaurativos en municipios de Antioquia hasta 2034.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Dos sismos en el Tolima obligaron a evacuaciones esta tarde",
+  "enlace": "https://www.lafm.com.co/sociedad/sismos-tolima-dos-evacuacion-terremoto-temblor-417163",
+  "fecha": "2026-11-13T15:45:00-05:00",
+  "palabras": "Sociedad,Servicio Geológico Colombiano,Temblor,terremoto,Terremoto en Colombia,Tolima,Fenómenos naturales,Científicos,Emergencia",
+  "lead": "Los movimientos telúricos tuvieron epicentro en Chaparral, municipio del sur del departamento donde se registra un enjambre sísmico desde hace casi dos me...",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Colombia vs. Chile: Partido por fecha FIFA en Cali",
+  "enlace": "https://www.lafm.com.co/deportes/colombia-vs-chile-partido-fecha-fifa-cali-futbol-417162",
+  "fecha": "2026-11-13T15:41:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Selección Chile,Estadio Pascual Guerrero,Partidos hoy,Canal RCN,Colombia,FIFA,Fútbol,Terremoto en Colombia",
+  "lead": "El partido podrá disfrutarlo con la transmisión en vivo del Canal RCN y La FM, a través de todas sus plataformas digitales.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fondo Milagro: congresistas reaccionan a salida de gerente",
+  "enlace": "https://www.lafm.com.co/politica/congreso-reacciones-salida-jaime-uribe-fondo-milagro-transparencia-417159",
+  "fecha": "2026-11-13T15:09:00-05:00",
+  "palabras": "Política,Renuncia de funcinarios,Abelardo de la Espriella,Funcionarios denunciados,Acusaciones,Irregularidades en manejo de recursos,Rendición de cuentas,Veeduría ciudadana,Secretario de Transparencia de Presidencia,Polémicos contratos,Fondo de Emergencias",
+  "lead": "La salida del gerente generó debate sobre el funcionamiento de la entidad. Congresistas piden transparencia en los recursos, cambios administrativos e incl...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Temblor se registró en Colombia en la tarde de este viernes 13 de noviembre: esto se sabe",
+  "enlace": "https://www.lafm.com.co/actualidad/temblor-colombia-hoy-13-noviembre-2026-417158",
+  "fecha": "2026-11-13T15:09:00-05:00",
+  "palabras": "Actualidad,Terremoto en Colombia,Temblor,Tolima,Chaparral,Ibagué,Bogotá",
+  "lead": "El Servicio Geológico Colombiano reportó un evento sísmico a las 3:01 p. m. y señaló que tuvo una profundidad superficial.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así es el hangar que EE. UU. le entregó al Ejército Nacional",
+  "enlace": "https://www.lafm.com.co/orden-publico/estados-unidos-hangar-ejercito-colombia-tolemaida-entrenamiento-416917",
+  "fecha": "2026-11-13T15:04:00-05:00",
+  "palabras": "Orden Público,Tolemaida,Estados Unidos,Ejército Nacional,Helicóptero,Aviones,Fuerzas Militares,Ministerio de Defensa",
+  "lead": "Según el reporte, durante su funcionamiento se han capacitado 2.098 alumnos, de los cuales 385 son estudiantes internacionales de diez países aliados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fueron aprehendidos 100 drones que tenían como destino Valle",
+  "enlace": "https://www.lafm.com.co/actualidad/aprehension-de-drones-cartagena-candelaria-responde-417157",
+  "fecha": "2026-11-13T14:19:00-05:00",
+  "palabras": "Actualidad,Drones,Valle del Cauca,alcaldes,Dian",
+  "lead": "La Administración Municipal de Candelaria manifestó su disposición de colaborar con las autoridades para esclarecer el caso de los 100 drones",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así es la nueva especie de pseudoescorpión hallada en Bogotá",
+  "enlace": "https://www.lafm.com.co/sociedad/hallan-en-bogota-especie-de-psudoescorpion-en-humedal-de-bogota-417151",
+  "fecha": "2026-11-13T13:52:00-05:00",
+  "palabras": "Sociedad,Animales,Bogotá,Colombia,Medio ambiente,Ciencia",
+  "lead": "Un ciudadano logró un avistamiento que significó el primero de esta especie en la capital colombiana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Recicladores de Bogotá alertan por riesgos tarifario de aseo",
+  "enlace": "https://www.lafm.com.co/orden-publico/recicladores-bogota-alertan-riesgos-nuevo-modelo-tarifario-aseo-417148",
+  "fecha": "2026-11-13T13:37:00-05:00",
+  "palabras": "Orden Público,Corte Constitucional,Recicladores,Carlos Fernando Galán",
+  "lead": "Recicladores en Bogotá alertaron ante la Corte que el nuevo marco tarifario (Res. 1040) desde 1 enero podría afectar a 20 mil personas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Precio del dólar en el país: proyecciones de los analistas",
+  "enlace": "https://www.lafm.com.co/economia/precio-dolar-colombia-proyecciones-analistas-diciembre-417130",
+  "fecha": "2026-11-13T12:07:00-05:00",
+  "palabras": "Economía,Dólar en Colombia,Dólar,Diciembre,Sistema de Reserva Federal,Banco de la República,Tasas de interés,Casas de cambio,Tasa Representativa del Mercado,Fedesarrollo,Davivienda,Estados Unidos,Colombia",
+  "lead": "Las decisiones del incremento de tasas, por parte de la FED, y la situación interna del país, son factores a tener en cuenta.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
