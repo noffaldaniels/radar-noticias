@@ -832,6 +832,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El Partido Socialista se querella contra el Partido Popular y el diario OK Diario por los pagos de la defensa de Koldo García al exasesor del exministro de Transportes José Luis Ábalos.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:55",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El secretario de Comercio investiga a Megaspeed, una empresa de Singapur, por presunto contrabando de chips diseñados por Nvidia para inteligencia artificial a empresas chinas. La citación será el 3 de diciembre a puerta cerrada.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:57",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "La citación al secretario de Comercio por el caso Megaspeed se suma a la petición de tres comisiones de la Cámara para entrevistar a puerta cerrada a Wang, de 63 años, el 1 de diciembre, bajo amenaza de citación judicial.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:57",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El control político sobre el caso Megaspeed será ejercido por los republicanos antes de que se instale el nuevo Congreso de mayoría demócrata el 3 de enero del próximo año.",
+   "resaltar": false
   }
  ],
  "avisos": [
