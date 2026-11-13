@@ -363,6 +363,20 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "La Fuerza Aérea, la Aeronáutica Civil y otras entidades están autorizadas para coordinar las actividades del espacio aéreo.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:04",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Sección de Reconocimiento de Verdad del Tribunal para la Paz dará lectura hoy de su tercera sentencia restaurativa.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "07:11",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Dimar reforzó los controles marítimos para el Festival Náutico en Cartagena y presentó recomendaciones a los propietarios de embarcaciones.",
+   "resaltar": false
   }
  ],
  "avisos": [
