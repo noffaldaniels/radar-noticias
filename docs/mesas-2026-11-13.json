@@ -769,6 +769,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "El número de precio al productor al parecer subió un poco 0.3% mes a mes, 5.5% los últimos en comparación con los últimos 12 meses.",
    "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:51",
+   "quien": "N&eacute;stor (Periodista de Ma&ntilde;anas Blu)",
+   "que": "El Plan Nacional de Desarrollo busca crecer la econom5a al 6%. Asobancaria se&ntilde;ala que existen tres obst&aacute;culos: gota a gota, fraude y carga tributaria.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:48",
+   "quien": "Silvia Carrasco (Periodista de Ma&ntilde;anas Blu)",
+   "que": "Se reportan problemas en Microsoft en algunas partes del mundo. En Asia, Jap&oacute;n, Filipinas, Singapur y Taiw&aacute;n se han anunciado demandas contra Microsoft por par&aacute;lisis de gobiernos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "08:50",
+   "quien": "N&eacute;stor (Periodista de Ma&ntilde;anas Blu)",
+   "que": "Microsoft y servicios de Microsoft est&aacute;n funcionando bien de momento, tras problemas inform&aacute;ticos que afectaron a servicios financieros y de justicia en el Reino Unido.",
+   "resaltar": false
   }
  ],
  "avisos": [
