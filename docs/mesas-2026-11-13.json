@@ -118,6 +118,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "Treinta cargos van a tener una remuneración de entre 30 y 33 millones de pesos.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:31",
+   "quien": "William Calderón, Periodista de Noticias La FM con Juan Lozano",
+   "que": "El costo de la nómina del Fondo Milagro es de aproximadamente 765.6 millones de pesos al mes.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:31",
+   "quien": "Olguín Mayorga, Quince representante de las víctimas de la violencia en Norte de Santander",
+   "que": "Se registraron dos acciones terroristas en menos de 24 horas en Norte de Santander, donde cuatro militares murieron y cinco resultaron heridos tras un ataque con explosivos lanzados desde drones.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:31",
+   "quien": "Olguín Mayorga, Quince representante de las víctimas de la violencia en Norte de Santander",
+   "que": "Se registró un ataque con drones en el corregimiento de Filogringo, zona rural del municipio de El Tarra, donde diez personas resultaron heridas.",
+   "resaltar": false
   }
  ],
  "avisos": [
