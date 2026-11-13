@@ -55,6 +55,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Ecopetrol registró ingresos por 4.7 billones en el tercer trimestre y 35 billones, algo más de 35 billones en lo que va registrado de ingresos.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:03",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Germán Calderón España ha demandado a la firma Cifras y Conceptos por una encuesta presentada en Caracol, y su hermano Juan Carlos Calderón España presentó una acción de tutela contra el presidente Gustavo Petro.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:03",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "Fueron liberados funcionarios del CTI de la Fiscalía: Jesús Antonio Pacheco, Rodrigo Antonio López, secuestrados por el ELN, tras 17 meses.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:10",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El presidente Gustavo Petro ordenó frenar la nómina del Fondo Milagro. Los salarios de asesores y directivos iban desde los 32 a 39 millones de pesos y no se compadecen con su directiva de austeridad.",
+   "resaltar": false
   }
  ],
  "avisos": [
