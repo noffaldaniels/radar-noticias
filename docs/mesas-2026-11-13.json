@@ -1,0 +1,26 @@
+{
+ "puntos": [
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "En Antioquia se registran más de 1.651 homicidios en 125 municipios; 110 casos corresponden a homicidios contra mujeres y se investigan 103 presuntos feminicidios. Medellín concentra el 20 % de los homicidios de mujeres.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La fiscalía reveló que organizaciones criminales utilizan menores de edad para cometer asesinatos, identificando estructuras en Bucaramanga, Piedecuesta, Girón y Floridablanca.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "06:01",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La investigadora Norma Vera Salazar ha documentado abusos sexuales contra niñas y adolescentes en el conflicto armado en la Sierra Nevada de Santa Marta, con crímenes atribuidos a Hernán Giraldo.",
+   "resaltar": false
+  }
+ ],
+ "avisos": []
+}
