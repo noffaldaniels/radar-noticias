@@ -748,6 +748,27 @@
    "quien": "Periodista de Mañanas Blu",
    "que": "El cordobismo es uno de los sectores políticos más tradicionales del Chocó y la gobernadora tiene vínculos con ese movimiento.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:42",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Agencia Associated Press dice que Ucrania lanzó 1.200 drones a Rusia.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:42",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Fiscalía citó a diligencia de interrogatorio de indiciado a la exdirectora del Dapre, Angie Rodríguez, por el caso de presuntos contratos irregulares a cambio de favores sexuales al expresidente Gustavo Petro.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:42",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El número de precio al productor al parecer subió un poco 0.3% mes a mes, 5.5% los últimos en comparación con los últimos 12 meses.",
+   "resaltar": false
   }
  ],
  "avisos": [
