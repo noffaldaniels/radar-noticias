@@ -20,6 +20,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "La investigadora Norma Vera Salazar ha documentado abusos sexuales contra niñas y adolescentes en el conflicto armado en la Sierra Nevada de Santa Marta, con crímenes atribuidos a Hernán Giraldo.",
    "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:01",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La Policía capturó en Quibdó a 11 integrantes del grupo de los Mexicanos, dedicados a extorsionar e intimidar en cuatro barrios. Dos personas más fueron asesinadas en la zona norte.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:01",
+   "quien": "Ana María (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "Fue suspendido el suministro de agua al batallón Santander de Ocaña por una deuda de 210 millones de pesos. La empresa de servicios públicos de Ocaña ESPO S.A. indicó que esta situación se ha presentado en diferentes oportunidades por falta de pagos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "06:01",
+   "quien": "Juan Carlos (Periodista de 6AM con Julio Sánchez Cristo)",
+   "que": "Durante la operación 'Mano de Hierro' en Bucaramanga, fueron capturadas 136 personas, entre ellas alias 'Carpintero' y alias 'Julito', vinculados a la banda criminal 'Los Claverianos', dedicada al expendio de droga.",
+   "resaltar": false
   }
  ],
  "avisos": []
