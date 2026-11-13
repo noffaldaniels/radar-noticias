@@ -566,6 +566,20 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Tres exdirectores del Banco Central de Paraguay fueron detenidos a raíz del caso de Owen Bank, por cuya intervención fue destituido el hoy expresidente Santiago Peña y renunció el titular de esa institución, Carlos Carvallo, informó el Ministerio Público.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:05",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La Fiscalía citó a interrogatorio en calidad de indiciada a la exdirectora del Dapre, Angie Rodríguez, por el caso de las 48 en la semana del 23 de noviembre.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:06",
+   "quien": "Presidente Abelardo de la Espriella",
+   "que": "Ordenó fortalecer los controles en la Dian tras la investigación en Ipiales que permitió identificar 633 exportaciones ficticias de aceite de palma hacia Ecuador por más de $425.000 millones de pesos, y advirtió que no habrá funcionarios intocables.",
+   "resaltar": false
   }
  ],
  "avisos": [
