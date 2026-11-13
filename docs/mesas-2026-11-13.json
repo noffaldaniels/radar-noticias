@@ -811,6 +811,27 @@
    "quien": "Periodista de Noticias La FM con Juan Lozano",
    "que": "Informó que se busca una coalición entre partidos como el Conservador, Liberal, Centro Democrático y Cambio Radical para cerrar el avance del poder del gobernador Carlos Amaya y del petrismo en Boyacá.",
    "resaltar": true
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:43",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "En los indicadores económicos, el Dow Jones sube 0,5%, el S&P 500 sube 0,5% y el Nasdaq 0,44%. Nvidia sube 2,12%.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:44",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "La crisis ferroviaria en España cobra otra cabeza: renuncia Álvaro Fernández Heredia como presidente de Renfe, y lo sustituye Inmaculada Gutiérrez Carrizo.",
+   "resaltar": false
+  },
+  {
+   "medio": "Caracol Radio",
+   "hora": "08:44",
+   "quien": "Periodista de 6AM con Julio Sánchez Cristo",
+   "que": "El Partido Socialista se querella contra el Partido Popular y el diario OK Diario por los pagos de la defensa de Koldo García al exasesor del exministro de Transportes José Luis Ábalos.",
+   "resaltar": false
   }
  ],
  "avisos": [
