@@ -706,6 +706,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "Cuestionó por qué razón Galileo se presenta en unión temporal con Geomarket cuando ambas empresas aparecen bajo el mismo código Ciu en los registros del orden nacional.",
    "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "El partido Cambio Radical rechazó una militarización generalizada, pero reconoció la necesidad de apoyo militar en zonas específicas.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "La alcaldía de Medellín denunció ante la Fiscalía a un contratista de la Secretaría de Hacienda por ocultar deudas tributarias de 10 empresas por más de 1200 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "La FM",
+   "hora": "08:38",
+   "quien": "Periodista de Noticias La FM con Juan Lozano",
+   "que": "Un ciberataque contra una empresa alemana de defensa obligó al ejército de ese país a dejar temporalmente en tierra su flota de drones.",
+   "resaltar": false
   }
  ],
  "avisos": [
