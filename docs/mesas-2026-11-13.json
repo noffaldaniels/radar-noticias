@@ -188,6 +188,27 @@
    "quien": "Periodista de 6AM con Julio Sánchez Cristo",
    "que": "La Policía capturó en Ibagué y Cúcuta a tres representantes legales de comercializadoras internacionales y cuatro funcionarios de la DIAN en Ipiales, señalados de participar en una red de lavado de activos y contrabando de oro por 425.25 millones de pesos y derivados del Puente Internacional de Rumichaca.",
    "resaltar": true
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:33",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El presidente Abelardo de la Espriella ordenó frenar la nómina del Fondo Milagro por cuenta de los altos sueldos pagados a sus funcionarios. Los salarios van desde 5.800.000 hasta 39.441.000 pesos al mes.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:33",
+   "quien": "Senador Dúvalier Sánchez",
+   "que": "Cuestionó que no se dieran los perfiles de toda esa nómina millonaria y señaló que hay austeridad y problemas fiscales, mientras el gerente se va a meter casi 40 millones de pesos y su secretario privado otros 36 millones de pesos.",
+   "resaltar": false
+  },
+  {
+   "medio": "Blu Radio",
+   "hora": "06:34",
+   "quien": "Periodista de Mañanas Blu",
+   "que": "El gerente del Fondo Milagro, Jaime Uribe, ha cancelado ya tres veces su participación en los debates a los que lo ha citado el Congreso de la República para rendir cuentas.",
+   "resaltar": false
   }
  ],
  "avisos": [
