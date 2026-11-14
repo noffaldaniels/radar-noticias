@@ -1448,6 +1448,61 @@
   "palabras": "",
   "lead": "La Tricolor logró vencer a La Roja por la mínima en Cali, ahora deberá viajar a Santiago para el segundo encuentro.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Una pareja tiene que vivir junta? Psicólogo explica qué hace que una relación funcione",
+  "enlace": "https://www.bluradio.com/sociedad/una-pareja-tiene-que-vivir-junta-psicologo-explica-que-hace-que-una-relacion-funcione-so35",
+  "fecha": "2026-11-14T12:05:59-05:00",
+  "palabras": "Vida en pareja, Salud mental, Psicología, Sexualidad",
+  "lead": "David Bonilla explicó por qué las parejas ya no tienen que seguir una única forma de convivencia y qué papel tienen los acuerdos, la comunicación y la tecnología en los vínculos actuales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "DT del Tenerife rompe el silencio tras muerte de Jesús de Miguel: \"Es duro, pero hay que avanzar\"",
+  "enlace": "https://www.bluradio.com/deportes/futbol/dt-del-tenerife-rompe-el-silencio-tras-muerte-de-jesus-de-miguel-es-duro-pero-hay-que-avanzar-cb20",
+  "fecha": "2026-11-14T12:04:04-05:00",
+  "palabras": "España",
+  "lead": "El entrenador Álvaro Cervera habló sobre el difícil momento que atraviesa el equipo y las dudas que surgen ante su regreso a las canchas después de la tragedia.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Julio Reyes Copello asumirá la dirección artística del Festival de Música de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/14/julio-reyes-copello-asumira-la-direccion-artistica-del-festival-de-musica-de-cartagena/",
+  "fecha": "2026-11-14T12:05:26-05:00",
+  "palabras": "",
+  "lead": "El productor y compositor colombiano liderará la programación de la edición 2027, que se realizará del 9 al 17 de enero y tendrá actividades dedicadas a Gabriel García Márquez, nuevas composiciones y figuras internacionales de la música clásica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así quedaría la jornada laboral en Colombia 2027: ¿Cuántas horas se reducen el próximo año?",
+  "enlace": "https://caracol.com.co/2026/11/14/asi-quedaria-la-jornada-laboral-en-colombia-2027-cuantas-horas-se-reducen-el-proximo-ano/",
+  "fecha": "2026-11-14T11:41:49-05:00",
+  "palabras": "",
+  "lead": "El proceso de implementación de la reducción de la jornada laboral se extendió por un periodo de cuatro años, llegando a tener 42 horas semanales para este 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Línea 4 del Metro de Bogotá: por dónde pasaría y cuánto costarán los estudios",
+  "enlace": "https://www.lafm.com.co/actualidad/metro-bogota-linea-4-ruta-estaciones-construccion-estudios-417225",
+  "fecha": "2026-11-14T11:44:00-05:00",
+  "palabras": "Actualidad,Metro de Bogotá,Abelardo de la Espriella,Carlos Fernando Galán,Gobierno,Alcaldía de Bogotá,Ampliación de Autopista Norte,Usaquén,Suba",
+  "lead": "El Gobierno Nacional aportará $34.000 millones para financiar la mitad de los estudios de esta nueva línea.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
