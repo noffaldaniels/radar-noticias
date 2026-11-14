@@ -161,7 +161,7 @@
   "palabras": "Navidad, Diciembre, Viajes",
   "lead": "Medellín y Bucaramanga encabezan el ranking de Kayak, con tiquetes de ida y vuelta por menos de $310.000.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -172,7 +172,7 @@
   "palabras": "Antioquia, Gobernación de Antioquia, Movilidad, Policía de Tránsito",
   "lead": "Las labores se centran en la vía principal al municipio de Peque afectada en los últimos días por el colapso de un puente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Medellín, Salud",
   "lead": "Hasta el momento han renunciado más de 500 profesionales y hay escasez de insumos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "PlayStation, Xbox, Videojuegos",
   "lead": "A pocos días del estreno de Grand Theft Auto VI, unas fotografías compartidas por compradores han despertado preocupación por la seguridad de las copias físicas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "Cali, atentado terrorista",
   "lead": "De acuerdo con la información preliminar, la fuerte explosión generó alarma entre los habitantes de la zona y ocasionó afectaciones materiales en varias viviendas cercanas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Santander, Noticias de hoy, Blu Radio, ELN, Gobierno nacional",
   "lead": "Juvenal Díaz cuestionó que el grupo armado utilice a la uniformada para enviar mensajes de un proceso de paz cuando la mantiene secuestrada, afirmó que ningún grupo armado puede poner condiciones sobre la libertad y la vida de las personas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "Fondo Milagro, Valle del Cauca",
   "lead": "Adrián Zamora entregó un balance de las obras en vivienda y educación y explicó las prioridades tras el terremoto del 10 de agosto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Policía de Tránsito",
   "lead": "25 municipios tendrán eventos entre ferias y fiestas, deportivos y culturales. Además los conductores estarán acompañados por los diferentes controles viales, en las vías del departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "Luis Carlos Sarmiento Angulo, Valle del Cauca",
   "lead": "Uno de los proyectos de mayor alcance se desarrollará en el Hospital Universitario del Valle, donde se contempla la reconstrucción de una torre que permitirá recuperar 148 camas para servicios de alta complejidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Noticias de la Mañana del sábado, 14 de noviembre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Atlántico, Plan Éxodo, Policía Nacional",
   "lead": "En Barranquilla y su área metropolitana unos 3.000 uniformados vigilarán sectores comerciales, zonas de entretenimiento y sitios turísticos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Medellín, Homicidios",
   "lead": "El supuesto delincuente ingresó a un inmueble y amenazó a los residentes con un arma de fuego para que supuestamente entregaran unos dólares que tenían allí guardados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "Antioquia, Magdalena Medio, Hipopótamos en Colombia, Puerto Triunfo",
   "lead": "Autoridades ambientales hacen seguimiento para evitar problemas en las vías del Magdalena Medio antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "Antioquia, Sucre, Menores de edad, Ahogados",
   "lead": "Las autoridades competentes asumieron la investigación del caso para esclarecer las circunstancias en las que ocurrió el incidente y verificar las condiciones de supervisión y seguridad en el establecimiento.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Medellín, Policía Nacional",
   "lead": "Pese a las intimidaciones contra los uniformados, las autoridades lograron detener a alias ‘Juan Gurre’, señalado hombre de confianza de alias ‘Abelito’.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "Carros eléctricos, Multas",
   "lead": "La identificación será obligatoria desde enero de 2027 e incluirá datos técnicos como marca, modelo, potencia y número de serie.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Ecopetrol",
   "lead": "Se trata de un joven de 24 años, trabajador de la empresa FRG S.A.S., cuyo homicidio se registra apenas 15 días después de otro ataque mortal contra un trabajador del sector petrolero.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Medellín",
   "lead": "La víctima había viajado desde Caucasia para comprar una motocicleta, pero fue engañada y retenida por delincuentes que contactaron a su esposo para exigirle dinero a cambio de su libertad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "Fútbol, Atlético Nacional, Deportivo Independiente Medellín, Policía Nacional",
   "lead": "En el estadio Atanasio Girardot, donde Atlético Nacional recibirá a Once Caldas con un aforo proyectado de 45.000 personas, habrá 317 policías.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "Casanare, Defensoría del Pueblo, ELN, Disidencias Farc",
   "lead": "En La Salina, Sácama y Támara hay riesgo de reclutamiento de menores, retenes ilegales y minas, con el pueblo U'wa entre los afectados. La Defensoría pidió 28 acciones a las autoridades.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Iván Cepeda, Alejandro Ordóñez, Fiscalía General de la Nación, Procuraduría General de la Nación",
   "lead": "El senador cuestionó que se utilicen los canales institucionales para lanzar ataques personales y desacreditar sus esfuerzos de paz. Anunció acciones ante la Fiscalía y la Procuraduría.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Abelardo De La Espriella, Consejo de Estado, Religión",
   "lead": "El mandatario aseguró que sus creencias hacen parte de sus convicciones personales y que el respeto por las creencias de todos los colombianos es un deber constitucional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Dorado Mañana, Resultados del chance, Chances y Loterías",
   "lead": "Consulte aquí el resultado del último sorteo de Dorado Mañana de hoy sábado 14 de noviembre de 2026. Número ganador, últimas cifras, quinta balota y plan de premios de este popular chance en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Blu Jeans del sábado, 14 de noviembre de 2026, encuentre información, noticias, música, entretenimiento y mucho más.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "Fondo Milagro",
   "lead": "Luis Felipe Henao, exministro de Vivienda e integrante de la junta directiva de Ecopetrol, anunció que asumirá ad honorem la gerencia del Fondo Milagro, luego de la renuncia de Jaime Andrés Uribe en medio de la polémica por los millonarios salarios proyectados para el personal de la entidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Federación Colombiana de Fútbol, Dimayor",
   "lead": "El exárbitro FIFA asumirá temporalmente la dirección del organismo, que ha atravesado varios cambios durante los últimos meses. La Federación confirmó su designación mediante un comunicado.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "Calarcá, Disidencias Farc, Clan del Golfo",
   "lead": "Autoridades confirmaron la captura de Néider Yesid Uñates López, alias 'Primo Gay', y otros dos hombres en el norte antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "Calarcá, Clan del Golfo, Disidencias Farc",
   "lead": "Su captura se produjo en una operación militar en Briceño, Antioquia. Era señalado de participar en ataques contra la Fuerza Pública, homicidios y acciones con explosivos en varios municipios del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "",
   "lead": "Más de 3.700 vuelos han sido cancelados y casi 2.000 registran retrasos este sábado. Las autoridades investigan una falla en los sistemas de comunicación aérea y descartan, por ahora, indicios de un ciberataque.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "",
   "lead": "Las directivas del puerto local aseguraron que esperan un calado de 12.5 metros en el canal de acceso.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "",
   "lead": "El atentado ocurrió mientras Rolando Rodríguez investigaba presuntos hechos que involucraban a empresarios y exfuncionarios panameños. Su esposa logró salir ilesa, mientras que dos vehículos quedaron incendiados.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "",
   "lead": "Los nombramientos se conocen antes de las elecciones del 3 de diciembre.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "",
   "lead": "El uruguayo se convirtió en el duodécimo entrenador que deja su cargo en el presente campeonato.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "",
   "lead": "Néider Yesid Uñates López fue detenido cuando se movilizaba desde Briceño por la vía hacia Ventanas. En el operativo participaron unidades del Ejército, Gaula, CTI y Policía Judicial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "",
   "lead": "Las restricciones comenzarán a las 5:00 a.m. y se extenderán hasta las 10:00 a.m.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "",
   "lead": "Los 100 dispositivos fueron aprehendidos por la DIAN en Cartagena antes de llegar al Valle del Cauca. Las autoridades de Candelaria buscan establecer posibles riesgos para la seguridad del territorio.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "",
   "lead": "La artista mexicana fue una de las invitadas especiales en el primer concierto de la colombiana en Ciudad de México, donde interpretaron dos reconocidos éxitos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "",
   "lead": "El empresario asegura que los 16 módulos de andamios fueron retirados durante la madrugada",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "",
   "lead": "La víctima intervino junto con otra mujer para detener una presunta agresión contra una residente de un edificio del barrio Barrancas. El señalado responsable fue capturado en Cartagena e imputado por feminicidio agravado.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "",
   "lead": "En la reunión participaron fiscales especializados, comisarios de familia, la Oficina de la Mujer, Equidad y Género, la Policía Metropolitana y las Fuerzas Militares.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "",
   "lead": "El secretario de Seguridad advirtió sobre las dificultades para contrarrestar estas acciones.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "",
   "lead": "Sostuvo que el crecimiento de esta actividad representa también el crecimiento de Colombia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "",
   "lead": "La segunda jornada tendrá conciertos desde la 1:00 p. m",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "",
   "lead": "Opinaron que respetan la decisión de la salida de Jaime Uribe del Fondo milagro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "",
   "lead": "Con esos recursos adicionales, Indeportes Tolima confía en mejorar las marcas y los resultados del departamento en los pasados Juegos Deportivos Nacionales.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "",
   "lead": "Yeiner Miguel López Jinete, de 25 años, fue imputado por homicidio agravado",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "",
   "lead": "El desfile comenzará a la 1:00 p. m. en Canapote y rendirá homenaje a los Diablos de Uré bajo la temática «Diablos y Cucambas»",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "",
   "lead": "La Asociación Colombiana de Futbolistas Profesionales aseguró que el equipo profesional no asumirá el juego de este sábado por falta de pagos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "",
   "lead": "El convenio se celebró en medio de la celebración de los 60 años de la Alianza Francesa en Barranquilla.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "",
   "lead": "Estudiantes de Teorama se formaron en derechos humanos, cultura de paz y participación ciudadana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "",
   "lead": "Cerca de 15.000 fieles se congregaron frente a la catedral para acompañar al pontífice, quien recordó con emoción sus años de labor pastoral en la región.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "",
   "lead": "Luis Felipe Henao agradece su designación en el Fondo Milagro y promete trabajar con transparencia: “Cada peso debe llegar a los damnificados”",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "",
   "lead": "La Fundación Sarmiento Angulo entregó los recursos para intervenir infraestructura afectada por el terremoto del pasado 10 de agosto. Las obras se ejecutarán en Cali, Roldanillo y Buenaventura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "",
   "lead": "El mandatario advirtió que el secuestro no puede convertirse en una herramienta de presión ni quedar impune en medio de los procesos de paz.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "",
   "lead": "El cuadro Cardenal continúa acercándose a la Copa Libertadores del 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "",
   "lead": "El hecho se registró en la vereda Santa Cruz, en el corregimiento de Luis Vero.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "",
   "lead": "Tres municipios y algunos sectores de Hato Corozal están en riesgo de desplazamientos, confinamientos, reclutamiento de menores y otras vulneraciones de derechos humanos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "",
   "lead": "La empresa contratista retomó las perforaciones y se espera que en diciembre comiencen los trabajos de cimentación y levantamiento de columnas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "",
   "lead": "Festividades programadas para este puente festivo se mantendrían.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "",
   "lead": "José Richard Velásquez está privado de la libertad desde el 29 de mayo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "",
   "lead": "El nuevo agente interventor de la USI se posesionó en el cargo para reemplazar a la saliente Edilma Hurtado.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "",
   "lead": "El Plan Éxodo contempla siete áreas de prevención y controles en los principales corredores de Cartagena y Bolívar",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "",
   "lead": "La explosión ocurrió durante la madrugada de este sábado en inmediaciones de la estación de Policía de Desepaz. Una persona resultó lesionada y fue trasladada a un centro asistencial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "",
   "lead": "Fecode ha tenido un papel fundamental en la historia de la educación pública en Colombia",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "",
   "lead": "El zarpe de embarcaciones se mantiene en el mismo horario",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "",
   "lead": "La compañía descartó que se tratara de un ciberataque y anunció que publicará un informe detallado sobre lo ocurrido.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "",
   "lead": "La compañía tendrá 60 días para desactivar una función de Facebook que permitía acceder a la galería de los celulares sin informar claramente a los usuarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "",
   "lead": "El senador Iván Cepeda denunciará al ministro del Interior, Alejandro Ordóñez, ante la Fiscalía por cuatro presuntos delitos",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "",
   "lead": "Los paneleros del Tolima piden apoyo del Gobierno nacional para mejorar sus trapiches y controlar la producción de panela rendida con azúcar.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "",
   "lead": "El entrenador uruguayo valoró la victoria frente a Internacional y aseguró que el equipo llegará con confianza a los cuadrangulares semifinales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "Autoridades despliegan un dispositivo especial en 25 municipios del departamento, donde se realizarán 12 ferias y fiestas; habrá controles en los principales corredores viales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "El desfile del Carnaval de los Niños tendrá como escenario la avenida Shakira, mientras que la coronación de los reyes infantiles será en el estadio Romelio Martínez.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Era transportado por un bus procedente de Medellín",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "Habrá controles en las comunas, corredores viales y sitios turísticos para proteger a propios y visitantes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Ambas selecciones volverán a enfrentarse el próximo martes, esta vez en el Estadio Nacional de Santiago.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "Se estima la realización de 3 mil despachos de vehículos y se reforzarán las medidas para garantizar viajes seguros.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "El nuevo recinto está ubicado en Sabaneta, al sur de Medellín. Juanes será el encargado de inaugurar este espacio, que tendrá más de 70 espectáculos programados para 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "Dos menores de edad estarían entre las víctimas mortales del accidente del vehículo de servicio público que cubría la ruta Florencia-Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "La autoridad de competencia concluyó que no hubo favorecimiento a contratistas en el alquiler de aeronaves entre 2011 y 2023. El fallo también exonera a cinco funcionarios de Cenit.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "Un video nocturno muestra a los animales atravesando la vía entre Doradal y el desvío a Puerto Triunfo. Conductores deben extremar las precauciones en este corredor.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "Con el fin de garantizar la seguridad, las autoridades en Armenia cerrarán fronteras para no permitir el ingreso de la barra visitante ante el partido decisivo entre el Deportes Quindío y Real Cartagena",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "Las Naciones Unidas advierten que, si se pierden las próximas temporadas de siembra, 45 millones de personas podrían enfrentar inseguridad alimentaria grave y otros 30 millones caer en la pobreza.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "Las autoridades alertaron sobre las modalidades utilizadas por los delincuentes para cometer estos hurtos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "El mandatario ucraniano afirmó que cualquier acuerdo de este tipo tendría que ser consultado con la población y aclaró que no implicaría reconocer como rusos los territorios ocupados por Moscú.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "El técnico de Chile destacó el poderío físicio de la Selección Colombia y se mostró esperanzado de cara al futuro.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "Los responsables exigían $100 millones por su liberación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "La reunión se celebrará al margen de la cumbre APEC en Shenzhen y tendrá entre sus prioridades el desarme nuclear. Por ahora, ni China ni Rusia han confirmado oficialmente su participación.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "Las autoridades ofrecieron una recompensa de hasta 300 millones de pesos por información.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "El alcalde del municipio de Montenegro en el Quindío confirmó el proceso de demolición para la iglesia San José con más de 100 años de historia y que resultó afectada por el terremoto",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "Alias ‘El Paisa’ pagará más de nueve años de cárcel por coordinar extorsiones e intimidaciones contra campesinos en el Tolima.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "El proyecto propone incluir tres grados de preescolar, nueve de básica y dos de media. Le explicamos:",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "La Dirección Nacional de Inteligencia pagó $649 millones más en 2025 por dos inmuebles arrendados que en 2024, cuando tenía cuatro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "El técnico argentino valoró la inclusión de los nuevos jugadores durante este compromiso ante Chile.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "El ente acusador cerró la investigación contra el expresidente por el delito de soborno en actuación penal.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "1.012 embarcaciones se dieron cita en la bahía con más de 37.000 personas y 12.000 asistentes se reunieron en la Calle del Arsenal",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "Orden Público,Gaula militar,Antioquia,disidencias,Calarcá",
   "lead": "La captura se produjo tras fuertes combates de las tropas con este grupo criminal en zona rural de Briceño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "Internacional,Venezuela,Exilio,Persecución,Represión,Vigilancia,actos violentos",
   "lead": "Periodista venezolano Orlando Avendaño regresó del exilio tras nueve años y contó qué encontró en Venezuela y qué cambió en el país.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Actualidad,Accidente,Minería,Boyacá",
   "lead": "Tragedia minera en Chita, Boyacá: explosión en socavón deja dos mineros muertos y otros dos atrapados",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Actualidad,Procesos judiciales,Unad,Investigaciones,Fiscalía General de la Nación",
   "lead": "La Fiscalía judicializó a Carlos Andrés Oyola Tovar capturado en Neiva y enviado a prisión mientras avanza el proceso penal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "Orden Público,Policía Nacional,Asesinado,atentado,ataque explosivo,Huila,disidencias,Capturados",
   "lead": "Durante el ataque, perpetrado el 31 de octubre, fueron asesinados los patrulleros Julián Esmith Castaño López y Jaime Andrés García Moreno.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "Política,Luis Felipe Henao,Abelardo de la Espriella,Donaciones,Cargos gerenciales,Terremoto en Colombia,terremoto",
   "lead": "El exministro de Vivienda fue elegido por Abelardo De La Espriella para liderar la reconstrucción de las zonas afectadas por el terremoto del 10 de agosto...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "Actualidad,Metro de Bogotá,Bogotá,Carlos Fernando Galán,Secretaría de Movilidad",
   "lead": "Metro de Bogotá: Línea 4 avanza con $78.000 millones, mientras tres problemas técnicos retrasan algunas obras de la Primera Línea.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "Orden Público,Defensoría del Pueblo,Sistema de Alertas Tempranas,Casanare,ELN,disidencias,reclutamiento,indígenas,atentado",
   "lead": "La alerta se emitió para los municipios de Salina, Sácama y Támara, así como sectores de Hato Corozal, ante la expansión de los grupos criminales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Sociedad,medicamentos,Colsubsidio,Salud,Cajas de Compensación Familiar,Caja de compensación Cafam,Quejas de usuarios",
   "lead": "Gloria Quiceno, de la Asociación de Usuarios de Sanitas, señaló que uno de los mayores problemas son los medicamentos pendientes de Cruz Verde.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Sociedad,Diabetes,preventa,Autocuidado,Actividad física,Nutrición,Tabaquismo,Cardiopatías,ataque cerebrovascular,Problemas visuales,Amputación",
   "lead": "El Colegio Médico Colombiano advierte que la prevención y la promoción de hábitos saludables son fundamentales para enfrentar el avance de esta enfermedad....",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Orden Público,Clan del Golfo,Antioquia,Fuerzas Militares,Ejército Nacional,Fuerza Aérea Colombiana,Policía Nacional,Narcotráfico,Asesinato,Desplazamiento forzado",
   "lead": "Se trata del principal cabecilla de la Subestructura Manuel Alexander Ariza, con injerencia en el Bajo Cauca antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "Política,Álvaro Uribe,Fiscalía General de la Nación,Iván Cepeda,Procesos judiciales,Preclusión de investigación,Falso testimonio,Fallo judicial,Fallo fiscal,investigados",
   "lead": "El expresidente Álvaro Uribe aseguró que la determinación del ente acusador complementa la absolución que había obtenido del Tribunal Superior de Bogotá.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Actualidad,Accidente,Bus,Muertos",
   "lead": "El bus en el que se transportaban se volcó, los heridos fueron trasladados a clínicas de Neiva y Garzón.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "Internacional,Estados Unidos,Washington,aeropuerto,Tecnología,Fallas en sistema,Emergencia",
   "lead": "Cancelaciones de vuelos en Estados Unidos afectaron a viajeros colombianos. Pasajeros tuvieron que asumir gastos y buscar rutas alternativas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "Orden Público,ataque explosivo,Policía Nacional,Cali, Colombia,Heridos",
   "lead": "La explosión ocurrió cerca de la estación de Policía de Decepaz en el oriente de Cali y causó daños en viviendas cercanas",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "Internacional,Correo electrónico,Tecnología,Trabajo",
   "lead": "Esta incidencia global, que empezó el jueves debido a una \"carga elevada\" en su infraestructura, afectó especialmente a su servicio de correo Outlook,",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "Orden Público,Abelardo de la Espriella,Clan del Golfo,Antioquia,Policía Nacional,Ejército Nacional",
   "lead": "Policía de Antioquia refuerza la seguridad ante posibles retaliaciones del Clan del Golfo en el bajo Cauca Antioqueño",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "Sociedad,Plan de Alimentación Escolar,Irregularidades en manejo de recursos,auditoria,Irregularidades en contratos,Investigaciones,Indagación preliminar,recursos públicos,Contraloría,Plan de austeridad,Rendición de cuentas",
   "lead": "La ministra de Educación, Ilva Myriam Hoyos Castañeda, anunció que los hallazgos de una revisión administrativa a la Unidad Administrativa Especial de Alim...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "Orden Público,Catatumbo,Militares,Drones,ELN",
   "lead": "Arnulfo Méndez perdió a su hijo, el soldado profesional Yair Jesús Méndez Bonza, en un ataque con drones en el Catatumbo.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "Sociedad,Contenido patrocinado,Educación,Universidades de Colombia",
   "lead": "La Universidad del Cauca cumple 199 años y presenta sus avances académicos, proyectos de investigación y planes para llegar a su bicentenario en 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "Orden Público,Homicidios,Sabaneta,Persecución,Policía Nacional,Antioquia",
   "lead": "Persecución desde Sabaneta hasta San Antonio de Prado, sur del Valle de Aburrá, terminó con tres capturados por homicidio",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,6 +1437,17 @@
   "palabras": "Sociedad,Plan Nacional de Desarrollo,Invima,Industria Farmacéutica,alivios financieros,pacientes,Innovación,Vigilancia,Ministerio de Salud",
   "lead": "El gremio farmacéutico reconoció la puesta en marcha del Plan de Choque en Salud y la creación de un tablero público para hacer seguimiento a los compromis...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Chile vs Colombia: fecha y hora de la revancha del partido amistoso",
+  "enlace": "https://caracol.com.co/2026/11/14/chile-vs-colombia-fecha-y-hora-de-la-revancha-del-partido-amistoso/",
+  "fecha": "2026-11-14T11:35:49-05:00",
+  "palabras": "",
+  "lead": "La Tricolor logró vencer a La Roja por la mínima en Cali, ahora deberá viajar a Santiago para el segundo encuentro.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
