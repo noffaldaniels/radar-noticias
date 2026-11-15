@@ -1371,7 +1371,7 @@
   "palabras": "Abelardo De La Espriella, Gobierno nacional",
   "lead": "El politólogo Yann Basset analizó el estilo del mandatario y los pendientes en economía, seguridad, salud y relación con el Congreso.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "Últimas noticias de Colombia y el mundo, análisis, deportes, fútbol colombiano, economía y entretenimiento. Escuche Caracol Radio en vivo y manténgase informado.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "Por parte el Ministerio de Agricultura y el gremio trabajarán articuladamente con la Agencia de Desarrollo Rural (ADR) para impulsar la modernización de los distritos de riego.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "El mandatario sostuvo una videollamada con el niño cucuteño.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "Personero de Tunja advierte que ya se han registrado dos intentos de incendiar una celda por parte de personas retenidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "En menos de una semana se han registrado cuatro ataques en el mismo punto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "En el caso consultado, la Coordinación Académica examinó las funciones y responsabilidades profesionales documentadas, certificaciones laborales, soportes de formación y documentación complementaria.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,6 +1448,446 @@
   "palabras": "",
   "lead": "La producción colombiana fue seleccionada para la competencia oficial Rebels with a Cause, una categoría que reúne largometrajes que exploran nuevas formas de narración y propuestas cinematográficas no convencionales.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alcaldía de Bello inició el proceso de legalización de predios tras tragedia en Granizal",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/alcaldia-de-bello-inicio-el-proceso-de-legalizacion-de-predios-tras-tragedia-en-granizal-rg10",
+  "fecha": "2026-11-15T12:53:02-05:00",
+  "palabras": "Antioquia, Valle de Aburrá, Bello",
+  "lead": "Durante tres semana encuestadores esperan visitar unas 2.900 viviendas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo edificio del SENA en Cali beneficiará a 12.000 estudiantes",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/nuevo-edificio-del-sena-en-cali-tendra-64-beneficiara-a-12-000-estudiantes-rg10",
+  "fecha": "2026-11-15T13:05:14-05:00",
+  "palabras": "Cali, SENA, Educación, Educación superior",
+  "lead": "Con este proyecto se busca fortalecer las oportunidades de formación, facilitar el acceso al empleo y contribuir al progreso y desarrollo del Valle del Cauca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tras seis años buscando quedar en embarazo, mujer dio a luz trillizas en Barranquilla",
+  "enlace": "https://www.bluradio.com/regiones/caribe/tras-seis-anos-buscando-quedar-en-embarazo-mujer-dio-a-luz-trillizas-en-barranquilla-rg10",
+  "fecha": "2026-11-15T13:18:43-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Medicina, Atlántico, Caribe",
+  "lead": "Médicos que participaron en el proceso de seguimiento destacaron que la gestación de las tres bebés ocurrió sin recurrir a técnicas de reproducción asistida.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hospital de Barrancabermeja revela detalles de mujer que dio a luz en la puerta",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/hospital-de-barrancabermeja-revela-detalles-de-mujer-que-dio-a-luz-en-la-puerta-rg10",
+  "fecha": "2026-11-15T13:41:26-05:00",
+  "palabras": "Noticias de hoy, Santander, Blu Radio, Barrancabermeja",
+  "lead": "El caso generó indignación y cuestionamientos sobre la atención a una mujer en trabajo de parto. Andrés Manosalva Camargo gerente interventor del Hospital Regional del Magdalena Medio, aseguró que la paciente se retiró voluntariamente y anunció una auditoría para esclarecer lo sucedido.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Emiliano, de 6 años, celebró 115 quimioterapias con una caravana policial por Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/emiliano-de-6-anos-celebro-115-quimioterapias-con-una-caravana-policial-por-bucaramanga-rg10",
+  "fecha": "2026-11-15T13:52:01-05:00",
+  "palabras": "Noticias de hoy, Santander, Blu Radio, Policía Nacional",
+  "lead": "Enfrentó un largo proceso en la Clínica Foscal en el Centro Oncológico, tras dos tumores cerebrales. La Policía de Santander lo acompañó en su última sesión de quimioterapia con una patrulla decorada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Día: resultado del último sorteo hoy domingo 15 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-dia-resultado-del-ultimo-sorteo-hoy-domingo-15-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-15T12:50:51-05:00",
+  "palabras": "Paisita día, Chances y Loterías, Resultados del chance",
+  "lead": "El chance Paisita Día juega de lunes a sábado a la 1:00 p. m. y los domingos y festivos a las 2:00 p. m. Consulte aquí el número ganador de hoy",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Así han sido los primeros 100 días de De La Espriella: Sala de Prensa Blu, 15 de noviembre",
+  "enlace": "https://www.bluradio.com/sala-de-prensa-blu/asi-han-sido-los-primeros-100-dias-de-de-la-espriella-sala-de-prensa-blu-15-de-noviembre-so35",
+  "fecha": "2026-11-15T13:22:11-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 15 de noviembre de 2026",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Día: resultado del último sorteo hoy domingo 15 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-dia-resultado-del-ultimo-sorteo-hoy-domingo-15-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-15T13:30:14-05:00",
+  "palabras": "Sinuano día, Chances y Loterías, Resultados del chance",
+  "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador de hoy, domingo 15 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alimentos en Colombia alcanzan su precio más alto desde 2023: papa sube un 98%",
+  "enlace": "https://www.bluradio.com/nacion/alimentos-en-colombia-alcanzan-su-precio-mas-alto-desde-2023-papa-sube-un-98-rs15",
+  "fecha": "2026-11-15T14:02:25-05:00",
+  "palabras": "Alimentos, Canasta familiar, Inflación, Plazas de mercado",
+  "lead": "La inflación de alimentos en Colombia llegó al 7,31% anual en octubre de 2026. El alza de la papa y los efectos de El Niño presionan los precios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Juez pidió examinar expresiones “despectivas” del presidente De La Espriella hacia alias 'Primo Gay'",
+  "enlace": "https://www.bluradio.com/judicial/juez-pidio-examinar-expresiones-despectivas-del-presidente-de-la-espriella-hacia-alias-primo-gay-rg10",
+  "fecha": "2026-11-15T14:26:27-05:00",
+  "palabras": "Fiscalía General de la Nación, Abelardo De La Espriella",
+  "lead": "El mandatario, que confrontó al cabecilla del Clan del Golfo en la ciudad de Montería, habría afectado la dignidad humana de Neider Yesid Uñates.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EE.UU. exigió explicaciones a Nvidia por presunto desvío de chips de inteligencia artificial a China",
+  "enlace": "https://caracol.com.co/2026/11/15/eeuu-exige-explicaciones-a-nvidia-por-presunto-desvio-de-chips-de-inteligencia-artificial-a-china/",
+  "fecha": "2026-11-15T14:16:53-05:00",
+  "palabras": "",
+  "lead": "El Departamento del Tesoro dio a la compañía un plazo de 10 días para responder, mientras el Departamento de Justicia adelanta una investigación penal y el exdirector ejecutivo Jensen Huang se prepara para declarar ante el Congreso.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Volcamiento de tractocamión mantiene cerrada la vía Bucaramanga - Rionegro",
+  "enlace": "https://caracol.com.co/2026/11/15/volcamiento-de-tractocamion-mantiene-cerrada-la-via-bucaramanga-rionegro/",
+  "fecha": "2026-11-15T14:13:39-05:00",
+  "palabras": "",
+  "lead": "El accidente ocurrió en el sector de la curva El Cero y mantiene bloqueados ambos sentidos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Segunda Brigada del Ejército refuerza la seguridad vial durante el fin de semana",
+  "enlace": "https://caracol.com.co/2026/11/15/segunda-brigada-del-ejercito-refuerza-la-seguridad-vial-durante-el-fin-de-semana/",
+  "fecha": "2026-11-15T14:11:11-05:00",
+  "palabras": "",
+  "lead": "Esta jornada de fortalecimiento a la seguridad contara con más de 750 efectivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nueve jóvenes escaparon del CAE Buen Pastor en Cali utilizando los techos",
+  "enlace": "https://caracol.com.co/2026/11/15/nueve-jovenes-escaparon-del-cae-buen-pastor-en-cali-utilizando-los-techos/",
+  "fecha": "2026-11-15T14:08:59-05:00",
+  "palabras": "",
+  "lead": "La Personería de Cali insistió en la necesidad de localizar a los nueve jóvenes y adoptar correctivos para evitar nuevas fugas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ronaldinho regresó del retiro y jugó partido oficial a sus 46 años: detalles del momento histórico",
+  "enlace": "https://caracol.com.co/2026/11/15/ronaldinho-regreso-del-retiro-y-jugo-partido-oficial-a-sus-46-anos-detalles-del-momento-historico/",
+  "fecha": "2026-11-15T13:23:52-05:00",
+  "palabras": "",
+  "lead": "El astro brasileño regresó al fútbol profesional tras más de once años fuera de las canchas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Otra mujer fue asesinada en el Atlántico: ascienden a 77 las mujeres asesinadas durante 2026",
+  "enlace": "https://caracol.com.co/2026/11/15/otra-mujer-fue-asesinada-en-el-atlantico-ascienden-a-77-las-mujeres-asesinadas-durante-2026/",
+  "fecha": "2026-11-15T14:01:19-05:00",
+  "palabras": "",
+  "lead": "Las autoridades investigan si el crimen estaría relacionado con disputas internas de la estructura criminal Los Pachenca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué está en juego en la COP31 de cambio climático?",
+  "enlace": "https://caracol.com.co/2026/11/15/que-esta-en-juego-en-la-cop31-de-cambio-climatico/",
+  "fecha": "2026-11-15T13:53:27-05:00",
+  "palabras": "",
+  "lead": "La financiación para la adaptación es el reto de Colombia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cómo prevenir el atropellamiento de fauna silvestre",
+  "enlace": "https://caracol.com.co/2026/11/15/como-prevenir-el-atropellamiento-de-fauna-silvestre/",
+  "fecha": "2026-11-15T13:54:09-05:00",
+  "palabras": "",
+  "lead": "Una mirada sobre los desafíos ecológicos que supone la expansión de la infraestructura en América Latina y el Caribe",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturaron a hombre por presunta estafa con alquiler de yates en Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/15/capturaron-a-hombre-por-presunta-estafa-con-alquiler-de-yates-en-cartagena/",
+  "fecha": "2026-11-15T13:31:44-05:00",
+  "palabras": "",
+  "lead": "El detenido habría recibido más de $12 millones mediante transferencias",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así opera el paso por el peaje de Pipiral tras atentado: ya hay movilidad hacia Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/15/asi-opera-el-paso-por-el-peaje-de-pipiral-tras-atentado-ya-hay-movilidad-hacia-bogota/",
+  "fecha": "2026-11-15T13:43:30-05:00",
+  "palabras": "",
+  "lead": "Coviandina confirmó la reapertura del paso en ambos sentidos, con el uso de 4 de 7 carriles con pagos electrónicos y en efectivo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maestros en Caldas exigen mejoras en sistema de salud y anuncian plantones la próxima semana",
+  "enlace": "https://caracol.com.co/2026/11/15/maestros-en-caldas-exigen-mejoras-en-sistema-de-salud-y-anuncian-plantones-la-proxima-semana/",
+  "fecha": "2026-11-15T13:41:08-05:00",
+  "palabras": "",
+  "lead": "Aseguran estar en defensa del fondo de prestaciones del magisterio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Acaban con la vida de Raúl Moreno en el corregimiento de Bayunca",
+  "enlace": "https://caracol.com.co/2026/11/15/acaban-con-la-vida-de-raul-moreno-en-el-corregimiento-de-bayunca/",
+  "fecha": "2026-11-15T13:37:10-05:00",
+  "palabras": "",
+  "lead": "La víctima fue atacada por dos hombres que se movilizaban en una motocicleta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atentado en peaje de Pipiral: gobernadora del Meta entrega balance en Caracol Radio",
+  "enlace": "https://caracol.com.co/2026/11/15/atentado-en-peaje-de-pipiral-gobernadora-del-meta-entrega-balance-en-caracol-radio/",
+  "fecha": "2026-11-15T13:22:01-05:00",
+  "palabras": "",
+  "lead": "En diálogo con Caracol Radio, la gobernadora del Meta, Rafaela Cortés, confirmó que no hubo heridos tras el carro bomba en el peaje de Pipiral y ofreció $30 millones de recompensa.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Francia interceptó un semisumergible con varias toneladas de cocaína en el Atlántico",
+  "enlace": "https://caracol.com.co/2026/11/15/francia-intercepto-un-semisumergible-con-varias-toneladas-de-cocaina-en-el-atlantico/",
+  "fecha": "2026-11-15T13:25:39-05:00",
+  "palabras": "",
+  "lead": "Durante el operativo, uno de los tripulantes provocó el hundimiento de la embarcación, lo que impidió recuperar la mayor parte de la droga.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Durante los 100 días del Gobierno de Abelardo de la Espriella se han trasladado 2.568 reclusos",
+  "enlace": "https://caracol.com.co/2026/11/15/durante-los-100-dias-del-gobierno-de-abelardo-de-la-espriella-se-han-trasladado-2568-reclusos/",
+  "fecha": "2026-11-15T13:23:53-05:00",
+  "palabras": "",
+  "lead": "Entre los traslados más sonados se encuentran los de Daneidy Barrera Rojas; conocida como ‘Epa Colombia’, Margareth Chacón, Juan Guillermo Monsalve, Olmedo López y Sneyder Pinilla.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luz Estrada estrena ‘Mamá, ¿dónde están los buñuelos?’, una comedia sobre la Navidad colombiana",
+  "enlace": "https://caracol.com.co/2026/11/15/luz-estrada-estrena-mama-donde-estan-los-bunuelos-una-comedia-sobre-la-navidad-colombiana/",
+  "fecha": "2026-11-15T13:15:58-05:00",
+  "palabras": "",
+  "lead": "Con 17 personajes, música y humor, la actriz presenta una obra que retrata las tradiciones, los encuentros familiares y las situaciones propias de la Navidad colombiana. Se estrenará el 26 de noviembre en la Sala Astoria del Teatro Astor Plaza, en Bogotá.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ecopetrol evalúa un contrato a 10 años con PDVSA para importar gas natural desde Venezuela",
+  "enlace": "https://caracol.com.co/2026/11/15/ecopetrol-evalua-un-contrato-a-10-anos-con-pdvsa-para-importar-gas-natural-desde-venezuela/",
+  "fecha": "2026-11-15T13:16:14-05:00",
+  "palabras": "",
+  "lead": "La estatal petrolera busca solventar el déficit y blindar el suministro en Colombia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Newborn: la miniserie colombiana que lleva el cine al formato vertical y se estrena en Instagram",
+  "enlace": "https://caracol.com.co/2026/11/15/newborn-la-miniserie-colombiana-que-lleva-el-cine-al-formato-vertical-y-se-estrena-en-instagram/",
+  "fecha": "2026-11-15T13:09:37-05:00",
+  "palabras": "",
+  "lead": "La productora caleña RAYA ÁGUILA estrena Newborn, una miniserie de ficción de seis episodios grabada en Nueva York y realizada completamente en formato vertical. La producción recibió el premio Innovation in Vertical Storytelling en el ALZA Festival de Nueva York",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tres personas capturadas en Santa Marta por presunta extorsión",
+  "enlace": "https://caracol.com.co/2026/11/15/tres-personas-capturadas-en-santa-marta-por-presunta-extorsion/",
+  "fecha": "2026-11-15T13:06:03-05:00",
+  "palabras": "",
+  "lead": "Durante el operativo fueron incautados dos revólveres calibre .38 y una pistola calibre 9 milímetros, con sus respectivas municiones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cali llevará su oferta de aviturismo por primera vez al mercado chino",
+  "enlace": "https://caracol.com.co/2026/11/15/cali-llevara-su-oferta-de-aviturismo-por-primera-vez-al-mercado-chino/",
+  "fecha": "2026-11-15T13:03:10-05:00",
+  "palabras": "",
+  "lead": "La ciudad participará del 26 al 30 de noviembre en el Asian Bird Fair, donde presentará su biodiversidad y sus más de 560 especies de aves para atraer visitantes internacionales interesados en la observación y la fotografía de aves.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atentado terrorista con carro bomba en peaje Pipiral en la vía Bogotá - Villavicencio",
+  "enlace": "https://caracol.com.co/2026/11/15/atentado-terrorista-con-carro-bomba-en-peaje-pipiral-en-la-via-bogota-villavicencio/",
+  "fecha": "2026-11-15T12:48:07-05:00",
+  "palabras": "",
+  "lead": "En el hecho no se reportaron personas heridas, ni víctimas fatales, solo daños estructurales.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "100 días del Gobierno De La Espriella: nueve bombardeos y 73 muertos, entre ellos menores de edad",
+  "enlace": "https://caracol.com.co/2026/11/15/100-dias-del-gobierno-de-la-espriella-nueve-bombardeos-y-73-muertos-entre-ellos-menores-de-edad/",
+  "fecha": "2026-11-15T12:37:06-05:00",
+  "palabras": "",
+  "lead": "Las operaciones militares en el Gobierno De la Espriella se realizaron en Norte de Santander, Guaviare, Vichada, Cauca, Chocó y Antioquia.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ejército neutralizó un dron de la disidencia de las Farc en Norte de Santander",
+  "enlace": "https://caracol.com.co/2026/11/15/ejercito-neutralizo-un-dron-de-la-disidencia-de-las-farc-en-norte-de-santander/",
+  "fecha": "2026-11-15T12:40:26-05:00",
+  "palabras": "",
+  "lead": "El dispositivo de reconocimiento fue ubicado en la vereda Gajo Mayor, de Convención.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Liga BetPlay 2026-2: estos equipos llegarán a la final, según la IA",
+  "enlace": "https://www.lafm.com.co/deportes/liga-betplay-2026-finalistas-campeon-inteligencia-artificial-417288",
+  "fecha": "2026-11-15T13:58:00-05:00",
+  "palabras": "Deportes,Liga BetPlay,Inteligencia artificial,Predicciones,Atlético Nacional,América de Cali,Independiente Santa Fe,Atlético Bucaramanga,Millonarios",
+  "lead": "Los cuadrangulares semifinales de la Liga Betplay empezarán el próximo 20 de noviembre. En este segundo semestre habrá nuevo campeón.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Marina francesa intercepta semisumergible en el Atlántico; recuperaron 146 kilos de cocaína tras hundimiento de la nave",
+  "enlace": "https://www.lafm.com.co/internacional/marina-francesa-interceptacion-nave-tripulantes-cocaina-hundimiento-417294",
+  "fecha": "2026-11-15T13:50:00-05:00",
+  "palabras": "Internacional,Interceptaciones,Atlántico,Lancha",
+  "lead": "La operación se llevó a cabo en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Boletería final Copa Sudamericana: Conmebol cambia condiciones y tribunas",
+  "enlace": "https://www.lafm.com.co/deportes/comebol-cambia-condiciones-boleteria-final-copa-sudamericana-417293",
+  "fecha": "2026-11-15T13:40:00-05:00",
+  "palabras": "Deportes,Estadio Metropolitano,Barranquilla,Copa Sudamericana,Boca Juniors,Copa Conmebol Sudamericana,Recopa Sudamericana,Copa Libertadores,Eventos deportivos",
+  "lead": "El ente organizador del partido entre Boca Juniors y Atlético Mineiro cambió la ubicación de algunas tribunas y puso en venta un último remanente de entrad...",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cien días gobierno Abelardo de la Espriella: balance de seguridad por MinDefensa",
+  "enlace": "https://www.lafm.com.co/orden-publico/cien-dias-abelardo-dela-espriella-balance-mindefensa-seguridad-colombia-417291",
+  "fecha": "2026-11-15T13:36:00-05:00",
+  "palabras": "Orden Público,Ministerio de Defensa,Abelardo de la Espriella,Fuerzas Militares,Ejército Nacional,Fuerza Aérea Colombiana,Armada Nacional,Policía Nacional,Narcotráfico,drogas,Estados Unidos",
+  "lead": "El jefe de la cartera de Defensa destacó que las tropas intensificaron las operaciones militares y propinaron duros golpes a los grupos criminales.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Periodista revela en qué se parecen León XIV y Francisco",
+  "enlace": "https://www.lafm.com.co/internacional/leon-xiv-y-francisco-periodista-revela-sus-semejanzas-417287",
+  "fecha": "2026-11-15T13:06:00-05:00",
+  "palabras": "Internacional,Papa León XIV,Papa Francisco,Vaticano,Líderes religiosos,Liberación",
+  "lead": "El periodista peruano Santiago Roncagliolo, habló sobre la personalidad de León XIV y las razones que explican su ascenso.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "VIDEO | Minutos de terror en la vía al Llano: así fue el atentado con carro bomba en el peaje de Pipiral",
+  "enlace": "https://www.lafm.com.co/orden-publico/video-atentado-carro-bomba-via-al-llano-peaje-pipiral-417290",
+  "fecha": "2026-11-15T12:15:00-05:00",
+  "palabras": "Orden Público,atentado,Terrorismo,ataque explosivo,Actos terroristas,Terrorismo nacional,Coviandes,Cierres viales,Peajes de la Vía al Llano",
+  "lead": "Nuevos detalles y registros de cámaras de seguridad sacan a la luz la precisión milimétrica con la que operaron los responsables de un atentado terrorista ...",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Críticas contra juez por reprobar careo a \"Primo Gay\"",
+  "enlace": "https://www.lafm.com.co/orden-publico/abelardo-de-la-espriella-primo-gay-juez-captura-legalizacion-417270",
+  "fecha": "2026-11-15T08:13:00-05:00",
+  "palabras": "Orden Público,Antioquia,Clan del Golfo,juez,disidencias,Ejército Nacional,Fiscalía General de la Nación",
+  "lead": "Insólito: juez compulsó copias para investigar al presidente De La Espriella por \"exponer\" a alias \"Primo Gay\"",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
