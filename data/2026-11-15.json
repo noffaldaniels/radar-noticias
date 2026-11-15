@@ -1362,5 +1362,93 @@
   "seccion": "politica",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Todavía está en campaña? Politólogo entrega balance de los primeros 100 días de De La Espriella",
+  "enlace": "https://www.bluradio.com/politica/todavia-esta-en-campana-politologo-entrega-balance-de-los-primeros-100-dias-de-de-la-espriella-so35",
+  "fecha": "2026-11-15T12:36:56-05:00",
+  "palabras": "Abelardo De La Espriella, Gobierno nacional",
+  "lead": "El politólogo Yann Basset analizó el estilo del mandatario y los pendientes en economía, seguridad, salud y relación con el Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "100 días del Gobierno De la Espriella: 9 bombardeos y 73 muertos, entre ellos menores de edad",
+  "enlace": "https://caracol.com.co/2026/11/15/100-dias-del-gobierno-de-la-espriella-9-bombardeos-y-73-muertos-entre-ellos-menores-de-edad/",
+  "fecha": "2026-11-15T12:37:06-05:00",
+  "palabras": "",
+  "lead": "Últimas noticias de Colombia y el mundo, análisis, deportes, fútbol colombiano, economía y entretenimiento. Escuche Caracol Radio en vivo y manténgase informado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernación del Magdalena y MinAgricultura avanzan en propuestas para fortalecer al sector bananero",
+  "enlace": "https://caracol.com.co/2026/11/15/gobernacion-del-magdalena-y-minagricultura-avanzan-en-propuestas-para-fortalecer-al-sector-bananero/",
+  "fecha": "2026-11-15T12:36:21-05:00",
+  "palabras": "",
+  "lead": "Por parte el Ministerio de Agricultura y el gremio trabajarán articuladamente con la Agencia de Desarrollo Rural (ADR) para impulsar la modernización de los distritos de riego.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente Abelardo de la Espriella habló con Lucas Murillo sobre su recuperación",
+  "enlace": "https://caracol.com.co/2026/11/15/presidente-abelardo-de-la-espriella-hablo-con-lucas-murillo-sobre-su-recuperacion/",
+  "fecha": "2026-11-15T12:25:29-05:00",
+  "palabras": "",
+  "lead": "El mandatario sostuvo una videollamada con el niño cucuteño.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incendio en centro de traslado por protección de Tunja se habría originado durante una protesta",
+  "enlace": "https://caracol.com.co/2026/11/15/incendio-en-centro-de-traslado-por-proteccion-de-tunja-se-habria-originado-durante-una-protesta/",
+  "fecha": "2026-11-15T12:18:00-05:00",
+  "palabras": "",
+  "lead": "Personero de Tunja advierte que ya se han registrado dos intentos de incendiar una celda por parte de personas retenidas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nuevo ataque con drones destruye viviendas en zona rural de El Tarra, Norte de Santander",
+  "enlace": "https://caracol.com.co/2026/11/15/nuevo-ataque-con-drones-destruye-viviendas-en-zona-rural-de-el-tarra-norte-de-santander/",
+  "fecha": "2026-11-15T12:17:36-05:00",
+  "palabras": "",
+  "lead": "En menos de una semana se han registrado cuatro ataques en el mismo punto.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "UNIMAGDALENA aclara el reconocimiento de créditos a presidente de Coljuegos",
+  "enlace": "https://caracol.com.co/2026/11/15/unimagdalena-aclara-el-reconocimiento-de-creditos-a-presidente-de-coljuegos/",
+  "fecha": "2026-11-15T12:17:27-05:00",
+  "palabras": "",
+  "lead": "En el caso consultado, la Coordinación Académica examinó las funciones y responsabilidades profesionales documentadas, certificaciones laborales, soportes de formación y documentación complementaria.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "‘Irreparable’, la película de Klych López, competirá en el Tallinn Black Nights Festival",
+  "enlace": "https://caracol.com.co/2026/11/15/irreparable-la-pelicula-de-klych-lopez-competira-en-el-tallinn-black-nights-festival/",
+  "fecha": "2026-11-15T12:17:21-05:00",
+  "palabras": "",
+  "lead": "La producción colombiana fue seleccionada para la competencia oficial Rebels with a Cause, una categoría que reúne largometrajes que exploran nuevas formas de narración y propuestas cinematográficas no convencionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
  }
 ]
