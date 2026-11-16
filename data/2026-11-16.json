@@ -2031,7 +2031,7 @@
   "palabras": "Brasil, Cárceles, Viral",
   "lead": "El último interno que saltó las barricadas del penal fue recapturado en las inmediaciones del complejo penitenciario. Los otros dos continuaban prófugos.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "",
   "lead": "El ecosistema de los activos digitales intenta recuperar el aliento tras un fin de semana marcado por fuertes turbulencias financieras. Luego de descender hasta los US$62.022 el domingo, este lunes 16 de noviembre el Bitcoin opera alrededor de los US$64.580 (equivalentes a unos $213,3 millones de pesos colombianos), reflejando una ligera variación negativa del 0,32% frente al cierre previo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "",
   "lead": "Yamit Hurtado y Héctor Chaparro respaldaron el retiro de la propuesta, mientras José Luis Bohórquez cuestionó el anuncio presidencial.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,6 +2064,72 @@
   "palabras": "Entretenimiento,Premios Grammy,Grammy Latinos,Nominaciones,Karol G,Shakira,Juanes,Carlos Vives,Rauw Alejandro,cantantes de reguetón,reguetoneros",
   "lead": "La votación de los miembros de la Academia ya está en marcha.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chile vs. Colombia sufre cambio de última hora luego de concierto de BTS",
+  "enlace": "https://www.bluradio.com/deportes/futbol/chile-vs-colombia-sufre-cambio-de-ultima-hora-luego-de-concierto-de-bts-cb20",
+  "fecha": "2026-11-16T15:41:26-05:00",
+  "palabras": "Selección Chile, Selección Colombia, Partido amistoso, Chile vs. Colombia, cuándo juega colombia, estadio chile, partido colombia, selección colombia",
+  "lead": "La roja será local en el estadio capitalino que pertenece al actual campeón de la liga chilena, Colo Colo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Esposado y con chaleco antibalas, expresidente de Paraguay Santiago Peña es ingresado a una cárcel",
+  "enlace": "https://www.bluradio.com/mundo/esposado-y-con-chaleco-antibalas-expresidente-de-paraguay-santiago-pena-es-ingresado-a-una-carcel-cb20",
+  "fecha": "2026-11-16T16:01:57-05:00",
+  "palabras": "Paraguay",
+  "lead": "Imágenes de la televisión local mostraron a Peña entrando en la instalación castrense poco después de las 15:00 hora local. Estaba vestido con una camisa blanca y un pantalón azul, un atuendo que solía llevar en sus jornadas de trabajo cuando ejercía la Presidencia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Air-e anuncia cortes de energía en Barranquilla y varios municipios del Atlántico este martes",
+  "enlace": "https://caracol.com.co/2026/11/16/programese-air-e-realizara-trabajos-electricos-en-dos-sectores-este-martes/",
+  "fecha": "2026-11-16T15:48:00-05:00",
+  "palabras": "",
+  "lead": "En Barranquilla, los trabajos se concentrarán en el barrio La Luz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Imágenes del incendio en el Gran San: así quedaron los locales",
+  "enlace": "https://www.lafm.com.co/actualidad/gran-san-incendio-16-de-noviembre-locales-afectados-imagenes-417357",
+  "fecha": "2026-11-16T15:52:00-05:00",
+  "palabras": "Actualidad,Incendio,Bogotá,Cuerpo de Bomberos,Bomberos",
+  "lead": "Bomberos de Bogotá controlaron las llamas y descartaron personas lesionadas. Las autoridades adelantan las investigaciones para establecer qué originó la c...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Incendio en el Gran San: al menos10 locales reportan pérdida total",
+  "enlace": "https://www.lafm.com.co/actualidad/incendio-gran-san-centro-bogota-10-locales-perdida-total-417355",
+  "fecha": "2026-11-16T15:15:00-05:00",
+  "palabras": "Actualidad,Bogotá,Incendio,Alcaldía de Bogotá",
+  "lead": "Incendio en el Gran San, centro de Bogotá, deja 10 locales en pérdida total y 12 con graves afectaciones. Autoridades permanecen en el lugar y la zona está...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Abelardo De la Espriella promete la libertad de Nancy Gómez",
+  "enlace": "https://www.lafm.com.co/actualidad/abelardo-dela-espriella-pronuncia-secuestro-nancy-gomez-uribia-417353",
+  "fecha": "2026-11-16T14:57:00-05:00",
+  "palabras": "Actualidad,La Guajira,Secuestros,Abelardo de la Espriella,Gaula militar,Libertad,Venezuela",
+  "lead": "Abelardo de la Espriella habló sobre el secuestro de Nancy Gómez. Autoridades mantienen operativos y ofrecen $300 millones de recompensa.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
