@@ -2075,7 +2075,7 @@
   "palabras": "Selección Chile, Selección Colombia, Partido amistoso, Chile vs. Colombia, cuándo juega colombia, estadio chile, partido colombia, selección colombia",
   "lead": "La roja será local en el estadio capitalino que pertenece al actual campeón de la liga chilena, Colo Colo.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "Paraguay",
   "lead": "Imágenes de la televisión local mostraron a Peña entrando en la instalación castrense poco después de las 15:00 hora local. Estaba vestido con una camisa blanca y un pantalón azul, un atuendo que solía llevar en sus jornadas de trabajo cuando ejercía la Presidencia.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "",
   "lead": "En Barranquilla, los trabajos se concentrarán en el barrio La Luz.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "Actualidad,Incendio,Bogotá,Cuerpo de Bomberos,Bomberos",
   "lead": "Bomberos de Bogotá controlaron las llamas y descartaron personas lesionadas. Las autoridades adelantan las investigaciones para establecer qué originó la c...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "Actualidad,Bogotá,Incendio,Alcaldía de Bogotá",
   "lead": "Incendio en el Gran San, centro de Bogotá, deja 10 locales en pérdida total y 12 con graves afectaciones. Autoridades permanecen en el lugar y la zona está...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2129,6 +2129,325 @@
   "fecha": "2026-11-16T14:57:00-05:00",
   "palabras": "Actualidad,La Guajira,Secuestros,Abelardo de la Espriella,Gaula militar,Libertad,Venezuela",
   "lead": "Abelardo de la Espriella habló sobre el secuestro de Nancy Gómez. Autoridades mantienen operativos y ofrecen $300 millones de recompensa.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo de hoy lunes 16 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-de-hoy-lunes-16-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-16T17:18:08-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
+  "lead": "El chance Paisita Noche realiza sorteos todos los días después de las 6:00 de la tarde. Consulte aquí el resultado de este lunes 16 de noviembre de 2026, las cifras ganadoras y las opciones disponibles para participar en este popular juego de azar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "El futuro de ETB: 16 de noviembre de 2026 - Blu 4.0, programa completo",
+  "enlace": "https://www.bluradio.com/blu-4-0/el-futuro-de-etb-16-de-noviembre-de-2026-blu-4-0-programa-completo-pr30",
+  "fecha": "2026-11-16T16:17:01-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gira del papa León XIV: los 10 momentos que marcaron su viaje a Uruguay, Argentina y Perú",
+  "enlace": "https://www.bluradio.com/mundo/termino-la-gira-del-papa-los-10-momentos-que-marcaron-su-viaje-a-uruguay-argentina-y-peru-cb20",
+  "fecha": "2026-11-16T16:32:56-05:00",
+  "palabras": "Papa León XIV, Argentina, Uruguay, Perú, Iglesia católica, papa, papa León",
+  "lead": "Cerca de cuarenta discursos y varios momentos quedaron para recordar en los feligreses de la Iglesia Católica.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Más de una tonelada de marihuana que iba hacia Brasil fue incautada por el Ejército en Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/mas-de-una-tonelada-de-marihuana-que-iba-hacia-brasil-fue-incautada-por-el-ejercito-en-cauca-rg10",
+  "fecha": "2026-11-16T16:31:09-05:00",
+  "palabras": "Marihuana, Cauca",
+  "lead": "Se evitó la comercialización de más de 52.000 dosis de marihuana en mercados ilegales de Brasil, tras incautar 1.041 kilogramos de esta droga en zona rural de Popayán.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alemania 5-0 Países Bajos y clasifica a cuartos de la Liga de Naciones - BluRadio",
+  "enlace": "https://www.bluradio.com/deportes/futbol/alemania-golea-a-paises-bajos-y-clasifica-a-cuartos-de-la-liga-de-naciones-cb20",
+  "fecha": "2026-11-16T16:54:24-05:00",
+  "palabras": "Alemania, Países Bajos, Liga de Naciones, Alemania, Alemania vs Países Bajos, Jurgen Kloop, Liga de naciones, Xavi Hernández, alemania vs",
+  "lead": "Aunque el primer tiempo terminó 1-0, en la segunda mitad llegó la lluvia de goles y el knockout para los dirigidos por Xavi Hernández.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video: debate político en Armenia terminó a los golpes en plena transmisión de televisión",
+  "enlace": "https://www.bluradio.com/mundo/video-debate-politico-en-armenia-termino-a-los-golpes-en-plena-transmision-de-television-so35",
+  "fecha": "2026-11-16T17:10:12-05:00",
+  "palabras": "Viral, Europa",
+  "lead": "Los involucrados protagonizaron un enfrentamiento a golpes durante un programa de la televisión pública de Armenia, luego de una acalorada discusión.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Incendio en edificio residencial acabó con la vida de 11 personas en Tailandia",
+  "enlace": "https://www.bluradio.com/mundo/voraz-incendio-en-edificio-residencial-acabo-con-la-vida-de-11-personas-cb20",
+  "fecha": "2026-11-16T17:09:55-05:00",
+  "palabras": "Tailandia, Incendio, Incendio, tailandia, video de Incendio",
+  "lead": "Las autoridades señalaron además que en el primer piso estaban parqueadas unas 100 motocicletas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Crepúsculo predijo a Robert Pattinson como James Bond en agente 007",
+  "enlace": "https://www.bluradio.com/entretenimiento/la-escena-premonitoria-de-robert-pattinson-en-crepusculo-sobre-007-su-nuevo-papel-protagonico-rs15",
+  "fecha": "2026-11-16T17:57:13-05:00",
+  "palabras": "Cine, Viral, 007, Pattinson, agente 007, crepúsculo, nuevo james bond",
+  "lead": "Casi 20 años después, los fanáticos de Pattinson conectaron esta escena con su nuevo papel.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Juez anula reforma de Trump que endurece visas a periodistas y estudiantes extranjeros",
+  "enlace": "https://www.bluradio.com/mundo/juez-anula-reforma-de-trump-que-endurece-visas-a-periodistas-y-estudiantes-extranjeros-cb20",
+  "fecha": "2026-11-16T17:50:58-05:00",
+  "palabras": "Estados Unidos, Visa americana, Donald Trump",
+  "lead": "El mismo juez ya había suspendido cautelarmente la aplicación de la norma en septiembre, al considerar \"excepcionalmente débil\" la justificación de Donald Trump.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan a dos hombres que habrían amarrado y golpeado a un adulto mayor para robarlo en Bosa",
+  "enlace": "https://caracol.com.co/2026/11/16/capturan-a-dos-hombres-que-habrian-amarrado-y-golpeado-a-un-adulto-mayor-para-robarlo-en-bosa/",
+  "fecha": "2026-11-16T17:50:44-05:00",
+  "palabras": "",
+  "lead": "Los presuntos ladrones intentaron huir por los techos del barrio Piamonte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presidente Abelardo de la Espriella inauguró oficialmente la ‘Milagro Week’ en Nueva York",
+  "enlace": "https://caracol.com.co/2026/11/16/presidente-abelardo-de-la-espriella-inauguro-oficialmente-la-milagro-week-en-nueva-york/",
+  "fecha": "2026-11-16T17:45:03-05:00",
+  "palabras": "",
+  "lead": "Abelardo de la Espriella inauguró oficialmente la ‘Milagro Week’ con un mensaje virtual en el que invitó a empresarios e inversionistas extranjeros a llegar a Colombia. El vicepresidente y el ministro de Comercio se encuentran en Nueva York.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sector empresarial del Valle respalda que no se imponga IVA a la canasta familiar en Colombia",
+  "enlace": "https://caracol.com.co/2026/11/16/sector-empresarial-del-valle-respalda-que-no-se-imponga-iva-a-la-canasta-familiar-en-colombia/",
+  "fecha": "2026-11-16T17:42:47-05:00",
+  "palabras": "",
+  "lead": "El gremio también destacó la importancia de avanzar en la estabilidad fiscal del país y respaldó las medidas orientadas a reducir el gasto público.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Incendio en San Victorino dejó 10 locales en pérdida total y otros 12 con daños parciales en Bogotá",
+  "enlace": "https://caracol.com.co/2026/11/16/incendio-en-san-victorino-dejo-10-locales-en-perdida-total-y-otros-12-con-danos-parciales-en-bogota/",
+  "fecha": "2026-11-16T17:11:19-05:00",
+  "palabras": "",
+  "lead": "La conflagración inició a las 1:21 de la madrugada del lunes 16 de noviembre y fue atendida por 29 uniformados del Cuerpo Oficial de Bomberos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan sin vida dentro de su vivienda a una mujer de 59 años en Valle de San José, Santander",
+  "enlace": "https://caracol.com.co/2026/11/16/hallan-sin-vida-dentro-de-su-vivienda-a-una-mujer-de-59-anos-en-valle-de-san-jose-santander/",
+  "fecha": "2026-11-16T17:30:00-05:00",
+  "palabras": "",
+  "lead": "La víctima fue identificada como Martha Cecilia Lozano. La Policía adelanta las investigaciones para esclarecer las circunstancias de su muerte.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Petro responde a Noboa, quien lo señaló de reunirse con políticos requeridos por narcotráfico",
+  "enlace": "https://caracol.com.co/2026/11/16/petro-responde-a-noboa-quien-lo-senalo-de-reunirse-con-politicos-requeridos-por-narcotrafico/",
+  "fecha": "2026-11-16T17:05:10-05:00",
+  "palabras": "",
+  "lead": "Noboa había asegurado que el expresidente Petro se reunió en 2025 con Jaime Estrada Bonilla y su hijo, políticos ecuatorianos detenidos hace unos días en Panamá para ser extraditados a Estados Unidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El MinTIC activa el equipo CazaRed para frenar el reclutamiento de menores en redes sociales",
+  "enlace": "https://caracol.com.co/2026/11/16/el-mintic-activa-el-equipo-cazared-para-frenar-el-reclutamiento-de-menores-en-redes-sociales/",
+  "fecha": "2026-11-16T17:17:08-05:00",
+  "palabras": "",
+  "lead": "La célula fue diseñada para disminuir la violencia digital, proteger a los niños y detener el contacto con grupos armados.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Unidad Búsqueda anuncia III fase de intervención en Cementerio Jardines de la Esperanza en Montería",
+  "enlace": "https://caracol.com.co/2026/11/16/unidad-busqueda-anuncia-iii-fase-de-intervencion-en-cementerio-jardines-de-la-esperanza-en-monteria/",
+  "fecha": "2026-11-16T17:15:21-05:00",
+  "palabras": "",
+  "lead": "En este camposanto se han logrado recuperar 28 cuerpos que podrían corresponder a personas reportadas como desaparecidas en el marco del conflicto armado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Catatumbo completa 22 meses de conflicto armado",
+  "enlace": "https://caracol.com.co/2026/11/16/el-catatumbo-completa-22-meses-de-conflicto-armado/",
+  "fecha": "2026-11-16T17:12:03-05:00",
+  "palabras": "",
+  "lead": "Los ataques con drones y las afectaciones a civiles persisten.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nicolás Córdova analizó el duelo ante Colombia: “Jugamos con un gran equipo”",
+  "enlace": "https://caracol.com.co/2026/11/16/nicolas-cordova-analizo-el-duelo-ante-colombia-jugamos-con-un-gran-equipo/",
+  "fecha": "2026-11-16T17:03:20-05:00",
+  "palabras": "",
+  "lead": "El entrenador de Chile habló sobre los ajustes que espera para el segundo amistoso y se refirió a la posibilidad de que sea su último partido al frente de la selección.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Indignación en Ibagué por agresión de motociclista ebrio a un agente de tránsito",
+  "enlace": "https://caracol.com.co/2026/11/16/indignacion-en-ibague-por-agresion-de-motociclista-ebrio-a-un-agente-de-transito/",
+  "fecha": "2026-11-16T16:37:25-05:00",
+  "palabras": "",
+  "lead": "El motociclista registró grado tres de alcoholemia y posteriormente fue capturado por el delito de violencia contra servidor público.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lorenzo: “Se inicia un recambio generacional que es necesario”",
+  "enlace": "https://caracol.com.co/2026/11/16/lorenzo-se-inicia-un-recambio-generacional-que-es-necesario/",
+  "fecha": "2026-11-16T16:29:28-05:00",
+  "palabras": "",
+  "lead": "El técnico de la Selección Colombia y los jugadores Luis Javier Suárez y Matías Orozco hablaron en rueda de prensa antes del segundo amistoso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se conocen detalles del accidente de tránsito en el que murió un motociclista en Floridablanca",
+  "enlace": "https://caracol.com.co/2026/11/16/se-conocen-detalles-del-accidente-de-transito-en-el-que-murio-un-motociclista-en-floridablanca/",
+  "fecha": "2026-11-16T16:10:00-05:00",
+  "palabras": "",
+  "lead": "El conductor del vehículo particular involucrado en el choque fue sometido a una prueba de embriaguez. Las autoridades recopilan videos y testimonios para establecer las circunstancias del siniestro.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 65.000 vehículos se movilizaron por Bolívar durante el puente festivo",
+  "enlace": "https://caracol.com.co/2026/11/16/mas-de-65000-vehiculos-se-movilizaron-por-bolivar-durante-el-puente-festivo/",
+  "fecha": "2026-11-16T16:01:26-05:00",
+  "palabras": "",
+  "lead": "La Policía desplegó 113 uniformados para el Plan Retorno",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "United Airlines reporta caída generalizada de sus sistemas y afecta vuelos en Estados Unidos",
+  "enlace": "https://www.lafm.com.co/internacional/united-airlines-estados-unidos-falla-tecnologica-vuelos-aeropuertos-417363",
+  "fecha": "2026-11-16T17:30:00-05:00",
+  "palabras": "Internacional,aeropuerto,Estados Unidos,Fallas en sistema",
+  "lead": "United Airlines sufrió el 16 de noviembre una interrupción en sus sistemas que afectó salidas en varios aeropuertos.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Santiago Peña ingresó esposado a cárcel militar en Paraguay: estos son sus privilegios y condiciones de reclusión",
+  "enlace": "https://www.lafm.com.co/internacional/santiago-pena-paraguay-vinas-cue-ueno-bank-prision-preventiva-417362",
+  "fecha": "2026-11-16T16:47:00-05:00",
+  "palabras": "Internacional,Paraguay,Cárcel",
+  "lead": "Santiago Peña ingresó a la cárcel militar Viñas Cue por Ueno Bank; así es su celda, horarios de esparcimiento y visitas.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Trump, Jinping y Putin: reunión en China por la paz mundial",
+  "enlace": "https://www.lafm.com.co/internacional/xi-jinping-vladimir-putin-donald-trump-reunion-paz-mundial-417361",
+  "fecha": "2026-11-16T16:42:00-05:00",
+  "palabras": "Internacional,Donald Trump,Xi Jinping,Vladimir Putin",
+  "lead": "Los tres mandatarios se reúnen este jueves en Shenzhen (APEC) para hablar de paz y estabilidad. Además, Trump evalúa un encuentro con Kim.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Chile vs. Colombia: horario, canal de TV y formaciones este martes",
+  "enlace": "https://www.lafm.com.co/deportes/chile-colombia-partido-amistoso-horario-canal-formaciones-417359",
+  "fecha": "2026-11-16T16:24:00-05:00",
+  "palabras": "Deportes,Selección Colombia,Selección Chile,Partido amistoso,Estadio Pascual Guerrero,Colo Colo,Eliminatorias Sudamericanas,Canal RCN,Partidos hoy",
+  "lead": "El equipo de Néstor Lorenzo cierra el año con otro enfrentamiento ante los australes, probando nuevos jugadores en la plantilla.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Asesinan en Buga al hijo de un árbitro de microfútbol",
+  "enlace": "https://www.lafm.com.co/actualidad/asesinan-joven-de-quince-hijo-de-reconocido-arbitro-microfutbol-buga-417358",
+  "fecha": "2026-11-16T15:50:00-05:00",
+  "palabras": "Actualidad,Muere menor de edad,Buga,Valle del Cauca,Asesinato",
+  "lead": "Maicol Samuel Aguado, de 15 años, hijo de arbitro reconocido \"Lulo\", murió en un ataque armado en el que también falleció otro joven.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ataques terroristas dejarían graves consecuencias económicas",
+  "enlace": "https://www.lafm.com.co/orden-publico/duro-cuestionamiento-gobernador-huila-417356",
+  "fecha": "2026-11-16T15:27:00-05:00",
+  "palabras": "Orden Público,Huila,ataque explosivo,Pérdidas económicas,Gobierno",
+  "lead": "Gobernador del Huila cuestionó a gobiernos anteriores por debilitar la Fuerza Pública y advierte graves consecuencias económicas tras ataques.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
