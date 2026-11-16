@@ -1899,7 +1899,7 @@
   "palabras": "Caribeña día, Chances y Loterías, Resultados del chance",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 4:00 p. m. Consulte aquí el número ganador del último sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "Campesinos , Tecnología",
   "lead": "La iniciativa busca reducir al menos un 15 % los gastos en insumos mediante asesoría técnica y herramientas digitales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "atentado terrorista, Peajes, Villavicencio, Bogotá",
   "lead": "Las cámaras de seguridad registraron cómo dos sujetos llegaron al lugar en un automóvil y una motocicleta antes de abandonar el vehículo que minutos después explotó.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,7 +1932,7 @@
   "palabras": "Gustavo Petro, Investigación, Paramilitarismo, Álvaro Uribe Vélez",
   "lead": "Tres investigaciones relacionadas con su campaña, una reunión en Valledupar y la divulgación de información médica están bajo revisión de congresistas de oposición.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1943,7 +1943,7 @@
   "palabras": "ELN, Secuestro, Ejército Nacional",
   "lead": "La subteniente del Ejército lleva 11 días en poder de ese grupo armado en Arauca y sus compañeros de curso le escribieron una carta al papa León XIV.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,7 +1954,7 @@
   "palabras": "Tecnología, Programas completos, Podcast",
   "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "Coliseo MedPlus, Calle 80, Movilidad",
   "lead": "Tras las congestiones del viernes y sábado en la calle 80, los Bomberos de Cundinamarca pidieron a las autoridades de Bogotá y Cota implementar medidas urgentes para evitar que los trancones impidan la atención de emergencias.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "Salud mental",
   "lead": "Álvaro Franco Zuluaga, médico psiquiatra especialista en niños y jóvenes, explicó en Sala de Prensa Blu cómo este fenómeno puede generar sentimientos de inferioridad, angustia y tristeza.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "Educación, Ministerio de Educación, Colegios distritales, Colegios privados",
   "lead": "Francisco Cajiao cuestionó la posibilidad de disminuir los recursos para educación por la caída de los nacimientos en Colombia. Advirtió que casi un millón de niños han salido del sistema y que el país necesita más inversión.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Coljuegos, Abelardo De La Espriella",
   "lead": "A través de una publicación en X, el presidente Abelardo De La Espriella ordenó la salida del director de Coljuegos por inconsistencias en el título de su posgrado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "",
   "lead": "El caso reveló que los especialistas ocultaron información relevante sobre pruebas previas con animales y recibieron dinero y regalos de la familia de la menor.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "Neiva, atentado terrorista",
   "lead": "Dos cilindros con aproximadamente 180 kilos de explosivos fueron encontrados en el vehículo abandonado durante la madrugada de este domingo en el peaje Los Cauchos, en la vía Neiva-Rivera.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "Ministerio de Vivienda, Terremoto hoy, Cali, Chocó, Pereira",
   "lead": "MinVivienda, Fonvivienda y el Fondo Milagro tienen prevista una inversión de 1,8 billones, en la que se contempla la construcción de vivienda rural, reparaciones y la gestión de vivienda mediante donaciones.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "Abelardo De La Espriella, Gustavo Petro, Política, Presidencia de la República",
   "lead": "La analista y profesora de Los Andes, examinó los primeros 100 días del Gobierno de Abelardo de la Espriella, las tensiones con el Congreso, cambios ministeriales y Gustavo Petro en el panorama político.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "Donald Trump, Estados Unidos",
   "lead": "En su primera alusión pública al tema, Trump culpó este domingo al anterior Gobierno del demócrata Joe Biden y lo calificó de \"desastre\" para la aviación estadounidense.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
   "lead": "El chance Paisita Noche realiza sus sorteos todos los días. Los apostadores pueden consultar aquí el resultado de este domingo 15 de noviembre de 2026, las cifras ganadoras y las opciones disponibles para participar en este popular juego de azar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "México, Narcotráfico",
   "lead": "Conocido como ‘el jefe de jefes’, cumplía condena desde 1989 por narcotráfico y por el asesinato del agente de la DEA Enrique Camarena en 1985.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "Clan del Golfo, Minería Ilegal, Ejército Nacional",
   "lead": "La operación se realizó en la vereda Parque Sumapaz, donde las autoridades encontraron dragas y maquinaria.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "",
   "lead": "Este lunes y martes se definirán los últimos tres clasificados a cuartos de final del torneo.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "",
   "lead": "Explica que los requerimientos de la población son diferentes en las capitales impactadas por el terremoto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "",
   "lead": "Air-e Intervenida anunció interrupciones programadas del servicio de energía por obras complementarias del proyecto de canalización del arroyo de la calle 85.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,7 +2130,7 @@
   "palabras": "",
   "lead": "Miguel Enrique Vargas Palomino, de 46 años, murió tras resultar herido con arma blanca",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2141,7 +2141,7 @@
   "palabras": "",
   "lead": "Entre los coordinadores que liderarán el estudio del proyecto en la Comisión Tercera del Senado, están David Barguil, del Partido Conservador, y Juan Fernando Caicedo, del Centro Democrático.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2152,7 +2152,7 @@
   "palabras": "",
   "lead": "La aeronave fue encontrada en un hangar del aeropuerto de Asunción y será entregada a las autoridades encargadas de administrar bienes incautados.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2163,7 +2163,7 @@
   "palabras": "",
   "lead": "La empresa United Launch Alliance, propiedad de Boeing y Lockheed Martin, investiga las causas del incidente. Amazon tiene contratados otros 37 lanzamientos con este cohete para desplegar su red de internet satelital y competir con Starlink, de SpaceX.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2174,7 +2174,7 @@
   "palabras": "",
   "lead": "Durante la visita, el mandatario nacional cuestionó las condiciones que tenía anteriormente este espacio.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2185,7 +2185,7 @@
   "palabras": "",
   "lead": "El mandatario ecuatoriano afirmó que su Gobierno entregó a la Fiscalía información sobre presuntos vínculos del expresidente colombiano con organizaciones criminales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "",
   "lead": "Carlos Caszely aseguró que a la Selección Colombia le hace falta James Rodríguez.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "",
   "lead": "La entidad advierte que los trancones bloquean ambulancias y máquinas extintoras, poniendo en riesgo la vida de los ciudadanos. Piden condicionar los permisos de futuros espectáculos en Cota.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "",
   "lead": "El conjunto Cardenal jugará en Bogotá en dos ocasiones, durante la primera vuelta de los cuadrangulares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "",
   "lead": "Esta será la primera vez que el Gobierno de La Espriella se sentará con los sindicalistas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "",
   "lead": "Las actividades están enfocadas en fomentar el autocuidado y reducir los riesgos de siniestros viales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "",
   "lead": "Especialmente, donde se llevan a cabo festividades durante el puente de la Independencia de Cartagena.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "",
   "lead": "Quince municipios están afectados por la emergencia energética tras la voladura de torres en el Huila.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "",
   "lead": "Los recursos serán destinados a fortalecer el sector eléctrico, robustecer las redes de transmisión y ampliar la cobertura en zonas rurales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "",
   "lead": "La mujer fue ubicada en Los Patios y su camioneta quedó inmovilizada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "",
   "lead": "El accidente ocurrió en el sector de la curva El Cero y mantiene bloqueados ambos sentidos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,7 +2306,7 @@
   "palabras": "Entretenimiento,Johanna Fadul,Embarazo,Actriz,famosos",
   "lead": "Johanna Fadul reveló que está cerca de completar el segundo trimestre de gestación y habló sobre los cambios que ha experimentado durante estos meses.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "Orden Público,Militares,Catatumbo,ELN,Drones,Ataque a uniformados",
   "lead": "Los comandantes de la Segunda División y la Trigésima Brigada acompañaron a la familia del soldado durante el último adiós en Cúcuta.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "Deportes,Liga de Naciones,Inglaterra,España,Selección España,expulsión,Tarjeta roja,Penaltis",
   "lead": "El equipo de Thomas Tuchel dio el golpe en Madrid tras un partidazo de goles y polémicas en la UEFA Nations League.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "Internacional,Migración,Inmigrantes,España,Senegal",
   "lead": "1.580 migrantes llegaron a Canarias en 15 cayucos, récord en 32 años; 84% desembarcó en El Hierro.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "Sociedad,pico y placa en Bogotá,Pico y placa,Secretaría de Movilidad,Puentes festivo,horarios,Autopista Norte,TransMilenio,Congestión vial",
   "lead": "Los conductores que regresen a Bogotá este lunes festivo deberán organizar su llegada según el último número de la placa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "Internacional,Inteligencia artificial,NVIDIA",
   "lead": "Empresarios como Elon Musk y Tim Sweeney piden su regreso, pese a la resistencia de Scott Bessent.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "Entretenimiento,Sylvester Stallone,Lesiones,Neurología,Sistema nervioso,Parte médico,personas con discapacidad,Incapacidades médicas",
   "lead": "Una lesión nerviosa durante el parto marcó el rostro y el habla de Sylvester Stallone desde su nacimiento, pero no le impidió convertirse en una estrella d...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "Internacional,Inteligencia artificial,Acuerdos internacionales,Manifestaciones,Manifestantes,Activistas,Política internacional,preocupación",
   "lead": "La protesta se produjo antes del encuentro que ambos mandatarios tienen previsto celebrar durante la próxima cumbre de la APEC, en China.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,7 +2394,7 @@
   "palabras": "Orden Público,cocaína,Golfo de Urabá,Europa,Policía Nacional,Narcotráfico",
   "lead": "Golpe al narcotráfico en Urabá: incautan 1,6 toneladas de cocaína camufladas en cajas de banano con destino a Bélgica",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2405,7 +2405,7 @@
   "palabras": "Sociedad,Terminal del Salitre,Terminal de transportes,pasajes de bus,Boletería,pagos digitales,pagos electrónicos",
   "lead": "El servicio está disponible las 24 horas y promete aliviar la congestión en temporadas de alta demanda.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "Orden Público,Huila,Vuelos,Alerta de seguridad,atentado",
   "lead": "El Comando Aéreo de Combate No. 4 desplegó operaciones de reconocimiento aéreo en municipios de Huila, Tolima y Cundinamarca.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "Orden Público,Inseguridad,atracos,ladrones,Congestión vial,trancón en carretera,actividad criminal,seguridad vial",
   "lead": "Los asaltantes aprovecharon la inmovilidad del tráfico para actuar a plena luz del día.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,7 +2438,7 @@
   "palabras": "Política,Inversiones,José Manuel Restrepo,Crecimiento económico,apertura económica,sector financiero,Presidencia de la República",
   "lead": "Milagro Week: Colombia presentará 250 proyectos ante 500 inversionistas en Nueva York para atraer capital extranjero por más de US$41.000 millones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2449,7 +2449,7 @@
   "palabras": "Internacional,Ecuador,ELN,Narcotráfico,Ministerio del interior,presidente de la República,atentado,Rafael Correa,Colombia",
   "lead": "El ministro del Interior de Ecuador afirmó que el narcotraficante contaría con protección del ELN y estaría involucrado en un supuesto plan para atentar co...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2460,6 +2460,424 @@
   "palabras": "Internacional,Estados Unidos,Donald Trump,Falla en avioneta,Fallas en sistema,aeropuerto",
   "lead": "La crisis aérea en EE. UU. sigue este domingo 15: miles de retrasos y cancelaciones; Trump culpa a Biden y la FAA espera normalizar al cierre.",
   "seccion": "internacional",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado Dorado Noche hoy domingo 15 de noviembre de 2026: consulte el número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-dorado-noche-hoy-domingo-15-de-noviembre-de-2026-consulte-el-numero-ganador-so35",
+  "fecha": "2026-11-15T18:35:29-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Noche",
+  "lead": "El chance Dorado Noche realiza su sorteo los domingos a las 7:30 p. m. Consulte aquí el resultado de este domingo 15 de noviembre de 2026, las últimas cifras y la quinta balota.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Al borde de la muerte: enorme roca se estrelló contra auto en que estaba en medio de la vía en China",
+  "enlace": "https://www.bluradio.com/mundo/al-borde-de-la-muerte-enorme-roca-se-estrello-contra-auto-en-que-estaba-en-medio-de-la-via-en-china-so35",
+  "fecha": "2026-11-15T18:46:07-05:00",
+  "palabras": "China, Viral",
+  "lead": "El hecho ocurrió en el condado de Li, ubicado en la provincia de Sichuan, China. Un video mostró cuando una enorme roca se desprendió de una zona montañosa y cayó directamente sobre un automóvil sedán que transitaba por el sector.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Durante 2026 han asesinado a 74 mujeres solo en el Atlántico, alerta la Defensoría del Pueblo",
+  "enlace": "https://www.bluradio.com/regiones/caribe/durante-2026-han-asesinado-a-74-mujeres-solo-en-el-atlantico-alerta-la-defensoria-del-pueblo-rg10",
+  "fecha": "2026-11-15T19:06:13-05:00",
+  "palabras": "Violencia Contra la mujer, Atlántico",
+  "lead": "La entidad también advirtió que 82 de las 154 personas reportadas como desaparecidas en el departamento son mujeres.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Karol G aplaza por salud su último concierto en Ciudad de México y reprograma para esta fecha",
+  "enlace": "https://www.bluradio.com/entretenimiento/karol-g-aplaza-por-salud-su-ultimo-concierto-en-ciudad-de-mexico-y-reprograma-para-esta-fecha-cb20",
+  "fecha": "2026-11-15T19:24:26-05:00",
+  "palabras": "Karol G, Viral, México",
+  "lead": "El anuncio se produjo después de dos presentaciones de la intérprete en la capital mexicana, correspondientes a su gira ‘Viajando por el mundo, Tropitour’.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ejército destruye explosivo en la vía Panamericana para evitar ataques contra civiles en Cauca",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/ejercito-destruye-explosivo-en-la-via-panamericana-para-evitar-ataques-contra-civiles-en-cauca-rg10",
+  "fecha": "2026-11-15T19:17:40-05:00",
+  "palabras": "Vía panamericana, Cauca",
+  "lead": "El artefacto fue hallado en el sector de Cachimbal, en Santander de Quilichao. El hecho estaría relacionado con posibles ataques con drones de la estructura Jaime Martínez, de las disidencias de las Farc.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo de hoy domingo 15 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-15-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-15T19:30:01-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Noche",
+  "lead": "El chance Chontico Noche realiza sorteos todos los días en horario nocturno. Consulte aquí los resultados de este domingo 15 de noviembre de 2026, las cifras ganadoras y la quinta balota.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Caribeña Noche hoy domingo 15 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-caribena-noche-hoy-domingo-15-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-15T19:41:02-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Caribeña noche",
+  "lead": "El chance Caribeña Noche realiza sus sorteos en jornada nocturna de lunes a sábado. Consulte aquí los resultados de este domingo 15 de noviembre de 2026, las cifras ganadoras y la quinta balota de este popular juego de azar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado del último sorteo de Sinuano Noche hoy domingo 15 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-del-ultimo-sorteo-de-sinuano-noche-hoy-domingo-15-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-15T19:52:52-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano noche",
+  "lead": "El chance Sinuano Noche realiza sus sorteos los domingos a las 8:30 de la noche. Los jugadores pueden consultar aquí los números ganadores y verificar si acertaron alguna de las modalidades de este tradicional juego de azar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“La canasta familiar no tendrá IVA”: De La Espriella en el balance de sus 100 días de Gobierno",
+  "enlace": "https://www.bluradio.com/nacion/la-canasta-familiar-no-tendra-iva-de-la-espriella-en-el-balance-de-sus-100-dias-de-gobierno-so35",
+  "fecha": "2026-11-15T20:31:43-05:00",
+  "palabras": "Abelardo De La Espriella, Reforma tributaria, IVA, Canasta familiar",
+  "lead": "Durante el balance de sus primeros 100 días, el mandatario aseguró que los alimentos básicos de la canasta familiar \"no tendrán IVA\". \"No es una Ley, es un proyecto en construcción, buscaremos consenso con todos los sectores\", dijo",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Amantes del chocolate, alisten el paladar: Bogotá tendrá tres días de catas, postres y experiencias",
+  "enlace": "https://www.bluradio.com/regiones/bogota/amantes-del-chocolate-alisten-el-paladar-bogota-tendra-tres-dias-de-catas-postres-y-experiencias-so35",
+  "fecha": "2026-11-15T20:58:50-05:00",
+  "palabras": "Alimentación, Corferias, fechas de Chocoshow",
+  "lead": "La fería reunirá a productores, emprendedores y amantes del cacao en un mismo escenario. Durante los tres días, los asistentes podrán participar en diferentes experiencias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Resultado de Super Astro Luna hoy domingo 15 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/resultado-de-super-astro-luna-hoy-domingo-15-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-15T20:38:58-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Super Astro Luna",
+  "lead": "El chance Super Astro Luna realiza sorteos todos los días, incluidos domingos y festivos. Consulte aquí el resultado de este domingo 15 de noviembre de 2026, las cifras ganadoras y el signo zodiacal del sorteo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel alias Primo Gay imputado por secuestros, extorsiones y violaciones a los derechos humanos",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-alias-primo-gay-imputado-por-secuestros-extorsiones-y-violaciones-a-derechos-humanos-rg10",
+  "fecha": "2026-11-15T21:25:27-05:00",
+  "palabras": "Fiscalía General de la Nación, Antioquia, Disidencias Farc",
+  "lead": "Junto al cabecilla de las disidencias de las Farc, también fue imputado Henry Sneyder Herrón por delitos de tenencia de armas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente Daniel Noboa afirma que expresidente Petro se reunió con los Estrada en Manta en 2025",
+  "enlace": "https://www.bluradio.com/nacion/presidente-daniel-noboa-afirma-que-expresidente-petro-se-reunio-con-los-estrada-en-manta-en-2025-rg10",
+  "fecha": "2026-11-15T21:27:22-05:00",
+  "palabras": "Gustavo Petro, Daniel Noboa, Ecuador",
+  "lead": "Los empresarios y políticos Estrada, en Ecuador, fueron capturados en Panamá y enfrentan un proceso de extradición. El presidente ecuatoriano aseguró que hay indicios de contactos del exmandatario colombiano con líderes del crimen organizado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Elsidia Mejía, la mujer de 77 años que aún espera volver a casa a tres meses del terremoto",
+  "enlace": "https://caracol.com.co/2026/11/16/elsidia-mejia-la-mujer-de-77-anos-que-aun-espera-volver-a-casa-a-tres-meses-del-terremoto/",
+  "fecha": "2026-11-15T21:58:29-05:00",
+  "palabras": "",
+  "lead": "Su casa quedó destruida tras el terremoto del 10 de agosto. Hoy, una iniciativa de solidaridad busca construirle una nueva, mientras su historia recuerda que la reconstrucción sigue siendo una tarea pendiente para muchos en el país.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel alias ‘Primo Gay’, presunto cabecilla de las disidencias que se alió al Clan del Golfo",
+  "enlace": "https://caracol.com.co/2026/11/16/a-la-carcel-alias-primo-gay-presunto-cabecilla-de-las-disidencias-que-se-alio-al-clan-del-golfo/",
+  "fecha": "2026-11-15T20:41:32-05:00",
+  "palabras": "",
+  "lead": "Neyder Yesid Uñates, alias ‘Primo Gay’, es investigado por presuntos secuestros, extorsiones y la planeación de ataques terroristas en Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Canasta familiar no pagará IVA”: presidente De la Espriella sobre reforma tributaria",
+  "enlace": "https://caracol.com.co/2026/11/16/canasta-familiar-no-pagara-iva-presidente-de-la-espriella-sobre-reforma-tributaria/",
+  "fecha": "2026-11-15T20:13:15-05:00",
+  "palabras": "",
+  "lead": "El presidente De la Espriella anunció que se buscarán consensos para aprobar la reforma tributaria en el Congreso.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Seguridad, terremoto, salud y tributaria: De la Espriella explicó sus 100 primeros días de Gobierno",
+  "enlace": "https://caracol.com.co/2026/11/16/en-vivo-alocucion-del-presidente-abelardo-de-la-espriella/",
+  "fecha": "2026-11-15T19:58:33-05:00",
+  "palabras": "",
+  "lead": "Abelardo de la Espriella descartó IVA a la canasta básica familiar, habló del Fondo Milagro y resaltó acciones de la fuerza pública.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Movilidad en puente festivo: medidas y horarios del plan retorno en Bogotá y vías de Cundinamarca",
+  "enlace": "https://caracol.com.co/2026/11/16/movilidad-en-puente-festivo-medidas-y-horarios-del-plan-retorno-en-bogota-y-vias-de-cundinamarca/",
+  "fecha": "2026-11-15T20:49:46-05:00",
+  "palabras": "",
+  "lead": "Más de 2,1 millones de vehículos regresan a Bogotá por las vías de Cundinamarca este puente festivo, bajo un operativo especial con reversibles y pico y placa regional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Soacha: familia de Marlon Stiven Bonilla rechaza medida de casa por cárcel contra presunto homicida",
+  "enlace": "https://caracol.com.co/2026/11/16/soacha-familia-de-marlon-stiven-bonilla-rechaza-medida-de-casa-por-carcel-contra-presunto-homicida/",
+  "fecha": "2026-11-15T20:37:21-05:00",
+  "palabras": "",
+  "lead": "Comunidad de Maiporé realizó velatón en honor al joven, quien falleció el 5 de noviembre por la gravedad de sus heridas, exigiendo justicia en el caso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Velatón por Nicole Pedraza, estudiante fallecida tras accidente de tránsito en Usaquén",
+  "enlace": "https://caracol.com.co/2026/11/16/velaton-por-nicol-pedraza-estudiante-fallecida-tras-accidente-de-transito-en-usaquen/",
+  "fecha": "2026-11-15T19:55:00-05:00",
+  "palabras": "",
+  "lead": "Comunidad del Colegio Alameda Norte honró a la menor de 16 años, quien falleció después de luchar por su vida durante cuatro días.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Grupo A del Torneo de Ascenso: Tabla de posiciones tras remontada de Unión Magdalena ante Envigado",
+  "enlace": "https://caracol.com.co/2026/11/16/grupo-a-del-torneo-de-ascenso-tabla-de-posiciones-tras-remontada-de-union-magdalena-ante-envigado/",
+  "fecha": "2026-11-15T19:45:53-05:00",
+  "palabras": "",
+  "lead": "El equipo naranja llegó a estar 2-0 arriba en el marcador, lo cual lo dejaba muy cerca de la final.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Murió Miguel Ángel Félix Gallardo, fundador del cartel de Guadalajara y aliado de Pablo Escobar",
+  "enlace": "https://caracol.com.co/2026/11/16/murio-miguel-angel-felix-gallardo-fundador-del-cartel-de-guadalajara-y-aliado-de-pablo-escobar/",
+  "fecha": "2026-11-15T19:20:55-05:00",
+  "palabras": "",
+  "lead": "Conocido como “El jefe de jefes”, el narcotraficante mexicano falleció a los 80 años en un hospital de Jalisco, tras ser trasladado de urgencia por complicaciones de salud.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Karol G aplazó su concierto en México por motivos de salud: esta es la nueva fecha",
+  "enlace": "https://caracol.com.co/2026/11/16/karol-g-aplazo-su-concierto-en-mexico-por-motivos-de-salud-esta-es-la-nueva-fecha/",
+  "fecha": "2026-11-15T19:03:13-05:00",
+  "palabras": "",
+  "lead": "La cantante colombiana reprogramó el espectáculo que tenía previsto este domingo 15 de noviembre en Ciudad de México. La presentación se realizará el martes 17, según confirmó la organización.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Mejores CDT para invertir la prima en diciembre 2026: bancos con rentabilidad superior al 10%",
+  "enlace": "https://caracol.com.co/2026/11/16/mejores-cdt-para-invertir-la-prima-en-diciembre-2026-bancos-con-rentabilidad-superior-al-10/",
+  "fecha": "2026-11-15T19:00:36-05:00",
+  "palabras": "",
+  "lead": "Vea un listado de bancos que ofrecen el mejor porcentaje para abrir un CDT, ya sea digital o físico a 6 o 12 meses.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No hay nada irregular”: Miller Soto por críticas a hija del presidente por uso de lancha de Armada",
+  "enlace": "https://caracol.com.co/2026/11/15/no-hay-nada-irregular-miller-soto-por-criticas-a-hija-del-presidente-por-uso-de-lancha-de-armada/",
+  "fecha": "2026-11-15T18:38:52-05:00",
+  "palabras": "",
+  "lead": "El uso de la embarcación se dio en el marco de las Festival Náutico de Cartagena.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué se necesita para viajar a México desde Colombia? Estos son los documentos claves",
+  "enlace": "https://caracol.com.co/2026/11/15/que-se-necesita-para-viajar-a-mexico-desde-colombia-estos-son-los-documentos-claves/",
+  "fecha": "2026-11-15T18:49:29-05:00",
+  "palabras": "",
+  "lead": "Los documentos dependerán de si va invitado por un amigo o familiar, si va de turismo, a estudiar u otros. Conozca el listado de documentos requeridos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fixture del Deportivo Cali en los cuadrangulares: así serán sus partidos en el Grupo B",
+  "enlace": "https://caracol.com.co/2026/11/15/fixture-del-deportivo-cali-en-los-cuadrangulares-asi-seran-sus-partidos-en-el-grupo-b/",
+  "fecha": "2026-11-15T18:43:27-05:00",
+  "palabras": "",
+  "lead": "El conjunto Azucarero comenzará como local frente a Millonarios y cerrará su participación en Bogotá.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inglaterra doblega a España y pone fin a su récord mundial sin derrotas",
+  "enlace": "https://caracol.com.co/2026/11/15/inglaterra-doblega-a-espana-y-pone-fin-a-su-record-mundial-sin-derrotas/",
+  "fecha": "2026-11-15T18:32:01-05:00",
+  "palabras": "",
+  "lead": "La vigente campeona del mundo no perdía desde el pasado 22 de marzo del 2024, cuando cayó 1-0 ante Colombia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Abelardo de la Espriella revela avances tras el terremoto",
+  "enlace": "https://www.lafm.com.co/politica/abelardo-espriella-balance-reconstruccion-terremoto-417318",
+  "fecha": "2026-11-15T20:51:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Terremoto en Colombia,terremoto,Donaciones",
+  "lead": "Abelardo de la Espriella da primer balance de reconstrucción tras el terremoto: anuncia $624.000 millones para recuperar territorios",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturas, incautaciones, cárceles y extradiciones: De la Espriella da balance en seguridad de primeros 100 días de presidencia",
+  "enlace": "https://www.lafm.com.co/politica/presidente-de-la-espriella-balance-seguridad-100-dias-presidencia-417317",
+  "fecha": "2026-11-15T20:30:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,ELN,Disidentes de las Farc,Operación antidrogas,Ejército Nacional",
+  "lead": "El presidente habló de la incautación de 6.336 armas de fuego, 389 toneladas de estupefacientes y destrucción de cerca de 1.500 laboratorios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presidente dice que no se aplicará IVA a la canasta familiar",
+  "enlace": "https://www.lafm.com.co/politica/presidente-dice-que-ley-de-rescate-fiscal-no-sera-impuesta-417316",
+  "fecha": "2026-11-15T20:03:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Colombia,IVA",
+  "lead": "El presidente dijo además que el Gobierno estudia la posibilidad de rebajar el IVA del 19 al 18%.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Karol G aplaza su concierto en México por problemas de salud: esto se sabe",
+  "enlace": "https://www.lafm.com.co/entretenimiento/karol-g-cancela-concierto-mexico-problemas-de-salud-417314",
+  "fecha": "2026-11-15T20:01:00-05:00",
+  "palabras": "Entretenimiento,Karol G,México,Concierto",
+  "lead": "Los organizadores confirmaron que el espectáculo se realizará el 17 de noviembre. También explicaron qué deberán hacer las personas que ya compraron sus e...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ofrecen recompensa por responsables de atentado en el Huila",
+  "enlace": "https://www.lafm.com.co/orden-publico/conclusiones-consejo-seguridad-neiva-417315",
+  "fecha": "2026-11-15T19:54:00-05:00",
+  "palabras": "Orden Público,Alerta de seguridad,Policía Nacional,Ejército Nacional,Neiva,Huila",
+  "lead": "La medida hace parte de los compromisos establecidos durante el Consejo Extraordinario de Seguridad realizado en Neiva.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Enjambre sísmico de Chaparral es único a nivel mundial",
+  "enlace": "https://www.lafm.com.co/actualidad/enjambre-sismico-chaparral-unico-mundo-servicio-geologico-colombiano-416770",
+  "fecha": "2026-11-15T19:39:00-05:00",
+  "palabras": "Actualidad,Chaparral,Temblor,Emergencia,Servicio Geológico Colombiano",
+  "lead": "Dentro de las hipótesis se analiza la relación del fenómeno con el terremoto de agosto pasado y hay dos hipótesis adicionales.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Restablecerán energía a departamentos afectados en atentado",
+  "enlace": "https://www.lafm.com.co/orden-publico/viceministro-suministro-energia-huila-caqueta-putumayo-417313",
+  "fecha": "2026-11-15T19:20:00-05:00",
+  "palabras": "Orden Público,Energía,Viceministro del Interior,Huila,atentado",
+  "lead": "EL suministro de energía en municipios del sur del Huila se restablecerá en 48 horas, mientras que en Putumayo y Caquetá tomará hasta el miércoles.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Murió Miguel Ángel Félix Gallardo, fundador del Cártel de Guadalajara",
+  "enlace": "https://www.lafm.com.co/internacional/miguel-angel-felix-gallardo-muerte-cartel-de-guadalajara-jefe-de-jefes-417312",
+  "fecha": "2026-11-15T19:00:00-05:00",
+  "palabras": "Internacional,México,Cartel de Jalisco,Narcotráfico,Pablo Escobar",
+  "lead": "El narcotraficante mexicano fue uno de los principales fundadores del Cártel de Guadalajara y estableció alianzas con organizaciones colombianas para expan...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario mínimo de 2027 tendrá cambios en la mesa de negociación",
+  "enlace": "https://www.lafm.com.co/economia/salario-minimo-2027-cambios-mesa-de-negociacion-incremento-417310",
+  "fecha": "2026-11-15T18:36:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Aumento salarial,Ministerio del Trabajo,Abelardo de la Espriella,CUT,Trabajadores,ANDI,Colombia",
+  "lead": "Los cambios de liderazgo llegan antes de una negociación en la que los sindicatos defenderán mayores ingresos y los empresarios pondrán sobre la mesa la in...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Vicepresidente Restrepo inicia viaje a Nueva York para atraer inversión: Esto se espera",
+  "enlace": "https://www.lafm.com.co/economia/nueva-york-barranquilla-milagro-week-inversion-colombia-417311",
+  "fecha": "2026-11-15T18:20:00-05:00",
+  "palabras": "Economía,Vicepresidenta,José Manuel Restrepo,negocios,Nueva York",
+  "lead": "Colombia presentará 97 proyectos en Milagro Week (NY, 16-19 nov 2026) para atraer 41.900 millones USD y conectar con inversionistas.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
