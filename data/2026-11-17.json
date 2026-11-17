@@ -7,7 +7,7 @@
   "palabras": "",
   "lead": "La nueva soberana representará a Colombia en el certamen en Miss International",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -18,6 +18,72 @@
   "palabras": "Orden Público,Abelardo de la Espriella,Huila,atentado,Operativos militares",
   "lead": "Las medidas anunciadas se dan tras los atentados contra el peaje de Neiva y los ataques contra torres de energía durante el fin de semana.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un juez de EE.UU. anula reforma de Trump que endurece visas a periodistas y estudiantes extranjeros",
+  "enlace": "https://caracol.com.co/2026/11/17/un-juez-de-eeuu-anula-reforma-de-trump-que-endurece-visas-a-periodistas-y-estudiantes-extranjeros/",
+  "fecha": "2026-11-17T00:51:03-05:00",
+  "palabras": "",
+  "lead": "El juez Dennis Saylor, de Massachusetts, dio la razón a las organizaciones educativas y sindicales que impugnaron la medida.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno anuncia recursos por US$25.900 durante primera jornada de “Milagro Week” en Nueva York",
+  "enlace": "https://caracol.com.co/2026/11/17/gobierno-anuncia-inversion-por-us25900-durante-primera-jornada-de-milagro-week-en-nueva-york/",
+  "fecha": "2026-11-17T00:11:22-05:00",
+  "palabras": "",
+  "lead": "El vicepresidente José Manuel Restrepo destacó recursos para impulsar al menos 110 proyectos en el país.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "De La Espriella anuncia medidas para atender situación de orden público en Huila",
+  "enlace": "https://caracol.com.co/2026/11/17/de-la-espriella-anuncia-medidas-para-atender-situacion-de-orden-publico-en-huila/",
+  "fecha": "2026-11-17T00:30:05-05:00",
+  "palabras": "",
+  "lead": "Las acciones se toman tras recientes hechos de alteración al orden público en el departamento, como los ataques a una estación de Policía y un peaje.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Inician acciones legales por ataque racista a uniformada",
+  "enlace": "https://www.lafm.com.co/actualidad/anuncian-demanda-agresor-policia-cali-417374",
+  "fecha": "2026-11-17T02:32:00-05:00",
+  "palabras": "Actualidad,Violencia de género,Racismo,Policía Nacional,Ministerio de Defensa,Alcalde de Cali",
+  "lead": "En un video quedó registrado como un sujeto gritó improperios y discriminó a la auxiliar por su color de piel.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Arranca la Milagro Week con millonarias inversiones",
+  "enlace": "https://www.lafm.com.co/economia/colombia-avance-milagro-week-estados-unidos-417373",
+  "fecha": "2026-11-17T01:29:00-05:00",
+  "palabras": "Economía,Inversiones,Colombia,Estados Unidos,Abelardo de la Espriella,créditos,Nueva York",
+  "lead": "Más de 700 inversionistas le apuestan a los proyectos empresariales que está presentando el Gobierno colombiano.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Atacan con dron estación de policía de El pital, Huila",
+  "enlace": "https://www.lafm.com.co/orden-publico/atentado-dron-policia-herido-huila-417371",
+  "fecha": "2026-11-16T22:24:00-05:00",
+  "palabras": "Orden Público,Ataque a la fuerza publica,Drones,Policía Nacional,Huila",
+  "lead": "El uniformado presenta una lesión leve en su pie. Este es el segundo hecho terrorista durante el fin de semana en el municipio.",
+  "seccion": "alto",
   "nueva": true,
   "tambien": []
  }
