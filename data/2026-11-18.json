@@ -2449,7 +2449,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 18 de noviembre de 2026 en Mañanas Blu.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2460,7 +2460,7 @@
   "palabras": "Noticias de hoy, Terremoto hoy",
   "lead": "Las autoridades señalan que si bien este edificio no corre el riesgo de colapsar, aún persisten elementos que son peligrosos para la integridad de las personas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2471,7 +2471,7 @@
   "palabras": "Economía,Pensión,Consejo de Estado,Asofondos,Porvenir,Protección,Pensión en Colombia",
   "lead": "La decisión del Consejo de Estado dejó sin efecto temporalmente el cambio que había hecho el Gobierno de Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2482,7 +2482,7 @@
   "palabras": "Actualidad,Inseguridad,Alcaldía de Bogotá,Carlos Fernando Galán,plan de seguridad nacional,Abelardo de la Espriella,hurto,Homicidios,atracos,Capturados",
   "lead": "La reciente encuesta de percepción Bogotá Cómo Vamos reveló que el 72% de los ciudadanos está satisfecho con su calidad de vida.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2492,6 +2492,127 @@
   "fecha": "2026-11-18T12:56:00-05:00",
   "palabras": "Deportes,Once Caldas,América de Cali,América,Copa Águila,Copa BetPlay,Colombia,Fútbol,final,Semifinales",
   "lead": "En 2026, la Copa Colombia tendrá un campeón inédito; Once Caldas tendrá una nueva oportunidad de levantar este título.",
+  "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Incertidumbre en la Universidad Nacional de Medellín: más de 12.000 estudiantes siguen sin notas",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/incertidumbre-en-la-universidad-nacional-de-medellin-mas-de-12-000-estudiantes-siguen-sin-notas-rg10",
+  "fecha": "2026-11-18T14:24:33-05:00",
+  "palabras": "Noticias de hoy, Medellín, Universidad Nacional de Colombia",
+  "lead": "La comunidad estudiantil mantiene la asamblea permanente y exige cerrar el periodo académico antes de finalizar el año para evitar que el calendario se traslade a 2027.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Carlos Ríos amplía denuncia ante Fiscalía por presuntos ‘sexo contratos’ durante gobierno Petro",
+  "enlace": "https://www.bluradio.com/judicial/carlos-rios-amplia-denuncia-ante-fiscalia-por-presuntos-sexo-contratos-durante-gobierno-petro-rg10",
+  "fecha": "2026-11-18T14:14:38-05:00",
+  "palabras": "Gustavo Petro, Dapre",
+  "lead": "Dentro de las diligencias que se proyectan en este caso también se contempla la posibilidad de realizar inspecciones en las instalaciones del DAPRE.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La UE advierte a Rusia de nuevas sanciones por el presunto uso de armas químicas en Ucrania",
+  "enlace": "https://caracol.com.co/2026/11/18/la-ue-advierte-a-rusia-de-nuevas-sanciones-por-el-presunto-uso-de-armas-quimicas-en-ucrania/",
+  "fecha": "2026-11-18T14:20:33-05:00",
+  "palabras": "",
+  "lead": "El pronunciamiento se produjo después de que una investigación ucraniana señalara directamente a las fuerzas rusas por el empleo de granadas con gas lacrimógeno contra posiciones militares de ese país",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena reunirá al sector de estaciones de servicio para debatir sus retos y futuro",
+  "enlace": "https://caracol.com.co/2026/11/18/cartagena-reunira-al-sector-de-estaciones-de-servicio-para-debatir-sus-retos-y-futuro/",
+  "fecha": "2026-11-18T14:19:44-05:00",
+  "palabras": "",
+  "lead": "Participarán representantes del Gobierno, empresarios y expertos de Brasil, España, Uruguay y Estados Unidos",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Economías criminales: ¿qué significa realmente controlar los territorios en Colombia?",
+  "enlace": "https://caracol.com.co/2026/11/18/economias-criminales-que-significa-realmente-controlar-los-territorios-en-colombia/",
+  "fecha": "2026-11-18T14:18:23-05:00",
+  "palabras": "",
+  "lead": "Hoy, el poder de las organizaciones criminales va más allá de las armas: también se construye a través de las economías ilegales, el control de las comunidades y la captura de las instituciones.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Cuánto subiría el arriendo en 2027 si sube lo mismo que en 2026? Análisis del aumento",
+  "enlace": "https://caracol.com.co/2026/11/18/cuanto-subiria-el-arriendo-en-2027-si-sube-lo-mismo-que-en-2026-analisis-del-aumento/",
+  "fecha": "2026-11-18T14:14:59-05:00",
+  "palabras": "",
+  "lead": "Conozca cuanto podría subir su arriendo para el próximo año si la inflación sube lo mismo de este año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Prima de Navidad para profesores 2026: ¿Qué días pagan? Equivale a un mes de salario",
+  "enlace": "https://caracol.com.co/2026/11/18/prima-de-navidad-para-profesores-2026-que-dias-pagan-equivale-a-un-mes-de-salario/",
+  "fecha": "2026-11-18T14:04:14-05:00",
+  "palabras": "",
+  "lead": "Conozca aquí cuándo es el plazo máximo para recibir la prima navideña y quiénes acceden este beneficio:",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcaldía anunció cierre en la avenida Boyacá por obras del Acueducto: En dónde y por cuánto tiempo",
+  "enlace": "https://caracol.com.co/2026/11/18/alcaldia-anuncio-cierre-en-la-avenida-boyaca-por-obras-del-acueducto-en-donde-y-por-cuanto-tiempo/",
+  "fecha": "2026-11-18T13:59:03-05:00",
+  "palabras": "",
+  "lead": "Las obras se realizan con la finalidad de reparar el Canal Boyacá debido a los daños ocasionados por lluvias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Habló el abogado de Primo Gay: analizan preacuerdo",
+  "enlace": "https://www.lafm.com.co/orden-publico/abogado-primo-gay-preacuerdo-extradicion-antioquia-417556",
+  "fecha": "2026-11-18T14:16:00-05:00",
+  "palabras": "Orden Público,disidencias,Clan del Golfo,Capturados,Abogados,Antioquia",
+  "lead": "Frente a la extradición, Perdomo afirmó que la eventual solicitud podría venir por el derribo de un helicóptero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "María Claudia Lacouture renuncia a la presidencia de AmCham",
+  "enlace": "https://www.lafm.com.co/economia/maria-claudia-lacouture-renuncia-a-amcham-colombia-y-liderara-turismo-en-caf-417578",
+  "fecha": "2026-11-18T14:05:00-05:00",
+  "palabras": "Economía,María Claudia Lacoutire,renuncia,Cámara de Comercio,Juntas Directivas",
+  "lead": "Lacouture presentó su renuncia tras nueve años al frente de AmCham Colombia. En enero de 2027 asumirá la agenda de turismo de CAF con alcance iberoamerican...",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tour Colombia 2027: recorrido oficial y etapas en Antioquia",
+  "enlace": "https://www.lafm.com.co/deportes/tour-colombia-2027-recorrido-oficial-etapas-antioquia-417575",
+  "fecha": "2026-11-18T13:50:00-05:00",
+  "palabras": "Deportes,Ciclismo,Eventos deportivos,Medellín, Colombia,Fedeciclismo,Egan Bernal,Sergio Higuita",
+  "lead": "La carrera categoría 2.1 UCI definió su atractivo recorrido montañoso a la espera de conocer de a poco los equipos internacionales que competirán en Antioq...",
   "seccion": "deportes",
   "nueva": true,
   "tambien": []
