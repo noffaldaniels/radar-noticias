@@ -172,7 +172,7 @@
   "palabras": "Noticias de hoy, Santander",
   "lead": "La planta, que tenía 75 años de historia en el municipio, suspenderá definitivamente sus operaciones. Nestlé socializará con cada trabajador un esquema de retiro voluntario para que decida si acepta o no las condiciones ofrecidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -183,7 +183,7 @@
   "palabras": "Lotería de Cundinamarca, Resultado de loterías de hoy",
   "lead": "La Lotería de Cundinamarca realizó este martes 17 de noviembre de 2026 el sorteo 4829. Consulte aquí el número ganador del premio mayor, las series y los premios secos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -194,7 +194,7 @@
   "palabras": "Lotería del Tolima, Resultado de loterías de hoy",
   "lead": "Resultados de la Lotería del Tolima, sorteo 4195 del lunes 9 de noviembre de 2026. Premio mayor de $3.500 millones: número 8349, serie 243. Consulte los secos.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -205,7 +205,7 @@
   "palabras": "Lotería de la Cruz Roja, Resultado de loterías de hoy",
   "lead": "La Lotería de la Cruz Roja juega este martes por un premio mayor de $10.000 millones. Consulte los resultados completos del sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -216,7 +216,7 @@
   "palabras": "Lotería del Huila, Resultado de loterías de hoy",
   "lead": "La Lotería del Huila realiza este martes un nuevo sorteo por un premio mayor de $2.000 millones. Consulte los resultados completos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -227,7 +227,7 @@
   "palabras": "MiLoto",
   "lead": "Ningún jugador acertó los cinco números del sorteo 643 de MiLoto. El premio mayor aumentó a $300 millones y 15.660 personas recibieron premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -238,7 +238,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "Escuche las distintas opiniones y los diversos temas en Bla Bla Blu del 17 de noviembre de 2026, el primer Talk Show de la radio en Colombia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -249,7 +249,7 @@
   "palabras": "Valle del Cauca, Fuerza Pública",
   "lead": "La gobernadora, Dilian Francisca Toro, reveló que van 32 capturados y que se van a desarticular cinco bandas criminales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -260,7 +260,7 @@
   "palabras": "Donald Trump, Estados Unidos, Rusia, Vladimir Putin",
   "lead": "Xi esperó a los pies de la escalinata del avión que traía a Trump desde Filipinas, lo saludó y llegó a abrazarlo, escenificando una cercanía poco habitual, después de que el mandatario estadounidense haya insistido en llamarlo \"amigo\" y esta sea la tercera vez que se ven en persona este año.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -271,7 +271,7 @@
   "palabras": "Lebrija, Santander, Feminicidio, Violencia Contra la mujer, Bucaramanga, Policía Nacional, Blu Radio, Noticias de hoy",
   "lead": "El señalado fue dejado a disposición de la Fiscalía para adelantar las actuaciones judiciales correspondientes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -282,7 +282,7 @@
   "palabras": "Antioquia, Policía Nacional, Fuga",
   "lead": "Según el reporte de las autoridades, los prófugos cavaron un túnel mientras se desarrollaban estas actividades en el pueblo. Ofrecen $10 millones de recompensa.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -293,7 +293,7 @@
   "palabras": "Marco Rubio, Estados Unidos",
   "lead": "El fallo aéreo provocó miles de cancelaciones y retrasos y obligó a la Administración Federal de Aviación (FAA) a suspender durante más de cuatro horas las salidas de vuelos en todo el país. La agencia atribuyó el problema a una saturación de datos que afectó a equipos tecnológicos antiguos de sus…",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -304,7 +304,7 @@
   "palabras": "Kennedy, Inseguridad en Bogotá, Robos, Ojo de la noche",
   "lead": "La víctima esperaba a su esposa cuando fue abordada por hombres armados. Residentes denuncian que los hurtos son constantes en el sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -315,7 +315,7 @@
   "palabras": "FMI, Rescate, Ministerio de Hacienda",
   "lead": "Esto ocurrió luego de que el presidente Abelardo De La Espriella, pintara un panorama más bien sombrío de las cuentas públicas y apelara al FMI para enfrentar este problema.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -326,7 +326,7 @@
   "palabras": "Antioquia, Yarumal, Clan del Golfo",
   "lead": "Los jóvenes de 18 años de edad integrarían la subestrctura Luis Hernando Rozo Bertel con injerencia en esa zona del Norte de Antioquia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -337,7 +337,7 @@
   "palabras": "Concejo de Bucaramanga, Bucaramanga, Alcaldía de Bucaramanga, Sistema General de Regalías, Noticias de hoy, Blu Radio, Presupuesto Nacional, Santander, Bucaramanga",
   "lead": "Durante la discusión, varios concejales expresaron inquietudes por el impacto fiscal que representa comprometer recursos de futuras administraciones hasta 2041.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -348,7 +348,7 @@
   "palabras": "Bucaramanga, Santander, Paro Nacional, Blu Radio",
   "lead": "La marcha comenzará a las 10:00 de la mañana en la Puerta del Sol y terminará en la plaza cívica Luis Carlos Galán. La Alcaldía anunció medidas para garantizar la protesta pacífica.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -359,7 +359,7 @@
   "palabras": "Apple, Estados Unidos, Viral",
   "lead": "Apple reportó interrupciones en varios de sus servicios digitales en Estados Unidos, entre ellos iCloud, App Store y Apple Pay.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -370,7 +370,7 @@
   "palabras": "Páramo de Santurbán, Frailejones en llamas: cuando el fuego apaga la fuente de la vida, Ministerio de Ambiente, Incendios forestales, Incendio, Universidad Industrial de Santander, Bucaramanga, Santander, Blu Radio, Noticias de hoy",
   "lead": "Es una investigación de la UIS que utilizó drones, inteligencia artificial y tecnología de imágenes para identificar y monitorear más de 86.000 frailejones afectados por el fuego.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -381,7 +381,7 @@
   "palabras": "Carros eléctricos, Renault, carros eléctrico, motor",
   "lead": "El modelo tendrá 150 hp de potencia, autonomía de hasta 409 kilómetros y 18 sistemas de asistencia a la conducción.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -392,7 +392,7 @@
   "palabras": "Estados Unidos, Colombia, Donald Trump, Ministerio de Defensa",
   "lead": "Mora hizo público la víspera el encuentro -cuando el Pentágono aún no lo había confirmado- y en el que está previsto que se aborden otras cuestiones de la cooperación bilateral en materia de Defensa y de las acciones conjuntas en el marco del Escudo de las Américas.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -403,7 +403,7 @@
   "palabras": "Elecciones en Colombia 2026, Abelardo De La Espriella, Gustavo Petro",
   "lead": "Un presidente no puede dar por probado un delito que no haya sido determinado por un juez y agrega un elemento central que desmonta la narrativa del exjefe de Estado: negarse a entregarle el código fuente, “no es un fraude”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -414,7 +414,7 @@
   "palabras": "Reforma tributaria, Regla fiscal, Congreso de la República, Abelardo De La Espriella",
   "lead": "Uno de los puntos que mayor preocupación había generado en la opinión pública era el gravamen con IVA a los servicios de medicina prepagada, alternativa a la que acudieron miles de familias ante las dificultades del sistema de salud.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -425,7 +425,7 @@
   "palabras": "Bucaramanga, Santander, Homicidios, Fiscalía General de la Nación",
   "lead": "Se trata de cuatro presuntos integrantes de la banda ‘Los Cabros’ capturados el por homicidio de un adolescente en Piedecuesta.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -436,7 +436,7 @@
   "palabras": "Trabajo, Cajas de compensación familiar, Compensar",
   "lead": "La entidad cuenta con tres líneas de financiación dirigidas a afiliados que enfrentan dificultades para acceder al crédito tradicional.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -447,7 +447,7 @@
   "palabras": "AngloGold Ashanti, Antioquia",
   "lead": "Alberto Calderón, presidente de la multinacional, explicó cuándo arrancaría la mina en Antioquia y defendió que el proyecto no pondrá en riesgo el agua de la región.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -458,7 +458,7 @@
   "palabras": "Nueva EPS",
   "lead": "El nuevo interventor tendrá que presentar un plan de trabajo con medidas para recuperar la situación financiera de la EPS, garantizar la entrega de medicamentos y mejorar la atención a los afiliados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -469,7 +469,7 @@
   "palabras": "Fiscalía General de la Nación, Piedecuesta, Bandas criminales",
   "lead": "La Fiscalía General de la Nación logró la judicialización de Rudeiker Antonio Rodríguez Fría y tres menores de edad, señalados como presuntos integrantes del grupo delincuencial ‘Los Cabros’, por su posible participación en el homicidio de un adolescente de 15 años ocurrido en Piedecuesta,…",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -480,7 +480,7 @@
   "palabras": "Japón, China, Turismo",
   "lead": "En el décimo mes del año llegaron al archipiélago 3.912.500 visitantes extranjeros, un 0,4 % más que en octubre del año pasado y la cifra más alta para un solo mes desde que hay registros, detalló el organismo.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -491,7 +491,7 @@
   "palabras": "Donald Trump, Xi Jinping, Vladimir Putin",
   "lead": "Putin se acercó a Trump para estrecharle la mano e intercambiar saludos ante la mirada del presidente chino, Xi Jinping, anfitrión de esta cumbre de la APEC, que dio comienzo con una cena previa a la sesión plenaria del jueves.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -502,7 +502,7 @@
   "palabras": "Metro de Bogotá, China, Contraloría General",
   "lead": "La Contraloría reveló que casi mil de los 1.524 trabajadores que faltan en la obra son no calificados y cuestionó quién asumirá el costo de traerlos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -513,7 +513,7 @@
   "palabras": "Julio Iglesias, España, Abuso sexual",
   "lead": "El juez aceptó investigar lo relativo a los presuntos delitos contra la libertad sexual, lesiones y trato degradante, y rechaza la querella respecto de los delitos de trata y contra los derechos de los trabajadores.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -524,7 +524,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Ministerio de Educación",
   "lead": "La iniciativa fue aprobada recientemente por el Ministerio de Educación y busca proyectar la preparación de funcionarios públicos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -535,7 +535,7 @@
   "palabras": "Bucaramanga, Santander, Defensoría del Pueblo, Blu Radio, Ministerio de Ambiente",
   "lead": "La Defensoría del Pueblo le pidió al Tribunal Administrativo de Santander ordenar al Ministerio de Ambiente adoptar medidas en un plazo de 60 días y garantizar la protección de Santurbán",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -546,7 +546,7 @@
   "palabras": "Alimentos, Risaralda",
   "lead": "El hecho abre una profunda incógnita sobre el futuro del abastecimiento de estas marcas tradicionales en Colombia y sobre la estabilidad de más de 400 trabajadores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -557,7 +557,7 @@
   "palabras": "Pedro Sánchez, Ministerio de Defensa, Gustavo Petro, Drones, Ejército Nacional",
   "lead": "El exjefe de la cartera de Defensa aseguró que ninguna tecnología evaluada cumplió los requisitos de la Fuerza Pública y que la ejecución de la primera fase, por $800.000 millones, quedó en manos del nuevo Gobierno.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -568,7 +568,7 @@
   "palabras": "Emergencias por lluvias, Antioquia, Urabá",
   "lead": "El Dagran informó que reforzó el despliegue de maquinaria amarilla en los puntos críticos y advirtió que, debido a la influencia de los vientos oceánicos, podrían continuar las lluvias",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -579,7 +579,7 @@
   "palabras": "Black Friday, Fin de Año, Xiaomi",
   "lead": "Las compras de fin de año apuntan a equipos que respondan a las necesidades de uso y ofrezcan beneficios a largo plazo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -590,7 +590,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Dorado Mañana",
   "lead": "El Dorado Mañana sortea de lunes a sábado a las 11:00 a. m. Consulte el resultado de este miércoles 18 de noviembre de 2026 y conozca el plan de premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -601,7 +601,7 @@
   "palabras": "Wayúu, La Guajira, Congreso de la República, Gobierno nacional",
   "lead": "La Corte Constitucional reiteró que las órdenes para garantizar agua, salud y alimentación deben cumplirse desde ahora y no pueden aplazarse mientras se aprueba la nueva hoja de ruta.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -612,7 +612,7 @@
   "palabras": "Zulma Guzman Castro, Judicial, Fiscalía General de la Nación",
   "lead": "De acuerdo con el apoderado de la familia, Alicia Graham se encontraba en remisión de cáncer a inicios de 2021 cuando comenzó a manifestar una sintomatología diferente, por lo cual su médica tratante ordenó un examen de laboratorio específico para talio en la Clínica Santa Fe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -623,7 +623,7 @@
   "palabras": "Alcaldía de Bucaramanga, Seguridad ciudadana, Santander, Blu Radio",
   "lead": "El alcalde de Bucaramanga, Cristian Portilla, también anunció la renovación de más de 200 cámaras de seguridad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -634,7 +634,7 @@
   "palabras": "Colegios distritales, Samsung",
   "lead": "Las propuestas incluyen alertas sísmicas, estaciones meteorológicas y herramientas para apoyar a pequeños productores agrícolas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -645,7 +645,7 @@
   "palabras": "Brasil, Viral, Redes sociales, Video",
   "lead": "Las autoridades revelaron detalles de los antecedentes de violencia y las amenazas que rodearon el caso, mientras el principal sospechoso murió durante un operativo policial.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -656,7 +656,7 @@
   "palabras": "Antioquia, Fiscalía General de la Nación, Cárcel La Picota, Disidencias Farc",
   "lead": "En este centro de reclusión de la capital del país, el imputado deberá cumplir con la medida de aseguramiento dictada por un juez de control de garantías.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -667,7 +667,7 @@
   "palabras": "El Salvador, Nayib Bukele, Haití",
   "lead": "Las imágenes difundidas por el presidente de El Salvador Nayib Bukele muestran helicópteros con bandera salvadoreña disparando contra una vivienda al norte de Puerto Príncipe.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -678,7 +678,7 @@
   "palabras": "Tesla, Carros eléctricos, Vehículos",
   "lead": "Tesla comenzó a ofrecer su carro autónomo sin volante ni pedales a compradores particulares en Estados Unidos, aunque la letra pequeña incluye varias restricciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -689,7 +689,7 @@
   "palabras": "Cáncer",
   "lead": "Los especialistas explican cómo identificarla a tiempo y qué opciones existen.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -700,7 +700,7 @@
   "palabras": "Antioquia, Magdalena Medio, Hipopótamos en Colombia",
   "lead": "Autoridades ambientales activan plan piloto con eutanasia para hipopótamos ante el riesgo para las comunidades y su propagación acelerada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -711,7 +711,7 @@
   "palabras": "Educación, Educación superior, Santander, Bucaramanga, Blu Radio, Noticias de hoy, Ministerio de Educación, rector",
   "lead": "El próximo viernes 20 de noviembre, a las 6:00 de la tarde, los tres candidatos participarán en un foro en el ágora Delfos del edificio Akros de las Universitaria Tecnológica de Santander.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -722,7 +722,7 @@
   "palabras": "Pedro Sánchez, Ministerio de Defensa, India",
   "lead": "El exministro Sánchez aclaró que las denuncias sobre un supuestos bloqueo o veto a la compra de tecnología antidrones no se ajustan a la realidad de lo sucedido. Según sostuvo el exfuncionario, la afirmación de que el gobierno anterior frenó la adquisición de dichos sistemas \"es totalmente falso,…",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -733,7 +733,7 @@
   "palabras": "Venezuela, Estados Unidos, Delcy Rodríguez",
   "lead": "Hegseth tiene previsto dirigirse más tarde en el día a Colombia, según anunció la víspera el gobierno del presidente Abelardo De La Espriella.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -744,7 +744,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Paisita día",
   "lead": "El sorteo de Paisita Día se realiza este miércoles con transmisión por Teleantioquia. Conozca el resultado, las modalidades de juego y los requisitos para reclamar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -755,7 +755,7 @@
   "palabras": "Noticias de hoy, Cesar, Secuestro",
   "lead": "El también agricultor fue secuestrado el pasado lunes festivo en el municipio de Tamalameque, Cesar.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -766,7 +766,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Chontico Día",
   "lead": "El sorteo de Chontico Día se realiza a la 1:00 p. m. y es uno de los más consultados en el Valle del Cauca. Conozca los resultados y cómo reclamar un premio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -777,7 +777,7 @@
   "palabras": "Noticias de hoy, Barranquilla, Aeropuerto Ernesto Cortissoz",
   "lead": "Al menos 8.600 pasajeros llegarán desde destinos internacionales y la cifra representa un incremento del 25 % frente al mismo periodo de 2025.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -788,7 +788,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Caribeña día",
   "lead": "El sorteo de Caribeña Día se juega de lunes a sábado a las 2:30 p. m. Consulte el número ganador, las modalidades de apuesta y los requisitos para cobrar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -799,7 +799,7 @@
   "palabras": "Cibercrimen, IA, Inteligencia Artificial",
   "lead": "José Pino advirtió que Colombia no está preparada para enfrentar ataques con inteligencia artificial contra sus sistemas e infraestructura digital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -810,7 +810,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Sinuano día",
   "lead": "El Sinuano Día se juega todos los días a las 2:30 p. m. Conozca el resultado de este miércoles, las modalidades de apuesta y los documentos necesarios para reclamar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -821,7 +821,7 @@
   "palabras": "Viral, Redes sociales, Video",
   "lead": "El ataque quedó registrado en las imágenes que preparaba un creador de contenido, quien habría dado una versión distinta sobre lo sucedido al llegar con la víctima al hospital.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -832,7 +832,7 @@
   "palabras": "Abuso sexual, Abuso sexual Menores de Edad",
   "lead": "Los capturados fueron ubicados en Villavicencio y Yumbo durante la operación ‘BOA’, que articuló a 17 países y permitió identificar 1.254 videos e imágenes con contenido de abuso sexual de menores entre los 5 y 15 años.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -843,7 +843,7 @@
   "palabras": "Antioquia, Gobernación de Antioquia, Bombardeo, Ejército Nacional, Abelardo De La Espriella",
   "lead": "Desde el departamento aseguran que es la única vía para que la población civil sienta verdadera tranquilidad.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -854,7 +854,7 @@
   "palabras": "Antioquia, Aeropuerto José María Córdoba, Noticias de hoy, Movilidad",
   "lead": "El alcalde Federico Gutiérrez reveló que el propio dueño de la concesión pidió disculpas por el estado de la terminal aérea.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -865,7 +865,7 @@
   "palabras": "Abelardo De La Espriella, Barrancabermeja, Fiscalía General de la Nación",
   "lead": "El mandatario le pidió a la Fiscalía investigar presuntas irregularidades por más de 119 mil millones de pesos en Barrancabermeja.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -876,7 +876,7 @@
   "palabras": "Black Friday, Internet, Amazon",
   "lead": "Un estudio de Harris X muestra qué productos están en la lista de deseos y cómo cambiaron los hábitos de compra en línea durante el 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -887,7 +887,7 @@
   "palabras": "Antioquia, Itagüí, Noticias de hoy, Tráfico de drogas",
   "lead": "El operativo contó inclusive con apoyo militar ante los dispositivos que habían instalado para impedir el ingreso a la residencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -898,7 +898,7 @@
   "palabras": "Terremoto hoy, Pereira, Manizales, Cali, Chocó",
   "lead": "Durante debate de control político en la Comisión Sexta, el Ministerio de Vivienda presentó el plan de adquisición de viviendas, mejoramientos y donaciones para las familias afectadas. El viceministro reconoció que los recursos disponibles no permitirán atender al 100 % de los damnificados.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -909,7 +909,7 @@
   "palabras": "Pico y placa en Medellín, Medellín",
   "lead": "La restricción vehicular aplica este miércoles 18 de noviembre de 2026 para las placas terminadas en 0 y 2 en la capital antioqueña.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -920,7 +920,7 @@
   "palabras": "Bogotá, Movilidad, Pico y placa",
   "lead": "La restricción vehicular aplica este miércoles 18 de noviembre para las placas terminadas en 1, 2, 3, 4, 5 en la capital.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -931,7 +931,7 @@
   "palabras": "",
   "lead": "El documento, cuya publicación está prevista próximamente, establece objetivos progresivos para reducir las emisiones contaminantes y avanzar hacia un modelo energético basado en fuentes renovable",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -942,7 +942,7 @@
   "palabras": "",
   "lead": "El secretario de Guerra, Pete Hegseth señaló que es una “oportunidad” para combatir conjuntamente a “terroristas” mientras que Delcy Rodríguez calificó el acuerdo de “extraordinariamente relevante”.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -953,7 +953,7 @@
   "palabras": "",
   "lead": "Según la Fiscalía ucraniana, una persona desconocida ofreció $1.000 dólares a la sospechosa a través de Telegram para cometer el crimen.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -964,7 +964,7 @@
   "palabras": "",
   "lead": "El comisario de Agricultura y Alimentación de la Unión Europea (UE), Christophe Hansen, destacó el potencial del mercado mexicano y aseguró que las empresas europeas están dispuestas a invertir en el país",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -975,7 +975,7 @@
   "palabras": "",
   "lead": "Lady Betancourt, directora de ASO San Victorino, comentó cómo se está preparando San Victorino para recibir a las personas en esta temporada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -986,7 +986,7 @@
   "palabras": "",
   "lead": "Los grupos ilegales estarían buscando involucrar principalmente a jóvenes.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -997,7 +997,7 @@
   "palabras": "",
   "lead": "Fueron identificados como “Wilmar” y “Ronita”",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1008,7 +1008,7 @@
   "palabras": "",
   "lead": "Yansen Estupiñán, el gerente del centro comercial Neos, habló para Caracol Radio para invitar a la gente a que realice sus compras este fin de año.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1019,7 +1019,7 @@
   "palabras": "",
   "lead": "El presidente de la Federación Uruguaya de Fútbol, Ignacio Alonso, sorprendió al confirmar cómo se jugaría el nuevo torneo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1030,7 +1030,7 @@
   "palabras": "",
   "lead": "El hombre fue dejado a disposición de la Fiscalía",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1041,7 +1041,7 @@
   "palabras": "",
   "lead": "Según advirtió el especialista en conducta animal, Borja Capponi, la humanización de las mascotas puede llevar a interpretar de forma equivocada sus gestos y comportamientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1052,7 +1052,7 @@
   "palabras": "",
   "lead": "La Audiencia de Barcelona confirma la libertad bajo fianza para Jonathan Andic, acusado del presunto homicidio de su padre, el fundador de Mango.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1063,7 +1063,7 @@
   "palabras": "",
   "lead": "Distrito busca reducir impacto de el Fenómeno de El Niño previo a su época más crítica que será entre diciembre de 2026 y marzo de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1074,7 +1074,7 @@
   "palabras": "",
   "lead": "Este tipo de cáncer ocupa el cuarto lugar y continúa siendo un desafío para la salud en América Latina y el Caribe.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1085,7 +1085,7 @@
   "palabras": "",
   "lead": "La denuncia la radicó formal en el búnker de la Fiscalía",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1096,7 +1096,7 @@
   "palabras": "",
   "lead": "La abogada paraguaya, Camila Arámbulo, radicó un derecho de petición ante el Ministerio de Relaciones tras la difusión de una grabación en la que el canciller Omar Bula opinaba sobre un pleito personal con su expareja.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1107,7 +1107,7 @@
   "palabras": "",
   "lead": "Empresas aseguran que los límites de consumo establecidos por la regulación energética no corresponden a las necesidades de su operación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1118,7 +1118,7 @@
   "palabras": "",
   "lead": "Tropas salvadoreñas atacaron la propiedad de un líder de la coalición criminal Viv Ansanm.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1129,7 +1129,7 @@
   "palabras": "",
   "lead": "Controlar la presión, el colesterol, el peso y el azúcar en sangre es clave para prevenir.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "La mercancía avaluada en 1.000 millones de pesos no contaba con permisos de importación.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1151,7 +1151,7 @@
   "palabras": "",
   "lead": "64 capturados y más de una tonelada de droga incautada dejaron operativos en 18 municipios del departamento, según el presidente Abelardo de la Espriella",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1162,7 +1162,7 @@
   "palabras": "",
   "lead": "El Concejo de Cali le entregará la Medalla Santiago de Cali en grado Cruz de Oro, en reconocimiento a sus aportes al empresariado vallecaucano, la generación de empleo y el impulso al deporte.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1173,7 +1173,7 @@
   "palabras": "",
   "lead": "Habitantes denuncian que persisten los malos olores y la presunta contaminación de fuentes hídricas, pese a una inversión cercana a los $945 millones para poner en funcionamiento la PTAR La DIVA.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1184,7 +1184,7 @@
   "palabras": "",
   "lead": "La Secretaría de Salud reportó 1.858 atenciones, entre ellas 94 traslados de habitantes de calle a centros sociosanitarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1195,7 +1195,7 @@
   "palabras": "",
   "lead": "Se trata de los supuestos contratos que se habrían entregado en diferentes entidades del Estado a cambio de favores sexuales al expresidente Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1206,7 +1206,7 @@
   "palabras": "",
   "lead": "La crisis ya provocó la suspensión de dos programas de atención infantil.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1217,7 +1217,7 @@
   "palabras": "",
   "lead": "América está a 180 minutos de conseguir un nuevo título y tendrá que superar a un Once Caldas que llega motivado después de dejar en el camino a Nacional.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "",
   "lead": "Juristas advierten fracaso en la política de atención",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "",
   "lead": "Entre los aspirantes al cargo estaba Ómar Lengerke quien renunció a finales de octubre pasado, tras permanecer 12 años como rector de la institución de educación superior.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "",
   "lead": "En medio del foro CEO, 2026, Visión Atlántico y Magdalena.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "",
   "lead": "Georgina Higueras, habló para Caracol Radio y mencionó la importancia que tiene la Cumbre de Cooperación Económica para este año.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "",
   "lead": "En el segundo Consejo de Gobierno ampliado con 35 representantes de instancias juveniles expusieron iniciativas relacionadas con estímulos para la mayor participación de jóvenes rurales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "",
   "lead": "La Fiscalía lo vincula con dos homicidios y dos ataques más ocurridos en diciembre de 2023.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "",
   "lead": "La estrategia busca preparar a las familias de la ciudad para actuar ante situaciones de emergencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "",
   "lead": "Analistas advierten que no hay seguridad vial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "",
   "lead": "La escultura fue instalada en el Parque Playa de Cúcuta.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "",
   "lead": "Ya está en marcha la estrategia deportiva para llegar fortalecido a los juegos nacionales y paranacionales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "",
   "lead": "La Policía investiga si los asesinatos son una represalia contra operativos del Gobierno hondureño.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "",
   "lead": "Magali y Luis, comerciantes en San Victorino, afirmaron que las ventas en la zona han bajado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "",
   "lead": "La Tricolor terminó con empates ante Chile. Brasil podría ser su próximo rival en 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "",
   "lead": "La Secretaría de Movilidad de Manizales y empresas de servicio público decidirán si reajustan la tarifa este año o en el 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "",
   "lead": "El plazo máximo para pagar la deuda y ponerse al día con Bogotá es el próximo 21 de diciembre de 2026",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "",
   "lead": "Caracol Radio conoció los videos en los que se muestra cómo se realizó el traslado aéreo de alias ‘Primo Gay’ desde Medellín a la cárcel La Picota de Bogotá, donde cumplirá la medida de aseguramiento intramural ordenada por un juez.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "",
   "lead": "Coosalud, la Nueva EPS y el Instituto Departamental de Salud figuran entre las entidades con mayores obligaciones económicas con la red pública.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "",
   "lead": "Los cambios se debieron a los Planes de Ordenamiento que modificaron los usos del suelo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "",
   "lead": "En Caracol Radio, habló una de las sobrevivientes del edificio que colapsó en Brooklyn, Nueva York el pasado 11 de noviembre.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "",
   "lead": "A través del proyecto Espacios Seguros, la Universidad de Santander (UDES) busca identificar y atender el deterioro de viviendas entregadas a familias vulnerables en la comuna 10 de Bucaramanga.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "",
   "lead": "Educadoras, madres comunitarias y representantes de familias realizaron un plantón para exigir respuestas sobre la contratación y la continuidad de los programas de primera infancia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "La denuncia la hizo un exconductor de la identidad, quien reveló haber sido testigo de los movimientos de uno de los funcionarios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "Dos jueces han denunciado amenazas en lo corrido del año en Córdoba",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "La formalización laboral, el diálogo social y la protección de los derechos de los trabajadores serán ejes de su gestión en el departamento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "Es egresada de la UTB y doctora en Economía y Empresas, llega a este cargo con una trayectoria en dirección estratégica, innovación, sostenibilidad y desarrollo empresarial",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "Desde esta semana iniciarán los desembolsos hasta alcanzar el 80% de los recursos pendientes",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "Actualmente, ocupa el cargo de segundo secretario, con funciones consulares, ante Guasdualito, en Venezuela. Ya hay resolución para trasladarlo a Senegal, en África.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "Néider Yesid Uñates López, señalado integrante del Clan del Golfo y uno de los hombres más buscados de Antioquia, fue trasladado a la cárcel La Picota, en Bogotá, tras su captura.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "La exconsejera presidencial para las regiones aseguró en 6AMW de Caracol Radio que nunca tuvo información para delatar a otros en el escándalo de corrupción de la UNGRD; Sin embargo, al comienzo del proceso penal en su contra entregó cinco matrices de colaboración y buscó inmunidad total.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "Las autoridades golpearon las finanzas del grupo delincuencial “Los Chatas” al desmantelar esta vivienda que funcionaba como punto de acopio y dosificación de sustancias ilícitas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "La educadora resaltó su proceso para quedarse con este reconocimiento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "Asonal Judicial se sumará al paro nacional para exigir más recursos y personal.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "Este 25 de noviembre, Caracol Radio y el Diario El País presentarán la cuarta edición de 100 Nuevos Líderes de Colombia, un encuentro que destacará iniciativas en tecnología, educación, emprendimiento, innovación y desarrollo social.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "El acto se argumenta, según el representante, por la falta de soluciones por el terremoto del pasado 10 de agosto y los riesgos para ejercer el derecho a la protesta social.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "Se trataría de la intervención en dos puntos críticos ubicados en el río Sinú, en los sectores de Leopoldo y Remolino",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "La Gobernación de Antioquia culminó ocho encuentros con presencia en las nueve subregiones del departamento. La estrategia dejó como resultados la creación de la Red de Jóvenes del Oriente Antioqueño y el impulso de nuevas mesas de participación juvenil en Norte y Urabá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "Los expertos coinciden en que la educación rural, la infraestructura escolar y el financiamiento a largo plazo requieren atención.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "Álvaro Carrillo, presidente de Seguros Bolívar, explicó cómo desde la compañía se ha gestionando el servicio para los afectados.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "",
   "lead": "El séptimo trabajo discográfico de la agrupación fue publicado el 18 de noviembre de 1991.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "La Chica Dorada fue la invitada sorpresa de La Bichota en su última presentación en Ciudad de México.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "Conozca cómo está el precio del bolívar en dólares y otras divisas del mundo. Así, cómo ha sido su movimiento en los últimos días.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "En total se incautaron 156 celulares y 22 computadores, para un balance de 178 dispositivos. Además, se sellaron ocho establecimientos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "Estos son los precios del dólar de este miércoles, 18 de noviembre, tomando como referencia la Tasa Representativa del Mercado (TRM).",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Las autoridades mantienen la alerta tras la amenaza de las disidencias en estos sitios",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "El balance fue entregado durante la apertura del VI Congreso Todos los Protegemos, donde expertos de Estados Unidos y Europa analizan la lucha contra la explotación infantil.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "En 2025 se diagnosticaron 7.288 casos nuevos de esta enfermedad en el país. Especialistas advierten que el miedo, la vergüenza y la falta de información siguen alejando a los hombres de los controles médicos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "Un juez español investigará a Julio Iglesias por presuntos delitos sexuales, lesiones y trato degradante a dos exempleadas, pese a advertir omisiones para forzar su jurisdicción.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "La venta anticipada para clientes del Banco de Venezuela generó reclamos y confusión entre los seguidores de la cantante.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "",
   "lead": "El plan de contingencia será implementado por Medisfarma, operador encargado de suministrar medicamentos a los afiliados del régimen contributivo en Ibagué.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "",
   "lead": "La artista barranquillera sería la protagonista de un posible concierto de apertura, aunque no hay confirmación oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,7 +1778,7 @@
   "palabras": "",
   "lead": "El fundador y presidente de Amazon comentó que al principio se mostraron “algo reticentes” a elegir a Pattinson, precisamente porque ya es “muy famoso”.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1789,7 +1789,7 @@
   "palabras": "",
   "lead": "En Ibagué se realizarán dos marchas que se espera confluyan en un plantón sobre la carrera Quinta con calle 37.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1800,7 +1800,7 @@
   "palabras": "",
   "lead": "En diálogo con 6AM W de Caracol Radio, Kissia Alejandra Arends entregó detalles sobre las personas que permanecen desaparecidas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1811,7 +1811,7 @@
   "palabras": "",
   "lead": "La dirigente anunció que participará en la consulta interna del Pacto Histórico para definir la candidatura única de esta colectividad a la Alcaldía de Cartagena",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1822,7 +1822,7 @@
   "palabras": "",
   "lead": "Desde Shenzhen, el periodista español Adrián Foncillas dio un análisis del encuentro del mandatario chino con el presidente estadounidense y el impacto de la esperada reunión trilateral junto a Vladímir Putin.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1833,7 +1833,7 @@
   "palabras": "",
   "lead": "El volante vallecaucano sufrió una fuerte entrada que lo obligó a abandonar el amistoso ante Chile a los 39 minutos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1844,7 +1844,7 @@
   "palabras": "",
   "lead": "Los congresistas Mauricio Toro y Santiago Montoya hablaron en los micrófonos de 6AM W sobre poner impuesto a las iglesias en la reforma tributaria del Gobierno de Abelardo de la Espriella.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1855,7 +1855,7 @@
   "palabras": "",
   "lead": "Los dirigentes estadounidense, chino y ruso se saludaron durante un banquete organizado por Xi con motivo de una reunión regional. Se trata, además, del primer encuentro entre Trump y Putin desde su cumbre en Alaska en agosto de 2025.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1866,7 +1866,7 @@
   "palabras": "",
   "lead": "Tras tomarse un año de descanso este verano para permitir la recuperación de los terrenos de Worthy Farm, el festival británico regresará del 23 al 27 de junio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1877,7 +1877,7 @@
   "palabras": "",
   "lead": "La entidad solicitó al Tribunal Administrativo de Santander adoptar medidas cautelares para impedir que disminuyan las garantías de conservación. La reserva temporal vence el 4 de marzo de 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1888,7 +1888,7 @@
   "palabras": "",
   "lead": "El entrenador de la Selección Colombia fue autocrítico al asegurar que en estos dos partidos se cometieron muchos errores.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1899,7 +1899,7 @@
   "palabras": "",
   "lead": "Alberto Mario Vergara Puccini es el nuevo presidente de la Fiduprevisora. Es abogado y trabaja como asesor en la Corporación Financiera Internacional (CFI), del Banco Mundial.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1910,7 +1910,7 @@
   "palabras": "",
   "lead": "ElTribunal Administrativo de Antioquia había ordenado adelantar un nuevo procedimiento para adjudicar las rutas del servicio de transporte público mixto en motocarro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1921,7 +1921,7 @@
   "palabras": "",
   "lead": "La iniciativa «A Rionegro lo Mueves Tú», liderada por el alcalde Jorge Rivas, fue reconocida como una de las mejores prácticas de Ciudades del Aprendizaje de América Latina 2026, durante un foro realizado en Córdoba, Argentina.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1932,7 +1932,7 @@
   "palabras": "",
   "lead": "Las fuerzas militares reforzarán la presencia en los peajes y zonas de ingreso a Ibagué para contrarrestar posibles ataques.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1943,7 +1943,7 @@
   "palabras": "",
   "lead": "Según un cálculo hecho con las escalas de viáticos, menaje y prima de instalación del artículo 62 del Decreto Ley 274 de 2000, estos movimientos costarían cerca de 1.481 millones de pesos",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1954,7 +1954,7 @@
   "palabras": "",
   "lead": "La investigación continuará, mientras que la Fiscalía apeló la decisión de no imponerles medida de aseguramiento a siete de los capturados.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1965,7 +1965,7 @@
   "palabras": "",
   "lead": "Los empresarios del Gran San en Bogotá relataron cómo las llamas consumieron sus negocios a puertas de la temporada navideña y explicaron cómo operarán con carpas en el centro comercial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1976,7 +1976,7 @@
   "palabras": "",
   "lead": "Estos espacios se podrán usar entre el 3 de diciembre de 2026 y el 16 de enero de 2027",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1987,7 +1987,7 @@
   "palabras": "Internacional,Delcy Rodríguez,Venezuela,Nicolás Maduro,Pentágono,Caracas,Estados Unidos,Fuerzas Militares,Fuerzas Armadas,Operación Gedeón,Acuerdos internacionales",
   "lead": "Pete Hegseth llega a Caracas y anuncia un acuerdo militar con Venezuela, con capacitación y tecnología para la Fanb, tras evitar un voto de censura.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1998,7 +1998,7 @@
   "palabras": "Internacional,Abelardo de la Espriella,Corrupción,Lucha anticorrupción,Fiscalía General de la Nación,Irregularidades en contratos",
   "lead": "Más de 119.000 millones de pesos girados a un fondo mixto terminaron en contratos con un solo oferente y concentrados en empresas de un mismo contratista.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2009,7 +2009,7 @@
   "palabras": "Orden Público,Procuraduría General de la Nación,Santa Marta,Energía",
   "lead": "Procuraduría pone bajo seguimiento a Santa Marta por deuda de más de $1.900 millones en energía a la empresa Air-e",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2020,7 +2020,7 @@
   "palabras": "Actualidad,Contenido patrocinado,Conferencias,preventa,violaciones,Delitos sexuales,Niños,Eventos presenciales,Protección,ciberseguridad,Sistema de Alertas Tempranas,Castigo a menores",
   "lead": "Información institucional.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2031,7 +2031,7 @@
   "palabras": "Actualidad,Contraloría,Obras inconclusas,Alcaldía de Bogotá,Animales,Carlos Fernando Galán",
   "lead": "El proyecto busca ofrecer atención integral a más de 1.200 perros y gatos de la capital del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2042,7 +2042,7 @@
   "palabras": "Actualidad,Fotomultas,SuperTransporte,Ministerio de Transporte,Bogotá,Cali, Colombia,Medellín, Colombia,Barranquilla",
   "lead": "Solamente en Bogotá se impusieron cerca de 294.000 comparendos",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2053,7 +2053,7 @@
   "palabras": "Internacional,Estados Unidos,Washington,Capitolio Nacional,Afroamericanos",
   "lead": "El líder demócrata obtuvo 251 votos a favor y 11 en contra en una votación interna y se encamina a convertirse en el primer afroamericano en ocupar la pres...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2064,7 +2064,7 @@
   "palabras": "Economía,Ministerio de Hacienda y Crédito Público,Medidas económicas,medidas fiscales,Impuestos,alivios financieros,Gobierno",
   "lead": "Al abrir el debate en el Congreso, Miguel Gómez confirmó que saldrán los cambios al IVA de los alimentos, los insumos del campo y los seguros de salud.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2075,7 +2075,7 @@
   "palabras": "Sociedad,Colombia,La Guajira,cohete,Nueva York,espacio,Estados Unidos,Superintendencia de Industria y Comercio,Ministerio de Ciencia, Tecnología e Innovación",
   "lead": "La propuesta busca atraer inversión internacional y abrirle espacio a La Guajira en la industria aeroespacial.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2086,7 +2086,7 @@
   "palabras": "Política,Reforma tributaria,Ministerio del interior,Abelardo de la Espriella,Gustavo Petro,Impuestos",
   "lead": "Asegura que están trabajando para “salir del hoyo” económico que dejó el gobierno de Gustavo Petro.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2097,7 +2097,7 @@
   "palabras": "Economía,Salario Mínimo,Aumento salarial,Negociación,Ministerio del Trabajo,productividad,Acuerdo,Sindicatos,Consejo Gremial Nacional,jubilación,Ministerio de Hacienda y Crédito Público,Gobierno",
   "lead": "El proceso comenzará con sesiones técnicas el 26 de noviembre y tendrá el 15 de diciembre como primer plazo legal para alcanzar un acuerdo sobre el increme...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2108,7 +2108,7 @@
   "palabras": "Internacional,Jeffrey Epstein,Forenses,Homicidios,Asesinado,Autopsia,Expertos",
   "lead": "El delincuente sexual fue reportado como fallecido en 2019, cuando se encontraba en prisión a la espera de ser juzgado por tráfico sexual.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2119,7 +2119,7 @@
   "palabras": "Actualidad,Bogotá,Secretaría de Movilidad,Tráfico,TransMilenio",
   "lead": "Hacia las 7:55 a. m., la Secretaría de Movilidad reportó un siniestro vial con fatalidad entre un camión y un motociclista en la avenida Boyacá con calle 9...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2130,7 +2130,7 @@
   "palabras": "Política,Abelardo de la Espriella,Debate presidencial,debate político,Cámara de Representantes,Acusaciones",
   "lead": "La discusión ahora gira alrededor de las posibles consecuencias institucionales y judiciales de la exposición pública de los detenidos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2141,7 +2141,7 @@
   "palabras": "Sociedad,Inteligencia artificial,Transformación digital,Digitalización,ciberseguridad,Seguridad informática,ciberacoso,Innovación,Emprendimiento,Marketing digital,Comunidades vulnerables",
   "lead": "La agenda incluye mentorías para mipymes, inmersión en IA para estudiantes y formación pública, junto con campañas contra fraudes y ciberacoso en colegios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2152,7 +2152,7 @@
   "palabras": "Política,Gustavo Petro,Cámara de Representantes,Comisión Séptima de la Cámara de Representantes,Procesos judiciales,Acusaciones,Álvaro Leyva",
   "lead": "Las denuncias por la violación de topes electorales, el tarimazo y las revelaciones de Deicy Jiménez ya tienen investigador.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2163,7 +2163,7 @@
   "palabras": "Actualidad,disidencias,Antioquia,Operación",
   "lead": "Atención: Alias Primo Gay es trasladado a la cárcel La Picota, en Bogotá : esto se sabe hasta el momento",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2174,7 +2174,7 @@
   "palabras": "Sociedad,Intoxicación,Tóxico,Muere menor de edad,Víctimas",
   "lead": "David Espinosa, apoderado de los familiares de Alicia Graham, explicó a detalle el caso, aclarando los hechos y esclareció si se trata de un posible caso d...",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2185,7 +2185,7 @@
   "palabras": "Internacional,Estados Unidos,Embajadores,Washington,Capitolio Nacional",
   "lead": "El empresario de Kentucky ahora deberá ser confirmado por el Senado.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2196,7 +2196,7 @@
   "palabras": "Orden Público,Policía Nacional,Alcaldía de Bogotá,Bogotá,Capturas",
   "lead": "Las autoridades realizaron un allanamiento en el sur de la ciudad, en el que fue abatido el delincuente.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2207,7 +2207,7 @@
   "palabras": "Orden Público,Feminicidio,Homicidios,Barranquilla,Atlántico,Sicarios",
   "lead": "La habrían amenazado por su expareja y terminó asesinada: investigan el crimen de una joven de 18 años en Barranquilla",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2218,7 +2218,7 @@
   "palabras": "Internacional,Fenómeno de El Niño,Sequía,Predicciones,Nivel de embalses en el país,Desabastecimiento de gas natural",
   "lead": "Dependiendo de la región en dónde se pare, se pueden producir diferentes efectos en la economía, en la salud y, en general, en la sociedad.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2229,7 +2229,7 @@
   "palabras": "Internacional,periodismo investigativo,Lavado de activos,Jeffrey Epstein,red de trata de personas,Bancos colombianos,Cuentas bancarias,entidad bancaria,organizaciones criminales,Alemania",
   "lead": "Deutsche Bank esperaba aumentar los ingresos de los negocios con clientes rusos previo al inicio de la invasión a Ucrania.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2240,7 +2240,7 @@
   "palabras": "Internacional,Haití,El Salvador,Nayib Bukele,Pandillas",
   "lead": "\"Los oigo muy fuerte, muy claro. Yo también los amo. Vamos a triunfar. Dios nos dará la victoria\", dijo el presidente Nayib Bukele.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2251,7 +2251,7 @@
   "palabras": "Orden Público,Pensión en Colombia,Consejo de Estado,medidas cautelares,Aseguradoras,seguros,Ley 100,Procesos judiciales,Rama Judicial",
   "lead": "Consejo de Estado suspendió provisionalmente el decreto 2025 por trasladar costos en pensiones de salario mínimo sin analizar la competencia.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2262,7 +2262,7 @@
   "palabras": "Economía,Pensión en Colombia,Pensión,Colpensiones,noviembre,prima,Colombia,Reforma pensional",
   "lead": "Los jubilados por vejez, invalidez y sobrevivientes tienen derecho a este dinero, siempre que cumplan las condiciones legales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2273,7 +2273,7 @@
   "palabras": "Internacional,China,Donald Trump,Xi Jinping,Vladimir Putin,Rusia,Diplomacia,Relaciones comerciales,Comercio internacional,Negociación",
   "lead": "El asesor del Kremlin, Yuri Ushakov, señaló que los presidentes de Rusia y Estados Unidos tendrían varias oportunidades para conversar al margen de las reu...",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2284,7 +2284,7 @@
   "palabras": "Sociedad,Fernando Botero,subasta,Escultura,ventas,Arte,Artistas,Coleccionistas",
   "lead": "Este resultado establece un nuevo récord mundial en subasta para una escultura de Fernando Botero, reafirmando su legado artístico.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2295,7 +2295,7 @@
   "palabras": "Internacional,Presidente de Nicaragua,Daniel Ortega,Nicaragua,Detenidos,imputan cargos,Cardiopatías,Funcionarios denunciados,médicos",
   "lead": "El estado físico de Ortega ha permanecido durante años bajo reserva, en medio de ausencias públicas prolongadas.",
   "seccion": "tolima",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2306,7 +2306,7 @@
   "palabras": "Orden Público,La Guajira,Corte Constitucional,Wayuú,Niños,Plan Nacional de Desarrollo,Departamento Nacional de Planeación,Consejería Presidencial,Sostenibilidad,Procesos judiciales",
   "lead": "La Corte Constitucional pidió acelerar la crisis de la niñez wayuu y exigir resultados: incluir obligaciones en el PND 2026-2030, según el Auto 1541.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2317,7 +2317,7 @@
   "palabras": "Deportes,Copa BetPlay,Semifinales,América de Cali,Once Caldas,Atlético Nacional,Liga BetPlay,Estadio Atanasio Girardot,Deportivo Cali,Atlético Bucaramanga,Millonarios,Fútbol",
   "lead": "La Dimayor tiene previsto que la final de la Copa BetPlay se lleve a cabo el 19 y 22 de diciembre.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2328,7 +2328,7 @@
   "palabras": "Actualidad,Supersalud,Superintendencia Nacional de Salud,nueva eps,intervención,Nombramientos,Renuncia de funcinarios,Posesión del cargo,Rendición de cuentas",
   "lead": "El nombramiento se produjo tras la aceptación de la renuncia de Roberto José Tercero Solano Navarra, quien dejó el cargo por motivos de salud. El nuevo age...",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2339,7 +2339,7 @@
   "palabras": "Economía,Fenalco,Salario Mínimo,Aumento salarial,productividad,medidas fiscales,Impuestos,Marco fiscal",
   "lead": "Además, se refirió a las preocupaciones del comercio frente a la Ley de Rescate Fiscal y las alternativas que propone el gremio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2350,7 +2350,7 @@
   "palabras": "Orden Público,Secuestros,Catatumbo,ELN,disidencias",
   "lead": "En lo que va del año se han registrado cerca de 100 secuestros en la zona del Catatumbo., por parte del ELN y Disidencias de las Farc.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2361,7 +2361,7 @@
   "palabras": "Orden Público,atentado,Peajes,ataque explosivo,Nariño",
   "lead": "En Nariño se registró un atentado con artefactos explosivos contra el peaje de El Contadero, Nariño, en el hecho el presunto perpetrador falleció",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2372,7 +2372,7 @@
   "palabras": "Emisiones,Juan Lozano,La Fm,RCN Radio",
   "lead": "Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo para todos.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2383,7 +2383,7 @@
   "palabras": "Carta del Director,Juan Lozano,La Fm,RCN Radio",
   "lead": "Estas son las noticias más importantes de este miércoles en La FM.",
   "seccion": "mesas",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2394,7 +2394,7 @@
   "palabras": "Política,Abelardo de la Espriella,Ministerio de Cultura,Iván Duque,Gobierno",
   "lead": "El Gobierno estaría evaluando nuevos movimientos en el gabinete para responder a las solicitudes de los demócratas de incluir representantes afrodescendien...",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2405,7 +2405,7 @@
   "palabras": "Orden Público,Alcaldía de Popayán,ataque explosivo,Antiexplosivos,Alteración al orden público,conflicto armado",
   "lead": "Además, anunció gestiones ante el Gobierno nacional para fortalecer la presencia de la fuerza pública.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2416,7 +2416,7 @@
   "palabras": "Internacional,sonda espacial,Nasa,Agencia Espacial,espacio,Sistema Solar,Júpiter,Saturno,exoplanetas,sistema planetario,Universo",
   "lead": "Las sondas Voyager iniciaron su misión con la exploración del sistema solar exterior.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2427,7 +2427,7 @@
   "palabras": "Internacional,Lavado de activos,Investigaciones,Bancos colombianos,Bancolombia,periodismo investigativo,Asobancaria,Superintendencia Financiera de Colombia,Fiscalía General de la Nación,Denuncias por abuso,Cuentas bancarias",
   "lead": "Deutsche Bank concentró entre el 60 % y el 80 % del mercado de transferencias en euros hacia Colombia durante 2019.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2438,6 +2438,61 @@
   "palabras": "Entretenimiento,Videojuegos,Juegos,Próximos estrenos,lanzamientos,Los Santos,multijugador,ventas,Guinness World Records,actividad criminal",
   "lead": "Para \"GTA VI\", Rockstar prometió un mapa el doble de grande, para albergar la ciudad de Vice City y el estado ficticio de Leonida.",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Por qué el Metro de Bogotá necesitaría trabajadores de China?: Mañanas Blu, 18 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/mananas-blu/por-que-el-metro-de-bogota-necesitaria-trabajadores-de-china-mananas-blu-18-de-noviembre-de-2026-pr30",
+  "fecha": "2026-11-18T14:00:20-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "¡Ahora la radio no solo se escucha, también se ve! Reviva el programa completo del 18 de noviembre de 2026 en Mañanas Blu.",
+  "seccion": "mesas",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Residentes de edificio afectado por terremoto en Cali arriesgan la vida por rescatar pertenencias",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/residentes-de-edificio-afectado-por-terremoto-en-cali-arriesgan-la-vida-por-rescatar-pertenencias-rg10",
+  "fecha": "2026-11-18T13:58:13-05:00",
+  "palabras": "Noticias de hoy, Terremoto hoy",
+  "lead": "Las autoridades señalan que si bien este edificio no corre el riesgo de colapsar, aún persisten elementos que son peligrosos para la integridad de las personas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cambian el cálculo del ahorro para pensionarse con un salario mínimo",
+  "enlace": "https://www.lafm.com.co/economia/pension-salario-minimo-cambia-calculo-consejo-de-estado-417570",
+  "fecha": "2026-11-18T13:56:00-05:00",
+  "palabras": "Economía,Pensión,Consejo de Estado,Asofondos,Porvenir,Protección,Pensión en Colombia",
+  "lead": "La decisión del Consejo de Estado dejó sin efecto temporalmente el cambio que había hecho el Gobierno de Gustavo Petro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Galán reconoce que Bogotá aún enfrenta retos de seguridad",
+  "enlace": "https://www.lafm.com.co/actualidad/encuesta-bogota-como-vamos-revela-tanta-confianza-tienen-ciudadanos-ciudad-417574",
+  "fecha": "2026-11-18T13:29:00-05:00",
+  "palabras": "Actualidad,Inseguridad,Alcaldía de Bogotá,Carlos Fernando Galán,plan de seguridad nacional,Abelardo de la Espriella,hurto,Homicidios,atracos,Capturados",
+  "lead": "La reciente encuesta de percepción Bogotá Cómo Vamos reveló que el 72% de los ciudadanos está satisfecho con su calidad de vida.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así le ha ido al Once Caldas en sus últimas cinco finales",
+  "enlace": "https://www.lafm.com.co/deportes/once-caldas-finalista-copa-betplay-como-le-ha-ido-en-finales-417572",
+  "fecha": "2026-11-18T12:56:00-05:00",
+  "palabras": "Deportes,Once Caldas,América de Cali,América,Copa Águila,Copa BetPlay,Colombia,Fútbol,final,Semifinales",
+  "lead": "En 2026, la Copa Colombia tendrá un campeón inédito; Once Caldas tendrá una nueva oportunidad de levantar este título.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
