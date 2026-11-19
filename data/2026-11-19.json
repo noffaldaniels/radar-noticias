@@ -2515,7 +2515,7 @@
   "palabras": "Paro judicial",
   "lead": "Paloquemao permanece cerrado, sin atención y actividades ordinarias, salvo aquellas actuaciones con medidas cautelares.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2526,7 +2526,7 @@
   "palabras": "Navidad",
   "lead": "Las novenas, los encuentros familiares y los regalos impulsan la demanda de alimentos tradicionales, anchetas y juguetes, mientras los consumidores comienzan a organizar sus gastos de fin de año.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2537,7 +2537,7 @@
   "palabras": "",
   "lead": "Este organismo reúne a las principales asociaciones empresariales del país y lideran la generación de empleo formal e inversión privada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2548,6 +2548,105 @@
   "palabras": "Deportes,América de Cali,Copa BetPlay,Semifinales,Problemas económicos,Pagos atrasados,situación financiera,Diciembre,horarios,Atlético Bucaramanga,preocupación",
   "lead": "El entrenador pide a la familia Gómez que se resuelva la situación económica de los jugadores 'escarlatas' antes de afrontar los cuadrangulares.",
   "seccion": "deportes",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Protestas contra el Gobierno en Barranquilla fueron dispersadas por Policía con gases lacrimógenos",
+  "enlace": "https://www.bluradio.com/regiones/caribe/protestas-contra-el-gobierno-en-barranquilla-fueron-dispersadas-por-policia-con-gases-lacrimogenos-rg10",
+  "fecha": "2026-11-19T14:16:37-05:00",
+  "palabras": "Noticias de hoy, Barranquilla",
+  "lead": "La movilización había transcurrido de manera pacífica hasta que los manifestantes intentaron hacer un plantón y cerrar las vías.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Pulso del Fútbol, 19 de noviembre de 2026",
+  "enlace": "https://caracol.com.co/2026/11/19/el-pulso-del-futbol-19-de-noviembre-de-2026/",
+  "fecha": "2026-11-19T14:19:23-05:00",
+  "palabras": "",
+  "lead": "El Pulso del Fútbol destaca los goles de los jugadores colombianos en el exterior.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Capturan en Antioquia a señalado de asesinar a mujer de 68 años durante un atraco en Ternera",
+  "enlace": "https://caracol.com.co/2026/11/19/capturan-en-antioquia-a-senalado-de-asesinar-a-mujer-de-68-anos-durante-un-atraco-en-ternera/",
+  "fecha": "2026-11-19T13:08:06-05:00",
+  "palabras": "",
+  "lead": "Luis Gustavo Chávez Hernández, alias ‘El Mello’, habría participado en el robo de cuatro millones de pesos y el posterior homicidio de Esilda del Carmen Reyes Martínez, de 68 años",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bomberos de Cartagena atendieron más de 2.200 emergencias entre enero y octubre",
+  "enlace": "https://caracol.com.co/2026/11/19/bomberos-de-cartagena-atendieron-mas-de-2200-emergencias-entre-enero-y-octubre/",
+  "fecha": "2026-11-19T14:16:50-05:00",
+  "palabras": "",
+  "lead": "En octubre, los organismos de socorro respondieron a 209 situaciones, entre ellas incendios, riesgos eléctricos y caída de árboles",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gremios proyectan un calado de 12.5 mts en el canal de acceso al puerto de Barranquilla",
+  "enlace": "https://caracol.com.co/2026/11/19/gremios-proyectan-un-calado-de-125-mts-en-el-canal-de-acceso-al-puerto-de-barranquilla/",
+  "fecha": "2026-11-19T14:14:37-05:00",
+  "palabras": "",
+  "lead": "El anuncio fue entregado en el foro Expo Portuaria 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴EN VIVO🔴 Paro Nacional HOY 19 de noviembre: Últimas noticias, vías cerradas, horarios y más",
+  "enlace": "https://caracol.com.co/2026/11/19/paro-nacional-en-vivo-hoy-19-de-noviembre-marchas-en-bogota-y-principales-ciudades-del-pais/",
+  "fecha": "2026-11-19T14:16:13-05:00",
+  "palabras": "",
+  "lead": "Siga minuto a minuto todas las noticias sobre el paro nacional de este 19 de noviembre: marchas en Bogotá y principales ciudades del país.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pintan mensaje amenazante en la vivienda de la diputada Mallath Martínez en Fundación",
+  "enlace": "https://caracol.com.co/2026/11/19/pintan-mensaje-amenazante-en-la-vivienda-de-la-diputada-mallath-martinez-en-fundacion/",
+  "fecha": "2026-11-19T14:12:26-05:00",
+  "palabras": "",
+  "lead": "La residencia de la dirigente política amaneció con un mensaje intimidante pintado en el portón. La Gobernación rechazó lo ocurrido y anunció la activación de una ruta de atención y acompañamiento institucional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "ISA adapta su infraestructura de transmisión para resistir el cambio climático",
+  "enlace": "https://caracol.com.co/2026/11/19/isa-adapta-su-infraestructura-de-transmision-para-resistir-el-cambio-climatico/",
+  "fecha": "2026-11-19T14:09:51-05:00",
+  "palabras": "",
+  "lead": "La compañía fortalece su talento humano y suma tecnología para anticipar riesgos y garantizar el suministro eléctrico, en un contexto de transición hacia energías renovables.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Río Magdalena se prepara para tiempos difíciles por El Niño",
+  "enlace": "https://www.lafm.com.co/politica/asoportuaria-advierte-sobre-costo-del-desmonte-del-puente-pumarejo-417686",
+  "fecha": "2026-11-19T12:27:00-05:00",
+  "palabras": "Política,Ministerio de Transporte,Rio Magdalena,Barranquilla,Atlántico",
+  "lead": "El Niño amenaza con ponerle freno al río Magdalena: Preparan medidas para evitar que los buques queden atrapados",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
