@@ -2460,7 +2460,7 @@
   "palabras": "Antioquia, Valle de Aburrá, Envigado",
   "lead": "Autoridades investigan las causas de la muerte del hombre a pesar de llevar todos los elementos de protección.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2471,7 +2471,7 @@
   "palabras": "Deportes,Contenido patrocinado,Directv,FIFA,Conmebol,Selección Colombia",
   "lead": "Contenido patrocinado.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2482,6 +2482,50 @@
   "palabras": "Política,Pacto Histórico,Consejo de Estado,CNE,Gustavo Petro,Fallo judicial",
   "lead": "Consejo de Estado negó demandas y mantiene la fusión por absorción entre Colombia Humana y el Pacto Histórico, con disolución sin liquidación.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gastronomía, danza y arte urbano: planes culturales para disfrutar en Antioquia este fin de semana",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/gastronomia-danza-y-arte-urbano-planes-culturales-para-disfrutar-en-antioquia-este-fin-de-semana-so35",
+  "fecha": "2026-11-20T14:05:23-05:00",
+  "palabras": "Noticias de hoy, Ministerio de Cultura, Antioquia",
+  "lead": "Valle de Aburrá y Oriente concentrarán la mayor cantidad de eventos, que tendrán programación para toda la familia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "SIC archiva investigación contra 17 clubes de fútbol por “pacto” que afectaba a jugadores",
+  "enlace": "https://caracol.com.co/2026/11/20/sic-archiva-investigacion-contra-17-clubes-de-futbol-por-pacto-que-afectaba-a-jugadores/",
+  "fecha": "2026-11-20T13:50:38-05:00",
+  "palabras": "",
+  "lead": "En octubre de 2025, la Superintendencia de Industria y Comercio sancionó por más de $8.000 millones a cinco equipos de fútbol por prácticas restrictivas de la competencia, que limitaban las oportunidades laborales de los jugadores. Tras una decisión de la Corte y la caducidad, archivó la investigación.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Maestro Óscar Noriega responde a polémica por presuntos sobrecostos en ‘virgencita’ de Blas de Lezo",
+  "enlace": "https://caracol.com.co/2026/11/20/maestro-oscar-noriega-responde-a-polemica-por-presuntos-sobrecostos-en-virgencita-de-blas-de-lezo/",
+  "fecha": "2026-11-20T13:54:09-05:00",
+  "palabras": "",
+  "lead": "El artista explicó que así parezca una cifra elevada, el valor se ajusta a los precios internacionales de contratación con el Estado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sebastián Montoya cambia de equipo en la Fórmula 2 para 2027",
+  "enlace": "https://www.lafm.com.co/deportes/sebastian-montoya-cambia-equipo-formula-2-2027-417824",
+  "fecha": "2026-11-20T13:51:00-05:00",
+  "palabras": "Deportes,Sebastián Montoya,Fórmula 2,Juan Pablo Montoya,nueva temporada,Carreras de automovilismo",
+  "lead": "El piloto colombiano, hijo de Juan Pablo Montoya, correrá con DAMS Lucas Oil en la Fórmula 2 de 2027, tras dos temporadas con Prema Racing.",
+  "seccion": "deportes",
   "nueva": true,
   "tambien": []
  }
