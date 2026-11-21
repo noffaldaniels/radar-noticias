@@ -1140,7 +1140,7 @@
   "palabras": "",
   "lead": "La Procuraduría considera que el mandatario habría incurrido en una inhabilidad al continuar ejerciendo autoridad administrativa durante los 12 meses anteriores a las nuevas elecciones.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1150,6 +1150,61 @@
   "fecha": "2026-11-21T12:42:00-05:00",
   "palabras": "Sociedad,Tecnología,audífonos,Black Friday,ofertas Black Friday,Apple",
   "lead": "El Black Friday 2026 trae descuentos en tecnología y los audífonos inalámbricos se encuentran entre las opciones para regalar o renovar los que ya tiene.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "\"Papi, no me mates\": la desgarradora súplica de niño antes de encontrar a su familia sin vida",
+  "enlace": "https://www.bluradio.com/mundo/papi-no-me-mates-la-desgarradora-suplica-de-nino-antes-de-encontrar-a-su-familia-sin-vida-so35",
+  "fecha": "2026-11-21T12:47:54-05:00",
+  "palabras": "Estados Unidos, Feminicidio",
+  "lead": "La llamada al 911 registró las palabras del menor antes de que las autoridades encontraran muertos a cinco integrantes de una familia.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bogotá declara alerta por contaminación del aire en cuatro zonas del suroccidente",
+  "enlace": "https://caracol.com.co/2026/11/21/bogota-declara-alerta-por-contaminacion-del-aire-en-cuatro-zonas-del-suroccidente/",
+  "fecha": "2026-11-21T12:49:53-05:00",
+  "palabras": "",
+  "lead": "La Alerta Fase 1 fue declarada luego de que cuatro estaciones de monitoreo registraran niveles regulares de calidad del aire durante 36 horas consecutivas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cursos para aprender sobre IA y tecnología con el ICETEX: ¿Cómo inscribirse? Opciones disponibles",
+  "enlace": "https://caracol.com.co/2026/11/21/cursos-para-aprender-sobre-ia-y-tecnologia-con-el-icetex-como-inscribirse-opciones-disponibles/",
+  "fecha": "2026-11-21T12:46:27-05:00",
+  "palabras": "",
+  "lead": "Los interesados podrán seleccionar hasta dos cursos e inscribirse hasta el 25 de noviembre de 2026.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Piden verificar los títulos académicos de 183 congresistas",
+  "enlace": "https://www.lafm.com.co/politica/luz-veronica-estrada-congresistas-piden-verificar-titulos-academicos-183-representantes-camara-diplomas-actas-grado-comision-etica-417905",
+  "fecha": "2026-11-21T12:37:00-05:00",
+  "palabras": "Política,Congreso de la República,Comisión de Ética,Títulos falsos,títulos universitarios,Certificados falsos,Pacto Histórico",
+  "lead": "La solicitud busca que la Comisión de Ética compruebe la autenticidad de los documentos académicos de todos los representantes a la Cámara, en medio de la ...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Avianca activa plan de contingencia para pasajeros afectados",
+  "enlace": "https://www.lafm.com.co/sociedad/avianca-plan-de-contingencia-pasajeros-afectados-restricciones-aereas-417899",
+  "fecha": "2026-11-21T11:49:00-05:00",
+  "palabras": "Sociedad,Aeropuerto El Dorado,Vuelos,Pasajeros varados,Colombia",
+  "lead": "La aerolínea activó 28 vuelos extra y aumentó la capacidad de diez operaciones programadas para reubicar a los pasajeros afectados por los cierres temporal...",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
