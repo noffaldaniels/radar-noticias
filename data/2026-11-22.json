@@ -1406,5 +1406,71 @@
   "seccion": "otras",
   "nueva": false,
   "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Difícil balance tras 10 años de los Acuerdos de Paz: Sala de Prensa Blu, 22 de noviembre",
+  "enlace": "https://www.bluradio.com/sala-de-prensa-blu/dificil-balance-tras-10-anos-de-los-acuerdos-de-paz-sala-de-prensa-blu-22-de-noviembre-so35",
+  "fecha": "2026-11-22T13:05:13-05:00",
+  "palabras": "Programas, Podcast",
+  "lead": "Las noticias más relevantes de Colombia y el mundo en Sala de Prensa Blu del domingo 15 de noviembre de 2026",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Procuraduría pide a Supersalud garantizar atención en la Nueva EPS tras cambio de interventor",
+  "enlace": "https://www.bluradio.com/salud/procuraduria-pide-a-supersalud-garantizar-atencion-en-la-nueva-eps-tras-cambio-de-interventor-rg10",
+  "fecha": "2026-11-22T13:28:58-05:00",
+  "palabras": "Procuraduría General de la Nación, Superintendencia de Salud, EPS",
+  "lead": "Tras la designación de Jorge Enrique Gutiérrez Sampedro como nuevo interventor de Nueva EPS, la Procuraduría exigió garantías para la entrega de medicamentos, procedimientos y continuidad de los tratamientos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Bogotá habría sido recapturado uno de los fugados de una estación de Policía en Armenia",
+  "enlace": "https://caracol.com.co/2026/11/22/en-bogota-fue-recapturado-uno-de-los-fugados-de-una-estacion-de-policia-en-armenia/",
+  "fecha": "2026-11-22T13:24:37-05:00",
+  "palabras": "",
+  "lead": "Se espera que en las próximas horas se conozcan detalles de la recaptura",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Un acuerdo entre Eisenkot y Netanyahu? Proponen negociaciones",
+  "enlace": "https://www.lafm.com.co/internacional/eisenkot-netanyahu-likud-negociar-gobierno-union-nacional-israel-417937",
+  "fecha": "2026-11-22T13:11:00-05:00",
+  "palabras": "Internacional,israel,Reelección de Netanyahu,Coalición,Oposición,Negociación,acuerdo nacional,Reconciliación",
+  "lead": "¿Qué incidencia puede tener el establecimiento de una relación diplomática entre ambos representantes? ¿se puede venir una gran coalición para la nueva dir...",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Brindan apoyo emocional a alumnos trasladados en Teruel",
+  "enlace": "https://www.lafm.com.co/orden-publico/estudiantes-colegio-teruel-huila-riesgo-ataques-armados-417949",
+  "fecha": "2026-11-22T12:57:00-05:00",
+  "palabras": "Orden Público,Huila,Alteración al orden público,Colegios,Colombia",
+  "lead": "La sede principal se ubica cerca de la estación de Policía y la Alcaldía que han sido blanco de ataques con artefactos explosivos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Catatumbo, 20 muertos y 95 heridos por drones con explosivos",
+  "enlace": "https://www.lafm.com.co/orden-publico/van-20-muertos-y-95-heridos-por-ataques-con-drones-explosivos-en-el-catatumbo-417948",
+  "fecha": "2026-11-22T12:32:00-05:00",
+  "palabras": "Orden Público,Catatumbo,Drones,ELN,Disidentes de las Farc",
+  "lead": "La Corporación Red Departamental de Derechos Humanos denuncia 62 casos de ataques con drones en nueve municipios del Catatumbo",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
  }
 ]
