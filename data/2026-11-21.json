@@ -1217,7 +1217,7 @@
   "palabras": "Antioquia, Atraco, Medellín, Bandas criminales",
   "lead": "Las autoridades los señalan de haber dejado a una de sus víctimas discapacitada, tras dispararle a corta distancia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1228,7 +1228,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "En Noticias de la Mañana del sábado, 21 de noviembre de 2026. Conozca los hechos que son noticia en Colombia y el mundo con el servicio informativo de Blu Radio.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1239,7 +1239,7 @@
   "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador del sorteo de hoy, sábado 21 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1250,7 +1250,7 @@
   "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 2:30 p. m.. Revise aquí el número ganador hoy 21 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1261,7 +1261,7 @@
   "palabras": "Dorado Tarde, Resultados del chance, Chances y Loterías",
   "lead": "El chance Dorado Tarde juega de lunes a sábado a las 3:30 p.m. Revise aquí el número ganador hoy noviembre 21 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1272,7 +1272,7 @@
   "palabras": "Super Astro Sol, Resultados del chance, Chances y Loterías",
   "lead": "El chance Super Astro Sol juega de lunes a sábado a las 4 p. m.. Revise aquí el número ganador hoy 21 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1283,7 +1283,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Norte de Santander, Ejército Nacional, Cúcuta, Páramo de Santurbán",
   "lead": "En medio de las amenazas que enfrentan los ecosistemas de alta montaña por la deforestación y el cambio climático, soldados del Ejército sembraron 300 frailejones en una zona rural de Pamplona, Norte de Santander. La jornada contó con el acompañamiento de Corponor y la Alcaldía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1294,7 +1294,7 @@
   "palabras": "Terremoto hoy, Chocó",
   "lead": "Familias afectadas por el terremoto recibieron nuevas viviendas construidas con residuos plásticos. Cada casa utiliza cerca de cuatro toneladas de este material.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1305,7 +1305,7 @@
   "palabras": "Barichara",
   "lead": "La restricción comenzó el 3 de noviembre y se aplica todas las noches. La preocupación aumenta ante la llegada de turistas durante la temporada de fin de año, mientras Bomberos apoya el suministro con carrotanques en el casco urbano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1316,7 +1316,7 @@
   "palabras": "Santander, Invías, Ministerio de Transporte, Blu Radio, Noticias de hoy",
   "lead": "El alcalde Edgar Orlando Pinzón destacó el anuncio del Gobierno nacional, pero recordó que de los 9,6 kilómetros proyectados apenas se han construido 4,5. La obra permanece sin continuidad contractual desde enero de 2025.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1327,7 +1327,7 @@
   "palabras": "WhatsApp",
   "lead": "El Ministerio de Salud estableció nuevas condiciones para la atención médica a distancia y ahora los cambios también afectan la expedición de fórmulas y los derechos de los pacientes durante las consultas virtuales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1338,7 +1338,7 @@
   "palabras": "Cauca, Vía panamericana",
   "lead": "A través de sus redes sociales el gobernador del Cauca, Octavio Guzman, reiteró su llamado al ministro de Defensa y la Cúpula Militar para que visiten este departamento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1349,7 +1349,7 @@
   "palabras": "Avianca , Aerolíneas",
   "lead": "Los pasajeros que tuvieron afectaciones en sus vuelos con Avianca por las restricciones meteorológicas del viernes podrán cambiar sus itinerarios sin pagar penalidades, sujeto a disponibilidad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1360,7 +1360,7 @@
   "palabras": "Cali, Terremoto hoy",
   "lead": "Alrededor de 860 negocios, de 1.300 fueron priorizados por la gravedad de sus daños. En total, son 7.000 las unidades productivas afectadas en la ciudad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1371,7 +1371,7 @@
   "palabras": "Podcast, Programas completos",
   "lead": "La pasión por el mundo de los vehículos en Autos y Motos del 21 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1382,7 +1382,7 @@
   "palabras": "Barranquilla, Copa Sudamericana, Boca Juniors, Atlético Mineiro, Estadio Metropolitano de Barranquilla",
   "lead": "En el estadio Metropolitano la Alcaldía dispuso de un Módulo de Estabilización y Clasificación de pacientes con médicos y enfermeras, para atender a los aficionados.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1393,7 +1393,7 @@
   "palabras": "Antioquia, Medellín, Unidad para las Víctimas, Reparación a víctimas , Abelardo De La Espriella, JEP",
   "lead": "Durante entrega de indemnizaciones a víctimas del conflicto en Medellín, el mandatario se comprometió en avanzar rápidamente en la entrega de indemnizaciones a esta población.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1404,7 +1404,7 @@
   "palabras": "ANDI, Salario mínimo",
   "lead": "Luz Estela Murgas advirtió sobre los efectos del aumento de 23,78 % de 2026 en inflación, empleo, informalidad y gasto público.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1415,7 +1415,7 @@
   "palabras": "Antioquia, Bello, Noticias de hoy",
   "lead": "Con estas recientes sanciones, ya son 15 los establecimientos de este tipo intervenidos en esa localidad del norte del Valle de Aburrá durante 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1426,7 +1426,7 @@
   "palabras": "Programas completos, Podcast",
   "lead": "Los hechos que son noticia en Colombia y el mundo en El Radar del 21 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1437,7 +1437,7 @@
   "palabras": "Antioquia, Medellín, Salud",
   "lead": "La situación dejó herido al coordinador de un centro de la red pública de la capital antioqueña. Autoridades están tras el responsable.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1448,7 +1448,7 @@
   "palabras": "Jair Bolsonaro, Brasil",
   "lead": "Los médicos le colocaron una sonda gástrica y lo mantienen en ayuno oral con soporte nutricional. \"No hay previsión de alta hospitalaria\", añadió la nota.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1459,7 +1459,7 @@
   "palabras": "",
   "lead": "El programa, desarrollado por la Gobernación y la UPTC, acumula 14.882 procedimientos desde diciembre de 2025. En lo corrido de 2026 se han realizado 12.281 intervenciones y las jornadas han llegado a 115 municipios del departamento.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1470,7 +1470,7 @@
   "palabras": "",
   "lead": "Parte de los recursos recaudados se destinará a la reconstrucción de escuelas en el Pacífico colombiano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1481,7 +1481,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo De la Espriella destacó los avances del emprendimiento caqueteño y anunció una nueva convocatoria para beneficiar a 12.000 emprendimientos del país.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "",
   "lead": "Las autoridades adelantan investigaciones para identificar y capturar a los responsables de los hechos registrados la noche del 19 de noviembre en la comuna 7 del distrito.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "",
   "lead": "La congresista Verónica Estrada confirmó que le otorgó poder a Santiago Trespalacios para que la represente y que no se referirá a los hechos mientras recibe el llamado de las autoridades.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "",
   "lead": "Los pasajeros asociados a estas maletas no abordaron el vuelo con destino a Punta Cana en República Dominicana.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "",
   "lead": "El audio es una pieza clave en la investigación que busca esclarecer las verdaderas causas de la muerte de la mujer",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "",
   "lead": "La solicitud hecha, por los representantes Alfredo Ape Cuello y Carlos Edward Osorio, buscaría verificar todos los diplomas y actas de grado que hayan recibido los congresistas de la cámara baja.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "",
   "lead": "La administración distrital busca información que permita identificar y capturar a los responsables del homicidio de Rafael Uribe, atacado a tiros en su establecimiento comercial.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "",
   "lead": "La entidad financiará con $1.000 millones iniciativas lideradas por universidades para atender las dificultades de estudiantes, comerciantes y pequeños empresarios de Caldas, Risaralda y Valle del Cauca.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "",
   "lead": "Conozca qué puede y qué no puede hacer un administrador con los parqueaderos de la copropiedad.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "El primer mandatario también informó que pidió que se acelere el inventario de los bienes entregados por los encabillas de las extintas FARC.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "",
   "lead": "El expresidente defendió el proyecto de la planta desalinizadora que asegura haber dejado listo durante su Gobierno y propuso un paro cívico regional y un cabildo popular permanente.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "",
   "lead": "Las restricciones aéreas en Bogotá y Medellín provocaron cancelaciones, retrasos y cambios de itinerario, en plena movilización de viajeros hacia la final de la Copa Sudamericana. Así respondió la aerolínea y este es el panorama actual en El Dorado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "El evento ofrece 250 actividades gratuitas durante el fin de semana. La programación incluye diseñadores, talleres, experiencias comerciales y una colección solidaria para apoyar a las regiones afectadas por el terremoto del 10 de agosto.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "El exfutbolista también contó cómo intervino en las llegadas de Álvaro Montero y Sebastián Villa al conjunto argentino.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "Deportes,Premier League de Inglaterra,Arsenal,Newcastle United,tabla de posiciones,Jugador lesionado",
   "lead": "Los dirigidos por Mikel Arteta comenzaron ganando, pero sufrieron la reacción de los locales.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "Deportes,Boca Juniors,Atlético Mineiro,Copa Conmebol Sudamericana,Estadio Metropolitano,Barranquilla,Copa Libertadores,Recopa Sudamericana,River Plate",
   "lead": "Boca, con los colombianos Villa y Montero, busca conquistar un nuevo título a nivel sudamericano.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "Orden Público,Narcotráfico,drogas,cocaína,Abelardo de la Espriella,La Guajira",
   "lead": "Operación Terra, apoyada por la DEA, incautó tres toneladas de cocaína en Dibulla, La Guajira, este sábado",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "Deportes,Copa Sudamericana,Boca Juniors,Atlético Mineiro,Conmebol,Copa Libertadores,Recopa Sudamericana,Copa Argentina,Semifinales,cuartos de final,Octavos de final,Fútbol",
   "lead": "Ambos equipos cuentan con ocho enfrentamientos internacionales y una final disputada en 1993.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "Orden Público,Cali, Colombia,Valle del Cauca,Asocaña",
   "lead": "El gremio advierte que violencia contra la agroindustria de la caña ha dejado este año,, un trabajador asesinado, cinco heridos, siete secuestrados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "Orden Público,Homicidios,habitante de calle,drogas,banda de microtráfico",
   "lead": "De acuerdo al reporte entregado por las autoridades, estas víctimas presuntamente tendrían vínculos con el microtráfico y bandas delincuenciales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "Orden Público,desaparición forzada,Barranquilla,Atlántico,hurto,Violencia de género",
   "lead": "Que las suelten: el desgarrador llamado de una familiar tras 15 días de la desaparición de Sonia y Kelly en Barranquilla",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "Deportes,montañista,Antártida,deportistas colombianos,Maratón,atleta,Bogotá",
   "lead": "Margarita Moreno es una montañista que, en mayo de 2025, se convirtió en la primera mujer colombiana en completar el desafío de las \"Siete Cumbres\".",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "Orden Público,Ejército Nacional,Antiexplosivos,ELN,disidencias",
   "lead": "Las operaciones militares se realizaron en zona rural de los municipios de El Zulia y San Cayetano.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,6 +1734,556 @@
   "palabras": "Orden Público,Cauca,Alteración al orden público,Protocolo sobre protesta social,Protestas en Colombia",
   "lead": "La ONU pide esclarecer la muerte de Ivonne Parra en Cauca. Su familia asegura que no participaba en las protestas, mientras el Ejército sostiene que no uti...",
   "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ejército destruyó cinco artefactos explosivos en zona rural de Ocaña",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ejercito-destruyo-cinco-artefactos-explosivos-en-zona-rural-de-ocana-rg10",
+  "fecha": "2026-11-21T16:18:30-05:00",
+  "palabras": "Ejército Nacional, Ocaña, Norte de Santander",
+  "lead": "La operación permitió neutralizar una amenaza que ponía en riesgo a uniformados y habitantes de la región.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Congresista Verónica Estrada rompe el silencio, no renuncia por título falso y designa abogado",
+  "enlace": "https://www.bluradio.com/politica/congresista-veronica-estrada-rompe-el-silencio-no-renuncia-por-titulo-falso-y-designa-abogado-rg10",
+  "fecha": "2026-11-21T15:42:12-05:00",
+  "palabras": "Pacto Histórico, Congreso de la República, Luz Verónica Estrada",
+  "lead": "La representante a la Cámara del Pacto Histórico, cuestionada por presunta falsedad de sus títulos de bachiller y universitarios, asegura que su equipo jurídico le recomendó no referirse al tema.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Boca Juniors, campeón de la Copa Sudamericana en Barranquilla: Mineiro no pudo reaccionar",
+  "enlace": "https://www.bluradio.com/deportes/futbol/atletico-mineiro-vs-boca-juniors-en-vivo-hoy-final-de-la-copa-sudamericana-en-barranquilla-so35",
+  "fecha": "2026-11-21T17:30:00-05:00",
+  "palabras": "Boca Juniors, Atlético Mineiro, Copa Sudamericana, Estadio Metropolitano de Barranquilla, Sebastián Villa, Álvaro Montero, en vivo, Señal en vivo, Partidos de hoy, Mineiro vs. Boca",
+  "lead": "Los colombianos Álvaro Montero y Sebastián Villa levantaron el título. El extremo realizó la asistencia para el segundo gol.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Video: escena de película, policía francés roba una bicicleta para perseguir a un sospechoso",
+  "enlace": "https://www.bluradio.com/mundo/video-escena-de-pelicula-policia-frances-roba-una-bicicleta-para-perseguir-a-un-sospechoso-so35",
+  "fecha": "2026-11-21T16:36:25-05:00",
+  "palabras": "Viral, Francia",
+  "lead": "Video muestra a un policía en Toulouse, Francia, tomando una bicicleta durante la persecución de un sospechoso y a su propietaria corriendo detrás para recuperarla.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Descubrió a su esposo con la amante en un restaurante y lo enfrentó delante de todos: quedó en video",
+  "enlace": "https://www.bluradio.com/sociedad/descubrio-a-su-esposo-con-la-amante-en-un-restaurante-y-lo-enfrento-delante-de-todos-quedo-en-video-rs15",
+  "fecha": "2026-11-21T17:06:35-05:00",
+  "palabras": "Viral, Redes sociales, Video",
+  "lead": "La mujer llegó acompañada de un menor de edad a hacer el reclamo, mientras los otros comensales lo escuchaban todo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Interoperabilidad y transparencia, claves para simplificar los trámites de licencias de tránsito",
+  "enlace": "https://www.bluradio.com/blu-4-0/interoperabilidad-y-transparencia-claves-para-simplificar-los-tramites-de-licencias-de-transito-so35",
+  "fecha": "2026-11-21T16:56:31-05:00",
+  "palabras": "Licencia de conducción, Código Nacional de Tránsito, Conducción",
+  "lead": "Un estudio sobre el Sistema de Control y Vigilancia (SICOV) propone eliminar trámites duplicados y clarificar los cobros sin debilitar la supervisión del Estado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo de hoy sábado 21 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-de-hoy-sabado-21-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-21T17:23:28-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
+  "lead": "El Paisita Noche tiene sorteos diarios y diferentes modalidades de apuesta. Consulte el resultado de este sábado, los horarios, el valor de las jugadas y los requisitos para reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "U. Rosario rechazó robo a estudiantes en cerros orientales y adelanta acciones ante las autoridades",
+  "enlace": "https://www.bluradio.com/regiones/bogota/u-rosario-rechazo-robo-a-estudiantes-en-cerros-orientales-y-adelanta-acciones-ante-las-autoridades-rg10",
+  "fecha": "2026-11-21T17:40:07-05:00",
+  "palabras": "Universidad del Rosario, Cerros orientales, Robos",
+  "lead": "La institución asegura que busca esclarecer los hechos y la recuperación de los equipos hurtados a los universitarios en el sendero Las Delicias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Comercio, preocupado por precio de licores y cerveza por ley de rescate económico",
+  "enlace": "https://www.bluradio.com/economia/comercio-preocupado-por-precio-de-licores-y-cerveza-por-ley-de-rescate-economico-rs15",
+  "fecha": "2026-11-21T18:08:00-05:00",
+  "palabras": "Precio de la cerveza, Gobierno nacional, ajuste fiscal, cerveza , iva a cerveza, ley de rescate económico, licor en colombia",
+  "lead": "Mientras el MinHacienda avanza en las mesas técnicas con el Congreso, los empresarios plantean alternativas tributarias y recortes al gasto estatal para evitar que el ajuste fiscal afecte el consumo y el empleo formal.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hinchas de Boca y Mineiro ingresan en paz al Metropolitano - BluRadio",
+  "enlace": "https://www.bluradio.com/regiones/caribe/futbol-y-armonia-hinchas-de-boca-y-mineiro-ingresan-en-paz-al-metropolitano-rg10",
+  "fecha": "2026-11-21T16:57:00-05:00",
+  "palabras": "Boca Juniors, Atlético Mineiro, Estadio Metropolitano de Barranquilla, Copa Sudamericana, Boca y Mineiro",
+  "lead": "Con 40 grados de temperatura de sensación térmica, los seguidores de ambos equipos alientan, debaten y brindan en la final de la Sudamericana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cuatro militares mexicanos y siete criminales murieron en la captura de El Chapo Isidro",
+  "enlace": "https://www.bluradio.com/mundo/cuatro-militares-mexicanos-y-siete-criminales-murieron-en-la-captura-de-el-chapo-isidro-cb20",
+  "fecha": "2026-11-21T18:16:40-05:00",
+  "palabras": "México, Cartel de Sinaloa, Sinaloa",
+  "lead": "La captura de El Chapo Isidro ha provocado bloqueos carreteros, ataque a negocios y quema de vehículos, según distintos videos compartidos en redes sociales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Once Caldas vs. Atlético Nacional EN VIVO partido de cuadrangular de la liga",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/once-caldas-vs-atletico-nacional-en-vivo-partido-de-cuadrangular-de-la-liga-so35",
+  "fecha": "2026-11-21T19:16:42-05:00",
+  "palabras": "Once Caldas, Atlético Nacional, Liga BetPlay, Señal en vivo, en vivo, Once Caldas vs. Atlético Nacional, Once Caldas vs. Nacional , atletico nacional hoy, cuadrangulares liga, grupo a liga betplay",
+  "lead": "Luego de la semifinal de copa, ambos equipos vuelven a enfrentarse y el verdolaga tiene ganas de revancha.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Donald Trump confirma hackeo contra el FBI y cree que podría destapar \"engaños\" contra él",
+  "enlace": "https://www.bluradio.com/mundo/donald-trump-confirma-hackeo-contra-el-fbi-y-cree-que-podria-destapar-enganos-contra-el-cb20",
+  "fecha": "2026-11-21T19:28:16-05:00",
+  "palabras": "Donald Trump, FBI, Estados Unidos, Cibercrimen",
+  "lead": "Trump añadió que siempre intenta buscar \"un enfoque positivo\", y vinculó una eventual filtración de datos con las investigaciones y polémicas que marcaron su carrera política, a las que volvió a referirse como \"engaños\".",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴EN VIVO Once Caldas vs Nacional HOY en cuadrangulares 2026-ll: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/22/en-vivo-once-caldas-vs-nacional-hoy-en-cuadrangulares-2026-ll-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-11-21T19:27:25-05:00",
+  "palabras": "",
+  "lead": "El conjunto verdolaga buscará la revancha tras la eliminación ante el Blanco Blanco en las semifinales de la Copa Colombia",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Boca se reencuentra con la gloria continental en Barranquilla ¡Campeón de la Sudamericana!",
+  "enlace": "https://caracol.com.co/2026/11/21/en-vivo-mineiro-vs-boca-hoy-final-de-sudamericana-en-barranquilla-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-11-21T19:27:09-05:00",
+  "palabras": "",
+  "lead": "El colombiano Sebastián Villa fue una de las grandes figuras en la final contra Atlético Mineiro.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concejo de Neiva reconoce al cirujano urólogo César Andrade por su trayectoria médica",
+  "enlace": "https://caracol.com.co/2026/11/22/concejo-de-neiva-reconoce-al-cirujano-urologo-cesar-andrade-por-su-trayectoria-medica/",
+  "fecha": "2026-11-21T19:26:54-05:00",
+  "palabras": "",
+  "lead": "El especialista huilense recibió una exaltación por sus aportes pioneros a la cirugía urológica laparoscópica y robótica en Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Es llamativa la solidaridad con varones del partido y no con ella: abogado de Verónica Estrada",
+  "enlace": "https://caracol.com.co/2026/11/21/es-llamativo-la-solidaridad-con-varones-del-partido-y-no-con-ella-abogado-de-veronica-estrada/",
+  "fecha": "2026-11-21T18:48:47-05:00",
+  "palabras": "",
+  "lead": "El apoderado de la representante, el jurista Santiago Trespalacios habló con Caracol Radio sobre el futuro del caso de la congresista del Pacto Histórico.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué pasa con el agua y la recuperación del río Atrato?",
+  "enlace": "https://caracol.com.co/2026/11/21/que-pasa-con-el-agua-y-la-recuperacion-del-rio-atrato/",
+  "fecha": "2026-11-21T18:28:15-05:00",
+  "palabras": "",
+  "lead": "Se busca articular con la Sentencia T-622 de 2016, que reconoce al río como sujetos de derechos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín: un aguacero con tormenta eléctrica tumbó un árbol y tres quebradas tuvieron nivel rojo",
+  "enlace": "https://caracol.com.co/2026/11/21/medellin-un-aguacero-con-tormenta-electrica-tumbo-un-arbol-y-tres-quebradas-tuvieron-nivel-rojo/",
+  "fecha": "2026-11-21T18:31:49-05:00",
+  "palabras": "",
+  "lead": "El enorme árbol cayó en la calle San Juan por La América y afectó dos vehículos. No hay personas lesionadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "EE.UU. emitió alerta de seguridad para conciudadanos en Sinaloa tras captura de ‘El Chapo Isidro’",
+  "enlace": "https://caracol.com.co/2026/11/21/eeuu-emitio-alerta-de-seguridad-para-conciudadanos-en-sinaloa-tras-captura-de-el-chapo-isidro/",
+  "fecha": "2026-11-21T18:07:59-05:00",
+  "palabras": "",
+  "lead": "Se reportan enfrentamientos armados, bloqueos de carreteras e incendios de vehículos. Las autoridades pidieron a la población permanecer resguardada y evitar desplazamientos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las 10 mejores razas de perro para salir a correr ¿Labrador en la lista?: Plan de entrenamiento",
+  "enlace": "https://caracol.com.co/2026/11/21/las-10-mejores-razas-de-perro-para-salir-a-correr-labrador-en-la-lista-plan-de-entrenamiento/",
+  "fecha": "2026-11-21T17:58:12-05:00",
+  "palabras": "",
+  "lead": "El ejercitarse con una mascota refuerza el vínculo y promueve una actividad favorable para mantener una óptima condición física.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Atraco armado a estudiantes del Rosario en Bogotá: les robaron equipos de $60 millones",
+  "enlace": "https://caracol.com.co/2026/11/21/atraco-armado-a-estudiantes-del-rosario-en-bogota-les-robaron-equipos-de-60-millones/",
+  "fecha": "2026-11-21T17:56:48-05:00",
+  "palabras": "",
+  "lead": "Aseguran que habitantes del sector les entregaron información sobre uno de los presuntos responsables. La universidad activó una ruta de atención y pidió reforzar la vigilancia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Caen presuntos integrantes del Clan del Golfo señalados de extorsiones y homicidios en Santander",
+  "enlace": "https://caracol.com.co/2026/11/21/caen-presuntos-integrantes-del-clan-del-golfo-senalados-de-extorsiones-y-homicidios-en-santander/",
+  "fecha": "2026-11-21T17:24:13-05:00",
+  "palabras": "",
+  "lead": "Durante el operativo fueron incautadas cinco armas de fuego, munición y radios de comunicación. Los capturados también serían responsables de instalar retenes ilegales en zonas urbanas y rurales del municipio.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Festival de Efraín y María en la Hacienda El Paraíso este domingo 22 de noviembre",
+  "enlace": "https://caracol.com.co/2026/11/21/festival-de-efrain-y-maria-en-la-hacienda-el-paraiso-este-domingo-22-de-noviembre/",
+  "fecha": "2026-11-21T17:22:39-05:00",
+  "palabras": "",
+  "lead": "Un encuentro para impulsar el turismo y apoyar la reactivación económica del Valle del Cauca después del sismo de pasado 10 de agosto.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ofrecen $15 millones de recompensa por responsables de atentados contra comercios en Barrancabermeja",
+  "enlace": "https://caracol.com.co/2026/11/21/ofrecen-15-millones-de-recompensa-por-responsables-de-atentados-contra-comercios-en-barrancabermeja/",
+  "fecha": "2026-11-21T13:37:37-05:00",
+  "palabras": "",
+  "lead": "Las autoridades adelantan investigaciones para identificar y capturar a los responsables de los hechos registrados la noche del 19 de noviembre en la comuna 7 del distrito.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Juanes conquistó Bogotá con dos conciertos: ¿cuántas personas asistieron y cómo fueron las noches?",
+  "enlace": "https://caracol.com.co/2026/11/21/juanes-conquisto-bogota-con-dos-conciertos-cuantas-personas-asistieron-y-como-fueron-las-noches/",
+  "fecha": "2026-11-21T17:13:24-05:00",
+  "palabras": "",
+  "lead": "El paisa se presentó el 19 y 20 de noviembre en El Corazón de Bogotá Arena, con un recorrido por sus grandes éxitos y su nuevo álbum.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Flamengo, con Jorge Carrascal, empató con Palmeiras y se coronó campeón del Brasileirao",
+  "enlace": "https://caracol.com.co/2026/11/21/flamengo-con-jorge-carrascal-empato-con-palmeiras-y-se-corono-campeon-del-brasileirao/",
+  "fecha": "2026-11-21T17:12:42-05:00",
+  "palabras": "",
+  "lead": "El colombiano Jhon Arias marcó la anotación del Verdao, mientras que Samuel Lino hizo el del Mengao.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Sandra Ramírez negó ante la JEP señalamientos por abusos sexuales contra menores reclutadas",
+  "enlace": "https://caracol.com.co/2026/11/21/sandra-ramirez-nego-ante-la-jep-senalamientos-por-abusos-sexuales-contra-menores-reclutadas/",
+  "fecha": "2026-11-21T17:04:46-05:00",
+  "palabras": "",
+  "lead": "La versión libre se realizó el pasado 17 de septiembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Isabel Zuleta denunciará a exmilitante de Colombia Humana por declaraciones sobre Verónica Estrada",
+  "enlace": "https://caracol.com.co/2026/11/21/isabel-zuleta-denunciara-a-exmilitante-de-colombia-humana-por-declaraciones-sobre-veronica-estrada/",
+  "fecha": "2026-11-21T16:47:47-05:00",
+  "palabras": "",
+  "lead": "La senadora del Pacto Histórico anunció medidas legales tras lo dicho por Alejandra Montoya, exintegrante de la coordinación de Colombia Humana en Medellín.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Otro minero murió en Boyacá",
+  "enlace": "https://caracol.com.co/2026/11/21/otro-minero-murio-en-boyaca/",
+  "fecha": "2026-11-21T16:40:36-05:00",
+  "palabras": "",
+  "lead": "Ya son 10 trabajadores fallecidos en accidentes durante la última semana. En lo corrido de 2026, el departamento registra al menos 24 víctimas mortales en accidentes mineros.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“No es el único caso”: Felipe Pedraza, joven que descubrió los títulos falsos de Verónica Estrada",
+  "enlace": "https://caracol.com.co/2026/11/21/no-es-el-unico-caso-felipe-pedraza-joven-que-descubrio-los-titulos-falsos-de-veronica-estrada/",
+  "fecha": "2026-11-21T15:15:31-05:00",
+  "palabras": "",
+  "lead": "Conocido en sus redes sociales como ‘Rentas’, Pedraza dijo, en entrevista con Caracol Radio, que el caso de la representante del Pacto Histórico no es aislado.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Intentaron escapar por el río Magdalena dos jóvenes señalados de porte ilegal de armas en Calamar",
+  "enlace": "https://caracol.com.co/2026/11/21/intentaron-escapar-por-el-rio-magdalena-dos-jovenes-senalados-de-porte-ilegal-de-armas-en-calamar/",
+  "fecha": "2026-11-21T16:27:30-05:00",
+  "palabras": "",
+  "lead": "Uno de los sospechosos habría apuntado contra los policías durante el procedimiento pero fueron detenidos con el apoyo de la Infantería de Marina",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Picos de 60 centímetros de marea tendrá Cartagena en la próxima semana",
+  "enlace": "https://caracol.com.co/2026/11/21/picos-de-60-centimetros-de-marea-tendra-cartagena-en-la-proxima-semana/",
+  "fecha": "2026-11-21T16:23:35-05:00",
+  "palabras": "",
+  "lead": "La Administración Distrital reitera la importancia de mantenerse informados a través de los canales oficiales y atender las recomendaciones de las autoridades",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Presuntos maltratos, amenazas y renuncias durante la gestión de Julia Daza en la Biblioteca Nacional",
+  "enlace": "https://caracol.com.co/2026/11/21/presuntos-maltratos-amenazas-y-renuncias-durante-la-gestion-de-julia-daza-en-la-biblioteca-nacional/",
+  "fecha": "2026-11-21T16:16:49-05:00",
+  "palabras": "",
+  "lead": "Catalina Navas, coordinadora de la Red Relata, aseguró que perdió autonomía para tomar decisiones y supervisar los procesos del programa tras la llegada de Daza a la dirección.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Obras en Albornoz buscan aumentar en 10.000 m³ diarios la distribución de agua potable",
+  "enlace": "https://caracol.com.co/2026/11/21/obras-en-albornoz-buscan-aumentar-en-10000-m-diarios-la-distribucion-de-agua-potable/",
+  "fecha": "2026-11-21T16:20:33-05:00",
+  "palabras": "",
+  "lead": "Por más de un mes se mantendrán medidas de regulación del tráfico en la vía Mamonal",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gran Malecón del Mar de Cartagena, única parada de Sudamérica en The Great World Race",
+  "enlace": "https://caracol.com.co/2026/11/21/gran-malecon-del-mar-de-cartagena-unica-parada-de-sudamerica-en-the-great-world-race/",
+  "fecha": "2026-11-21T16:12:26-05:00",
+  "palabras": "",
+  "lead": "La capital de Bolívar recibió este sábado la sexta etapa de una de las competencias de resistencia más exigentes del planeta",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Después de 25 años, el nuevo POT de Cartagena recibe concepto favorable del CTP",
+  "enlace": "https://caracol.com.co/2026/11/21/despues-de-25-anos-el-nuevo-pot-de-cartagena-recibe-concepto-favorable-del-ctp/",
+  "fecha": "2026-11-21T16:06:34-05:00",
+  "palabras": "",
+  "lead": "El Consejo Territorial de Planeación reconoció el esfuerzo técnico e institucional de la administración del alcalde Dumek Turbay",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Con alta resistencia: Cemento País transforma confianza en nación",
+  "enlace": "https://caracol.com.co/2026/11/21/con-alta-resistencia-cemento-pais-transforma-confianza-en-nacion/",
+  "fecha": "2026-11-21T16:02:34-05:00",
+  "palabras": "",
+  "lead": "No es un eslogan, es una forma de hacer empresa desde el Caribe para toda Colombia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Dimar alerta por marea alta en Santa Marta: el mar podría subir hasta 76 centímetros",
+  "enlace": "https://caracol.com.co/2026/11/21/dimar-alerta-por-marea-alta-en-santa-marta-el-mar-podria-subir-hasta-76-centimetros/",
+  "fecha": "2026-11-21T16:00:23-05:00",
+  "palabras": "",
+  "lead": "La Dimar alertó sobre el aumento de la marea en el litoral Caribe hasta el 29 de noviembre. En Santa Marta, el nivel del mar podría alcanzar los 76 centímetros, por lo que se recomienda precaución en zonas costeras bajas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Carlos Vives en LOS40 Music Awards 2026: ¿qué canciones interpretó en Barcelona?",
+  "enlace": "https://caracol.com.co/2026/11/21/carlos-vives-en-los40-music-awards-2026-que-canciones-interpreto-en-barcelona/",
+  "fecha": "2026-11-21T15:33:21-05:00",
+  "palabras": "",
+  "lead": "El colombiano recibió el Golden Music Award y puso a cantar al público con sus grandes éxitos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La Unión Europea estrecha la cooperación con Colombia: eurodiputados visitarán el país en diciembre",
+  "enlace": "https://caracol.com.co/2026/11/21/la-union-europea-estrecha-la-cooperacion-con-colombia-eurodiputados-visitaran-el-pais-en-diciembre/",
+  "fecha": "2026-11-21T15:32:09-05:00",
+  "palabras": "",
+  "lead": "Una comitiva, de la importante organización transnacional, llegará al país entre el 20 al 22 de diciembre de este año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Mineiro vs. Boca: Este fue el ganador de la Sudamericana",
+  "enlace": "https://www.lafm.com.co/deportes/final-copa-sudamericana-2026-este-fue-ganador-duelo-entre-atletico-mineiro-boca-juniors-417918",
+  "fecha": "2026-11-21T19:25:00-05:00",
+  "palabras": "Deportes,Copa Sudamericana,Atlético Mineiro,Boca Juniors,Estadio Metropolitano,Barranquilla,Fútbol,Conmebol,Copa Conmebol Sudamericana",
+  "lead": "El equipo argentino controló el balón durante gran parte del partido.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Abatidos dos integrantes de las disidencias en Antioquia",
+  "enlace": "https://www.lafm.com.co/politica/integrantes-disidencia-farc-fueron-dados-baja-antioquia-417922",
+  "fecha": "2026-11-21T18:00:00-05:00",
+  "palabras": "Política,Inseguridad,Abelardo de la Espriella,Gobierno,Disidentes de las Farc,Combates,Mega operativo",
+  "lead": "De la Espriella confirmó que, además, se incautaron cuatro fusiles, 14 proveedores y 1.077 cartuchos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Impresionante show de encendido de la Navidad en Madrid",
+  "enlace": "https://www.lafm.com.co/internacional/madrid-espana-le-dio-la-bienvenida-a-la-navidad-con-un-espectaculo-de-luces-y-drones-417921",
+  "fecha": "2026-11-21T17:36:00-05:00",
+  "palabras": "Internacional,Navidad,Madrid,Reyes magos,Villancicos,decoración,Alumbrado público,Celebraciones,Concierto",
+  "lead": "Cuatro niños de ceuta fueron los encargados de encender las luces en los 21 distritos de la capital española.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Congresista Andrea Vargas aclara detalles sobre sus estudios",
+  "enlace": "https://www.lafm.com.co/politica/congresista-andrea-vargas-tras-cuestionamiento-sus-estudios-417920",
+  "fecha": "2026-11-21T17:31:00-05:00",
+  "palabras": "Política,Pacto Histórico,Titular,Cámara de Representantes,Estudios de posgrado,Certificados falsos",
+  "lead": "La congresista aclaró que cursó las materias de Derecho, pero que tiene pendiente cumplir los requisitos para recibir el diploma.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿James Bond existió? El agente que habría inspirado a 007",
+  "enlace": "https://www.lafm.com.co/entretenimiento/james-bond-robert-pattinson-agente-secreto-william-stephenson-inspiracion-417919",
+  "fecha": "2026-11-21T16:49:00-05:00",
+  "palabras": "Entretenimiento,James Bond,Espía,Cine,Robert Pattinson",
+  "lead": "William Stephenson fue uno de los agentes de inteligencia que habría servido de referencia para Ian Fleming al crear a James Bond.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ella es Lucía Caminos, la primer protagonista en la saga GTA",
+  "enlace": "https://www.lafm.com.co/sociedad/gta-tiene-primera-vez-mujer-portagonista-quien-lucia-caminos-417916",
+  "fecha": "2026-11-21T16:03:00-05:00",
+  "palabras": "Sociedad,Videojuegos,Actriz,Juegos,Equidad de género",
+  "lead": "Parte de la personalidad de Lucía está inspirada en las experiencias que marcan la vida de las mujeres migrantes.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "GTA VI para PC: ¿cuándo sería su lanzamiento del videojuego?",
+  "enlace": "https://www.lafm.com.co/sociedad/gta-vi-computadores-cuando-se-lanzara-417917",
+  "fecha": "2026-11-21T15:48:00-05:00",
+  "palabras": "Sociedad,Tecnología,Videojuegos,computadores,Inteligencia artificial",
+  "lead": "GTA VI ya ha generado diversas reacciones en redes sociales, donde los jugadores comparten videos de sus partidas y hallazgos dentro del videojuego.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Pinedo y Petro se enfrentan por el agua de Santa Marta hoy",
+  "enlace": "https://www.lafm.com.co/actualidad/agua-potable-santa-marta-carlos-pinedo-expresidente-petro-417915",
+  "fecha": "2026-11-21T14:56:00-05:00",
+  "palabras": "Actualidad,Agua,Santa Marta,Alcalde de Santa Marta,Gustavo Petro,Proyectos sostenibles",
+  "lead": "Petro defendió la desalinizadora y pidió protestas; Pinedo reclamó las obras que no se ejecutaron en Santa Marta.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Verónica Estrada guarda silencio por polémica de sus títulos",
+  "enlace": "https://www.lafm.com.co/politica/veronica-estrada-designa-abogado-polemica-titulos-santiago-defensa-camara-417914",
+  "fecha": "2026-11-21T14:53:00-05:00",
+  "palabras": "Política,Congreso de la República,Títulos falsos,Certificados falsos,títulos universitarios,Comisión de Ética,Pacto Histórico,Pérdida de curul,Abogados",
+  "lead": "La representante aseguró que por recomendación de su equipo jurídico, no se referirá a los hechos y estará atenta a los requerimientos de las autoridades.",
+  "seccion": "politica",
   "nueva": true,
   "tambien": []
  }
