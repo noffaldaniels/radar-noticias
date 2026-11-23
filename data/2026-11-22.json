@@ -1481,7 +1481,7 @@
   "palabras": "Antioquia, Noticias de hoy, Medellín, Concejo de Medellín",
   "lead": "Desde la administración distrital destcaron que la capital antioqueña es una de las ciudades del país con mayor inversión social y más bajos montos destinados al funcionamiento.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1492,7 +1492,7 @@
   "palabras": "Antioquia, Tráfico de drogas, Bello",
   "lead": "Los elementos incautados al hombre por parte de las autoridades tienen un valor comercial cercano a los 10 millones de pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1503,7 +1503,7 @@
   "palabras": "Medellín, Taxis, Movilidad, Uber, DiDi, Aplicaciones móviles",
   "lead": "Según la consultora Datexco, por año las pérdidas son de más de un millón por conductor. El gremio pide regulación y se prevén nuevas manifestaciones.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1514,7 +1514,7 @@
   "palabras": "Gobernación de Santander, Noticias de hoy, Blu Radio, Agua potable, Racionamiento de agua",
   "lead": "Barichara, Villanueva y Cabrera tienen restricciones en el suministro desde el 3 de noviembre. La medida también afecta a 19 veredas, donde los cortes pueden alcanzar ocho horas diarias por la disminución de los caudales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1525,7 +1525,7 @@
   "palabras": "Sinuano día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Sinuano Día juega todos los días a las 2:30 p. m. Consulte aquí el número ganador de hoy, domingo 22 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1536,7 +1536,7 @@
   "palabras": "Caribeña día, Resultados del chance, Chances y Loterías",
   "lead": "El chance Caribeña Día juega de lunes a sábado a las 4:00 p. m. Consulte aquí el número ganador del último sorteo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1547,7 +1547,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional, Fiscalía General de la Nación",
   "lead": "El hombre es señalado de haber trabajado como falso médico en la Clínica San José de Barrancabermeja durante 2025. Ya había sido capturado por hechos similares, pero siempre queda en libertad debido incluso a la falta de denuncia de los mismos centros asistenciales donde ha laborado.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1558,7 +1558,7 @@
   "palabras": "Valle del Cauca, Dagua, ELN",
   "lead": "El siguiente objetivo de las autoridades en esta zona es alias Bertha, cabecilla del frente 'Luis Carlos Cárdenas' del ELN, por su captura se ofrece una recompensa casi de 800 millones de pesos.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1569,7 +1569,7 @@
   "palabras": "Uber, DiDi, Aplicaciones móviles",
   "lead": "El proyecto busca establecer nuevas reglas para conductores, plataformas digitales, pasajeros y taxis.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1580,7 +1580,7 @@
   "palabras": "",
   "lead": "La Heroica recibió durante sus fiestas a miles de visitantes nacionales e internacionales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1591,7 +1591,7 @@
   "palabras": "Reforma tributaria, Andrés Forero",
   "lead": "El congresista cuestionó varios impuestos que siguen sobre la mesa y explicó qué cambios propone su partido para conseguir recursos, reducir el gasto estatal y evitar mayores cargas para los colombianos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1602,7 +1602,7 @@
   "palabras": "Bayern Múnich, Alemania, Bundesliga",
   "lead": "El jugador tiene un trastorno neurológico funcional que ya le había provocado dos ataques de ausencia en agosto.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1613,7 +1613,7 @@
   "palabras": "",
   "lead": "La víctima fue intimidada con armas cortopunzantes, amordazada y abandonada en una zona boscosa de la vía que conduce a La Calera. La Policía recuperó el vehículo, dos celulares y dinero en efectivo.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1624,7 +1624,7 @@
   "palabras": "",
   "lead": "Esta semana se reactivó el juicio por el escándalo del extinto Fonade",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1635,7 +1635,7 @@
   "palabras": "",
   "lead": "El más reciente título de Boca Juniors sumó dos representantes nacionales a la historia del certamen.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1646,7 +1646,7 @@
   "palabras": "",
   "lead": "Fue sorprendido cuando presuntamente comercializaba elementos hurtados de una vidriería",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1657,7 +1657,7 @@
   "palabras": "",
   "lead": "Es uno de los megaproyectos de infraestructura más importantes que ejecuta la administración",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1668,7 +1668,7 @@
   "palabras": "",
   "lead": "Postula tu película, consulta las bases completas en la página web",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1679,7 +1679,7 @@
   "palabras": "",
   "lead": "El colombiano confirmó que está recuperado de su lesión muscular y podría reaparecer este miércoles ante Lille, por Champions League.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1690,7 +1690,7 @@
   "palabras": "",
   "lead": "Dos adolescentes de 16 años y un joven de 19 figuran entre las víctimas mortales. También se reportaron ataques contra un comerciante y un líder comunal.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1701,7 +1701,7 @@
   "palabras": "",
   "lead": "Es señalado de atentar contra varios comerciantes de la isla",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1712,7 +1712,7 @@
   "palabras": "",
   "lead": "El hombre sería integrante del Frente Hernando González Acosta del Estado Mayor Central. Durante el operativo también fue recuperada una adolescente que presuntamente habría sido reclutada de manera ilícita.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1723,7 +1723,7 @@
   "palabras": "",
   "lead": "A través de 33 piezas, el artista Pablo Forero reinterpreta grandes obras de la historia del arte con una técnica que recrea la manera en que se ven las imágenes a través del agua. La exposición conecta la pintura clásica con una experiencia cotidiana de Bogotá: la lluvia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1734,7 +1734,7 @@
   "palabras": "",
   "lead": "Repase las clasificaciones en la fecha 11 del campeonato inglés.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1745,7 +1745,7 @@
   "palabras": "",
   "lead": "Las autoridades establecieron una mesa estratégica de seguridad",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1756,7 +1756,7 @@
   "palabras": "Economía,Salario Mínimo,aumento de ingresos,Colombia,Dinero",
   "lead": "La negociación del salario mínimo de 2027 comenzará el 26 de noviembre, con sesiones técnicas previas a la instalación oficial.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1767,7 +1767,7 @@
   "palabras": "Deportes,Manchester United,Liverpool,Premier League,tabla de posiciones,Fútbol,Premier League de Inglaterra",
   "lead": "El resultado profundiza la crisis del United, que llegó al compromiso ubicado en la zona de descenso y se agrava su situación.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -1778,6 +1778,699 @@
   "palabras": "Orden Público,Actos terroristas,Militares,Gobernación del Cesar,Grupos terroristas,recompensa",
   "lead": "Gobernación del Cesar busca a los responsables del ataque que dejó un soldado muerto y 12 militares heridos.",
   "seccion": "alto",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Podría Abelardo De La Espriella lograr otro gran acuerdo de paz? Juan Manuel Santos responde",
+  "enlace": "https://www.bluradio.com/nacion/podria-abelardo-de-la-espriella-lograr-otro-gran-acuerdo-de-paz-juan-manuel-santos-responde-pr30",
+  "fecha": "2026-11-22T15:32:30-05:00",
+  "palabras": "Acuerdo de paz, Juan Manuel Santos, Abelardo De La Espriella, Héctor Fabio Henao, Conflicto armado en Colombia",
+  "lead": "El expresidente Juan Manuel Santos y Monseñor Héctor Fabio Henao hicieron un balance de los diez años del acuerdo con las Farc, sus avances, las dificultades de implementación y los desafíos de la reconciliación en Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ofrecen $50 millones de recompensa por responsables de ataques violentos en Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/ofrecen-50-millones-de-recompensa-por-responsables-de-ataques-violentos-en-barrancabermeja-rg10",
+  "fecha": "2026-11-22T16:43:12-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Barrancabermeja, Policía Nacional",
+  "lead": "Tras tres homicidios y varios ataques con armas de fuego contra comerciantes y líderes comunitarios, las autoridades anunciaron una ofensiva de seguridad en las siete comunas, corregimientos y zona de ribera del distrito.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La IA mejora experiencia del usuario: 22 de noviembre de 2026 - Blu 4.0, programa completo",
+  "enlace": "https://www.bluradio.com/blu-4-0/la-ia-mejora-experiencia-del-usuario-22-de-noviembre-de-2026-blu-4-0-programa-completo-so35",
+  "fecha": "2026-11-22T15:35:48-05:00",
+  "palabras": "Programas completos, Podcast",
+  "lead": "La inteligencia artificial redefine el empleo, los negocios y la vida diaria, mientras expertos explican cómo adaptarse a esta transformación tecnológica global.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Descubrió que su novia le era infiel y desató una pelea campal con pedradas: quedó en video",
+  "enlace": "https://www.bluradio.com/mundo/descubrio-que-su-novia-le-era-infiel-y-desato-una-pelea-campal-con-pedradas-quedo-en-video-rs15",
+  "fecha": "2026-11-22T16:18:43-05:00",
+  "palabras": "Viral, Video",
+  "lead": "Dos hombres descubrieron que, al parecer, mantenían una relación sentimental con la misma mujer sin saberlo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "MinTIC pidió a X suspender la cuenta de Gustavo Petro por posible incitación a la violencia",
+  "enlace": "https://www.bluradio.com/politica/mintic-pidio-a-x-suspender-la-cuenta-de-gustavo-petro-por-posible-incitacion-a-la-violencia-rg10",
+  "fecha": "2026-11-22T16:34:45-05:00",
+  "palabras": "Gustavo Petro, Abelardo De La Espriella, Ministerio de las TIC, Twitter",
+  "lead": "El Ministerio presentó una carta ante la red social para suspender el perfil del expresidente, tras una publicación en la que le pedía a los colombianos exigir la renuncia del presidente Abelardo De La Espriella sin aparente justificación y tomando en cuenta su impacto público.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Violencia contra las mujeres en Colombia: más de 114 feminicidios hasta septiembre de 2026",
+  "enlace": "https://www.bluradio.com/nacion/violencia-contra-las-mujeres-en-colombia-mas-de-114-feminicidios-hasta-septiembre-de-2026-pr30",
+  "fecha": "2026-11-22T16:51:46-05:00",
+  "palabras": "Feminicidio",
+  "lead": "La abogada también advirtió que la violencia sexual no responde necesariamente al perfil de un agresor que la sociedad identifica como peligroso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo atentado a supermercado Olímpica en Barranquilla deja dos personas capturadas",
+  "enlace": "https://www.bluradio.com/regiones/caribe/nuevo-atentado-a-supermercado-olimpica-en-barranquilla-deja-dos-personas-capturadas-rg10",
+  "fecha": "2026-11-22T17:00:20-05:00",
+  "palabras": "atentado terrorista, Policía Nacional",
+  "lead": "Los ataques a los almacenes de cadena serían retaliaciones de un grupo delincuencial al que las autoridades le vienen asestando golpes a sus economías ilícitas, informó la Policía.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "¿Oferta irresistible? Consejos para evitar descuentos falsos y precios engañosos en Black Friday",
+  "enlace": "https://www.bluradio.com/economia/oferta-irresistible-consejos-para-evitar-descuentos-falsos-y-precios-enganosos-en-black-friday-so35",
+  "fecha": "2026-11-22T17:21:08-05:00",
+  "palabras": "Black Friday",
+  "lead": "Black Friday: conozca cómo detectar descuentos falsos, revisar el historial de precios, verificar tiendas en línea y evitar ofertas engañosas antes de comprar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Asesinan a sobrino de poderoso narcotraficante mexicano y a su escolta en ataque armado",
+  "enlace": "https://www.bluradio.com/mundo/asesinan-a-sobrino-de-poderoso-narcotraficante-mexicano-y-a-su-escolta-en-ataque-armado-cb20",
+  "fecha": "2026-11-22T17:50:55-05:00",
+  "palabras": "Asesinatos, México",
+  "lead": "Las autoridades confirmaron que la víctima era familiar del narcotraficante Rafael Caro Quintero y fue atacada a tiros junto con su escolta.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Paisita Noche, resultado del último sorteo de hoy domingo 22 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/paisita-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-22-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-22T17:48:11-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Paisita Noche",
+  "lead": "El chance Paisita Noche se juega todos los días. Consulte el número ganador del sorteo de este domingo 22 de noviembre de 2026, conozca sus horarios, modalidades de apuesta y los requisitos para reclamar premios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Están disparando”: angustiante momento que vivió periodista en operativo contra el ‘Chapo Isidro’",
+  "enlace": "https://www.bluradio.com/mundo/estan-disparando-angustiante-momento-que-vivio-periodista-en-operativo-contra-el-chapo-isidro-rs15",
+  "fecha": "2026-11-22T19:30:57-05:00",
+  "palabras": "Video, Viral, México",
+  "lead": "En medio de su reporte, se escucharon varias detonaciones de arma de fuego a pocos metros de donde se encontraba, lo que lo obligó a buscar refugio para protegerse.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Niña jugaba a la gallinita ciega cuando cayó desde altura de ocho metros: video captó el accidente",
+  "enlace": "https://www.bluradio.com/mundo/nina-jugaba-a-la-gallinita-ciega-cuando-cayo-desde-altura-de-ocho-metros-video-capto-el-accidente-so35",
+  "fecha": "2026-11-22T18:19:26-05:00",
+  "palabras": "Turquía, Viral",
+  "lead": "Una niña cayó desde un muro de ocho metros mientras jugaba a la gallinita ciega. Parte de la vegetación amortiguó parcialmente el impacto antes de llegara al suelo.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Noche, resultado del último sorteo de hoy domingo 22 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-22-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-22T18:30:41-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Dorado Noche",
+  "lead": "El chance Dorado Noche es uno de los sorteos que más consultas registra entre los apostadores de Bogotá y Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Caribeña Noche, resultado del último sorteo de hoy domingo 22 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/caribena-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-22-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-22T19:11:38-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Caribeña noche",
+  "lead": "El chance Caribeña Noche juega todos los días en jornada nocturna. Consulte aquí el número ganador del sorteo de hoy domingo 22 de noviembre de 2026 y verifique las cifras premiadas de esta jornada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Accidente en Cajamarca, Tolima: tractomula se habría quedado sin frenos y chocó contra viviendas",
+  "enlace": "https://www.bluradio.com/nacion/accidente-en-cajamarca-tolima-tractomula-se-habria-quedado-sin-frenos-y-choco-contra-viviendas-rs15",
+  "fecha": "2026-11-22T18:53:39-05:00",
+  "palabras": "Accidente de tránsito, Tolima, Cajamarca",
+  "lead": "De acuerdo con la información preliminar, el vehículo de carga habría perdido el control y chocado contra casas y locales comerciales.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Chontico Noche, resultado del último sorteo de hoy domingo 22 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/chontico-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-22-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-22T19:12:05-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Chontico Noche",
+  "lead": "El chance Chontico Noche juega todos los días en jornada nocturna. Consulte aquí el número ganador del sorteo de este domingo 22 de noviembre de 2026 y conozca las cifras premiadas para verificar su apuesta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sinuano Noche, resultado del último sorteo de hoy domingo 22 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/sinuano-noche-resultado-del-ultimo-sorteo-de-hoy-domingo-22-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-22T19:12:18-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Sinuano noche",
+  "lead": "El chance Sinuano Noche juega todos los días a las 10:30 p. m. Consulte aquí el número ganador del sorteo de hoy domingo 22 de noviembre de 2026 y verifique las cifras premiadas de esta jornada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Luna, resultado del último sorteo de hoy domingo 22 de noviembre de 2026: número ganador",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-luna-resultado-del-ultimo-sorteo-de-hoy-domingo-22-de-noviembre-de-2026-numero-ganador-so35",
+  "fecha": "2026-11-22T19:12:30-05:00",
+  "palabras": "Resultados del chance, Chances y Loterías, Super Astro Luna",
+  "lead": "El chance Super Astro Luna juega todos los días, incluidos domingos y festivos. Consulte aquí el número ganador del sorteo de hoy domingo 22 de noviembre de 2026 y conozca la combinación de cifras y signo zodiacal que resultó premiada.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia sigue rezagada en la ejecución de Open Finance: ¿qué falta para que llegue a los usuarios?",
+  "enlace": "https://www.bluradio.com/economia/colombia-sigue-rezagada-en-la-ejecucion-de-open-finance-que-falta-para-que-llegue-a-los-usuarios-rg10",
+  "fecha": "2026-11-22T19:27:43-05:00",
+  "palabras": "Finanzas",
+  "lead": "Las finanzas abiertas permitirían que los colombianos autoricen el intercambio de su información entre entidades financieras para acceder a diferentes productos y servicios. Aunque el Gobierno estableció su implementación obligatoria, los plazos para desarrollar el sistema fueron ampliados y…",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Hombre con alzheimer sobrevive 11 días perdido en la selva amazónica brasileña",
+  "enlace": "https://www.bluradio.com/mundo/hombre-con-alzheimer-sobrevive-11-dias-perdido-en-la-selva-amazonica-brasilena-cb20",
+  "fecha": "2026-11-22T19:44:28-05:00",
+  "palabras": "Amazonía, Viral",
+  "lead": "Medios locales reportaron este domingo que el anciano, un exminero informal con larga experiencia en la selva, comió frutos de buriti, una palmera amazónica, y bebió agua de fuentes naturales.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "A la cárcel alias 'Blue', imputada por terrorismo por cinco ataques en Bogotá durante protestas",
+  "enlace": "https://www.bluradio.com/judicial/a-la-carcel-alias-blue-imputada-por-terrorismo-por-cinco-ataques-en-bogota-durante-protestas-rg10",
+  "fecha": "2026-11-22T20:00:32-05:00",
+  "palabras": "Protestas en Colombia, Bogotá",
+  "lead": "La mujer fue capturada en Cali el 19 de noviembre con una sustancia compatible con un explosivo; no aceptó los cargos y un juez de Cali ordenó su reclusión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nuevo sismo de magnitud 5,0 sacudió el centro de Perú: también se sintió en Lima",
+  "enlace": "https://www.bluradio.com/mundo/nuevo-sismo-de-magnitud-5-0-sacudio-el-centro-de-peru-tambien-se-sintio-en-lima-cb20",
+  "fecha": "2026-11-22T20:06:41-05:00",
+  "palabras": "Perú, Terremoto en Perú",
+  "lead": "Su profundidad fue establecida a 145 kilómetros y su intensidad llegó a IV en Junín.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gustavo Petro califica de “inconstitucional” solicitud del MinTIC para suspender su cuenta de X",
+  "enlace": "https://caracol.com.co/2026/11/23/gustavo-petro-califica-de-inconstitucional-solicitud-del-mintic-para-suspender-su-cuenta-de-x/",
+  "fecha": "2026-11-22T19:40:53-05:00",
+  "palabras": "",
+  "lead": "La carta enviada al Equipo de Asuntos Públicos, Seguridad y Cumplimento de esta red social se hizo, según el ministerio, por incitación a la violencia por parte del exmandatario.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vehículo de carga ocasionó grave accidente de tránsito en el municipio de Cajamarca, Tolima",
+  "enlace": "https://caracol.com.co/2026/11/23/vehiculo-de-carga-ocasiono-grave-accidente-de-transito-en-el-municipio-de-cajamarca-tolima/",
+  "fecha": "2026-11-22T19:07:28-05:00",
+  "palabras": "",
+  "lead": "El vehículo de carga habría sufrido fallas mecánicas. El automotor terminó arrasando con lo que encontró a su paso.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Jhon Durán volvió al gol con Benfica: marcó de cabeza en la Copa de Portugal",
+  "enlace": "https://caracol.com.co/2026/11/22/jhon-duran-volvio-al-gol-con-benfica-marco-de-cabeza-en-la-copa-de-portugal/",
+  "fecha": "2026-11-22T18:12:00-05:00",
+  "palabras": "",
+  "lead": "El delantero colombiano abrió el marcador en la victoria 3-1 frente al Torreense.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Videos: Tres colombianos brillaron en la goleada de Athletico Paranaense en el Brasileirao",
+  "enlace": "https://caracol.com.co/2026/11/23/videos-tres-colombianos-brillaron-en-la-goleada-de-athletico-paranaense-en-el-brasileirao/",
+  "fecha": "2026-11-22T19:08:33-05:00",
+  "palabras": "",
+  "lead": "Stiven Mendoza, Kerwin Vargas y Jorge Rivaldo fueron protagonistas en la victoria 4-2 frente a Remo por la jornada 36 del campeonato brasileño.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¡Miley Cyrus se casó! La cantante compartió las primeras fotos de su boda con Maxx Morando",
+  "enlace": "https://caracol.com.co/2026/11/22/miley-cyrus-se-caso-la-cantante-compartio-las-primeras-fotos-de-su-boda-con-maxx-morando/",
+  "fecha": "2026-11-22T18:58:12-05:00",
+  "palabras": "",
+  "lead": "La pareja celebró una ceremonia privada en Palm Springs, California, el pasado 21 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un menor de 16 años murió ahogado en un charco de San Rafael",
+  "enlace": "https://caracol.com.co/2026/11/22/un-menor-de-16-anos-murio-ahogado-en-un-charco-de-san-rafael/",
+  "fecha": "2026-11-22T18:43:29-05:00",
+  "palabras": "",
+  "lead": "Buzos expertos tuvieron que hacer varias inmersiones para encontrar al menor en la profundidad del charco Las Tangas.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "A la cárcel alias ‘Blue’ o ‘Lu’, señalada de participar en actos de terrorismo durante protestas",
+  "enlace": "https://caracol.com.co/2026/11/22/a-la-carcel-alias-blue-o-lu-senalada-de-participar-en-actos-de-terrorismo-durante-protestas/",
+  "fecha": "2026-11-22T18:26:56-05:00",
+  "palabras": "",
+  "lead": "La investigación de la Fiscalía da cuenta de afectaciones al transporte público, bienes y servidores públicos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Pacto Histórico rechaza petición de suspensión de cuenta del expresidente Petro: “es persecución”",
+  "enlace": "https://caracol.com.co/2026/11/22/pacto-historico-ante-peticion-para-suspension-de-cuenta-del-expresidente-petro-es-una-persecucion/",
+  "fecha": "2026-11-22T17:39:54-05:00",
+  "palabras": "",
+  "lead": "Los integrantes del partido o político cuestionaron la petición del Ministerio de las TICs.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tecnólogos de ingenierías que se pueden estudiar en el SENA: ¿son homologables? Duración y más",
+  "enlace": "https://caracol.com.co/2026/11/22/tecnologos-de-ingenierias-que-se-pueden-estudiar-en-el-sena-son-homologables-duracion-y-mas/",
+  "fecha": "2026-11-22T17:51:59-05:00",
+  "palabras": "",
+  "lead": "Conozca cuáles son las carreras técnicas o tecnológicas que se pueden homologar con diferentes ingenierías.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barichara aumenta el racionamiento de agua y temen quedarse sin reservas en época de fin de año",
+  "enlace": "https://caracol.com.co/2026/11/22/barichara-aumenta-el-racionamiento-de-agua-y-temen-quedarse-sin-reservas-en-epoca-de-fin-de-ano/",
+  "fecha": "2026-11-22T17:30:00-05:00",
+  "palabras": "",
+  "lead": "La represa que abastece al municipio ha bajado cerca de dos metros. Bomberos apoyan la distribución de agua a restaurantes, comercios y viviendas, mientras se recomienda ahorrar y fortalecer los tanques de almacenamiento ante la llegada de turistas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Policía Nacional saca de circulación cuatro armas de fuego en diferentes sectores de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/22/policia-nacional-saca-de-circulacion-cuatro-armas-de-fuego-en-diferentes-sectores-de-cartagena/",
+  "fecha": "2026-11-22T17:24:53-05:00",
+  "palabras": "",
+  "lead": "Durante los operativos, cuatro sujetos fueron capturados",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Linda Caicedo regresa a la Selección: Marsiglia anunció las convocadas para enfrentar a Australia",
+  "enlace": "https://caracol.com.co/2026/11/22/linda-caicedo-regresa-a-la-seleccion-marsiglia-anuncio-las-convocadas-para-enfrentar-a-australia/",
+  "fecha": "2026-11-22T17:10:25-05:00",
+  "palabras": "",
+  "lead": "La Tricolor tendrá dos partidos amistosos ante las ‘Matildas’ como parte de su preparación para el Mundial de Brasil 2027.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Acusan a un exconcejal de interferir en un procedimiento de la Unipol en Remedios, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/22/acusan-a-un-exconcejal-de-interferir-en-un-procedimiento-de-la-unipol-en-remedios-antioquia/",
+  "fecha": "2026-11-22T17:05:17-05:00",
+  "palabras": "",
+  "lead": "La entidad de control calificó la conducta del excorporado de manera inicial como grave, por lo que trata de establecer su responsabilidad en dicha acción.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Piden al presidente De La Espriella convocar mesa de seguridad tras atentados terroristas en Valle",
+  "enlace": "https://caracol.com.co/2026/11/22/piden-al-presidente-de-la-espriella-convocar-mesa-de-seguridad-tras-atentados-terroristas-en-valle/",
+  "fecha": "2026-11-22T16:54:05-05:00",
+  "palabras": "",
+  "lead": "En la tarde del viernes 20 de noviembre de 2026, hombres armados ingresaron a una finca en la zona rural de Jamundí, intimidaron a los trabajadores y quemaron un tractor con el que se realizaban labores agrícolas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Campaz brilla en Argentina: gol y asistencia del colombiano en la goleada de Rosario Central",
+  "enlace": "https://caracol.com.co/2026/11/22/campaz-brilla-en-argentina-gol-y-asistencia-del-colombiano-en-la-goleada-de-rosario-central/",
+  "fecha": "2026-11-22T16:57:40-05:00",
+  "palabras": "",
+  "lead": "El extremo fue protagonista en los primeros ocho minutos del compromiso frente a Gimnasia de Mendoza por los octavos de final del Torneo Clausura.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En Bello cerraron cuatro centros estéticos que realizaban procedimientos no autorizados",
+  "enlace": "https://caracol.com.co/2026/11/22/en-bello-cerraron-cuatro-centros-esteticos-que-realizaban-procedimientos-no-autorizados/",
+  "fecha": "2026-11-22T16:51:51-05:00",
+  "palabras": "",
+  "lead": "En estos lugares fueron hallados medicamentos que deben ser utilizados solo por personal médico autorizado por la Secretaría de Salud de Antioquia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Procuraduría anuncia seguimiento a la entrega de medicamentos de Nueva EPS",
+  "enlace": "https://caracol.com.co/2026/11/22/procuraduria-anuncia-seguimiento-a-la-entrega-de-medicamentos-de-nueva-eps/",
+  "fecha": "2026-11-22T16:38:27-05:00",
+  "palabras": "",
+  "lead": "El ente de disciplinario explicó que la medida se debe a una acción preventiva ante la designación del nuevo gerente interventor de la entidad prestadora de salud.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperadas tres motocicletas en los barrios Olaya Herrera y la urbanización Anita",
+  "enlace": "https://caracol.com.co/2026/11/22/recuperadas-tres-motocicletas-en-los-barrios-olaya-herrera-y-la-urbanizacion-anita/",
+  "fecha": "2026-11-22T16:34:54-05:00",
+  "palabras": "",
+  "lead": "En el marco de estos operativos se logró la captura de dos personas por los delitos de hurto y receptación",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "MinTIC pidió a X cerrar la cuenta de Gustavo Petro por presunta incitación a la violencia",
+  "enlace": "https://caracol.com.co/2026/11/22/mintic-pidio-a-x-cerrar-la-cuenta-de-gustavo-petro-por-presunta-incitacion-a-la-violencia/",
+  "fecha": "2026-11-22T16:10:05-05:00",
+  "palabras": "",
+  "lead": "cuestionó el llamado de Petro a exigir la renuncia de Abelardo de la Espriella y a salir a las calles. También puso sobre la mesa sus señalamientos de fraude electoral contra el registrador nacional.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Linda Caicedo brilló con doble asistencia en la goleada del Real Madrid ante Granada",
+  "enlace": "https://caracol.com.co/2026/11/22/linda-caicedo-brillo-con-doble-asistencia-en-la-goleada-del-real-madrid-ante-granada/",
+  "fecha": "2026-11-22T16:22:15-05:00",
+  "palabras": "",
+  "lead": "La colombiana fue titular, disputó 76 minutos y participó en dos de los cinco goles con los que el conjunto madridista se impuso en la fecha 12.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estos sectores de Barranquilla y el Atlántico estarán sin luz este lunes",
+  "enlace": "https://caracol.com.co/2026/11/22/estos-sectores-de-barranquilla-y-el-atlantico-estaran-sin-luz-este-lunes/",
+  "fecha": "2026-11-22T16:12:00-05:00",
+  "palabras": "",
+  "lead": "ISA Energía ejecutará trabajos en circuitos asociados a la subestación Juan Mina",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Denuncian que ambulancia nunca llegó auxiliar a taxista que murió en Santa Marta: Alcaldía investiga",
+  "enlace": "https://caracol.com.co/2026/11/22/denuncian-que-ambulancia-nunca-llego-auxiliar-a-taxista-que-murio-en-santa-marta-alcaldia-investiga/",
+  "fecha": "2026-11-22T15:53:30-05:00",
+  "palabras": "",
+  "lead": "Un testigo denunció que la ambulancia nunca llegó pese a los llamados de auxilio. La Alcaldía anunció una investigación para establecer posibles fallas en la atención.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un hombre murió en la zona norte de Cartagena en medio de una riña con sus hijastros",
+  "enlace": "https://caracol.com.co/2026/11/22/un-hombre-murio-dentro-de-un-apartamento-de-cartagena-en-medio-de-una-rina-con-sus-hijastros/",
+  "fecha": "2026-11-22T15:31:49-05:00",
+  "palabras": "",
+  "lead": "La pareja de hermanos se habría presentado voluntariamente ante las autoridades aduciendo legítima defensa en medio de un forcejeo con un arma de fuego",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Bucaramanga tendrá seis circuitos de alumbrado navideño inspirados en la biodiversidad colombiana",
+  "enlace": "https://caracol.com.co/2026/11/22/bucaramanga-tendra-seis-circuitos-de-alumbrado-navideno-inspirados-en-la-biodiversidad-colombiana/",
+  "fecha": "2026-11-22T15:35:00-05:00",
+  "palabras": "",
+  "lead": "El leopardo, los cóndores, los osos de anteojos, las mariposas y las orquídeas serán protagonistas de la iluminación que llegará a parques, calles y lugares emblemáticos de la ciudad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cali participará en el Asian Bird Fair 2026 en China",
+  "enlace": "https://caracol.com.co/2026/11/22/cali-participara-en-el-asian-bird-fair-2026-en-china/",
+  "fecha": "2026-11-22T15:30:44-05:00",
+  "palabras": "",
+  "lead": "El aviturismo mueve más de 74 mil millones de dólares al año en todo el mundo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Lluvias y granizada en Bogotá y Cundinamarca dejaron inundaciones, árboles caídos y accidentes",
+  "enlace": "https://caracol.com.co/2026/11/22/lluvias-y-granizada-en-bogota-y-cundinamarca-dejaron-inundaciones-arboles-caidos-y-accidentes/",
+  "fecha": "2026-11-22T15:28:07-05:00",
+  "palabras": "",
+  "lead": "Las fuertes precipitaciones registradas durante la tarde del sábado 21 de noviembre provocaron emergencias en varios sectores de Bogotá y Cundinamarca.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bogotá adopta medidas para ahorrar energía eléctrica",
+  "enlace": "https://www.lafm.com.co/actualidad/galan-energia-ahorro-medidas-entidades-publicas-417969",
+  "fecha": "2026-11-22T19:40:00-05:00",
+  "palabras": "Actualidad,Racionamiento de energía,consumo,Energía eléctrica,Energía,recomendaciones,Plan de austeridad,servicio de luz,Bogotá,Alcaldía de Bogotá",
+  "lead": "El alcalde de la capital advirtió que el consumo eléctrico crece más rápido que la oferta disponible y pidió contribuir para que los embalses del país alca...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Tractocamión chocó contra vehículos y locales en Cajamarca",
+  "enlace": "https://www.lafm.com.co/orden-publico/tractocamion-choca-locales-vehiculos-accidente-cajamarca-417968",
+  "fecha": "2026-11-22T19:33:00-05:00",
+  "palabras": "Orden Público,Accidente,Alto de la Línea,Túnel de la línea,Vía al alto de La Línea,Cierre de La Línea,Tolima,Quindío,Cajamarca",
+  "lead": "Al parecer este vehículo tuvo fallas mecánicas, lo que habría provocado este accidente de tránsito",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bill Gates advertencia sobre avance de la IA en 2026",
+  "enlace": "https://www.lafm.com.co/sociedad/bill-gates-inteligencia-artificial-advertencia-avance-2026-417967",
+  "fecha": "2026-11-22T18:49:00-05:00",
+  "palabras": "Sociedad,Inteligencia artificial,Bill Gates,ciberseguridad,Ciberataques global,Seguridad informática,competencia laboral,Propuestas,virtualidad,Tecnología",
+  "lead": "Bill Gates advirtió que la inteligencia artificial podría facilitar ataques con consecuencias masivas y pidió mayor regulación y supervisión.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Recursos de la salud bajo la lupa: MinSalud revisa contratos",
+  "enlace": "https://www.lafm.com.co/politica/gobierno-revisa-contratacion-directa-salud-para-proteger-recursos-publicos-417966",
+  "fecha": "2026-11-22T18:06:00-05:00",
+  "palabras": "Política,Ministerio de Salud,contrato,Contratistas,Abelardo de la Espriella,Salud,medicamentos,Irregularidades en contratos",
+  "lead": "según le gobierno durante el periodo revisado nueve entidades del sector suscribieron más de 20.600 contratos directos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cáncer de pulmón, el que más muertes causa en el mundo",
+  "enlace": "https://www.lafm.com.co/sociedad/cancer-de-pulmon-el-que-mas-muertes-causa-en-el-mundo-417965",
+  "fecha": "2026-11-22T17:50:00-05:00",
+  "palabras": "Sociedad,Salud,Cáncer,Oncología,OMS",
+  "lead": "El cáncer de pulmón causa cerca de 4.000 muertes al año en Colombia. Expertos advierten sobre sus síntomas y la importancia de detectarlo a tiempo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Hombre con alzhéimer sobrevivió 11 días perdido en la selva",
+  "enlace": "https://www.lafm.com.co/internacional/hombre-con-alzheimer-sobrevivio-11-dias-perdido-en-selva-amazonica-417964",
+  "fecha": "2026-11-22T17:40:00-05:00",
+  "palabras": "Internacional,Alzheimer,Amazonas,selva,Brasil",
+  "lead": "Un hombre de 74 años con alzhéimer fue encontrado con vida tras 11 días perdido en la selva amazónica, donde sobrevivió comiendo frutos silvestres.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Qué anunció Aliadas tras la salida de Adriana Guillén?",
+  "enlace": "https://www.lafm.com.co/sociedad/aliadas-reconocio-labor-adrana-gillen-417963",
+  "fecha": "2026-11-22T17:39:00-05:00",
+  "palabras": "Sociedad,Empresas,Ofertas de empleo,Asocajas,familia,Gremio",
+  "lead": "\"Durante estos años, Adriana trabajó con rigor y vocación de servicio por las cajas de compensación familiar\", expresó Aliadas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Presunto ladrón apuñaló a conductor: comunidad lo retuvo",
+  "enlace": "https://www.lafm.com.co/orden-publico/conductor-sitp-sufrio-punaladas-tras-reclamar-ladron-en-bosa-sur-bogota-417962",
+  "fecha": "2026-11-22T17:00:00-05:00",
+  "palabras": "Orden Público,Inseguridad,atracos,SITP,TransMilenio,Violencia de género,agresión,Robo",
+  "lead": "\"Me mandaron dos puñaladas a la cara y me tocó poner las manos para protegerme, porque si no pailas\", señaló el conductor en su diálogo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Capturan ladrones señalados atraco a manor armada en Pasto",
+  "enlace": "https://www.lafm.com.co/orden-publico/golpe-delincuencia-captura-pasto-aloas-chila-pantera-ladrones-417961",
+  "fecha": "2026-11-22T16:44:00-05:00",
+  "palabras": "Orden Público,Delincuentes capturados,Capturados,Órdenes de captura,atracos,hurto,Concierto para delinquir,Delitos graves,Homicidios,Secuestros,Procesos judiciales",
+  "lead": "En Pasto fueron capturados dos hombres conocidos como alias ‘Chila’ y ‘Pantera’ en un duro golpe contra la criminalidad en la capital de Nariño.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Gobierno pide suspender cuenta de X de Gustavo Petro",
+  "enlace": "https://www.lafm.com.co/politica/ministerio-tecnologias-gustavo-petro-cuenta-x-incitacion-violencia-417960",
+  "fecha": "2026-11-22T15:56:00-05:00",
+  "palabras": "Política,Redes sociales,actos violentos,renuncia,Protestas en Colombia,Alteración al orden público,Desinformación,Fallo judicial,Libertad de expresión,Protocolo sobre protesta social",
+  "lead": "La cartera envió una misiva al equipo de seguridad de la plataforma tras una publicación del exmandatario en la que pide exigir la renuncia del presidente...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Apple planea lanzar un agente de IA diferente a Siri",
+  "enlace": "https://www.lafm.com.co/sociedad/apple-planea-lanzar-propio-agente-inteligencia-artificial-esta-diferencia-tendra-siri-417958",
+  "fecha": "2026-11-22T15:46:00-05:00",
+  "palabras": "Sociedad,Inteligencia artificial,asistente virtual,Siri,Apple,ingenieros,Desarrollo,programación,Tecnología,Innovación,dispositivos inteligentes",
+  "lead": "La autonomía de la inteligencia artificial sería sorprendente.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sacan del mercado cremas dentales y enjuagues por hormonas",
+  "enlace": "https://www.lafm.com.co/internacional/crema-dental-enjuague-bucal-orl-organic-oral-care-retirados-contaminacion-hormonas-417957",
+  "fecha": "2026-11-22T15:39:00-05:00",
+  "palabras": "Internacional,Salud,FDA,Estados Unidos,mercado",
+  "lead": "La FDA reportó sustancias hormonales en muestras de seis productos de higiene oral que fueron retirados del mercado.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Menores de edad eran engañados para abusar sexualmente de ellos",
+  "enlace": "https://www.lafm.com.co/actualidad/abusador-menores-de-edad-enganaba-con-dinero-y-falsas-ofertas-de-trabajo-417955",
+  "fecha": "2026-11-22T15:16:00-05:00",
+  "palabras": "Actualidad,Cali, Colombia,Valle del Cauca,ICBF,Policía Nacional",
+  "lead": "Después de los abusos, el hombre presusosuntamente entregaba a las víctimas entre 2.000 y 10.000 peso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "La cadena de atentados que sacude a Olímpica en Barranquilla",
+  "enlace": "https://www.lafm.com.co/orden-publico/la-cadena-de-ataques-que-sacude-a-olimpica-cuatro-atentados-en-menos-de-dos-semanas-417954",
+  "fecha": "2026-11-22T15:03:00-05:00",
+  "palabras": "Orden Público,Sicarios,Homicidios,Tiroteo,Olímpica,Barranquilla,Atlántico",
+  "lead": "Alerta en los almacenes Olímpica de Barranquilla: Cuatro ataques en menos de dos semanas y tres trabajadores muertos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Así funciona el negocio digital de abrir sobres de Pokémon",
+  "enlace": "https://www.lafm.com.co/sociedad/como-funciona-negocio-digital-abrir-sobres-cartas-pokemon-deportivas-celular-417952",
+  "fecha": "2026-11-22T14:17:00-05:00",
+  "palabras": "Sociedad,Coleccionistas,comercio electrónico,economía digital,Transformación digital,pagos digitales,Pago electrónico,Criptomonedas,mercado,ventas,ganancias,Cartas",
+  "lead": "Las aplicaciones tienen una animación interactiva para que el usuario sienta la emoción como si fuera un sobre real.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
