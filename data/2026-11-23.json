@@ -3131,7 +3131,7 @@
   "palabras": "Paisita Noche, Resultados del chance",
   "lead": "El chance Paisita Noche se juega todos los días. Consulte el número ganador del sorteo de este lunes 23 de noviembre de 2026, conozca sus horarios, modalidades de apuesta y los requisitos para reclamar premios.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3142,7 +3142,7 @@
   "palabras": "Chontico Noche , Resultados del chance",
   "lead": "El chance Chontico Noche juega todos los días en jornada nocturna. Consulte aquí el número ganador del sorteo de este lunes 23 de noviembre de 2026.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3153,7 +3153,7 @@
   "palabras": "Noticias de hoy, Antioquia, Incendio",
   "lead": "La caída de uno de estos artefactos sería la causa del fuego que consumió cerca de 750 metros cuadrados de una bodega en el Oriente antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3164,7 +3164,7 @@
   "palabras": "Viral, Avengers: Infinity War, Cine",
   "lead": "La llegada de ‘Avengers: Doomsday’ se acerca y Marvel Studios revela nuevos detalles de la esperada película, que reunirá a varios de los personajes más importantes del Universo Cinematográfico de Marvel.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3175,7 +3175,7 @@
   "palabras": "México, Ecuador, autopartes, autopartes colombianas, exportaciones a México y Ecuador",
   "lead": "Asopartes adelanta acercamientos para ampliar sus exportaciones y busca apoyo del Gobierno para mejorar la financiación y la capacidad productiva.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3186,7 +3186,7 @@
   "palabras": "",
   "lead": "La primera edición, realizada en marzo de 2026, reunió a más de 70 mil personas durante dos días, con localidades agotadas.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3197,7 +3197,7 @@
   "palabras": "Salto del Tequendama, Universidad de los Andes, Gabriel Alberto Cárdenas, Gabriel Cárdenas, salto tequendama",
   "lead": "El menor de edad fue visto por última vez el 19 de noviembre en Bogotá.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3208,7 +3208,7 @@
   "palabras": "",
   "lead": "El técnico uruguayo habló de su identidad futbolística, la conformación de la plantilla y el objetivo de superar las semifinales de 1994.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3219,7 +3219,7 @@
   "palabras": "",
   "lead": "El gobernador de Boyacá, Carlos Amaya, se pronunció sobre los cuestionamientos que en los últimos días han rodeado a la Lotería de Boyacá, luego de una denuncia que puso en duda los resultados de varios de sus sorteos. El mandatario anunció que solicitó la intervención de Coljuegos y ordenó una investigación formal para establecer si se presentaron irregularidades o errores en los procedimientos.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3230,7 +3230,7 @@
   "palabras": "",
   "lead": "A la hipótesis de que podría ser un ajuste de cuentas, suma un nuevo dato y es que podría ser entre el Clan del y los Chatas.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3241,7 +3241,7 @@
   "palabras": "",
   "lead": "El Consejo de Estado resolvió una tutela en contra del presidente Abelardo de la Espriella y le pidió abstenerse de descalificar a quienes siguen el movimiento ‘woke’, tras cuestionamientos a las expresiones que utilizó durante un discurso público.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3252,7 +3252,7 @@
   "palabras": "",
   "lead": "En total son cuatro festivos los que habrá en el cierre del 2026 y el inicio del 2027.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3263,7 +3263,7 @@
   "palabras": "",
   "lead": "El Distrito presentó ante el Concejo de Bogotá el proyecto de presupuesto para 2027. Cerca del 78 % de los recursos se destinaría a inversión en obras de infraestructura, educación, movilidad, seguridad y programas sociales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3274,6 +3274,600 @@
   "palabras": "Política,JEP,Acuerdo de paz,Gobierno,ONU",
   "lead": "Mediante una declaración coordinada por el grupo Amigos Parlamentarios de Colombia, los legisladores del Reino Unido instaron al Ejecutivo nacional a garan...",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "FCF habla de un posible regreso de Sebastián Villa a la selección: \"Un jugadorazo\"",
+  "enlace": "https://www.bluradio.com/deportes/futbol/fcf-habla-de-un-posible-regreso-de-sebastian-villa-a-la-seleccion-un-jugadorazo-so35",
+  "fecha": "2026-11-23T17:48:21-05:00",
+  "palabras": "Sebastián Villa, Selección Colombia",
+  "lead": "El colombiano fue una de las grandes figurar en la conquista del título de la Copa Sudamericana de Boca Juniors y generó que cientos de hinchas comenzaran a pedir su nombre en selección.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Tribunal de Barranquilla mantiene como prueba celular de Day Vásquez en juicio contra Nicolás Petro",
+  "enlace": "https://www.bluradio.com/regiones/caribe/tribunal-de-barranquilla-mantiene-como-prueba-celular-de-day-vasquez-en-juicio-contra-nicolas-petro-rg10",
+  "fecha": "2026-11-23T18:43:33-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Fiscalía General de la Nación, Nicolás Petro",
+  "lead": "Por otro lado, se aprobó el uso de documentos bancarios para la defensa y los magistrados excluyeron los interrogatorios contra Nicolás Petro Burgos durante la investigación.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Joven de 17 años atacó al novio de su ex a puños por la espalda y casi le quita la vida",
+  "enlace": "https://www.bluradio.com/mundo/joven-de-17-anos-ataco-al-novio-de-su-ex-a-punos-por-la-espalda-y-casi-le-quita-la-vida-rs15",
+  "fecha": "2026-11-23T18:09:14-05:00",
+  "palabras": "Viral, Argentina",
+  "lead": "Dice el padre de la víctima que no es la primera vez que lo ataca y pide a las autoridades a prestarle atención antes de que algo grave pueda pasarle a su hijo.",
+  "seccion": "tolima",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia recibirá en 2027 buque hospital de EE UU: ofrecerá atención médica y asistencia humanitaria",
+  "enlace": "https://www.bluradio.com/nacion/colombia-recibira-en-2027-buque-hospital-de-ee-uu-ofrecera-atencion-medica-y-asistencia-humanitaria-rg10",
+  "fecha": "2026-11-23T18:20:09-05:00",
+  "palabras": "Noticias de hoy",
+  "lead": "El USNS Comfort llegará al país como parte de la misión Promesa Continua 2027, que recorrerá cinco naciones de América Latina con jornadas de salud, atención veterinaria y capacitación ante emergencias.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ministros de De La Espriella lo defienden de críticas de Santos por caminar entre cadáveres",
+  "enlace": "https://www.bluradio.com/nacion/ministros-de-de-la-espriella-lo-defienden-de-criticas-de-santos-por-caminar-entre-cadaveres-rg10",
+  "fecha": "2026-11-23T18:28:19-05:00",
+  "palabras": "Abelardo De La Espriella, Juan Manuel Santos, De La Espriella, Santos",
+  "lead": "El ministro del Interior y de Justicia cuestionaron las declaraciones del expresidente, quien aseguró que caminar entre los cuerpos de presuntos guerrilleros muertos en una operación militar le quita dignidad a la figura presidencial.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Claudia Romero niega haber estudiado en la U. Javeriana; Pacto instaló Comisión de Ética",
+  "enlace": "https://www.bluradio.com/politica/claudia-romero-niega-haber-estudiado-en-la-u-javeriana-pacto-instalo-comision-de-etica-rg10",
+  "fecha": "2026-11-23T18:41:16-05:00",
+  "palabras": "Pacto Histórico, Pontificia Universidad Javeriana",
+  "lead": "Esto se da luego de algunas denuncias sobre un presunto uso de esa información académica por parte de la representante.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Ataque sicarial en Palmira dejó un bombero muerto y a su acompañante herida",
+  "enlace": "https://www.bluradio.com/regiones/pacifico/ataque-sicarial-en-palmira-dejo-un-bombero-muerto-y-a-su-acompanante-herida-rg10",
+  "fecha": "2026-11-23T18:29:33-05:00",
+  "palabras": "Noticias de hoy, Palmira",
+  "lead": "La víctima fue identificada como Julián Andrés Vives, quien falleció por la gravedad de las herida. La mujer fue llevada a un hospital",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Revelan último video del estudiante Gabriel Cárdenas cerca al Salto del Tequendama",
+  "enlace": "https://www.bluradio.com/nacion/revelan-ultimo-video-del-estudiante-gabriel-cardenas-cerca-al-salto-del-tequendama-rs15",
+  "fecha": "2026-11-23T18:54:54-05:00",
+  "palabras": "Universidad de los Andes, Salto del Tequendama, Gabriel Cárdenas",
+  "lead": "El joven, que estaba becado en la universidad de los Andes, estaba siendo buscado por su familia desde el jueves 19 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Las palabras de Lucas González que molestan a hinchas  tras otro empate vs. Once Caldas",
+  "enlace": "https://www.bluradio.com/deportes/futbol-colombiano/las-palabras-de-lucas-gonzalez-que-molestan-a-hinchas-tras-otro-empate-vs-once-caldas-so35",
+  "fecha": "2026-11-23T19:11:18-05:00",
+  "palabras": "Lucas González, Atlético Nacional",
+  "lead": "El cuadro verdolaga comenzó con un punto los cuadrangulares finales tras la reciente eliminación de Copa, ambos partidos contra Once Caldas.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Sofía Vergara llegó a Barranquilla para conocer su estatua en el Malecón del Río",
+  "enlace": "https://www.bluradio.com/regiones/caribe/sofia-vergara-llego-a-barranquilla-para-conocer-su-estatua-en-el-malecon-del-rio-rg10",
+  "fecha": "2026-11-23T19:01:55-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Sofía Vergara, Atlántico",
+  "lead": "“Llegando a la Arenosa”, fue el mensaje que escribió por sus redes sociales la reconocida actriz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Activan ruta de búsqueda por menor de 15 años desaparecida en Bello, Antioquia",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/activan-ruta-de-busqueda-por-menor-de-15-anos-desaparecida-en-bello-antioquia-rg10",
+  "fecha": "2026-11-23T19:16:12-05:00",
+  "palabras": "Noticias de hoy, Desaparecidos, Bello",
+  "lead": "De acuerdo con sus familiares, la menor se habría ido de su casa, presuntamente, con un ciudadano extranjero.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Por esta razón no debe pedirle a ChatGPT que le recomiende medicamentos cuando se enferme",
+  "enlace": "https://www.bluradio.com/salud/por-esta-razon-no-debe-pedirle-a-chatgpt-que-le-recomiende-medicamentos-cuando-se-enferme-so35",
+  "fecha": "2026-11-23T19:33:28-05:00",
+  "palabras": "Medicamentos",
+  "lead": "Según un estudio, publicado en 2026, el 20 % de los colombianos usa Chat GPT para resolver inquietudes de salud.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Bajan los niveles de los ríos en 17 municipios de Santander por calor extremo",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/bajan-los-niveles-de-los-rios-en-17-municipios-de-santander-por-calor-extremo-rg10",
+  "fecha": "2026-11-23T19:59:20-05:00",
+  "palabras": "Santander, Gobernación de Santander, Noticias de hoy, Blu Radio",
+  "lead": "Las altas temperaturas registradas durante noviembre han reducido los niveles de varias fuentes hídricas. Sabana de Torres está en alerta máxima por riesgo de incendios forestales y otros nueve municipios permanecen en alerta naranja.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "‘Los Costeños’, detrás de ataques a Olímpica en Barranquilla: capturan a presunto responsable",
+  "enlace": "https://www.bluradio.com/regiones/caribe/los-costenos-detras-de-ataques-a-olimpica-en-barranquilla-capturan-a-presunto-responsable-rg10",
+  "fecha": "2026-11-23T20:09:21-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Policía Nacional, Atlántico",
+  "lead": "De acuerdo con información de inteligencia, los implicados estarían recibiendo instrucciones de personas señaladas de coordinar ataques contra establecimientos de esta cadena comercial.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Gobierno no podrá cerrar ZUT en Putumayo sin garantizar reincorporación de excombatientes",
+  "enlace": "https://www.bluradio.com/nacion/gobierno-no-podra-cerrar-zut-en-putumayo-sin-garantizar-reincorporacion-de-excombatientes-rg10",
+  "fecha": "2026-11-23T20:07:39-05:00",
+  "palabras": "Noticias de hoy, Putumayo",
+  "lead": "El Tribunal Superior del Distrito Judicial de Mocoa amparó los derechos de 99 exintegrantes de la Coordinadora Nacional Ejército Bolivariano y ordenó garantizar, entre otras cosas, sus condiciones de seguridad.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Avance histórico? Anthropic ayuda a resolver un problema matemático de casi dos siglos",
+  "enlace": "https://caracol.com.co/2026/11/24/avance-historico-anthropic-ayuda-a-resolver-un-problema-matematico-de-casi-dos-siglos/",
+  "fecha": "2026-11-23T20:04:30-05:00",
+  "palabras": "",
+  "lead": "Un investigador de Anthropic, trabajó con Claude durante seis semanas y afirmó haber resuelto un problema matemático sin resolver durante 170 años.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santander despide a Alberto Montoya Puyana: recuerdan su legado político y educativo",
+  "enlace": "https://caracol.com.co/2026/11/24/santander-despide-a-alberto-montoya-puyana-recuerdan-su-legado-politico-y-educativo/",
+  "fecha": "2026-11-23T20:02:31-05:00",
+  "palabras": "",
+  "lead": "Familiares, comunidad universitaria y ciudadanos participan en el homenaje al dirigente, recordado por su aporte a la educación, la política y el desarrollo regional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Davinson y su aporte al Galatasaray: “Traje la experiencia de haber jugado en otros países”",
+  "enlace": "https://caracol.com.co/2026/11/24/davinson-y-su-aporte-al-galatasaray-traje-la-experiencia-de-haber-jugado-en-otros-paises/",
+  "fecha": "2026-11-23T19:54:17-05:00",
+  "palabras": "",
+  "lead": "El colombiano habló en la previa del partido de Champions ante Aston Villa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ley de rescate: se abrió el debate por impuestos a las gaseosas, la cerveza y productos de tienda",
+  "enlace": "https://caracol.com.co/2026/11/24/ley-de-rescate-se-abrio-el-debate-por-impuestos-a-las-gaseosas-la-cerveza-y-productos-de-tienda/",
+  "fecha": "2026-11-23T19:33:17-05:00",
+  "palabras": "",
+  "lead": "Organizaciones de tenderos y pequeños comerciantes, al igual que varios gremios, le pidieron al Gobierno y al Congreso revisar el impacto de los llamados impuestos saludables.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Finalizando el año, aumentan las denuncias de adolescentes desaparecidos en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/24/finalizando-el-ano-aumentan-las-denuncias-de-adolescentes-desaparecidos-en-medellin/",
+  "fecha": "2026-11-23T19:40:43-05:00",
+  "palabras": "",
+  "lead": "La alcaldía asegura que la principal razón es la pérdida del año escolar y el temor al castigo de los padres. También que esta situación es aprovechada por los grupos delincuenciales para reclutarlos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tini y Rodrigo De Paul anuncian la fecha de su boda: ¿cuándo será el matrimonio?",
+  "enlace": "https://caracol.com.co/2026/11/24/luis-miguel-prepara-anuncio-para-el-3-de-diciembre-nueva-musica-para-sus-seguidores/",
+  "fecha": "2026-11-23T19:32:09-05:00",
+  "palabras": "",
+  "lead": "El futbolista argentino reveló en redes sociales que falta un mes para llegar al altar junto a la cantante Tini Stoessel.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Hallan muerto a joven de 17 años en el Salto del Tequendama: investigan si es Gabriel Cárdenas",
+  "enlace": "https://caracol.com.co/2026/11/24/hallan-sin-vida-a-joven-de-17-anos-en-el-salto-del-tequendama-investigan-si-es-gabriel-cardenas/",
+  "fecha": "2026-11-23T19:36:31-05:00",
+  "palabras": "",
+  "lead": "Bomberos de Cundinamarca confirmaron la recuperación del cuerpo de un joven de aproximadamente 17 años en el Salto del Tequendama.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Inclusión laboral: 320 personas con discapacidad consiguieron empleo en 120 empresas durante 2026",
+  "enlace": "https://caracol.com.co/2026/11/24/inclusion-laboral-320-personas-con-discapacidad-consiguieron-empleo-en-120-empresas-durante-2026/",
+  "fecha": "2026-11-23T19:35:32-05:00",
+  "palabras": "",
+  "lead": "Compensar informó que el acceso al empleo formal para personas con discapacidad registró movimientos concretos en el sector productivo durante este año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Luis Miguel sorprendió con un anuncio en redes sociales para el 3 de diciembre: ¿de qué se trata?",
+  "enlace": "https://caracol.com.co/2026/11/24/luis-miguel-sorprendio-con-un-anuncio-en-redes-sociales-para-el-3-de-diciembre-de-que-se-trata/",
+  "fecha": "2026-11-23T19:28:50-05:00",
+  "palabras": "",
+  "lead": "La cuenta oficial de Spotify México publicó una imagen de la estrella mexicana frente a un sol con el texto: “Luis Miguel 3 de diciembre”.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Se abrieron algunas cajas de Pandora: ‘Rentas’ tras indagar veracidad de títulos de congresistas",
+  "enlace": "https://caracol.com.co/2026/11/24/se-abrieron-algunas-cajas-de-pandora-rentas-tras-indagar-veracidad-de-titulos-de-congresistas/",
+  "fecha": "2026-11-23T19:31:29-05:00",
+  "palabras": "",
+  "lead": "Juan Felipe Pedraza, conocido en redes sociales como ‘Rentas’, habló en la Luciérnaga sobre algunas indagaciones que adelantó para conocer la veracidad de los títulos de varios congresistas. Así lo hizo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Icfes definió las fechas de las pruebas de Estado de 2027: calendario de Saber 11, Pro y TyT",
+  "enlace": "https://caracol.com.co/2026/11/24/icfes-definio-las-fechas-de-las-pruebas-de-estado-de-2027-calendario-de-saber-11-pro-y-tyt/",
+  "fecha": "2026-11-23T19:27:58-05:00",
+  "palabras": "",
+  "lead": "Los estudiantes que presentarán las pruebas Saber 11 y quienes están próximos a terminar sus carreras profesionales, técnicas o tecnológicas ya pueden consultar las fechas de los exámenes del próximo año.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ferias de empleo en Bogotá | Acceda a 2.934 vacantes con o sin experiencia: fechas y más",
+  "enlace": "https://caracol.com.co/2026/11/24/ferias-de-empleo-en-bogota-acceda-a-2934-vacantes-con-o-sin-experiencia-fechas-y-mas/",
+  "fecha": "2026-11-23T19:27:35-05:00",
+  "palabras": "",
+  "lead": "Durante esta última semana de noviembre la estrategia Talento Capital presenta nuevas ofertas laborales para diferentes perfiles profesionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "GOES de la Policía Nacional se toma calles de Magangué",
+  "enlace": "https://caracol.com.co/2026/11/24/goes-de-la-policia-nacional-se-toma-calles-de-magangue/",
+  "fecha": "2026-11-23T19:22:29-05:00",
+  "palabras": "",
+  "lead": "Durante las intervenciones, los uniformados desarrollan actividades de registro a personas y vehículos, solicitud de antecedentes judiciales y verificación de comportamientos sospechosos",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Nunca he cursado estudios de administración de empresas en la Javeriana”: Claudia Romero",
+  "enlace": "https://caracol.com.co/2026/11/24/nunca-he-cursado-estudios-de-administracion-de-empresas-en-la-javeriana-claudia-romero/",
+  "fecha": "2026-11-23T19:19:39-05:00",
+  "palabras": "",
+  "lead": "Claudia Romero, representante a la Cámara por Bogotá del Pacto Histórico, dijo que se trata de “un nuevo ataque a esta curul”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tribunal admite conversaciones en el celular de Day Vásquez para el juicio contra Nicolás Petro",
+  "enlace": "https://caracol.com.co/2026/11/24/tribunal-admite-conversaciones-en-el-celular-de-day-vasquez-para-el-juicio-contra-nicolas-petro/",
+  "fecha": "2026-11-23T19:18:06-05:00",
+  "palabras": "",
+  "lead": "Entre las conversaciones admitidas se encuentran las sostenidas con Camilo Burgos y Máximo Noriega.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Dignidad de Presidencia se perdió cuando se desconoció voz del pueblo”: Cancino responde a Santos",
+  "enlace": "https://caracol.com.co/2026/11/23/dignidad-de-presidencia-se-perdio-cuando-se-desconocio-voz-del-pueblo-cancino-responde-a-santos/",
+  "fecha": "2026-11-23T18:00:00-05:00",
+  "palabras": "",
+  "lead": "El jefe de la cartera de Justicia aseguró que a los colombianos se les prometió acabar con las Farc, pero surgieron las disidencias, que han seguido sembrando violencia en los territorios, según afirmó, en medio de la impunidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Apagón en Cúcuta: falla en subestación Belén dejó sin luz a varios municipios por más de dos horas",
+  "enlace": "https://caracol.com.co/2026/11/24/apagon-en-cucuta-falla-en-subestacion-belen-dejo-sin-luz-a-varios-municipios-por-mas-de-dos-horas/",
+  "fecha": "2026-11-23T19:08:31-05:00",
+  "palabras": "",
+  "lead": "La emergencia también generó complicaciones en la movilidad de la capital nortesantandereana.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Padre de exjugador de Real Cartagena pidió acelerar captura del responsable: “yo lo conozco”",
+  "enlace": "https://caracol.com.co/2026/11/24/padre-de-exjugador-de-real-cartagena-pidio-acelerar-captura-del-responsable-yo-lo-conozco/",
+  "fecha": "2026-11-23T19:09:09-05:00",
+  "palabras": "",
+  "lead": "Gustavo Paterson, reclama justicia por la muerte de su hijo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Listos los decretos de Miguel Uribe y Martín Botero como embajadores del Reino Unido y Países Bajos",
+  "enlace": "https://caracol.com.co/2026/11/23/listos-los-decretos-de-miguel-uribe-y-martin-botero-como-embajadores-del-reino-unido-y-paises-bajos/",
+  "fecha": "2026-11-23T18:40:20-05:00",
+  "palabras": "",
+  "lead": "El canciller oficializó el aterrizaje de los nuevos embajadores en el Gobierno de Abelardo De La Espriella.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cartagena mejoró Índice de Desempeño Fiscal 2025 según el DNP",
+  "enlace": "https://caracol.com.co/2026/11/23/cartagena-mejoro-indice-de-desempeno-fiscal-2025-segun-el-dnp/",
+  "fecha": "2026-11-23T18:57:21-05:00",
+  "palabras": "",
+  "lead": "El resultado representa un incremento de 5,5 puntos frente al año anterior y de 9,6 puntos respecto a 2023",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 EN VIVO Boca vs Quindío HOY, final del Torneo de Ascenso: minuto a minuto de la ida",
+  "enlace": "https://caracol.com.co/2026/11/23/en-vivo-boca-vs-quindio-hoy-final-del-torneo-de-ascenso-minuto-a-minuto-de-la-ida/",
+  "fecha": "2026-11-23T18:24:40-05:00",
+  "palabras": "",
+  "lead": "Vallecaucanos y cafeteros disputan este lunes el primer capítulo de la definición del Torneo de ascenso, con el ascenso a la Liga colombiana como gran objetivo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Blindan el clásico futbolero entre el América y el Deportivo Cali en el Pascual Guerrero",
+  "enlace": "https://caracol.com.co/2026/11/23/blindan-el-clasico-futbolero-entre-el-america-y-el-deportivo-cali-en-el-pascual-guerrero/",
+  "fecha": "2026-11-23T18:48:54-05:00",
+  "palabras": "",
+  "lead": "A partir de las 8:30 de la noche de este martes 24 de noviembre se cumplirá el partido.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rosalía reaccionó a un video de Rauw Alejandro y despertó rumores de reconciliación: ¿Qué escribió?",
+  "enlace": "https://caracol.com.co/2026/11/23/rosalia-reacciono-a-un-video-de-rauw-alejandro-y-desperto-rumores-de-reconciliacion-que-escribio/",
+  "fecha": "2026-11-23T17:51:00-05:00",
+  "palabras": "",
+  "lead": "La estrella española reaccionó escribiendo “ok banger”. Un comentario que ya acumula 2,1 millones de likes y 54 mil respuestas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "UniCartagena recibe Mención Especial en el 14º Premio Nuevas Miradas en Argentina",
+  "enlace": "https://caracol.com.co/2026/11/23/unicartagena-recibe-mencion-especial-en-el-14-premio-nuevas-miradas-en-argentina/",
+  "fecha": "2026-11-23T18:38:40-05:00",
+  "palabras": "",
+  "lead": "La serie documental “Trae tu silla” motivó esta distinción",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Detenido feminicida de su pareja sentimental de 17 años en Buenaventura, Valle",
+  "enlace": "https://caracol.com.co/2026/11/23/detenido-feminicida-de-su-pareja-sentimental-de-17-anos-en-buenaventura-valle/",
+  "fecha": "2026-11-23T18:29:57-05:00",
+  "palabras": "",
+  "lead": "La menor de edad, fue objeto de constantes agresiones, además de conductas de control sobre sus actividades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Recuperan cerca de dos toneladas de productos reciclables en el Bando y Bololó del Arsenal",
+  "enlace": "https://caracol.com.co/2026/11/23/recuperan-cerca-de-dos-toneladas-de-productos-reciclables-en-el-bando-y-bololo-del-arsenal/",
+  "fecha": "2026-11-23T18:32:14-05:00",
+  "palabras": "",
+  "lead": "Se logró retirar de las vías aluminio, plástico y chatarra",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Semana de la seguridad 2026: ¿Cómo evitar fraudes digitales en Colombia?",
+  "enlace": "https://caracol.com.co/2026/11/23/semana-de-la-seguridad-2026-como-evitar-fraudes-digitales-en-colombia/",
+  "fecha": "2026-11-23T18:22:33-05:00",
+  "palabras": "",
+  "lead": "La delincuencia cada día mejora sus métodos de fraude, por ello, el sector financiero lidera una campaña para reconocer las señales de alerta. Conozca todos los detalles aquí.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Alcalde de Bogotá pide ahorrar energía para evitar racionamiento de agua",
+  "enlace": "https://caracol.com.co/2026/11/23/alcalde-de-bogota-pide-ahorrar-energia-para-evitar-racionamiento-de-agua/",
+  "fecha": "2026-11-23T18:22:45-05:00",
+  "palabras": "",
+  "lead": "Carlos Galán, hizo un llamado a la ciudadanía para adoptar medidas de ahorro de energía para evitar el riesgo de racionamiento.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Vuelve y juega, trabajadores de Asmet Salud protestan en todo el país por falta de pagos de salarios",
+  "enlace": "https://caracol.com.co/2026/11/23/vuelve-y-juega-trabajadores-de-asmet-salud-protestan-en-todo-el-pais-por-falta-de-pagos-de-salarios/",
+  "fecha": "2026-11-23T18:12:48-05:00",
+  "palabras": "",
+  "lead": "En Armenia, los trabajadores iniciaron tres días de protesta en la sede norte de Asmet Salud",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Ordóñez arremete contra Santos: “quien debilitó el Estado con un mal acuerdo, carece de moral”",
+  "enlace": "https://caracol.com.co/2026/11/23/ordonez-arremete-contra-santos-quien-debilito-el-estado-con-un-mal-acuerdo-carece-de-moral/",
+  "fecha": "2026-11-23T17:57:18-05:00",
+  "palabras": "",
+  "lead": "El ministro el Interior, Alejandro Ordóñez, le salió al frente a los cuestionamientos contra el presidente Abelardo De La Espriella por mostrar resultados de operaciones junto a los cadáveres de los abatidos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Air-e explicó por qué subirá $76 el kilovatio de energía a partir de diciembre en el Caribe",
+  "enlace": "https://caracol.com.co/2026/11/23/air-e-explico-por-que-subira-76-el-kilovatio-de-energia-a-partir-de-diciembre-en-el-caribe/",
+  "fecha": "2026-11-23T18:11:39-05:00",
+  "palabras": "",
+  "lead": "El agente especial de la empresa, Ramiro Castilla, aseguró que el incremento no será de mil pesos, como se ha señalado, y atribuyó el ajuste al aumento del cargo de restricciones del sistema eléctrico nacional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Claudia Romero niega título falso de Universidad Javeriana",
+  "enlace": "https://www.lafm.com.co/politica/claudia-romero-polemica-diploma-falso-universidad-javeriana-denuncia-corte-suprema-418079",
+  "fecha": "2026-11-23T19:34:00-05:00",
+  "palabras": "Política,Congreso de la República,títulos universitarios,Cámara de Representantes,Universidad Javeriana,Fiscalía General de la Nación,Corte Suprema de Justicia,Título universitario,investigados",
+  "lead": "Romero negó tener un título de la Universidad Javeriana y aseguró ser víctima de una campaña en su contra. Desde el congreso denunciaron penalmente ante la...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Quién es Claudia Romero Nader denunciada por presunto título falso",
+  "enlace": "https://www.lafm.com.co/politica/claudia-romero-nader-titulos-falsos-pacto-historicos-universidad-javeriana-418073",
+  "fecha": "2026-11-23T19:19:00-05:00",
+  "palabras": "Política,Títulos falsos,Certificados falsos,Universidad Javeriana,Pacto Histórico,Cámara de Representantes",
+  "lead": "La representante a la Cámara por Bogotá fue denunciada ante las autoridades por una presunta falsedad en documento público.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Trump evalúa prohibir centros de datos de IA en el exterior",
+  "enlace": "https://www.lafm.com.co/internacional/trump-plantea-prohibir-centros-datos-ia-empresas-estadounidenses-extranjero-418062",
+  "fecha": "2026-11-23T19:19:00-05:00",
+  "palabras": "Internacional,Inteligencia artificial,Estados Unidos,Donald Trump,Taiwán,microprocesadores,Seguridad informática,Política internacional,Inteligencia,Amenazas,China",
+  "lead": "Washington aseguró que las compañías deberán solicitar una licencia para comprar chips avanzados.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Consejo de Estado ordena a De la Espriella reconocer a woke",
+  "enlace": "https://www.lafm.com.co/orden-publico/consejo-de-estado-ordena-a-de-la-espriella-reconocer-que-el-movimiento-woke-no-es-enemigo-de-la-nacion-418074",
+  "fecha": "2026-11-23T18:58:00-05:00",
+  "palabras": "Orden Público,Abelardo de la Espriella,Consejo de Estado,Fallo judicial,Tutela",
+  "lead": "El Consejo de Estado ordena a De la Espriella reconocer que el movimiento woke no es enemigo y abstenerse de estigmatizar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "EPM asumirá el alumbrado público de Bogotá por diez años: se modernizarán 50.000 luminarias LED",
+  "enlace": "https://www.lafm.com.co/actualidad/emp-asumira-alumbrado-publico-bogota-418076",
+  "fecha": "2026-11-23T18:30:00-05:00",
+  "palabras": "Actualidad,Alumbrado público,Bogotá,Medellín, Colombia,Carlos Fernando Galán,etb",
+  "lead": "Desde el 1 de diciembre, Empresas Públicas de Medellín estará a cargo de la operación del sistema de iluminación de la capital.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Álvaro Uribe pide no vincular funcionarios de De La Espriella con acusaciones contra Paloma Valencia",
+  "enlace": "https://www.lafm.com.co/politica/alvaro-uribe-pide-no-vincular-funcionarios-abelardo-de-la-espriella-acusaciones-paloma-valencia-418072",
+  "fecha": "2026-11-23T18:14:00-05:00",
+  "palabras": "Política,Álvaro Uribe,Magnicidio,Miguel Uribe,Paloma Valencia,Centro Democrático,Abelardo de la Espriella,Fiscalía General de la Nación",
+  "lead": "El expresidente aseguró que el mandatario le confirmó que nada tiene que ver con los señalamientos contra Valencia por el asesinato de Miguel Uribe Turbay....",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cuerpo de Gabriel Cárdenas habría hallado sin vida en el Salto del Tequendama",
+  "enlace": "https://www.lafm.com.co/actualidad/hallan-sin-vida-a-gabriel-cardenas-el-estudiante-de-17-anos-de-los-andes-que-estaba-desaparecido-418070",
+  "fecha": "2026-11-23T17:48:00-05:00",
+  "palabras": "Actualidad,desaparición de personas,Bogotá,Universidad de los Andes",
+  "lead": "La madre de Gabriel Cárdenas había denunciado su desaparición, luego de no tener noticias de él desde el 19 de noviembre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Nvidia se dispara 31% con el regreso de Jensen Huang",
+  "enlace": "https://www.lafm.com.co/internacional/nvidia-dispara-31-por-ciento-regreso-jensen-huang-wall-street-vive-mayor-rebote-meses-418069",
+  "fecha": "2026-11-23T17:43:00-05:00",
+  "palabras": "Internacional,Inteligencia artificial,NVIDIA,Mercados bursátiles,Bolsa de valores,Dow Jones,Tecnología,ganancias,sector financiero,Empresas",
+  "lead": "Los gigantes de la tecnología estadounidenses, que invierten miles de millones de dólares en la IA, también ganaron en la sesión.",
+  "seccion": "internacional",
   "nueva": true,
   "tambien": []
  }
