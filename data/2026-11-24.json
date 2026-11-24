@@ -3395,7 +3395,7 @@
   "palabras": "Dian, Terremoto hoy",
   "lead": "Más de 161.000 contribuyentes aprovecharon los beneficios tributarios del Gobierno para ponerse al día con sus obligaciones, la cifra superó en un 117,2 % la meta que se había fijado la entidad.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3406,7 +3406,7 @@
   "palabras": "",
   "lead": "Más de 161.000 contribuyentes aprovecharon los beneficios tributarios del Decreto 1419 de 2026. La entidad superó la meta de recaudo prevista para apoyar la recuperación de las comunidades afectadas por el terremoto del 10 de agosto.",
   "seccion": "alto",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3417,7 +3417,7 @@
   "palabras": "",
   "lead": "Más de 19 mil personas en Antioquia ya cuentan con mejores condiciones de acceso a agua potable gracias a la instalación de sistemas de potabilización en escuelas rurales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -3427,6 +3427,171 @@
   "fecha": "2026-11-24T15:09:00-05:00",
   "palabras": "Sociedad,Supersalud,Superintendencia Nacional de Salud,Reconciliación,Vigilancia,Contraloría",
   "lead": "La Superintendencia Nacional de Salud inició jornadas de conciliación de cartera en Bogotá, Huila y Meta, con el propósito de depurar las cuentas pendiente...",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Robo frustrado deja rehenes en Éxito de Cartagena: 24 noviembre 2026 Meridiano Blu programa completo",
+  "enlace": "https://www.bluradio.com/meridiano-blu/robo-frustrado-deja-rehenes-en-exito-de-cartagena-24-noviembre-2026-meridiano-blu-programa-completo-pr30",
+  "fecha": "2026-11-24T16:15:42-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Copa América volverá a jugarse en Estados Unidos: serán 16 equipos",
+  "enlace": "https://www.bluradio.com/deportes/futbol/copa-america-volvera-a-jugarse-en-estados-unidos-conmebol-confirma-detalles-cb20",
+  "fecha": "2026-11-24T15:59:26-05:00",
+  "palabras": "Copa América, Estados Unidos, Copa América",
+  "lead": "En la última edición, del 2024, Colombia llegó hasta la final contra Argentina y la terminó ganando la albiceleste con Messi.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Black Friday 2026: comercios apuestan por crédito en el punto de venta para impulsar ventas",
+  "enlace": "https://www.bluradio.com/economia/black-friday-2026-comercios-apuestan-por-credito-en-el-punto-de-venta-para-impulsar-ventas-so35",
+  "fecha": "2026-11-24T15:53:06-05:00",
+  "palabras": "Black Friday",
+  "lead": "Con más de 176 millones de facturas registradas en 2025, comercios en Colombia incorporan financiación en caja para evitar ventas perdidas por falta de cupo o liquidez",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Vacancia judicial no suspende control constitucional de decretos de estados de excepción",
+  "enlace": "https://www.bluradio.com/nacion/vacancia-judicial-no-suspende-control-constitucional-de-decretos-de-estados-de-excepcion-rg10",
+  "fecha": "2026-11-24T16:07:29-05:00",
+  "palabras": "Corte Constitucional",
+  "lead": "La Corte determinó que la vacancia judicial es constitucional. Sin embargo, estableció una condición relacionada con una de las funciones que tiene a su cargo el alto tribunal, el control automático de los decretos legislativos que expide el Gobierno durante los estados de excepción.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Presidente De La Espriella va a Cartagena para atender la toma de rehenes",
+  "enlace": "https://www.bluradio.com/regiones/caribe/presidente-de-la-espriella-va-a-cartagena-para-atender-la-toma-de-rehenes-rs15",
+  "fecha": "2026-11-24T16:15:39-05:00",
+  "palabras": "Cartagena, Abelardo De La Espriella, Cartagena, toma de rehenes, éxito Cartagena",
+  "lead": "Desde horas de la mañana se presentó esta situación de orden público. La mayoría de personas liberadas son adultos mayores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alias ‘Antonio Medina’, señalado por atentado en Villavicencio, tiene 48 indagaciones en Fiscalía",
+  "enlace": "https://www.bluradio.com/judicial/alias-antonio-medina-senalado-por-atentado-en-villavicencio-tiene-48-indagaciones-en-fiscalia-rg10",
+  "fecha": "2026-11-24T16:15:36-05:00",
+  "palabras": "Disidencias Farc, atentado terrorista, Villavicencio",
+  "lead": "Dentro de las investigaciones que aparecen asociadas a Pardo Galeano hay nueve radicados por terrorismo.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Medellín redujo la pobreza, pero enfrenta retos en educación y salud",
+  "enlace": "https://caracol.com.co/2026/11/24/medellin-redujo-la-pobreza-pero-enfrenta-retos-en-educacion-y-salud/",
+  "fecha": "2026-11-24T16:10:12-05:00",
+  "palabras": "",
+  "lead": "El Informe de Calidad de Vida 2026 de Medellín Cómo Vamos señala que la ciudad llegó a 2.528.343 habitantes y proyecta una reducción de su población hacia 2042. El estudio también advierte sobre dificultades en educación, acceso a la salud, empleo juvenil, vivienda y movilidad.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernadora del Magdalena rechazó ataque con explosivos en Villavicencio y se solidarizó con el Meta",
+  "enlace": "https://caracol.com.co/2026/11/24/gobernadora-del-magdalena-rechazo-ataque-con-explosivos-en-villavicencio-y-se-solidarizo-con-el-meta/",
+  "fecha": "2026-11-24T16:04:30-05:00",
+  "palabras": "",
+  "lead": "La mandataria Margarita Guerra expresó su solidaridad con su homóloga Rafaela Cortés y los habitantes de Villavicencio. También pidió que se identifique a los responsables del ataque con explosivos ocurrido el lunes 23 de noviembre.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Transcaribe mantiene desvío en la Avenida Pedro de Heredia a la altura de Éxito Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/24/transcaribe-mantiene-desvio-en-la-avenida-pedro-de-heredia-a-la-altura-de-exito-cartagena/",
+  "fecha": "2026-11-24T16:04:28-05:00",
+  "palabras": "",
+  "lead": "Aeropuerto Rafael Núñez restablece operaciones normales de salidas y llegadas de vuelos comerciales",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Consejo Gremial lanza plan para salvar empleos tras el terremoto",
+  "enlace": "https://caracol.com.co/2026/11/24/consejo-gremial-lanza-plan-para-salvar-empleos-tras-el-terremoto/",
+  "fecha": "2026-11-24T16:02:12-05:00",
+  "palabras": "",
+  "lead": "La iniciativa cuenta con el respaldo del MinCIT e iNNpulsa Colombia y busca ayudar a los negocios afectados por el sismo del 10 de agosto a pagar sus nóminas y evitar despidos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Nicolás Mejía, tenista colombiano del momento, está a 14 puestos de ingresar al top 100 mundial",
+  "enlace": "https://caracol.com.co/2026/11/24/nicolas-mejia-tenista-colombiano-del-momento-esta-a-14-puestos-de-ingresar-al-top-100-mundial/",
+  "fecha": "2026-11-24T16:01:57-05:00",
+  "palabras": "",
+  "lead": "Tras disputar 31 torneos durante la temporada 2026, el tenista colombiano alcanzó la posición 114 del ranking ATP, la mejor de su carrera.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Bancamía habilita una línea de crédito de reconstrucción para microempresas y, junto al Banco de Alimentos, entrega 8.000 mercados en zonas afectadas por el sismo",
+  "enlace": "https://www.lafm.com.co/economia/bancamia-habilita-una-linea-de-credito-de-reconstruccion-para-microempresas-y-junto-al-banco-de-alimentos-entrega-8000-mercados-en-zonas-afectadas-por-el-sismo-418188",
+  "fecha": "2026-11-24T16:08:00-05:00",
+  "palabras": "Economía,Contenido patrocinado,Terremoto en Colombia,Bancamía,Banco de alimentos,microempresas,Financiamiento,alivios financieros,Préstamos de dinero,Tasas de interés,Educación financiera,Ayudas humanitarias",
+  "lead": "Contenido patrocinado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fiscalía identifica a dos de los presuntos autores del atentado con carro bomba en Villavicencio",
+  "enlace": "https://www.lafm.com.co/orden-publico/fiscalia-identifica-a-dos-presuntos-autores-atentado-carro-bomba-villavicencio-418187",
+  "fecha": "2026-11-24T15:59:00-05:00",
+  "palabras": "Orden Público,atentado,ataque explosivo,Actos terroristas,Terrorismo nacional,Disidentes de las Farc,Grupos terroristas,Fiscalía General de la Nación,Gobernador del Meta,Antiexplosivos,Homicidios",
+  "lead": "Alias Antonio Medina tiene 48 investigaciones activas en la Fiscalía por toda una serie de crímenes y delitos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Sigue la tensión en Cartagena: al menos 19 personas continuarían secuestradas en el Éxito",
+  "enlace": "https://www.lafm.com.co/actualidad/secuestro-exito-cartagena-19-liberados-418185",
+  "fecha": "2026-11-24T15:58:00-05:00",
+  "palabras": "Actualidad,Cartagena,Secuestros,Abelardo de la Espriella,Alerta de seguridad,Policía Nacional",
+  "lead": "El presidente Abelardo de la Espriella confirmó en la mañana que se trataba de 30 personas secuestradas.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Procuraduría alerta por falta de recursos para la JEP",
+  "enlace": "https://www.lafm.com.co/orden-publico/procuraduria-alerta-por-fallas-en-financiacion-de-sanciones-restaurativas-de-la-jep-418183",
+  "fecha": "2026-11-24T15:28:00-05:00",
+  "palabras": "Orden Público,Procuraduría General de la Nación,JEP,Gobierno",
+  "lead": "La Procuraduría advierte fallas de coordinación y financiación en la JEP: riesgo para sanciones restaurativas y retrasos en reparación a víctimas.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
