@@ -2856,7 +2856,7 @@
   "palabras": "Antioquia, Jericó, Minería, Noticias de hoy, ANLA",
   "lead": "La situación ocurre mientras avanza el noveno día de un plantón de la comunidad que se opone a la iniciativa minera en esta zona del suroeste antioqueño.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2867,7 +2867,7 @@
   "palabras": "Santander, Abuso sexual Menores de Edad, Blu Radio, Noticias de hoy",
   "lead": "Al ser descubierto, el hombre habría intentado escapar, pero fue perseguido y alcanzado por familiares y vecinos del sector.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2878,7 +2878,7 @@
   "palabras": "Resultados del chance, Chances y Loterías, Dorado Tarde",
   "lead": "El chance Dorado Tarde se juega de lunes a sábado a las 3:30 p. m. y es uno de los sorteos que cuenta con una amplia participación en Colombia. Consulte aquí el resultado de este miércoles 25 de noviembre de 2026 y verifique las cifras ganadoras de la jornada.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2889,7 +2889,7 @@
   "palabras": "",
   "lead": "También usaron una escopeta traumática, dos pistolas traumáticas y artefactos explosivos simulados.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2900,7 +2900,7 @@
   "palabras": "",
   "lead": "El presidente Abelardo De La Espriella publicó el video de la operación que permitió la liberación de todos los rehenes.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2911,7 +2911,7 @@
   "palabras": "",
   "lead": "Según el ente de control, las deficiencias en planeación, diseños y supervisión involucran a las últimas administraciones municipales.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2922,7 +2922,7 @@
   "palabras": "",
   "lead": "En 2026, más de 1.600 estudiantes de las instituciones educativas Integrado y Politécnico reciben alimentos preparados en sus colegios. La modalidad industrializada pasó del 38 % al 15 % de las raciones entregadas en el municipio.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2932,6 +2932,61 @@
   "fecha": "2026-11-25T14:54:39-05:00",
   "palabras": "",
   "lead": "Los 36 clubes del fútbol profesional colombiano se reunieron para evaluar la propuesta del canal deportivo para quedarse con los derechos de televisión por los próximos años.",
+  "seccion": "otras",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Medicina Legal registra 2.634 desapariciones de niñas y adolescentes en 2026; un aumentó del 197%",
+  "enlace": "https://www.bluradio.com/nacion/medicina-legal-registra-2-634-desapariciones-de-ninas-y-adolescentes-en-2026-un-aumento-del-197-rg10",
+  "fecha": "2026-11-25T15:14:33-05:00",
+  "palabras": "Medicina Legal, Desaparecidos",
+  "lead": "Además, entre enero y septiembre de 2026 se registraron 2.634 desapariciones de niñas y adolescentes, frente a 887 casos reportados durante el mismo periodo de 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Familia de San Félix cosechó 900 kilos de arándanos con 1.500 plantas",
+  "enlace": "https://caracol.com.co/2026/11/25/familia-de-san-felix-cosecho-900-kilos-de-arandanos-con-1500-plantas/",
+  "fecha": "2026-11-25T15:20:00-05:00",
+  "palabras": "",
+  "lead": "El futuro del campo antioqueño también se cultiva en pequeños emprendimientos que buscan transformar la economía rural. En San Félix, una familia convirtió los arándanos en su apuesta productiva desde 2019.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía logra condena de 33 años contra homicidas de un hombre en Clemencia, Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/25/fiscalia-logra-condena-de-33-anos-contra-homicidas-de-un-hombre-en-clemencia-bolivar/",
+  "fecha": "2026-11-25T15:10:31-05:00",
+  "palabras": "",
+  "lead": "Un juez de conocimiento dictó sentencia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Las 81 muertes de mujeres en Atlántico tienen investigaciones activas: Fiscalía",
+  "enlace": "https://caracol.com.co/2026/11/25/las-81-muertes-de-mujeres-en-atlantico-tienen-investigaciones-activas-fiscalia/",
+  "fecha": "2026-11-25T15:05:38-05:00",
+  "palabras": "",
+  "lead": "La Fiscalía busca establecer qué pasó con los hijos de las mujeres víctimas de violencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Así fue el minuto a minuto de la operación para liberar a los rehenes del Éxito de Cartagena",
+  "enlace": "https://caracol.com.co/2026/11/25/asi-fue-el-minuto-a-minuto-de-la-operacion-para-liberar-a-los-rehenes-del-exito-de-cartagena/",
+  "fecha": "2026-11-25T15:07:28-05:00",
+  "palabras": "",
+  "lead": "Desde Bogotá, un equipo de negociación salió rumbo a Cartagena para establecer los mecanismos que permitieran interlocutar con los captores.",
   "seccion": "otras",
   "nueva": true,
   "tambien": []
