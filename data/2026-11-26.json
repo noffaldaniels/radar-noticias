@@ -2691,6 +2691,116 @@
   "palabras": "",
   "lead": "Entre las medidas se encuentran el fortalecimiento de los esquemas de seguridad y un despliegue de capacidades institucionales para prevenir cualquier atentado.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Se conoce nuevo video del recorrido de carro usado para atentar contra Gobernación del Meta",
+  "enlace": "https://www.bluradio.com/nacion/se-conoce-nuevo-video-del-recorrido-de-carro-usado-para-atentar-contra-gobernacion-del-meta-rg10",
+  "fecha": "2026-11-26T14:50:35-05:00",
+  "palabras": "Villavicencio, Meta",
+  "lead": "En la grabación se ve parte del recorrido del conductor y el apoyo que le dieron dos cómplices más, quienes se movilizaban en una motocicleta.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Confirman dura condena por feminicidio de médica hace 10 años en Barrancabermeja",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/confirman-dura-condena-por-feminicidio-de-medica-hace-10-anos-en-barrancabermeja-rg10",
+  "fecha": "2026-11-26T14:51:32-05:00",
+  "palabras": "Santander, Barrancabermeja, Feminicidio, Blu Radio, Noticias de hoy",
+  "lead": "La investigación estableció que murió por asfixia mecánica y que su cuerpo fue enterrado en una fosa clandestina en el patio de la vivienda.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santos advirtió al Gobierno que exhibir cadáveres incentivaría nuevos falsos positivos en Colombia",
+  "enlace": "https://caracol.com.co/2026/11/26/santos-advirtio-que-exhibir-cadaveres-podria-incentivar-nuevos-falsos-positivos-en-colombia/",
+  "fecha": "2026-11-26T15:01:24-05:00",
+  "palabras": "",
+  "lead": "Durante la conmemoración de los diez años del acuerdo de paz en la Universidad Javeriana, el expresidente cuestionó la forma en la que el Gobierno Nacional presenta los resultados de las operaciones militares y pidió continuar con la implementación del acuerdo de paz del 2016.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Innovador desarrollo de madera de cuero obtiene patente y apuesta por la sostenibilidad",
+  "enlace": "https://caracol.com.co/2026/11/26/innovador-desarrollo-de-madera-de-cuero-obtiene-patente-y-apuesta-por-la-sostenibilidad/",
+  "fecha": "2026-11-26T15:01:37-05:00",
+  "palabras": "",
+  "lead": "La patente, otorgada por la Superintendencia de Industria y Comercio, convirtió residuos de cuero y materiales reciclados en un compuesto de alto desempeño que busca sustituir la madera convencional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Colombia vs. Serbia: Prográmese con el último partido de fase de grupos del Mundial Sub-17",
+  "enlace": "https://caracol.com.co/2026/11/26/colombia-vs-serbia-programese-con-el-ultimo-partido-de-fase-de-grupos-del-mundial-sub-17/",
+  "fecha": "2026-11-26T15:00:55-05:00",
+  "palabras": "",
+  "lead": "El encuentro definirá el liderato del grupo y el rival de cara a los deiciseisavos de final.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Audiencia pública por disputa limítrofe entre Barranquilla y Puerto Colombia",
+  "enlace": "https://caracol.com.co/2026/11/26/audiencia-publica-por-disputa-limitrofe-entre-barranquilla-y-puerto-colombia/",
+  "fecha": "2026-11-26T14:56:30-05:00",
+  "palabras": "",
+  "lead": "La audiencia pública se realizará este viernes 27 de noviembre, a partir de las 9:00 de la mañana, en la sede de la Universidad Libre.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Más de 100 policías participaron en jornada de memoria y derechos humanos en Medellín",
+  "enlace": "https://caracol.com.co/2026/11/26/mas-de-100-policias-participaron-en-jornada-de-memoria-y-derechos-humanos-en-medellin/",
+  "fecha": "2026-11-26T14:48:32-05:00",
+  "palabras": "",
+  "lead": "Estudiantes de policía, auxiliares y uniformados hicieron parte de la estrategia “Reconocer para dignificar”, orientada a fortalecer una cultura institucional comprometida con la paz.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Liderazgo en el sector salud: una obligación en tiempos de cambios profundos",
+  "enlace": "https://caracol.com.co/2026/11/26/liderazgo-en-el-sector-salud-una-obligacion-en-tiempos-de-cambios-profundos/",
+  "fecha": "2026-11-26T14:47:37-05:00",
+  "palabras": "",
+  "lead": "Aunque ha habido señales de confianza, diversos actores del sector siguen a la espera de soluciones financieras que permitan mantener la atención y cerrar las brechas asistenciales del país. En medio de ese panorama surgen casos que vale la pena observar.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Prima de diciembre 2026 en Colombia: fecha límite para recibirla y cómo calcularla",
+  "enlace": "https://www.lafm.com.co/economia/prima-de-diciembre-2026-navidad-fecha-limite-de-pago-suma-que-recibe-418410",
+  "fecha": "2026-11-26T15:05:00-05:00",
+  "palabras": "Economía,prima,pago de nóminas,Trabajadores,Navidad,Año nuevo",
+  "lead": "Los trabajadores colombianos recibirán en diciembre el segundo desembolso de la prima de servicios.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Adelgazar lo hace ver más viejo? Experta explica qué ocurre",
+  "enlace": "https://www.lafm.com.co/sociedad/adelgazar-estetica-piel-perdida-de-peso-tratamiento-estetico-418407",
+  "fecha": "2026-11-26T14:51:00-05:00",
+  "palabras": "Sociedad,Envejecimiento,perdida de peso,rejuvenecimiento,Procedimientos Estéticos,botox,Biopolímeros,Cuidado de la piel,Protector solar,manchas en la piel,Dermatología",
+  "lead": "Adelgazar rápido puede hacer perder volúmenes y grasa del rostro; la experta recomienda el control médico y bioestimulación.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
