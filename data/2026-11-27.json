@@ -2625,7 +2625,7 @@
   "palabras": "Noticias de hoy",
   "lead": "El detenido declarará mañana por videoconferencia ante el juez de guardia de la Audiencia Nacional, que deberá decidir sobre su situación y sobre el inicio de un posible procedimiento de extradición.",
   "seccion": "internacional",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2635,6 +2635,127 @@
   "fecha": "2026-11-27T14:30:00-05:00",
   "palabras": "",
   "lead": "El director nacional de Fenalco aseguró que los recientes atentados y hechos violentos son parte de la reacción de los grupos armados frente a las acciones del Gobierno para recuperar la tranquilidad en los territorios.",
+  "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Cómics y música, entre los planes culturales para este fin de semana en el Valle de Aburrá",
+  "enlace": "https://www.bluradio.com/regiones/antioquia/comics-y-musica-entre-los-planes-culturales-para-este-fin-de-semana-en-el-valle-de-aburra-rg10",
+  "fecha": "2026-11-27T14:51:39-05:00",
+  "palabras": "Noticias de hoy, Valle de Aburrá",
+  "lead": "También habrá eventos para quienes buscan planes junto con sus mascotas y de gastronomía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Condenan a más de 26 años de cárcel a policía que facilitó robo a joyería en Bucaramanga",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/condenan-a-mas-de-26-anos-de-carcel-a-policia-que-facilito-robo-a-joyeria-en-bucaramanga-rg10",
+  "fecha": "2026-11-27T14:57:01-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Policía Nacional, Fiscalía General de la Nación",
+  "lead": "El exsubintendente Richard José Sierra Bravo entregaba información en tiempo real a los delincuentes para facilitar el asalto y evitar que otros policías atendieran la emergencia.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Consejo de Estado mantiene a Elkin Reyes como alcalde de Oiba: revocó fallo que anulaba su elección",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/consejo-de-estado-mantiene-a-elkin-reyes-como-alcalde-de-oiba-revoco-fallo-que-anulaba-su-eleccion-rg10",
+  "fecha": "2026-11-27T14:59:01-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Consejo de Estado",
+  "lead": "La decisión está relacionada con los efectos de la nulidad de sus primeros comicios, declarados irregulares por trashumancia electoral.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "La OMS alerta por el aumento del riesgo de sarampión: 20 millones de niños no recibieron la primera",
+  "enlace": "https://caracol.com.co/2026/11/27/la-oms-alerta-por-el-aumento-del-riesgo-de-sarampion-20-millones-de-ninos-no-recibieron-la-primera/",
+  "fecha": "2026-11-27T14:51:25-05:00",
+  "palabras": "",
+  "lead": "La baja cobertura de vacunación, la desinformación y las dificultades para acceder a los servicios de salud mantienen en riesgo a millones de niños en todo el mundo",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Abelardo de la Espriella propuso “salario solidario” en el que participarían Cajas de Compensación",
+  "enlace": "https://caracol.com.co/2026/11/27/abelardo-de-la-espriella-propuso-salario-solidario-en-el-que-participarian-cajas-de-compensacion/",
+  "fecha": "2026-11-27T14:42:51-05:00",
+  "palabras": "",
+  "lead": "La propuesta abre interrogantes sobre la discusión del salario mínimo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "700 policías reforzarán la seguridad en el Valle de Aburrá durante la temporada navideña",
+  "enlace": "https://caracol.com.co/2026/11/27/700-policias-reforzaran-la-seguridad-en-el-valle-de-aburra-durante-la-temporada-navidena/",
+  "fecha": "2026-11-27T14:49:29-05:00",
+  "palabras": "",
+  "lead": "Especialidades como SIJIN, GAULA, Carabineros, Infancia y Adolescencia, Turismo y el helicóptero Halcón apoyarán las acciones contra el hurto, la extorsión y las lesiones personales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Yo terminé todas mis materias”: Andrea Vargas responde a polémica por su título universitario",
+  "enlace": "https://caracol.com.co/2026/11/27/yo-termine-todas-mis-materias-andrea-vargas-responde-a-polemica-por-su-titulo-universitario/",
+  "fecha": "2026-11-27T14:43:40-05:00",
+  "palabras": "",
+  "lead": "La congresista indicó que espera recibir su diploma en los próximos meses.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Antioquia presenta su Plan Departamental de Seguridad Vial 2026-2031 para reducir muertes en vías",
+  "enlace": "https://caracol.com.co/2026/11/27/antioquia-presenta-su-plan-departamental-de-seguridad-vial-2026-2031-para-reducir-muertes-en-vias/",
+  "fecha": "2026-11-27T14:40:22-05:00",
+  "palabras": "",
+  "lead": "Con acciones en velocidades seguras, infraestructura, vigilancia y atención a víctimas, la Gobernación de Antioquia proyecta transformar la movilidad regional hacia el año 2031.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿De qué manera afectará el fenómeno de El Niño a Colombia?",
+  "enlace": "https://www.lafm.com.co/sociedad/como-afectara-fenomeno-el-nino-colombia-entre-diciembre-febrero-418520",
+  "fecha": "2026-11-27T14:57:00-05:00",
+  "palabras": "Sociedad,Fenómeno de El Niño,Cambio climático,Calentamiento global,Sequía,Lluvias,Sistema de Alertas Tempranas,Temperatura,Desastres naturales,Naciones Unidas,Diciembre,Colombia",
+  "lead": "Este año se convertirá en uno de los años más cálidos de los que se tiene registro.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "¿Quiénes son los tres mejores árbitros en la historia del FPC?",
+  "enlace": "https://www.lafm.com.co/deportes/los-tres-mejores-arbitros-en-la-historia-del-fpc-418527",
+  "fecha": "2026-11-27T14:39:00-05:00",
+  "palabras": "Deportes,Fútbol,Colombia,Árbitros,Historia",
+  "lead": "Colombia tiene una crisis en el ámbito arbitral, pero en La FM más Fútbol, se destacó la trayectoria de algunos de ellos.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Fondo Milagro anuncia subsidios para damnificados en Cali",
+  "enlace": "https://www.lafm.com.co/sociedad/terremoto-colombia-fondo-milagro-nuevos-subisidios-damnificados-418523",
+  "fecha": "2026-11-27T13:53:00-05:00",
+  "palabras": "Sociedad,damnificados,Terremoto en Colombia,Mejoramiento de vivienda,Cali, Colombia,Ministerio de Vivienda,Valle del Cauca,Gobernación del Valle",
+  "lead": "Gerente de Fondo Milagro anunció que las familias afectadas por el terremoto podrán postularse a subsidios de vivienda en las próximas semanas.",
   "seccion": "politica",
   "nueva": true,
   "tambien": []
