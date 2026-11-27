@@ -2647,7 +2647,7 @@
   "palabras": "Noticias de hoy, Valle de Aburrá",
   "lead": "También habrá eventos para quienes buscan planes junto con sus mascotas y de gastronomía.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2658,7 +2658,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Policía Nacional, Fiscalía General de la Nación",
   "lead": "El exsubintendente Richard José Sierra Bravo entregaba información en tiempo real a los delincuentes para facilitar el asalto y evitar que otros policías atendieran la emergencia.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2669,7 +2669,7 @@
   "palabras": "Noticias de hoy, Blu Radio, Santander, Consejo de Estado",
   "lead": "La decisión está relacionada con los efectos de la nulidad de sus primeros comicios, declarados irregulares por trashumancia electoral.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2680,7 +2680,7 @@
   "palabras": "",
   "lead": "La baja cobertura de vacunación, la desinformación y las dificultades para acceder a los servicios de salud mantienen en riesgo a millones de niños en todo el mundo",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2691,7 +2691,7 @@
   "palabras": "",
   "lead": "La propuesta abre interrogantes sobre la discusión del salario mínimo.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2702,7 +2702,7 @@
   "palabras": "",
   "lead": "Especialidades como SIJIN, GAULA, Carabineros, Infancia y Adolescencia, Turismo y el helicóptero Halcón apoyarán las acciones contra el hurto, la extorsión y las lesiones personales.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2713,7 +2713,7 @@
   "palabras": "",
   "lead": "La congresista indicó que espera recibir su diploma en los próximos meses.",
   "seccion": "politica",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2724,7 +2724,7 @@
   "palabras": "",
   "lead": "Con acciones en velocidades seguras, infraestructura, vigilancia y atención a víctimas, la Gobernación de Antioquia proyecta transformar la movilidad regional hacia el año 2031.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2735,7 +2735,7 @@
   "palabras": "Sociedad,Fenómeno de El Niño,Cambio climático,Calentamiento global,Sequía,Lluvias,Sistema de Alertas Tempranas,Temperatura,Desastres naturales,Naciones Unidas,Diciembre,Colombia",
   "lead": "Este año se convertirá en uno de los años más cálidos de los que se tiene registro.",
   "seccion": "otras",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2746,7 +2746,7 @@
   "palabras": "Deportes,Fútbol,Colombia,Árbitros,Historia",
   "lead": "Colombia tiene una crisis en el ámbito arbitral, pero en La FM más Fútbol, se destacó la trayectoria de algunos de ellos.",
   "seccion": "deportes",
-  "nueva": true,
+  "nueva": false,
   "tambien": []
  },
  {
@@ -2757,6 +2757,732 @@
   "palabras": "Sociedad,damnificados,Terremoto en Colombia,Mejoramiento de vivienda,Cali, Colombia,Ministerio de Vivienda,Valle del Cauca,Gobernación del Valle",
   "lead": "Gerente de Fondo Milagro anunció que las familias afectadas por el terremoto podrán postularse a subsidios de vivienda en las próximas semanas.",
   "seccion": "politica",
+  "nueva": false,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Dorado Tarde, resultado del último sorteo de hoy viernes 27 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/dorado-tarde-resultado-del-ultimo-sorteo-de-hoy-viernes-27-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-27T15:41:33-05:00",
+  "palabras": "Dorado Tarde, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Dorado Tarde realiza sus sorteos de lunes a sábado a las 3:30 p. m. Consulte aquí el número ganador de este 27 de noviembre de 2026, las últimas cifras y la quinta balota.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Super Astro Sol, resultado del último sorteo de hoy viernes 27 de noviembre de 2026",
+  "enlace": "https://www.bluradio.com/economia/juegos-de-azar/super-astro-sol-resultado-del-ultimo-sorteo-de-hoy-viernes-27-de-noviembre-de-2026-so35",
+  "fecha": "2026-11-27T15:38:54-05:00",
+  "palabras": "Super Astro Sol, Resultados del chance, Chances y Loterías",
+  "lead": "El chance Super Astro Sol hace sus sorteos de lunes a sábado a las 4:00 p. m. Apostadores pueden consultar aquí el resultado de este 27 de noviembre de 2026, las últimas cifras y el signo zodiacal ganador.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Colombia tiene mucho por hacer para garantizar salarios dignos: De La Espriella",
+  "enlace": "https://www.bluradio.com/nacion/colombia-tiene-mucho-por-hacer-para-garantizar-salarios-dignos-de-la-espriella-rg10",
+  "fecha": "2026-11-27T15:11:37-05:00",
+  "palabras": "Abelardo De La Espriella, Salario mínimo",
+  "lead": "El presidente Abelardo De La Espriella propuso estudiar la posibilidad de implementar un “salario solidario”.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Nueve capturados en Santander por venta ilegal de chance y rifas: incautaron 1.000 boletas",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/nueve-capturados-en-santander-por-venta-ilegal-de-chance-y-rifas-incautaron-1-000-boletas-rg10",
+  "fecha": "2026-11-27T16:00:14-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional",
+  "lead": "Las capturas se registraron en San Vicente de Chucurí, San Gil, Vélez, Barbosa, El Playón y Güepsa. En Barbosa también fue inmovilizado un vehículo que se ofrecía como premio de una rifa sin autorización.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Abren subsidios de vivienda para damnificados: 27 de noviembre 2026, Meridiano Blu programa completo",
+  "enlace": "https://www.bluradio.com/meridiano-blu/abren-subsidios-de-vivienda-para-damnificados-27-de-noviembre-2026-meridiano-blu-programa-completo-pr30",
+  "fecha": "2026-11-27T15:53:11-05:00",
+  "palabras": "Podcast, Programas completos",
+  "lead": "Entérese de todas las noticias, las historias, las primicias y los personajes en Meridiano Blu con Ricardo Ospina, Octavio Sasso y todo el equipo del Servicio Informativo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "La reforma tributaria podría quedarse corta para evitar la crisis de deuda: analista",
+  "enlace": "https://www.bluradio.com/economia/la-reforma-tributaria-podria-quedarse-corta-para-evitar-la-crisis-de-deuda-analista-rg10",
+  "fecha": "2026-11-27T14:21:00-05:00",
+  "palabras": "Reforma tributaria",
+  "lead": "A menos de un mes del fin de las sesiones ordinarias no hay consenso sobre los puntos gruesos de la propuesta del gobierno nacional. Las negociaciones se extenderán hasta el lunes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Qué es lo que más compran en Rappi durante el Black Friday 2026",
+  "enlace": "https://www.bluradio.com/economia/que-es-lo-que-mas-compran-en-rappi-durante-black-friday-2026-rs15",
+  "fecha": "2026-11-27T15:42:32-05:00",
+  "palabras": "Rappi, Black Friday",
+  "lead": "Las órdenes en la plataforma aumentan hasta un 46 % en esta temporada, impulsadas por belleza (25 %), regalos (15 %) y tecnología (14 %).",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Un policía muerto dejó ataque con drones explosivos en el sur de Bolívar",
+  "enlace": "https://www.bluradio.com/regiones/caribe/un-policia-muerto-dejo-ataque-con-drones-explosivos-en-el-sur-de-bolivar-so35",
+  "fecha": "2026-11-27T15:43:32-05:00",
+  "palabras": "Noticias de hoy, Bolívar",
+  "lead": "Los uniformados se encontraban en el centro de reconciliación del municipio cuando fueron atacados con estos dispositivos aéreos.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Policía asesinado en Arenal, sur de Bolívar, era de Santander: llevaba casi 20 años de servicio",
+  "enlace": "https://www.bluradio.com/regiones/santanderes/policia-asesinado-en-arenal-sur-de-bolivar-era-de-santander-llevaba-casi-20-anos-de-servicio-rg10",
+  "fecha": "2026-11-27T16:13:39-05:00",
+  "palabras": "Noticias de hoy, Blu Radio, Santander, Policía Nacional, Drones",
+  "lead": "El subintendente Óscar Mauricio Díaz, oriundo de Rionegro, fue la víctima mortal del atentado contra la estación de Policía de Arenal. Su hermano también pertenece a la institución y trabaja en Bucaramanga.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "“Está más preocupado por el billete”: dura contienda en audiencia por límites en Barranquilla",
+  "enlace": "https://www.bluradio.com/regiones/caribe/altercado-marca-audiencia-publica-por-limites-territoriales-entre-barranquilla-y-puerto-colombia-rg10",
+  "fecha": "2026-11-27T16:44:30-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Puerto Colombia, Senado de la República",
+  "lead": "Afortunadamente pasados los minutos, los ánimos se calmaron y se pudo terminar el encuentro.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Denunciarán ante Fiscalía presuntas irregularidades en subsidios de combustibles otorgados en Nariño",
+  "enlace": "https://www.bluradio.com/nacion/denunciaran-ante-fiscalia-presuntas-irregularidades-en-subsidios-de-combustibles-otorgados-en-narino-rg10",
+  "fecha": "2026-11-27T16:37:19-05:00",
+  "palabras": "Noticias de hoy, Nariño",
+  "lead": "La denuncia busca que las autoridades establezcan si hubo irregularidades en la modificación del abastecimiento.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "San Victorino se suma al Black Friday con descuentos y una apuesta por lo hecho en Colombia",
+  "enlace": "https://www.bluradio.com/regiones/bogota/san-victorino-se-suma-al-black-friday-con-descuentos-y-una-apuesta-por-lo-hecho-en-colombia-rg10",
+  "fecha": "2026-11-27T16:27:32-05:00",
+  "palabras": "San Victorino, Black Friday",
+  "lead": "Fabricantes y pequeños buscan aprovechar la temporada de compras navideñas para atraer clientes, impulsar sus negocios y demostrar que la industria nacional puede competir con marcas internacionales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Blu Radio",
+  "titulo": "Alerta en Barranquilla por desaparición de menor de 13 años; su madre pide ayuda ciudadana",
+  "enlace": "https://www.bluradio.com/regiones/caribe/alerta-en-barranquilla-por-desaparicion-de-menor-de-13-anos-su-madre-pide-ayuda-ciudadana-rg10",
+  "fecha": "2026-11-27T16:47:45-05:00",
+  "palabras": "Noticias de hoy, Barranquilla, Fiscalía General de la Nación, Desaparecidos",
+  "lead": "La familia ya acudió a la Fiscalía para reportar la desaparición y activar las gestiones de búsqueda ante las autoridades.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Los nuevos embajadores que representarán a Colombia: dos médicos sin experiencia en diplomacia",
+  "enlace": "https://caracol.com.co/2026/11/27/los-nuevos-embajadores-que-representaran-a-colombia-dos-medicos-sin-experiencia-en-diplomacia/",
+  "fecha": "2026-11-27T17:13:11-05:00",
+  "palabras": "",
+  "lead": "El Gobierno expidió los decretos que hacen oficial los nombramientos de los nuevos embajadores.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Coljuegos investigará presuntas irregularidades en sorteos de Lotería de Boyacá en 2025",
+  "enlace": "https://caracol.com.co/2026/11/27/coljuegos-investigara-presuntas-irregularidades-en-sorteos-de-loteria-de-boyaca-de-2025/",
+  "fecha": "2026-11-27T17:11:07-05:00",
+  "palabras": "",
+  "lead": "Tras denuncias en redes sociales, la entidad que vigila los juegos de suerte y azar anunció que indagará si hubo inconsistencias en los sorteos realizados entre mayo y julio de 2025.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Kevin Viveros tendría todo listo volver a Europa: así va su posible llegada a un histórico",
+  "enlace": "https://caracol.com.co/2026/11/27/kevin-viveros-tendria-todo-listo-volver-a-europa-asi-va-su-posible-llegada-a-un-historico/",
+  "fecha": "2026-11-27T17:10:03-05:00",
+  "palabras": "",
+  "lead": "Atlético Nacional se beneficiaría de la operación, en caso de que termine produciéndose.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "🔴 Cali vs. Bucaramanga en vivo, fecha 3 de cuadrangulares de Liga: transmisión y minuto a minuto",
+  "enlace": "https://caracol.com.co/2026/11/27/cali-vs-bucaramanga-en-vivo-fecha-3-de-cuadrangulares-de-liga-transmision-y-minuto-a-minuto/",
+  "fecha": "2026-11-27T16:21:42-05:00",
+  "palabras": "",
+  "lead": "Ambos equipos llegan en búsqueda de sus primeros tres puntos en las semifinales.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "José Félix Lafaurie invitó a todos los senadores al Congreso Ganadero y no solo a Iván Cepeda",
+  "enlace": "https://caracol.com.co/2026/11/27/jose-felix-lafaurie-invito-a-todos-los-senadores-al-congreso-ganadero-y-no-solo-a-ivan-cepeda/",
+  "fecha": "2026-11-27T17:04:21-05:00",
+  "palabras": "",
+  "lead": "Este es el documento que prueba que el presidente de Fedegán, José Félix Lafaurie, invitó a la totalidad de senadores, y no exclusivamente al congresista del Pacto Histórico, Iván Cepeda, al congreso ganadero en Valledupar.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Proyecto para mejorar movilidad y turismo en Cartagena fue presentado en Congreso de Infraestructura",
+  "enlace": "https://caracol.com.co/2026/11/27/presentaron-en-congreso-de-infraestructura-proyecto-que-mejoraria-movilidad-y-turismo-en-cartagena/",
+  "fecha": "2026-11-27T16:48:36-05:00",
+  "palabras": "",
+  "lead": "En el desarrollo del tercer día del Congreso Nacional de Infraestructura, se propuso un proyecto que se encuentra en fase adelantada",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Día sin carro y sin moto en Tunja dejó 81 comparendos",
+  "enlace": "https://caracol.com.co/2026/11/27/dia-sin-carro-y-sin-moto-en-tunja-dejo-81-comparendos/",
+  "fecha": "2026-11-27T16:53:54-05:00",
+  "palabras": "",
+  "lead": "Durante las 12 horas de restricción fueron inmovilizadas 41 motocicletas y 40 automóviles particulares. La Alcaldía reportó una reducción del 30 % en comparendos e inmovilizaciones frente a jornadas anteriores.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cultivos de cholupa en Rivera, Huila, pasaron de 540 a solo 60 hectáreas",
+  "enlace": "https://caracol.com.co/2026/11/27/cultivos-de-cholupa-en-rivera-huila-pasaron-de-540-a-solo-60-hectareas/",
+  "fecha": "2026-11-27T16:42:58-05:00",
+  "palabras": "",
+  "lead": "La expansión del turismo, la falta de relevo generacional y las dificultades para mantener la actividad agrícola inciden en la reducción de este cultivo emblemático del Huila.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "En El Bagre asesinaron a dos hombres y quemaron dos vehículos",
+  "enlace": "https://caracol.com.co/2026/11/27/en-el-bagre-asesinaron-a-dos-hombres-y-quemaron-dos-vehiculos/",
+  "fecha": "2026-11-27T16:49:31-05:00",
+  "palabras": "",
+  "lead": "Los cuerpos fueron hallados en la vereda Bamba. Uno habría sido degollado.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiscalía acusó a cuatro personas por el secuestro, tortura y asesinato del profesor Neill Cubides",
+  "enlace": "https://caracol.com.co/2026/11/27/fiscalia-acuso-a-cuatro-personas-por-el-secuestro-tortura-y-asesinato-del-profesor-neill-cubides/",
+  "fecha": "2026-11-27T13:28:00-05:00",
+  "palabras": "",
+  "lead": "Alias ‘Cabezón’, alias ‘Chirry’, alias ‘Pipo’ y alias ‘Pecueca’ serían los presuntos integrantes de la banda delincuencial ‘Los Kamaleones’.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja busca construir una nueva Casa de Justicia para atender casos de violencia intrafamiliar",
+  "enlace": "https://caracol.com.co/2026/11/27/tunja-busca-construir-una-nueva-casa-de-justicia-para-atender-casos-de-violencia-intrafamiliar/",
+  "fecha": "2026-11-27T16:10:44-05:00",
+  "palabras": "",
+  "lead": "El alcalde Rafael Acevedo anunció que el proyecto se gestionará ante el Ministerio de Justicia. También se busca modernizar las inspecciones y comisarías de familia con tecnología, equipos e infraestructura.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "“Hay más víctimas”: abogado de familia de menor en caso contra Carlos Caicedo",
+  "enlace": "https://caracol.com.co/2026/11/27/hay-mas-victimas-abogado-de-familia-de-menor-en-caso-contra-carlos-caicedo/",
+  "fecha": "2026-11-27T16:41:10-05:00",
+  "palabras": "",
+  "lead": "En diálogo con Dos Puntos de Caracol Radio, el abogado Julián Quintana, quien representa los intereses de la familia de la menor que presuntamente fue abusada sexualmente por el exgobernador del Magdalena Carlos Caicedo, se pronunció sobre el avance del caso.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Eficiencia y prevención: claves para garantizar la atención en medio del contexto de salud",
+  "enlace": "https://caracol.com.co/2026/11/27/eficiencia-y-prevencion-claves-para-garantizar-la-atencion-en-medio-del-contexto-de-salud/",
+  "fecha": "2026-11-27T16:38:51-05:00",
+  "palabras": "",
+  "lead": "La distribución de los recursos, el manejo de las enfermedades crónicas y el fortalecimiento de la medicina preventiva ocupan la agenda prioritaria de aseguradores y prestadores de salud en el país. Algunos, se convierten en ejemplo de manejo.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobernadora acompañó operativo que dejó 52 capturas y destacó ofensiva contra el crimen en Magdalena",
+  "enlace": "https://caracol.com.co/2026/11/27/gobernadora-acompano-operativo-que-dejo-52-capturas-y-destaco-ofensiva-contra-el-crimen-en-magdalena/",
+  "fecha": "2026-11-27T16:38:13-05:00",
+  "palabras": "",
+  "lead": "La mandataria acompañó el Bloque Operacional de Seguridad Urbana, que dejó más de 50 capturas, 50 allanamientos y armas y estupefacientes incautados.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Petro denunció que se habría retirado su cuadro de la galería de exmandatarios de la Casa de Nariño",
+  "enlace": "https://caracol.com.co/2026/11/27/petro-denuncio-que-se-habria-retirado-su-cuadro-de-la-galeria-de-exmandatarios-de-la-casa-de-narino/",
+  "fecha": "2026-11-27T16:18:27-05:00",
+  "palabras": "",
+  "lead": "El exmandatario aseguró que, aunque escondan sus retratos y sus palabras, su legado ya hace parte del corazón del pueblo y, por esa razón, permanecerá en la memoria de los colombianos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Asesinaron a una pareja en el municipio de Campamento; trabajan en un motocarro",
+  "enlace": "https://caracol.com.co/2026/11/27/asesinaron-a-una-pareja-en-el-municipio-de-campamento-trabajan-en-un-motocarro/",
+  "fecha": "2026-11-27T16:24:35-05:00",
+  "palabras": "",
+  "lead": "A las víctimas se les había perdido el rastro la tarde del jueves y aparecieron asesinados este viernes en la vereda El Plan de La Rosa.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Destinos para vacaciones de fin de año Colombia: 5 escapadas cortas para disfrutar de la naturaleza",
+  "enlace": "https://caracol.com.co/2026/11/27/destinos-para-vacaciones-de-fin-de-ano-colombia-5-escapadas-cortas-para-disfrutar-de-la-naturaleza/",
+  "fecha": "2026-11-27T16:28:17-05:00",
+  "palabras": "",
+  "lead": "Le traemos destinos de corta distancia para disfrutar de los pueblos, las playas y la naturaleza que ofrece el territorio; conozca todos los detalles aquí",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fiel hincha del Deportes Quindío confía en el ascenso del equipo en el partido de vuelta",
+  "enlace": "https://caracol.com.co/2026/11/27/fiel-hincha-del-deportes-quindio-confia-en-el-ascenso-del-equipo-en-el-partido-de-vuelta/",
+  "fecha": "2026-11-27T16:24:59-05:00",
+  "palabras": "",
+  "lead": "El encuentro deportivo será este sábado 28 de noviembre en el Estadio Centenario de Armenia",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Santa Fe vs Nacional: fecha y hora del partido de cuadrangulares del grupo A en Liga Colombiana 2026",
+  "enlace": "https://caracol.com.co/2026/11/27/santa-fe-vs-nacional-fecha-y-hora-del-partido-de-cuadrangulares-del-grupo-a-en-liga-colombiana-2026/",
+  "fecha": "2026-11-27T16:22:43-05:00",
+  "palabras": "",
+  "lead": "Ambos equipos buscarán sumar de a tres con el fin de seguir en la disputa por el primer puesto en el grupo.",
+  "seccion": "deportes",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Salario mínimo 2027: DANE revela caída de colombianos que ganan ese monto y genera debate en mesa",
+  "enlace": "https://caracol.com.co/2026/11/27/salario-minimo-2027-dane-revela-caida-de-colombianos-que-ganan-ese-monto-y-genera-debate-en-mesa/",
+  "fecha": "2026-11-27T16:04:24-05:00",
+  "palabras": "",
+  "lead": "Las cifras que la entidad reveló en el primer día de negociación del salario mínimo muestran que cayó a la mitad el número de empleados que ganan el mínimo, pasando de 2.4 millones a 1.1 millones en el último año. Las centrales obreras cuestionaron las cifras.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Operación Tayrona en Magdalena deja 52 capturados y cuatro estructuras criminales afectadas",
+  "enlace": "https://caracol.com.co/2026/11/27/operacion-tayrona-en-magdalena-deja-52-capturados-y-cuatro-estructuras-criminales-afectadas/",
+  "fecha": "2026-11-27T16:12:14-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo de la Espriella destacó los resultados de los operativos, en los que también fueron incautadas armas, municiones y estupefacientes.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno anunció alivios a deudores del Icetex y para estudiantes afectados por el terremoto",
+  "enlace": "https://caracol.com.co/2026/11/27/gobierno-anuncio-alivios-para-deudores-morosos-y-para-estudiantes-afectados-por-el-terremoto/",
+  "fecha": "2026-11-27T16:03:08-05:00",
+  "palabras": "",
+  "lead": "El presidente Abelardo De La Espriella anunció una estrategia para el fortalecimiento del ICETEX, que incluye condonaciones de los intereses moratorios.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Le gusta el plátano? Festival gastronómico este fin de semana en Pueblo Tapao en el Quindío",
+  "enlace": "https://caracol.com.co/2026/11/27/le-gusta-el-platano-festival-gastronomico-este-fin-de-semana-en-pueblo-tapao-en-el-quindio/",
+  "fecha": "2026-11-27T16:07:02-05:00",
+  "palabras": "",
+  "lead": "55 Expositores se darán cita en el Mall del Café en el corregimiento de Pueblo Tapao en Montenegro, Quindío",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "104 niños alzan su voz por los animales y sueñan con una Medellín sin pólvora",
+  "enlace": "https://caracol.com.co/2026/11/27/104-ninos-alzan-su-voz-por-los-animales-y-suenan-con-una-medellin-sin-polvora/",
+  "fecha": "2026-11-27T16:05:33-05:00",
+  "palabras": "",
+  "lead": "Con historias ilustradas sobre el sufrimiento de los animales durante las celebraciones decembrinas, 104 niñas, niños y adolescentes participaron en Animalizarte, una iniciativa que invitó a transformar la Navidad en una fiesta sin pólvora.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Un policía murió en ataque con drones en el sur de Bolívar",
+  "enlace": "https://caracol.com.co/2026/11/27/un-policia-murio-en-ataque-con-drones-en-el-sur-de-bolivar/",
+  "fecha": "2026-11-27T16:01:03-05:00",
+  "palabras": "",
+  "lead": "El hecho se presentó en el municipio de Arenal del Sur",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Cuatro mineros estan atrapados en un socavón de Remedios, Antioquia",
+  "enlace": "https://caracol.com.co/2026/11/27/cuatro-mineros-estan-atrapados-en-un-socavon-de-remedios-antioquia/",
+  "fecha": "2026-11-27T15:52:32-05:00",
+  "palabras": "",
+  "lead": "Desde la zona se ha informado que se lograron comunicar con tres de los mineros y que están bien.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Barranquilla será sede del Encuentro Nacional de Transformación Digital de la Rama Judicial",
+  "enlace": "https://caracol.com.co/2026/11/27/barranquilla-sera-sede-del-encuentro-nacional-de-transformacion-digital-de-la-rama-judicial/",
+  "fecha": "2026-11-27T15:58:54-05:00",
+  "palabras": "",
+  "lead": "El evento, organizado por el Consejo Superior de la Judicatura, tendrá como eje central la transformación digital de la justicia y su impacto en la atención a los ciudadanos.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "¿Qué se sabe de las elecciones presidenciales en Venezuela? Esto han dicho líderes políticos",
+  "enlace": "https://caracol.com.co/2026/11/27/que-se-sabe-de-las-elecciones-presidenciales-en-venezuela-esto-han-dicho-lideres-politicos/",
+  "fecha": "2026-11-27T15:58:31-05:00",
+  "palabras": "",
+  "lead": "Desde la captura del expresidente Nicolás Maduro por Estados Unidos en enero de 2026, la presidenta encargada Delcy Rodríguez señaló que el país se encuentra en una transición democrática; conozca todos los detalles aquí",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "El Retiro entregará la segunda etapa de bosques urbanos con nuevos espacios para la comunidad",
+  "enlace": "https://caracol.com.co/2026/11/27/el-retiro-entregara-la-segunda-etapa-de-bosques-urbanos-con-nuevos-espacios-para-la-comunidad/",
+  "fecha": "2026-11-27T15:47:46-05:00",
+  "palabras": "",
+  "lead": "Este domingo 15 de noviembre, el municipio de El Retiro, Antioquia, realizará la entrega oficial de la segunda etapa de Bosques Urbanos, un proyecto que busca mejorar el espacio público y ofrecer nuevos lugares para el encuentro ciudadano.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Estas son las zonas más sísmicas de Colombia: 5 departamentos con mayor actividad, según el SGC",
+  "enlace": "https://caracol.com.co/2026/11/27/estas-son-las-zonas-mas-sismicas-de-colombia-5-departamentos-con-mayor-actividad-segun-el-sgc/",
+  "fecha": "2026-11-27T15:34:36-05:00",
+  "palabras": "",
+  "lead": "Le contamos cuáles son los factores que hacen que estas regiones registren una mayor actividad sísmica.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Gobierno quiere perseguir un punto de seguridad jurídica: Ecija Colombia sobre reforma tributaria",
+  "enlace": "https://caracol.com.co/2026/11/27/gobierno-quiere-perseguir-un-punto-de-seguridad-juridica-ecija-colombia-sobre-reforma-tributaria/",
+  "fecha": "2026-11-27T15:29:23-05:00",
+  "palabras": "",
+  "lead": "Gómez resaltó que “la futurología que está haciendo el Gobierno es bastante razonable”. Lo anterior, recordando, que el ejecutivo advirtió que de no aprobarse la reforma tributaria, el país podría caer en una recesión económica.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rusia incorpora el submarino nuclear Perm y anuncia cinco nuevas unidades antes de 2030",
+  "enlace": "https://caracol.com.co/2026/11/27/rusia-incorpora-el-submarino-nuclear-perm-y-anuncia-cinco-nuevas-unidades-antes-de-2030/",
+  "fecha": "2026-11-27T15:28:12-05:00",
+  "palabras": "",
+  "lead": "La embarcación pertenece a la clase Yasen-M y será destinada a la Flota del Pacífico. Es la primera de esta serie equipada de fábrica para transportar misiles hipersónicos Zircon.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Fondo Milagro se encargará de contratación para demoler edificaciones afectadas por sismo en Viterbo",
+  "enlace": "https://caracol.com.co/2026/11/27/fondo-milagro-se-encargara-de-contratacion-para-demoler-edificaciones-afectadas-por-sismo-en-viterbo/",
+  "fecha": "2026-11-27T15:15:18-05:00",
+  "palabras": "",
+  "lead": "La administración municipal enviará al nivel central la documentación de los inmuebles que requieren atención inmediata.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Politécnico de Suramérica ofrece diplomados virtuales gratuitos para fortalecer habilidades",
+  "enlace": "https://caracol.com.co/2026/11/27/politecnico-de-suramerica-ofrece-diplomados-virtuales-gratuitos-para-fortalecer-habilidades/",
+  "fecha": "2026-11-27T15:11:09-05:00",
+  "palabras": "",
+  "lead": "Los diplomados virtuales gratis del Politécnico de Suramérica forman parte de las opciones disponibles para estudiantes y trabajadores interesados en complementar su perfil profesional.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Rafael Martínez calificó de sospechosa la captura de Caicedo y señaló presunta persecución judicial",
+  "enlace": "https://caracol.com.co/2026/11/27/rafael-martinez-califico-de-sospechosa-la-captura-de-caicedo-y-senalo-presunta-persecucion-judicial/",
+  "fecha": "2026-11-27T15:09:04-05:00",
+  "palabras": "",
+  "lead": "El exgobernador del Magdalena aseguró que Caicedo no ha sido condenado y cuestionó que se ordenara su detención pese a que, según afirmó, había manifestado su disposición de comparecer ante la Fiscalía.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Concejo de Bogotá se suma a la austeridad: no habrá fiestas de fin de año",
+  "enlace": "https://caracol.com.co/2026/11/27/concejo-de-bogota-se-suma-a-la-austeridad-no-habra-fiestas-de-fin-de-ano/",
+  "fecha": "2026-11-27T15:04:52-05:00",
+  "palabras": "",
+  "lead": "El Concejo, presidido por Humberto Amín, tomó la decisión en respaldo a las directrices de austeridad del gobierno. Se buscaran alternativas para reconocer la labor de los funcionarios.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "Caracol Radio",
+  "titulo": "Tunja destinaría entre $7.000 y $7.500 millones para el Aguinaldo Boyacense y la Navidad",
+  "enlace": "https://caracol.com.co/2026/11/27/tunja-destinaria-entre-7000-y-7500-millones-para-el-aguinaldo-boyacense-y-la-navidad/",
+  "fecha": "2026-11-27T15:03:48-05:00",
+  "palabras": "",
+  "lead": "El alcalde Rafael Acevedo señaló que la inversión prevista para las celebraciones de fin de año sería aproximadamente la mitad de lo contemplado en la contratación anterior. La programación oficial del Aguinaldo se conocerá la próxima semana.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Banco Popular lanza su campaña de Navidad",
+  "enlace": "https://www.lafm.com.co/sociedad/banco-popular-lanza-su-campana-de-navidad-418516",
+  "fecha": "2026-11-27T16:58:00-05:00",
+  "palabras": "Sociedad,Bancos colombianos,Navidad,publicidad,entidad bancaria,regalos,Diciembre,fin de año,familia",
+  "lead": "Con los años, uno entiende que las mejores cosas de la vida no son cosas.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Ideam mantiene alerta naranja  fuertes vientos oleaje",
+  "enlace": "https://www.lafm.com.co/actualidad/caribe-colombiano-alerta-cuatro-departamentos-fuertes-vientos-418545",
+  "fecha": "2026-11-27T16:56:00-05:00",
+  "palabras": "Actualidad,Vientos,Fuerte oleaje,Alerta,Región Caribe,Caribe,Vigilancia,Sistema de Alertas Tempranas,Lluvias,Atlántico,Sur de Bolívar",
+  "lead": "Vientos de hasta 44 kilómetros por hora ponen en alerta a cuatro departamentos del Caribe colombiano, la advertencia la hace el Ideam.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "MinComercio anuncia fin de aranceles de EE.UU. a Colombia",
+  "enlace": "https://www.lafm.com.co/economia/aranceles-estados-unidos-acuerdo-colombia-ministro-de-comercio-418544",
+  "fecha": "2026-11-27T16:47:00-05:00",
+  "palabras": "Economía,Aranceles,Estados Unidos,Ministerio de Hacienda y Crédito Público,comercio",
+  "lead": "El funcionario señaló que la meta es que la mayoría de los productos enviados a ese país ingresen con arancel del 0%.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Anthropic sube 11% y cotiza por encima de precio de salida",
+  "enlace": "https://www.lafm.com.co/internacional/anthropic-sube-11-vuelve-cotizar-encima-precio-salida-418543",
+  "fecha": "2026-11-27T16:46:00-05:00",
+  "palabras": "Internacional,Bolsa de valores,Inteligencia artificial,NVIDIA,Dow Jones,Mercados bursátiles,ofertas Black Friday,descuentos en el black friday,Mercado laboral,Tecnología",
+  "lead": "El regreso de Huang al mando de la empresa el lunes, apenas dos semanas después de su dimisión, ayudó al mercado a recuperarse.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SENA ofrece más de 60.000 cupos para estudiar gratis en 2027",
+  "enlace": "https://www.lafm.com.co/sociedad/sena-cupos-programas-gratuitos-formacion-2027-418541",
+  "fecha": "2026-11-27T16:42:00-05:00",
+  "palabras": "Sociedad,SENA,Educación,becas,Ministerio de Educación",
+  "lead": "La entidad habilitó cerca de 300 opciones de formación en diferentes áreas. Los aspirantes podrán presentar su solicitud hasta el 2 de diciembre de 2026.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "SpaceX podrá lanzar un millón de satélites al espacio",
+  "enlace": "https://www.lafm.com.co/internacional/spacex-recibe-autorizacion-lanzar-un-millon-satelites-construir-centros-datos-ia-espacio-418535",
+  "fecha": "2026-11-27T16:32:00-05:00",
+  "palabras": "Internacional,SpaceX,Inteligencia artificial,satélite,Starlink,Elon Musk,Estación Espacial Internacional,cohete,Paneles solares,Vía Láctea,Tecnología",
+  "lead": "SpaceX espera tener su primera puesta en órbita a finales de 2027 y aumentar el ritmo en 2028.",
+  "seccion": "internacional",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "\"Distrito refuerza campaña Medellín sin Pólvora con 'Adoptatón' y manifiesto por los animales\"",
+  "enlace": "https://www.lafm.com.co/sociedad/distrito-refuerza-campana-medellin-sin-polvora-con-adoptaton-y-manifiesto-por-los-animales-418536",
+  "fecha": "2026-11-27T16:19:00-05:00",
+  "palabras": "Sociedad,Animales,Celebraciones,Navidad,Diciembre,Juegos con pólvora,Juegos pirotécnicos,Fuegos artificiales,Salubridad,cuidados especiales,preventa",
+  "lead": "Contenido patrocinado",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Alcalde de Puerto Colombia y congresista se van de frente",
+  "enlace": "https://www.lafm.com.co/politica/barranquilla-puerto-colombia-cruce-senalamientos-alcalde-congresista-418539",
+  "fecha": "2026-11-27T16:11:00-05:00",
+  "palabras": "Política,Alcaldía de Barranquilla,Barranquilla,Plan de Ordenamiento Territorial,Comisión Séptima de la Cámara de Representantes,debate político,Barrios afectados,Conflicto de intereses,polémica",
+  "lead": "Un fuerte cruce entre el Estefanel Gutiérrez y el alcalde Plinio Cedeño marcó el debate sobre límites entre Barranquilla y Puerto Colombia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Emergencia ambiental por minería ilegal en el río Nechí",
+  "enlace": "https://www.lafm.com.co/actualidad/antioquia-emergencia-ambiental-mineria-rio-nechi-gradas-418538",
+  "fecha": "2026-11-27T16:07:00-05:00",
+  "palabras": "Actualidad,Medio ambiente,Agencia Nacional de Minería,Minería,Antioquia,Brasil,Ministerio de Minas y Energía",
+  "lead": "La problemática tiene influencia directa en los municipios antioqueños de Nechí, El Bagre, Zaragoza y Caucasia.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Asesinan a policía en ataque con drones en Arenal, Bolívar",
+  "enlace": "https://www.lafm.com.co/orden-publico/bolivar-colombia-asesinan-subteniente-policia-drones-explosivos-arenal-418537",
+  "fecha": "2026-11-27T15:57:00-05:00",
+  "palabras": "Orden Público,Ataque a la fuerza publica,Drones,Sur de Bolívar,Ataque a uniformados,Policía Nacional,Magdalena Medio",
+  "lead": "Fuentes consultadas por LA FM confirmaron un nuevo ataque con drones explosivos en la cabecera municipal. En julio pasado ocurrió otro atentado.",
+  "seccion": "alto",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Cuatro mineros permanecen atrapados Remedios, Antioquia",
+  "enlace": "https://www.lafm.com.co/sociedad/mineros-atrapados-remedios-antioquia-derrumbe-418534",
+  "fecha": "2026-11-27T15:33:00-05:00",
+  "palabras": "Sociedad,Minería,Agencia Nacional de Minería,Remedios caseros,Antioquia",
+  "lead": "La Alcaldía Municipal informó que articula la atención de la emergencia con la Agencia Nacional de Minería.",
+  "seccion": "otras",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario solidario: la propuesta de De La Espriella",
+  "enlace": "https://www.lafm.com.co/politica/de-la-espriella-propone-salario-solidario-informales-cajas-de-compensacion-418533",
+  "fecha": "2026-11-27T15:05:00-05:00",
+  "palabras": "Política,Abelardo de la Espriella,Ingreso solidario,Salario Mínimo,Cajas de Compensación Familiar,Prestaciones sociales,Aumento salarial,Inversión social,Marco fiscal,Propuestas",
+  "lead": "El jefe de Estado planteó ante las cajas de compensación que parte del alza salarial llegue a los informales más pobres.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Salario mínimo 2027: se instala la mesa con cifras del Dane",
+  "enlace": "https://www.lafm.com.co/economia/salario-minimo-2027-quedo-instalada-la-mesa-y-dane-revelo-caida-de-quienes-ganan-un-minimo-418532",
+  "fecha": "2026-11-27T15:03:00-05:00",
+  "palabras": "Economía,Salario Mínimo,Aumento salarial,Negociación,Ministerio del Trabajo,Censo Dane,Actividad económica,Situación económica,productividad,Desempleo,Medidas económicas",
+  "lead": "Más de 12,6 millones ganan menos de un mínimo. Acopi pide un alza de un dígito y la CUT revisará los datos sobre empleo.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Prosperidad Social liberará estrategia de Gobierno",
+  "enlace": "https://www.lafm.com.co/sociedad/prosperidad-social-estrategia-pobreza-colombianos-418531",
+  "fecha": "2026-11-27T14:58:00-05:00",
+  "palabras": "Sociedad,Departamento de Prosperidad Social,Dane,Pobreza,Equidad de género,Abelardo de la Espriella",
+  "lead": "La entidad asumirá la secretaría técnica de la Mesa de Equidad para coordinar a los ministerios dentro del plan 'Milagro Social', con el objetivo de reduci...",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Perú, Chile y Venezuela buscan atraer inversión colombiana",
+  "enlace": "https://www.lafm.com.co/economia/colombia-congreso-infraestructura-peru-chile-venezuela-portafolios-ingenieria-418530",
+  "fecha": "2026-11-27T14:53:00-05:00",
+  "palabras": "Economía,infraestructura,Perú,Chile,Venezuela,inversión,obras en vías,Cartagena",
+  "lead": "En la jornada de cierre del XXIII Congreso Nacional de Infraestructura en Cartagena se evidenció atractivo de los mercados vecinos.",
+  "seccion": "politica",
+  "nueva": true,
+  "tambien": []
+ },
+ {
+  "medio": "La FM",
+  "titulo": "Autoridads inspeccionan paquete y descartan explosivos",
+  "enlace": "https://www.lafm.com.co/orden-publico/autoridades-descartan-nueva-amenaza-bomba-centro-bogota-418529",
+  "fecha": "2026-11-27T14:47:00-05:00",
+  "palabras": "Orden Público,Inseguridad,Antiexplosivos,Alerta de seguridad,Bandas de crimen organizado",
+  "lead": "Después de la revisión, las autoridades concluyeron que se trataba de una caja que se encontraba vacía y no representaba ningún riesgo.",
+  "seccion": "otras",
   "nueva": true,
   "tambien": []
  }
